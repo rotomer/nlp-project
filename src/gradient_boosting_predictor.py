@@ -1,4 +1,3 @@
-import logging
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -9,13 +8,17 @@ import pandas as pd
 from joblib import load, dump
 from numpy.core.multiarray import ndarray
 from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import f1_score, precision_score, accuracy_score, recall_score
 from sklearn.model_selection import RandomizedSearchCV, train_test_split
+
+from src.encoder import Encoder
+from src.simple_encoder import SimpleEncoder
 
 
 @dataclass(frozen=True)
 class Model:
     classifier: GradientBoostingClassifier
+    encoders: List[Encoder]
 
 
 class GradientBoostingPredictor(object):
@@ -23,11 +26,14 @@ class GradientBoostingPredictor(object):
     def __init__(self,
                  model: Model):
         self._classifier = model.classifier
+        self._encoders = model.encoders
 
     def predict(self,
                 df: pd.DataFrame,
                 feature_column_names: Iterable[str],
                 target_column_name: str) -> pd.DataFrame:
+
+        self._encode_data_frame(df, self._encoders)
 
         X, y = self._create_X_y_data_frames(df, feature_column_names, target_column_name)
         output = self._classifier.predict(X)
@@ -38,17 +44,22 @@ class GradientBoostingPredictor(object):
     def create_predictor_from_training(training_df: pd.DataFrame,
                                        feature_column_names: List[str],
                                        target_column_name: str,
+                                       encoded_column_names: List[str],
                                        should_optimize: bool = False,
                                        should_train_test_split: bool = False):
         """
         :param training_df: input data frame to train upon. See sample input csv and query for more info.
         :param feature_column_names: column names that should be used for the prediction.
         :param target_column_name: the column we wish to predict.
+        :param encoded_column_names: String columns which require encoding.
         :param should_optimize: true iff should perform randomized search cross validation to find best hyper
         parameters.
         :param should_train_test_split: true iff should train on only part of the input set and use the rest for
         validation.
         """
+
+        encoders = GradientBoostingPredictor._fit_encoders(training_df, encoded_column_names)
+        training_df = GradientBoostingPredictor._encode_data_frame(training_df, encoders)
 
         X, y = GradientBoostingPredictor._create_X_y_data_frames(training_df, feature_column_names, target_column_name)
 
@@ -59,7 +70,8 @@ class GradientBoostingPredictor(object):
         else:
             classifier = GradientBoostingPredictor._fit_classification_model(X, y, should_optimize)
 
-        return GradientBoostingPredictor(Model(classifier=classifier))
+        return GradientBoostingPredictor(Model(classifier=classifier,
+                                               encoders=encoders))
 
     @staticmethod
     def load_predictor_from_file(predictor_file_path: str):
@@ -69,7 +81,8 @@ class GradientBoostingPredictor(object):
 
     def persist_predictor_to_disk(self,
                                   predictor_file_path: str):
-        model = Model(classifier=self._classifier)
+        model = Model(classifier=self._classifier,
+                      encoders=self._encoders)
 
         filename = Path(predictor_file_path)
         filename.touch(exist_ok=True)
@@ -86,11 +99,25 @@ class GradientBoostingPredictor(object):
         plt.show()
 
     @staticmethod
+    def _fit_encoders(training_df: pd.DataFrame,
+                      encoded_column_names) -> List[Encoder]:
+        return [SimpleEncoder.create_by_fitting(training_df, encoded_column_name, 'Encoded' + encoded_column_name)
+                for encoded_column_name in encoded_column_names]
+
+    @staticmethod
+    def _encode_data_frame(df: pd.DataFrame,
+                           encoders: List[Encoder]) -> pd.DataFrame:
+        for encoder in encoders:
+            df = encoder.encode_data_frame(df)
+
+        return df
+
+    @staticmethod
     def _fit_classification_model(X_train: pd.DataFrame,
                                   y_train: ndarray,
                                   should_optimize: bool) -> GradientBoostingClassifier:
         start = datetime.now()
-        logging.info('started fitting the regression.')
+        print('started fitting the regression.')
         if should_optimize:
             base_model = GradientBoostingClassifier()
             param_dist = {"learning_rate": [0.01, 0.05],
@@ -104,8 +131,8 @@ class GradientBoostingPredictor(object):
                                             scoring='neg_mean_squared_error', n_jobs=4)
             classifier.fit(X_train, y_train)
 
-            logging.info(classifier.best_score_)
-            logging.info(classifier.best_params_)
+            print(classifier.best_score_)
+            print(classifier.best_params_)
 
             classifier = classifier.best_estimator_
 
@@ -114,12 +141,12 @@ class GradientBoostingPredictor(object):
                       'max_depth': 4,
                       'min_samples_leaf': 3,
                       'min_samples_split': 2,
-                      'loss': 'huber',
+                     # 'loss': 'huber', # TODO
                       'n_estimators': 500}
             classifier = GradientBoostingClassifier(**params)
             classifier.fit(X_train, y_train)
 
-            logging.info('finished fitting the regression. minutes elapsed: %.2f' %
+            print('finished fitting the regression. minutes elapsed: %.2f' %
                          ((datetime.now() - start).total_seconds() / 60))
 
         return classifier
@@ -142,10 +169,17 @@ class GradientBoostingPredictor(object):
                   classifier: GradientBoostingClassifier):
         output = classifier.predict(X_test)
 
-        mse = mean_squared_error(y_test, output)
-        logging.info("MSE: %.4f" % mse)
-        r2 = r2_score(y_test, output)
-        logging.info("R^2: %.4f" % r2)
+        accuracy = accuracy_score(y_test, output)
+        print('Accuracy: %.4f' % accuracy)
+
+        precision = precision_score(y_test, output)
+        print('Precision: %.4f' % precision)
+
+        recall = recall_score(y_test, output)
+        print('Recall: %.4f' % recall)
+
+        f1 = f1_score(y_test, output)
+        print('F1: %.4f' % f1)
 
     @staticmethod
     def _create_output_data_frame(df: pd.DataFrame,

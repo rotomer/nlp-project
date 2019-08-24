@@ -1,0 +1,159 @@
+import logging
+from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+from typing import Iterable, Union, List, Tuple
+
+import matplotlib.pylab as plt
+import pandas as pd
+from joblib import load, dump
+from numpy.core.multiarray import ndarray
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.model_selection import RandomizedSearchCV, train_test_split
+
+
+@dataclass(frozen=True)
+class Model:
+    classifier: GradientBoostingClassifier
+
+
+class GradientBoostingPredictor(object):
+
+    def __init__(self,
+                 model: Model):
+        self._classifier = model.classifier
+
+    def predict(self,
+                df: pd.DataFrame,
+                feature_column_names: Iterable[str],
+                target_column_name: str) -> pd.DataFrame:
+
+        X, y = self._create_X_y_data_frames(df, feature_column_names, target_column_name)
+        output = self._classifier.predict(X)
+
+        return self._create_output_data_frame(df, y, output)
+
+    @staticmethod
+    def create_predictor_from_training(training_df: pd.DataFrame,
+                                       feature_column_names: List[str],
+                                       target_column_name: str,
+                                       should_optimize: bool = False,
+                                       should_train_test_split: bool = False):
+        """
+        :param training_df: input data frame to train upon. See sample input csv and query for more info.
+        :param feature_column_names: column names that should be used for the prediction.
+        :param target_column_name: the column we wish to predict.
+        :param should_optimize: true iff should perform randomized search cross validation to find best hyper
+        parameters.
+        :param should_train_test_split: true iff should train on only part of the input set and use the rest for
+        validation.
+        """
+
+        X, y = GradientBoostingPredictor._create_X_y_data_frames(training_df, feature_column_names, target_column_name)
+
+        if should_train_test_split:
+            X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+            classifier = GradientBoostingPredictor._fit_classification_model(X_train, y_train, should_optimize)
+            GradientBoostingPredictor._validate(X_test, y_test, classifier)
+        else:
+            classifier = GradientBoostingPredictor._fit_classification_model(X, y, should_optimize)
+
+        return GradientBoostingPredictor(Model(classifier=classifier))
+
+    @staticmethod
+    def load_predictor_from_file(predictor_file_path: str):
+        model = load(predictor_file_path)
+
+        return GradientBoostingPredictor(model)
+
+    def persist_predictor_to_disk(self,
+                                  predictor_file_path: str):
+        model = Model(classifier=self._classifier)
+
+        filename = Path(predictor_file_path)
+        filename.touch(exist_ok=True)
+        dump(model, filename)
+
+    def show_feature_importance_plot(self,
+                                     df: pd.DataFrame,
+                                     feature_column_names: Iterable[str]):
+        feature_cols = [col for col in df.columns if col in feature_column_names]
+        feat_imp = pd.Series(self._classifier.feature_importances_, feature_cols).sort_values(ascending=False)
+        feat_imp.plot(kind='bar', title='Feature Importances')
+        plt.ylabel('Feature Importance Score')
+
+        plt.show()
+
+    @staticmethod
+    def _fit_classification_model(X_train: pd.DataFrame,
+                                  y_train: ndarray,
+                                  should_optimize: bool) -> GradientBoostingClassifier:
+        start = datetime.now()
+        logging.info('started fitting the regression.')
+        if should_optimize:
+            base_model = GradientBoostingClassifier()
+            param_dist = {"learning_rate": [0.01, 0.05],
+                          "max_depth": [3, 4],
+                          "min_samples_leaf": [3, 4],
+                          'min_samples_split': [2, 3],
+                          'loss': ['ls', 'huber'],
+                          'n_estimators': [500, 1000]}
+
+            classifier = RandomizedSearchCV(base_model, param_dist, cv=10, n_iter=10, random_state=5, verbose=2,
+                                            scoring='neg_mean_squared_error', n_jobs=4)
+            classifier.fit(X_train, y_train)
+
+            logging.info(classifier.best_score_)
+            logging.info(classifier.best_params_)
+
+            classifier = classifier.best_estimator_
+
+        else:
+            params = {'learning_rate': 0.01,
+                      'max_depth': 4,
+                      'min_samples_leaf': 3,
+                      'min_samples_split': 2,
+                      'loss': 'huber',
+                      'n_estimators': 500}
+            classifier = GradientBoostingClassifier(**params)
+            classifier.fit(X_train, y_train)
+
+            logging.info('finished fitting the regression. minutes elapsed: %.2f' %
+                         ((datetime.now() - start).total_seconds() / 60))
+
+        return classifier
+
+    @staticmethod
+    def _create_X_y_data_frames(df: pd.DataFrame,
+                                feature_column_names: Iterable[str],
+                                target_column_name: str) -> Tuple[pd.DataFrame, ndarray]:
+        feature_cols = [col for col in df.columns if col in feature_column_names]
+        target_cols = [col for col in df.columns if col in [target_column_name]]
+
+        X = df[feature_cols]
+        y = df[target_cols].values.ravel()
+
+        return X, y
+
+    @staticmethod
+    def _validate(X_test: Union[pd.DataFrame, None],
+                  y_test: Union[ndarray, None],
+                  classifier: GradientBoostingClassifier):
+        output = classifier.predict(X_test)
+
+        mse = mean_squared_error(y_test, output)
+        logging.info("MSE: %.4f" % mse)
+        r2 = r2_score(y_test, output)
+        logging.info("R^2: %.4f" % r2)
+
+    @staticmethod
+    def _create_output_data_frame(df: pd.DataFrame,
+                                  actual: ndarray,
+                                  prediction_output: ndarray) -> pd.DataFrame:
+        output_df = df.assign(Actual=pd.Series(actual).values,
+                              Predicted=pd.Series(prediction_output).values)
+
+        output_df['Predicted'] = output_df.apply(lambda row: round(row['Predicted']), axis=1)
+
+        return output_df

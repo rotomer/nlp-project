@@ -3,6 +3,11 @@
     <words>
       <w>beautifulsoup</w>
       <w>gitignore</w>
+      <w>importances</w>
+      <w>joblib</w>
+      <w>matplotlib</w>
+      <w>regressor</w>
+      <w>scikit</w>
     </words>
   </dictionary>
 </component>

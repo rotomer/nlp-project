@@ -8,6 +8,7 @@
       <w>matplotlib</w>
       <w>regressor</w>
       <w>scikit</w>
+      <w>textblob</w>
     </words>
   </dictionary>
 </component>

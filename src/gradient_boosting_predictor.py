@@ -64,7 +64,7 @@ class GradientBoostingPredictor(object):
         X, y = GradientBoostingPredictor._create_X_y_data_frames(training_df, feature_column_names, target_column_name)
 
         if should_train_test_split:
-            X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+            X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y)
             classifier = GradientBoostingPredictor._fit_classification_model(X_train, y_train, should_optimize)
             GradientBoostingPredictor._validate(X_test, y_test, classifier)
         else:

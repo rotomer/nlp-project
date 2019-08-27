@@ -2,9 +2,10 @@ import datetime
 
 import os
 
+from src.tickers import TICKERS
+
 
 def index_eps_data(ticker, input_file_path, output_dir):
-
     with open(input_file_path, 'r') as input_file:
         date = None
         text = None
@@ -27,6 +28,14 @@ def index_eps_data(ticker, input_file_path, output_dir):
 
 
 def _output_text_to_file(output_dir, ticker, date, text):
+    if ticker not in TICKERS:
+        return
+
+    if date is None or \
+            (datetime.date(year=2002, month=1, day=1) > date) or \
+            (date > datetime.date(year=2013, month=1, day=1)):
+        return
+
     ticker_indexed_8k_dir = os.path.join(output_dir, ticker)
     if not os.path.exists(ticker_indexed_8k_dir):
         os.makedirs(ticker_indexed_8k_dir)
@@ -42,7 +51,7 @@ if __name__ == '__main__':
     input_8k_dir = os.path.join(current_file_dir_path, '..', 'data', '8K', '')
 
     for file_name in os.listdir(input_8k_dir):
-        #f file_name == 'AAPL':
+        #if file_name == 'AAPL':
         print('Indexing: ' + file_name + '...')
         input_file_path = os.path.join(input_8k_dir, file_name)
         index_eps_data(file_name, input_file_path, indexed_8k_dir)

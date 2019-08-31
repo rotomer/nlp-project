@@ -1,14 +1,8 @@
 <component name="ProjectDictionaryState">
   <dictionary name="rotomer">
     <words>
-      <w>beautifulsoup</w>
-      <w>gitignore</w>
-      <w>importances</w>
-      <w>joblib</w>
-      <w>matplotlib</w>
-      <w>regressor</w>
-      <w>scikit</w>
-      <w>textblob</w>
+      <w>nltk</w>
+      <w>pytorch</w>
     </words>
   </dictionary>
 </component>

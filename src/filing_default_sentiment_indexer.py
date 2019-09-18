@@ -3,7 +3,7 @@ import os
 from textblob import TextBlob
 
 
-def index_sentiment_data(ticker, input_dir, output_dir):
+def _index_sentiment_data(ticker, input_dir, output_dir):
     indexed_sentiment_file_path = os.path.join(output_dir, ticker + '.csv')
     with open(indexed_sentiment_file_path, 'w') as indexed_sentiment_file:
 
@@ -22,16 +22,20 @@ def index_sentiment_data(ticker, input_dir, output_dir):
                 indexed_sentiment_file.write(date_str + ',' + polarity_str + ',' + subjectivity_str + '\n')
 
 
-if __name__ == '__main__':
+def index_sentiment(filing_number):
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_8K')
-    sentiment_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Sentiment_8K')
+    indexed_filing_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_' + filing_number + 'K')
+    sentiment_filing_dir = os.path.join(current_file_dir_path, '..', 'data', 'Sentiment_' + filing_number + 'K')
 
-    if not os.path.exists(sentiment_8k_dir):
-        os.makedirs(sentiment_8k_dir)
+    if not os.path.exists(sentiment_filing_dir):
+        os.makedirs(sentiment_filing_dir)
 
-    for folder_name in os.listdir(indexed_8k_dir):
+    for folder_name in os.listdir(indexed_filing_dir):
         print('Indexing: ' + folder_name + '...')
-        input_dir_path = os.path.join(indexed_8k_dir, folder_name)
-        index_sentiment_data(folder_name, input_dir_path, sentiment_8k_dir)
+        input_dir_path = os.path.join(indexed_filing_dir, folder_name)
+        _index_sentiment_data(folder_name, input_dir_path, sentiment_filing_dir)
         print('Done.')
+
+
+if __name__ == '__main__':
+    index_sentiment('10')

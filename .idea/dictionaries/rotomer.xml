@@ -3,6 +3,7 @@
     <words>
       <w>nltk</w>
       <w>pytorch</w>
+      <w>retval</w>
     </words>
   </dictionary>
 </component>

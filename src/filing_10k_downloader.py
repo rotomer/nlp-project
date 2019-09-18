@@ -37,4 +37,5 @@ def download_files_from_edgar(ticker, filing_letter):
 if __name__ == '__main__':
     with ThreadPoolExecutor(max_workers=8) as executor:
         for ticker in TICKERS:
-            future = executor.submit(download_files_from_edgar, ticker, 'K')
+            if ticker == 'AET':
+                future = executor.submit(download_files_from_edgar, ticker, 'K')

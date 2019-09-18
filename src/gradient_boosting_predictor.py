@@ -137,12 +137,12 @@ class GradientBoostingPredictor(object):
             classifier = classifier.best_estimator_
 
         else:
-            params = {'learning_rate': 0.01,
-                      'max_depth': 4,
+            params = {'learning_rate': 0.005,
+                      'max_depth': 5,
                       'min_samples_leaf': 3,
                       'min_samples_split': 2,
                      # 'loss': 'huber', # TODO
-                      'n_estimators': 500}
+                      'n_estimators': 1000}
             classifier = GradientBoostingClassifier(**params)
             classifier.fit(X_train, y_train)
 

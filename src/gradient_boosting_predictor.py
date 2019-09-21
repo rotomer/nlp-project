@@ -141,7 +141,6 @@ class GradientBoostingPredictor(object):
                       'max_depth': 5,
                       'min_samples_leaf': 3,
                       'min_samples_split': 2,
-                     # 'loss': 'huber', # TODO
                       'n_estimators': 1000}
             classifier = GradientBoostingClassifier(**params)
             classifier.fit(X_train, y_train)

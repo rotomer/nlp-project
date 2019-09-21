@@ -1,6 +1,4 @@
-import datetime
 import os
-from time import strptime
 
 import pandas as pd
 
@@ -12,33 +10,33 @@ feature_column_names_8k = [
     'EPS_Surprise_Percentage',
     'Days_Since_EPS',
 
-    # 'Polarity',
-    # 'Subjectivity',
-    #
-    # 'Negative',
-    # 'Positive',
-    # 'Uncertainty',
-    # 'Litigious',
-    # 'Constraining',
-    # 'Superfluous',
-    # 'Interesting',
-    # 'Modal',
-    # 'WordCount',
-    #
-    # 'CEO_Departure',
-    # 'CFO_Departure'
-    #
-    # 'Avg_Polarity',
-    # 'Avg_Subjectivity',
-    # 'Avg_Negative',
-    # 'Avg_Positive',
-    # 'Avg_Litigious',
-    # 'Avg_Constraining',
-    # 'Avg_Superfluous',
-    # 'Avg_Modal',
-    # 'Avg_WordCount',
-    # 'Avg_CEO_Departure',
-    # 'Avg_CFO_Departure'
+    'Polarity',
+    'Subjectivity',
+
+    'Negative',
+    'Positive',
+    'Uncertainty',
+    'Litigious',
+    'Constraining',
+    'Superfluous',
+    'Interesting',
+    'Modal',
+    'WordCount',
+
+    'CEO_Departure',
+    'CFO_Departure'
+
+    'Avg_Polarity',
+    'Avg_Subjectivity',
+    'Avg_Negative',
+    'Avg_Positive',
+    'Avg_Litigious',
+    'Avg_Constraining',
+    'Avg_Superfluous',
+    'Avg_Modal',
+    'Avg_WordCount',
+    'Avg_CEO_Departure',
+    'Avg_CFO_Departure'
 ]
 
 feature_column_names_10k = [
@@ -46,32 +44,32 @@ feature_column_names_10k = [
 
     'EPS_Surprise_Percentage',
     'Days_Since_EPS',
-    #
-    # 'Polarity',
-    # 'Subjectivity',
-    #
-    # 'Negative',
-    # 'Positive',
-    # 'Uncertainty',
-    # 'Litigious',
-    # 'Constraining',
-    # 'Superfluous',
-    # 'Interesting',
-    # 'Modal',
-    # 'WordCount',
-    #
-    # 'Cosine'
-    #
-    # 'Avg_Polarity',
-    # 'Avg_Subjectivity',
-    # 'Avg_Negative',
-    # 'Avg_Positive',
-    # 'Avg_Litigious',
-    # 'Avg_Constraining',
-    # 'Avg_Superfluous',
-    # 'Avg_Modal',
-    # 'Avg_WordCount',
-    # 'Avg_Cosine'
+
+    'Polarity',
+    'Subjectivity',
+
+    'Negative',
+    'Positive',
+    'Uncertainty',
+    'Litigious',
+    'Constraining',
+    'Superfluous',
+    'Interesting',
+    'Modal',
+    'WordCount',
+
+    'Cosine'
+
+    'Avg_Polarity',
+    'Avg_Subjectivity',
+    'Avg_Negative',
+    'Avg_Positive',
+    'Avg_Litigious',
+    'Avg_Constraining',
+    'Avg_Superfluous',
+    'Avg_Modal',
+    'Avg_WordCount',
+    'Avg_Cosine'
 
 ]
 

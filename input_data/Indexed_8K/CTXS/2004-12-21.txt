@@ -1,0 +1,117 @@
+FILE:CTXS/CTXS-8K-20041221075930.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Termination of a Material Definitive Agreement	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Termination of a Material Definitive Agreement
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On December 21, 2004, Citrix Systems, Inc., a Delaware corporation ("Citrix"), announced a technology collaboration agreement (the "Collaboration Agreement") with Microsoft Corporation, a Washington corporation ("Microsoft"). In conjunction with the Collaboration Agreement, Citrix and Microsoft entered into a Microsoft Master Source Code Agreement (the "2004 Source Code Agreement") and a License Form, each dated December 16, 2004 (together with the 2004 Source Code Agreement, the "2004 License Agreements"). The 2004 License Agreements renew Citrix's access to source code for current versions of Microsoft Windows Server that had previously been provided to Citrix pursuant to the Microsoft Master Source Code Agreement between Citrix and Microsoft dated May 15, 2002 (the "2002 Source Code Agreement") and the License Form between Citrix and Microsoft dated May 15, 2002 (together with the 2002 Source Code Agreement, the "2002 License Agreements"). More information about the 2002 License Agreements is included in Item 1.02 below. There are no material relationships among Citrix, Microsoft or their respective affiliates or any of the parties to the 2004 License Agreements and related agreements, other than in respect of such agreements themselves.
+ 
+The 2004 License Agreements permit Citrix, during the five-year term of such agreements, to use source code for Microsoft Windows Server 2000 and Windows Server 2003, including terminal services source code and future versions of Windows Server 2003 (collectively, "Microsoft Source Code"), for purposes of developing Citrix's terminal services and client software products. Microsoft may terminate the 2004 License Agreements before the expiration date of the five-year term for a material breach by Citrix and upon a change of control of Citrix. The 2004 License Agreements do not provide for payments to or from Microsoft.
+ 
+Item 1.02. Termination of a Material Definitive Agreement.
+ 
+On December 16, 2004, Citrix and Microsoft terminated the 2002 License Agreements, which were originally scheduled to expire on May 15, 2005 pursuant to their terms. The 2002 License Agreements formalized Citrix's access to source code for Microsoft Windows Server 2000 and future server operating systems, including access to terminal services source code. The 2002 License Agreements did not provide for payments to or from Microsoft. Simultaneously with the termination of the 2002 License Agreements, Citrix and Microsoft entered into the 2004 License Agreements described in Item 1.01 above in order to renew the arrangements established by the 2002 License Agreements. The Collaboration Agreement provides for access by Citrix to the source code for the forthcoming version of Microsoft Windows Server codenamed "Longhorn".
+ 
+There are no material relationships among Citrix, Microsoft or their respective affiliates or any of the parties to the 2002 License Agreements and related agreements, other than in respect of such agreements themselves. Citrix incurred no early termination penalties in connection with the termination of the 2002 License Agreements.
+ 
+ 
+Item 7.01. Regulation FD Disclosure.
+ 
+On December 21, 2004, Citrix issued a press release announcing the execution of the Collaboration Agreement and related agreements. A copy of the press release is attached hereto and furnished herewith as Exhibit 99.1.
+ 
+ 
+Item 9.01. Financial Statements and Exhibits.
+ 
+ 
+Not applicable.
+ 
+ 
+Not applicable.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+FOR IMMEDIATE RELEASE
+ 
+For media inquiries, contact:
+Sabrina Rios, Citrix Systems, Inc.
+(954) 267-2529 or sabrina.rios@citrix.com
+James Boike, A&R Partners
+212-905-6157 or jboike@arpartners.com
+For Citrix product information: 1-800-437-7503
+ 
+ 
+ 
+ Citrix Systems, Inc. (Nasdaq: CTXS), the global leader in access infrastructure solutions, today announced an agreement with Microsoft Corporation that enables Citrix to deliver more comprehensive access solutions on the Windows platform and will improve the access capabilities available in the forthcoming version of Windows Server codenamed "Longhorn."
+FORT LAUDERDALE, Fla.  December 21, 2004
+ 
+Specifically, the agreement with Microsoft Corp.:
+ 
+ 
+ 
+ 
+The five-year agreement paves the way for further improvements in the Citrix MetaFrame Access Suite, which runs on Microsoft Windows Terminal Server. For existing customers, the agreement will provide enhanced collaboration to achieve continuity to migrate to MetaFrame Presentation Server on Windows "Longhorn" Server.
+ 
+"This is an exciting agreement that will help us better serve our customers' access needs through the next generation of Microsoft's Windows Server operating system," said Mark Templeton, president and chief executive officer for Citrix. "Improved integration with Microsoft's server operating systems will help us deliver solutions that are simpler to implement and manage, and will provide a smooth migration path for our mutual customers.
+ 
+ADD
+Citrix and Microsoft Sign Technology Collaboration and Licensing Agreement
+Page 2
+ 
+"Today's agreement continues a long partnership with Microsoft that has helped Citrix successfully extend Microsoft solutions to over 120,000 enterprises through innovation and partnership. From an industry standpoint, Citrix believes this kind of patent and technology licensing agreement is a driver of innovation in the software ecosystem that, in the end, delivers great value to customers."
+ 
+"We are excited to expand our business relationship with Citrix Systems in order to better serve our customers," said Bob Muglia, senior vice president, Microsoft Windows Server Division. "This collaboration will result in an improved and more extensible Windows Server platform for ISVs that broadens the solutions for Windows Server and ensures that Windows "Longhorn" Server will be the best platform for access solutions available in the market. Furthermore, this technology and patent licensing agreement provides an important context for our collaboration with Citrix."
+ 
+The agreement builds on a long history of collaboration between the two companies that began in 1997 when Citrix licensed components of its technology to Microsoft as the base for Microsoft's Terminal Server functionality. Over the years, Citrix and Microsoft have worked closely together on development initiatives, as well as marketing and sales efforts worldwide. Last year, Citrix was named Global ISV Partner of the Year' for Microsoft.
+ 
+About Citrix
+ 
+Citrix Systems, Inc. (Nasdaq:CTXS) is the global leader in access infrastructure solutions and the most trusted name in secure access for enterprises and individuals. Nearly 50 million people in more than 120,000 organizations around the world use Citrix every day. Our software gives people secure and well-managed access to business information wherever it liveson demand. Citrix customers include 100% of the 100 companies, 99% of the 500, and 92% of the Global 500. Based in Fort Lauderdale, Florida, Citrix has offices in 22 countries, and approximately 7,000 channel and alliance partners in more than 100 countries. For more information visit http://www.citrix.com.
+Fortune
+Fortune
+Fortune
+ 
+ADD
+Citrix and Microsoft Sign Technology Collaboration and Licensing Agreement
+Page 3
+ 
+For Citrix Investors
+ 
+This release contains forward-looking statements which are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934. The forward-looking statements in this release do not constitute guarantees of future performance. Investors are cautioned that statements in this press release, which are not strictly historical statements, including, without limitation, statements by management, statements regarding existing and new products, Citrix's customers, and Longhorn Server, and management's plans, objectives and strategies, constitute forward-looking statements. Such forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from those anticipated by the forward-looking statements, including, without limitation, the success of the company's product lines; the company's product concentration and its ability to develop and commercialize new products and services; the success of investments in foreign operations and vertical and geographic markets; the company's ability to successfully integrate the operations and employees of acquired companies, and the possible failure to achieve anticipated revenues and profits from acquisitions; the company's ability to maintain and expand its core business in large enterprise accounts; the company's ability to attract and retain small sized customers; the size, timing and recognition of revenue from significant orders; the effect of new accounting pronouncements on revenue and expense recognition; the company's reliance on and the success of the company's independent distributors and resellers for the marketing and distribution of the company's products and the success of the company's marketing and licensing programs, including the Advisor Rewards program; increased competition, changes in the company's pricing policies or those of its competitors; management of operations and operating expenses; charges in the event of the impairment of assets acquired through business combinations and licenses; the management of anticipated future growth and the recruitment and retention of qualified employees; competition and other risks associated with the market for our Web-based access, training and customer assistance products; as well as risks of downturns in economic conditions generally; political and social turmoil; and the uncertainty in and the effects of a weakened IT spending environment that has impacted the overall demand for software and related services; and other risks detailed in the company's filings with the Securities and Exchange Commission. Citrix assumes no obligation to update any forward-looking information contained in this press release or with respect to the announcements described herein.
+ 
+ 
+Citrix and MetaFrame are registered trademarks or trademarks of Citrix Systems, Inc. in the U.S. and other countries. Microsoft and Windows are registered trademarks of Microsoft Corporation in the U.S. and/or other countries. All other trademarks and registered trademarks are property of their respective owners.
+
+

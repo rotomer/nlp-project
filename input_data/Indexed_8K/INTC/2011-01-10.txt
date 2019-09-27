@@ -1,0 +1,390 @@
+FILE:INTC/INTC-8K-20110110161339.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 1.01                      Entry into a Material Definitive Agreement.
+ 
+ 
+On January 10, 2011, Intel Corporation (Intel) and NVIDIA Corporation (NVIDIA) entered into a patent cross license agreement with a capture period that runs until March 31, 2017. Under the patent cross license agreement, Intel receives a license to all of NVIDIAs patents. Under the agreement, NVIDIA products are licensed to Intel's patents subject to certain exclusions including exclusions for x86 products, certain chipsets, and certain flash memory technology products.The agreement also includes settlement of the existing litigation between the companies as well as broad mutual general releases. Further information regarding the disputes between Intel and NVIDIA that were resolved pursuant to the agreement is set forth in Note 24: Contingenci es; Legal Proceedings, in the Notes to Consolidated Condensed Financial Statements of Intels Form 10-Q for the quarter ending September 25, 2010, filed on November 2, 2010. In exchange, Intel will make payments totaling $1.5 billion, paying $300 million in January of 2011, 2012 and 2013 and $200 million in January 2014, 2015, and 2016. This obligation will be recognized as a liability totaling approximately $1.4 billion, on a discounted basis.  Intel recognized an expense of $100 million in the fourth-quarter of 2010, classified as marketing, general and administrative.  The remaining amount, approximately $1.3 billion, will be recognized as an intangible asset in the first quarter of 2011 and will be amortized into cost of sales over future periods.
+ 
+The foregoing information is a brief description of material terms and conditions of the agreement and is not intended to be a complete description of the agreement.  Interested persons should refer to the agreement for additional information.  A copy of the agreement is filed as Exhibit 10.1 to this Form 8-K.
+Item 7.01                      Regulation FD Disclosure.
+On January 10, 2011, Intel issued a press release regarding the cross license agreement with NVIDIA. The press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+Item 9.01                      Financial Statements and Exhibits.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Exhibit 10.1
+ 
+ 
+ 
+ 
+ 
+This Patent License Agreement () is entered into as of January 10, 2011 () by and between NVIDIA Corporation, a Delaware corporation, having an office at 2701 San Tomas Expressway, Santa Clara, California 95050 (), and Intel Corporation, a Delaware corporation, having an office at 2200 Mission College Blvd., Santa Clara, California 95052 () (each of NVIDIA and Intel being a  and together the 
+Agreement
+Effective Date
+NVIDIA
+Intel
+Party
+Parties).
+ 
+IN CONSIDERATION OF THE MUTUAL COVENANTS AND PROMISES CONTAINED HEREIN, THE PARTIES AGREE AS FOLLOWS:
+ 
+1.           
+Definitions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 2-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 3-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 4-
+ 
+ 
+securities) of such Person were such Person to have voting shares (or other voting securities).
+ 
+A Person shall be deemed to be a Qualified Subsidiary under this Agreement only so long as:
+ 
+ 
+ 
+ 
+For the sake of clarification only, the Parties acknowledge and agree that bona fide employee profit-sharing plans and bona fide arrangements, such as, incentive plans and executive bonuses shall not constitute an agreement to forfeit or transfer a Partys share of profits pursuant to subsection (c) above.
+ 
+ 
+ 
+ 
+ 
+A Person shall be deemed to be a Subsidiary under this Agreement only during the time that the requisite conditions of being a Subsidiary are met.
+ 
+- 5-
+ 
+ 
+ 
+ 
+2.           
+Mutual Releases
+ 
+ 
+ 
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.
+ 
+ 
+- 6-
+ 
+ 
+ 
+ 
+3.           
+Grant Of Rights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 7-
+ 
+ 
+ 
+For clarity, (i) the license granted to Intel under Section 3.1(a) includes the right of customers of Intel to use, sell, offer for sale, or otherwise dispose of Intel Licensed Products worldwide, and (ii) the licenses granted to NVIDIA under Sections 3.2(a) include the right of customers of NVIDIA to use, sell, offer for sale, or otherwise dispose of NVIDIA Licensed Products worldwide, in each case, regardless of the jurisdiction in which such Licensed Products were first sold or manufactured, to the same extent that the Patent Rights of the licensor Party in such Licensed Product would be deemed to have been exhausted under United States law if such Licensed Products were first sold in the United States.
+ 
+ 
+ 
+ 
+ 
+ 
+- 8-
+ 
+ 
+either Party may undertake on behalf of third parties (patent laundering activities). Similarly, the licenses provided under this Agreement are not intended to cover services provided by the parties to the extent that such services are provided to or on behalf of a third party using tangible or intangible materials provided by or on behalf of the third party. Accordingly, by way of clarification, the following guidelines are provided to aid the determination of whether a Partys product is a Licensed Product as defined herein or whether such product is disqualified from being a Licensed Product because circumstances surrounding the manufacture of the product suggest patent laundering.
+ 
+ 
+ 
+Notwithstanding anything contained in this Section 3.4 to the contrary, the provisions set forth in Section 3.4(a) and 3.4(b) that disqualify products manufactured by a Party or its Qualified Subsidiary from falling within the definition of Licensed Product shall not apply to manufacturing methods and processes that a Party or its Qualified Subsidiary may employ in the manufacture of foundry products for its foundry customers.
+ 
+ 
+ 
+ 
+ 
+- 9-
+ 
+ 
+Subsidiaries or third parties (to the extent legally possible) are licensed under this Agreement. Each Party further agrees to take all steps that are reasonable and in good faith under the circumstances to ensure that all Patents directed to inventions that are made in substantial part using funding provided directly or indirectly by that Party and/or its Subsidiaries are licensed under this Agreement.
+ 
+ 
+ 
+ 
+ 
+- 10-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 11-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 12-
+ 
+ 
+Sections 4.2(a) or 4.2(b), neither this Agreement nor any of the rights or licenses granted herein may be terminated for any reason.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 13-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 14-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 15-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For: NVIDIA Corporation
+Bank: [***]
+ 
+ 
+- 16-
+ 
+Beneficiary Name: NVIDIA Corporation
+Beneficiary Address: 2701 San Tomas Expressway, Santa Clara, CA 95050
+Account Number: [***]
+ABA routing Number: [***]
+ 
+Such payments shall be made in all circumstances, and are not contingent upon the occurrence or non-occurrence of any event, including without limitation a Change of Control, and will survive any termination of this Agreement for any reason.
+ 
+ 
+ 
+ 
+ 
+Notwithstanding anything else in this Agreement, NVIDIA Licensed Chipsets shall not include any Intel Chipsets that are capable of electrically interfacing directly (with or without buffering or pin, pad or bump reassignment) with an Intel Processor that has an integrated (whether on-die or in-package) main memory controller, such as, without limitation, the Intel Processor families that are code named Nehalem, Westmere and Sandy Bridge.
+ 
+ 
+Either Party may terminate the other Partys rights and licenses hereunder upon notice if the other Party commits a material breach of this Agreement and does not correct such breach within sixty (60) days after receiving written notice complaining thereof.
+ 
+ 
+- 17-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Such notices shall be deemed to have been served when received by addressee or, if delivery is not accomplished by reason of some fault of the addressee, when tendered
+ 
+- 18-
+ 
+ 
+for delivery. Either Party may give written notice of a change of address and, after notice of such change has been received, any notice or request shall thereafter be given to such Party as above provided at such changed address.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 19-
+ 
+ 
+embody the entire understanding of the parties with respect to the subject matter hereof, and merge all prior oral or written communications between them, and neither of the parties shall be bound by any conditions, definitions, warranties, understandings, or representations with respect to the subject matter hereof other than as expressly provided herein. No oral explanation or oral information by either Party hereto shall alter the meaning or interpretation of this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 20-
+ 
+ 
+enemies, strikes or other labor disturbances, fires, floods, acts of God, or any causes of like or different kind beyond the control of the parties.
+ 
+ 
+ 
+ 
+- 21-
+ 
+ 
+WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed on the date below written.
+ 
+- 22-
+ 
+ 
+IT IS HEREBY STIPULATED, pursuant to Chancery Court Rule 41(a), by counsel for the undersigned parties, that all claims and counterclaims asserted in the above-captioned action be, and hereby are, dismissed with prejudice.  Each Party shall bear its own costs.
+Dated:  January __, 2011
+SO ORDERED this ______ day of ____________________, 2011.
+________________________________
+The Honorable Leo E. Strine, Jr.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+888-587-0613 pass code 6023945)
+(Note to Editors:  A teleconference is scheduled with Intel general counsel Doug Melamed at 2:30 p.m.
+ 
+PST
+.
+Participants should call
+ 
+ 
+ 
+ 
+ 
+ 
+SANTA CLARA, Calif.  Jan. 10, 2011  Intel Corporation today announced that it has entered into a new comprehensive long-term patent cross license agreement with NVIDIA. The companies have also resolved pending litigation in Chancery Court in Wilmington, Del., ending all outstanding legal disputes between the companies.
+ 
+This agreement ends the legal dispute between the companies, preserves patent peace and provides protections that allow for continued freedom in product design, said Doug Melamed, Intel senior vice president and general counsel. It also enables the companies to focus their efforts on innovation and the development of new, innovative products.
+ 
+Under the transaction, Intel receives a license to NVIDIAs patents subject to the terms of the agreement. NVIDIA receives a license to Intels patents subject to the terms of the agreement, including that x86 and certain other products are not licensed to NVIDIA under the agreement.  Intel and NVIDIA have also exchanged broad releases for all legal claims, including any claims of breach of their previous license agreement.  Intel will pay NVIDIA $1.5 billion over the next 5 years.  This obligation will be recognized as a liability totaling approximately $1.4 billion, on a discounted basis.  Intel recognized an expense of $100 million in the fourth-quarter of 2010, classified as marketing, general and administrative. The remaining amount, approximately $1.3 billion, will be rec ognized as an intangible asset in the first quarter of 2011 and will be amortized into cost of sales over future periods.   With the exception of one agreement term that is confidential, the agreement will be made available in filings with the Securities and Exchange Commission, and can be viewed at .
+www.intel.com/pressroom/legal
+ 
+ 
+Intel (NASDAQ: INTC), the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at and .
+www.intel.com/pressroom
+blogs.intel.com
+ 
+ 
+Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.
+* Other names and brands may be claimed as the property of others.
+
+

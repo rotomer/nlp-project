@@ -1,0 +1,140 @@
+FILE:AIG/AIG-8K-20100129091309.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+     Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+     Due to the recent public disclosure of the full contents of Schedule A to the Shortfall Agreement, dated as of November 25, 2008, and as amended as of December 18, 2008, between Maiden Lane III LLC and AIG Financial Products Corp., American International Group, Inc. is filing this Amendment to Form 8-K in order to file an unredacted version of Schedule A. Pursuant to an SEC order granting confidential treatment, the information previously redacted from Schedule A qualified as confidential commercial or financial information under the Freedom of Information Act.
+     (d) Exhibits
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Exhibit 10.1
+EXECUTION VERSION
+     This Agreement, made and entered into as of November 25, 2008, by and between Maiden Lane III LLC., a Delaware limited liability company ("), and AIG Financial Products Corp., a Delaware corporation (").
+ML III"
+AIG-FP"
+WITNESSETH:
+     WHEREAS, as of October 31, 2008, AIG-FP was party to the derivative transactions listed on Schedule A hereto (the ""), with an aggregate notional value of $53,510,385,969;
+Derivative Transactions
+     WHEREAS, AIG-FP and ML III have entered into a termination agreement with each counterparty to the Derivative Transactions, each with a trade date of November 10, 2008 (the ""), whereby inter alia, each Derivative Transaction would be terminated and each of the parties to the Derivative Transactions would be released of all of its duties and obligations thereunder;
+Termination Agreements
+     WHEREAS, ML III has entered into a forward purchase agreement with each counterparty to the Derivative Transactions (the "") whereby ML III will purchase certain CDO Issues underlying the Derivative Transactions;
+Purchase Agreements
+     WHEREAS, ML III has entered into the Master Investment and Credit Agreement, dated as of November 25, 2008, with the Federal Reserve Bank of New York, American International Group, Inc. ("") and The Bank of New York Mellon (the "") in connection with obtaining certain loans and equity contributions to purchase the CDO Issues;
+AIG
+Master Investment and Credit Agreement
+     WHEREAS, ML III entered into the Purchase Agreements and the Master Investment and Credit Agreement in partial reliance on AIG-FP's promise to make the payments, if any, described herein and AIG-FP has entered into the Termination Agreements in partial reliance on ML III's promises to make the payments, if any, described herein;
+     WHEREAS, AIG-FP has delivered collateral to the counterparties to the Derivative Transactions (the "") as set forth on Schedule A hereto, as previously determined by ML III or its designee(s), in consultation with AIG-FP (with respect to each Derivative Transaction, the ""); and
+Counterparties
+Posted Collateral
+     WHEREAS, as of October 31, 2008, the difference between the notional value of each Derivative Transaction and the market value of the related CDO Issue, or portion of a CDO Issue, as applicable, underlying such Derivative Transaction was as set forth in Schedule A hereto under the heading "Negative Mark-to-Market," as previously determined by ML III or its designee(s), in consultation with AIG-FP (with respect to each Derivative Transaction, the "");
+Transaction Value
+     NOW, THEREFORE, in consideration of the mutual promises herein contained, the parties hereto agree as follows:
+     1. . Capitalized terms used, but not defined, herein shall have the meanings ascribed to them in the Purchase Agreements, or, if not defined therein, the Master Investment and Credit Agreement.
+Definitions
+     (a) "" means the fifth Business Day following the final Forward Closing Date, or such other date as may be agreed to by ML III and AIG-FP.
+Adjustment Date
+ 
+     (b) "" means, with respect to each Derivative Transaction, the amount by which (i) the Posted Collateral for the portion of the Derivative Transaction that terminated as a result of consummation of the transactions contemplated by the related Termination Agreement and Forward Purchase Agreement exceeds (ii) the Transaction Value for such consummated transactions.
+Collateral Excess Amount
+     (c) "" means, with respect to each Derivative Transaction, the amount by which (i) the Transaction Value for the portion of the Derivative Transaction that terminated as a result of consummation of the transactions contemplated by the related Termination Agreement and Forward Purchase Agreement exceeds (ii) the Posted Collateral for such portion of such terminated Derivatives Transaction.
+Collateral Shortfall Amount
+     2. .
+Adjustment Payments
+     (a) On the Adjustment Date, if the aggregate Collateral Excess Amounts exceed the aggregate Collateral Shortfall Amounts, ML III shall, on the Adjustment Date, pay or cause to be paid, in immediately available funds, the amount of such excess to AIG-FP.
+     (b) On the Adjustment Date, if the aggregate Collateral Shortfall Amounts exceed the aggregate Collateral Excess Amounts, AIG-FP shall pay, in immediately available funds, the amount of such excess to ML III for credit to the Collateral Account.
+     (c) To the extent ML III has received amounts by means of set-off credit to the amounts otherwise payable by ML III to the Counterparties, or otherwise has collected fixed amount payments accrued prior to the Trade Date, ML III shall pay such amounts to AIG-FP on the first Payment Date following such collection or set off (to the extent collected or set off by the second day prior to the relevant Notice Date), with such amounts to be determined by ML III, or its designee(s), in consultation with AIG-FP.
+     3. .
+AIG-FP's Representations and Warranties
+     (a) Organizat. AIG-FP is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization and has all requisite power and authority to execute, deliver and perform its obligations hereunder.
+ion; Powers
+     (b) . The execution, delivery and performance of this Agreement by AIG-FP have been duly authorized by all requisite corporate and, if required, stockholder action and will not (A) result in the violation by AIG-FP of (1) any provision of law, statute, rule or regulation, or of the certificate or articles of incorporation or other constitutive documents or bylaws of AIG-FP, (2) any order of any nation or government, any state or other political subdivision thereof, any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative functions of or pertaining to government, any securities exchange and any self-regulatory organization (each, a " or (3) any provision of any indenture, agreement or other instrument to which AIG-FP is a party or by which it or any of its property is or may be bound, (B) be in conflict with, result in a breach of or constitute (alone or with notice or lapse of time or both) a default under, or give rise to any right to accelerate or to require the prepayment, repurchase or redemption of any obligation under any such indenture, agreement or other instrument or (C) result in the creation or imposition of any mortgage, pledge, hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or other), charge or other security interest or any preference, priority or other security agreement or preferential arrangement of any kind or nature whatsoever (including any conditional sale or other title retention agreement and any capital lease having substantially the same economic effect as any of the foregoing) upon or with respect to any property or assets now owned or hereafter acquired by AIG-FP.
+Authorization; No Conflict
+Governmental Authority")
+ 
+     (c) . This Agreement has been duly executed and delivered by AIG-FP and constitutes a legal, valid and binding agreement of AIG-FP enforceable against AIG-FP in accordance with its terms, except that such enforceability may be limited by bankruptcy, insolvency, or other similar laws of general applicability affecting the enforcement of creditors' rights generally and by the court's discretion in relation to equitable remedies.
+Enforceability
+     (d) . No action, consent or approval of, registration or filing with or any other action by any Governmental Authority is or will be required to be taken, obtained or made by AIG-FP in connection with the transactions contemplated hereunder except (i) such as have been made or obtained and are in full force and effect and (ii) with respect to any Governmental Authority other than a Governmental Authority of the United States or any state thereof, if the failure to take such action, obtain such consent or approval, or register or file with such Governmental Authority could not reasonably be expected to have a Material Adverse Effect.
+Governmental Approvals
+     (e) .
+Litigation; Compliance with Laws
+     (i) Except as set forth in the financial statements attached to AIG's most recently filed form 10-Q, there are no actions, suits or proceedings at law or in equity or by or before any Governmental Authority now pending or, to the knowledge of AIG-FP, threatened against or affecting AIG-FP or any business, property or rights of AIG-FP as to which there is a reasonable possibility of an adverse determination and that, if adversely determined, could reasonably be expected, individually or in the aggregate, to result in a material impairment of the totality of the rights and remedies of, or benefits available to ML III under this Agreement and the Transaction Documents taken as a whole.
+     (ii) AIG-FP is not in violation of any law, rule or regulation (including any zoning, building, ordinance, code or approval or any building permits) or any restrictions of record or is in default with respect to any judgment, writ, injunction, decree or order of any Governmental Authority, where such violation or default could reasonably be expected to result in a material impairment of the totality of the rights and remedies of, or benefits available to ML III under this Agreement and the Transaction Documents taken as a whole.
+     4. . In consideration of AIG-FP's agreement in Section 2 above, ML III hereby covenants not to amend any Purchase Agreement in a manner that will cause AIG-FP to be liable to any Counterparty for a greater portion of the Combined Settlement Amount (as defined in the Termination Agreements) than it would have been under the Purchase Agreement in the form originally entered into between the Counterparty and ML III. For the avoidance of doubt, this provision shall have no impact on ML III's ability to exercise discretion in accordance with the terms of the Purchase Agreements, including determinations of whether and when a CDO Issue becomes an Excluded Asset or whether and when the conditions for the purchase of a CDO Issue have been met or on ML III's ability to waive any such condition.
+Covenant not to make certain amendments to any Purchase Agreements
+     5. . AIG-FP hereby covenants and agrees that it will not at any time (i) commence or institute against ML III or join with or facilitate any other Person in commencing or instituting against ML III, any bankruptcy, reorganization, arrangement, readjustment of debt, dissolution, receivership, insolvency or liquidation proceedings, or other proceedings under any United States Federal or state, or other jurisdiction, bankruptcy or similar law or statute now or hereafter in effect in connection with any obligations relating to this Agreement or any of the other Transaction Documents or (ii) participate in any assignment for benefit of creditors, compositions, or arrangements with respect to ML III's debts. The agreements in this Section 5 shall survive the termination of this Agreement and payment in full of all obligations under this Agreement.
+No Bankruptcy Petition Against ML III
+     6. . AIG-FP hereby waives any failure or delay on the part of ML III in asserting or enforcing any of its rights or in making any claims or demands hereunder.
+Waivers
+ 
+     7. . AIG-FP shall cause to be delivered to ML III an opinion substantially in the form of the opinion required under Section 7.01(c)(i)(D) of the Master Investment and Credit Agreement with respect to its entry into this Agreement.
+Opinion
+     8. . Any notice, instruction, request, consent, demand or other communication required or contemplated by this Agreement shall be in writing, shall be given or made or communicated by hand delivery or fax, confirmed by telephone, addressed as follows:
+Notices
+ 
+     9. . THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.
+Governing Law
+     10. .
+Jurisdiction; Consent to Service of Process
+     (a) Each party hereby irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction of any New York State court or federal court of the United States of America sitting in New York City, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the Parties hereby irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such New York State or, to the extent permitted by law, in such federal court. Each of the Parties agrees that a final judgment in any such action or proceeding shall be conclusive.
+     (b) Each party hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection that it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any New York State or federal court. Each party hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
+     (c) Each party irrevocably consents to service of process in the manner provided for notices in Section 8. Nothing in this Agreement will affect the right of any party to serve process in any other manner permitted by law.
+     11. . EACH PARTY HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT OR ANY OF THE OTHER TRANSACTION DOCUMENTS. EACH PARTY (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER TRANSACTION DOCUMENTS, AS APPLICABLE, BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+WAIVER OF JURY TRIAL
+     12. . Notwithstanding anything to the contrary contained in this Agreement, the obligations of ML III under this Agreement are solely the obligations of ML III and shall be payable solely to the extent of funds received by and available to ML III in accordance with the Transaction Documents. No recourse shall be had for the payment of any amount owing in respect of any obligation of, or claim against, ML III arising out of or based upon this Agreement against any holder of a Membership Interest, employee, officer or Affiliate thereof and, except as specifically provided herein, no recourse shall be had for the payment of any amount owing in respect of any obligation of, or claim against, ML III arising out of or based upon this Agreement against any holder of the Membership Interests or any equity interests in any Related Party of any such holder; provided that the foregoing shall not relieve any such person or entity from any liability they might otherwise have as a result of willful misconduct, gross negligence or fraudulent actions taken or omissions by them. The provisions of this Section shall survive the termination or expiration of this Agreement and payment in full of any and all obligations arising from this Agreement.
+Limited Recourse
+     13. . Upon and default by either party hereunder and the expiration of all applicable grace periods, the non-defaulting party shall have all rights and remedies available under applicable law.
+Default
+     14. .
+Miscellaneous
+ 
+     (a) All headings herein are for convenience of reference only and shall be disregarded in the interpretation hereof.
+     (b) This Agreement may be signed in any number of counterparts, each of which shall be an original; but such counterparts shall together constitute one and the same instrument.
+     (c) In the event of an assumption of AIG-FP's obligations under this Agreement by a successor, such successor shall succeed to and be substituted for AIG-FP with the same effect as if it had been named herein, and upon such assumption, AIG-FP shall be relieved of any further obligation hereunder. This Agreement may not be assigned by AIG-FP without the prior written consent of ML III.
+     (d) In case any provision in this Agreement shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+ 
+     IN WITNESS WHEREOF, each of the parties hereto has caused this Shortfall Agreement to be executed on its behalf by its officers thereunto duly authorized on the day and year first above written.
+ 
+     AMENDMENT No. 1 (this "") dated as of December 18, 2008 to the Shortfall Agreement dated as of November 25, 2008 by and between Maiden Lane III LLC, a Delaware limited liability company ("), and AIG Financial Products Corp., a Delaware corporation (") (the "").
+Amendment
+ML III"
+AIG-FP"
+Shortfall Agreement
+     WHEREAS, the parties hereto desire to amend the Shortfall Agreement as set forth herein to provide for the addition of certain derivative transactions to such agreement and to provide for additional payments between ML III and AIG-FP;
+     NOW, THEREFORE, in consideration of the foregoing, the parties hereto agree as follows:
+     Section 1. . Unless otherwise specifically defined herein, each term used herein that is defined in the Shortfall Agreement has the meaning assigned to such term therein. Each reference to "hereof", "hereunder", "herein" and "hereby" and each other similar reference and each reference to "this Agreement" and each other similar reference contained in the Shortfall Agreement shall, after this Amendment becomes effective, refer to the Shortfall Agreement as amended hereby.
+Definitions
+     Section 2. . The parties agree that December 18, 2008 shall be the Adjustment Date under the Shortfall Agreement.
+Adjustment Date
+     Section 3. . Effective as of the date hereof, the Shortfall Agreement is hereby amended as follows:
+Amendment of Shortfall Agreement
+     (a) The first recital shall be replaced by the following text:
+     "WHEREAS as of October 31, 2008, AIG-FP was party to the derivative transactions listed on Schedule A (the ""), with an aggregate notional value of $62,129,719,487;"
+Derivative Transactions
+     (b) Schedule A to the Shortfall Agreement shall be replaced in full with Schedule A hereto.
+     (c) The following text shall be inserted immediately after Section 2(c):
+     (d) On the Adjustment Date (i) if the aggregate of deemed increases in Posted Collateral exceeds the aggregate of deemed reductions in Posted Collateral pursuant to Section 2(c) of the applicable Termination Agreements, ML III shall pay or cause to be paid, in immediately available funds, to AIG-FP the amount of such excess and (ii) if the aggregate of deemed reductions in Posted Collateral exceeds the aggregate of deemed increases in Posted Collateral pursuant to Section 2(c) of the applicable Termination Agreements, AIG-FP shall pay, in immediately available funds, to ML III the amount of such excess for credit to the Collateral Account.
+ 
+     Section 4. . This Amendment may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. Delivery of an executed signature page of this Amendment by facsimile transmission shall be effective as delivery of a manually executed counterpart hereof.
+Counterparts
+     Section 5. . THIS AMENDMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO THE CONFLICT OF LAWS PRINCIPLES THEREOF.
+Governing Law
+     Section 6. . This Amendment shall become effective on the date when each party hereto shall have received from each of the other parties hereto a counterpart hereof signed by such party or facsimile or other written confirmation that such party has signed a counterpart hereof.
+Effectiveness
+     Section 7. The captions and section headings appearing herein are included solely for convenience of reference and are not intended to affect the interpretation of any provision of this Amendment.
+Captions.
+ 
+     IN WITNESS WHEREOF, each of the parties hereto has caused this Amendment to be executed on its behalf by its officers thereunto duly authorized on the day and year first above written.
+ 
+ 
+ 
+ 
+ 
+
+

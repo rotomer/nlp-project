@@ -1,0 +1,116 @@
+FILE:MU/MU-8K-20081126115923.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Termination of a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Other Events
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Termination of a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Other Events
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+o
+ 
+ 
+ 
+ 
+ 
+Second Closing Under Inotera Share Purchase Agreement
+On October 14, 2008, Micron Technology, Inc. (Micron) filed a Form 8-K to report that Micron and Micron Semiconductor, B.V. (MNL), a wholly-owned subsidiary of Micron, entered into a Share Purchase Agreement (the Purchase Agreement) on October 11, 2008 with Qimonda AG (Qimonda) and Qimonda Holding B.V. (collectively with Qimonda, the Sellers) pursuant to which (i) in two separate closings MNL would purchase 1,184,088,059 shares of common stock of Inotera Memories, Inc. (Inotera) held by the Sellers (the Primary Shares) and (ii) Qimonda would sell 4,483,800 shares of Inotera held by Qimonda (the Secondary Shares and collectively with the Primary Shares, the Shares) on the Taiwan Stock Exchange and remit the proceeds of such sale to MNL (the Share Purchase Transactions).
+On October 20, 2008, in the first closing of the Share Purchase Transactions (the First Closing), MNL purchased 592,044,028 Primary Shares of Inotera pursuant to the Purchase Agreement (the First Closing Shares) for $200.0 million.
+Micron is filing this report on Form 8-K with respect to the second closing of the Share Purchase Transactions (the Second Closing) on November 26, 2008, pursuant to which MNL purchased the remaining 592,044,031 Primary Shares of Inotera pursuant to the Purchase Agreement (the Second Closing Shares) for $200.0 million using the proceeds of the NPC Loan (as defined below) to pay for the Second Closing Shares.  Following the completion of the purchases of the Primary Shares pursuant to the Purchase Agreement, Micron, through its subsidiaries, owns approximately 35.61% of the outstanding common stock of Inotera.  Promptly following the Second Closing, the Sellers pursuant to the Purchase Agreement will sell the remaining 4,483,800 Secondary Shares of Inotera on the Taiwan Stock Exchange and remit the proceeds to MNL.
+In connection with the Second Closing:
+Joint Venture Agreements
+On November 26, 2008, in connection with the Share Purchase Transactions, Micron and MNL entered into various agreements with NTC, MeiYa, a company owned one half by MNL and one half by NTC, and Inotera relating to the ownership and governance of Inotera, the manufacture of DRAM products by Inotera, the sale of DRAM products by Inotera to Micron and NTC and the restructuring of certain agreements relating to MeiYa.  Inotera is a publicly-traded Taiwan-based company that manufactures DRAM products.
+ 
+1
+ 
+As part of the transaction to which such agreements relate, Micron will transfer to Inotera certain intellectual property relevant to the manufacture of stack DRAM products, and Micron will amend certain agreements with NTC relating to the transfer and license of certain intellectual property relevant to the manufacture of stack DRAM products.  The agreements provide for Micron to receive transfer fees and royalties with respect to the intellectual property transferred to Inotera and NTC.  Also, Micron and NTC have amended their agreement regarding the joint development of process technology and designs for manufacturing stack DRAM products.
+Set forth below are brief descriptions of the material agreements that have been entered into or amended that relate to the operation of Inotera, the transfers and licenses of intellectual property and the operation of the joint development program.
+Master Agreement
+Micron, MNL, NTC, MeiYa and Inotera entered into a Master Agreement (the Master Agreement), which provides that certain agreements entered into in connection with MeiYa are to be amended and that certain agreements relating to Inotera are to be entered into.  The material amended agreements and the material new agreements are described below.  In addition, the Master Agreement provides that the following agreements, among others, entered into in connection with the formation of MeiYa will be terminated (other than terms thereof that, pursuant to such agreements, expressly survive such termination) at such time as MeiYa is sold, merged, liquidated, or dissolved or at such time as its non-cash assets are sold:  (a) the Master Agreement between Micron and NTC, dated April 21, 2008 (the Terminating Master Agreement), (b) the Joint Venture Agreement between MNL and NTC, dated April 21, 2008 (the Terminating Joint Venture Agreement) (except for certain provisions relating to transferred employees), (c) the Supply Agreement among Micron, NTC and MeiYa, dated June 6, 2008 (the Terminating Supply Agreement), (d) the Technology Transfer Agreement by and among Micron, NTC and MeiYa, dated May 13, 2008 (the Terminating TTA) (although, if such termination has not occurred within six months following the date of the Master Agreement, such termination will occur on the last day of such six-month period), and (e) the Technology Transfer Agreement for 68-50 nm Process Nodes between Micron and MeiYa, dated May 13, 2008 (the Terminating TTA 68-50) (although if such termination has not occurred within six months following the date of the Master Agreement, such termination will occur on the last day of such six-month period).  A description of the material terms of each of these terminating agreements is set forth below.
+Joint Venture Agreement
+MNL and NTC entered into a Joint Venture Agreement (the Joint Venture Agreement) that governs the rights and obligations of the parties in connection with their ownership of shares of Inotera.
+Under the Joint Venture Agreement, each of MNL and NTC may initially designate five of the twelve members of the Board of Directors of Inotera and each is to vote its shares for such designated directors. The number of directors that may be designated by each party adjusts depending upon the parties ownership interests in Inotera.  In addition, MNL and NTC each may nominate one independent director of Inotera and are required to vote their shares for such nominees.  Also, MNL and NTC are to vote their shares in favor of two supervisors of Inotera selected by MNL and two supervisors of Inotera selected by NTC.
+The Joint Venture Agreement provides that the parties will use their best efforts to require a supermajority vote for any actions to be authorized by the Inotera Board of Directors.  Subject to certain terms and conditions, NTC and MNL will use their best efforts to each have the right to nominate an executive officer of Inotera, which officers will serve at the pleasure of Inoteras Board of Directors.
+The Joint Venture Agreement provides that Micron and NTC will purchase all of the output of Inotera, generally on a 50-50 basis (other than trench products sold to Qimonda during a ramp-down period).  If MNLs and NTCs relative ownership in Inotera changes, the allocation of such output may be adjusted.  The Joint Venture Agreement also imposes certain restrictions on the transfer by the parties of shares in Inotera and prohibits acquisitions of shares in Inotera by the parties from third parties.
+The Joint Venture Agreement contains buy/sell arrangements in the event of: (i) breach by a party of the terms of the Joint Venture Agreement, (ii) deadlock between the parties after following the procedures set forth in the Joint Venture Agreement, and (iii) one partys ownership in Inotera falling below certain thresholds relative to the other partys ownership.
+Neither MNL nor NTC is required to contribute capital to Inotera.
+ 
+2
+ 
+Facilitation Agreement
+Micron, NTC and Inotera entered into a Facilitation Agreement, pursuant to which Inotera agrees to take certain actions, subject to, in some cases, applicable laws, approvals of board of directors and/or shareholders' meeting, to fully effectuate the intent of MNL and NTC under the Joint Venture Agreement with respect to, among other things, the nomination of executive officers and rights and obligations to the output of Inotera.
+Micron Guaranty
+Micron and NTC entered into a Micron Guaranty Agreement pursuant to which Micron guarantees, for the benefit of NTC, MNLs performance under the Joint Venture Agreement.
+Supply Agreement
+Micron and NTC entered into a Supply Agreement with Inotera (the "Supply Agreement") pursuant to which Inotera will sell to Micron and NTC trench and stack DRAM products manufactured by Inotera.  Inotera will sell to Micron and NTC all of the trench DRAM products manufactured by it other than trench DRAM products that are sold by Inotera to Qimonda pursuant to a separate supply agreement between Inotera and Qimonda (the "Qimonda Supply Agreement").  Under the Qimonda Supply Agreement, Qimonda is obligated to purchase trench DRAM products started for it by Inotera during the eight months following the Second Closing in accordance with a ramp down schedule specified in the Qimonda Supply Agreement.  Initially, (a) with respect to trench DRAM products, (i) NTC will purchase the products resulting from 50% of Inotera's aggregate trench DRAM manufacturing capacity and (ii) Micron will purchase the products resulting from 50% of Inotera's aggregate trench DRAM manufacturing capacity less the trench DRAM products contemplated to be purchased by Qimonda pursuant to the Qimonda Supply Agreement and (b) with respect to stack DRAM products, (i) NTC will purchase the products resulting from 50% of the aggregate stack DRAM manufacturing capacity and (ii) Micron will purchase the products resulting from 50% of the aggregate stack DRAM manufacturing capacity.  Although the respective output percentages of Micron and NTC are initially 50/50, the output percentages may be adjusted if the relative ownership of MNL and NTC in Inotera changes.  The pricing formula that determines the amounts to be paid by each of Micron and NTC for DRAM products under the Supply Agreement takes into account manufacturing costs and margins associated with the products purchased.  Following a buy-out under the Joint Venture Agreement, the Supply Agreement will generally continue with respect to the party that was bought out for up to 12 months.
+Amended and Restated Joint Development Program Agreement
+Micron and NTC entered into an Amended and Restated Joint Development Program Agreement (the JDP Agreement) that amends that certain Joint Development Program Agreement, between Micron and NTC dated April 21, 2008, entered into in connection with the formation of MeiYa (the Original JDP Agreement).  Pursuant to the JDP Agreement, the parties will jointly develop process technology for the manufacture of stack DRAM products and designs for stack DRAM products.  Absent the occurrence of certain early termination events, the JDP Agreement will remain in effect for at least 10 years from the date of the Original JDP Agreement.
+All inventions conceived in connection with the joint development program will be allocated between Micron and NTC pursuant to mechanisms set forth in the JDP Agreement and the TTA (as defined below), transferred to Inotera pursuant to mechanisms set forth in the TTA, or will be jointly owned by Micron and NTC.
+Research and development under the JDP Agreement will be conducted jointly by Micron and NTC and possibly Inotera.  After the research and development costs exceed a specified amount, those costs will be shared approximately equally by the parties.  It is expected that such sharing will begin in approximately two years from the date of the Original JDP Agreement.
+Technology Transfer Agreement
+Micron, NTC and Inotera entered into a Technology Transfer Agreement (the TTA), pursuant to which Micron and NTC will transfer to Inotera certain information and deliverables relating to technology for the manufacture of stack DRAM products on process nodes of less than 50nm that are developed pursuant to the JDP Agreement.
+Amended and Restated Technology Transfer and License Agreement
+Micron and NTC entered into an Amended and Restated Technology Transfer and License Agreement (the TTL Agreement) that amends that certain Technology Transfer and License Agreement, between Micron and NTC dated April 21, 2008, entered into in connection with the formation of MeiYa.  Pursuant to the TTL Agreement,
+ 
+3
+ 
+Micron is licensing to NTC the right to use technologies relating to the manufacture of stack DRAM products for specified purposes, including relating to the manufacture of stack DRAM products on nodes of less than 50nm, and to have Inotera manufacture such products.  In addition, under this agreement NTC is licensing to Micron the right to use technologies relating to DRAM products for certain specified purposes.  NTC will pay Micron royalties for its license from Micron.
+The foregoing description of the transactions consummated pursuant to the Master Agreement and the Joint Venture Agreement is only a summary, does not purport to be complete and is qualified in its entirety by reference to the agreements related to the Master Agreement and the Joint Venture Agreement, which will be filed as exhibits to a future periodic or current report.
+Loan Agreements
+Nan Ya Plastics Loan Agreement
+In connection with the Share Purchase Transactions, on November 26, 2008, Micron and its subsidiary MNL entered into a loan agreement with NPC pursuant to which NPC made a loan to MNL (the NPC Loan) in the principal amount of $200.0 million (the NPC Loan Agreement).  The proceeds of the NPC Loan were used to pay the purchase price for the Second Closing Shares of Inotera at the Second Closing under the Purchase Agreement.  Pursuant to the NPC Loan Agreement, Micron has guaranteed the NPC Loan.  The loan bears interest at 3-month LIBOR plus 2%.  The NPC Loan is secured by a pledge of the shares of common stock of Inotera held by MNL and by Micron Technology Asia Pacific, Inc. (MTT).
+The NPC Loan matures on November 26, 2009 and is expected to be refinanced with a new loan (the New Loan) in the same principal amount with a maturity date of November 26, 2010 pursuant to commitments by NPC to obtain for MNL or by NTC to provide or obtain for MNL such New Loan.  The failure of MNL to obtain the New Loan and to repay the NPC Loan on the maturity date due to causes not attributable to Micron, MNL, or MTT, shall not constitute a payment event of default under the NPC Loan Agreement.
+The NPC Loan Agreement contains customary affirmative covenants including further assurances, compliance with laws, payment of taxes, maintenance of insurance and properties and notice of defaults or events of default.  The events of default under the NPC Loan Agreement include the failure to pay principal, interest or other amounts due under the NPC Loan Agreement and related pledge agreement beyond specified grace periods, the failure to perform material obligations or covenants under the NPC Loan Agreement and related pledge agreement beyond a specified grace period and bankruptcy and insolvency events with respect to Micron or MNL.
+NPC is an affiliate of NTC.  MNL and NTC are parties to the Joint Venture Agreement and the Terminating Joint Venture Agreement.
+The foregoing description of the NPC Loan Agreement is only a summary, does not purport to be complete and is qualified in its entirety by reference to the agreements related to the NPC Loan Agreement, which will be filed as exhibits to a future periodic or current report.
+Inotera Loan Agreement
+On November 26, 2008, Micron entered into a loan agreement with Inotera pursuant to which Inotera made a loan (the Inotera Loan) to Micron in the principal amount of $85.0 million (the Inotera Loan Agreement).  The Inotera Loan bears interest at 3-month LIBOR plus 2% and matures on May 26, 2009.  The proceeds of the Inotera Loan are to be used for general corporate purposes.  The Inotera Loan is secured by a pledge of quarterly license fees payable to Micron under the Technology Transfer and License Agreement for 68-50nm Process Nodes between Micron and NTC that was reported on Microns Form 8-K filed on April 23, 2008.
+The events of default under the Inotera Loan Agreement include Microns failure to pay principal, interest or other amounts due under the Inotera Loan Agreement and related pledge agreement beyond specified grace periods, Microns failure to perform its material obligations or covenants under the Inotera Loan Agreement and related pledge agreement beyond a specified grace period and bankruptcy and insolvency events with respect to Micron.
+As described above, Micron, through its subsidiaries, owns approximately 35.61% of the common stock of Inotera and Microns subsidiary, MNL, is party to the Joint Venture Agreement.
+ 
+4
+ 
+The foregoing description of the Inotera Loan Agreement is only a summary, does not purport to be complete and is qualified in its entirety by reference to the agreements related to the Inotera Loan Agreement, which will be filed as exhibits to a future periodic or current report.
+Terminating Agreements
+Set forth below are brief descriptions of the material agreements being terminated pursuant to the Master Agreement (as defined in Item 1.01 above).
+Terminating Master Agreement.
+The Terminating Master Agreement addressed certain agreements entered into in connection with the establishment and operation of MeiYa and the transfers and licenses of intellectual property and the operation of the joint development program.  These agreements, which governed the rights and obligations of each of Micron, MNL, NTC and MeiYa, included a joint venture agreement between MNL and NTC related to MeiYa, a guaranty agreement by Micron for the benefit of NTC, a supply agreement among Micron, NTC and MeiYa, a joint stack DRAM process technology and product design development agreement between Micron and NTC, various technology transfer and licensing agreements among Micron, NTC and MeiYa, and a non-suit agreement between Micron and NTC.
+Terminating Joint Venture Agreement.
+The Terminating Joint Venture Agreement governed the rights and obligations of the parties in connection with the operation of MeiYa.
+Pursuant to the Terminating Master Agreement and the Terminating Joint Venture Agreement, MNL and NTC each were to contribute NT$ 1.2 billion (which was expected to be approximately equivalent to US$40 million) in cash to MeiYa at the closing of the joint venture transaction.  The parties each committed to contribute the NT$ equivalent of an additional US$510 million prior to December 31, 2009.
+The parties initially were to appoint an equal number of directors to the Board of Directors of MeiYa.  The number of directors appointed by each party adjusted depending upon the parties ownership interest in MeiYa.  Actions to be authorized by the Board of Directors required approval by a supermajority vote.  Subject to certain terms and conditions, NTC and MNL each were to appoint an executive officer, which officers were to serve at the pleasure of the Board of Directors.
+The Terminating Joint Venture Agreement provided that Micron and NTC would purchase all of the output of MeiYa generally in proportion to their relative direct or indirect ownership in MeiYa. The Terminating Joint Venture Agreement also imposed certain restrictions on the transfer by the parties of shares in MeiYa.
+The Terminating Joint Venture Agreement contained buy/sell arrangements in the event of: (i) a failure by one of the parties to contribute the capital required by the Terminating Joint Venture Agreement, (ii) breach by a party of the terms of the Terminating Joint Venture Agreement, (iii) deadlock between the parties after following the procedures set forth in the Terminating Joint Venture Agreement, and (iv) one partys ownership in MeiYa falling below certain thresholds relative to the other partys ownership.
+Terminating Supply Agreement.
+Pursuant to the Terminating Supply Agreement, MeiYa was to sell to Micron and NTC all of the stack DRAM products manufactured by MeiYa.  Micron and NTC were to have the same rights in all material respects under the Terminating Supply Agreement except for the percentage of MeiYas output to be purchased, which was to be consistent generally with the parties relative direct or indirect ownership position in MeiYa.  Each of Micron and NTC were initially allocated 50% of the output of MeiYa.  Generally, the Terminating Supply Agreement was to continue for up to 12 months following a buy-out under the Terminating Joint Venture Agreement.
+ 
+5
+ 
+Terminating TTA.
+Pursuant to the Terminating TTA, Micron and NTC agreed to transfer to MeiYa certain information and deliverables relating to technology for the manufacture of stack DRAM products on process nodes of less than 50nm that are developed pursuant to the Terminating JDP Agreement.
+Terminating TTA 68-50.
+Pursuant to the Terminating TTA 68-50, Micron agreed to transfer to MeiYa certain information and deliverables relating to technology for the manufacture of stack DRAM products on 68nm and 50nm process nodes.  Pursuant to the Master Agreement, MeiYa will not be required to pay Micron its $50 million technology transfer payment obligation under the Terminating TTA 68-50 if Inotera timely makes its $50 million technology transfer payment under the Inotera TTA.
+The foregoing description of the transactions consummated pursuant to the Master Agreement is only a summary, does not purport to be complete and is qualified in its entirety by reference to the agreements related to the Master Agreement, which will be filed as exhibits to a future periodic or current report.
+The information regarding the Inotera Loan Agreement and the NPC Loan Agreement set forth in Item 1.01 hereof is incorporated by reference into this Item 2.03.
+See the introductory text preceding Item 1.01 above which is hereby incorporated by reference.
+ 
+ 
+6
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+7
+ 
+
+

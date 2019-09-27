@@ -1,0 +1,70 @@
+FILE:MU/MU-8K-20070305140008.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+ 
+March 5, 2007
+Date of Report (date of earliest event reported)
+ 
+MICRON TECHNOLOGY, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+8000 South Federal Way
+Boise, Idaho  83716-9632
+(Address of principal executive offices)
+ 
+(208) 368-4000
+(Registrant's telephone number, including area code)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+o
+ 
+ 
+ 
+Item 1.01       Entry into a Material Definitive Agreement
+On February 27, 2007, Micron Technology, Inc. ("Micron") entered into certain agreements with Intel Corporation ("Intel") and certain subsidiaries of Micron and Intel relating to their NAND flash memory product businesses.  These agreements created a new NAND flash-related joint venture in Singapore, amended some of the agreements relating to Micron's and Intel's existing NAND flash-related joint venture and provided for certain mechanisms by which Micron and Intel will together give guidance to the joint venture companies in the areas of research and development, manufacturing planning, and jointly manage dissolution of any of their NAND flash-related ventures.
+Set forth below are brief descriptions of new material agreements and amendments to material agreements previously filed.
+IMFS
+On February 27, 2007, Micron Semiconductor Asia Pte. Ltd. ("Micron Singapore"), a wholly-owned subsidiary of Micron, and Intel Technology Asia Pte.  Ltd. ("Intel Singapore"), a wholly-owned subsidiary of Intel, together formed a Singapore limited liability partnership, IM Flash Singapore LLP ("IMFS").  On the same date, Micron Singapore and Intel Singapore entered into a Limited Liability Partnership Agreement (the "Partnership Agreement") relating to IMFS and into Supply Agreements with IMFS.
+.  The Partnership Agreement is scheduled to terminate on January 6, 2016 unless the term is extended by mutual agreement of the parties or is earlier terminated as provided therein.  The Partnership Agreement will govern the rights and obligations of the parties in connection with the operation of IMFS.
+Partnership Agreement
+Pursuant to the Partnership Agreement, Micron Singapore will contribute US$51,000 in cash and Intel Singapore will contribute US$49,000 in cash to IMFS.  As a result of these contributions, Micron Singapore will own 51% and Intel Singapore will own 49% of IMFS.  Subject to certain terms and conditions, the parties expect to contribute additional capital to IMFS in proportion to their ownership interests in IMFS over the next three years as appropriate to support the growth of the operation.  The Partnership Agreement provides that the parties will share the output of IMFS generally in proportion to their investment in IMFS.  Micron will consolidate IMFS's financial condition and results of operations with those of Micron.
+IMFS will be governed by a Board of Managers, with the parties initially appointing an equal number of managers to the Board of Managers.  The number of managers appointed by each party adjusts depending upon the parties' ownership interests in IMFS.  The parties will appoint a Site Manager, who will serve at the pleasure of the Board of Managers and who will report to the Board of Managers or a subcommittee thereof.
+IMFS will manufacture NAND flash memory products pursuant to NAND flash designs developed by Micron and Intel and owned by Intel and licensed to Micron.  The Partnership Agreement provides that IMFS will manufacture products in one or more IMFS owned or leased fabrication facilities.  In connection therewith, it is anticipated that IMFS will construct and equip a state-of-the-art fab in Singapore that will process 300mm NAND wafers.
+The Partnership Agreement contains terms pursuant to which after January 6, 2008, Intel Singapore may purchase sufficient interest in IMFS to result in its owning a 51% ownership interest in IMFS.  A party who owns at least 90% of the investment in IMFS may buy out the other party's interest in IMFS, subject to certain terms and conditions.
+Upon dissolution of IMFS, the Partnership Agreement provides that the parties will enter into various cross supply arrangements with each other.
+IMFS has entered into separate supply agreements with each of Micron Singapore and Intel Singapore, pursuant to which IMFS will sell each party NAND flash memory products.  The separate supply agreements are the same in all material respects except for the output percentages to be purchased, which will be generally consistent with each party's investment in IMFS.  The initial output allocations will be 51% of the output for Micron Singapore and 49% of the output for Intel Singapore.
+Supply Agreements. 
+IMFT
+As previously announced, on January 6, 2006, Micron and Intel entered into an operating agreement ("Operating Agreement") and certain other related agreements pursuant to which they established IM Flash Technologies, LLC ("IMFT") and commenced NAND flash memory manufacturing operations.  On February 27, 2007, and in connection with the establishment of IMFS, Micron and Intel amended and restated the Operating Agreement and entered into an Omnibus Agreement (the "Omnibus Agreement").  Micron and Intel also amended various other agreements relating to IMFT.  These amendments reflect the creation of a second joint venture, IMFS, and the Omnibus Agreement permits Micron and Intel to, among other things, collectively give manufacturing planning input to both joint ventures, jointly manage dissolution of the ventures, extend licensed intellectual property rights to the new joint venture and effect other related changes.
+In addition, pursuant to the terms of the Omnibus Agreement, in the event of simultaneous dissolution of the joint ventures, each party will have the right to purchase fabrication facilities and other assets (collectively "Assets") from the pooled Assets of all dissolving joint ventures.  To the extent a party fails to exercise its right to purchase the Assets, the applicable Assets will be sold by the relevant joint venture and the proceeds distributed in accordance with the applicable dissolution provisions.
+the ability of Intel and Micron and their subsidiaries to integrate technology, management and operations at IMFT and IMFS and at the facilities that they use; adverse effects associated with product defects and errata (deviations from published specifications); and litigation or regulatory matters involving intellectual property, antitrust and other issues
+The foregoing discussion contains forward-looking statements by Micron regarding future investments in IMFT and IMFS.  Although Micron believes that the expectations reflected in the forward-looking statements are reasonable, Micron cannot guarantee its or IMFT's or IMFS's respective future results, levels of activity, performance or achievements.  Actual events or results may differ materially from those contained in these forward-looking statements.  Among the important factors that could cause actual results to vary are changes in Micron's, Micron Singapore's, Intel's and Intel Singapore's ability and commitment to contribute cash or assets to IMFT or IMFS, as applicable; the demand for and market acceptance of products Micron and Intel have manufactured by and purchase from IMFT, and Micron Singapore and Intel Singapore have manufactured by and purchase from IMFS; pricing pressures and actions taken by competitors; the timing and execution of the manufacturing ramp, and manufacturing yields, at IMFT's or IMFS's production facilities; disruptions in IMFT's or IMFS's supply of necessary raw materials, utilities or other infrastructure; unexpected expenses related to IMFT's or IMFS's operations;
+. These factors could materially affect the results of IMFT or IMFS that will be reflected in Micron's financial statements.  In addition, please refer to the documents that Micron files with the Securities and Exchange Commission on Forms 10-K, 10-Q and 8-K.  These filings identify and address other important factors that could cause its relationship with IMFT or IMFS and its financial and operational results to differ materially from those contained in the forward-looking statements set forth in this Form 8-K. Micron is under no duty to update any of the forward-looking statements after the date of this Form 8-K to conform to actual results.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+

@@ -1,0 +1,37 @@
+FILE:STJ/STJ-8K-20051007090043.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Item 8.01    
+Other Events.
+On October 7, 2005, St. Jude Medical, Inc. issued a press release regarding a physician advisory related to certain ICD products. A copy of the press release is furnished here as Exhibit 99.1.
+Item 9.01    
+Financial Statements and Exhibits.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Exhibit 99.1
+St. Paul, MN, October 7, 2005  St. Jude Medical Inc. (NYSE:STJ) announced today that it has discovered that background levels of atmospheric ionizing cosmic radiation, more commonly known as cosmic rays, can affect a limited number of its older generation implantable cardioverter defibrillator (ICD) products.
+Although the incidence rate is low, and there have been no serious patient injuries or deaths reported to St. Jude Medical attributable to this anomaly, the Company is taking a conservative approach in advising the medical community and regulatory agencies.
+Specifically, St. Jude Medical has identified through extensive investigation, including testing at an independent nuclear laboratory, that a particular vendor-supplied static random access memory (SRAM) chip can be affected, at a low frequency rate, by background levels of atmospheric ionizing cosmic radiation. A full copy of the physician communication, which includes a description of the anomaly and its related clinical risks, as well as St. Jude Medical's recommendations to physicians for patient monitoring, can be found at .
+http://www.sjm.com/companyinformation/physicianletter.html
+This particular memory chip component was used in the following older generation St. Jude Medical ICDs:
+Photon DR (Model V-230HV)
+(certain serial numbers)
+Photon Micro VR/DR (Models V-194/V-232)
+Atlas VR/DR (Models V-199/V-240)
+To date, an incidence of only 0.00167 of the devices at issue (60 out of 36,000) have been found to have been affected by background levels of cosmic radiation. An estimated 26,000 of the device models remain in service. The estimated incidence of an anomaly of this type in the affected device models is 0.00257 over the five year projected life of the device.
+"St. Jude Medical has taken a conservative, proactive approach in notifying the medical community of this anomaly," said Dr. Mark Carlson, Professor of Medicine at Case Western Reserve University in Cleveland, Ohio, and a member of an independent panel of physicians that reviewed the issue for St. Jude Medical. Dr. Carlson also recently served as Chairman of a joint Policy Conference on Pacemaker and ICD Performance.
+Among the information provided in the physician advisory is St. Jude Medical's recommendation that, if it is not already their practice, physicians should perform routine device monitoring every three months for patients with these devices. St. Jude Medical is also offering its remote monitoring product Housecall Plus, where available, at no charge for models compatible with the remote monitoring system.
+"Because the incidence associated with this anomaly is low, St. Jude Medical's recommendation for monitoring at three-month intervals will be appropriate for the vast majority of patients," said Dr. Bruce Wilkoff, director of cardiac pacing and tachyarrhythmia devices at The Cleveland Clinic and Heart Center and a member of the St. Jude Medical independent Medical Advisory Board.
+As part of a new ICD product platform introduced in 2002, and prior to St. Jude Medical having any knowledge of this particular anomaly, St. Jude Medical began using a different vendor and a differentdesign of the SRAM memory chip component. Laboratory testing and clinical experience indicate that this newer generation memory chip component does not share the same susceptibility to background cosmic radiation as the earlier generation. Consequently, other St. Jude Medical ICDs and all models of CRT-D devices, including the Atlas DR model V-242 and all Epic, Epic HF, Epic +, Epic + HF, Atlas + and Atlas + HF product families, are NOT affected by this issue.
+Overall reliability information about the affected ICDs and other St. Jude Medical products can be found in the company's Product Performance Report on the St. Jude Medical web site at .
+www.sjm.com
+St. Jude Medical has notified the U.S. Food and Drug Administration (FDA) of this physician advisory. The FDA may determine this communication action to be a recall.
+The Company does not expect this physician communication to have any material financial impact.
+St. Jude Medical is dedicated to the design, manufacture and distribution of innovative medical devices of the highest quality, offering physicians, patients and payers outstanding clinical performance and demonstrated economic value.
+Any statements made regarding the Company's anticipated future product launches, regulatory approvals, revenues, earnings, market shares, and potential clinical success are forward-looking statements which are subject to risks and uncertainties, such as those described in the Financial Section of the Company's Annual Report to Shareholders for the fiscal year ended December 31, 2004 (see page 16). Actual results may differ materially from anticipated results.
+
+

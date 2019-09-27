@@ -1,0 +1,373 @@
+FILE:IBM/IBM-8K-20100120080155.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+           
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+ 
+Attachment I of this Form 8-K contains the prepared remarks for IBM's Chief Financial Officer Mark Loughridge's fourth quarter earnings presentation to securities analysts on January 19, 2010.  Certain reconciliation and other information ("Non-GAAP Supplementary Materials") for this presentation was included in Attachment II to the Form 8-K that IBM submitted on January 19, 2010, which included IBM's press release dated January 19, 2010.  All of the information in Attachment I is hereby filed.
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ 
+ATTACHMENT I
+ 
+Introduction
+ 
+Thank you.  This is Patricia Murphy, Vice President of Investor Relations for IBM.  I'm here with Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer.  Thank you for joining our fourth quarter earnings presentation.
+ 
+The prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.
+ 
+Our presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.  All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K submitted to the SEC.
+ 
+Let me remind you that certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.  Those statements involve a number of factors that could cause actual results to differ materially.  Additional information concerning these factors is contained in the company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+ 
+Now, I'll turn the call over to Mark Loughridge.
+2009 Financial Highlights
+ 
+Thank you for joining us today.
+ 
+The fourth quarter capped off a great year for IBM driven by continued margin expansion, profit growth, and cash generation, all in an uncertain environment.
+ 
+Let me start out by sharing a few financial highlights.
+ 
+In systems, we had substantial share gains in POWER (4 points), system x (3 points), blades (6 points), and storage (1 point).  In software, we had share gains in WebSphere, Tivoli and Key Branded Middleware.  And in services we booked $18.8 billion of services signings, and $57 billion for the year.  In 2009, outsourcing signings were up 9 percent, or 11 percent at constant currency.
+ 
+Once again we had great profit and margin performance.  This quarter, PTI grew 10 percent.  We expanded margin and grew pre-tax profit in every segment.  As we indicated in October, we had double-digit profit growth in Systems & Technology, up 15 percent.  For the year, PTI margin was up 2.8 points led by Services  up over 2 points, Software up over 5 points, and Financing up over 6 points.
+ 
+When you put this all together, we delivered EPS of $3.59, which is up 10 percent, and $10.01 for the year, up 13 percent, making this our seventh consecutive year of double-digit EPS growth.
+ 
+Now let me give you another perspective on 2009 EPS.
+ 
+In May 2007, we established our roadmap, with an EPS objective for 2010 of $10 to $11.  And with EPS of $10.01 in 2009, despite a challenging economy, we got there one year early.  In 2010, we expect to deliver our eighth consecutive year of double-digit EPS growth, or at least $11 of earnings per share for the year, with consistent EPS growth throughout the year.
+ 
+For the first quarter, we expect a 4 to 5 point improvement in IBM's year-to-year revenue growth rate from the fourth quarter, at both actual rates and constant currency.  This would result in mid-single-digit revenue growth at actual rates, with software posting double-digit growth.
+ 
+We're confident in our ability to continue to leverage our business model to expand margin, grow profit, generate cash, return value to shareholders, and return to revenue growth in 2010.
+Now, before moving on to the details of the quarter, I want to take a step back and talk about our performance over the longer term.
+IBM Financial Performance History
+ 
+You can
+see that we have consistently generated strong profit and cash growth since the last recession in 2002.
+ 
+So let's look at what we've accomplished recession to recession.
+ 
+Since 2002 we have added $12 billion to our pre-tax profit base, our pre-tax margin is up two and a half times, our EPS is up four times, and cumulatively, we've generated about $80 billion of free cash flow.
+ 
+This is the result of a dramatic transformation we started at the beginning of this decade. It's driven by a combination of shifting our business mix, improving operating leverage through productivity, and investing to capture growth opportunities.
+ 
+Let's take a look at these three initiatives.
+Transformational Impact on Profit Mix
+ 
+First, we have been remixing our business to move to the higher value areas.
+ 
+We exited commoditizing businesses, while at the same time acquiring 108 companies since 2000 for a total of almost $22 billion.  These portfolio actions have contributed to a significant change in our mix of business.
+ 
+In 2000, services segments PTI was $4.5 billion, and in 2009 it's over $8 billion. Our software profit growth is even more impressive.  In 2000, software segment PTI was $2.8 billion, and in 2009 it's also over $8 billion.  That's almost tripled.  In 2009, over 90 percent of our segment profit came from software, services and financing with software and services each contributing 42 percent of our segment PTI.
+ 
+The unique portfolio of businesses we've built, heavily weighted toward software and services, generates high profitability.   And we'll continue to remix to higher value through organic investments and acquisitions.
+Transformational Drivers
+ 
+Second, we've had an ongoing focus on driving operating leverage through productivity.
+ 
+We are leveraging our scale and global footprint to improve processes and productivity in a number of areas, like support functions, and service delivery.  In 2009, we yielded $3.7 billion of cost and expense savings from the structural actions we've taken.  Along with mix, this helped drive our 1.7 point improvement in gross margin and 9 percent reduction in operational expense for the year.  These actions are reducing our fixed cost base and improving the operational balance point.  This will provide a real advantage as the spending environment improves, with solid operating leverage off of our now leaner cost base.
+ 
+Third, our strong margins and profitability enable us to make significant investments for growth.
+ 
+We have been investing to capture the opportunity in the emerging markets  as these countries build out their public and private infrastructures.  In 2009, while the economic environment slowed globally, our revenue growth in the growth markets remained 8 points faster than the majors.
+ 
+We've beeninvesting in capabilities that differentiate IBM and accelerate the development of new market opportunities, areas like business analytics, and cloud computing, and smarter planet.
+ 
+In 2009 we invested almost $6 billion in research and development, to strengthen our technology leadership.
+ 
+Last week we announced that for the 17
+th
+ consecutive year we were #1 in U.S. patents, with over 4900 in 2009.  That's more than the total of Microsoft, HP, Oracle, Apple, Accenture and Google combined.  And consistent with our shift in business mix, about 70 percent of our patent portfolio is for software and services.
+ 
+We've complemented our organic investments with acquisitions, and one of our primary investment areas is business analytics, which provides a solid platform for our Smarter Planet initiatives.   Since 2005, we've invested $10 billion, or $8 and a half billion net, in 14 strategic acquisitions to build our business analytics capabilities.  These acquisitions delivered strong results in 2009, generating 9 percent revenue growth at constant currency.
+So over the last decade, we've driven a significant transformation of our  business, and we'll continue to shift to higher value areas, improve efficiency of our business, and invest where we see the best long term opportunities.
+ 
+All of this positions us for growth as we move into 2010.
+ 
+Now I'll turn to the detailed financial results for the fourth quarter.
+Financial Summary
+ 
+I'll start with a quick walk down the P&L for the quarter.
+ 
+Our revenue was $27.2 billion, that's up 1 percent year to year, and down 5 percent at constant currency.
+ 
+With continued strong margin performance, we increased pre-tax income by 10 percent and net income by 9 percent.  Gross margin expanded 40 basis points, due to better margins in services and systems.  Our expense was better by 5 percent year to year, driven by actions we've taken to continue to transform and globalize the business, and focused expense management.  Pre-tax margin was up 1.9 points year to year to 23.4 percent. 
+With an increase in our tax rate year to year,
+net income margin expanded 1.3 points to 17.7 percent.
+ 
+And finally, our ongoing share repurchase activity drove a lower share count year to year, though it was up sequentially due to increased dilution because of the higher stock price.
+ 
+So bottom line, we delivered $3.59 of earnings per share, up 10 percent from a year ago.  And I'll remind you that we had 18 percent EPS growth in the fourth quarter of last year, so this is double-digit growth off of a very strong base.
+ 
+The balance sheet is solid, and capital structure is well positioned to support our strategy.  Our liquidity position remains strong, we finished the year with $14 billion of cash on hand.
+ 
+Now let me get into the fourth quarter details, starting with revenue by geography.
+Revenue by Geography
+ 
+In discussing the geo results, as always, I'll focus my comments on constant currency.
+ 
+The major market growth was consistent with the last couple of quarters.  In the fourth, the UK had solid growth, and sequentially we improved performance in Canada and Japan.
+ 
+The growth markets once again outpaced the major markets in the fourth quarter by 9 points of revenue growth.  For the year, the growth markets grew 8 points faster, and contributed 19 percent of IBM's geographic revenue.
+ 
+This quarter, the BRIC countries were up 7 percent, driven by growth in India, Brazil, and China.  And for the full year, China grew 10 percent.
+ 
+In China, we're leveraging our broad portfolio to provide comprehensive solutions to our clients.  Recently we announced one of the largest and most comprehensive consulting engagements to date in China, where we're helping to build smart eco-cities across the country.
+ 
+W
+e see growing opportunity around the world,  much of which is outside the traditional IT opportunity, to help our clients drive efficiency in their physical infrastructures.
+Revenue and Gross Margin by Segment
+ 
+Turning to the results by segment, I'll get into the specifics within each of the segment discussions, but let me give you a snapshot of the revenue and gross profit performance.
+ 
+Our total services revenue performance at constant currency was fairly consistent with third quarter, and we had year-to-year growth in both signings and backlog.
+ 
+In Software, we gained share in key branded middleware.  We had a number of transactions that didn't close this quarter, and we're entering the first quarter with a very strong pipeline
+ 
+Systems and Technology year-to-year growth improved again in the fourth quarter, with share gains in most brands and particular strength in System x.
+ 
+Across all of our segments, we had great margin performance.  Our productivity initiatives have yielded consistent improvement in our gross margin over time.  This is the 21st quarter of the last 22 that we've expanded our gross margin.  Now that's quite a streak.
+ 
+Now let's take a look below the gross profit line to our expense and spending profile.
+ 
+Expense Summary
+ 
+Our Total Expense and Other Income was down 5 percent, and our expense-to-revenue ratio improved 1.5 points year to year.
+ 
+The expense reduction was driven entirely by operational expense, which improved 15 points year to year.  Mitigating this improvement, currency impacted expense growth by 9 points and acquisitions by one point.
+ 
+We've been executing our operational plan to increase efficiency and drive productivity, leveraging scale and our global footprint.  We've focused on all areas of the business, and this year we yielded $3.7 billion of cost and expense savings from a number of initiatives, such as the globalization of our support functions and rebalancing our workforce.  These actions reduce our cost base and make it more variable.  A lower level of fixed cost improves our operational balance point, so as we return to growth we'll get better operating leverage off of our cost base.
+ 
+To close out the discussion on spending, as always I'll lay out the roadmap of items that had significant year-to-year impacts to our profit.
+ 
+First, accounts receivable provisionwas better by about $70 million year to year,driven by a lower level of additions versus last year.  Our reserve coverage is flat year to year at 2 percent.
+ 
+Second, we had a year-to-year benefit of about $80 million from investment transactions, driven by a charge in the fourth quarter of 2008 related to an investment in a joint venture.
+ 
+Third, consistent with what we told you in October, we had workforce rebalancing charges of about $100 million in the quarter, virtually all of it in Europe.  These charges are down $340 million from last year's fourth quarter.
+ 
+Impacting profit growth, our retirement-related plans
+were worse by $100 million in the fourth quarter.  As we described last quarter, we had a one-time curtailment gain associated with a non-U.S. plan of about $120 million.  We also had an unprecedented regulatory charge in Germany.  Let me explain.
+ 
+Companies with German pension plans are subject to mandatory pension insolvency insurance coverage.  In the fourth quarter, we received notification of a significant premium increase due to the level of insolvencies of other
+ 
+companies in Germany in 2009.  This does not relate to the IBM plan  it's other companies plans in Germany.  This premium increase resulted in an annual charge of almost $140 million, a year-to-year impact of $120 million in the quarter, though the cash impact will be spread over five years.
+ 
+So this quarter, we had a large gain and an unanticipated offsetting charge in our retirement-related costs, neither of which is related to our operational performance.
+ 
+F
+or the full year 2009, retirement-related plans, including this insolvency insurance charge, cost about $1.4 billion.  This is relatively flat vs. 2008.
+ 
+Let me comment on the performance of our pension plans.
+ 
+In the U.S. plan, return on assets was up 11 percent for the year.  Our non-U.S. plans which comprise about 40 percent of our assets, in aggregate were up 14 percent.  So globally, our pension plans were up 12 percent for the year.
+ 
+Looking forward, we will hold our expected U.S. long-term return assumption at 8 percent, and we will take our discount rate down to 5.6 percent, reflecting the current interest rate environment.  In 2010, with these assumptions, together with other factors such as changes in actuarial assumptions, we expect retirement-related cost and expense of about $1.5 billion, a year-to-year increase of almost $100 million.
+ 
+From a funding perspective, we ended the year with total assets in our defined benefit plans of $82 billion.  Our U.S. plan is fully funded, and globally our qualified plans are 99 percent funded, so we've made great progress in a year.
+ 
+I'll comment on two other items.
+ 
+With the year-to-year change in currencies, our hedge of cash flow program generated a loss in fourth quarter 2009, as compared to a gain last year.  The year-to-year impact in the fourth quarter was over $430 million, which is roughly half in expense, and half in Cost of Goods sold.
+ 
+Our tax rate was 24.6 percent in the quarter, up 80 basis points year to year.  For the full year 2009, our tax rate was 26 percent. 
+And for 2010, we expect a tax rate in the range of 26 to 26.5 percent, so fairly consistent on a year-to-year basis.
+ 
+So now let's turn to our segment margins.
+ 
+Margins by Segment
+ 
+This is a snapshot of both gross and pre-tax margins by segment, and as you can see, the improvement is broad-based.
+ 
+Our PTI margin improvement of 1.9 points was led by Systems & Technology, up 2.6 points, Software, up 2.4 points, and Global Financing, up 5 points.
+ 
+I'll comment briefly on our Global Financing business.  We are emerging from a challenging credit environment with strong financial results in Global Financing.  Our financing business remained focused on core competencies, providing IT financing to our IBM customers and business partners, and delivered both Gross Profit margin and PTI margin expansion this quarter.  And we ended the year with a return on equity of 34 percent.
+ 
+Now let's turn to the segments, starting with Services.
+ 
+Services Segments
+ 
+In the fourth quarter, the two services segments delivered strong margin performance and good growth in outsourcing signings to cap off a very strong year.
+ 
+For the full year, the combined services businesses delivered $8.1 billion in pre-tax income, up 11 percent year to year.  Pre-tax margin was up 2.3 points to 14.1 percent.  This improved margin was a result of the structural changes we've made to services delivery over the past several years.  The global delivery capabilities we've built proved to be dynamic and flexible enough to deal with very tough market conditions.
+ 
+Our backlog at the end of the year was $137 billion, up $7 billion year to year and over $2 billion sequentially.
+ 
+We delivered $57 billion in new services business, with outsourcing signings up 11 percent at constant currency for the year.  Outsourcing signings growth was broad based.  We grew across all major geographies  the Americas, Europe, and Asia.  And we grew in each of our Outsourcing categories  Strategic Outsourcing, Business Transformation Outsourcing, and Application Outsourcing.
+ 
+Overall, we had very strong margin and signings performance in what was a difficult economic climate.
+ 
+Now let me turn to the fourth quarter results.
+ 
+Our services segments delivered revenue of $14.6 billion, up 2 percent at actual rates, but down 5 percent at constant currency.
+ 
+Total signings were $18.8 billion, up 9 percent at actual rates, or 2 percent at constant currency.  Within that, total outsourcing signings were up 15 percent at actual rates, and 8 percent at constant currency.  And we signed 22 deals greater than $100 million.
+ 
+Now I'll go to the key drivers of performance in the two services segments.
+ 
+InGlobal Technology Services, total GTS signings were up 3 percent at actual rates, but down 4 percent at constant currency.  GTS outsourcing signings were up 5 percent at actual rates, down 1 percent at constant currency.  For the year, GTS outsourcing signings at constant currency were up 8 percent, with major markets up 7 percent and growth markets up 14 percent.
+ 
+Integrated Technology Services signings continue to be impacted by client deferrals and capital constraints; however we have seen stability in the past two quarters in smaller transactions under $5 million.
+ 
+Global Technology Services revenue in the quarter was $10.1 billion, up 4 percent at actual rates, or down 3 percent at constant currency.  Revenue trends in outsourcing should improve through 2010 as we start to see the benefits of 2009 signings.  In Integrated Technology Services, revenue performance largely reflects signings performance which continued to be impacted by declines in OEM, as we shift our portfolio to higher value offerings.
+ 
+Global Technology Servicesimproved gross margin nearly a point, and pre-tax margin 60 basis points  to 15 percent.
+ 
+For the full year, Global Technology Servicesgross profit margins expanded in all lines of business, and total pre-tax margin was up 3 points.
+ 
+In Strategic Outsourcing we have improved gross margin for five consecutive years, while improving overall service delivery quality.   We have accomplished this through a disciplined and innovative approach to delivery  focused on both labor and non-labor productivity actions.  As you know, we have been executing a strategy to deliver services out of key global delivery centers, using consistent global delivery methods and processes.  We're continuing to expand our capabilities, with new centers in Dubuque, Iowa, Cairo, Egypt, and Wroclaw, Poland.  We're also improving labor utilization with analytics, and by applying supply chain tools and techniques to our labor base.
+ 
+In Integrated Technology Services, we improved margin by mixing toward more profitable labor- based services, and inBusiness TransformationOutsourcing, through improved deal selectivity and delivery performance.
+ 
+Turning to Global Business Services, signings were up 20 percent at actual rates, and 13 percent at constant currency.
+ 
+Application Outsourcing signings were up 65 percent at actual rates, 55 percent at constant currency, and for the full year, signings were up 25 percent at constant currency.  This performance illustrates the strong value proposition that Application Outsourcing can provide our clients with compelling cost savings.
+ 
+Consulting and Systems Integration signings were up 3 percent at actual rates, down 3 percent at constant currency  a significant improvement over third quarter.  This quarter, small deal performance improved as the quarter   progressed, General Business and Distribution Sectors grew, and the growth markets were up 34 percent at constant currency.
+ 
+Global Business Services revenue was down 3 percent at actual rates, 9 percent at constant currency  while pre-tax margin improved 1.1 points to 16 percent.  This was a record level of pre-tax margin, driven by strong utilization in our delivery centers, good subcontractor resource management, and spending management.   Throughout the year, this dynamic delivery model has enabled us to perform well in a tough economic climate.  And this quarter, we saw some of the leverage our delivery model can provide, with profit growth on lower revenue.
+ 
+Overall, we feel encouraged about the business as we saw improving trends in revenue, margin and signings.
+ 
+So our two services segments did a great job delivering value and managing margin in a very challenging year.  We believe that our dynamic infrastructure and delivery capabilities are paying off  it's what enabled us to deliver on our profit objective of $8 billion for the year.  And we are well positioned heading into 2010  with double digit outsourcing growth in 2009, backlog of $137 billion, improving trends in Global Business Services, and a delivery structure that has enabled us to perform exceptionally well in a tough environment.
+ 
+Software Segment
+ 
+Turning to Software, revenue of $6.6 billion was up 2 percent year to year, down 4 percent at constant currency.
+ 
+Key Branded Middleware grew 6 percent  and was flat at constant currency.  Branded Middleware gained share for the ninth straight quarter as we continue to solidify our lead in the middleware market.  In fact, it represented 63 percent of our software revenue in the quarter, that's up 2 points year to year.
+ 
+Software pre-tax income was up 10 percent and pre-tax margin was up 2.4 points year to year to 41.5 percent.  And for the full year, we delivered 14 percent profit growth in software, and expanded margin by 5 points.  Software delivered over $8 billion of pre-tax income; nearly triple the profit in 2000.
+ 
+Now let me take you through the brands.
+ 
+WebSphere had another strong quarter, growing 13 percent, or 6 percent at constant currency  and gained share.  Business Process Management, Commerce, and DataPower product segments all grew double digits.  ILOG, which drives business rules management, did very well again this quarter and contributed to WebSphere growth.
+ 
+Information Management software was up 7 percent, or 1 percent at constant currency, and held share.  Business Analytics continues to be a key growth area.  Cognos posted strong double-digit growth and gained share, providing a proof point on analytics demand in the market.  IBM's acquisition of SPSS further strengthens our business analytics and optimization strategy by delivering predictive analytic capabilities that help customers drive better business outcomes.  InfoSphere Warehouse, which helps our customers turn information into a strategic asset, also grew double digits.
+ 
+Tivoli grew 7 percent, or 1 percent at constant currency, and gained share.  Enterprise Asset Management, which is part of IBM's Smarter Planet strategy, grew over 40 percent in emerging markets.  Tivoli storage continued its robust growth as customers manage their rapidly growing storage data. Data Protection as well as Storage Management grew double digits, with broad- based geography and sector growth.
+ 
+Lotus software declined 5 percent, or 11 percent at constant currency.
+ 
+Rational declined 4 percent, or 10 percent at constant currency, and held share.
+ 
+Although Software faced a difficult compare against a very strong fourth quarter of last year, we saw continued strength in the demand for software in the Growth Markets, strong growth from our recent acquisitions, and an increase in the volume of small deal activity in North America.  So all very encouraging signs.  There were a number of large deals however that did not close during fourth quarter and have contributed to a very strong first quarter opening pipeline.  And consequently, we expect Software to grow revenue double digits at actual rates in the first quarter.
+ 
+Systems and Technology Segment
+ 
+Systems and Technology revenue was $5.2 billion, down 4 percent at actual rates and 9 percent at constant currency.
+ 
+While our revenue performance bottomed in the second quarter of 2009, the rate of year-to-year decline has sequentially improved in each of the past two quarters.  We had strong growth in System x and blades, and improved performance in microelectronics.  We gained share in System p, System x, blades, and both disc and tape storage.
+ 
+Gross profit margins improved year to year in all brands and for Systems and Technology in total.  This quarter marks the highest gross profit margin for this business since fourth quarter of 2007, driven by improvements in our System x server business and converged p.  And bottom line, Systems & Technology pretax profit grew 15 percent year to year in the fourth quarter.
+ 
+System z revenue declined 27 percent year to year.  MIPS declined 19 percent in the fourth quarter.  Over the past two years, MIPS grew 4 percent compounded.  This is consistent with what you would expect at this point in the product cycle.  Later this year we are releasing the next generation System z.
+ 
+Converged System p revenue declined 14 percent year to year, and gained 4 points of market share.  This is the seventh consecutive quarter of market share gains.  System p has gained share in 10 of the last 12 quarters.  In the fourth quarter, our success with competitive UNIX displacements continued, with almost 200 competitive wins totaling nearly $200 million in the quarter.  For the year, we had over 500 competitive wins, which generated sales of over $600 million.  Later this quarter, we'll introduce the next generation POWER systems, which will deliver two to three times the performance, in the same energy envelope.  So quite an announcement for this product line.
+ 
+System x server revenue grew 37 percent year to year, taking 3 points of share.  This is our fourth consecutive quarter of share gain.  Our improved sales model and enhanced product offerings are the key contributors to this performance.  Total System x blades grew 56 percent year to year, and we expect to gain 6 points of share in blades.
+ 
+Storage revenue grew 1 percent year to year, but was down 4 percent at constant currency.  Disk grew 6 percent and gained share.  Disk growth was driven by strong growth in midrange and XIV.  In fact, we added more than 130 new customers to our XIV platform in the fourth quarter and 400 since the acquisition.   Tape declined 10 percent but gained share again in fourth quarter.
+Microelectronics OEM revenue was up 2 percent year to year.  Our 300mm fab is at near full utilization and our 45nm process output was sold out again this quarter.
+ 
+Systems and Technology closed out 2009 with improving year-to-year revenue dynamics, gross margin improvements in every brand; and pre-tax income growth of 15 percent year to year and a margin of 15.4 percent, up 2.6 points year to year.
+ 
+Quite a performance for our hardware business.
+Cash Flow
+ 
+Turning to our cash performance, we generated $7.2 billion of free cash flow in the quarter, down $600 million year to year.
+ 
+For the year, our free cash flow was up $800 million to $15.1 billion.  This is our seventh consecutive year of free cash flow growth.
+ 
+The year-to-year improvement was driven by growth in net income, higher cash from sales cycle working capital, and lower capex.  This was mitigated by higher retirement-related payments.
+ 
+When I look at uses of cash for the year  we reduced our debt by $7 and a half billion, and we returned $10.3 billion to shareholders.  $2.9 billion dollars of this was through dividends.  And we bought back almost 69 million shares for $7.4 billion, including $3.1 billion this quarter.  At the end of the year, we had $6.1 billion remaining from our last board authorization.
+Balance Sheet
+ 
+Turning to the balance sheet, we finished 2009 with a substantial cash balance of $14 billion.  Cash is up $2.5 billion from September and $1 billion from last December.
+ 
+Our strong free cash flow enabled us to add to our cash balance while reducing our debt by almost $8 billion from last year.
+ 
+Our total debt balance is now $26.1 billion.  Of this, $22.4 billion is in support of our Global Financing segment, which is leveraged at 7.1 to 1.  So, our non-financing debt was $3.7 billion, down almost $6 billion from a year ago.   As a result of the debt reduction and growth in equity, our non-financing debt-to-cap is now 16 percent.
+ 
+The Balance Sheet remains strong and positioned to support the business over the long term.
+EPS Bridge  4Q08 to 4Q09
+ 
+I'll start to wrap up with a brief discussion of the drivers of our earnings per share performance.
+ 
+This quarter, revenue growth contributed to our earnings growth.
+ 
+Our ongoing work to improve our operating leverage resulted in gross margin expansion and expense productivity, which together contributed 30 of the 32 cents of EPS growth.
+ 
+We also had a modest benefit from share repurchases  but it was offset by a higher tax rate.
+EPS Bridge  FY08 to FY09
+ 
+For the year, you can see the benefit of the shift to higher value areas and focus on driving efficiency in the spending base, as margin expansion and expense productivity by far were the largest contributors to our earnings growth.
+ 
+Our ongoing share repurchase program contributed another 34 cents.
+ 
+And tax rate provided a very modest help of only 3 cents.
+ 
+All in, we delivered EPS of $10.01, our seventh consecutive year of double-digit earnings growth.
+Well-Positioned for 2010
+ 
+This was a great year in a tough environment  all a result of the strategic transformation of our business.
+ 
+We've been shifting to higher value businesses.  This better positions us to meet client needs and drives a more profitable mix.  In 2009, software and services each contributed 42 percent of our segment profit.
+ 
+We've also been globally integrating our company to improve productivity and efficiency.  Our ongoing productivity initiatives have reduced our fixed cost base and improved the operational balance point, generating more profit from each dollar of revenue.  With a spend base of almost $80 billion, we've got a lot of opportunity to continue to reduce structure and make our business more efficient.  This operating leverage will provide a real advantage as revenue performance improves in 2010.
+ 
+We're using our strong profit and cash base to drive the significant investment needed to expand our base of opportunity, both organically, and through acquisitions.  We're positioned to capture the secular growth opportunity in the emerging markets.  And we're investing in areas like our Smarter Planet solutions,  business analytics and new compute models such as cloud computing.
+ 
+In addition to supporting investments in growth initiatives and acquisitions, our great cash position and strong cash flow allow us to return capital to shareholders.  This year, we spent over $10 billion on share repurchases and dividends, and increased our dividend for the 14th consecutive year.
+ 
+Bottom line, the changes to the company have allowed us to deliver strong performance since 2002, and even over the last two years in a tough environment.  But more importantly, the transformation has positioned us to come out even stronger in 2010.
+ 
+And as I said earlier, for the full year, we expect EPS of at least $11 for the year.
+ 
+Now Patricia and I will take your questions.
+Closing
+ 
+Thank you, Mark.   Before we begin the Q&A I'd like to remind you of a couple of items.
+ 
+First, we have supplemental charts at the end of the deck that complement our prepared remarks.
+ 
+Second, I'd ask you to refrain from multi-part questions.
+ 
+When we conclude the Q&A, I'll turn the call back to Mark for final comments.
+ 
+Operator, please open it up for questions.
+
+

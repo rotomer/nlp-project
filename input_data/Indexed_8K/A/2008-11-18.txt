@@ -1,0 +1,1627 @@
+FILE:A/A-8K-20081118171942.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Item 1.01  Entry into a Material Definitive Agreement.
+ 
+On November 17, 2008, Agilent Technologies, Inc. ("Agilent") completed the refinancing of the $1.5 billion repurchase obligation of Agilent Technologies World Trade, Inc. ("World Trade") pursuant to the Related Agreement, dated as of September 22, 2008 (the "Lloyds Related Agreement"), by and among Agilent, World Trade and Lloyds TSB Bank plc ("Lloyds TSB").  On November 17, 2008, Lloyds TSB paid $1.5 billion to STEERS Repo Pass-Thru Trust, 2008-1 (the "Trust") and accepted the transfer by novation (the "Novation") of all of the rights and obligations of the Trust under the master repurchase and related agreements described below.  In connection with the Novation, on November 17, 2008, Agilent and/or World Trade entered into the agreements described below.
+ 
+World Trade, Lloyds TSB and the Trust entered into a Novation Agreement, dated November 17, 2008, in furtherance of the Novation.
+ 
+World Trade entered into an amended Master Repurchase Agreement, and a related Confirmation and Annex I, each dated as of November 17, 2008 (collectively, the "Master Repurchase Agreement"), with Lloyds TSB.  Under the Master Repurchase Agreement, World Trade and Lloyds TSB are parties to a repurchase arrangement, whereby World Trade sold 15,000 Class A Preferred Shares (the "Cayco Preferred Shares") issued by Agilent Technologies (Cayco) Limited ("Cayco"), subject to World Trade's obligation to repurchase all of the Cayco Preferred Shares at a total repurchase price of $1.5 billion on or before January 27, 2011 (the "Repurchase Date").  As of November 17, 2008, Lloyds TSB is the registered owner of the Cayco Preferred Shares.  World Trade is obligated to make aggregate quarterly payments to Lloyds TSB at a rate per annum, reset quarterly, with reference to LIBOR plus 175 basis points.  In exchange, World Trade is entitled to receive from Lloyds TSB from time to time amounts equal to all dividends and other distributions in respect of the Cayco Preferred Shares.  Neither World Trade nor Agilent has the right to accelerate the Repurchase Date.  Lloyds TSB can accelerate the Repurchase Date or cause a redemption of the Cayco Preferred Shares by Cayco only upon certain events of default or similar events.
+ 
+Pursuant to the Fourth Amended and Restated Guaranty of Agilent, dated as of November 17, 2008, Agilent has unconditionally and irrevocably guaranteed to Lloyds TSB the timely payment of all obligations of World Trade under the Master Repurchase Agreement.
+ 
+In addition, Agilent and World Trade entered into a Fourth Amended and Restated Agilent Agreement, dated as of November 17, 2008, in favor of Lloyds TSB and certain other parties, regarding certain representations, warranties and covenants of Agilent and World Trade with respect to each other and with respect to AT Cayco and certain other subsidiaries of Agilent.
+ 
+The agreements described above are included as Exhibits 99.1, 99.2, 99.3, 99.4 and 99.5 and are incorporated by reference into this Item 1.01.  
+  The descriptions above are qualified in their entirety by reference to the full text of the agreements.
+Item 9.01  Financial Statements and Exhibits.
+ 
+(d)  Exhibits
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Date:  November 18, 2008
+ 
+
+Exhibit 99.2
+ 
+ 
+September 1996 Version
+ 
+ 
+Applicability
+1.
+             
+ 
+From time to time the parties hereto may enter into transactions in which one party ("Seller") agrees to transfer to the other ("Buyer") securities or other assets ("Securities") against the transfer of funds by Buyer, with a simultaneous agreement by Buyer to transfer to Seller such Securities at a date certain or on demand, against the transfer of funds by Seller.  Each such transaction shall be referred to herein as a "Transaction" and, unless otherwise agreed in writing, shall be governed by this Agreement, including any supplemental terms or conditions contained in Annex I hereto and in any other annexes identified herein or therein as applicable hereunder.
+ 
+Definitions
+2.
+             
+ 
+"Act of Insolvency", with respect to any party, (i) the commencement by such party as debtor of any case or proceeding under any bankruptcy, insolvency, reorganization, liquidation, moratorium, dissolution, delinquency or similar law, or such party seeking the appointment or election of a receiver, conservator, trustee, custodian or similar official for such party or any substantial part of its property, or the convening of any meeting of creditors for purposes of commencing any such case or proceeding or seeking such an appointment or election, (ii) the commencement of any such case or proceeding against such party, or another seeking such an appointment or election, or the filing against a party of an application for a protective decree under the provisions of the Securities Investor Protection Act of 1970, which (A) is consented to or not timely contested by such party, (B) results in the entry of an order for relief, such an appointment or election, the issuance of such a protective decree or the entry of an order having a similar effect, or (C) is not dismissed within 15 days, (iii) the making by such party of a general assignment for the benefit of creditors, or (iv) the admission in writing by such party of such party's inability to pay such party's debts as they become due;
+(a)
+         
+ 
+"Additional Purchased Securities", Securities provided by Seller to Buyer pursuant to Paragraph 4(a) hereof;
+(b)
+        
+ 
+"Buyer's Margin Amount", with respect to any Transaction as of any date, the amount obtained by application of the Buyer's Margin Percentage to the Repurchase Price for such Transaction as of such date;
+(c)
+         
+ 
+"Buyer's Margin Percentage", with respect to any Transaction as of any date, a percentage (which may be equal to the Seller's Margin Percentage) agreed to by Buyer and Seller or, in the absence of any such agreement, the percentage obtained by dividing the Market Value of the Purchased Securities on the Purchase Date by the Purchase Price on the Purchase Date for such Transaction;
+(d)
+        
+ 
+"Confirmation", the meaning specified in Paragraph 3(b) hereof;
+(e)
+         
+ 
+"Income", with respect to any Security at any time, any principal thereof and all interest, dividends or other distributions thereon;
+(f)
+           
+ 
+"Margin Deficit", the meaning specified in Paragraph 4(a) hereof;
+(g)
+        
+ 
+"Margin Excess", the meaning specified in Paragraph 4(b) hereof;
+(h)
+        
+ 
+"Margin Notice Deadline", the time agreed to by the parties in the relevant Confirmation, Annex I hereto or otherwise as the deadline for giving notice requiring same-day satisfaction of margin maintenance obligations as provided in Paragraph 4 hereof (or, in the absence of any such agreement, the deadline for such purposes established in accordance with market practice);
+(i)
+            
+ 
+"Market Value", with respect to any Securities as of any date, the price for such Securities on such date obtained from a generally recognized source agreed to by the parties or the most recent closing bid quotation from such a source, plus accrued Income to the extent not included therein (other than any Income credited or transferred to, or applied to the obligations of, Seller pursuant to Paragraph 5 hereof) as of such date (unless contrary to market practice for such Securities);
+(j)
+            
+ 
+"Price Differential", with respect to any Transaction as of any date, the aggregate amount obtained by daily application of the Pricing Rate for such Transaction to the Purchase Price for such Transaction on a 360 day per year basis for the actual number of days during the period commencing on (and including) the Purchase Date for such Transaction and ending on (but excluding) the date of determination (reduced by any amount of such Price Differential previously paid by Seller to Buyer with respect to such Transaction);
+(k)
+         
+ 
+"Pricing Rate", the per annum percentage rate for determination of the Price Differential;
+(l)
+            
+ 
+"Prime Rate", the prime rate of U.S. commercial banks as published in The Wall Street Journal (or, if more than one such rate is published, the average of such rates);
+(m)
+      
+"Purchase Date", the date on which Purchased Securities are to be transferred by Seller to Buyer;
+(n)
+        
+ 
+"Purchase Price", (i) on the Purchase Date, the price at which Purchased Securities are transferred by Seller to Buyer, and (ii) thereafter, except where Buyer and Seller agree otherwise, such price increased by the amount of any cash transferred by Buyer to Seller pursuant to Paragraph 4 (b) hereof and decreased by the amount of any cash transferred by Seller to Buyer pursuant to Paragraph 4(a) hereof or applied to reduce Seller's obligations under clause (ii) of Paragraph 5 hereof;
+(o)
+        
+ 
+"Purchased Securities", the Securities transferred by Seller to Buyer in a Transaction hereunder, and any Securities substituted therefor in accordance with Paragraph 9 hereof.  The term "Purchased Securities" with respect to any Transaction at any time also shall include Additional Purchased Securities delivered pursuant to Paragraph 4(a) hereof and shall exclude Securities returned pursuant to Paragraph 4(b) hereof;
+(p)
+        
+ 
+"Repurchase Date", the date on which Seller is to repurchase the Purchased Securities from Buyer, including any date determined by application of the provisions of Paragraph 3(c) or 11 hereof;
+(q)
+        
+ 
+"Repurchase Price", the price at which Purchased Securities are to be transferred from Buyer to Seller upon termination of a Transaction, which will be determined in each case (including Transactions terminable upon demand) as the sum of the Purchase Price and the Price Differential as of the date of such determination;
+(r)
+           
+ 
+"Seller's Margin Amount", with respect to any Transaction as of any date, the amount obtained by application of the Seller's Margin Percentage to the Repurchase Price for such Transaction as of such date;
+(s)
+         
+ 
+"Seller's Margin Percentage", with respect to any Transaction as of any date, a percentage (which may be equal to the Buyer's Margin Percentage) agreed to by Buyer and Seller or, in the absence of any such agreement, the percentage obtained by dividing the Market Value of the Purchased Securities on the Purchase Date by the Purchase Price on the Purchase Date for such Transaction.
+(t)
+           
+ 
+Initiation; Confirmation; Termination
+3.
+             
+ 
+An agreement to enter into a Transaction may be made orally or in writing at the initiation of either Buyer or Seller.  On the Purchase Date for the Transaction, the Purchased Securities shall be transferred to Buyer or its agent against the transfer of the Purchase Price to an account of Seller.
+(a)
+         
+ 
+Upon agreeing to enter into a Transaction hereunder, Buyer or Seller (or both), as shall be agreed, shall promptly deliver to the other party a written confirmation of each Transaction (a "Confirmation").  The Confirmation shall describe the Purchased Securities (including CUSIP number, if any), identify
+(b)
+        
+ 
+Buyer and Seller and set forth (i) the Purchase Date, (ii) the Purchase Price, (iii) the Repurchase Date, unless the Transaction is to be terminable on demand, (iv) the Pricing Rate or Repurchase Price applicable to the Transaction, and (v) any additional terms or conditions of the Transaction not inconsistent with this Agreement.  The Confirmation, together with this Agreement, shall constitute conclusive evidence of the terms agreed between Buyer and Seller with respect to the Transaction to which the Confirmation relates, unless with respect to the Confirmation specific objection is made promptly after receipt thereof.  In the event of any conflict between the terms of such Confirmation and this Agreement, this Agreement shall prevail.
+ 
+In the case of Transactions terminable upon demand, such demand shall be made by Buyer or Seller, no later than such time as is customary in accordance with market practice, by telephone or otherwise on or prior to the business day on which such termination will be effective.  On the date specified in such demand, or on the date fixed for termination in the case of Transactions having a fixed term, termination of the Transaction will be effected by transfer to Seller or its agent of the Purchased Securities and any Income in respect thereof received by Buyer (and not previously credited or transferred to, or applied to the obligations of, Seller pursuant to Paragraph 5 hereof) against the transfer of the Repurchase Price to an account of Buyer.
+(c)
+         
+ 
+Margin Maintenance
+4.
+             
+ 
+If at any time the aggregate Market Value of all Purchased Securities subject to all Transactions in which a particular party hereto is acting as Buyer is less than the aggregate Buyer's Margin Amount for all such Transactions (a "Margin Deficit"), then Buyer may by notice to Seller require Seller in such Transactions, at Seller's option, to transfer to Buyer cash or additional Securities reasonably acceptable to Buyer ("Additional Purchased Securities"), so that the cash and aggregate Market Value of the Purchased Securities, including any such Additional Purchased Securities, will thereupon equal or exceed such aggregate Buyer's Margin Amount (decreased by the amount of any Margin Deficit as of such date arising from any Transactions in which such Buyer is acting as Seller).
+(a)
+         
+ 
+If at any time the aggregate Market Value of all Purchased Securities subject to all Transactions in which a particular party hereto is acting as Seller exceeds the aggregate Sellers Margin Amount for all such Transactions at such time (a "Margin Excess"), then Seller may by notice to Buyer require Buyer in such Transactions, at Buyer's option, to transfer cash or Purchased Securities to Seller, so that the aggregate Market Value of the Purchased Securities, after deduction of any such cash or any Purchased Securities so transferred, will thereupon not exceed such aggregate Seller's Margin Amount (increased by the amount of any Margin Excess as of such date arising from any Transactions in which such Seller is acting as Buyer).
+(b)
+        
+ 
+If any notice is given by Buyer or Seller under subparagraph (a) or (b) of this Paragraph at or before the Margin Notice Deadline on any business day, the
+(c)
+         
+ 
+party receiving such notice shall transfer cash or Additional Purchased Securities as provided in such subparagraph no later than the close of business in the relevant market on such day.  If any such notice is given after the Margin Notice Deadline, the party receiving such notice shall transfer such cash or Securities no later than the close of business in the relevant market on the next business day following such notice.
+ 
+Any cash transferred pursuant to this Paragraph shall be attributed to such Transactions as shall be agreed upon by Buyer and Seller.
+(d)
+        
+ 
+Seller and Buyer may agree, with respect to any or all Transactions hereunder, that the respective rights of Buyer or Seller (or both) under subparagraphs (a) and (b) of this Paragraph may be exercised only where a Margin Deficit or Margin Excess, as the case may be, exceeds a specified dollar amount or a specified percentage of the Repurchase Prices for such Transactions (which amount or percentage shall be agreed to by Buyer and Seller prior to entering into any such Transactions).
+(e)
+         
+ 
+Seller and Buyer may agree, with respect to any or all Transactions hereunder, that the respective rights of Buyer and Seller under subparagraphs (a) and (b) of this Paragraph to require the elimination of a Margin Deficit or a Margin Excess, as the case may be, may be exercised whenever such a Margin Deficit or Margin Excess exists with respect to any single Transaction hereunder (calculated without regard to any other Transaction outstanding under this Agreement).
+(f)
+           
+ 
+Income Payments
+5.
+             
+ 
+Seller shall be entitled to receive an amount equal to all Income paid or distributed on or in respect of the Securities that is not otherwise received by Seller, to the full extent it would be so entitled if the Securities had not been sold to Buyer.  Buyer shall, as the parties may agree with respect to any Transaction (or, in the absence of any such agreement, as Buyer shall reasonably determine in its discretion), on the date such Income is paid or distributed either (i) transfer to or credit to the account of Seller such Income with respect to any Purchased Securities subject to such Transaction or (ii) with respect to Income paid in cash, apply the Income payment or payments to reduce the amount, if any, to be transferred to Buyer by Seller upon termination of such Transaction.  Buyer shall not be obligated to take any action pursuant to the preceding sentence (A) to the extent that such action would result in the creation of a Margin Deficit, unless prior thereto or simultaneously therewith Seller transfers to Buyer cash or Additional Purchased Securities sufficient to eliminate such Margin Deficit, or (B) if an Event of Default with respect to Seller has occurred and is then continuing at the time such Income is paid or distributed.
+ 
+Security Interest
+6.
+             
+ 
+Although the parties intend that all Transactions hereunder be sales and purchases and not loans, in the event any such Transactions are deemed to be loans, Seller shall be deemed to have pledged to Buyer as security for the performance by
+ 
+Seller of its obligations under each such Transaction, and shall be deemed to have granted to Buyer a security interest in, all of the Purchased Securities with respect to all Transactions hereunder and all Income thereon and other proceeds thereof.
+ 
+Payment and Transfer
+7.
+             
+ 
+Unless otherwise mutually agreed, all transfers of funds hereunder shall be in immediately available funds.  All Securities transferred by one party hereto to the other party (i) shall be in suitable form for transfer or shall be accompanied by duly executed instruments of transfer or assignment in blank and such other documentation as the party receiving possession may reasonably request, (ii) shall be transferred on the book-entry system of a Federal Reserve Bank, or (iii) shall be transferred by any other method mutually acceptable to Seller and Buyer.
+ 
+Segregation of Purchased Securities
+8.
+             
+ 
+To the extent required by applicable law, all Purchased Securities in the possession of Seller shall be segregated from other securities in its possession and shall be identified as subject to this Agreement.  Segregation may be accomplished by appropriate identification on the books and records of the holder, including a financial or securities intermediary or a clearing corporation.  All of Seller's interest in the Purchased Securities shall pass to Buyer on the Purchase Date and, unless otherwise agreed by Buyer and Seller, nothing in this Agreement shall preclude Buyer from engaging in repurchase transactions with the Purchased Securities or otherWise selling, transferring, pledging or hypothecating the Purchased Securities, but no such transaction shall relieve Buyer of its obligations to transfer Purchased Securities to Seller pursuant to Paragraph 3, 4 or 11 hereof, or of Buyer's obligation to credit or pay Income to, or apply Income to the obligations of, Seller pursuant to Paragraph 5 hereof.
+ 
+ 
+ 
+ 
+Substitution
+9.
+             
+ 
+Seller may, subject to agreement with and acceptance by Buyer, substitute other Securities for any Purchased Securities.  Such substitution shall be made by transfer to Buyer of such other Securities and transfer to Seller of such Purchased Securities.  After substitution, the substituted Securities shall be deemed to be Purchased Securities.
+(a)
+         
+ 
+In Transactions in which Seller retains custody of Purchased Securities, the parties expressly agree that Buyer shall be deemed, for purposes of subparagraph (a) of this Paragraph, to have agreed to and accepted in this Agreement substitution by Seller of other Securities for Purchased Securities; provided, however, that such other Securities shall have a Market Value at least equal to the Market Value of the Purchased Securities for which they are substituted.
+(b)
+        
+ 
+Representations
+10.
+      
+ 
+Each of Buyer and Seller represents and warrants to the other that (i) it is duly authorized to execute and deliver this Agreement, to enter into Transactions contemplated hereunder and to perform its obligations hereunder and has taken all necessary action to authorize such execution, delivery and performance, (ii) it will engage in such Transactions as principal (or, if agreed in writing, in the form of an annex hereto or otherwise, in advance of any Transaction by the other party hereto, as agent for a disclosed principal), (iii) the person signing this Agreement on its behalf is duly authorized to do so on its behalf (or on behalf of any such disclosed principal), (iv) it has obtained all authorizations of any governmental body required in connection with this Agreement and the Transactions hereunder and such authorizations are in full force and effect and (v) the execution, delivery and performance of this Agreement and the Transactions hereunder will not violate any law, ordinance, charter, by-law or rule applicable to it or any agreement by which it is bound or by which any of its assets are affected.  On the Purchase Date for any Transaction Buyer and Seller shall each be deemed to repeat all the foregoing representations made by it.
+ 
+Events of Default
+11.
+      
+ 
+In the event that (i) Seller fails to transfer or Buyer fails to purchase Purchased Securities upon the applicable Purchase Date, (ii) Seller fails to repurchase or Buyer fails to transfer Purchased Securities upon the applicable Repurchase Date, (iii) Seller or Buyer fails to comply with Paragraph 4 hereof, (iv) Buyer fails, after one business day's notice, to comply with Paragraph 5 hereof, (v) an Act of Insolvency occurs with respect to Seller or Buyer, (vi) any representation made by Seller or Buyer shall have been incorrect or untrue in any material respect when made or repeated or deemed to have been made or repeated, or (vii) Seller or Buyer shall admit to the other its inability to, or its intention not to, perform any of its obligations hereunder (each an "Event of Default"):
+The nondefaulting party may, at its option (which option shall be deemed to have been exercised immediately upon the occurrence of an Act of Insolvency), declare an Event of Default to have occurred hereunder and, upon the exercise or deemed exercise of such option, the Repurchase Date for each Transaction hereunder shall, if it has not already occurred, be deemed immediately to occur (except that, in the event that the Purchase Date for any Transaction has not yet occurred as of the date of such exercise or deemed exercise, such Transaction shall be deemed immediately canceled).  The nondefaulting party shall (except upon the occurrence of an Act of Insolvency) give notice to the defaulting party of the exercise of such option as promptly as practicable.
+(a)
+         
+ 
+In all Transactions in which the defaulting party is acting as Seller, if the nondefaulting party exercises or is deemed to have exercised the option referred to in subparagraph (a) of this Paragraph, (i) the defaulting party's obligations in such Transactions to repurchase all Purchased Securities, at the Repurchase Price therefor on the Repurchase Date determined in accordance with subparagraph (a) of this Paragraph, shall thereupon become immediately due and payable, (ii) all Income paid after such exercise or deemed exercise shall be retained by the nondefaulting party and applied to the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder, and (iii) the defaulting party shall immediately deliver to the nondefaulting party any Purchased Securities subject to such Transactions then in the defaulting party's possession or control.
+(b)
+        
+ 
+In all Transactions in which the defaulting party is acting as Buyer, upon tender by the nondefaulting party of payment of the aggregate Repurchase Prices for all such Transactions, all right, title and interest in and entitlement to all Purchased Securities subject to such Transactions shall be deemed transferred to the nondefaulting party, and the defaulting party shall deliver all such Purchased Securities to the nondefaulting party.
+(c)
+         
+ 
+If the nondefaulting party exercises or is deemed to have exercised the option referred to in subparagraph (a) of this Paragraph, the nondefaulting party, without prior notice to the defaulting party, may:
+(d)
+        
+ 
+as to Transactions in which the defaulting party is acting as Seller, (A) immediately sell, in a recognized market (or otherwise in a commercially reasonable manner) at such price or prices as the nondefaulting party may reasonably deem satisfactory, any or all Purchased Securities subject to such Transactions and apply the proceeds thereof to the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder or (B) in its sole discretion elect, in lieu of selling all or a portion of such Purchased Securities, to give the defaulting party credit for such Purchased Securities in an amount equal to the price therefor on such date, obtained from a generally recognized source or the most recent closing bid quotation from such a source, against
+(i)
+            
+the aggregate unpaid Repurchase Prices and any other amounts owing by the defaulting party hereunder; and
+ 
+as to Transactions in which the defaulting party is acting as Buyer, (A) immediately purchase, in a recognized market (or otherwise in a commercially reasonable manner) at such price or prices as the nondefaulting party may reasonably deem satisfactory, securities ("Replacement Securities") of the same class and amount as any Purchased Securities that are not delivered by the defaulting party to the nondefaulting party as required hereunder or (B) in its sole discretion elect, in lieu of purchasing Replacement Securities, to be deemed to have purchased Replacement Securities at the price therefor on such date, obtained from a generally recognized source or the most recent closing offer quotation from such a source.
+(ii)
+         
+ 
+Unless otherwise provided in Annex I, the parties acknowledge and agree that (1) the Securities subject to any Transaction hereunder are instruments traded in a recognized market, (2) in the absence of a generally recognized source for prices or bid or offer quotations for any Security, the nondefaulting party may establish the source therefor in its sole discretion and (3) all prices, bids and offers shall be determined together with accrued Income (except to the extent contrary to market practice with respect to the relevant Securities).
+ 
+As to Transactions in which the defaulting party is acting as Buyer, the defaulting party shall be liable to the nondefaulting party for any excess of the price paid (or deemed paid) by the nondefaulting party for Replacement Securities over the Repurchase Price for the Purchased Securities replaced thereby and for any amounts payable by the defaulting party under Paragraph 5 hereof or otherwise hereunder.
+(e)
+         
+ 
+For purposes of this Paragraph 11, the Repurchase Price for each Transaction hereunder in respect of which the defaulting party is acting as Buyer shall not increase above the amount of such Repurchase Price for such Transaction determined as of the date of the exercise or deemed exercise by the nondefaulting party of the option referred to in subparagraph (a) of this Paragraph.
+(f)
+           
+ 
+The defaulting party shall be liable to the nondefaulting party for (i) the amount of all reasonable legal or other expenses incurred by the nondefaulting party in connection with or as a result of an Event of Default, (ii) damages in an amount equal to the cost (including all fees, expenses and commissions) of entering into replacement transactions and entering into or terminating hedge transactions in connection with or as a result of an Event of Default, and (iii) any other loss, damage, cost or expense directly arising or resulting from the occurrence of an Event of Default in respect of a Transaction.
+(g)
+        
+ 
+To the extent permitted by applicable law, the defaulting party shall be liable to the nondefaulting party for interest on any amounts owing by the defaulting
+(h)
+        
+party hereunder, from the date the defaulting party becomes liable for such amounts hereunder until such amounts are (i) paid in full by the defaulting party or (ii) satisfied in full by the exercise of the nondefaulting party's rights hereunder.  Interest on any sum payable by the defaulting party to the nondefaulting party under this Paragraph 11 (h) shall be at a rate equal to the greater of the Pricing Rate for the relevant Transaction or the Prime Rate.
+ 
+The nondefaulting party shall have, in addition to its rights hereunder, any rights otherwise available to it under any other agreement or applicable law.
+(i)
+            
+ 
+Single Agreement
+12.
+      
+ 
+Buyer and Seller acknowledge that, and have entered hereinto and will enter into each Transaction hereunder in consideration of and in reliance upon the fact that, all Transactions hereunder constitute a single business and contractual relationship and have been made in consideration of each other.  Accordingly, each of Buyer and Seller agrees (i) to perform all of its obligations in respect of each Transaction hereunder, and that a default in the performance of any such obligations shall constitute a default by it in respect of all Transactions hereunder, (ii) that each of them shall be entitled to set off claims and apply property held by them in respect of any Transaction against obligations owing to them in respect of any other Transactions hereunder and (iii) that payments, deliveries and other transfers made by either of them in respect of any Transaction shall be deemed to have been made in consideration of payments, deliveries and other transfers in respect of any other Transactions hereunder, and the obligations to make any such payments, deliveries and other transfers may be applied against each other and netted.
+ 
+Notices and Other Communications
+13.
+      
+ 
+Any and all notices, statements, demands or other communications hereunder may be given by a party to the other by mail, facsimile, telegraph, messenger or otherwise to the address specified in Annex II hereto, or so sent to such party at any other place specified in a notice of change of address hereafter received by the other.  All notices, demands and requests hereunder may be made orally, to be confirmed promptly in writing, or by other communication as specified in the preceding sentence.
+ 
+Entire Agreement; Severability
+14.
+      
+ 
+This Agreement shall supersede any existing agreements between the parties containing general terms and conditions for repurchase transactions.  Each provision and agreement herein shall be treated as separate and independent from any other provision or agreement herein and shall be enforceable notwithstanding the unenforceability of any such other provision or agreement.
+ 
+Non-assignability; Termination
+15.
+      
+ 
+The rights and obligations of the parties under this Agreement and under any Transaction shall not be assigned by either party without the prior written consent of the other party, and any such assignment without the prior written
+(a)
+         
+consent of the other party shall be null and void.  Subject to the foregoing, this Agreement and any Transactions shall be binding upon and shall inure to the benefit of the parties and their respective successors and assigns.  This Agreement may be terminated by either party upon giving written notice to the other, except that this Agreement shall, notwithstanding such notice, remain applicable to any Transactions then outstanding.
+ 
+Subparagraph (a) of this Paragraph 15 shall not preclude a party from assigning, charging or otherwise dealing with all or any part of its interest in any sum payable to it under Paragraph 11 hereof.
+(b)
+        
+ 
+Governing Law
+16.
+      
+ 
+This Agreement shall be governed by the laws of the State of New York without giving effect to the conflict of law principles thereof.
+ 
+No Waivers, Etc.
+17.
+      
+ 
+No express or implied waiver of any Event of Default by either party shall constitute a waiver of any other Event of Default and no exercise of any remedy hereunder by any party shall constitute a waiver of its right to exercise any other remedy hereunder.  No modification or waiver of any provision of this Agreement and no consent by any party to a departure herefrom shall be effective unless and until such shall be in writing and duly executed by both of the parties hereto.  Without limitation on any of the foregoing, the failure to give a notice pursuant to Paragraph 4 (a) or 4(b) hereof will not constitute a waiver of any right to do so at a later date.
+ 
+Use of Employee Plan Assets
+18.
+      
+ 
+If assets of an employee benefit plan subject to any provision of the Employee Retirement Income Security Act of 1974 ("ERISA") are intended to be used by either party hereto (the "Plan Party") in a Transaction, the Plan Party shall so notify the other party prior to the Transaction.  The Plan Party shall represent in writing to the other party that the Transaction does not constitute a prohibited transaction under ERISA or is otherwise exempt therefrom, and the other party may proceed in reliance thereon but shall not be required so to proceed.
+(a)
+         
+ 
+Subject to the last sentence of subparagraph (a) of this Paragraph, any such Transaction shall proceed only if Seller furnishes or has furnished to Buyer its most recent available audited statement of its financial condition and its most recent subsequent unaudited statement of its financial condition.
+(b)
+        
+ 
+By entering into a Transaction pursuant to this Paragraph, Seller shall be deemed (i) to represent to Buyer that since the date of Seller's latest such financial statements, there has been no material adverse change in Seller's financial condition which Seller has not disclosed to Buyer, and (ii) to agree to provide Buyer with future audited and unaudited statements of its financial condition as they are issued, so long as it is a Seller in any outstanding Transaction involving a Plan Party.
+(c)
+         
+ 
+Intent
+19.
+      
+ 
+The parties recognize that each Transaction is a "repurchase agreement" as that term is defined in Section 101 of Title 11 of the United States Code, as amended (except insofar as the type of Securities subject to such Transaction or the term of such Transaction would render such definition inapplicable), and a "securities contract" as that term is defined in Section 741 of Title 11 of the United States Code, as amended (except insofar as the type of assets subject to such Transaction would render such definition inapplicable).
+(a)
+         
+ 
+It is understood that either party's right to liquidate Securities delivered to it in connection with Transactions hereunder or to exercise any other remedies pursuant to Paragraph 11 hereof is a contractual right to liquidate such Transaction as described in Sections 555 and 559 of Title 11 of the United States Code, as amended.
+(b)
+        
+ 
+The parties agree and acknowledge that if a party hereto is an "insured depository institution," as such term is defined in the Federal Deposit Insurance Act, as amended ("FDIA"), then each Transaction hereunder is a "qualified financial contract," as that term is defined in FDIA and any rules, orders or policy statements thereunder (except insofar as the type of assets subject to such Transaction would render such definition inapplicable).
+(c)
+         
+ 
+It is understood that this Agreement constitutes a "netting contract" as defined in and subject to Title IV of the Federal Deposit Insurance Corporation Improvement Act of 1991 ("FDICIA") and each payment entitlement and payment obligation under any Transaction hereunder shall constitute a "covered contractual payment entitlement" or "covered contractual payment obligation", respectively, as defined in and subject to FDICIA (except insofar as one or both of the parties is not a "financial institution" as that term is defined in FDICIA).
+(d)
+        
+ 
+Disclosure Relating to Certain Federal Protections
+20.
+      
+ 
+The parties acknowledge that they have been advised that:
+ 
+in the case of Transactions in which one of the parties is a broker or dealer registered with the Securities and Exchange Commission ("SEC") under Section 15 of the Securities Exchange Act of 1934 ("1934 Act"), the Securities Investor Protection Corporation has takenthe position that the provisions of the Securities Investor Protection Act of 1970 ("SIPA") do not protect the other party with respect to any Transaction hereunder;
+(a)
+         
+ 
+in the case of Transactions in which one of the parties is a government securities broker or a government securities dealer registered with the SEC under Section 15C of the 1934 Act, SIPA will not provide protection to the other party with respect to any Transaction hereunder; and
+(b)
+        
+ 
+in the case of Transactions in which one of the parties is a financial institution, funds held by the financial institution pursuant to a Transaction hereunder are not a deposit and therefore are not insured by the Federal Deposit Insurance Corporation or the National Credit Union Share Insurance Fund, as applicable.
+(c)
+         
+ANNEX I
+ 
+Supplemental Terms and Conditions
+ 
+This Annex I forms a part of the Master Repurchase Agreement ("") dated as of November 17, 2008 between Agilent Technologies World Trade, Inc. (the "") and Lloyds TSB Bank, plc (the "").  Capitalized terms used but not defined in this Annex I shall have the meanings ascribed to them in the Agreement.
+Agreement
+Seller
+Buyer
+ 
+The Agreement has been entered into by Seller and Buyer pursuant to a Novation Agreement dated as of November 17, 2008 among Buyer, STEERS Repo Pass-Thru Trust, 2008-1 ("") and Seller relating to the Master Repurchase Agreement dated as of March 17, 2008 between Transferring Buyer, as buyer, and Seller, as seller.  The Agreement is the "New Agreement" under such Novation Agreement.
+Transferring Buyer
+ 
+.  In addition to this Annex I and Annex II, the following Annexes and any Schedules thereto shall form a part of the Agreement and shall be applicable thereunder:
+1.
+                                      
+Other Applicable Annexes
+ 
+None.
+ 
+.
+1.
+                                      
+Definitions
+ 
+(a)           For purposes of the Agreement and this Annex I, the following terms shall have the following meanings:
+ 
+"" means a day other than (i) a Saturday or Sunday or (ii) a day on which banks in New York, London or the Cayman Islands are authorized or required by law or executive order to, or customarily, remain closed.
+Business Day
+ 
+"" means that certain fourth amended and restated guaranty by the Guarantor, dated as of November 17, 2008 in favor of the Buyer.
+Guarantee
+ 
+"" means Agilent Technologies, Inc.
+Guarantor
+ 
+"" means, with respect to any Securities, the date on which Income is paid in respect of such Securities.
+Income Payment Date
+ 
+"" means at any time, in relation to the Purchased Securities, the amount which, in the reasonable opinion of the nondefaulting party, represents their fair market value, having regard to such pricing sources and methods (which may include, without limitation, available quotations for the Purchased Securities) as the nondefaulting party considers appropriate, plus all reasonable costs, commissions, fees and expenses that would be incurred in connection with the purchase of the Purchased Securities, calculated on the assumption that the aggregate thereof is the least that could reasonably be expected to be paid in order to carry out such purchase.
+Net Value
+ 
+"" has the meaning specified in the Confirmation.
+Price Differential
+ 
+"" means each of the dates specified in the Confirmation as being a Price Differential Payment Date.
+Price Differential Payment Date
+"" means as of any date of determination, 15,000 of the Purchased Security, less any Purchased Security for which the Repurchase Price has been tendered to Buyer in satisfaction of Seller's obligation to repurchase such Purchased Security on or prior thereto.
+Purchased Securities
+ 
+"" means one share of Class A Preferred Shares issued by Agilent Technologies (Cayco) Limited, an exempted company organized under the laws of the Cayman Islands, with an issue price per share of USD 100,000; provided that if any new or different Security or other consideration shall be exchanged for any Purchased Security by recapitalization, merger, consolidation, conversion or other action, or received in connection with a redemption of any Purchased Security, such new or different Security, or other consideration shall, effective upon such exchange or redemption, be deemed to become a Purchased Security, in substitution for the former Purchased Security for which such exchange is made, only to the extent each Rating Agency issuing a rating with respect to the Agreement shall have confirmed in writing that such substitution will not result in a reduction or withdrawal of its rating of the Agreement.
+Purchased Security
+ 
+"" means Standard & Poor's, a Division of The McGraw-Hill Companies, Inc. and any successor thereto.
+Rating Agency
+ 
+"" means any date on which the Seller is required to repurchase all or a portion of the Purchased Securities from Buyer, including any date determined by application of the provisions of Paragraph 3(c) or 11 of the Agreement or Section 9 of this Annex I.
+Repurchase Date
+ 
+"" means as of any date of determination, USD 100,000 per Purchased Security.
+Repurchase Price
+ 
+(b)           Paragraph 2(k) of the Agreement is hereby deleted.
+ 
+3.
+                                      
+Purchase Price Maintenance
+.
+ 
+(a)           Provided that no Event of Default with respect to Seller has occurred and is continuing, the parties agree that in any Transaction hereunder whose term extends over an Income Payment Date for the Securities subject to such Transaction, Buyer shall (including by causing its custodian to take such actions on its behalf), on the first Business Day following the Income Payment Date, transfer to or credit to the account of Seller an amount equal to such Income payment or payments pursuant to Paragraph 5(i) of the Agreement and Buyer shall not apply the Income payment or payments to reduce the amount to be transferred to Buyer by Seller upon termination of the Transaction pursuant to Paragraph 5(ii) of the Agreement.
+ 
+(b)           Notwithstanding the definition of Purchase Price in Paragraph 2 of the Agreement and as a result of paragraph 4 below, the parties agree that the Purchase Price will not be increased or decreased by the amount of any cash transferred by one party to the other pursuant to Paragraph 4 of the Agreement.
+ 
+.
+4.
+                                      
+Margin Maintenance
+ 
+Paragraph 4 of the Agreement is hereby deleted in its entirety.  Clause (A) of the third sentence of Paragraph 5 of the Agreement shall be inapplicable to any Transaction hereunder.
+ 
+.  Notwithstanding anything to the contrary in the Agreement, Seller and Buyer acknowledge and agree that the Purchased Securities subject to the Transaction hereunder are not instruments traded in a recognized market and therefore the nondefaulting party may establish the value of any Purchased Securities in its sole discretion acting in a commercially reasonable manner.
+5.
+                                      
+No Recognized Market
+.  Paragraph 5 of the Agreement is hereby amended by replacing the words "on the date such Income is paid or distributed" in the fifth line thereof with the following words:  "on the date that is the first Business Day after the applicable Income Payment Date".
+6.
+                                      
+Income Payments
+ 
+. Paragraph 6 of the Agreement is hereby deleted and replaced with the following:
+7.
+                                      
+Security Interest
+ 
+6. Security Interest
+.  Although the parties intend that all Transactions hereunder be sales and purchases and not loans, in the event any such Transactions are deemed to be loans, Seller shall be deemed to have pledged to Buyer as security for the performance by Seller of its obligations under each such Transaction, and shall be deemed to have granted to Buyer a security interest in, all of Seller's right, title and interest in and to the Purchased Securities with respect to all Transactions hereunder, all securities accounts to which the Purchased Securities are credited and all security entitlements with respect thereto and all Income on and other proceeds of the foregoing (collectively the "Deemed Collateral").
+ 
+.
+8.
+                                      
+Events of Default
+ 
+(a)           The first paragraph in Paragraph 11 of the Agreement is hereby deleted and replaced with the following:
+ 
+"In the event that (i) Seller fails to transfer Purchased Securities upon the applicable Purchase Date, (ii) Seller fails to repurchase or Buyer fails to transfer Purchased Securities upon the applicable Repurchase Date (except that a failure to repurchase Purchased Securities upon the applicable Repurchase Date shall not constitute an Event of Default in the event that Buyer is a defaulting party on such Repurchase Date), (iii) Buyer fails to comply with Paragraph 5 of the Agreement, as amended, and such failure is not remedied on or before the second Business Day after such failure, (iv) Seller fails to pay Buyer the Price Differential on the related Price Differential Payment Date and such failure is not remedied on or before the fifth calendar day following the related Price Differential Payment Date or, if such fifth calendar day is not a Business Day, the immediately succeeding Business Day, (v) Seller fails to pay to Buyer any amounts, other than Price Differential, owing under the Agreement when due and such failure is not remedied on or before the fifth calendar day following the date on which such amounts are due or, if such fifth calendar day is not a Business Day, the immediately succeeding Business Day, (vi) an Act of Insolvency occurs with respect to Seller, the Guarantor or Buyer, (vii) any representation made by Seller, the Guarantor or Buyer hereunder shall have been incorrect or untrue in any material respect when made or repeated or deemed to have been made or repeated, (viii) Seller, the Guarantor or Buyer shall admit in writing to the other its inability to, or its intention not to, perform any of its obligations hereunder; or (ix) Buyer or Seller breaches Paragraph 15(a) of the Agreement or paragraph 13(b) of Annex I (each an ""):"
+Event of Default
+ 
+(b)           Paragraph 11(a) of the Agreement is hereby amended by inserting after the words "(except that," in line 5 thereof the following words:  "upon the occurrence of an Act of Insolvency with respect to Buyer, the Repurchase Date for each Transaction hereunder shall be deemed to occur on the fifth Business Day following the deemed exercise of such option and".
+ 
+(c)           Paragraph 11(b) of the Agreement is hereby amended by inserting after the words "at the Repurchase Price therefor" the following words: ", together with all accrued unpaid Price Differential".
+ 
+(d)           Paragraph 11(d)(i) is hereby amended by deleting subparagraph (B) in its entirety and substituting the following words therefor:  "(B) in its sole discretion elect, in lieu of selling all or a portion of such Purchased Securities, to give the defaulting party credit for such Purchased Securities in an amount equal to the Net Value therefor on such date against the aggregate unpaid Repurchase Price and any other amounts owing by the defaulting party hereunder; and".
+ 
+(e)           Paragraph 11(d)(ii) is hereby replaced with the following:
+ 
+"(ii)         as to Transactions in which the defaulting party is acting as Buyer, immediately determine in a commercially reasonable manner an amount equal to the Net Value of the Purchased Securities that are not delivered by the defaulting party to the nondefaulting party as required hereunder."
+ 
+(f)            Paragraph 11(e) is hereby replaced with the following:
+ 
+"Upon the occurrence of an Event of Default, (i) the Seller shall be liable to the Buyer for the excess, if any, of (1) (I) the Repurchase Price (II) any unpaid Price Differential over (2) (I), as applicable, (A) if the defaulting party is acting as Buyer, the amount equal to the Net Value of the Purchased Securities as determined by the Seller or (B) if the defaulting party is acting as Seller, the proceeds realized from the liquidation of the Purchased Securities or credit given for the Purchased Securities to Seller (II) any amounts actually received by Buyer and payable by Buyer under Paragraph 5 hereof or otherwise hereunder and not paid, and (ii) the Buyer shall be liable to the Seller for the excess, if any, of (1) (I), as applicable, (A) if the defaulting party is acting as Buyer, the amount equal to the Net Value of the Purchased Securities as determined by the Seller or (B) if the defaulting party is acting as Seller, the proceeds realized from the liquidation of the Purchased Securities or credit given for the Purchased Securities to Seller (II) any amounts actually received by Buyer and payable by Buyer under Paragraph 5 hereof or otherwise hereunder and not paid over (2) (I) the Repurchase Price (II) any unpaid Price Differential."
+plus
+plus
+plus
+plus
+ 
+(g)           Paragraph 11(g) is hereby deleted in its entirety.
+ 
+(h)           The following sub-paragraph (j) is hereby inserted at the end of Paragraph 11:
+ 
+"(j) If a party does not pay any amount on the date due (without regard to any applicable grace periods), including without limitation any Price Differential or any amount payable by Buyer under Paragraph 5 of the Agreement, such party will, to the extent permitted by applicable law, pay interest on that amount to the other party in the same currency as that amount, for the period from (and including) the date the amount becomes due to (but excluding) the date the amount is actually paid, by daily application of the greater of the Pricing Rate and the Prime Rate to such amount.  Notwithstanding the above, upon the declaration of an Event of Default, Paragraph (h) shall apply."
+ 
+.
+9.
+                                      
+Payments by Seller to Buyer
+ 
+(a)           The Seller or the Guarantor (to the extent Seller fails to pay) shall pay to the Buyer on each Price Differential Payment Date an amount equal to the accrued unpaid Price Differential.
+ 
+(b)           In the event of Seller's failure to pay by 1:30 p.m. (New York time) amounts owing pursuant to subparagraph (a) above on the date such amounts are due, the Guarantor shall make such payments by 2:00 p.m. (New York time) on such date.
+ 
+.
+10.
+                                
+Acceleration of Repurchase Date
+ 
+(a)           Seller may, by at least one Business Day's notice to Buyer, designate a day (a "") as the Repurchase Date for a portion of the Purchased Securities (the "").  On such Partial Accelerated Repurchase Date, Seller's obligation to repurchase the Terminated Purchased Securities at the Repurchase Price therefor shall become immediately due and payable.  In addition to the payment of the applicable Repurchase Price on such Partial Accelerated Repurchase Date, Seller shall also pay any accrued but unpaid Price Differential relating to the Terminated Purchased Securities on such Partial Accelerated Repurchase Date.  A Partial Accelerated Repurchase Date shall not occur unless payment in cash of the relevant Repurchase Price and any such Price Differential is tendered to Buyer or the account designated by Buyer on or prior to the date specified as the Partial Accelerated Repurchase Date.
+Partial Accelerated Repurchase Date
+Terminated Purchased Securities
+ 
+(b)           Seller may, by at least one Business Day's notice to Buyer, designate a day (an "") as the Repurchase Date for all of the Purchased Securities.  On such Accelerated Repurchase Date, Seller's obligation to repurchase the Purchased Securities at the Repurchase Price therefor shall become immediately due and payable.  In addition to the payment of the applicable Repurchase Price on such Accelerated Repurchase Date, Seller shall also pay any accrued but unpaid Price Differential on such Accelerated Repurchase Date.  An Accelerated Repurchase Date shall not occur unless payment in cash of the relevant Repurchase Price and any such Price Differential is tendered to Buyer or the account designated by Buyer on or prior to the date specified as the Accelerated Repurchase Date.
+Accelerated Repurchase Date
+ 
+.
+11.
+                                
+Dividends, Distributions, etc
+ 
+(a)           In accordance with Paragraph 5 of the Agreement, Seller shall be entitled to receive an amount equal to all Income paid or distributed on or in respect of Purchased Securities that is not otherwise received by Seller, to the full extent it would be so entitled if Purchased Securities had not been sold to Buyer.  The parties expressly acknowledge and agree, for the avoidance of doubt, that such Income shall include, but is not limited to:  (i) cash and all other property, (ii) stock dividends, (iii) Securities received as a result of split ups of Purchased Securities and distributions in respect thereof, and (iv) all rights to purchase additional Securities (except to the extent that any amounts included in the foregoing clauses (i) through (iv) would be deemed to be Purchased Securities under paragraph 2 of this Annex I).
+ 
+(b)           Cash Income paid or distributed on or in respect of Purchased Securities, which Seller is entitled to receive pursuant to subparagraph (a) of this paragraph, shall be treated in accordance with Paragraph 5 of the Agreement, as amended herein.  Notwithstanding Paragraph 5 of the Agreement, non-cash Income received by Buyer shall be added to the Purchased Securities on the date of distribution and shall be considered such for all purposes, subject to Buyer's obligation to transfer Purchased Securities to Seller upon termination of the relevant Transaction in accordance with the terms of the Agreement.  Buyer shall pay to Seller such amount as it is required to pay pursuant to paragraph 11(a) free and clear and without deduction on account of any withholding tax or other taxes; provided, however, that in the event Buyer has obtained and furnished to Seller an opinion of nationally recognized tax counsel in the relevant jurisdiction to the effect that as a result of a change in law occurring after the Original Purchase Date, Buyer is required to deduct amounts on account of withholding tax or other taxes from such payments, the expense of which opinion being shared equally by Buyer and Seller, then Buyer may deduct and pay to the relevant governmental authority any such taxes (without any obligation to pay any additional amounts in respect thereof).
+(c)           Notwithstanding paragraph 3(a) of this Annex I and subparagraphs (a) and (b) above, in the event that Seller fails to pay Buyer the Price Differential on the related Price Differential Payment Date and such failure is not remedied on or before the fifth calendar day following the related Price Differential Payment Date or, if such fifth calendar day is not a Business Day, the immediately succeeding Business Day, then Buyer may, without exercising its option to declare an Event of Default to have occurred under the Agreement, retain Income paid or distributed after such Price Differential Payment Date and apply it to the amount of any accrued but unpaid Price Differential and any interest thereon.
+ 
+.
+12.
+                                
+Rights of Buyer in Purchased Securities
+ 
+For the avoidance of doubt, Seller waives any right to vote, or to provide any consent or to take any similar action with respect to, Purchased Securities in the event that the record date or deadline for such vote, consent or other action falls during the term of the Transaction.
+ 
+.
+13.
+                                
+Assignability
+ 
+(a)          
+Paragraph 15(a) of the Agreement is hereby amended (i) by inserting the following words after the first occurrence of the word "without" in the first sentence thereof: "(A) if the proposed transferee does not qualify as a "financial institution" within the meaning of Bankruptcy Code  101(22A) or any successor provision, each Rating Agency then issuing a rating
+with respect to the Agreement having confirmed in writing that such assignment will not result in a reduction or withdrawal of its rating of the Agreement, and (B)", (ii) by inserting the following words after the first occurrence of the words "other party," in the first sentence thereof:  "such prior written consent not to be unreasonably withheld (it being understood that the Seller may withhold its consent if the proposed transferee would be required to withhold amounts on account of any Taxes from any payments that it is required to make to Seller pursuant to paragraph 11(a) of Annex I hereto in excess of such amounts that Buyer would be required to withhold at the time the assignment or transfer would occur)," and (iii) by inserting the following words at the end of the first sentence thereof: ", that the transfer of any rights or obligations of a party under the Agreement and any Transaction to any affiliate of Lloyds TSB Bank plc, which affiliate at the time of the assignment or transfer would not be required to withhold amounts on account of any withholding tax or other taxes from any payments that it is required to make to Seller pursuant to paragraph 11(a) of Annex I hereto, does not require the prior consent of the other party
+provided
+and, , , if any assignment, syndication, or other transfer results in Seller or Guarantor being obligated to withhold amounts in respect of U.S. withholding tax from any payment to any transferee of Buyer (after taking into account any tax forms or certifications provided to Seller or Guarantor by such transferee), then Seller shall have no obligation to gross-up or otherwise compensate such transferee in respect of such U.S. withholding tax, and , , that the transferee shall make any payments it is required to make to the Seller pursuant to paragraph 11(a) 
+provided
+further
+provided
+further
+of Annex I hereto
+free and clear and without deduction on account of any
+withholding tax or other t
+axes; provided, however, that in the event Buyer has obtained and furnished to Seller an opinion of nationally recognized tax counsel in the relevant jurisdiction to the effect that as a result of a change in law occurring after the date on which the transfer or assignment to such transferee occurred, such transferee is required to deduct amounts on account of
+withholding tax or other t
+axes from such payments, the expense of which opinion being shared equally by Buyer and Seller, then such transferee may deduct and pay to the relevant governmental authority any such taxes (without any obligation to pay any additional amounts in respect thereof)
+.
+"
+ 
+(b)           Buyer agrees that, subject to Paragraph 15(a) of the Agreement as amended herein, any transfer of its rights and obligations under the Agreement shall be effected by novation pursuant to and in accordance with the terms of a novation agreement substantially in the form of
+ 
+Schedule A hereto (a ""), which contemplates the transfer of all or a portion of Buyer's rights and interest in the Guaranty, the Agreement and a corresponding number of Purchased Securities.  Any transfer in violation of this subparagraph (b) shall be null and void.
+Novation Agreement
+ 
+.
+14.
+                                
+Covered Transaction
+ 
+Each party acknowledges and agrees that the Confirmation executed as of November 17, 2008 (Reference:  "Project Arrow Repurchase Transaction") (the "Transaction") shall be the only transaction governed by the Agreement (it being understood that, in the event such Confirmation shall be amended (in any respect), such amendment shall not constitute (for purposes of this section) a separate transaction or a separate Confirmation).  The Seller and the Buyer shall not enter into any additional Confirmations or Transactions hereunder.  The parties hereby expressly agree that any TBMA Master Agreement entered into between them after the date hereof shall not supersede the Agreement or the Transaction hereunder.
+ 
+.  Except as expressly set forth herein, the obligations of Buyer under the Agreement and the Transaction are solely the corporate obligations of Buyer.  Except as expressly set forth herein, no recourse shall be had for the payment of any amount owing by Buyer under the Agreement or for the payment by Buyer of any fee or any other obligation or claim of or against Buyer arising out of or based upon the Agreement, against any trustee, employee, officer, director, incorporator or the manager or other affiliate of Buyer.  The provisions of this paragraph shall survive the termination of the Agreement.
+15.
+                                
+Limited Recourse
+ 
+16.
+                                
+[Reserved]
+ 
+.
+17.
+                                
+Other Documents
+ 
+Each party shall deliver to the other, upon request, financial information, evidence of capacity, authority, incumbency and specimen signatures that are required by law or are reasonably requested.  In addition, each of Seller and Buyer shall deliver an opinion of counsel in substantially the form of Schedule B hereto.
+ 
+.
+18.
+                                
+Submission to Jurisdiction and Waivers
+ 
+(a)           Each party irrevocably and unconditionally (i) submits to the exclusive jurisdiction of any United States Federal or New York State court sitting in the Borough of Manhattan and any appellate court from any such court solely for the purpose of any suit, action or proceeding brought to enforce its obligations under the Agreement or relating in any way to the Agreement or any Transaction under the Agreement, and (ii) waives, to the fullest extent it may effectively do so, any defense of an inconvenient forum to the maintenance of such action or proceeding in any such court and any right of jurisdiction on account of its place of residence or domicile.
+ 
+(b)           To the extent that either party has or hereafter may acquire any immunity (sovereign or otherwise) from any legal action, suit or proceeding from jurisdiction of any court or from set off or any legal process (whether service or notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment, or otherwise) with respect to itself or any of its property, such party hereby irrevocably waives and agrees not to plead or claim such immunity in respect of any action brought to enforce its obligations under the Agreement or relating in any way to the Agreement or any Transaction hereunder.
+ 
+.  Each party irrevocably waives any and all right to trial by jury with respect to any proceeding arising out of or relating to the Agreement or any Transaction hereunder.
+19.
+                                
+Waiver of Right to Trial by Jury
+ 
+.  Each party:  (a) consents to the recording of the telephone conversations of trading and marketing personnel of the parties in connection with the Agreement, any Transaction, or any potential Transaction; and (b) agrees to obtain any necessary consent of, and give notice of such recording to, such personnel.
+20.
+                                
+Consent to Recording
+ 
+.  If any payment shall be required by the terms of the Agreement to be made on a day that is not a Business Day, such payment shall be made on the immediately succeeding Business Day and no further Price Differential (with respect to a payment of Price Differential) or interest (with respect to any other payment due hereunder) shall accumulate or accrue after the day on which payment was required.
+21.
+                                
+Business Day
+ 
+.  Paragraph 17 of the Agreement shall be amended by inserting the following words following the end of the second sentence thereof:  "and each Rating Agency then issuing a rating with respect to the Agreement shall have confirmed in writing that such modification, waiver or departure will not result in a reduction or withdrawal of its rating of the Agreement."
+22.
+                                
+Amendments
+ 
+.  The Agreement (and each amendment, modification and waiver in respect of it) may be executed and delivered in any number of counterparts, each of which counterparts shall be deemed to be an original and such counterparts shall constitute but one and the same instrument.
+23.
+                                
+Counterparts
+ 
+.  (a)  Seller and Buyer understand and intend that the Transaction provided for in the Agreement will be treated as a loan secured by the Purchased Securities for U.S. federal income tax and state and local income and franchise tax purposes only and will file any tax returns, tax reports and other tax filings in each case required to be filed under applicable U.S federal income tax or state or local income or franchise tax purposes, in a manner consistent with such understanding and intent and will not take any U.S tax position inconsistent therewith.
+24.
+                                
+Tax Matters
+ 
+(a)           As a condition of executing the Agreement, Buyer will deliver or cause to be delivered to Seller on or before the date it becomes a party to the Agreement a correct, complete and duly executed Internal Revenue Service Form W-8BEN certifying that the Buyer is entitled to a zero rate of U.S. withholding tax under an applicable income tax treaty or a duly executed Internal Revenue Service Form W-8ECI certifying that Buyer is not subject to U.S. withholding tax on interest received under the Agreement.  Within 20 days of the earlier of the date on which Buyer has knowledge of, and the date on which Seller requests in writing such form after the occurrence of obsolescence or invalidity of any Form W-8BEN or W-8ECI previously delivered by Buyer, Buyer will deliver to Seller a correct, complete and duly executed Form W-8BEN or W-8ECI as the case may be, or any successor forms.
+ 
+(b)           Buyer warrants and represents that it is a bank incorporated under the laws of England and Wales and is a "public limited company" treated as a corporation for U.S. federal income tax purposes under Treas. Reg. section 301.7701-2(b)(8).
+ 
+(d)           Upon request, Seller shall deliver to Buyer a correct, complete and duly executed Internal Revenue Form W-9.  Within 20 days of the earlier of the date on which Seller has knowledge of, and the date on which Buyer requests in writing such form after the occurrence of obsolescence
+or invalidity of any Internal Revenue Form W-9 previously delivered by Seller, Seller will deliver to Buyer a correct, complete and duly executed Form W-9 or any successor form.
+ 
+.
+25.
+                                
+Accounts for Payment
+ 
+Payments shall be made to the following accounts, or to such other account as may hereafter be notified to Seller or Buyer in writing by Buyer or Seller respectively.
+ 
+ 
+  Following the payment in full of all amounts payable by the Agilent Parties to Lloyds and its Affiliates under the Related Agreement, Repo Agreement and the other Operative Documents (other than contingent obligations not then payable in respect of indemnities), Lloyds shall provide such commercially reasonable documents as are requested by Agilent confirming such payment in full and related matters.
+26.
+                                
+.
+Agreement
+ 
+[]
+Signatures follow on separate page
+ 
+ 
+Agilent Technologies World Trade, Inc. 5301 Stevens Creek Blvd. Santa Clara, California 95051
+ 
+Date:      
+November 17
+, 2008
+ 
+To:         
+Lloyds TSB Bank plc
+ 
+From:      Agilent Technologies World Trade, Inc.
+ 
+Re:          Project Arrow Repurchase Transaction
+ 
+Dear Sirs:
+ 
+The purpose of this letter (this "") is to confirm the terms and conditions of the repurchase transaction (the "") between Agilent Technologies World Trade, Inc. ("") and Lloyds TSB Bank plc
+Confirmation
+Transaction
+World Trade
+(the "").  This Confirmation constitutes a "Confirmation" as referred to in the Master Repurchase Agreement specified below.
+Counterparty
+ 
+Counterparty and World Trade are parties to the TBMA Master Repurchase Agreement and Annex I ("") related thereto, in each case dated as of
+Annex I
+November 17, 2008
+(as amended, supplemented, or otherwise modified from time to time, the ""), and this Confirmation shall supplement, form a part of, and be subject to, such Agreement upon the execution and delivery thereof by both parties, and all provisions contained or incorporated by reference in such Agreement shall govern this Transaction except as expressly modified herein. Terms used but not otherwise defined in this Confirmation shall have the same meaning as in the Agreement.
+Agreement
+ 
+ 
+Please confirm your agreement to be bound by the terms of the foregoing by executing a copy of this Confirmation and returning it to us to the attention of Hilliard C. Terry at facsimile (408) 553-3417.
+ 
+ 
+Confirmed as of the date first above written:
+ 
+ 
+LLOYDS TSB BANK PLC
+ 
+ 
+
+Exhibit 99.3
+ 
+NOVATION AGREEMENT
+ 
+dated as of November 17, 2008
+among:
+STEERS Repo Pass-Thru Trust, 2008-1
+(the ""),
+Transferor
+ 
+and
+ 
+Agilent Technologies World Trade, Inc.
+(the "")
+Remaining Party
+ 
+The Transferor and the Remaining Party have entered into the Transaction identified in the attached Schedule A (the ""), evidenced by a Confirmation dated March 17, 2008 (Reference: "Project Arrow Repurchase Transaction") (the "") and subject to a TBMA Master Repurchase Agreement dated as of March 17, 2008 between the Transferor and the Remaining Party (the ""), as supported by a Third Amended and Restated Guaranty of Agilent Technologies, Inc. (the "") in regard of the Remaining Party's obligations under the Old Transaction.
+Old Transaction
+Old Confirmation
+Old Agreement
+Guaranty
+ 
+The Remaining Party and the Transferee are entering into a TBMA Master Repurchase Agreement (the "") dated the date hereof, including an Annex I to the New Agreement in the form of Schedule B hereto.
+New Agreement
+ 
+(1)
+  
+With effect from and including November 17, 2008 (the ""), the Transferor wishes to transfer by novation to the Transferee, and the Transferee wishes to accept the transfer by novation of, all the rights, liabilities, duties and obligations of the Transferor under and in respect of, and all of Transferor's rights and interest in the Guaranty in respect of, the portion of the Purchase Price of the Old Transaction equal to an amount of at least $100,000 or an integral multiple thereof and as specified in the attached Schedule A (such portion, the ""), with the effect that the Remaining Party and the Transferee enter into a new transaction between them having a Purchase Price equal to the Novated Portion (and, for the avoidance of doubt, having identical terms to that of the Old Transaction, save for (x) any rights, liabilities or obligations of the Remaining Party or the Transferor with respect to payments or other obligations due and payable or due to be performed on or prior to the Novation Date and (y) any changes resulting from differences between the Old Agreement and the New Agreement or differences between the Old Confirmation and the New Confirmation (as defined below)) (the "").
+Novation Date
+Novated Portion
+New Transaction
+ 
+(2)
+  
+With effect from and including the Novation Date, as applicable, the Transferor wishes to transfer to the Transferee the number of Purchased Securities equal to the portion of the Purchased Securities transferred by the Remaining Party in respect of the Novated Portion of the Old Transaction together with any Income received (whether received prior to, on or after the Novation Date) that has not been transferred as of the Novation Date in accordance with Paragraph 5 of the Old Agreement (as amended and supplemented by Annex I thereto) or applied in accordance with Section 11(c) of Annex I to the Old Agreement, provided that the Transferee's obligations in respect of any such Income shall be determined by reference to the date of receipt thereof by the Transferor.
+ 
+(3)
+  
+[Reserved].
+ 
+(4)
+  
+With effect from and including the Novation Date, the Remaining Party wishes to accept the Transferee as its sole counterparty with respect to the New Transaction.
+ 
+(5)
+  
+The Transferor and the Remaining Party wish to have released and discharged their respective obligations under and in respect of the Novated Portion of the Old Transaction.
+ 
+Accordingly, the parties agree as follows:
+ 
+1.
+            
+Definitions.
+ 
+Terms defined in the Old Agreement and the Old Confirmation are used herein as so defined, unless otherwise provided herein.
+ 
+2.
+            
+Transfer, Release, Discharge, Amendment and Undertakings.
+ 
+With effect from and including the Novation Date and in consideration of the mutual representations, warranties and covenants contained in this Novation Agreement and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged by each of the parties):
+ 
+(a)
+          
+the Remaining Party and the Transferor are each released and discharged from obligations to each other with respect to the Novated Portion of the Old Transaction and their respective rights against each other with respect to such Novated Portion, provided that such release, cancellation and discharge shall not affect any rights, liabilities or obligations of the Remaining Party or the Transferor with respect to payments or other obligations due and payable, or due to be performed, prior to the Novation Date, and all such payments and obligations shall be paid or performed by the Remaining Party or the Transferor in accordance with the terms of the Old Transaction;
+ 
+(b)
+          
+the Transferor assigns and transfers to the Transferee its rights and interest under the Guaranty to the extent related to obligations of the Remaining Party in respect of the Novated Portion of the Old Transaction, provided that such assignment shall not affect any rights or interest with respect to payments due and payable by the Remaining Party prior to the Novation Date;
+ 
+(c)
+          
+the Remaining Party and the Transferee enter into the New Transaction evidenced by a confirmation dated as of the Novation Date between them (the "") and each undertake liabilities and obligations towards the other and acquire rights against each other as set forth in the New Agreement and the New Confirmation;
+New Confirmation
+ 
+(d)
+          
+the Transferor undertakes to transfer to the Transferee any Purchased Securities transferred by the Remaining Party in respect of the Novated Portion of the Old Transaction and any Income received (whether received prior to, on or after the Novation Date) that has not been transferred as of the Novation Date in accordance with Paragraph 5 of the Old Agreement, and the Transferor and the Remaining Party respectively agree with respect to itself only that each such transfer shall be free and clear of any security interest, lien, encumbrance or other restriction created by or in respect of it; and
+ 
+(e)
+          
+[Reserved].
+ 
+(f)
+           
+the New Transaction shall be governed by and form part of the New Agreement and the New Confirmation, the offices of the Remaining Party and the Transferee for purposes of the New Transaction shall be the offices specified in the New Agreement, and the office of the Transferor for purposes of the Old Transaction shall be the office specified in the Old Agreement.
+ 
+3.
+            
+Representations and Warranties.
+ 
+(a)
+          
+On the date of this Novation Agreement and on the Novation Date:
+ 
+(i)
+           
+Each of the parties makes to each of the other parties the representations and warranties set forth in the first sentence of Paragraph 10 of the Old Agreement as if such party was the "Buyer" or "Seller" under the Old Agreement with references in such Paragraph to "this Agreement" being deemed references to this Novation Agreement alone.
+ 
+(ii)
+          
+The Remaining Party and the Transferor each represents to the other, and the Remaining Party and the Transferee each represent to the other, that no Event of Default with respect to it has occurred and is continuing and no such event would occur as a result of its entering into or performing its obligations, in each case with respect to the Old Agreement or the New Agreement, as the case may be, and taking into account the parties entering into and performing their obligations under this Novation Agreement.
+ 
+(iii)
+         
+Each of the Transferor and the Remaining Party represents and warrants to each other and to the Transferee that:
+ 
+(A)
+         
+it has made no prior transfer (whether by way of security or otherwise) of the Old Agreement or any interest or obligation in or under the Old Agreement or in respect of the Old Transaction; and
+ 
+(B)
+          
+as of the Novation Date, all obligations of the Transferor and the Remaining Party under the Old Transaction required to be performed on or before the Novation Date have been fulfilled.
+ 
+(b)
+          
+The Transferor makes no representation or warranty and does not assume any responsibility with respect
+to the legality, validity, effectiveness, adequacy or enforceability of the New Transaction or the New Agreement or any documents relating thereto and assumes no responsibility for the condition, financial or otherwise, of the Remaining Party, the Transferee or any other person or for the performance and observance by the Remaining Party, the Transferee or any other person of any of its obligations under the New Transaction or the New Agreement or any document relating thereto and any and all such conditions and warranties, whether express or implied by law or otherwise, are hereby excluded.
+ 
+4.
+            
+Counterparts.
+ 
+This Novation Agreement (and each amendment, modification and waiver in respect of it) may be executed and delivered in counterparts (including by facsimile transmission), each of which will be deemed an original.
+ 
+5.
+            
+Costs and Expenses.
+ 
+The parties will each pay their own costs and expenses (including legal fees) incurred in connection with this Novation Agreement and as a result of the negotiation, preparation and execution of this Novation Agreement.
+ 
+6.
+            
+Amendments.
+ 
+No amendment, modification or waiver in respect of this Novation Agreement will be effective unless in writing (including a writing evidenced by a facsimile transmission) and executed by each of the parties hereto or confirmed by an exchange of telexes or electronic messages on an electronic messaging system.
+ 
+7.
+            
+(a)
+  
+Governing Law.
+ 
+This Novation Agreement will be governed by and construed in accordance with the laws of the State of New York without regard to its conflict-of-law doctrine (except for Section 5-1401 of the New York General Obligations Law).
+ 
+(b)
+  
+Jurisdiction.
+ 
+The terms of Section 18 of Annex I to the Old Agreement shall apply to this Novation Agreement with respect to each party hereto and is hereby incorporated by reference herein as if set forth in its entirety herein, except that references in such Section to "the Agreement" shall be deemed references to this Novation Agreement alone.
+ 
+8.
+            
+Concerning the Trustee.
+ 
+It is expressly understood and agreed by the parties hereto that (a) this Novation Agreement is executed and delivered by The Bank of New York, not individually or personally but solely as trustee of the Transferor, in the exercise of the powers and authority conferred and vested in it, (b) each of the representations, undertakings and agreements herein made on the part of the Transferor is made and intended not as personal representations, undertakings and agreements by The Bank of New York but is made and intended for the purpose of binding only the Transferor, (c) nothing herein contained shall be construed as creating any liability on The Bank of New York, individually or personally, to perform any covenant or obligation either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto and (d) under no circumstances shall The Bank of New York be personally liable for the payment of any indebtedness or expenses of the Transferor or be liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by Transferor under this Novation Agreement or any other related documents.
+ 
+ 
+IN WITNESS WHEREOF the parties have executed this Novation Agreement on the respective dates specified below with effect from and including the Novation Date.
+ 
+ 
+
+Exhibit 99.4
+ 
+FOURTH AMENDED AND RESTATED GUARANTY OF AGILENT TECHNOLOGIES, INC.
+ 
+Lloyds TSB Bank plc (the "") the punctual payment when due, whether at scheduled maturity, or on any date of a required prepayment or by acceleration, demand or otherwise, of all obligations of Agilent Technologies World Trade, Inc., a corporation duly organized and existing under the laws of the State of Delaware  (""), now or hereafter existing under the terms of the Master Repurchase Agreement dated as of November 17, 2008 between the Counterparty and World Trade and the Transaction entered into thereunder (such Master Repurchase Agreement and the Transaction collectively, the "") (including, without limitation, any extensions, modifications, substitutions, amendments of the Repo Agreement), whether direct or indirect, absolute or contingent, and whether for principal, interest, premiums, fees, indemnities, contract causes of action, costs, expenses or otherwise (such obligations being the ""), and agrees to pay any and all expenses (including, without limitation, fees and expenses of counsel) incurred by the Counterparty in enforcing any rights under this Guaranty or the Repo Agreement.  Without limiting the generality of the foregoing, the Guarantor's liability shall extend to all amounts that constitute part of the Guaranteed Obligations and would be owed by World Trade to the Counterparty under or in respect of the Repo Agreement but for the fact that they are unenforceable or not allowable due to the existence of a bankruptcy, reorganization or similar proceeding involving World Trade.
+FOR VALUE RECEIVED, receipt of which is hereby acknowledged, AGILENT TECHNOLOGIES, INC., a corporation duly organized and existing under the laws of the State of Delaware (the ""), hereby absolutely, unconditionally and irrevocably guarantees to
+Guarantor
+Counterparty
+World Trade
+Repo Agreement
+Guaranteed Obligations
+ 
+This agreement amends and restates in its entirety as of the date hereof the Third Amended and Restated Guaranty of Agilent Technologies, Inc. dated March 17, 2008 in favor of STEERS Pass-Thru Trust, 2008-1.
+ 
+The Guarantor guarantees that the Guaranteed Obligations will be paid strictly in accordance with the terms of the Repo Agreement, regardless of any law, regulation or order now or hereafter in effect in any jurisdiction affecting any of such terms or the rights of the Counterparty with respect thereto.  The obligations of the Guarantor under or in respect of this Guaranty are independent of the Guaranteed Obligations of World Trade under or in respect of the Repo Agreement, and a separate action or actions may be brought and prosecuted against the Guarantor to enforce this Guaranty, irrespective of whether any action is brought against World Trade or whether World Trade is joined in any such action or actions.  The liability of the Guarantor under this Guaranty shall be irrevocable, absolute and unconditional irrespective of, and the Guarantor hereby irrevocably waives any defenses it may now have or hereafter acquire in any way relating to, any or all of the following:
+ 
+(a)           any lack of validity or enforceability of the Repo Agreement or any agreement or instrument relating thereto;
+ 
+(b)           any change in the time, manner or place of payment of, or in any other term of, all or any of the Guaranteed Obligations or any other amendment or waiver of or any consent to departure from the Repo Agreement, including, without limitation, any increase in the Guaranteed Obligations or otherwise;
+ 
+(c)           any change, restructuring or termination of the corporate structure or existence of World Trade or any of its subsidiaries;
+ 
+(d)           any failure of the Counterparty to disclose to World Trade or the Guarantor any information relating to the business, condition (financial or otherwise), operations, performance, properties or prospects of the Guarantor or World Trade, as the case may be, now or hereafter known to the Counterparty (the Guarantor waiving any duty on the part of the Counterparty to disclose such information); or
+ 
+(e)           any other circumstance (including, without limitation, any statute of limitations) or any existence of or reliance on any representation by the Counterparty that might otherwise constitute a defense available to, or a discharge of, World Trade or the Guarantor or any other guarantor or surety.
+ 
+This Guaranty shall continue to be effective or be reinstated, as the case may be, if at any time any payment of any of the Guaranteed Obligations is rescinded or must otherwise be returned by the Counterparty or any other Person upon the insolvency, bankruptcy or reorganization of World Trade or otherwise, all as though such payment had not been made.
+ 
+The Guarantor hereby unconditionally and irrevocably waives promptness, diligence, notice of acceptance, presentment, demand for performance, notice of nonperformance, default, acceleration, protest or dishonor and any other notice with respect to any of the Guaranteed Obligations and this Guaranty and any requirement that the Counterparty exhaust any right or take any action against World Trade or any other Person or any Purchased Securities.
+ 
+The Guarantor hereby unconditionally and irrevocably waives any right to revoke this Guaranty and acknowledges that this Guaranty is continuing in nature and applies to all Guaranteed Obligations, whether existing now or in the future.
+ 
+The Guarantor hereby unconditionally and irrevocably waives (i) any defense arising by reason of any claim or defense based upon an election of remedies by the Counterparty that in any manner impairs, reduces, releases or otherwise adversely affects the subrogation, reimbursement, exoneration, contribution or indemnification rights of the Guarantor or other rights of the Guarantor to proceed against World Trade and (ii) any defense based on any right of set-off or counterclaim against or in respect of the obligations of the Guarantor hereunder.
+The Guarantor hereby unconditionally and irrevocably agrees not to exercise any rights that it may now have or hereafter acquire against World Trade unless and until all of the Guaranteed Obligations and all other amounts payable under this Guaranty shall have been paid in full in cash.  If any amount shall be paid to the Guarantor in violation of the immediately preceding sentence at any time prior to the payment in full in cash of the Guaranteed Obligations and all other amounts payable under this Guaranty, such amount shall be received and held in trust for the benefit of the Counterparty, shall be segregated from other property and funds of the Guarantor and shall forthwith be paid or delivered to the Counterparty in the same form as so received (with any necessary endorsement or assignment) to be credited and applied to the Guaranteed Obligations and all other amounts payable under this Guaranty, whether matured or unmatured, in accordance with the terms of the Repo Agreement.  If (i) the Guarantor shall make payment to the Counterparty of all or any part of the Guaranteed Obligations, and (ii) all of the Guaranteed Obligations and all other amounts payable under this Guaranty shall have been paid in full in cash, the Counterparty will, at the Guarantor's request and expense, execute and deliver to the Guarantor appropriate documents, without recourse and without representation or warranty, necessary to evidence the transfer by subrogation to the Guarantor of an interest in the Guaranteed Obligations resulting from such payment made by the Guarantor pursuant to this Guaranty.
+ 
+This Guaranty is a continuing guaranty and shall (a) remain in full force and effect until the payment in full in cash of the Guaranteed Obligations and all other amounts payable under this Guaranty, (b) be binding upon the Guarantor, its successors and assigns and (c) inure to the benefit of and be enforceable by the Counterparty and its successors, permitted transferees and permitted assigns.  Without limiting the generality of clause (c) of the immediately preceding sentence, the Counterparty may assign or otherwise transfer all or any portion of its rights and obligations under the Repo Agreement to any other Person, and such other Person shall thereupon become vested with all the benefits in respect thereof granted to the Counterparty herein or otherwise, in each case as and to the extent provided in the Repo Agreement.  The Guarantor shall not have the right to assign its rights hereunder or any interest herein without the prior written consent of the Counterparty.
+ 
+This Guaranty shall be governed by, and construed in accordance with, the laws of the State of New York.
+ 
+IN WITNESS WHEREOF, the Guarantor has caused this Guaranty to be executed in its corporate name by its duly authorized representative.
+
+Exhibit 99.5
+ 
+AMENDED AND RESTATED
+ 
+AGILENT AGREEMENT
+ 
+DATED AS OF November 17, 2008
+ 
+TABLE OF CONTENTS
+ 
+TABLE OF CONTENTS
+(continued)
+ 
+AMENDED AND RESTATED AGILENT AGREEMENT
+ 
+AMENDED AND RESTATED AGILENT AGREEMENT, dated as of November 17, 2008 (as amended, amended and restated or otherwise modified from time to time, this ""), by Agilent Technologies, Inc., a Delaware corporation (""), and Agilent Technologies World Trade, Inc., a Delaware corporation (""), in favor of each and every Designated Person in existence on the date hereof and from time to time.
+Agreement
+Agilent
+World Trade
+ 
+Preliminary Statements
+ 
+A.            Each of World Trade, Cayco and Luxco is a direct or indirect, wholly-owned subsidiary of Agilent.
+ 
+B.            On December 16, 2005, Cayco issued Class A Preferred Shares to World Trade.
+ 
+C.            World Trade has entered into the Repo Agreement with the Buyer, whereby World Trade agrees to sell to the Buyer and the Buyer agrees to purchase from World Trade the Class A Preferred Shares (subject to a World Trade's obligation to repurchase, and the Buyer's obligation to resell, the Class A Preferred Shares).
+ 
+D.            World Trade may terminate the Repo Agreement, and thereafter the Holders may issue or incur Class A Holder Secured Indebtedness and, in connection with such issuance or incurrence, the Holders may pledge all of their right, title and interest in, to and under the Class A Preferred Shares to the Agent or the Collateral Agent, as applicable, as security for such Indebtedness.
+ 
+E.             It is, or will be, a condition to each of the performance by the Buyer of its obligations under the Repo Agreement and the subsequent issuance or incurrence, if any, of Class A Holder Secured Indebtedness that Agilent and World Trade provide certain assurances set forth in this Agreement, and each of Agilent and World Trade will receive substantial direct and indirect benefits from the issuance or incurrence of such Indebtedness.
+ 
+F.             Agilent and World Trade wish to amend and restate the Agilent Agreement dated as of January 27, 2006 (the "") in its entirety as set forth herein with effect from and after the date hereof.
+Original Agilent Agreement
+ 
+In consideration of the premises, and intending to be legally bound by this Agreement, Agilent and World Trade agree as follows:
+ 
+SECTION 1
+ 
+DEFINED TERMS; RULES OF CONSTRUCTION
+ 
+1.1           .  As used in this Agreement (including in the Preliminary Statements), capitalized terms defined in the preamble and other Sections of this Agreement and Exhibit A to this Agreement shall have the meanings set forth therein and capitalized terms used herein (including in the Preliminary Statements) but not otherwise defined herein shall have the meanings set forth in the Certificate of Designations.
+Definitions
+1.2           .  In this Agreement, in the computation of periods of time from a specified date to a later specified date, the word "" means "" and the words "" and "" mean "".  Unless the context of this Agreement requires otherwise, the plural includes the singular, the singular includes the plural, and "" has the meaning of "".  The words "", "", "", "", and other similar terms refer to this Agreement (including Exhibit A to this Agreement) as a whole and not exclusively to any particular provision of this Agreement.  All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine or neuter, or singular or plural, forms thereof, as the identity of the Person or Persons may require.
+Use of Certain Terms
+from
+from and including
+to
+until
+to but excluding
+including
+including without limitation
+hereof
+herein
+hereby
+hereunder
+ 
+1.3           .  Section and other headings are for reference only, and shall not affect the interpretation or meaning of any provision of this Agreement.  Unless otherwise provided, references to Sections and Exhibits shall be deemed references to Sections of, and Exhibits to, this Agreement.  Whether or not specified herein or therein, references to this Agreement and any other Operative Document include this Agreement and the other Operative Documents as the same may be amended, restated, modified or supplemented from time to time pursuant to the provisions hereof or thereof as permitted by the Operative Documents.  References to any other agreement, contract, instrument, or document are to such agreement, contract, instrument, or document as amended, restated, modified or supplemented from time to time in accordance with the terms hereof (if applicable) and thereof.  Whether or not specified herein, a reference to any law shall mean that law as it may be amended, modified or supplemented from time to time, and any successor law.  A reference to a Person includes the successors and assigns of such Person, but such reference shall not increase, decrease or otherwise modify in any way the provisions in this Agreement governing the assignment of rights and obligations under or the binding effect of any provision of this Agreement, including Section 4.8.
+Headings and References
+ 
+SECTION 2
+ 
+REPRESENTATIONS AND WARRANTIES
+ 
+Agilent and World Trade hereby, jointly and severally, represent and warrant as of the date hereof, and on any Closing Date, as follows:
+ 
+2.1           .  Agilent is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Delaware.  Each of World Trade, Cayco and Luxco (together with Agilent, each an "" and, collectively, the "") is duly incorporated or formed, validly existing and, to the extent applicable in the relevant jurisdiction, in good standing in the jurisdiction of its incorporation or formation.  Each of the Agilent Parties possesses all corporate, limited liability company or other applicable organizational powers necessary to engage in its business and operations as now conducted.
+Due Formation
+Agilent Party
+Agilent Parties
+ 
+2.2           .  The execution, delivery and performance by each Agilent Party of each Operative Document to which it is a party are within its organizational powers, have been duly authorized by all necessary corporate, limited liability
+Authorization; No Contravention
+company or other applicable organizational action, and do not and will not contravene (i) its Organizational Documents, (ii) any contract, mortgage, lien, lease, agreement, indenture, or other instrument to which such Agilent Party is a party or which is binding upon it or its property, except to the extent such contravention would not reasonably be expected to result in a Material Adverse Effect or (iii) in any material respect, any judgment, law, statute, rule or governmental regulation applicable to such Agilent Party or its property.
+ 
+2.3           .  No consent, approval, or authorization of, or declaration or filing with, any governmental authority, and no consent of any other Person, is required for the due execution, delivery and performance by each Agilent Party of each Operative Document to which it is a party, except those already obtained or made and those required to perfect security interests.
+Governmental Approvals
+ 
+2.4           .  Each Operative Document to which any of the Agilent Parties is a party constitutes the legal, valid and binding obligation of such Person, enforceable against such Person in accordance with its terms, except as may be limited by any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors rights generally or by general principles of equity.
+Enforceability
+ 
+2.5           .  (a) No Agilent Party is, or upon consummation of the transactions contemplated by the Operative Documents will be, required to be registered as an "investment company" under the Investment Company Act of 1940.
+Investment Company; Holding Company
+ 
+(a)           No Agilent Party is subject to regulation as a "holding company," an "affiliate" of a "holding company," or a "subsidiary company" of a "holding company," within the meaning of the Public Utility Holding Company Act of 1935.  Similarly, no Agilent Party will be subject to regulation as a "holding company," an "affiliate" of a "holding company," or a "subsidiary company" of a "holding company," within the meaning of the Public Utility Holding Company Act of 2005.
+ 
+2.6           .  To the Agilent Parties' actual knowledge, at no time since the Original Purchase Date has any Material Affiliate Event occurred.  As of the date hereof and as of any Closing Date, no Incipient Material Affiliate Event or Material Affiliate Event has occurred and is continuing.
+No Material Affiliate Event
+ 
+2.7             All of the written representations made by any Agilent Party in any Operative Document or any certificate delivered pursuant to any Operative Document were or will be true and correct on the date such representations were so made, other than any such representations or warranties that, by their terms, refer to a specific date other than any such date, in which case as of such specific date.
+Representations of Agilent Parties.
+ 
+2.8           .  Immediately after giving effect to the transactions contemplated to occur on or prior to the date hereof under and in connection with the Operative Documents, the Depositary Receipts of the Foundation held by Cayco will make up more than twenty percent (20%) of Cayco's assets by value.  No plan of any Agilent Party exists to take actions that would result in such Depositary Receipts making up twenty percent (20%) or less of Cayco's assets by value.
+Value of Depositary Receipts
+2.9           .  To the Agilent Parties' actual knowledge, the Agilent Parties have at all times duly performed and complied in all material respects with all the terms and conditions set forth in the Operative Documents and Certificate of Designations except for the failure to deliver a compliance certificate pursuant to Section 3.3(c) of the Original Agilent Agreement, which failure was cured prior to becoming a Material Affiliate Event.
+Compliance with Terms and Conditions
+ 
+2.10         .  At no time has Luxco (i) held any interest that is treated as an equity interest for U.S. federal income tax purposes in any entity that is not treated as a corporation for U.S. federal income tax purposes, or (ii) engaged in any transaction or activity that would cause Luxco to be treated as engaged in a trade or business in the United States for U.S. federal income tax purposes.
+Certain U.S. Tax Matters Relating to Luxco
+ 
+2.11         .  Cayco does not have any Liabilities or commitments of any nature whatsoever, whether accrued, absolute, contingent or otherwise, other than Liabilities and commitments arising under applicable law or arising under the Operative Documents, the Certificate of Designations, the Articles, the IM Custody Agreement, the Investment Management Agreement, the Free Cash Management Agreement and the Cayco Custody Agreement and other than Liabilities and commitments that are unsecured, do not constitute "Indebtedness" (as defined in the Certificate of Designations) and do not, in the aggregate, exceed $100,000 outstanding at any time.
+Absence of Liabilities
+ 
+2.12         .  Since its formation, there have been no judgments outstanding against Cayco or affecting any property of Cayco, nor any actions, suites or proceedings pending or, to the knowledge of the Agilent Parties, threatened against Cayco that have had, or could reasonably be expected to have either individually or in the aggregate, a Material Adverse Effect.
+Legal Proceedings
+ 
+2.13         .  Since its formation, Cayco has not been the subject of any review or audit by the IRS or any investigation by any governmental entity concerning the violation or possible violation of any law.
+Investigations, Audits, Etc
+ 
+2.14         .  The Operative Documents, the Articles,  the Certificate of Designations, the Cayco Custody Agreement, the IM Custody Agreement, the Investment Management Agreement and the Free Cash Management Agreement contain the full agreement of the parties hereto with respect to the transactions contemplated thereby and no other agreements exist with respect to such transactions and no amendments, modifications, consents or waivers have been made to, or given under, the foregoing organizational documents and agreements after the date of their execution, except those executed or approved in writing by the Buyer.
+Amendments
+ 
+2.15         .  The property of Cayco is not subject to any Lien (other than any Liens for taxes, assessments and governmental charges or levies not yet delinquent or being contested in good faith and by appropriate proceeding and as to which adequate reserves are being maintained in accordance with general accepted accounting principles).
+No Liens
+ 
+.  On January 27, 2006 and on the date hereof (in each case after giving effect to the transactions contemplated by the applicable repurchase agreement in effect on such date with respect to the Class A Preferred Shares) (i) the then fair value of the property of each of Agilent, World Trade and Cayco, as applicable, was or is greater than the then total amount of liabilities, including contingent liabilities, of each of Agilent, World Trade and Cayco, as applicable, (ii) the then present fair salable value of the assets of each of Agilent, World Trade and Cayco, as applicable, was or is not less than the amount that, as applicable, was or will be required to pay all probable liabilities of each of Agilent, World Trade and Cayco, as applicable, on its debts as they become absolute and matured, (iii) each of Agilent, World Trade and Cayco, as applicable, did not and does not intend to, and did not and does not believe that it would or will, incur debts or liabilities beyond its ability to pay its own debts and liabilities as they mature and (iv) each of Agilent, World Trade and Cayco, as applicable, was or is not engaged in a business or a transaction, and, as applicable, was or is not about to engage in a business or a transaction, for which its property would constitute unreasonably small capital.
+2.16
+        
+Solvency Representation
+ 
+.  The transfer of the Class A Preferred Shares from STEERS Repo Pass-Thru Trust, 2008-1 to Buyer does not breach or constitute a default under any of the following:
+2.17
+        
+Transfer of Class A Preferred Shares
+ 
+(a) any provision of the Memorandum, the Articles or the Certificate of Designations; or
+ 
+(b) any agreement or instrument to which Cayco is a party or by which it is bound; or
+ 
+(c) any order, judgment, decree or other restriction applicable to Cayco.
+ 
+SECTION 3
+ 
+AGILENT AND WORLD TRADE COVENANTS
+ 
+.  Agilent and World Trade hereby, jointly and severally, covenant and agree that so long as any Class A Preferred Shares remain outstanding, each of Agilent and World Trade will, and will cause each of the other Agilent Parties and each of the other Agilent Subsidiaries to, comply with the following undertakings:
+3.1
+          
+Separateness Covenants
+ 
+each of Agilent and the Agilent Subsidiaries will maintain its books, financial records and accounts, including inter-entity transaction accounts, checking and other bank accounts and custodian and other securities safekeeping accounts, (i) separate and distinct from those of each of Cayco and Luxco and (ii) in a manner so that it will not be difficult or costly to segregate, ascertain or otherwise identify its assets and liabilities separate and distinct from the assets and liabilities of Cayco and Luxco;
+(a)
+          
+ 
+each of Cayco and Luxco will maintain their books, financial records and accounts, including inter-entity transaction accounts, checking and other bank accounts and custodian and other securities safekeeping accounts, (i) separate and distinct from those of any other Person and (ii) in a manner so that it will not be difficult or costly to segregate, ascertain or
+(b)
+          
+ 
+otherwise identify its assets and liabilities separate and distinct from the assets and liabilities of any other Person;
+ 
+each of Agilent and the Agilent Subsidiaries will not commingle any of its assets, funds, liabilities or business functions with the assets, funds, liabilities or business functions of Cayco and Luxco;
+(c)
+          
+ 
+each of Cayco and Luxco will not commingle any of its assets, funds, liabilities or business functions with the assets, funds, liabilities or business functions of any other Person;
+(d)
+          
+ 
+each of Cayco and Luxco will conduct its own business in its own name, and observe all requisite corporate or other organizational and internal procedures and formalities under applicable law;
+(e)
+          
+ 
+neither Cayco nor Luxco will be consensually merged or consolidated with any other Person (other than with Agilent or an Agilent Subsidiary solely for accounting purposes and other than Luxco being disregarded as an entity separate from its owner for U.S. tax purposes);
+(f)
+           
+ 
+none of Agilent and the Agilent Subsidiaries will conduct its business in the name of Cayco or Luxco;
+(g)
+          
+ 
+Agilent will include in its periodic reports filed with the SEC information that clearly discloses the separate existence and identity of Cayco from Agilent and the Agilent Subsidiaries and that Cayco has separate assets and liabilities;
+(h)
+          
+ 
+conduct all transactions, contracts and dealings between Agilent or any Agilent Subsidiary, on the one hand, and Cayco or Luxco, on the other hand, including transactions, agreements and dealings pursuant to which the assets or property of one is used or to be used by the other, in a manner that reflects the separate identity and legal existence of each such Person;
+(i)
+           
+ 
+conduct all transactions, contracts and dealings between Cayco or Luxco, on the one hand, and any other Person, on the other hand, including transactions, agreements and dealings pursuant to which the assets or property of one is used or to be used by the other, in a manner that reflects the separate identity and legal existence of each such Person;
+(j)
+           
+ 
+each of Cayco and Luxco will hold all of its assets in its own name;
+(k)
+          
+ 
+conduct all transactions between Cayco or Luxco, on the one hand, and any other Person, on the other hand, in the name of Cayco or Luxco, as applicable, as an entity separate and distinct from any other Person;
+(l)
+           
+ 
+except as otherwise contemplated in the Indemnity Documents, each of Cayco and Luxco will pay its liabilities and losses from its assets, and each of Agilent and the Agilent Subsidiaries will pay their liabilities and losses from assets other than those of Cayco and Luxco;
+(m)
+         
+cause its representatives and agents (whether or not they are "loaned" employees of Agilent or any Agilent Subsidiary), when purporting to act on behalf of Cayco or Luxco, to hold themselves out to third parties as being representatives or agents, as the case may be, of Cayco or Luxco and, to the extent any such items are utilized, will utilize business cards, letterhead, purchase orders, invoices and the like of Cayco or Luxco, as applicable, when so acting;
+(n)
+          
+ 
+except as otherwise contemplated in the Indemnity Documents, each of Cayco and Luxco will compensate all consultants, independent contractors and agents from its own funds for services provided to it by such consultants, independent contractors and agents;
+(o)
+          
+ 
+ensure that, to the extent that Cayco or Luxco, on the one hand, and any other Person, on the other hand:
+(p)
+          
+ 
+jointly contract or do business with vendors or service providers or share overhead expenses, the costs and expenses incurred in so doing will be fairly and nonarbitrarily allocated between or among such Persons, with the result that each such Person bears its fair share of all such costs and expenses; and
+(i)
+           
+ 
+contracts or does business with vendors or service providers where the goods or services are wholly or partially for the benefit of the other, then the costs incurred in so doing will be fairly and nonarbitrarily allocated to the Person for whose benefit the goods or services are provided, with the result that each such Person bears its fair share of all such costs;
+(ii)
+          
+ 
+neither Agilent nor any Agilent Subsidiary will make any inter-entity loans, advances, guarantees, extensions of credit or contributions of capital to, from or for the benefit of Cayco or Luxco, as the case may be, without proper documentation and accounting in accordance with applicable generally accepted accounting principles and only in accordance with, or as contemplated by, the provisions of the Certificate of Designations and the Operative Documents;
+(q)
+          
+ 
+neither Cayco nor Luxco will make any inter-entity loans, advances, extensions of credit or contributions of capital to, from or for the benefit of any other Person without proper documentation and accounting in accordance with applicable generally accepted accounting principles and only in accordance with, or as contemplated by, the provisions of Certificate of Designations and the Operative Documents;
+(r)
+           
+ 
+not to refer to itself in a manner inconsistent with its status as a legal entity separate and distinct from Cayco and Luxco;
+(s)
+          
+ 
+each of Cayco and Luxco will not refer to itself in a manner inconsistent with its status as a legal entity separate and distinct from any other Person;
+(t)
+           
+neither Agilent nor any Agilent Subsidiary will hold out the credit of Cayco or Luxco as being available to satisfy the obligations of Agilent or any Agilent Subsidiary or any other Person;
+(u)
+          
+ 
+neither Cayco nor Luxco will hold out the credit of any other Person as being available to satisfy the obligations of Cayco or Luxco, except as contemplated by the Indemnity Documents;
+(v)
+          
+ 
+neither Cayco nor Luxco will hold out its credit as being available to satisfy the obligations of any other Person;
+(w)
+         
+ 
+each Agilent Party will maintain adequate capital in light of its contemplated business operations;
+(x)
+           
+ 
+except as otherwise contemplated in the Indemnity Documents, neither Agilent nor any Agilent Subsidiary will guarantee or become obligated for the Indebtedness or other obligations of Cayco or Luxco;
+(y)
+          
+ 
+neither Cayco nor Luxco will guarantee or become obligated for the debts of any other Person;
+(z)
+           
+ 
+neither Agilent nor any Agilent Subsidiary will acquire the obligations or securities of Cayco or Luxco, except as contemplated by or permitted under the Operative Documents;
+(aa)
+        
+ 
+neither Cayco nor Luxco will acquire or hold the obligations, securities or any other Indebtedness of any other Person, except as contemplated by or permitted under the Operative Documents;
+(bb)
+        
+ 
+to the extent any such items are used, use stationery, invoices, and checks bearing its own name;
+(cc)
+        
+ 
+neither Agilent nor any Agilent Subsidiary will pledge its assets for the benefit of Cayco or Luxco, except in connection with any statutory lien under Dutch law on the assets of the Foundation for the benefit of the holders of its Depository Receipts;
+(dd)
+        
+ 
+neither Cayco nor Luxco will pledge its assets for the benefit of any other Person;
+(ee)
+        
+ 
+each of Agilent and the Agilent Subsidiaries will take all actions that it deems necessary and appropriate to correct any known misunderstanding regarding its separate identity from Cayco and Luxco;
+(ff)
+          
+ 
+each of Cayco and Luxco will take all actions that it deems necessary and appropriate to correct any known misunderstanding regarding its separate identity from any other Person;
+(gg)
+        
+each of Cayco and Luxco will not use its separate existence and not permit that its separate existence be used by any of its Affiliates, in each case, to abuse its creditors or to perpetrate a fraud, injury, or injustice on its creditors;
+(hh)
+        
+ 
+each of Cayco and Luxco will ensure that (i) all transactions between it or any of its Affiliates, on the one hand, and Cayco or Luxco, on the other hand, are, and will be, duly authorized and documented, and recorded accurately in the appropriate books and records of such Persons, and (ii) all such transactions are, and will be, on arms-length terms fair to each party, constitute exchanges for fair consideration and for reasonably equivalent value, and are, and will be, made in good faith and without any intent to hinder, delay, or defraud its creditors;
+(ii)
+          
+ 
+neither Cayco nor Luxco will take any action, or engage in transactions with any of its Affiliates, unless the boards of managers, managing members, or officers, as appropriate, of such Affiliate and Cayco or Luxco, as the case may be, determine in a reasonable fashion that such actions or transactions are in their respective entities' best interests, it being agreed by the parties hereto that this Agreement and the other Operative Documents (and the transactions contemplated hereby and thereby and permitted hereunder and thereunder) satisfy the foregoing standard and satisfy the requirements of this clause (jj); and
+(jj)
+          
+ 
+no Agilent Party will enter into the transactions contemplated by this Agreement or any other Operative Document to which it is a party in contemplation of insolvency or with a design to prefer one or more of its creditors to the exclusion in whole or in part of another of its creditors or with an intent to hinder, delay or defraud any of its creditors.
+(kk)
+        
+ 
+Notwithstanding the foregoing restrictions on its activities, Agilent and World Trade will cause each of Cayco and Luxco to be authorized and permitted to take the actions required by the Certificate of Designations and the Operative Documents to which it is a party.  Notwithstanding clause (x) of this Section 3.1, nothing herein shall require or be deemed to require Agilent or any Agilent Subsidiary, directly or indirectly, (a) to pay or guarantee the payment of or to take any action intended to pay or guarantee the payment of any expenses or liabilities of Cayco or Luxco or (b) to make any capital contribution to or otherwise advance or supply funds or assets to Cayco or Luxco for the purchase or payment of any expenses or liabilities of Cayco or Luxco or to maintain working capital or equity capital of Cayco or Luxco or otherwise to maintain the net worth or solvency of Cayco or Luxco.
+ 
+.  Agilent and World Trade hereby, jointly and severally, covenant and agree that, so long as any Class A Preferred Shares remain outstanding, neither Agilent nor World Trade will at any time:
+3.2
+          
+General Covenants
+ 
+.  Permit Cayco to (i) incur or become liable for any Indebtedness, (ii) guarantee the liabilities of any other Person, (iii) have any employees, or (iv) create, incur or suffer to exist any liens of any kind on the Permitted Investments (other than liens for taxes, assessments and governmental charges or levies not yet delinquent or being contested in good faith and by appropriate proceedings and as to which adequate reserves are being maintained in accordance with generally accepted accounting principles).
+(a)
+          
+Indebtedness, Etc
+.  Permit Cayco to (i) sell, transfer or otherwise dispose of, in any case, whether in one transaction or in a series of transactions, any of its assets or (ii) issue any equity securities, in each case, other than as expressly permitted under the Certificate of Designations or any Operative Document.
+(b)
+          
+Sale, Etc., of Assets; Equity
+ 
+.  Permit any of Cayco and Luxco to merge or consolidate with any Person (other than a consolidation with Agilent or an Agilent Subsidiary solely for accounting purposes and other than Luxco being disregarded as an entity separate from its owner for U.S. tax purposes but not for any corporate purposes under laws of the Cayman Islands or Grand-Duchy of Luxembourg).
+(c)
+          
+Merger, Etc
+ 
+.  Direct Cayco, the Custodian or the Investment Manager, or authorize or permit Cayco, the Custodian or the Investment Manager, to hold or invest in any assets other than as permitted under the Certificate of Designations.
+(d)
+          
+Investments
+ 
+.  Consent to, vote for, or otherwise cause or permit any other Agilent Party voluntarily to take any action of the type referred to in the definition of Bankruptcy Action.
+(e)
+          
+Bankruptcy, Etc
+ 
+.  Direct, authorize or permit Cayco to amend its Memorandum or Articles or the Certificate of Designations, including, without limitation, to effect any modification to the governing structure of Cayco, except as permitted under the Certificate of Designations.
+(f)
+           
+Structure of Cayco
+ 
+.  (i) At any time prior to the Repo Transaction Termination Date or (ii) so long as any Class A Holder Secured Indebtedness is outstanding and, in either case, if and so long as a Rating Circumstance then exists, direct, authorize or permit Cayco to amend or modify the Investment Management Agreement relating to the Permitted Investments Account unless, prior to such amendment or modification, the Rating Condition shall have been satisfied with respect thereto.
+(g)
+          
+Investment Management Agreement
+ 
+.  Direct, authorize or permit Cayco to give any instruction with respect to payments in respect of the Class A Preferred Shares other than an instruction in accordance with Section 5 of the Repo Agreement or any provision in any Class A Holder Secured Indebtedness Document requiring the pledgor of Class A Preferred Shares thereunder to instruct Cayco to make payments in respect of such shares to the Agent, the Collateral Agent or the Indenture Trustee, as applicable.
+(h)
+          
+Class A Preferred Payments
+ 
+.  Agilent hereby covenants and agrees that, so long as the Class A Preferred Shares remain outstanding, it will furnish to (i) in the case of clause (b) below, the Person specified therein, and (ii) in all other cases, each Applicable Person and, in the case of each of clauses (c) and (d) below if and so long as a Rating Circumstance then exists, each of the relevant Rating Agencies, the following:
+3.3
+          
+Reporting Requirements
+ 
+.  A copy of all of the information and reports referred to in clauses (x) and (y) below:  (x) all current reports filed with the SEC on Form 8-K and (y) (i) within 90 days after the end of each fiscal year (or, if earlier, the date on which each of
+(a)
+          
+Public Reports
+ 
+Agilent and the Agilent Subsidiaries file the same with the SEC), deliver to Buyer, by mail or electronic communications, a copy of its audited consolidated balance sheet and related statements of operations, stockholders' equity and cash flows as of the end of and for such year, setting forth in each case in comparative form the figures for the previous fiscal year, accompanied by a report of PricewaterhouseCoopers LLP or other independent public accountants of recognized national standing (without a "going concern" or like qualification or exception and without any qualification or exception as to the scope of the related audit) to the effect that such consolidated financial statements present fairly in all material respects the financial position and results of operations and cash flows of Agilent and the consolidated Agilent Subsidiaries on a consolidated basis in accordance with GAAP consistently applied, and (ii) within 60 days after the end of each of the first three fiscal quarters of each fiscal year of Agilent (or, if earlier, the date on which the Company files the same with the SEC), deliver by mail or electronic communications to Buyer, a copy of its consolidated balance sheet and related statements of operations as of the end of and for such fiscal quarter and the then elapsed portion of the fiscal year and its related statement of cash flows for the then elapsed portion of the fiscal year, setting forth in each case in comparative form the figures for the corresponding period or periods of (or, in the case of the balance sheet, as of the end of) the previous fiscal year, all certified by one of its financial officers as presenting fairly in all material respects the financial position and results of operations and cash flows of Agilent and the consolidated Agilent Subsidiaries on a consolidated basis in accordance with GAAP consistently applied, subject to normal year-end audit adjustments and the absence of footnotes (which certification requirements shall be deemed satisfied by the execution by a financial officer of the certification required to be filed with the SEC pursuant to Item 601 of Regulation S-K).  Notwithstanding the foregoing, Agilent will be deemed to have furnished such reports referred to in the preceding paragraph if Agilent has filed such reports with the SEC via the SEC's Electronic Data Gathering, Analysis and Retrieval System (or any successor system) and such reports are publicly available and Agilent has notified Buyer of such filing.
+ 
+.  At any time when Agilent is not subject to Section 13 or 15(d) of the Exchange Act, upon the request of any holder of Class A Holder Secured Indebtedness issued under any Class A Holder Secured Indebtedness Indenture or any prospective purchaser thereof, Agilent will promptly furnish or cause to be furnished to such Person such information as is specified pursuant to Rule 144A(d)(4) under the Securities Act.
+(b)
+          
+144A(d)(4) Information
+ 
+.  Within ninety (90) days after the close of each of Agilent's fiscal years, an officer's certificate signed by the Chief Financial Officer of Agilent and stating that a review of the activities of the Agilent Parties during the preceding fiscal year has been made under his or her supervision with a view to determining whether each of Agilent and World Trade has performed its obligations under this Agreement, and further stating that to his or her actual knowledge no Incipient Material Affiliate Event or Material Affiliate Event has occurred during such period and remains in existence or, if either (i) an Incipient Material Affiliate Event or (ii) a Material Affiliate Event shall have so occurred (whether or not cured), describing all such Incipient Material Affiliate Events or Material Affiliate Events of which he or she may have knowledge and what action Agilent is taking (or has taken) or proposes to take with respect thereto.
+(c)
+          
+Compliance Certificate
+.  Within two (2) Business Days after an officer of Agilent has actual knowledge of such occurrence, written notice of the occurrence of an Incipient Material Affiliate Event or Material Affiliate Event and setting forth in detail the actions that Agilent has taken or proposes to take with respect thereto and whether or not cured.
+(d)
+          
+Notice of Incipient Material Affiliate Event or Material Affiliate Event
+ 
+.  Agilent has caused each of Luxco and the Foundation to file a valid election with the United States Internal Revenue Service (the "") to be treated from its respective date of formation as a disregarded entity for United States federal income tax purposes in accordance with Treasury Regulation section 301.7701-3(c) and will cause each of them to maintain its status as a disregarded entity for all relevant times in the future.
+3.4
+          
+Check-the-Box Elections
+IRS
+ 
+.  In connection with the transfer of the depository receipts of the Foundation (and thereby indirectly the shares of Agilent Technologies Europe B.V.) to Cayco, World Trade (i) has timely executed and filed with the IRS a "gain recognition agreement" described in Treasury Regulation section 1.367(a)-8 and the waiver of the period of limitations described therein in Agilent's consolidated United States federal income tax return by the due date (including extensions) of such return for the year of the transfer, in accordance with the procedures specified in Treasury Regulation section 1.367(a)-8(a) and (ii) will timely execute and file the annual certification described in Treasury Regulation section 1.367(a)-8(b)(5) in Agilent's consolidated United States federal income tax return by the due date (including extensions) of such return for each of the five full taxable years following the year of the transfer, in accordance with the procedures specified in Treasury Regulation section 1.367(a)-8.
+3.5
+          
+World Trade Tax Filing Obligations
+ 
+.
+3.6
+          
+Covenants Regarding Cayco
+ 
+Agilent shall cause Cayco not to:
+(1)
+          
+ 
+establish any physical presence or branch office or acquire or rent office space in the United States or any other jurisdiction (other than the Cayman Islands);
+(a)
+          
+ 
+appoint a representative or agent in the United States or any other jurisdiction outside of the Cayman Islands with unlimited authority to conduct the business of Cayco or to sign contracts for and on behalf of Cayco in any such jurisdiction;
+(b)
+          
+ 
+become a plaintiff, or counterclaim, in any suit, action or proceedings outside the Cayman Islands or the Netherlands, except in a special proceeding for purposes of disclaiming the jurisdiction of the relevant court or tribunal;
+(c)
+          
+ 
+voluntarily appear before a court in any suit, action or proceedings outside the Cayman Islands or the Netherlands, except in a special proceeding for purposes of disclaiming the jurisdiction of the relevant court or tribunal;
+(d)
+          
+ 
+expressly agree to submit to the jurisdiction of any court outside of the Cayman Islands and the Netherlands;
+(e)
+          
+hold board of director or shareholder meetings in or from within any jurisdiction other than the Cayman Islands or Bermuda or such other jurisdiction (other than the United States) as should not, in the opinion of counsel, result in Cayco being determined to have a place of business for any purposes in such other jurisdiction;
+(f)
+           
+ 
+maintain any property or assets of Cayco in the United States or maintain any material amount of property or assets of Cayco in any other jurisdiction (other than the Cayman Islands and the Netherlands);
+(g)
+          
+ 
+Agilent will not elect or cause any election to be made to treat Cayco as other than a corporation for U.S. tax purposes; or
+(h)
+          
+ 
+have a registered office in any jurisdiction other than the Cayman Islands.
+(i)
+           
+ 
+Agilent (a) shall not direct, authorize or permit Cayco to take any action requiring a class vote of the Class A Preferred Shares in contravention of the outcome of such a vote or without having conducted such a vote, and (b) shall cause Cayco in all other respects to comply with the Articles of Association and the Certificate of Designations.
+(2)
+          
+ 
+(a) Agilent shall not cause or permit Cayco or any of Agilent's other Subsidiaries in which Cayco holds any interest to hold or acquire five percent or more of any class of voting securities of (x) any company organized under U.S. law or (y) any other company that maintains an office (other than a representative office) in the United States or has a Subsidiary organized under U.S. law, that Agilent may cause or permit Cayco or any such Subsidiary of Agilent to hold or acquire five percent or more of any class of voting securities in any company organized under non-U.S. law described in clause (y) above (a "") if either
+(3)
+          
+provided, however,
+Non-U.S. Target
+ 
+Both of the following conditions are met:
+(i)
+   
+ 
+More than 50 percent of the Non-U.S. Target's consolidated assets are located, and consolidated revenues are derived from, outside the United States, and
+A.
+           
+ 
+If the Non-U.S. Target is or becomes a Subsidiary of Cayco, (A) the Non-U.S. Target is, or Controls, an operating company, and (B) the activities of the Non-U.S. Target or any of its Subsidiaries (as applicable) in the United States are (x) the same kind of activities as, or are related to, the activities of the Non-U.S. Target or any of its Subsidiaries outside the United States, and (y) are not banking and financial activities, or
+B.
+           
+ 
+Agilent causes Cayco or the Non-U.S. Target, not more than 24 months following the consummation of the acquisition of a company that does not conform to the requirements of section 3(a)(i)(A), and promptly, but in any event not more than 30 days following the consummation of the acquisition of a company that does not conform to the requirements of section 3(a)(i)(B), to cease any activities engaged in by the Non-U.S. Target in the United States either directly or through
+(ii)
+  
+ 
+a Subsidiary (including by transferring the U.S. employees of that Subsidiary to a Subsidiary of Agilent that is not a Subsidiary of Cayco).
+ 
+(b)  If, a Non-U.S. Target having held or acquired voting securities (as described in subparagraph (a) above), (1) Agilent is unable to comply with subparagraph (a)(i)(A) and concludes in good faith that it will be unable to take the actions described in subparagraph (a)(ii) within 24 months or (2) Agilent is unable to comply with subparagraph (a)(i)(B) and concludes in good faith that it will be unable to take the actions described in subparagraph (a)(ii) within 30 days, Agilent (x) will as soon as practicable consult and cooperate with each Designated Person in an effort to cause the activities of the Non-U.S. Target to qualify for an exemption as set forth in 12 C.F.R. Part 211 or 225 as they apply to such Designated Person and (y) may request each Designated Person to extend the relevant 24-month or 30-day period, which request will be granted provided that such Designated Person it is not thereby at risk of a material violation of applicable regulations (as determined by each such Designated Person in good faith).
+ 
+(c)  For purposes of this Section 3.6(3) only, "Subsidiary" shall mean any company Controlled by another company,  "Control" shall have the same meaning set forth in 12 C.F.R. 225.2(e), and "banking and financial activities" shall have the same meaning as set forth in 12 C.F.R. 211.23(f)(5)(iii)(B).
+ 
+(d)  The Buyer agrees to consult Agilent about any discussions the Buyer has with the Federal Reserve Board or Federal Reserve Bank on any matters covered by this Section 3.6(3), including the obtaining of extensions of time or other relief.
+ 
+.  Agilent and World Trade jointly and severally agree to cause Cayco to appoint an Investment Manager to oversee the Permitted Investment Account and Agilent and World Trade jointly and severally agree to cause Cayco to enter into an Investment Management Agreement with such Investment Manager.  Agilent and World Trade jointly and severally agree to cause Cayco to cause the Investment Manager to comply with all of its obligations under such Investment Management Agreement.  In the event that the Investment Manager shall have (a) notified Cayco of its intention to resign, (b) breached any of its obligations under the Investment Management Agreement or (c) failed to meet the criteria set forth in the definition of Investment Manager in the Certificate of Designations, Agilent and World Trade jointly and severally agree to cause Cayco to provide written notice to (i) each Applicable Person and (ii) if and so long as a Rating Circumstance then exists, each of the relevant Rating Agencies promptly, and in any event, no later than two (2) Business Days following the date of receipt of such notice from the Investment Manager or the date that Agilent or Cayco attains actual knowledge of such breach or failure.  Further, Agilent and World Trade jointly and severally agree to cause Cayco (i) to appoint, (x) in the case of an event described in clause (a) above, by no later than thirty (30) days following the date of receipt of such notice from the Investment Manager and (y) in the case of an event described in clause (b) or (c) above, by no later than thirty (30) days following the later of (A) the date that Agilent or Cayco attains actual knowledge of such breach or failure and (B) the expiration of any applicable grace or cure period in the Investment Management Agreement, if the relevant breach has not been cured, in each case, a new Investment Manager meeting the criteria set forth in the definition of Investment Manager in the Certificate of Designations to replace such resigning or defaulting Investment Manager and (ii) to enter into a new Investment Management Agreement with the
+3.7
+          
+Investment Manager
+ 
+replacement Investment Manager appointed in accordance with clause (i) above.  Agilent and World Trade jointly and severally agree, if and so long as a Rating Circumstance then exists, the Rating Condition shall, prior to any appointment of a new Investment Manager and execution of a new Investment Management Agreement pursuant to this Section 3.7, have been satisfied in respect of such appointment and execution.
+ 
+.  Agilent and World Trade jointly and severally agree to cause Cayco to appoint a Custodian with respect to the Permitted Investment Account and Agilent and World Trade jointly and severally agree to cause Cayco to enter into an IM Custody Agreement with such Custodian.  Agilent and World Trade jointly and severally agree to cause Cayco to cause the Custodian to comply with all of its obligations under such IM Custody Agreement.  In the event that the Custodian shall have (a) notified Cayco of its intention to resign, (b) breached any of its obligations under the IM Custody Agreement or (c) failed to meet the criteria set forth in the definition of Custodian in the Certificate of Designations, Agilent and World Trade jointly and severally agree to cause Cayco to provide written notice to (i) each Applicable Person and (ii) if and so long as a Rating Circumstance then exists, each of the relevant Rating Agencies promptly, and in any event, no later than two (2) Business Days following the date of receipt of such notice from the Custodian or the date that Agilent or Cayco attains actual knowledge of such breach or failure.  Further, Agilent and World Trade jointly and severally agree to cause Cayco (i) to appoint, (x) in the case of an event described in clause (a) above, by no later than forty (40) days following the date of receipt of such notice from the Custodian and (y) in the case of an event described in clause (b) or (c) above, by no later than forty (40) days following the later of (A) the date that Agilent or Cayco attains actual knowledge of such breach or failure and (B) the expiration of any applicable grace or cure period in the IM Custody Agreement, if the relevant breach has not been cured, in each case, a new Custodian meeting the criteria set forth in the definition of Custodian in the Certificate of Designations to replace such resigning or defaulting Custodian and (ii) to enter into a new IM Custody Agreement with the replacement Custodian appointed in accordance with clause (i) above.  Agilent and World Trade jointly and severally agree, if and so long as a Rating Circumstance then exists, the Rating Condition shall, prior to any appointment of a new Custodian and execution of a new IM Custody Agreement pursuant to this Section 3.8, have been satisfied in respect of such appointment and execution.
+3.8
+          
+Custodian
+ 
+.  Agilent and World Trade jointly and severally agree to ensure that there shall be no Class A Preferred Shares outstanding at any time other than the Class A Preferred Shares that are subject to either the repurchase obligations of World Trade under the Repo Agreement or the lien of any Class A Holder Secured Indebtedness Document.
+3.9
+          
+Outstanding Class A Preferred Shares
+ 
+.  Agilent and World Trade jointly and severally agree to cause Cayco not to withdraw or otherwise remove from the Permitted Investments Account (a) any instrument or security evidencing a Permitted Investment that, subsequent to the date of purchase thereof, fails to meet the criteria set forth in the definition of Permitted Investment Property in the Certificate of Designations or (b) if such Permitted Investment shall have been sold, liquidated or otherwise disposed of in connection with a replacement thereof in accordance with Exhibit A to the Investment Management Agreement, the proceeds of such Permitted Investment, in either case, until the date on which such instrument or security is replaced with an
+3.10
+        
+Permitted Investments
+ 
+instrument or security meeting the criteria set forth in the definition of Permitted Investment Property in the Certificate of Designations.
+ 
+.  Agilent hereby covenants and agrees that, at any time prior to the Repo Transaction Termination Date or so long as any Class A Holder Secured Indebtedness is outstanding, it will, or will cause Cayco to, furnish to the Investment Manager, the following:
+3.11
+        
+Investment Manager Notices
+ 
+.  (i) On the date hereof, a list of each corporation, partnership, estate or trust (an "") with respect to each of Agilent, World Trade and Cayco meeting the criteria set forth in Sections 2(h) and (i) of the Investment Management Guidelines; and (ii) within fifteen (15) Business Days after the close of each of Agilent's fiscal quarters, an updated Affiliate List.
+(a)
+          
+CP Security Guidelines
+Affiliate List
+ 
+.  In connection with the delivery of any written instruction of Cayco respecting the withdrawal or liquidation of CP Securities (as defined in the Investment Management Guidelines) to the Investment Manager pursuant to Section 3(h) or (i) of the Investment Management Guidelines, an officer's certificate of Cayco certifying that (i) there are no accumulated and unpaid Stated Dividends as of the date of such withdrawal or liquidation (other than State Dividends accumulated from and after the most recent Dividend Payment Date preceding such date) and (ii) no Incipient Material Affiliate Event or Material Affiliate Event has occurred and is continuing as of the date of such withdrawal or liquidation after giving effect to such withdrawal or liquidation.
+(b)
+          
+Certificate Regarding Withdrawal or Liquidation of CP Securities
+ 
+.  Agilent hereby covenants and agrees that, so long as the Class A Preferred Shares remain outstanding and a Rating Circumstance then exists, it will not, and will cause Cayco not to, (a) effect any amendment or modification to any Organizational Document of Cayco (including, without limitation, the Certificate of Designations) or (b) take any action under any of Sections 24, 25 and 26 of the Articles unless, with respect to any such amendment or modification described in clause (a) or any such action described in clause (b), the Rating Condition shall have been satisfied prior to such amendment or modification or action, as the case may be.
+3.12
+        
+Rating Condition
+ 
+.  Agilent hereby covenants and agrees that, so long as the Class A Preferred Shares remain outstanding and a Rating Circumstance then exists, it will, or will cause Cayco to, furnish to each of the relevant Rating Agencies written notice not less than ten (10) Business Days prior to any withdrawal or liquidation of CP Securities (as defined in the Investment Management Guidelines) pursuant to Section 3(h) or (i) of the Investment Management Guidelines.
+3.13
+        
+Withdrawal or Liquidation of CP Securities
+ 
+.  At all times prior to the Repo Transaction Termination Date, Agilent and World Trade jointly and severally agree not to permit or cause Cayco to redeem any of the Class A Preferred Shares or liquidate any Permitted Investments (except as contemplated by the Investment Management Guidelines).
+3.14
+        
+Redemption of Class A Preferred Shares
+ 
+3.15         .  At all times prior to the Repo Transaction Termination Date, Agilent and World Trade (i) will cause Luxco not to hold any interest that is treated as an equity interest for U.S. federal income tax purposes in any entity that is not treated as a corporation for U.S. federal income tax purposes, and (ii) will cause Luxco not to engage in any transaction or activity that would cause Luxco to be treated as engaged in a trade or business in the United States for U.S. federal income tax purposes.
+Certain U.S. Tax Matters Relating to Luxco
+ 
+3.16         .  Agilent and World Trade jointly and severally agree not to permit or cause Cayco, prior to the Repo Transaction Termination Date, to furnish any new Certificate of Authorized Persons to the Custodian under the IM Custody Agreement (or to revise any existing such certificate) unless such new (or revised) Certificate of Authorized Persons has been furnished by, or consented to by, the Investment Manager and does not contain any employees or agents (other than the Investment Manager) of any Agilent Party or any Affiliate thereof.  As used in this Section 3.16, "" means the Certificate of Authorized Persons furnished to the Custodian pursuant to the IM Custody Agreement in the form of the exhibit thereto captioned "Certificate of Authorized Persons".
+Certificate of Authorized Persons relating to the IM Custody Agreement
+Certificate of Authorized Persons
+ 
+SECTION 4
+ 
+MISCELLANEOUS
+ 
+4.1           .  This Agreement shall terminate one year and one day after the Repo Transaction Termination Date or, if any Class A Holder Secured Indebtedness is outstanding, the termination (in accordance with the terms of the relevant Class A Holder Secured Indebtedness Documents) of all security interests in the Class A Preferred Shares granted pursuant to such documents.
+Termination
+ 
+4.2           .  No amendment or waiver of any provision of this Agreement, and no consent to any departure by Agilent herefrom, shall in any event be effective unless the same shall be in writing and signed by each Applicable Person and Agilent and, if a Rating Circumstance exists at the time of the proposal of such amendment, waiver or consent, the Rating Condition shall have been satisfied prior to the effectiveness of such amendment, waiver or consent.  No such waiver of a provision or consent to a departure in any one instance shall be construed as a further or continuing waiver of or consent to subsequent occurrences, or a waiver of any other provision or consent to any other departure.
+Amendments
+ 
+4.3           .  Any notice or communication required or permitted to be given by any provision of this Agreement shall be in writing or by facsimile and shall be deemed to have been delivered, given, and received for all purposes (a) if delivered personally to the Person or to an officer of the Person to whom the same is directed, or (b) when the same is actually received (if during the recipient's normal business hours if during a Business Day, or, if not, on the next succeeding Business Day), if sent by facsimile (followed by a hard copy of the same communication sent by certified mail, postage and charges prepaid), or by courier or delivery service or by mail, addressed as follows, or to such other address as such Person may from time to time specify by notice, if to Agilent or World Trade, at its address at 5301 Stevens Creek Boulevard, Santa Clara, California 95051, Attention:  Chief Financial Officer, Treasurer
+Addresses for Notices
+ 
+408-345-8958, if to Standard & Poor's Rating Services, at its address at 55 Water Street, 41st Floor, New York, NY 10041-0003, Attention:  ABS Surveillance Group - New Assets, and if to any Applicable Person, at its address specified in the Repo Agreement or the relevant Class A Holder Secured Indebtedness Document, as applicable, or, in each case, to such other address (and with copies to such other Persons) as the Person entitled to receive notice hereunder shall specify by notice given in the manner provided herein to the other Persons entitled to receive notice hereunder.
+and General Counsel, Facsimile No.: 
+ 
+4.4           .  No failure on the part of the Buyer, the Agent or the Indenture Trustee to exercise, and no delay in exercising, any right hereunder shall operate as a waiver thereof; nor shall any single or partial exercise of any right hereunder preclude any other or further exercise thereof or the exercise of any other right.  The remedies herein provided are cumulative and not exclusive of any remedies provided by applicable law.
+No Waiver; Cumulative Remedies
+ 
+4.5           .  EACH OF AGILENT AND WORLD TRADE HEREBY IRREVOCABLY SUBMITS TO AND ACCEPTS THE NONEXCLUSIVE JURISDICTION OF ANY FEDERAL COURT LOCATED IN THE CITY OF NEW YORK OR THE COURTS OF THE STATE OF NEW YORK, IN EACH CASE, LOCATED IN THE BOROUGH OF MANHATTAN OF THE CITY OF NEW YORK, AND EACH OF AGILENT AND WORLD TRADE HEREBY IRREVOCABLY AGREES THAT ANY ACTION OR PROCEEDING AGAINST IT OR AGAINST ITS PROPERTY ARISING OUT OF OR RELATING TO THIS AGREEMENT (AN "") MAY BE HEARD AND DETERMINED IN SUCH FEDERAL OR STATE COURT.  EACH OF AGILENT AND WORLD TRADE HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT THAT IT MAY EFFECTIVELY DO SO, ANY DEFENSE OR OBJECTION (INCLUDING, WITHOUT LIMITATION, ANY DEFENSE OR OBJECTION TO VENUE BASED ON THE GROUNDS OF FORUM NONCONVENIENS) WHICH IT MAY NOW OR HEREAFTER HAVE TO THE MAINTENANCE OF ANY ACTION IN ANY SUCH JURISDICTION.  EACH OF AGILENT AND WORLD TRADE HEREBY IRREVOCABLY AGREES THAT THE SUMMONS AND COMPLAINT OR ANY OTHER PROCESS IN ANY ACTION IN ANY JURISDICTION MAY BE SERVED BY MAILING (USING CERTIFIED OR REGISTERED MAIL, POSTAGE PREPAID) TO THE NOTICE ADDRESS FOR IT SET FORTH HEREIN OR IN THE RELEVANT CLASS A HOLDER SECURED INDEBTEDNESS DOCUMENT OR BY HAND DELIVERY TO A PERSON OF SUITABLE AGE AND DISCRETION AT SUCH ADDRESS.  EACH OF AGILENT AND WORLD TRADE MAY ALSO BE SERVED IN ANY OTHER MANNER PERMITTED BY LAW, IN WHICH EVENT ITS TIME TO RESPOND SHALL BE THE TIME PROVIDED BY LAW.
+Consent to Jurisdiction; Waiver of Venue Objection; Service of Process
+ACTION
+ 
+4.6           .  EACH OF AGILENT, WORLD TRADE AND, BY ACCEPTING THE BENEFITS HEREOF, THE AGENT OR THE COLLATERAL AGENT, AS APPLICABLE, EACH HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OF THE TRANSACTIONS CONTEMPLATED HEREBY.
+Waiver of Jury Trial
+ 
+4.7           .  All covenants and other agreements and obligations in this Agreement shall (a) be binding upon Agilent and World Trade and their successors, but neither Agilent nor World Trade may assign its obligations hereunder without the consent of the Applicable Person and (b) inure to the exclusive benefit of, and be enforceable by, each Designated Person and its successors and assigns.
+Assignment
+ 
+4.8           .  THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+Governing Law
+ 
+4.9           .  This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.  This Agreement may be delivered by facsimile transmission of the relevant signature pages hereof.
+Counterparts
+ 
+4.10         .  Every provision of this Agreement that is prohibited by or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+Severability
+ 
+4.11         .  This Agreement is intended for the exclusive benefit of each Designated Person and its successors and assigns and no other Person shall have any rights hereunder, whether as a third-party beneficiary or otherwise.
+No Third-Party Beneficiaries
+ 
+ 
+IN WITNESS WHEREOF, each of Agilent and World Trade has caused this Agreement to be duly executed and delivered by its officer or other duly authorized signatory thereunto duly authorized as of the date first above written.
+ 
+ 
+EXHIBIT A TO AGILENT AGREEMENT
+ 
+Definitions
+ 
+"" means, with respect to any Person, another Person that directly, or indirectly through one or more intermediaries, Controls or is Controlled by or is under common Control with the Person specified.
+Affiliate
+ 
+"" has the meaning set forth in Section 3.11(a) of the Agreement.
+Affiliate List
+ 
+"" means the collateral agent, if any, acting in such capacity, to whom the Holders shall have pledged the Class A Preferred Shares, for the benefit of the lenders under any Class A Holder Secured Indebtedness Loan Agreement, to secure the obligations of such Holders thereunder.
+Agent
+ 
+"" has the meaning set forth in the preamble to the Agreement.
+Agilent
+ 
+"" has the meaning set forth in Section 2.1 of the Agreement.
+Agilent Party
+ 
+"" means, collectively, each of Agilent's Subsidiaries other than Cayco and Luxco.
+Agilent Subsidiaries
+ 
+"" has the meaning set forth in the preamble hereto.
+Agreement
+ 
+"" means (a) at any time prior to the Repo Transaction Termination Date, the Buyer and (b) if and for so long as any Class A Holder Secured Indebtedness is outstanding, either the Agent or each of the Collateral Agent and the Indenture Trustee, as applicable.
+Applicable Person
+ 
+"" means Agilent Technologies (Cayco) Limited, an exempted company incorporated with limited liability under the laws of the Cayman Islands.
+Cayco
+ 
+"" means that certain Third Amended and Restated Certificate of Designations of Preferences, Limitations, and Relative Rights of Class A Preferred Shares of Agilent Technologies (Cayco) Limited, dated November 17, 2008.
+Certificate of Designations
+ 
+"" means, in the event that the Class A Preferred Shares are pledged by the Holders to secure any debt securities issued, or other indebtedness incurred, by such Holders, any such debt securities or other indebtedness secured by such pledge of the Class A Preferred Shares; , , that the Repo Agreement and any obligation or indebtedness thereunder shall be deemed not to be Class A Holder Secured Indebtedness under any circumstances.
+Class A Holder Secured Indebtedness
+provided
+however
+ 
+"" means the Class A Holder Secured Indebtedness Indenture or the Class A Holder Secured Indebtedness Loan Agreement, as the case may be, and all other agreements and instruments, including, without limitation, all pledge agreements and security agreements, pursuant to which the Class A Holder Secured
+Class A Holder Secured Indebtedness Documents
+ 
+Indebtedness has been or will be issued or incurred and secured or otherwise setting forth the terms of, or otherwise entered into by an Agilent Party in connection with, the Class A Holder Secured Indebtedness, in each case, as the same may be amended, restated, supplemented or otherwise modified from time to time in accordance with the terms thereof.
+ 
+"" means any indenture governing the Class A Holder Secured Indebtedness.
+Class A Holder Secured Indebtedness Indenture
+ 
+"" means any loan or credit agreement (including any guarantee of obligations thereunder) evidencing the Class A Holder Secured Indebtedness.
+Class A Holder Secured Indebtedness Loan Agreement
+ 
+"" means the Class A Preferred Shares in the capital of Cayco having the rights and preferences set forth in the Certificate of Designations.
+Class A Preferred Shares
+ 
+"" means the date on which any Class A Holder Secured Indebtedness is incurred or issued.
+Closing Date
+ 
+"" means the collateral agent, if any, acting in such capacity, to whom the Holders shall have pledged the Class A Preferred Shares, for the benefit of the Indenture Trustee and the holders of any securities issued under any Class A Holder Secured Indebtedness Indenture, to secure the obligations of such Holders thereunder.
+Collateral Agent
+ 
+"" means the Companies Law (2007 Revision) of the Cayman Islands.
+Companies Law
+ 
+"" means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person (other than as a result of, or by virtue of, the effect of Special Voting Rights or other weighted voting rights under or pursuant to the Certificate of Designations), whether through the ability to exercise voting power, by contract or otherwise.  "" and "" have meanings correlative thereto.  Without limiting the generality of the foregoing, a Person shall be deemed to be Controlled by another Person if such other Person possesses, directly or indirectly, power to vote 10% or more of the securities having ordinary voting power for the election of directors, managing general partners or the equivalent.
+Control
+Controlling
+Controlled
+ 
+"" means those certain depositary receipts issued by the Foundation representing the economic interests in Luxco.
+Depositary Receipts
+ 
+"" means (a) at any time prior to the Repo Transaction Termination Date, the Buyer and (b) if and for so long as any Class A Holder Secured Indebtedness is outstanding, (i) each of the Agent and each lender under the relevant Class A Holder Secured Indebtedness Loan Agreement or (ii) each of the Collateral Agent, the Indenture Trustee and each holder of securities issued under the relevant Class A Holder Secured Indebtedness Indenture, as applicable.
+Designated Person
+ 
+"" means, with respect to any Person, shares of capital stock of (or other ownership or profit interests in) such Person, warrants, options or other rights for the purchase or other acquisition from such Person of shares of capital stock of (or other ownership or profit
+Equity Interests
+ 
+interests in) such Person, securities convertible into or exchangeable for shares of capital stock of (or other ownership or profit interests in) such Person or warrants, rights or options for the purchase or other acquisition from such Person of such shares (or such other interests), and other ownership or profit interests in such Person (including, without limitation, partnership, member or trust interests therein), whether voting or nonvoting, and whether or not such shares, warrants, options, rights or other interests are authorized or otherwise existing on any date of determination.
+ 
+"" means the Securities Exchange Act of 1934.
+Exchange Act
+ 
+"" means Stichting Voting Trust Agilent Technologies (Luxco) S. r.l., a foundation (stichting) organized under the laws of the Netherlands.
+Foundation
+ 
+"" means the Second Amended and Restated Free Cash Investment Management Agreement, dated as of November 17, 2008, between the Investment Manager and Cayco.
+Free Cash Management Agreement
+ 
+"" means any Person that is an Affiliate of Agilent and in whose name a Class A Preferred Share is registered in the Register of Members of Cayco at any given time.
+Holder
+ 
+"" means (a) the Indemnity Agreement and Guarantee, dated as of January 27, 2006, pursuant to which Agilent will provide certain indemnities relating to the Custodian under the Cayco Custody Agreement and the IM Custody Agreement and certain guarantees with respect to the obligations of Cayco under the Cayco Custody Agreement and the IM Custody Agreement, (b) the indemnity agreement pursuant to which Agilent will provide certain indemnities with respect to certain directors of Cayco, (c) any agreement or other arrangement pursuant to which Agilent agrees to pay or pays legal fees, accounting fees and other out-of-pocket costs and expenses incurred in connection with the closing of (i) the Repo Agreement (and all other agreements executed and delivered in connection therewith) or (ii) any Class A Holder Secured Indebtedness (and, in the case of each of (i) and (ii), the consummation of the transactions contemplated thereunder), and (d) each amended and restated investment management agreement, dated as of January 27, 2006, among Cayco, Agilent and the Investment Manager, pursuant to which Agilent will provide certain indemnities relating to the actions of the Investment Manager thereunder.
+Indemnity Documents
+ 
+"" means the indenture trustee, if any, acting in such capacity, for the holders of any securities issued under any Class A Holder Secured Indebtedness Indenture.
+Indenture Trustee
+ 
+"" means Exhibit A to the Investment Management Agreement.
+Investment Management Guidelines
+ 
+means any and all debts, liabilities and obligations, whether accrued or fixed, absolute or contingent, matured or unmatured or determined or determinable, including those arising under any law, action or governmental order and those arising under any contract, agreement, arrangement, commitment or undertaking.
+""
+Liabilities
+ 
+means any mortgage, pledge, hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or other), charge, or preference, priority or other security interest or
+""
+Lien
+ 
+preferential arrangement in the nature of a security interest of any kind or nature whatsoever (including any conditional sale or other title retention agreement, any easement, right of way or other encumbrance on title to real property, and any financing lease having substantially the same economic effect as any of the foregoing).
+ 
+"" means Agilent Technologies Luxco S. r.l., a limited liability company (socit  responsabilit limite) organized under the laws of the Grand-Duchy of Luxembourg.
+Luxco
+ 
+"" means a material adverse effect on the business, financial condition, assets (including any Permitted Investment Property) or liabilities (contingent or otherwise) of any of Agilent, World Trade or Cayco.
+Material Adverse Effect
+ 
+"" means (a) this Agreement, (b) the Repo Agreement and the Agilent Guarantee or, if any Class A Holder Secured Indebtedness is outstanding, any Class A Holder Secured Indebtedness Documents, (c) the Related Agreement and (d) any Indemnity Documents.
+Operative Documents
+ 
+"" means January 27, 2006.
+Original Purchase Date
+ 
+"" means (a) with respect to any corporation, the certificate or articles of incorporation and the bylaws (or equivalent or comparable constitutive documents with respect to any non-U.S. jurisdiction); (b) with respect to any limited liability company, the certificate, articles of formation or organization and operating agreement or memorandum of association and articles of association; and (c) with respect to any partnership, joint venture, trust or other form of business entity, the partnership, joint venture or other applicable agreement of formation or organization and any agreement, instrument, filing or notice with respect thereto filed in connection with its formation or organization with the applicable governmental authority in the jurisdiction of its formation or organization and, if applicable, any certificate or articles of formation or organization of such entity.
+Organizational Documents
+ 
+"" means the register to be kept by Cayco in accordance with Section 40 of the Companies Law;
+Register of Members
+ 
+"" means the Related Agreement, dated as of September 22, 2008 among Lloyds TSB Bank PLC, Agilent and World Trade.
+Related Agreement
+ 
+"" means the date on which the Transaction (as defined in the Repo Agreement) is terminated in accordance with the terms of the Repo Agreement.
+Repo Transaction Termination Date
+ 
+"" means Rule 144A promulgated under the Securities Act.
+Rule 144A
+ 
+"" means the Securities and Exchange Commission, or any governmental authority succeeding to any of its principal functions.
+SEC
+ 
+"" means the Securities Act of 1933.
+Securities Act
+ 
+"" of any Person means any corporation, partnership, joint venture, limited liability company, trust or estate of which (or in which) more than 50% of (a) the issued and outstanding Equity Interests having ordinary voting power to elect a majority of the board of directors (or persons performing similar functions) of such corporation (irrespective of whether at the time Equity Interests of any other class or classes of such corporation shall or might have voting power upon the occurrence of any contingency), (b) the interest in the capital or profits of such partnership, joint venture or limited liability company or (c) the beneficial interest in such trust or estate is at the time directly or indirectly owned or controlled by such Person, by such Person and one or more of its other Subsidiaries or by one or more of such Person's other Subsidiaries.
+Subsidiary
+ 
+"" and "" mean the United States of America.
+United States
+U.S.
+ 
+"" has the meaning set forth in the preamble to the Agreement.
+World Trade
+
+

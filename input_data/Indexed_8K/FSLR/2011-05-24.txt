@@ -1,0 +1,1801 @@
+FILE:FSLR/FSLR-8K-20110524152127.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+On May 18, 2011, First Solar Manufacturing GmbH (the "Borrower"), an indirect wholly owned subsidiary of First Solar, Inc. (the "Company"), entered into a EUR 124,500,000 Credit Facility Agreement (the "Credit Agreement"), among the Borrower, Commerzbank Aktiengesellschaft, as arranger (the "Arranger"), Commerzbank Aktiengesellschaft, Luxembourg Branch, as facility agent (the "Facility Agent"), Commerzbank Aktiengesellschaft, Luxembourg Branch, as security agent (the "Security Agent"), and the additional finance parties party thereto. A copy of the Credit Agreement (translated into English from the German original) is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+Concurrently with the execution of the Credit Agreement, the Company entered into a Guarantee Agreement dated as of May 18, 2011 (the "Guarantee Agreement"), among the Company, the Borrower and the Security Agent. A copy of the Guarantee Agreement is attached hereto as Exhibit 10.2 and is incorporated herein by reference.
+The proceeds of the Credit Agreement will be used by the Borrower to, among other things, finance and/or refinance the acquisition of certain land parcels located in Frankfurt/Oder, Germany and the construction of a new facility for the production of thin-film solar modules (the "FFO2 Production Facility").
+Borrowings under the Credit Agreement bear interest at a rate per annum equal to 1.35% (the "Margin") plus mandatory costs plus a euribor rate determined by reference to the rate for the offering of deposits in euro appearing on the Reuters screen (EURIBOR01) for the interest period selected by the Borrower. During the period from the date of the Credit Agreement until the date 17 months thereafter, unutilized commitments under the Credit Agreement are subject to a commitment fee equal to 35% of the Margin.
+The Borrower may voluntarily repay outstanding loans under the Credit Agreement at any time without premium or penalty, subject to compensation for customary "break costs" and certain other requirements. The Borrower is required to prepay loans with certain asset sales and insurance proceeds and may be required by the lenders to prepay the loans upon the occurrence of a change of control.
+The loans made to the Borrower are (i) secured by, among other things, a first-ranking abstract land charge over the parcels of land on which the FFO2 Production Facility will be constructed and a pledge of a debt service reserve account and (ii) guaranteed by the Company pursuant to the Guarantee Agreement and by the German Federal Government and the Federal State of Brandenburg.
+The Credit Agreement contains negative covenants that, among other things, restrict, subject to certain exceptions, the ability of the Borrower to incur indebtedness, create liens, effect asset sales, make dividends, other distributions and share buybacks, engage in reorganizations, make acquisitions and create joint ventures and make loans. In addition, the Credit Agreement includes financial covenants relating to minimum liquidity, maximum permitted leverage ratio and minimum EBITDA. The Credit Agreement also contains certain representations and warranties, affirmative covenants and events of default.
+The foregoing summary of the Credit Agreement, the guarantee and security documents described herein, and the transactions contemplated thereby, does not purport to be complete and is subject to, and qualified in its entirety by, the full text of each of the documents described herein.
+The information included in Item 1.01 above is incorporated by reference to this Item 2.03.
+ 
+(d) Exhibits
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: May 24, 2011
+ 
+
+Exhibit 10.1
+SIGNATURE VERSION
+ 
+ 
+ 
+ 
+(hereinafter referred to as the relating to a credit facility, which is partially secured by a government guaranty, was entered into by the following parties on 18 May 2011:
+THIS AGREEMENT
+"
+Agreement"
+)
+IT IS AGREED AS FOLLOWS:
+1. DEFINITIONS AND INTERPRETATION
+1.1
+Definitions
+In this , the terms set forth below shall have the following meanings:
+Agreement
+means:
+Acceptable Bank
+has the meaning given to that phrase in subsection 17.11 ().
+Adjustment Payment
+Adjustment payment
+means the and each .
+Administrative Party
+Arranger
+Agent
+is an affiliated enterprise within the meaning of 15 of the German Stock Corporation Act ().
+Affiliate
+Aktiengesetz  AktG
+means the and the .
+Agent
+Security Agent
+Facility Agent
+means every twelve (12) month period that ends on the last day of a fiscal year or the last day of a quarter of a fiscal year of the
+Audit Period
+Borrower.
+means any authorizations, consents, approvals, resolutions, licenses, permits, exemptions, registrations, concessions and notarizations.
+Authorizations and Approvals
+means the amount that a can draw upon pursuant to section 10.4.
+Break Costs
+Lender
+means a day (except Saturday or Sunday) on which banks in Frankfurt am Main and Luxembourg are open for ordinary business operations and which also is a .
+Business Day
+TARGET Day
+ 
+means the 's finance planning for fiscal year 2011, as of 3 Febraury 2011, as well as any business plan that is submitted in accordance with subsection 19.4 a) ().
+Business Plan
+Borrower
+Business Plan
+means the covenant by First Solar Holding GmbH for the benefit of the and the which includes, , the obligation not to bring about a resolution to reduce the share capital of the or to effectuate a payment from the capital reserves that would lead to the equity capital of the falling short of  the higher of the two following amounts:
+Capital Preservation Covenant
+State Guarantors
+Lenders,
+inter alia
+Borrower
+Borrower
+a) EUR 27,189,000; or
+b) EUR 173,216,596 reduced by the (i) investment subsidies and investment grants that have been disbursed or are still expected as well as (ii) loan amounts advanced under this Agreement and the outstanding .
+Total Commitments
+means that (i) one or more persons acting in concert acquire(s) a (direct or indirect) interest in the representing 35% or more of all shares and/or voting rights, or (ii) the (directly or indirectly) does not hold 100% of all shares and voting rights of the .
+Change of Control
+Guarantor
+Guarantor
+Borrower
+means the Commitment of the respective listed in Part II () of Schedule 1 () under the heading, "Commitment", except insofar as such Commitment has been canceled or reduced in accordance with this .
+Commitment
+Lender
+The Original Lenders
+The Original Parties
+Agreement
+means a confirmation that corresponds in material respects to () and from which, among other things, the calculation of the is derived in accordance with section 20 ().
+Compliance Certificate
+Schedule 5 Part I
+Form of Compliance Certificate
+Financial Ratios
+Financial Ratios (Compliance Certificate
+has the meaning given to that term in section 29 ().
+Confidential Information
+Disclosure of Information
+means the account described in subsection 21.22 () and pledged to the Security Agent.
+Debt Service Reserve Account
+Debt Service Reserve Account
+means an event described in section 22 ().
+Default
+Default
+means the deficiency guarantee [] granted by the Federal Republic of Germany and the German federal state of Brandenburg in accordance with the [] with respect to this for 70% of the total amount of the .
+Deficiency Guarantee
+Ausfallsbrgschaft
+Federal/State Guarantor Decision
+Brgschaftsentscheidung
+Agreement
+Facility
+has the meaning given to that term in subsection 7.4 b) ().
+Differential
+Mandatory prepayments
+means either:
+Disruption
+and which, in either such case, is not caused by, and is beyond the control of, the whose operations are disrupted.
+Party
+has the meaning given to that term in ().
+Ebitda
+Schedule 5 Part II
+Financial Ratios
+ 
+means a or an .
+Element of Default
+Potential Event of Default
+Event of Default
+means all and the filing of any notifications, reports or assessments required under the for the operation of the business by the Borrower in connection with .
+Environmental Approvals
+Authorizations and Approvals
+Environmental Laws
+Production Facility FFO2
+means all claims, proceedings, formal notices or investigations of a person in respect of any .
+Environmental Claims
+Environmental Law
+means all applicable laws, regulations and other generally binding legal norms relating to:
+Environmental Laws
+has the meaning given to it in Part II puff Schedule 5 ().
+Equity Capital
+Financial Ratios
+, with respect to an of a or an overdue amount in EUR, is:
+EURIBOR
+Interest Period
+Loan
+as of 11:00 a.m. Brussels time on the for the offering of deposits of a comparable amount in euro for a period that is comparable to the of the relevant loan.
+Quotation Day
+Interest Period
+means the common currency of the Member States of the European Union that participated in the third stage of the currency union.
+EUR
+has the meaning given to that term in subsection 28.3 ().
+Existing Lender
+Transfers by Lender
+means the loan facility described in section 2.1 ().
+Facility
+Amortizable loan
+means any business office that a designates to the (i) no later than the day on which it becomes a or (ii) in the event of a change after such date, upon advance notice of at least five (5) as the business office through which such intends to perform its obligation under this .
+Facility Office
+Lender
+Facility Agent
+Lender,
+Business Days
+Lender
+Agreement
+means the federal/state guarantor decision of 9 and 13 December 2010 relating to the as appended in Schedule 7 (Federal/State Guarantor Decision), including the "Instructions for Applying for Federal Loan Guarantees in Connection with Parallel State Guarantees" ["] in the version dated 10 May 2010.
+[
+Federal/State Guarantor Decision
+Brschaftsentscheidung
+],
+Deficiency Guarantee (
+Ausfallsbrgschaft
+),
+Hinweise fr die Beantragung von Bundesbrgschaften unter Einbindung paralleler Landesbrgschaften"
+means
+Fee Letter
+ 
+means the day that is eight years and six months after the signing of this .
+Final Maturity Date
+Agreement
+means:
+Finance Documents
+means the and each .
+Finance Party
+Lenders
+Administrative Party
+means any indebtedness for or in respect of:
+Financial Indebtedness
+means and the .
+Financial Ratios
+Minimum Liquidity, EBITDA
+Gearing Ratio
+is the date on which the first occurs.
+First Utilization Date
+Utilization
+has the meaning given to that term in ().
+Gearing Ratio
+Schedule 5 Part II
+Financial Ratios
+means, with respect to the annual financial statements of the and the German the generally accepted accounting principles in accordance with the German Commercial Code () and, with respect to the , the quarterly financial statements of the and the consolidated financial statements of the US GAAP.
+Generally Accepted Accounting Principles
+Borrower
+Group Companies,
+Handelsgesetzbuch or "HGB"
+Business Plan
+Borrower
+Guarantor,
+means the , the , First Solar Holdings GmbH and First Solar GmbH.
+Group
+Guarantor
+Borrower
+means a member company of the .
+Group Company
+Group
+ 
+means the organizational chart of the appended in (), which reflects:
+Group Organizational Chart
+Group
+Schedule 6
+Group Organizational Chart
+means the unconditional and irrevocable guaranty under German law, which is issued by the G prior to the first and corresponds in material respects to the form appended in .
+Guaranty
+uarantor
+Utilization
+Schedule 9 ()
+Form of Guaranty
+means First Solar Inc., a corporation organized under the laws of the state of Delaware in the United States of America and which has its principal place of business in Tempe, Arizona.
+Guarantor
+means all derivative transactions that are entered into for the purpose of hedging against, or profiting from, interest rate or price fluctuations including, in particular, interest rate or currency swaps transactions, contracts capping interest rates, financial or commodities futures or contracts or options, agreements on fixed interest for future deposits or granted loans and similar agreements.
+Hedging Transactions
+means the German Commercial Code ().
+HGB
+Handelsgesetzbuch
+means the insofar as:
+Impaired Facility Agent
+Facility Agent
+means:
+Increased Costs
+to the detriment of a or any of its , if and insofar as such costs are related to a or the performance of obligations under the .
+Finance Party
+Affiliates
+Commitment
+Finance Documents
+ 
+means:
+Industrial Property Rights
+means the document dated 11 October 2010 in the form approved by the which, at the request of the and on its behalf, was prepared in relation to its business operations, and the use of the and distributed by the on 12 October 2010 to selected banks and financial institutions.
+Information Memorandum
+Borrower
+Borrower
+Production Facility FFO2
+Facility
+Arranger
+means the , the and the , which was presented to the prior to the signing of this
+Information Package
+Information Memorandum
+Original Financial Statements
+Business Plan
+Facility Agent
+Agreement.
+means that:
+Insolvency
+means each period under this during which interest is charged for a .
+Interest Period
+Agreement
+Loan
+means the "International Accounting Standards" within the meaning of IAS Regulation 1606/2002, to the extent applicable to the preparation of the relevant financial statements.
+IFRS
+means any joint venture company, irrespective of its form of organization, whether as a company, unincorporated firm, undertaking, association, joint venture or partnership or any other entity.
+Joint Venture
+means all qualifications and reservations as to matters of law described in the Legal Opinions presented in accordance with subsection 4.1 () including, in particular, such reservations that generally affect creditors' rights in the event of insolvency, liquidation, restructuring or similar processes.
+Legal Reservations
+Required documents
+ 
+means
+Lender
+in each case to the extent that the or such person has not transferred all of its rights and obligations under this in accordance with the provisions of this .
+Original Lender
+Agreement
+Agreement
+is a :
+Lender in Default
+Lender
+, unless provided otherwise in this , means the principal amount of any utilization as a loan under the or the outstanding principal amount of such utilization.
+Loan
+Agreement
+Facility
+means:
+Majority Lenders
+means PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprfungsgesellschaft, Lise-Meitner Str. 1, 10598 Berlin, or any other duly appointed mandatary of the with respect to the (in each case, individually or collectively).
+Mandatary
+State Guarantors
+Deficiency Guaranty
+means:
+Mandatory Costs
+means the margin payable pursuant to this for in the amount of 1.35% .
+Margin
+Agreement
+Loans
+per annum
+ 
+has the meaning given to that phrase in subsection 0 ().
+Market Disruption Event
+Market Disruption
+means any material adverse change with respect to:
+Material Adverse Change
+means the existing substantiated liquidity in available cash, with the exception of funds set aside in the .
+Minimum Liquidity
+Debt Service Reserve Account
+has the meaning given to that term in ().
+Net Financial Indebtedness
+Schedule 5 Part II
+Financial Ratios
+means the aggregate proceeds or income actually received in relation to any disposition of assets and the collection of insurance proceeds, but after deducting all (i) reasonable external costs and expenditures, (ii) and fees incurred and paid or to be paid by the the amount of which is communicated to the and (iii) any retention, reserves and provisions for warranties, guarantees and indemnities in connection with such disposition.
+Net Proceeds
+Taxes
+Borrower,
+Facility Agent,
+has the meaning given to that term in subsection 28.3 ().
+New Lender
+Transfers by the Lender
+means
+Original Financial Statements
+has the meaning given to it in section 29 ().
+Participant
+Disclosure of Information
+means any Member State of the European Community that, at the time of the execution of this has adopted the euro as its lawful currency in accordance with the legislation of the European Union relating to Economic and Monetary Union.
+Participating Member State
+Agreement,
+means a Party to this .
+Party
+Agreement
+has the meaning given to that term in subsection 17.11 ().
+Payment
+Adjustment payment
+is an event that would constitute an after expiration of a deadline or after delivery of a notice or after a determination to be made pursuant to the .
+Potential Event of Default
+Event of Default
+Finance Documents
+has the meaning given to that phrase in subsection 17.11 ().
+Preferred Lender
+Adjustment payment
+ 
+means the facility for the production of thin-film solar modules that will be constructed by the at the.
+Production Facility FFO2
+Borrower
+Production Site
+means the land parcels located at Marie Curie Strae in Frankfurt/Oder on which the will be constructed.
+Production Site
+Production Facility FFO2
+means the progress of the construction in accordance with the project progress plan developed in consultation with the .
+Progress of the Project
+Facility Agent
+means:
+Pro Rata Share
+means the agreements and transactions listed in subsection 21.4 b) ().
+Quasi-Security
+Negative pledge
+means the second before the first day of an or, if different, the day, as determined by the , on which quotations would normally be given in accordance with the market practices in the relevant interbank market.
+Quotation Day
+TARGET Day
+Interest Period
+Facility Agent
+means any factoring agreement pursuant to which the del credere function is retained by the factoring client or the factoring company is entitled to corresponding recourse or damages claims against the factoring client in case of a del credere event.
+Recourse Factoring [unechtes Factoring]
+means Commerzbank AktiengesellschaftLandesbank Baden-Wrttemberg and Norddeutsche Landesbank Girozentrale] as well as any other that is designated by the pursuant to this after consultation with the .
+Reference Banks
+, [
+Lender
+Facility Agent
+Agreement
+Borrower
+, with respect to the means:
+Relevant Jurisdictions
+Borrower,
+are all representations in section 18 () subsection 18.7 a) (), subsection 18.10 (, subsection 18.11 (), paragraphs a), c), d) and e) of subsection 18.12 (), subsection 18.13 (), subsection 18.14 (), subsection 18.15 (), subsection 18.16 (), 18.17 () and subsection 18.19 ().
+Repeating Representations
+Representations
+except
+Threat of insolvency
+No registration or stamp taxes)
+Tax withholding
+No Misleading Information
+Financial statements
+Litigation
+No breaches or violations
+Environmental law
+Security
+Industrial property rights
+means the the and the .
+Secured Parties
+Lenders,
+State Guarantors
+Administrative Parties
+ 
+means:
+Security Documents
+means a notice that conforms in material respects to Schedule 3 Part II () by which the for are extended.
+Selection Notice
+Specimen of Selection Notice
+Interest Periods
+Loans
+means the Federal Republic of Germany as well as the Federal German State of Brandenburg.
+State Guarantors
+means any tax, levy, duty, fee or other charge or withholding of a similar nature (including any related late payment penalties and/or interest charges).
+Tax
+is a credit, discount, abatement or refund of a .
+Tax Credit
+Tax
+is a payment by the to a , made in connection with a or indemnity that the pays in respect of under a .
+Tax Payment
+Borrower
+Finance Party
+Tax Withholding
+Borrower
+Taxes
+Finance Document
+is a deduction or withholding of from a payment under a .
+Tax Withholding
+Taxes
+Finance Document
+means the Trans-European Automated Real-time Gross Settlement Express Transfer payment system for the settlement of payments in euro which utilizes a common platform and has been available since 19 November 2007.
+TARGET
+means any day on which TARGET is open for the settlement of payments in euro.
+Target Day
+means the aggregate of all Commitments of the listed in Part II () of Schedule 1 () under the heading "Commitment", except insofar as such Commitment has been canceled or reduced in accordance with this .
+Total Commitments
+Lenders
+The Original Lenders
+The Original Parties
+Agreement
+means the security created and to be created in accordance with the and the other .
+Transaction Security
+Security Documents
+Finance Documents
+has the meaning given to it in subsection 28.3 ().
+Transfer
+Transfers by the Lender
+in connection with an novation [] of the agreement pursuant to subsection 28.5 () means the date contemplated in the or, if later, the date on which the countersigns the .
+Transfer Date
+Vertragsbernahme
+Transfer procedure
+Transfer Certificate
+Facility Agent
+Transfer Certificate
+means a certificate that corresponds in material respects to the form appended as ().
+Transfer Certificate
+Schedule 4
+Form of Transfer Certificate
+means the generally accepted accounting principles used in the United States of America insofar as they are applicable to the preparation of the relevant annual financial statements.
+US GAAP
+means the Amended and Restated Credit Agreement between, , the as borrower, JPMorgan Chase Bank, N.A. as Administrative Agent and J.P. Morgan Securities LLC and Banc of America Securities LLC as Joint Lead Arrangers with respect to a loan amount of USD 600,000,000 dated 15 October 2010 and modified pursuant to an amendment agreement dated 6 May 2011.
+US Credit Agreement
+inter alia
+Guarantor
+means every utilization of the in the form of a .
+Utilization
+Facility
+Loan
+ 
+is any day on which a is disbursed or on which any other occurs.
+Utilization Date
+Loan
+Utilization
+means a request that corresponds in material respects to the form appended in ().
+Utilization Request
+Schedule 3
+Specimen of Utilization Request
+means, with respect to the , the period that begins on the date of signing of this and ends seventeen (17) months later.
+Utilization Period
+Facility
+Agreement
+1.2 Construction
+ 
+2. CREDIT FACILITY
+2.1 Amortizable loan
+Subject to the terms of this , the shall make available to the an amortizable Loan in the amount of 124,500,000 ("one hundred twenty four million five hundred thousand euro") that can be utilized in the form of in .
+Agreement
+Lenders
+Borrower
+EUR
+Loans
+EUR
+2.2 Finance Parties' rights and obligations
+3. PURPOSE
+4. CONDITIONS OF UTILIZATION
+4.1 Required documents
+A may be submitted only when the has received all documents and evidence in accordance with (), in form and substance satisfactory to the . The shall without undue delay notify the and the as soon as the above-described conditions have been satisfied.
+Utilization Request
+Facility Agent
+Schedule 2 Part I
+Original Conditions Precedent to Disbursement
+Facility Agent
+Facility Agent
+Borrower
+Lenders
+4.2 Further conditions of utilization
+Subject to subsection 4.1 (), the obligation of each under theto make available its share of a in respect of any disbursement of such shall be subject to the further condition that, both on the date of submission of the Utilization Request and on the proposed :
+Required documents
+Lender
+Facility
+Loan
+Loan
+Utilization Date
+ 
+5. UTILIZATION IN THE FORM OF LOANS
+5.1 Utilization Request
+5.2 Limits on Utilization
+Except as otherwise agreed with the , no more than ten (10) may be outstanding at any time.
+Facility Agent
+Loans
+5.3 Proper Form of a Utilization Request
+A will be deemed to have been duly made only if:
+Utilization Request
+5.4 Loan disbursement
+ 
+6. REPAYMENT
+6.1 Repayment
+The shall repay the in semi-annual installments in accordance with the following amortization schedule on the last of the respective month:
+Borrower
+Facility
+Business Day
+In any event, the shall be repaid in full on the .
+Facility
+Final Maturity Date
+7. PREPAYMENT AND CANCELLATION
+7.1
+Mandatory prepayment  Illegality
+ 
+The shall use its best efforts to first replace the relevant in accordance with subparagraph i) above. Only after this effort has failed and the has confirmed to the in writing that despite the appropriate efforts, it was not in a position to replace the relevant may the take on additional in order to make the repayment pursuanrt to subparagraph ii) above.
+Borrower
+Lender
+Borrower
+Facility Agent
+Lender,
+Borrower
+Financial Indebtedness
+7.2 Mandatory prepayment  Change of Control
+Upon receiving notice of the termination by the respective, the shall promptly pay the amounts due pursuant to subparagraph (ii).
+Lender
+Borrower
+7.3 Mandatory prepayment  Sales and insurance proceeds
+will be used in accordance with subsection 7.4 ().
+Application of mandatory prepayments
+ 
+7.4 Application of mandatory prepayments
+Every amount to be applied toward mandatory prepayments pursuant to subsection 7.3 () shall be credited as follows:
+Mandatory Prepayment  Sales and insurance proceeds
+7.5 Automatic cancellation
+The unutilized shall expire automatically at the close of business on the last day of the respective .
+Total Commitments
+Utilization Period
+7.6 Voluntary cancellation
+ 
+7.7 Voluntary prepayment
+7.8 Prepayment and cancellation with respect to individual lenders
+ 
+7.9 Miscellaneous
+7.10 Effect of cancellation and prepayment on regular payments and reductions
+8. INTERST
+8.1 Calculation and payment of interest
+ 
+8.2 Default interest
+8.3 Notification of Interest Rates
+The shall without undue delay notify the affected of the determination of an interest rate under this .
+Facility Agent
+Party
+Agreement
+9. INTEREST PERIODS
+10. BREAK COSTS AND ALTERNATIVE INTEREST CALCULATION
+10.1 Absence of quotations by a Reference Bank
+If EURIBOR is to be determined by reference to quotations by the and if a has not supplied a quotation by 12:00 p.m. on the , then the applicable EURIBOR shall be determined on the basis of the quotations of the remaining subject to the following provisions.
+Reference Banks
+Reference Bank
+Quotation Day
+Reference Banks,
+ 
+10.2 Market Disruption
+10.3 Alternative basis of interest rates or funding
+10.4 Break Costs
+and
+ 
+11. FEES
+11.1 Commitment fee
+11.2 Arrangement fee
+The shall pay the for the account of the the fees and charges as provided in the respective .
+Borrower
+Facility Agent
+Arranger
+Fee Letter
+11.3 Administrative fee for the Facility Agent
+The shall pay the for its own account a fee as provided in the respective .
+Borrower
+Facility Agent
+Fee Letter
+11.4 Administrative fee for the Security Agent
+The shall pay the a fee as provided in the respective .
+Borrower
+Security Agent
+Fee Letter
+11.5 Participation fee
+The shall pay the for the account of the a fee as agreed in the respective .
+Borrower
+Facility Agent
+Lenders
+Fee Letters
+11.6 Waiver fee/ Change fee
+For any change to the agreement or waiver granted at the request of the , the shall pay to the a waiver fee or, as the case may be, a change fee in the amount of EUR 2,500 per to be paid over to the . The shall have the right to assert claims for fees in excess of such amount if the waiver or the change relates to matters that are material and/or involve lending criteria.
+Borrower
+Borrower
+Facility Agent
+Lender
+Lenders
+Lenders
+12. TAXES
+12.1 Tax gross-up
+ 
+12.2 Tax indemnity
+to the extent that such is imposed on, or calculated by reference to, the net income received or receivable by that , provided that income deemed merely received or receivable shall not be taken into account; or
+Tax
+Finance Party
+ 
+12.3 Tax credit
+If the has made a and the relevant thereupon determines that:
+Borrower
+Tax Payment
+Finance Party
+then the shall pay the an amount that such determines will leave it in the same after- position as it would have been in, had the not been required to be made by the .
+Finance Party
+Borrower
+Finance Party
+Tax
+Tax Payment
+Borrower
+12.4 Value-added tax
+13. INCREASED COSTS
+13.1 Increased costs
+Except as provided otherwise below, the shall pay a an amount equal to any with respect to beginning on the day of the notice pursuant paragraph a) second sentence of subsection 13.2 () that the or one of its incurred as a result of:
+Borrower
+Finance Party
+Increased Costs
+Interest Periods
+Claims
+Finance Party
+Affiliates
+13.2 Claims
+ 
+13.3 Exceptions
+The shall not be required to make any payment for pursuant to subsection 13.1 () if such costs:
+Borrower
+Increased Costs
+Increased costs
+14. INDEMNITIES
+14.1 Indemnity for foreign exchange losses
+14.2 Other indemnities
+The shall indemnify each for all expenditures, costs or losses and hold such harmless from liability (or, as the case may be, shall ensure that the indemnifies each for all expenditures, costs or losses and holds such harmless from liability), which such incurs as a result of
+Borrower
+Finance Party
+Finance Party
+Borrower
+Finance Party
+Finance Party
+Finance Party
+14.3 Indemnification of the Agent
+The shall indemnify the for all expenditures, costs and losses and hold the harmless from all liability incurred by the as a result of
+Borrower
+Agent
+Agent
+Agent
+ 
+14.4 Indemnification of the Administrative Parties
+15. MITIGATION
+16. COSTS
+The shall reimburse every for:
+Borrower
+Administrative Party
+ 
+17. PAYMENTS
+17.1 Payments to Facility Agents
+Each time that the or a is required to make a payment under a , the or shall make this payment to the (unless a contrary indication appears in a ) for value on the due date.
+Borrower
+Lender
+Finance Document
+Borrower
+Lender
+Facility Agent
+Finance Document
+17.2 Location
+Except as otherwise provided in a , all payments, which are required to be made by a to the under a must be made to the bank account specified for this purpose in advance by the.
+Finance Document
+Party
+Facility Agent
+Finance Document,
+Facility Agent
+17.3 Funds
+Payments, which are made under the to the for value on the due date, shall be made at such times and in such funds specified by the of the affected as being customary at the time for settlement of transactions in the relevant currency in the place of payment.
+Finance Documents
+Facility Agent
+Facility Agent
+Party
+17.4 Currency
+17.5 Business Days
+If, based on the a payment is due to be made on a day that is not a then it shall be made on the next in the same calendar month (if there is one) or the preceding (if there is not).
+Finance Documents,
+Business Day,
+Business Day
+Business Day
+17.6 Payment dates
+If any does not specify the due date for a specific payment by the to a , then the payment shall be due three (3) after it is requested by the relevant .
+Finance Document
+Borrower
+Finance Party
+Business Days
+Finance Party
+17.7 Distribution
+ 
+17.8 Impaired Facility Agent
+17.9 No set-off or assertion of a retention right
+All payments by the on the basis of the shall be made without any set-off or the assertion of a retention right, unless, (i) the has an undisputed or legally established claim or asserts a retention right in this respect or (ii) the set-off or assertion of a retention right is vis--vis a that falls into the category of subsection (c) of the definition of .
+Borrower
+Finance Documents
+Borrower
+Lender
+Lender in Default
+17.10 Partial Payments
+If the receives a payment that is insufficient to discharge all the amounts then due and payable by the under the, then the shall apply that payment towards the obligations under the in the following order (and among the based on their :
+Facility Agent
+Borrower
+Finance Documents
+Facility Agent
+Finance Documents
+Lenders
+Pro Rata Share)
+ 
+This provision will override any repayment appropriation [] made by the .
+Tilgungsbestimmung
+Borrower
+17.11 Adjustment payment
+If any amount owed by the under this to any (the ) is settled through payment, set-off or in any other manner other than the pursuant to the payment provisions of this (the ), then:
+Borrower
+Agreement
+Lender
+Preferred Lender
+via
+Facility Agent
+Agreement
+Payment
+17.12 Effect of the Adjustment Payment
+17.13 Exceptions
+Notwithstanding the other provisions of this section, a is not required to make an if:
+Preferred Lender
+Adjustment Payment,
+ 
+18. REPRESENTATIONS
+The (unless otherwise provided below) hereby makes with respect to itself the representations, which are set forth in this section 18 (), to each as of the date of this and the first .
+Borrower
+Representations
+Finance Party
+Agreement
+Utilization
+18.1 Status
+18.2 Binding obligations
+Subject to the :
+Legal
+Reservations
+18.3 Power and authority
+It has the power and authority to execute and perform the , to which it is or will become a party, and to enter into and perform the legally binding transactions contemplated therein, and it has taken any and all action required under company law and other steps in order to approve the execution and performance of the and the legally binding transactions contemplated therein.
+Finance Documents
+Finance Documents
+18.4 No violation of legal duties
+The conclusion and the performance of the and the creation of the do not violate:
+Finance Documents
+Transaction Security
+to the extent that any such violation would lead to a , unless the conflicting provision is subject to the prior consent of a governing body within the company, a third party or some other person in order to conclude and perform or create items serving as and such consent had been previously obtained.
+Material Adverse Change
+Transaction Security
+18.5 Approvals and authorizations
+have been obtained and are in full force and effect. The foregoing does not apply, however, to registrations and filings made under subsection 18.10 (), which were carried out without undue delay following the conclusion of this .
+No filing or stamp taxes
+Agreement
+ 
+have been obtained or were issued and are lawfully available, unless it is reasonably likely that the missing will not lead to a .
+Authorizations and Approvals
+Material Adverse Change
+18.6 Governing aw and enforcement
+Subject to the :
+Legal
+Reservations
+18.7 Threat of Insolvency and Insolvency
+There have been:
+18.8
+Pari passu
+ranking
+Its payment obligations under the rank at least with all of its other current and future, unsecured and unsubordinated payment obligations, except for those payment obligations that must be given preference by operation of the law.
+Finance Documents
+pari passu
+18.9 No Element of Default
+18.10 No registration or stamp taxes
+Under the laws of its at the time this is concluded, there is no requirement either that the be filed, recorded or entered with any court or other government authority or that, in connection with the or the transactions contemplated therein (except for the enforcement of a stamp tax, registration fees, notary fees or similar taxes or fees be paid, except for the filing and registration fees levied to transfer and create security interests on land [] situated in Germany pursuant to (), Part II () together with the notary fees or court costs related thereto.
+Relevant Jurisdiction
+Agreement
+Finance Documents
+Finance Documents
+Transaction Security),
+Grundpfandrechte
+Schedule 2
+Conditions of Utilization
+Security Agreements prior the Initial Utilization
+ 
+18.11 Tax withholding
+Payments under the to a may be made without having to engage in any .
+Finance Documents
+Lender
+Tax Withholding
+18.12 No Misleading Information
+18.13 Financial statements
+unless information in the financial statements indicates otherwise in any given case.
+ 
+18.14 No proceedings pending or threatened
+18.15 No breaches or violations
+18.16 Environmental law
+18.17 Security
+Subject to the each creates a first priority security /security interest [] in the assets to which the relates, and there are no other security interests with higher or ranking, except where the respective has expressly permitted such priority (senior) rights.
+Legal
+Reservations,
+Security Document
+in rem
+erstrangige dingliche Sicherheit
+Security Document
+pari passu
+Security Document
+18.18 Holder of assets and rights
+18.19
+Industrial Property Rights
+It:
+ 
+18.20 Economic beneficiary
+The represents that each which it makes, will be undertaken solely for its own account.
+Borrower
+Utilization,
+18.21 COMI
+The center of its main business interests (as defined in Article 3 (1) of the Council Regulation (EC) No. 1346/2000 of 29 May 2000 on Insolvency Proceedings) is at the place of its registered office, and the maintains no establishment (within the meaning of Article 2 (h) of the aforementioned Regulation) in any other jurisdiction.
+Borrower
+18.22 Times when representations made
+19. INFORMATION COVENANTS
+The obligations contained in this section 19 will remain binding and enforceable from the date this is concluded until all outstanding amounts under the have been fully repaidand as long as a is in force.
+Agreement
+Finance Documents
+Commitment
+19.1 Financial statements and reports
+The shall provide the with the following documents, both as originals (at the request, in sufficient quantities for the ) and as electronic copies thereof (and with respect to the documents, in either the German language or the English language):
+Borrower
+Facility Agent
+Facility Agent's
+Lenders
+Guarantor's
+with those documents being provided as soon as they become available but, in any case, no later than within 120 days following the end of each fiscal year: and
+ 
+All audited financial statements, which are submitted under this , must be audited by an independent and recognized auditor and certified with an unqualified audit report.
+Agreement
+19.2 Auditor's certificate
+The auditor shall render an opinion in the context of its audit of the respective annual financial statements as to the extent to which the provision of goods and services between the and the or occurred on customary market terms. With respect to the loans between the and its or the 's , the auditor must merely certify that such loans were concluded on terms and conditions that are customary for intra-group lending transactions.
+Borrower's
+Borrower
+Borrower's
+Guarantor's Affiliates
+Borrower
+Guarantor
+Affiliates
+19.3 Requirements as to the financial statements
+19.4 Business Plan
+ 
+19.5 Financial ratio  confirmation (Compliance Certificate)
+19.6 Miscellaneous information
+The shall provide the with the following information either in a quantity sufficient for all or in electronic form:
+Borrower
+Facility Agent
+Lenders
+ 
+19.7 Notification of an
+Element of Default
+19.8 "Know your customer" checks
+19.9 Electronic disclosure of the information
+The may discharge its obligations to submit information in accordance with paragraph a) of subsection 19.1 () by publishing that information electronically on a website, which the would specifically designate for that purpose, provided that the discloses to the the IP address (and if necessary any related passwords) of such a website (which the individual will receive from the . If a objects to the provision of the information electronically or if it cannot access the website designated by the either generally or under specific circumstances, then that may demand through the that a copy of the information be furnished in hard copy form. Upon such a demand, the shall furnish a hard copy of the information to the (in sufficient copies for each that makes such a request) within five (5) . The shall in any case provide to the at least one hard copy of the information required to be submitted under paragraph a) of subsection 19.1 ()
+Borrower
+Financial statements and reports
+Borrower
+Borrower
+Facility Agent
+Lenders
+Facility Agent)
+Lender
+Borrower
+Lender
+Facility Agent
+Borrower
+Facility Agent
+Lender
+Business Days
+Borrower
+Facility Agent
+Financial statements and reports
+.
+ 
+20. FINANCIAL RATIOS (Financial Covenants)
+20.1 Covenants to comply with the
+Financial Ratios
+The shall ensure that the on a consolidated basis will comply with the set forth in () of beginning on the date this is signed and throughout the periods indicated in () of .
+Borrower
+Group
+Financial Ratios
+Part II
+Financial Ratios
+Schedule 5
+Agreement
+Part II
+Financial Ratios
+Schedule 5
+20.2 Monitoring compliance with the
+Financial Ratios
+21. GENERAL COVENANTS
+The shall satisfy the general covenants contained in this section 21 until any and all outstanding amounts under the have been fully repaid and all have been reduced to zero.
+Borrower
+Finance Documents
+Commitments
+21.1 Authorizations
+The shall without undue delay
+Borrower
+which are needed
+21.2 Compliance with laws and contracts
+The shall:
+Borrower
+to the extent that any failure to do so would, with reasonable likelihood, result in a .
+Material Adverse Change
+ 
+21.3 Environmental compliance
+The shall:
+Borrower
+to the extent that an omission or violation would, with reasonable likelihood, lead to a .
+Material Adverse Change
+21.4 Negative pledge
+to the extent such agreements or transactions are concluded primarily for the purpose of borrowing outside funds ().
+Quasi-Security
+ 
+21.5 Sales/Disposals
+21.6 Reorganizations
+In the absence of the ' consent, the shall not carry out any asset transfer within the meaning of the Corporate Reorganization Act (), merger or spin-off or any other change in its legal form, with the exception of any existing control and/or profit transfer contracts between the and First Solar Holding GmbH, and shall not execute any additional control and/or profit transfer contract or file an application with a stock exchange to admit its shares to trading.
+Majority Lenders
+Borrower
+Umwandlungsgesetz
+Borrower
+ 
+21.7 Taxes
+21.8 Business activity
+The undertakes to ensure that the nature of its business activity, as it exists or is intended at the time that this is concluded, will not change significantly.
+Borrower
+Agreement
+21.9 Preservation of assets and protection of rights
+The shall maintain any and all assets, which are required for its business operation and for constructing and operating the in good working order and condition (ordinary wear and tear excepted).
+Borrower
+Production Facility FFO2,
+21.10 Pari passu ranking
+The shall ensure that its payment obligations based on the will at all times rank at least with all its other current and future, unsecured and unsubordinated payment obligations, except with respect to those that are required to be given preference by operation of the generally applicable law.
+Borrower
+Finance Documents
+pari passu
+21.11 Arm's Length Basis
+Any and all agreements, which the concludes with the , of the and third parties and which involve transactions in goods and services, must meet the arm's length test and must be made at market value. The loans between the Borrower and its or the Guarantor's Affiliates must be made on terms and conditions that are customary for intra-group lending transactions.
+Borrower
+Guarantor
+Affiliates
+Guarantor
+21.12 Dividends, distributions and share buybacks
+As long as a pursuant to section 20 (Financial Ratios), subsection 21.22 (Debt service reserve account) or subsection 21.23 (Minimun liquidity) or a is continuingthe shall not:
+Potential Event of Default
+Default
+,
+Borrower
+If, at the time of the relevant distribution or other measure, the sum of the and any amounts standing to the credit of the exceeds all of the claims that are still outstanding under this , then the restriction under this subsection 21.12 will not apply with respect to the amount by which the sum of and any amounts standing to the credit of the at that point in time exceeds the sum of all amounts owed to the Finance Parties hereunder.
+Borrower's Minimum Liquidity
+Debt Service Reserve Account
+Finance Parties'
+Agreement
+Borrower's Minimum Liquidity
+Debt Service Reserve Account
+ 
+21.13
+Financial Indebtedness
+21.14 Grant of loans
+21.15 No guarantees or indemnities
+ 
+21.16 Acquisitions and joint ventures
+21.17 Insurance
+The must insure its business and its assets (above all, the ) in the same manner as companies, which engage in the same or substantially similar business, typically do so. All insurance policies must be with reputable insurance companies.
+Borrower
+Production Facility FFO2
+21.18 Industrial property rights
+The :
+Borrower
+to the extent that a failure to do so would, with reasonable likelihood, lead to a .
+Material Adverse Change
+ 
+21.19 Access right
+The shall, at its own expense, grant to one or more representatives, agents or professional advisors of the and the , free access to, and the right to inspect, its business assets, books, documentation and business premises:
+Borrower
+Facility Agent
+Security Agent
+and shall permit copies to be made or extracts to be taken.
+21.20 Subsidiaries
+21.21 Hedging transactions
+The shall not engage in any for speculative purposes.
+Borrower
+Hedging Transactions
+21.22
+Debt Service Reserve Account
+The shall open a euro-denominated account with Commerzbank Aktiengesellschaft under the designation "" (the ""). The shall ensure that (i) the at all times shows a positive account balance in the amount of at least the next two repayment installments as stipulated in subsection 6.1 (); (ii) the is pledged in favor of the ; and (iii) the account credit balance is available solely to pay any interest and principal repayments under the which are owed but not yet paid by the .
+Borrower
+Debt Service Reserve Account
+Debt Service Reserve Account
+Borrower
+Debt Service Reserve Account
+Repayment
+Debt Service Reserve Account
+Finance Parties
+Finance Documents
+Borrower
+21.23
+Minimum Liquidity
+The shall ensure that its at no time is less than the lower of the following amounts:
+Borrower
+Minimum Liquidity
+21.24 COMI
+The shall keep the center of its main interests (as defined in Article 3 (1) of the European Insolvency Code (Regulation (EC) No. 1346/2000)) in the country of its registered office.
+Borrower
+22. EVENTS OF DEFAULT
+Each of the events listed below in this section is a , except for subsection 22.20 ().
+Default
+Acceleration
+ 
+22.1 Non-payment
+The or the does not pay an amount due under the on the due date, unless the payment delay is due to a technical or administrative reason, and the payment is subsequently made within three (3) after the due date.
+Borrower
+Guarantor
+Finance Documents
+Business Days
+22.2 Financial ratios
+A covenant under section 20 () is breached.
+Financial Ratios
+22.3 Breach of other obligations
+22.4 Misrepresentation
+22.5 Cross default
+ 
+22.6 Insolvency
+22.7 Insolvency proceedings
+With respect to the or the , an action under company law, judicial proceedings or other measures are taken in relation to:
+Borrower
+Guarantor
+22.8 Compulsory enforcement (Creditors' process)
+Individual compulsory enforcement measures [] are taken against the assets of the or of the which, in the case of the amount to an aggregate of at least EUR 2,500,000 and in the case of the amount to an aggregate of at least EUR 10,000,000 (if applicable, following conversion into euro), and such measures are not retracted within twenty (20) .
+Massnahmen der Einzelzwangsvollstreckung
+Borrower
+Guarantor
+Borrower
+Guarantor
+Business Days
+22.9 Validity of the
+Finance Documents
+ 
+22.10 Cessation of business, loss of permits
+The or the (i) discontinues all or part of its business in connection with the production and sale of solar modules or threatens to do so; or (ii) definitively and conclusively loses a permit, an or an environmental permit, which is material for operating its business.
+Borrower
+Guarantor
+Intellectual Property Right
+22.11 Change in legal form
+The shareholders of the resolve to change its legal form.
+Borrower
+22.12 Reduction of equity capital
+The or the shareholders of the breach the obligations under the .
+Borrower
+Borrower
+Capital Preservation Covenant
+22.13 Qualified or revoked audit opinion
+The auditors of a qualifies its audit opinion with respect to any annual financial statements of that or any such audit opinion is revoked and, in the reasonable assessment of the , the qualification would have a material adverse effect on the interests.
+Group Company
+Group Company,
+Majority Lenders
+Lender's
+22.14 Action to rescind contracts
+The or the (or any other party) acts to formally rescind (void) a or a or gives written notice of its intent to void a or a .
+Borrower
+Guarantor
+Finance Document
+Transaction Security
+Finance Document
+Transaction Security
+22.15 Litigation
+22.16
+Material Adverse Change
+Any one or more events or circumstances occur, which the reasonably believe will lead or is reasonably likely to lead to a and the result is or would be that the 's ability to pay its debts would be impaired.
+Majority Lenders
+Material Adverse Change
+Borrower
+22.17 Sale and encumbrance of real properties
+The encumbers or sells a land parcel, upon which an abstract land charge [] or a mortgage [] was created in favor of the and/or the other , unless it is expressly allowed under subsection 21.4 () in the case of an encumbrance or it is expressly allowed under subsection 21.5 () in the case of a sale, except where such encumbrance or sale is permissible only on the basis of the provision under paragraph c) (x) of subsection 21.4 () or the provision under paragraph b) (v) of subsection 21.5 ().
+Borrower
+Grundschuld
+Hypothek
+Security Agents
+Finance Parties
+Negative pledge
+Sales/Disposals
+Negative pledge
+Sales/Disposals
+ 
+22.18 Withdrawal, Revocation or Invalidity of the Deficiency Guaranty
+The is withdrawn, revoked or declared invalid, unless a is solely responsible for such withdrawal, declaration of invalidity or revocation.
+Deficiency Guaranty
+Finance Party
+22.19 Approvals
+A significant government authorization and approval, which is required by law or other regulations of the in order to engage in its ordinary business activity or to construct the is revoked, withdrawn (and not immediately replaced by an or that satisfies the requirements) or modified in such a manner that the modification leads to, or would with a reasonable degree of probability lead to, a .
+Relevant Jurisdiction
+Production Facility FFO2,
+Authorization
+Approval
+Borrower's
+Material Adverse Change
+22.20 Acceleration
+Notwithstanding any statutory right to call in the loan by the , the may, when there has been a and at any time thereafter, and indeed must, when directed by the upon giving notice to the
+Lender
+Facility Agent
+Default
+Majority Lenders,
+Borrower
+23. SYNDICATION AGREEMENT
+23.1 Appointment of the Facility Agent
+23.2
+Duties of the Facility Agent
+ 
+then it shall inform the other thereof without undue delay.
+Finance Parties
+23.3
+The Arranger
+Unless expressly stipulated otherwise in the the will owe no duties to any other in connection with the
+Finance Documents,
+Arranger
+Party
+Finance Documents.
+23.4 No fiduciary duties
+23.5
+Business activity with the Group
+Each may accept deposits from any , grant any such company a loan and generally maintain a banking or other business relationship with such company (including working as or in connection with another financing).
+Administrative PARTY
+Group Company
+Facility Agent
+Security Agent
+23.6 Rights and discretion of the Facility Agent
+ 
+23.7 Directives of the
+Majority Lenders
+ 
+23.8 Responsibility for the documentation
+No is responsible:
+Administrative Party
+23.9 Liability disclaimer
+23.10 Liability release
+23.11 Resignation of the Facility Agent
+ 
+23.12 Confidentiality
+23.13 Relationship to the creditors
+ 
+23.14 Lender's
+own responsibility
+Notwithstanding the responsibility of the for the accuracy of the information, which is provided by it or for the in connection with a , each confirms to each that it alone is and will remain responsible for its own independent review of all risks in connection with the , including:
+Borrower
+Group Companies
+Finance Document
+Lender
+Administrative Party
+Finance Documents
+23.15 Reference banks
+If a (or, if it is not a the to which it is an ) withdraws as a , then the (after conferring with the ) may stipulate another or that as the successor of such .
+Reference Bank
+Lender,
+Lender
+Affiliate
+Lender
+Facility Agent
+Borrower
+Lender
+Lender's
+Affiliate
+Reference Bank
+23.16 Administrative work of the Facility Agent
+Any amounts, which must be paid to the in accordance with subsection d) (), 16 () and 23.10 (), should also cover the costs which are incurred as a result of the administrative time expended or the use of other resources of the The costs will be calculated on the basis of reasonable hourly and day rates, which the discloses to the and the and which will be charged in addition to the fees payable to the under section 11 ().
+Facility Agent
+Indemnification of the Agent
+Costs
+Liability release
+Facility Agent.
+Facility Agent
+Borrowers
+Lenders
+Facility Agent
+Fees
+ 
+23.17 Set off by the Facility Agent
+If the is entitled to an amount under the , then it may, after notifying the obligated , deduct the maximum amount, which it is owed, from a payment which that is entitled to receive from the under the , and apply a set off against the payment owed to it. For the purposes of the , such must be treated as if it had received the amount which had been thereby deducted.
+Facility Agent
+Finance Document
+Party
+Party
+Facility Agent
+Finance Document
+Finance Documents
+Party
+23.18 Deadline periods
+If this provides for a minimum deadline period for any declaration to be provided to an , then each may in its own discretion agree to and accept a shorter deadline period.
+Agreement
+Agent
+Agent
+24. SECURITY POOL
+24.1 Appointment of the Security Agent
+Each (with the exception of the
+Finance Party
+Security Agent):
+The accepts this appointment and authorization.
+Security Agent
+24.2 No independent power of the Finance Parties to enforce or sell the Transaction Security
+The are not entitled (i) to independently realize the , to undertake other acts in relation to a realization thereof, to deliver or accept notices in this regard, or (ii) to exercise rights or powers to which they are entitled under the , except through the .
+Finance Parties
+Transaction Security
+Security Documents
+Security Agent
+24.3 Administration of the Security
+The shall:
+Security Agent
+ 
+24.4 Rights and powers of the Security Agent
+The
+Security Agent:
+Subsection a) shall not apply:
+Other than in cases of 24.15 (), instructions issued to the by the shall override any conflicting instructions from other .
+Realization or sale of Security
+Security Agent
+Majority Lenders
+Parties
+24.5 Relationship to the Lenders
+24.6 Acts of the Security Agent
+Notwithstanding sections 24.4 () and 24.15 (), the is entitled, but not obligated, in the absence of instructions to the contrary, to take the relevant actions according to its dutiful discretion. In the absence of instructions from the or the , the is entitled to take such action (or refrain from action) as seems reasonable to the to protect the interests of the .
+Rights and powers of the Security Agent
+Realization or sale of Security
+Security Agent
+Facility Agent (
+Majority Lenders)
+Security Agent
+Security Agent
+Finance Parties
+ 
+24.7 Discretion of the Security Agent
+24.8 Duties of the Security Agent
+The :
+Security Agent
+ 
+24.9 Exceptions to the Duties of the Security Agent
+Subject to any express provision to the contrary in any the is:
+Finance Document,
+Security Agent
+24.10 Standard of care and liability
+The :
+Security Agent
+ 
+24.11 Authorization to enter into Security Agreements
+The hereby authorize the , to represent them in the provision, amendment, supplementation, maintenance and release (including all acts in connection with registration and deregistration) of liens and other accessory and non-accessory and to deliver or accept all necessary or useful declarations on behalf of the in connection with the provision, amendment, supplementation, maintenance and release (including all acts in connection with registration and deregistration) of accessory and non-accessory . The is entitled to delegate this authority. At the request of the , the shall issue a separate written special power of attorney to the to sign agreements and documents in their name if necessary.
+Finance Parties
+Security Agent
+Transaction Security
+Finance Parties
+Transaction Security
+Security Agent
+Security Agent
+Finance Parties
+Security Agent
+24.12 Applicable provisions
+The shall hold and administer the exclusively in accordance with the provisions of this and of the on behalf of the . The and the other confirm that the rights and obligations of the are governed definitively and conclusively by this and by the .
+Security Agent
+Transaction Security
+Agreement
+Security Documents
+Finance Parties
+Finance Parties
+Parties
+Security Agent
+Agreement
+Security Documents
+24.13 Abstract acknowledgment of debt
+24.14 Release of Security
+ 
+24.15 Realization or sale of Security
+The provisions of this paragraph (b) do not affect the provisions under the on which amounts are secured by the . To the extent costs, fees etc. are not secured under the terms of the , the corresponding amounts are not taken into account for the purpose of calculating the amounts payable under the
+Deficiency Guarantee
+Deficiency Guarantee
+Deficiency Guarantee
+Deficiency Guarantee.
+24.16 Resignation of the Security Agent
+(i) the successor has been appointed; und
+ 
+24.17 Confidentiality
+24.18 Administrative Work of the Security Agent
+Amounts to be paid to the pursuant to sections d) (), 16 () and 23.10 () should also cover the costs incurred through the expenditure of time on administrative tasks or the use of other resources of the . These costs shall be calculated on the basis of reasonable hourly or daily rates specified by the to the and the and shall be incurred in addition to the charges for the pursuant to section 11 ().
+Security Agent
+Indemnification of the Agent
+Costs
+Liability release
+Security Agent
+Security Agent
+Borrower
+Lenders
+Security Agent
+Fees
+24.19 Set-off by the Security Agent
+If the is entitled to an amount pursuant to the , it may, after notice to the obligated of a payment which this should receive from the under the , deduct at most the amount of the payment owed to it and set this off against the payment it owes. For the purposes of the this must be treated as if it had received the amount thus deducted.
+Security Agent
+Finance Documents
+Party
+Party
+Security Agent
+Finance Documents
+Finance Documents,
+Party
+25. CONDUCT OF BUSINESS BY THE FINANCE PARTIES
+No provision of this will:
+Agreement
+26. CERTIFICATES AND CALCULATIONS
+ 
+27. AMENDMENTS AND WAIVERS
+27.1 Procedures
+27.2 Exceptions
+ 
+For purposes of this section (c), the is entitled to assume that the following are :
+Facility Agent
+Lenders
+Lenders in Default
+provided that the has not received notice to the contrary from the in question (together with corresponding evidence reasonably requested by the ) or the has in some other manner become aware that the is no longer a .
+Facility Agent
+Lender
+Facility Agent
+Facility Agent
+Lender
+Lender in Default
+27.3 Cumulative rights
+The rights of each under the :
+Finance Party
+Finance Documents
+Any delay in exercising or in failing to exercise a right shall not be deemed a waiver of that right.
+28. CHANGES TO THE PARTIES
+28.1 Assignments and transfers by the Borrower
+The may not assign, transfer or dispose of its rights under the without the prior consent of all of
+Borrower
+Finance Documents
+Lenders.
+28.2 Group Companies as Lender
+No or of a may be a under one of the
+Group Company
+Affiliate
+Group Company
+Lender
+Facilities.
+28.3 Transfers by the Lender
+ 
+28.4 Transfer fee
+The shall pay a transfer fee of EUR 3,000 to the for its own account no later than on the date of the .
+New Lender
+Facility Agent
+Transfer
+28.5 Transfer procedure
+ 
+29. DISCLOSURE OF INFORMATION
+For purposes of this section 29, is all information with respect to the , the , the or the that any , in connection with this in its capacity as a
+Confidential Information
+Borrower
+Group
+Finance Documents
+Facilities
+Finance Party
+Agreement
+Finance Party
+subject in each case to the exception of:
+ 
+30. PROVISIONS RELATING TO THE DEFICIENCY GUARANTY
+30.1 Performance of obligations relating to the Federal/State Guarantor Decision
+The hereby undertakes to perform and satisfy all such conditions, obligation and requirements as are imposed upon it by the and the , and shall assume any and all obligations set forth therein and imposed on it.
+Borrower
+Deficiency Guaranty
+Federal/State Guarantor Decision
+In particular:
+ 
+30.2 Additional security
+In order to secure the obligations under the present and the other the shall,
+Agreement
+Finance Documents,
+Borrower
+30.3 Guaranty
+The shall be enforced first against the and will not lead to any recourse or adjustment claims against the .
+Guaranty
+Deficiency Guranty
+State Guarantors
+30.4 Deficiency liability
+The anount of the deficiency liability of the is based the amount assumed by the under the .
+State Guarantors
+State Guarantors
+Deficiency Guaranty
+30.5 Reclamation and recycling systems
+ 
+30.6 Duties of information
+30.7 Required approvals
+In addition to the conditions precedent contemplated under the relevant provisions of this , the following measures require the approval of the
+Agreement
+State Guarantors:
+ 
+30.8 Coordination of acceleration with State Guarantor
+The Parties hereby agree that:
+30.9 Relations with Agents
+30.10 Release and realization of security
+30.11 Amendments to Finance Documents
+30.12 Transfers by the Lenders
+Any assignment or novation pursuant to paragraphs a) (iii) or a) (iv) of subsection 28.3 () in respect of the shall require the prior consent of the . The foregoing shall also apply to any grant of equitable sub-participation [].
+Transfer by the Lenders
+Facility
+State Guarantors
+wirtschaftliche Unterbeteiligung
+30.13 Written communications
+All communications to the must be directed to the at the following address (unless the provides written notice to the Parties to this at a later point in time of a different address):
+State Guarantors
+Mandatary
+Mandatary
+Agreement
+ 
+31. TERMS OF FEDERAL/STATE GUARANTOR DECISION
+With respect to the requirement of the respective current planning, condition H.II b) of the shall be construed in such a manner that a proper servicing of the guaranteed shall be deemed to have been ensured if the Borrower complies with the obligations under subsections 21.22 () and 21.23 ()
+Federal/State Guarantor Decision
+Loans
+Debt service reserve account
+Minimum liquidity
+.
+32. SEVERABILITY
+33. NOTICES
+33.1 Communications in writing
+The assumes no liability whatsoever for losses resulting from dissemination of information by electronic means. The foregoing also applies in cases of unauthorized access or breaches of duties of confidentiality.
+Facility Agent
+33.2 Electronic communication
+An may satisfy its obligations under the to submit and information, communications and other documents in connection with by publishing them on such electronic website as the shall designate for this purpose, provided that the notifies the and, to the extent applicable, the and/or the of the IP address (and, where applicable, any associated passwords) for such a website.
+Agent
+Finance Documents
+Finance Documents
+Finance Documents
+Agent
+Agent
+Lenders
+State Guarantor
+Mandatary
+ 
+33.3 Addresses for communications
+33.4 Effective delivery
+33.5 Communication in the event of Impaired Facility Agent
+If the becomes an , the Parties may, instead of communicating with each other through the , communicate with each other directly, and (while the remains an all of the provisions of the which require communications to be made or notices to be given to or by the shall be varied so that communications may be made directly to or by the relevant parties. This provision shall not operate after a new replacement has been appointed.
+Facility Agent
+Impaired Facility Agent
+Facility Agent
+Facility Agent
+Impaired Facility Agent)
+Finance Documents,
+Facility Agent,
+Facility Agent
+33.6 Language
+Any communication made in connection with a shall be in German or English. Any other document that is submitted in connection with a must be in German or English or, unless otherwise agreed with the , shall be submitted together with a German translation. In such case, the German translation will prevail unless the document is an official document.
+Finance Document
+Finance Documents
+Facility Agent
+34. GOVERNING LAW AND JURISDICTION
+ 
+35. CONCLUSION OF THIS AGREEMENT
+ 
+ 
+ 
+ 
+The following legal opinions, each addressed to the , the and the
+Original Lenders
+Facility Agent
+Security Agent:
+ 
+ 
+ 
+EUR 124,500,000 credit agreement dated 18 May 2011 by and between,
+inter alia
+, First Solar Manufacturing GmbH, as the Borrower, and Commerzbank Aktiengesellschaft, as the Arranger (hereinafter
+Credit Agreement
+)
+First Solar Manufacturing GmbH
+ 
+ 
+EUR 124,500,000 credit agreement dated 18 May 2011 by and between,
+inter alia
+, First Solar Manufacturing GmbH, as the Borrower, and Commerzbank Aktiengesellschaft, as the Arranger (hereinafter
+Credit Agreement
+)
+First Solar Manufacturing GmbH
+ 
+EUR 124,500,000 credit agreement dated 18 May 2011 by and between,
+inter alia
+, First Solar Manufacturing GmbH as the Borrower and Commerzbank Aktiengesellschaft as the Arranger (hereinafter
+Credit Agreement
+)
+We refer to the This is a Transfer Certificate. All terms used in this Transfer Certificate have the same meaning as in the , unless they are given a different meaning herein.
+Credit Agreement.
+Credit Agreement
+and that all statutory warranties have been disclaimed to the extent allowed by law.
+ 
+ 
+ 
+Rights and obligations being transferred by way of novation [
+Vertragsbernahme
+]
+[insert relevant details, including the relevant ]
+Commitments
+Administrative details of New Lender
+[Insert details of , address for communications and payment details]
+Facility Office
+The hereby confirms the Transfer Date as follows [].
+Facility Agent
+DATE
+[
+Facility Agent
+]
+Executed by:
+ 
+EUR 124,500,000 credit agreement dated 18 May 2011 by and between,
+inter alia
+, First Solar Manufacturing GmbH, as the Borrower, and Commerzbank Aktiengesellschaft, as the Arranger (hereinafter
+Credit Agreement
+)
+- EBITDA: [     ]
+- [     ]
+Net Financial Indebtedness:
+- Ratio of to EBITDA: [     ] to 1
+Net Financial Indebtedness
+First Solar Manufacturing GmbH
+ 
+1. Minimum liquidity
+The of the Group (defined as "" in the US may not at any time fall below USD 400,000,000.
+Minimum Liquidity
+Liquidity Availability
+Credit Agreement)
+2. EBITDA requirement
+On the relevant testing dates for the preceding 12-month-period in each case, the consolidated EBITDA (defined as "" in the ) of the Guarantor and certain group companies (defined as "" in the ) may not fall below the value shown next to the respective period.
+Consolidated EBITDA
+US Credit Agreement
+Restricted Subsidiaries
+US Credit Agreement
+3. Gearing ratio (
+Leverage
+)
+The (defined as "" in the ) (defined as "Consolidated Total Debt" in the ) relative to consolidated EBITDA (defined as "" in the )) may not at any point in time fall below 1.75:1.00.
+Gearing Ratio
+Consolidated Leverage Ratio
+US Credit Agreement
+Net Financial Debt
+(
+US Credit Agreement
+Consolidated EBITDA
+US Credit Agreement
+Definitions
+The calculation of the shall in detail be made in accordance with the provisions of the the in the version in force at the time this is signed. The respective English terms defined in the are added above in parenthesis.
+Financial Ratios
+US Credit Agreement
+Agreement
+US Credit Agreement
+ 
+ 
+A. Borrower
+First Solar Manufacturing GmbH, Marie-Curie-Strae 3, 15236 Frankfurt/Oder (FSM)
+B. Lender
+Syndicate under the management of Commerzbank AG Luxembourg Branch, 25, rue Edward Steichen, L-2540 Luxembourg.
+C. Amount of loan
+Investment credit: EUR 124,500,000
+Unless this decision provides otherwise, the investment credit must be concluded on the basis of the model loan agreement in accordance with the "instructions (version 10 May 2010) known to the Borrower and the Lender, for the federal guaranty and the guaranty issued by the German Federal State of Brandenburg.
+D. Terms and conditions of the loan
+ 
+If the credit agreement is not executed within the aforementioned period, then the guaranty commitment made by the Federal Government and the Federal State Government of Brandenburg will expire. Upon well-grounded application, the guarantors may, however, extend the deadline.
+E. Guarantees of the Federal Government and the German Federal State of Brandenburg
+Investment credit: EUR 124,500,000
+A total of 70% of the deficiency existing after the realisation of security in accordance with the form instrument BUND/LNDER deficiency guarantee (without a right to satisfaction []), pursuant to the "instructions" (version 10 May 2010) for the guaranty of the Federal Government and the German Federal State of Brandenburg.
+ex ante
+Vorabbefriedigungsrecht
+The guarantees are furnished in the form of proportionate parallel guarantees equal to 42% from the Federal Government and 28% from the German Federal State of Brandenburg.
+Notwithstanding the interest margin agreed to with the Borrowers, the guarantee coverage will include merely a margin of 1.0% .
+per annum
+The participation fee agreed to between the Lender and the Borrower will generally be applied to reduce the deficiency in the event that the public deficiency guarantees issued by the Federal Government and the German Federal State of Brandenburg are utilised. The basis for calculating the deficiency will not be lowered, however, if the fee could have been collected in the form of a correspondingly higher margin over the entire term of the loan until the date of the deficiency.
+ 
+F. Use of credit
+Partial funding for financing the land purchase and the construction of four additional production lines at the Frankfurt/Oder location for the manufacture of solar modules, pursuant to the financial needs and financing plan appended to this decision model (hereinafter referred to as "Plant II").
+G. Security for the credit
+H. Miscellaneous
+I. Terms and conditions/Conditions precedent to validity
+Prior to initial disbursement of the guarantee-backed credits, the Lender must receive evidence or confirm that
+II. Conditions and other rules
+ 
+ 
+ 
+Financial Needs/Financing Plan
+Table 1: Financial Needs/Financing
+ 
+General terms and conditions for the assumption of guarantees by the government of the Federal Republic of Germany [
+Bund
+] and by German Federal State [
+Lnder
+] guarantors
+Prior to this point in time, the may terminate the guaranty the Lender with immediate effect if the Lender breaches any obligation incumbent on it under this guaranty and, despite demand made on the Lender, fails to perform that obligation within a reasonable, specified time.
+Bund/Land
+vis--vis
+ 
+Where the Lender's claims are satisfied by utilization of 's guarantees, the Lender shall act as a fiduciary for the account of to administer and make dispositions over such rights as pass to by operation of law or by assignment, with no right to separate compensation therefor, but with entitlement to reimbursement of expenses, exercising the care of a reasonable merchant.
+Bund/Land
+Bund/Land
+Bund/Land
+The guaranty is not deemed to cover other default damages, including acceleration (prepayment) fees, compounded interest, deferral interest, interest on commissions, penalty interest, overdraft interest, processing fees and auditing charges, and such claims may not be indirectly included in the deficiency calculation provided to the .
+Bund/Land
+ 
+ 
+ 
+B. COSTS FOR ISSUING THE GUARANTIES
+In exchange for issuing a guaranty, an application fee (I), an issuance fee (II) and a guaranty fee (III) will be charged to the applicant/borrower pursuant to the following terms and conditions:
+I. Application fee
+In cases involving the application for a federal loan guaranty in connection with a state guaranty from the German Federal States of Brandenburg, Mecklenburg-Vorpommern, Saxony, Saxony-Anhalt, Thuringia or Berlin ("New Federal States") pursuant to these instructions, a one-time application fee in the amount of 0.5 per cent of the guaranty under application (but not more than EURO 25,000.00) will be due and payable at the time the application is filed.
+When applying for the federal loan guaranty in connection with a parallel state guaranty from one of the German Federal States not mentioned above ("Old Federal States"), an application fee in the amount of 0.5 per cent of the guaranty under application (but not more than EURO 25,000.00) will be due and payable for the federal loan guaranty application. At the same time, another application fee will be due and payable in an amount to be determined by the respective Federal State.
+II. Issuance fee
+The Borrower must pay an issuance fee [] for the guaranties from the time that the Federal/State Guarantor Decision is handed down (commitment letter) until the time the guaranty instrument or deed [] is issued.
+Aushndigungsentgelt
+Brgschaftsurkunde
+At the time that the Federal/State Guarantor Decision is handed down, an amount of 0.5% of the highest guaranty amount will be payable. On the immediately following 1 April and 1 October of each given year, 0.5% of the highest guaranty amount relating to the principal must be paid for each half-year period commencing on those dates.
+III. Guaranty fee
+The Borrower must pay a guaranty fee for the guaranties from the time that the guaranty instrument or deed is issued and for the period of the guaranty's term. For parallel state guaranties, the guaranty fee will generally be 0.5% of the guaranty amount that exists or that has been approved as of those dates and such fee will be due on or before 1 April and 1 October of each year (half-year fee period), unless European rules require the imposition of higher fees. In certain groups of cases (, companies facing difficulties), the guarantor reserves the right to stipulate higher fees.
+inter alia
+Different European rules could apply specifically with respect to guaranties that are granted on the basis of so-called "" (Guarantee scheme under Temporary Framework), "" (Federal Framework  limited amounts of comparable aid) as well as the "" (Framework of aid) as well as the General Block Exemption Regulation. The guaranty fees in those cases are based on the relevant EU Commission "safe-harbour premiums" that are stipulated in the relevant rules or frameworks or under the approved methods for calculating the value of aid in N 197/2007, N 541/2007 and N 762/2007. Regarding the documentation requirements, see Schedule V or the detailed information in the testing matrix [] (see p. 1).
+Befristeten Regelung Brgschaften
+Bundesregelung Kleinbeihilfen
+De-Minimus-Regelung
+de minimis
+Prfraster
+ 
+From the date that the guaranty instrument or deed is issued and on the immediately following 1 April and 1 October of each given year, generally 0.5% (or one-half of the percentage fee applicable under the requirements of the government aid laws) of the guaranty sums that exist or have been approved as of those dates (highest liability amount for the principal as set forth in the guaranty instrument any repayments of principal made, any owed and unpaid interest; for usable revolving guaranties/partial guaranty amounts, any temporary loan repayments will not be deemed repayments of principal) for each half-year commencing on those dates; and any issuance fee that had been previously paid will be credited against the guaranty fee which may still be owed in the same half-year fee period.
+less
+plus
+If, as part of the agreement, the guaranteed loan is divided and securitised into several tranches relating to different half-year fee periods, then upon a well-founded request, tranche-based fee arrangements may be established on a case-by-case basis. The Federal government and the relevant Federal State would thereupon reserve the right to charge a processing or administrative fee in accordance with the application fee rules, in the event that there are significant changes to a guaranty that had been previously approved but not yet securitized.
+With respect to the guaranties issued by the Federal government and by the Federal States of North Rhine-Westphalia, Lower Saxony, Brandenburg, Mecklenburg Vorpommern, Saxony, Saxony Anhalt and Thuringia, the application fee as well as the administrative or processing fee for significant changes to a guaranty, which had been previously approved but not yet securitized, and the ongoing fees must be paid by wire transfer to PricewaterhouseCoopers AG, Dsseldorf, and specifically to its escrow account under the name "Federal Ministry of Finance", account number 3 015 112, which is held at WestLB AG, Dsseldorf (bank routing code 300 500 00) and the transfer order must include the guaranty number. For guaranties issued by other Federal States, for which PricewaterhouseCoopers AG does not act as mandatary, the fees owed must be remitted to the relevant mandatary or to the accounts designated by the Federal States. Under the parallel state guaranties, the foregoing rules regarding the ongoing fees will apply uniformly to the guaranties issued by the Federal government and to the state guarantees of all Federal States5.
+ 
+ 
+It should be noted that:
+ 
+Each shall inform the immediately with respect to any changes of the details provided on the basis of this paragraph.
+Lender
+Facility Agent
+ 
+ 
+ 
+The Borrower
+FIRST SOLAR MANUFACTURING GmbH
+ 
+The Arranger:
+COMMERZBANK AKTIENGESELLSCHAFT
+ 
+The Facility Agent
+COMMERZBANK AKTIENGESELLSCHAFT, LUXEMBOURG BRANCH
+The Security Agent
+COMMERZBANK AKTIENGESELLSCHAFT, LUXEMBOURG BRANCH
+ 
+The Original Lenders
+COMMERZBANK AKTIENGESELLSCHAFT
+The hereby confirms that it is able to release the from the self-dealing limitations of  181 of the German Civil Code.
+Lender
+not
+Agents
+SACHSEN BANK
+The hereby confirms that it is able to release the from the self-dealing limitations of  181 of the German Civil Code.
+Lender
+not
+Agents
+ 
+NORDDEUTSCHE LANDESBANK  GIROZENTRALE
+The hereby confirms that it is able to release the from the self-dealing limitations of  181 of the German Civil Code.
+Lender
+not
+Agents
+
+Exhibit 10.2
+EXECUTION COPY
+ 
+ 
+(the "") is made on 18 May 2011 between the following parties:
+THIS GUARANTEE AGREEMENT
+Agreement
+ 
+Capitalised terms used but not otherwise defined herein (including in the recitals), shall have the meaning attributed thereto in the US Credit Agreement, as the context may require.
+In addition, in this Agreement:
+"" refers to changes in accounting principles required by the promulgation of any rule, regulation, pronouncement or opinion by the Financial Accounting Standards Board of the American Institute of Certified Public Accountants or, if applicable, the SEC, or any change in the application thereof. Notwithstanding any other provision contained herein, all terms of an accounting or financial nature used herein shall be construed, and all computations of amounts and ratios referred to herein shall be made, without giving effect to any election under Statement of Financial Accounting Standards 159 (or any other Financial Accounting Standard having a similar result or effect) to value any Indebtedness or other liabilities of the Company or any Subsidiary at "fair value," as defined therein.
+Accounting Changes
+"" means JPMorgan Chase Bank, N.A., together with its affiliates, as the arranger of the Revolving Commitments and as the administrative agent for the Lenders under the US Credit Agreement and the other Loan Documents, together with any of its successors.
+Administrative Agent
+"" means as to any Person, any other Person that, directly or indirectly, is in control of, is controlled by, or is under common control with, such Person. For purposes of this definition, "" of a Person means the power, directly or indirectly, to direct or cause the direction of the management and policies of such Person, whether by contract or otherwise.
+Affiliate
+control
+"" means the German Civil Code ().
+BGB
+Brgerliches Gesetzbuch
+"" means a day defined as "" in the Facilities Agreement.
+Business Day
+Bankarbeitstag
+"" means an event defined as "" in the Facilities Agreement.
+Event of Default
+Kndigungsgrund
+"" means a document defined as "" in the Facilities Agreement.
+Finance Document
+Finanzierungsdokument
+"" means a party defined as "" in the Facilities Agreement.
+Financing Party
+Finanzierungspartei
+"" means generally accepted accounting principles in the United States as in effect from time to time. In the event that any Accounting Change shall occur and such change results in a change in the method of calculation of financial covenants, standards or terms in this Agreement, then, upon notice by the Security Agent to the Guarantor or vice versa, the Guarantor and the Security Agent agree to enter into negotiations in order to amend such provisions of this Agreement so as to reflect equitably such Accounting Changes with the desired result that the criteria for evaluating the Guarantor's financial condition shall be the same after such Accounting Changes as if such Accounting Changes had not been made. If any such notice is given with respect to any Accounting Change then, until such time as such an amendment shall have been executed and delivered by the Guarantor and the Security Agent, all financial covenants, standards and terms in this Agreement shall continue to be calculated or construed as if such Accounting Change had not occurred.
+GAAP
+ 
+"" means the German Limited Liability Companies Act ().
+GmbHG
+Gesetz betreffend die Gesellschaften mit beschrnkter Haftung
+"" means the guarantee granted by the Guarantor in Clauses 2 () to 8 () hereof.
+Guarantee
+Guarantee (Garantie) and Indemnity (Ausfallhaftung)
+Settlement Conditional
+"" means the German Commercial Code ().
+HGB
+Handelsgesetzbuch
+"" means the German Insolvency Code ().
+InsO
+Insolvenzordnung
+"" means the Borrower or the Guarantor.
+Obligor
+"" means an event defined as "" in the Facilities Agreement.
+Potential Event of Default
+Potentieller Kndigungsgrund
+The Guarantor irrevocably and unconditionally guarantees () by way of an independent payment obligation () to each Financing Party:
+garantiert
+selbstndiges Zahlungsversprechen
+ 
+For the avoidance of doubt this guarantee does not constitute a guarantee upon first demand () and therefore nothing in this Agreement shall preclude any defences that the Guarantor (in its capacity as Guarantor only) may have against a Financing Party that the guarantee and indemnity does not constitute its legal, valid, binding or enforceable obligations.
+Garantie auf erstes Anfordern
+For the further avoidance of doubt, the Guarantor shall have no remaining obligations under this Agreement after the obligations secured by it have been fully and permanently discharged.
+No Financing Party will be required to proceed against or enforce any other rights or security or claim payment from any person before claiming from the Guarantor pursuant to this Agreement. This applies irrespective of any provision of a Finance Document to the contrary.
+ 
+The obligations of the Guarantor contained herein shall be in addition to and independent of every other Security or guarantee which any Financing Party may at any time hold in respect of any Obligor's obligations under the Finance Documents.
+Until all amounts which may be or become payable by the Obligors under or in connection with the Finance Documents have been irrevocably paid in full, each Financing Party may:
+Until all amounts which may be or become payable by the Obligors under or in connection with the Finance Documents have been irrevocably paid in full and unless the Security Agent otherwise directs, the Guarantor will not exercise any rights which it may have by reason of performance by it of its obligations under the Finance Documents:
+If the Guarantor receives any benefit, payment or distribution in relation to such rights it shall hold that benefit, payment or distribution to the extent necessary to enable all amounts which may be or become payable to the Financing Parties by the Obligors under or in connection with the Finance Documents to be repaid in full on trust for the Financing Parties and shall promptly pay or transfer the same to the Security Agent or as the Security Agent may direct for application in accordance with the Facilities Agreement.
+ 
+Any settlement or discharge between the Guarantor and any Financing Party shall be conditional upon no Security or payment to such Financing Party by the Guarantor or any other entity on behalf of the Guarantor being avoided or reduced by virtue of any laws relating to bankruptcy, insolvency, liquidation or similar laws of general application and, if any such Security or payment is so avoided or reduced, each Financing Party shall be entitled to recover the value or amount of such Security or payment from the Guarantor subsequently as if such settlement or discharge had not occurred.
+Without prejudice to the other provisions of this Agreement, the Guarantor hereby confirms that if the Borrower and any Financing Party enter into any agreement or other arrangement, including (without limitation) any amendment or supplement to or restatement of any Finance Documents, howsoever fundamental, then the Borrower's execution of any such agreement or other arrangement, whether or not expressly made or purportedly made on behalf of the Guarantor, shall bind the Guarantor and the guarantee contained in this Agreement shall continue in full force and effect without the need to obtain any confirmation or acknowledgement from the Guarantor that its guarantee continues in full force and effect and applies to the Guarantor's liabilities under the Finance Documents as amended, supplemented or restated in accordance with the agreement of the Borrower.
+ 
+The Guarantor represents and warrants to the Financing Parties, such representation and warranty being an independent guarantee () pursuant to sections 241 and 311 BGB, that it has full knowledge of the entire contents of the Facilities Agreements (including, without limitation, all exhibits and schedules thereto), all necessary corporate action has been taken to authorise the execution of this Agreement and the performance of its obligations hereunder and the exercise of its rights and performance of its obligations hereunder will not violate any provision of any existing law or any indenture or other material agreement or instrument to which the Guarantor is a party or which is binding on the Guarantor or any of its assets and the choice of German law of this Agreement will be recognised and enforced in its jurisdiction of incorporation and any judgment obtained in relation to a Finance Document in Germany will be recognised and enforced in its jurisdiction of incorporation and this Agreement creates, subject to any reservations contained in any legal opinion delivered to any Finance Party in connection with the Facilities Agreement, legal, valid and binding obligations of the Guarantor which are enforceable in accordance with their terms subject to applicable bankruptcy, insolvency, reorganisation, moratorium or other laws affecting Financing Parties' rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or law.
+selbstndiges Garantieversprechen
+The Guarantor covenants with the Security Agent that it shall:
+ 
+The Guarantor acknowledges that the Borrower is obliged to fulfil the financial covenants () relating to the Guarantor as set out in the Facilities Agreement.
+Finanzkennzahlen
+The Guarantor covenants with the Security Agent that it shall:
+The Guarantor shall at its own expense do all such things as the Security Agent may reasonably require:
+The Security Agent shall not be liable for any loss or damage suffered by the Guarantor save in respect of such loss or damage which is suffered as a result of the wilful misconduct or gross negligence of the Security Agent.
+ 
+No failure to exercise, nor any delay in exercising, on the part of the Financing Parties, any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy prevent any further or other exercise thereof or the exercise of any other right or remedy. The rights and remedies provided hereunder are cumulative and not exclusive of any rights or remedies provided by law.
+Changes and amendments to and waivers of this Agreement including this Clause 18 shall be made in writing (and in notarial form if required by law) and in accordance with the terms of the Facilities Agreements.
+19.1 Notices
+Any notice or communication under or in connection with this Agreement shall be in writing and shall be delivered personally, by post or facsimile to the address or facsimile number of the party and for the attention of the individual or department set out in the Schedule () hereto or such other substitute address or facsimile number and addressed to such other individual or department as shall have been provided in writing by not less than 5 Business Days prior notice to the Security Agent by that party for this purpose.
+Addresses for Notices
+ 
+This Agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Germany.
+The place of jurisdiction for the parties hereto shall be Frankfurt am Main, Federal Republic of Germany. The Security Agent shall, however, also be entitled to take legal action against the Guarantor before any other competent court of law having jurisdiction over the Guarantor or any of its assets.
+THIS AGREEMENT has been entered into on the date stated at the beginning of this Agreement.
+ 
+ 
+ 
+SIGNATURES
+As Guarantor
+FIRST SOLAR INC.
+As Borrower
+FIRST SOLAR MANUFACTURING GMBH
+As Security Agent acting for itself and for and on behalf of the Finance Parties
+COMMERZBANK AKTIENGESELLSCHAFT, FILIALE LUXEMBURG
+
+

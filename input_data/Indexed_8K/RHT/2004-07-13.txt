@@ -1,0 +1,99 @@
+FILE:RHT/RHT-8K-20040713142011.txt.gz
+EVENTS:	Other events	Financial statements and exhibits
+TEXT:
+ITEM: Other events
+ITEM: Financial statements and exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITEM 5. OTHER EVENTS.
+ 
+On July 13, 2004, Red Hat, Inc. issued a press release announcing its intention to restate its audited financial statements for the fiscal years ended February 29, 2004, February 28, 2003, and February 28, 2002, and its unaudited financial statements for the fiscal quarter ended May 31, 2004. The full text of the press release is attached as Exhibit 99.1 to this Current Report on Form 8-K.
+ 
+ITEM 7. FINANCIAL STATEMENTS,
+PRO FORMA
+FINANCIAL INFORMATION AND EXHIBITS.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+EXHIBIT 99.1
+ 
+Red Hat Announces Plan to Change Method of Revenue Recognition for Subscription Agreements and to Restate Financial Statements to Reflect Change
+ 
+RALEIGH, NCJuly 13, 2004  Red Hat, Inc. (NASDAQ: RHAT) today announced that it has corrected the manner in which it recognizes revenues for certain of its subscription agreements and, as a result, will restate its audited financial statements for the fiscal years ended February 29, 2004, February 28, 2003, and February 28, 2002, and its unaudited financial statements for the fiscal quarter ended May 31, 2004.
+ 
+The decision results from recent discussions between the Company and the Company's independent auditors, PricewaterhouseCoopers, following the normal rotation of audit partners required by the accounting profession's rotation rules. As a result of these discussions, the Company determined it would be appropriate to stop recognizing revenue for subscription agreements on a monthly basis - a method it has consistently applied for the last five years - and start recognizing revenue on a daily basis over the particular contract term.
+ 
+The restatement is due entirely to the correction in the Company's method of recognizing revenue for subscription agreements. The effect of using the new method is to defer a portion of the revenue that had been previously recognized in the month of commencement of a subscription to the month in which the subscription ends.
+ 
+This correction in method has no effect on the amount of revenues that the Company will ultimately recognize from the subscriptions to the Company's Red Hat Enterprise Linux product that the Company has sold over the last 24 months, nor does it affect the sequential quarterly growth in the number of subscriptions sold over the last two fiscal years or the increase in operating cash flows that has resulted from the increase in the number of new subscriptions sold over this period.
+ 
+While the new accounting method is not expected to materially affect annual revenues and will not affect operating cash flows or the number of new subscriptions for any quarterly period, it is expected to result in significant percentage differences in certain items such as quarterly operating profit and net income. Attached is a summary of the estimated range of effects of the accounting change on the Company's annual and quarterly historical results.
+ 
+"The restatement is not expected to reflect any material difference in the meaningful historical trends of our business, nor will it adversely affect our business outlook, which remains strong," said Matthew Szulik, Chairman and Chief Executive Officer at Red Hat. "We remain committed to meeting high standards in providing timely, accurate and transparent financial reporting, and our planned restatement reflects this commitment. The restatement will also assure that future comparisons to past periods are made on a consistent basis."
+ 
+The Company recognized revenues, prior to the correction, using a method that resulted in revenue recognition as if the subscription commenced on the first day of the month in which the subscription was sold. For example, the Company would have recognized one-twelfth of the revenue of a twelve-month subscription in the calendar month during which the subscription commenced, and the remaining subscription revenue over the next eleven calendar months.
+On June 16, 2004, the Company's independent auditors informed the Company that it should consider recognizing revenue from a subscription over the term of the subscription (for example, the number of days in the subscription period), which ultimately resulted in the Company deciding to change to this method. The resulting change in method will now mean that the Company will begin to recognize revenue on the date of commencement of a subscription and ratably over the remaining term of the subscription. The effect of the Company's decision is to defer a portion of the subscription revenues that would have been recognized in the month of the commencement of the subscription to the last month of the subscription term.
+ 
+Red Hat is currently not aware of any other adjustments that will be required to its historical financial statements in addition to those reflected in the estimates in the attached summary. It is possible, however, that other items may be identified in the process of restating the Company's financial statements. In addition, the Company is in the process of responding to prior comments and questions from the SEC regarding its Annual Report on Form 10-K. Although the Company does not anticipate that the review by the Staff will result in any material changes to previously reported financial results, the Company cannot provide assurances that such changes will not be required.
+ 
+The Company will be filing a Form 12b-25 extending the deadline for the filing of its Form 10-Q for the fiscal quarter ended May 31, 2004, and currently anticipates filing its Form 10-Q for that fiscal quarter on or before July 19, 2004. As soon as practicable, the Company will amend its Form 10-K for the fiscal year ended February 29, 2004.
+ 
+Investor Call Details:
+ 
+The dial-in information is as follows:
+ 
+Date and Time: July 13, 2004, at 8am ET
+Domestic 800-216-6592
+International 706-634-0636
+Replay 800-642-1687 or 706-645-9291
+Passcode 8733382
+ 
+The replay will be available from July 13, 2004, at 6pm ET until July 20, 2004, at midnight ET.
+ 
+This call is being webcast by CCBN and can be accessed at the Investor Relations page of Red Hat's web site: .
+www.redhat.com
+ 
+This call is also being distributed over CCBN's Investor Distribution Network to both institutional and individual investors. Individual investors can listen to the call through CCBN's individual investor center at or by visiting any of the investor sites in CCBN's Individual Investor Network. Institutional investors can access the call via CCBN's password-protected event management site, StreetEvents .
+www.companyboardroom.com
+(www.streetevents.com)
+About Red Hat, Inc.
+ 
+Red Hat, the world's leading provider of open source solutions to the enterprise, is headquartered in Raleigh, NC with satellite offices spanning the globe. Red Hat is leading Linux and open source solutions into the mainstream by making high quality, low cost technology accessible. Red Hat provides operating system software along with middleware, applications and management solutions. Red Hat also offers support, training and consulting services to its customers worldwide and through top-tier partnerships. Red Hat's Open Source strategy offers customers a long-term plan for building infrastructures that are based on and leverage open source technologies with focus on security and ease of management. Learn more: .
+http://www.redhat.com
+ 
+Forward-Looking Statements
+ 
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements about the estimated effects of the Company's restatements, future operating or financial results, the outcome of any review and other statements containing the words "believes," "anticipates," "plans," "expects," "will," and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: the factors discussed in our most recent annual report filed with the SEC (a copy of which may be accessed through the SEC's website at ), reliance upon strategic relationships, management of growth, the possibility of undetected software errors, the risks of economic downturns generally, and in Red Hat's industry specifically, the risks associated with competition and competitive pricing pressures, the viability of the Internet, and the possibility that (i) the Company, its independent auditors and/or the SEC may identify in the course of any review or otherwise additional items that materially and adversely affect the Company's financial results and (ii) the Company, its independent auditors and/or the SEC may identify errors in or corrections to the estimates of the effects of the restatements on the Company's financial results. In addition, the forward-looking statements included in this press release represent the Company's views as of July 13, 2004, and these views could change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to July 13, 2004.
+http://www.sec.gov
+ 
+LINUX is a trademark of Linus Torvalds. RED HAT is a registered trademark of Red Hat, Inc. All other names and trademarks are the property of their respective owners.
+ 
+ 
+ 
+Note: As a result of the above restatements, the Company's accumulated deficit at each balance sheet date is expected to increase by an amount equal to the cumulative change in net income (loss). The Company's deferred revenue is expected to increase by an amount equal to the revenues which are being deferred. Certain other balance sheet accounts such as inventory and other assets are also expected to be affected.
+Contacts
+ 
+Red Hat, Inc.
+Press Inquiries: Leigh Day, 919-754-4369
+lday@redhat.com
+or
+Investor Relations: Gabriel Szulik, 919-754-4439
+gszulik@redhat.com
+
+

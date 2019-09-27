@@ -1,0 +1,78 @@
+FILE:EMC/EMC-8K-20070724073806.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+Item 2.02. Results of Operations and Financial Condition.
+On July 24, 2007, EMC Corporation ("EMC") issued a press release announcing financial results for the quarter ended June 30, 2007. The press release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+The information in this Item 2.02 and the Exhibit attached hereto shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, regardless of any general incorporation language in such filing.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Date: July 24, 2007
+ 
+ 
+
+Exhibit 99.1
+ 
+FOR IMMEDIATE RELEASE
+HOPKINTON, Mass.July 24, 2007EMC Corporation (NYSE:EMC), the world leader in information infrastructure solutions, today reported record second-quarter revenue and strong profit growth marked by double-digit revenue growth in its systems, software and services businesses and across all major geographies. EMC has now delivered double-digit top-line growth for 16 consecutive quarters.
+Total consolidated revenue for the second quarter of 2007 was $3.12 billion, 21% higher than the $2.57 billion reported for the second quarter of 2006. GAAP net income for the second quarter of 2007 was $334.4 million or $0.16 per diluted share, 33% higher than the GAAP earnings per diluted share of $0.12 reported for the year-ago period. EMC generated strong operating cash flow of $622 million, an increase of 59%, and free cash flow of $422 million, an increase of 123%, compared with the same period a year ago.
+Joe Tucci, EMC Chairman, President and Chief Executive Officer, said, "EMC executed well in the second quarter. Customers continued to choose EMC for the depth and breadth of our information infrastructure technologies and solutions, which translated into solid revenue growth that was well balanced across our systems, software and services businesses and all major geographies. Add to this the explosion of digital information and the positive 2007 IT spending outlook we see in all major geographies, and it is clear that we are in a sweet spot of the IT industry."
+Compared with the second quarter of 2006, EMC systems revenue increased 18% year-over-year, led by strong revenue growth from the company's mid-range information storage products. EMC systems revenue represented 43% of total second-quarter revenue. Software license and maintenance revenue increased 27% year-over-year, led by strong customer demand for RSA's security offerings and for VMware Virtual Infrastructure. Software license and maintenance revenue accounted for 41% of total revenue in the quarter. Professional services, systems maintenance and other services revenue grew by 18%, driven by double-digit services growth in all four major EMC business segments. Professional services, systems maintenance and other services represented 16% of total second-quarter revenue.
+For the second-quarter of 2007, revenue from North America increased 20% compared with the same period a year ago and represented 58% of total reported revenue. Revenue from operations outside of North America grew 23% year-over-year, highlighted by double-digit year-over-year revenue growth in EMC's major international regions: Europe, Middle East and Africa (EMEA); Latin America and Asia-Pacific and Japan (APJ). APJ, which experienced 32% revenue growth year-over-year, retained its distinction as EMC's fastest-growing major international region for the second straight quarter.
+David Goulden, EMC Executive Vice President and Chief Financial Officer, said, "Looking across our business, we remain pleased with our strong, balanced performance and the progress EMC is making towards its 2007 operational and financial goals. We believe we are now on track to exceed the annual targets we set in January, as we continue to execute on our plan to help customers address their information infrastructure requirements."
+Second-Quarter Highlights
+EMC's Information Storage business, which includes revenue from storage systems, information management, information protection and resource management software, and related customer and professional services, reached $2.5 billion, an increase of 12% compared with the year-ago quarter. The second-quarter momentum was led by double-digit year-over-year revenue growth in EMC CLARiiON networked storage systems and solid customer demand for EMC's backup to disk offerings. EMC also announced deeper technology integration across its product portfolio, including EMC Avamar data protection software optimized with VMware and EMC Celerra, and EMC RecoverPoint replication technology with EMC Replication Manager software.
+RSA Information Security revenues for the second quarter of 2007 grew 21% when compared with the results of the division's constituent companies in the year-ago period and generated approximately $125 million in revenue. The information security business continued to do well during the quarter due to significant success in Payment Card Industry Data Security Standard (PCI DSS) initiatives and notable demand across multiple industries for stronger authentication requirements. Also during the quarter, the division experienced strong growth in alternative forms of authentication, which include software tokens and smart cards, as well as in its information and event management offerings, consumer-facing applications, and encryption and key management solutions.
+EMC's Content Management and Archiving business grew second-quarter revenue to $174 million, an increase of 5% year-over-year. In May 2007, EMC announced the availability of EMC Documentum TaskSpace  a new, highly configurable user interface for the next-generation EMC Documentum 6 enterprise content management (ECM) platform. Next week, EMC will formally announce the Documentum 6 platform, advancing EMC's ability to lead the industry into the next generation of enterprise content management. In recognition of its ECM market presence, EMC was honored in the quarter with two marquis ECM industry awardsmagazine's Readers' Choice Award and the ACE Award. Last week EMC also announced that it has been positioned as a leader in the Forrester Wave: Business Process Management for Document Processes.
+: E-DOC
+ECM Connection
+VMware, an EMC subsidiary, grew sales 89% year-over-year to $298 million during the second quarter as it continued to unlock the value of virtualization for existing and new customers around the world. During the quarter, the virtualization leader broadened its product portfolio with new releases of its award-winning virtual desktop software and continued to expand its network of technology and distribution partners. VMware recently announced that Intel Corporation, through its global investment arm, Intel Capital, has agreed to become an investor. The partial initial public offering (IPO) of VMware is expected to be completed this summer.
+Business Outlook
+The following statements are based on current expectations. These statements are forward looking, and actual results may differ materially. These statements do not give effect to the potential impact of mergers, acquisitions, divestitures or business combinations that may be announced after the date hereof. These statements supersede all prior statements regarding business outlook set forth in prior EMC news releases.
+ 
+About EMC
+EMC Corporation (NYSE: EMC) is the world's leading developer and provider of information infrastructure technology and solutions that enable organizations of all sizes to transform the way they compete and create value from their information. Information about EMC's products and services can be found at .
+www.EMC.com
+EMC, Documentum, CLARiiON and Celerra are registered trademarks of EMC Corporation. VMware is a registered trademark of VMware, Inc. RSA is a registered trademark of RSA Security Inc. All other trademarks used are the property of their respective owners.
+Forward-Looking Statements
+This release contains "forward-looking statements" as defined under the Federal Securities Laws. Actual results could differ materially from those projected in the forward-looking statements as a result of certain risk factors, including but not limited to: (i) adverse changes in general economic or market conditions; (ii) delays or reductions in information technology spending; (iii) risks associated with acquisitions and investments, including the challenges and costs of integration, restructuring and achieving anticipated synergies; (iv) risks associated with the VMware IPO, including the inability to manage successfully and complete the IPO, and risks associated with trading of VMware stock if the IPO is completed; (v) competitive factors, including but not limited to pricing pressures and new product introductions; (vi) the relative and varying rates of product price and component cost declines and the volume and mixture of product and services revenues; (vii) component and product quality and availability; (viii) the transition to new products, the uncertainty of customer acceptance of new product offerings and rapid technological and market change; (ix) insufficient, excess or obsolete inventory; (x) war or acts of terrorism; (xi) the ability to attract and retain highly qualified employees; (xii) fluctuating currency exchange rates; and (xiii) other one-time events and other important factors disclosed previously and from time to time in EMC's filings with the U.S. Securities and Exchange Commission. EMC disclaims any obligation to update any such forward-looking statements after the date of this release.
+Use of Non-GAAP Financial Measures
+This release contains non-GAAP financial measures. These non-GAAP financial measures, which are used as measures of EMC's performance or liquidity, should be considered in addition to, not as a substitute for, measures of EMC's financial performance or liquidity prepared in accordance with GAAP. EMC's non-GAAP financial measures may be defined differently than similar terms used by other companies, and accordingly, care should be exercised in understanding how EMC defines its non-GAAP financial measures.
+Where specified in the accompanying schedule entitled "Selected Non-GAAP Data For the Three Months Ended June 30, 2007," stock option expense, restricted stock expense and intangible amortization are excluded from the non-GAAP financial measures. In addition, where specified in the accompanying schedule entitled "Selected Non-GAAP Data For the Three Months Ended June 30, 2006," stock option expense, restricted stock expense, intangible amortization, in-process research and development and restructuring credits are excluded from the non-GAAP financial measures.
+EMC's management uses the non-GAAP financial measures in the accompanying schedules to gain an understanding of EMC's comparative operating performance (when comparing such results with previous periods or forecasts) and future prospects and excludes the above-listed expenses (stock option expense, restricted stock expense, intangible amortization, in-process research and development and restructuring credits) from its internal financial statements for purposes of its internal budgets and each reporting segment's financial goals. These non-GAAP financial measures are used by EMC's management in their financial and operating decision-making because management believes they reflect EMC's ongoing business in a manner that allows meaningful period-to-period comparisons. EMC's management believes that these non-GAAP financial measures provide useful information to investors and others (a) in understanding and evaluating EMC's current operating performance and future prospects in the same manner as management does, if they so choose, and (b) in comparing in a consistent manner the Company's current financial results with the Company's past financial results.
+This release also includes disclosures regarding free cash flow which is a non-GAAP financial measure. Free cash flow is defined as net cash provided by operating activities less additions to property, plant and equipment and capitalized software development costs. For the second quarter of 2007, free cash flow equals $422 million and is calculated as follows: net cash provided by operating activities (as defined by GAAP) of $622 million minus additions to property, plant and equipment of $154 million minus capitalized software development costs of $46 million. For the second quarter of 2006, free cash flow equals $189 million and is calculated as follows: net cash provided by operating activities (as defined by GAAP) of $392 million minus
+additions to property, plant and equipment of $156 million minus capitalized software development costs of $47 million. EMC uses free cash flow, among other measures, to evaluate the ability of its operations to generate cash that is available for purposes other than capital expenditures and capitalized software development costs. Management believes that information regarding free cash flow provides investors with an important perspective on the cash available to make strategic acquisitions and investments, repurchase shares, service debt and fund ongoing operations. As free cash flow is not a measure of liquidity calculated in accordance with GAAP, free cash flow should be considered in addition to, but not as a substitute for, the analysis provided in the statement of cash flows.
+All of the foregoing non-GAAP financial measures have limitations. Specifically, the non-GAAP financial measures that exclude stock option expense, restricted stock expense, intangible amortization, in-process research and development and restructuring credits, do not include all items of income and expense that affect EMC's operations. Further, these non-GAAP financial measures are not prepared in accordance with GAAP, may not be comparable to non-GAAP financial measures used by other companies and with respect to the non-GAAP financial measures that exclude stock-based compensation, intangible amortization and certain tax charges and benefits, do not reflect any benefit that such items may confer on EMC. Management compensates for these limitations by also considering EMC's financial results as determined in accordance with GAAP.
+ 
+Note: The presentation of the results of operations for the six months ended June 30, 2006 has been revised to adjust the cumulative effect of the accounting change for the initial adoption of FAS No. 123R. The effect of this change was to increase net income by $3.6 million and decrease additional paid-in-capital at January 1, 2006 by the same amount.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

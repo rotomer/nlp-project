@@ -1,0 +1,167 @@
+FILE:TXN/TXN-8K-20090126164344.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Cost Associated with Exit or Disposal Activities	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Cost Associated with Exit or Disposal Activities
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ITEM 2.02. Results of Operations and Financial Condition
+The Registrant's news release dated January 26, 2009, regarding its fourth quarter and 2008 results of operations and financial condition is attached hereto as Exhibit 99 and is incorporated by reference herein.
+ITEM 2.05. Costs Associated with Exit or Disposal Activities
+The Registrant today announced a plan of termination and other cost reductions to align the Registrant's spending with demand that has weakened in the slowing economy. The plan will reduce employment by about 3,400, or 12 percent. The reductions begin immediately and are expected to be complete in the third quarter of 2009. Restructuring charges for these actions are estimated to be about $300 million, all of which will be associated with severance and related benefits. Based on FASB Statement of Financial Accounting Standards No 112,
+Employers' Accounting for Postemployment Benefits
+, the Registrant accrued restructuring charges of $121 million for these actions in the fourth quarter of 2008.
+ITEM 9.01. Exhibits
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995: This report includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management "believes," "expects," "anticipates," "foresees," "forecasts," "estimates" or other words or phrases of similar import. Similarly, statements in this report that describe the Company's business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or its management:
+Market demand for semiconductors, particularly in key markets such as communications,
+entertainment electronics and computing;  
+TI's ability to maintain or improve profit margins, including its ability to utilize its manufacturing
+facilities at sufficient levels to cover its fixed operating costs, in an intensely competitive and
+cyclical industry;  
+TI's ability to develop, manufacture and market innovative products in a rapidly changing
+technological environment;  
+TI's ability to compete in products and prices in an intensely competitive industry;  
+TI's ability to maintain and enforce a strong intellectual property portfolio and obtain needed
+licenses from third parties;  
+Expiration of license agreements between TI and its patent licensees, and market conditions
+reducing royalty payments to TI;  
+Economic, social and political conditions in the countries in which TI, its customers or its
+suppliers operate, including security risks, health conditions, possible disruptions in transportation networks and fluctuations in foreign currency exchange rates;
+Natural events such as severe weather and earthquakes in the locations in which TI, its customers
+or its suppliers operate;  
+Availability and cost of raw materials, utilities, manufacturing equipment, third-party
+manufacturing services and manufacturing technology;  
+Changes in the tax rate applicable to TI as the result of changes in tax law, the jurisdictions in
+which profits are determined to be earned and taxed, the outcome of tax audits and the ability to
+realize deferred tax assets;  
+Losses or curtailments of purchases from key customers and the timing and amount of distributor
+and other customer inventory adjustments;  
+Customer demand that differs from our forecasts;  
+The financial impact of inadequate or excess TI inventory that results from demand that differs
+from projections;  
+TI's ability to access its bank accounts and lines of credit or otherwise access the capital markets;  
+Product liability or warranty claims, claims based on epidemic or delivery failure or recalls by TI
+customers for a product containing a TI part;  
+TI's ability to recruit and retain skilled personnel; and  
+Timely implementation of new manufacturing technologies, installation of manufacturing
+equipment and the ability to obtain needed third-party foundry and assembly/test subcontract
+services.
+For a more detailed discussion of these factors, see the text under the heading "Risk Factors" in Part II, Item 1A of the Company's Form 10-Q for the third quarter of 2008. The forward-looking statements included in this report on Form 8-K are made only as of the date of this report, and the Company undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Exhibit 99
+     
+DALLAS (Jan. 26, 2009)  Texas Instruments Incorporated (TI) (NYSE: TXN) today announced fourth-quarter revenue of $2.49 billion, net income of $107 million and earnings per share (EPS) of $0.08.
+     
+These financial results include restructuring charges of $0.13 per share. Without the charges, EPS would have been $0.21, considerably better than the company's mid-quarter expectations. (See reconciliation table below.)
+     
+TI also announced it is making reductions in employment because demand has continued to weaken with the slowing economy. Employment will be reduced 12 percent through 1800 layoffs and 1600 voluntary retirements and departures. Charges for these employment reductions will be about $300 million. Annualized savings from these reductions, plus those announced in October for the restructuring of the company's Wireless business, will be about $700 million after all reductions are complete in the third quarter of 2009.
+     
+"We are realigning our expenses with a global economy that continues to weaken," said Rich Templeton, TI chairman, president and chief executive officer. "By reducing expenses now, we keep TI financially strong and able to invest for future growth.
+     
+"Most of the reductions will come in our internal support functions and non-core product lines so that a greater percentage of the dollars we spend will go directly toward developing and supporting Analog and Embedded Processing products. We believe these are the areas that will drive TI's future growth and allow us to achieve our financial objectives.
+"We are not counting on a near-term economic rebound for improvement. The actions we are taking to reduce expenses and inventory will position TI to deliver solid financial results, even in a period of prolonged economic weakness. When the economy strengthens, we'll be pleased that we focused aggressively on our core product lines."
+     
+4Q08 financial summary
+Amounts are in millions of dollars, except per-share amounts. Except as noted, financial results are for continuing operations. The sale of TI's former Sensors & Controls business was completed on April 27, 2006, and that business is reported as a discontinued operation.
+     
+TI's revenue declined 30 percent compared with the fourth quarter of 2007 and declined 26 percent compared with the third quarter of 2008. Revenue in all segments declined in both comparisons.
+     
+TI's operating profit declined 95 percent compared with the fourth quarter of 2007 and 93 percent compared with the third quarter. The declines were due to lower revenue and the associated lower gross profit in all segments, higher restructuring charges, as well as the impact of underutilized manufacturing assets. These more than offset other manufacturing cost reductions and lower operating expenses.
+     
+Excluding restructuring charges of $254 million, TI's operating profit was $305 million in the fourth quarter, or 12.2 percent of revenue. (See reconciliation table below.)
+4Q08 segment results
+The product categories in each segment are as follows:
+Analog: high-performance analog (includes standard power management products, data converters, amplifiers and interface products), high-volume analog
+&
+logic
+Embedded Processing: DSPs and microcontrollers used in catalog, communications infrastructure and automotive applications 
+Wireless: DSPs and analog used in basebands, OMAP applications processors and
+connectivity products for handsets 
+Other: DLP products, calculators, RISC microprocessors, ASIC products, royalties
+Operating profit declined in all segments because of the effect of decreased revenue and restructuring charges. Restructuring charges were as follows:
+     
+     
+The fourth-quarter 2008 restructuring charges of $254 million included $121 million for a portion of the actions just announced, $109 million for actions announced in October to re-focus the company's Wireless business and $24 million for asset impairments related to an action announced in 2007 to shut down an older digital factory.
+4Q08 additional financial information
+ 
+Net income includes a $67 million tax benefit from the reinstatement of the federal research tax credit, which was signed into law in October 2008 and was retroactive to the beginning of 2008.
+Orders were $1.86 billion, down 47 percent from a year ago and down 42 percent from the prior quarter.  
+Inventory was reduced by $200 million in the quarter. The company expects to continue to reduce inventory in the first quarter of 2009.  
+Capital expenditures were $76 million in the quarter, a decline from $181 million in the fourth quarter of 2007 and $197 million in the prior quarter. The lower capital expenditures reflect restraints on spending implemented by management during this period of weaker demand and the lack of need for additional manufacturing capacity in the near term.  
+The company used $386 million in the quarter to repurchase 20.3 million shares of its common stock and paid dividends of $141 million.
+Year 2008 financial summary
+     
+TI revenue declined 10 percent compared with the prior year primarily due to a decline in Wireless segment revenue. Revenue in the Other segment also declined for the year. As the year progressed and the global economy weakened, the decline in TI revenue accelerated and broadened to the extent that all segments declined from the year-ago quarter in the final quarter of the year.
+     
+TI operating profit decreased 30 percent in 2008 due to the decline in revenue and the associated lower gross profit, the impact of underutilized manufacturing assets and higher restructuring charges. These more than offset a reduction in operating expenses.
+     
+Excluding restructuring charges of $254 million, TI's operating profit was $2.69 billion in 2008, or 21.5 percent of revenue. (See reconciliation table below.)
+Year 2008 segment results
+Restructuring charges negatively impacted each segment's operating profit as follows:
+2008 additional financial information
+ 
+Capital expenditures were $763 million in 2008. Depreciation was $1.02 billion.
+The company used $2.12 billion to repurchase 80.2 million shares of its common stock and paid dividends of $537 million.
+Outlook
+For the first quarter of 2009, TI expects:
+Revenue: $1.62  2.12 billion
+Earnings per share: $0.11 loss - 0.03 profit
+The EPS estimate includes $0.03 per share resulting from $50 million of estimated restructuring charges. EPS will continue to be impacted in the first quarter by costs associated with underutilized manufacturing assets as a result of lower demand and the company's continued reduction of inventory.
+TI will update its first-quarter outlook on March 9, 2009.
+For the full year of 2009, TI expects approximately the following:
+R&D expense: $1.5 billion
+Capital expenditures: $300 million
+Depreciation: $900 million
+Annual effective tax rate: 24%
+Certain amounts in prior periods' financial statements have been reclassified to conform to the current presentation.
+The following describes TI's results excluding the impact of restructuring charges. Management believes this presentation provides investors additional insight into the underlying business conditions and results.
+Safe Harbor Statement
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995: This release includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management "believes," "expects," "anticipates," "foresees," "forecasts," "estimates" or other words or phrases of similar import. Similarly, statements herein that describe the Company's business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or its management:
+Market demand for semiconductors, particularly in key markets such as communications,
+entertainment electronics and computing;  
+TI's ability to maintain or improve profit margins, including its ability to utilize its
+manufacturing facilities at sufficient levels to cover its fixed operating costs, in an
+intensely competitive and cyclical industry;  
+TI's ability to develop, manufacture and market innovative products in a rapidly
+changing technological environment;  
+TI's ability to compete in products and prices in an intensely competitive industry;  
+TI's ability to maintain and enforce a strong intellectual property portfolio and obtain
+needed licenses from third parties;  
+Expiration of license agreements between TI and its patent licensees, and market
+conditions reducing royalty payments to TI;  
+Economic, social and political conditions in the countries in which TI, its customers or its
+suppliers operate, including security risks, health conditions, possible disruptions in
+transportation networks and fluctuations in foreign currency exchange rates;  
+Natural events such as severe weather and earthquakes in the locations in which TI, its
+customers or its suppliers operate;  
+Availability and cost of raw materials, utilities, manufacturing equipment, third-party
+manufacturing services and manufacturing technology;  
+Changes in the tax rate applicable to TI as the result of changes in tax law, the
+jurisdictions in which profits are determined to be earned and taxed, the outcome of tax
+audits and the ability to realize deferred tax assets;  
+Losses or curtailments of purchases from key customers and the timing and amount of
+distributor and other customer inventory adjustments;
+Customer demand that differs from our forecasts;  
+The financial impact of inadequate or excess TI inventory that results from demand that
+differs from projections;  
+TI's ability to access its bank accounts and lines of credit or otherwise access the capital
+markets;  
+Product liability or warranty claims, claims based on epidemic or delivery failure or
+recalls by TI customers for a product containing a TI part;  
+TI's ability to recruit and retain skilled personnel; and  
+Timely implementation of new manufacturing technologies, installation of
+manufacturing equipment and the ability to obtain needed third-party foundry and
+assembly/test subcontract services.
+For a more detailed discussion of these factors, see the text under the heading "Risk Factors" in Part II, Item 1A of the Company's Form 10-Q for the third quarter of 2008. The forward-looking statements included in this release are made only as of the date of this release, and the Company undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+About Texas Instruments
+Texas Instruments (NYSE: TXN) helps customers solve problems and develop new electronics that make the world smarter, healthier, safer, greener and more fun. A global semiconductor company, TI innovates through manufacturing, design and sales operations in more than 25 countries. For more information, go to www.ti.com.
+     
+TI trademarks: OMAP DLP
+          
+          
+Other trademarks are the property of their respective owners.
+
+

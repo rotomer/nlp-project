@@ -1,0 +1,117 @@
+FILE:AMD/AMD-8K-20040714163747.txt.gz
+EVENTS:		Financial statements and exhibits	Regulation FD Disclosure
+TEXT:
+ITEM: 
+ITEM: Financial statements and exhibits
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 7. Financial Statements and Exhibits.
+ 
+ 
+The following exhibit is furnished as part of this Report:
+ 
+ 
+Item 9 and 12. Regulation FD Disclosure and Disclosure of Results of Operations and Financial Condition.
+ 
+The information in this Report, including the Exhibit 99.1 attached hereto, is furnished pursuant to Items 9 and 12 of this Form 8-K. Consequently, it is not deemed "filed" for the purposes of Section 18 of the Securities and Exchange Act of 1934, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or Securities Act of 1933 if such subsequent filing specifically references this Form 8-K.
+ 
+On July 14, 2004, Advanced Micro Devices, Inc. (the "Company") announced its results of operations and financial condition as of and for the quarter ended June 27, 2004 in a press release that is attached hereto as Exhibit 99.1.
+ 
+The Company's earnings release contains non-GAAP financial measures. Pursuant to the requirements of Regulation G, the Company has provided reconciliations within the press release of the non-GAAP financial measures to the most directly comparable GAAP financial measures in the text of the press release.
+ 
+EBITDA is presented in the earnings release. EBITDA was determined by adjusting net income (loss) for interest income, interest expense, income tax, depreciation and amortization. Although EBITDA is not a GAAP financial measure, it is calculated and communicated by the Company because management believes it is of interest to investors and lenders in relation to its overall capital structure and its ability to borrow additional funds.
+ 
+The Company's calculation of EBITDA may or may not be consistent with the calculation of this measure by other companies in the same industry. Investors should not view EBITDA as an alternative to the GAAP measures of net income as a measure of performance, or cash flows from operating, investing and financing activities as a measure of liquidity. In addition, EBITDA does not take into account changes in certain assets and liabilities as well as interest and income taxes that can affect cash flows. Management does not intend the presentation of EBITDA to be considered in isolation or as a substitute for results prepared in accordance with GAAP.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+ 
+ 
+ 
+NEWS RELEASE
+ 
+ 
+ 
+ 
+ 
+ 
+AMD (NYSE: AMD) today reported sales of $1.262 billion and net income of $32 million for the quarter ended June 27, 2004. Net income amounted to $0.09 per diluted share.
+SUNNYVALE, CA, July 14, 2004 
+ 
+Second quarter sales increased by 96 percent from the second quarter of 2003 and increased by two percent from the first quarter of 2004. In the second quarter of 2003, AMD reported sales of $645 million and a net loss of $140 million, or $0.40 per share. In the first quarter of 2004, AMD reported sales of $1.236 billion and net income of $45 million, or $0.12 per diluted share.
+ 
+"We are pleased to report a ninety-six percent year-over-year increase in sales and solid profitability based on record sales of our leading-edge products," said Robert J. Rivet, AMD's chief financial officer.
+ 
+"We achieved record Spansion Flash memory sales in the second quarter and more than tripled operating income from $14 million to $45 million. Spansion maintained clear leadership in the NOR Flash memory market. In addition, accelerating AMD Opteron and Mobile AMD Athlon 64 processor sales contributed to a double-digit operating margin for our microprocessor business."
+ 
+BUSINESS OVERVIEW
+ 
+Operating income increased to $72 million in the second quarter of 2004 from $61 million in the prior quarter and an operating loss of $123 million in the second quarter of 2003. This result was due to higher sales, strong execution of the company's technology transitions and solid manufacturing performance. Gross margin was 38 percent, equal to the first quarter of 2004.
+ 
+The Memory Group achieved record sales of $673 million in the second quarter, an increase of 220 percent from $211 million in the second quarter of 2003 and seven percent from $628 million in the first quarter of 2004. The consolidation of AMD's and Fujitsu's Flash memory businesses began at the start of the third quarter of 2003. The Memory Group generated operating income of $45 million, up from $14 million in the prior quarter, driven by the successful transition to 110nm technology and benefit recognized from the integration of the two businesses.
+ 
+Flash memory sales grew in all major regions and across both the embedded and wireless segments driven by continued strong demand from tier-one customers.
+ 
+The transition to 110nm process technology for both floating gate and MirrorBit Flash memory technologies is on schedule. Spansion is on track to double Flash memory bit capacity in 2004.
+ 
+Computation Products Group (CPG) sales were $554 million in the second quarter of 2004. This is an increase of 36 percent from $406 million in the second quarter of 2003 and is a three percent decrease from $571 million in the first quarter of 2004. CPG generated operating income of $58 million in the second quarter, a decrease from $67 million in the first quarter of 2004.
+ 
+Demand for AMD64 processors accelerated significantly during the quarter. Increased AMD Opteron processor sales were largely due to growing enterprise
+ 
+demand and increased shipments to tier-one customers. Additionally, consumer sales of notebook PCs powered by Mobile AMD Athlon 64 processors increased considerably.
+ 
+The transition from 130nm to 90nm technology at Fab 30 is on track, yielding products with excellent power consumption characteristics. AMD began 90nm volume production in May and plans to ship 90nm microprocessors for revenue in the third quarter. Construction of AMD's new 300mm Fab 36 in Dresden is on schedule with production planned in the first half of 2006.
+ 
+ADDITIONAL HIGHLIGHTS OF THE QUARTER
+ 
+ 
+CURRENT OUTLOOK
+ 
+AMD's outlook statements are based on current expectations. The following statements are forward looking, and actual results could differ materially. Economic and industry conditions remain uncertain and continue to make it difficult to forecast product demand. In the third quarter of 2004, AMD expects sales to increase in each of its two major businesses and total sales to increase moderately.
+ 
+AMD TELECONFERENCE
+ 
+AMD will hold a conference call for the financial community at 2:30 p.m. PT today to discuss second-quarter financial results. AMD will provide a real-time audio broadcast of the teleconference on the Investor Relations page of its web site at www.amd.com or www.streetevents.com. The webcast will be available for ten days after the conference call.
+ 
+CAUTIONARY STATEMENT
+ 
+This release contains forward-looking statements, which are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Investors are cautioned that forward-looking statements in this release involve risks and uncertainty that could cause actual results to differ materially from current expectations. Risks include the possibility that global business and economic conditions will worsen resulting in lower than currently expected sales in the second half of 2004; that Intel Corporation's pricing, marketing programs, product bundling, new product introductions or other activities targeting the company's processor business will prevent attainment of the company's current
+ 
+processor sales plans; that demand for personal computers and, in turn, demand for the company's processors will be lower than currently expected; that adoption of AMD64 products by tier-one OEMs will not occur as expected; that demand for the company's Flash memory products will be lower than currently expected, particularly in the high-end mobile telephone sector and that the company will not be able to increase Flash memory market share; that Intel Corporation will negatively affect NOR Flash memory prices; that customer acceptance of MirrorBit technology will not continue to increase; that the company will not continue to be successful integrating the Flash memory operations of Spansion LLC, or be able to achieve or sustain any benefit from its creation; that the company will not be able to meet demand for its products; that the company may not achieve its current product and technology introduction schedules; that the company's transition to 90nm manufacturing processes for processors and 110nm manufacturing processes for Flash memory will not occur in the expected timeframe and that the company will not recognize the expected benefits from the technology transition; that the company will not be able to raise the capital to enable it to establish leading-edge capacity to maintain its market leadership positions; and that solutions providers will not timely provide the infrastructure, including operating systems and applications, to support the company's AMD64 technology. We urge investors to review in detail the risks and uncertainties in the company's Securities and Exchange Commission filings, including but not limited to the Annual Report on Form 10-K for the year ended December 28, 2003, and the Quarterly Report on Form 10-Q for the quarter ended March 28, 2004.
+ 
+ABOUT AMD
+ 
+AMD (NYSE:AMD) designs and produces innovative microprocessors, Flash memory devices and low-power processor solutions for the computer, communications and consumer electronics industries. AMD is dedicated to delivering standards-based, customer-focused solutions for technology users, ranging from enterprises and governments to individual consumers. For more information visit www.amd.com.
+ 
+AMD, the AMD Arrow logo, AMD Athlon, AMD Opteron, AMD Geode, and combinations thereof, are trademarks of Advanced Micro Devices, Inc. Spansion and MirrorBit are trademarks of Spansion LLC. SPEC is a registered trademark of Standard Performance Evaluation Corporation in the U.S. and/or other jurisdictions. Microsoft and Windows are registered trademarks of Microsoft Corporation in the U.S. and/or other jurisdictions. Other names used are for identification purposes only and may be trademarks of their respective owners.
+Advanced Micro Devices, Inc.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Thousands except per share amounts)
+ 
+Advanced Micro Devices, Inc.
+RECONCILIATION OF NET INCOME (LOSS) TO EBITDA
+(Thousands)
+ 
+ 
+CONSOLIDATED BALANCE SHEETS
+(Thousands)
+ 
+ 
+ 
+
+

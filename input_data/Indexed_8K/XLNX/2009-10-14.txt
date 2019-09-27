@@ -1,0 +1,77 @@
+FILE:XLNX/XLNX-8K-20091014162023.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[  ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02 Results of Operations and Financial Condition
+On October 14, 2009, Xilinx, Inc. issued a press release announcing results for the fiscal quarter ended September 26, 2009. A copy of this press release is furnished as Exhibit 99.1 to this report.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+ 
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant
+has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+SAN JOSE, CA, OCTOBER 14, 2009
+-- Xilinx, Inc. (Nasdaq: XLNX) today announced second quarter fiscal 2010 sales of $415.0 million, up 10% sequentially and down 14% from the second quarter of the prior fiscal year. Second quarter net income was $64.0 million, or $0.23 per diluted share, including previously announced restructuring charges totaling $5.9 million, or approximately $0.02 per diluted share.
+The Xilinx Board of Directors announced a $0.02 increase in the quarterly cash dividend to $0.16 per outstanding share of common stock, payable on November 24, 2009 to all stockholders of record at the close of business on November 4, 2009.
+Additional second quarter comparisons are represented in the charts below:
+GAAP Results
+(In millions, except EPS)
+Sales growth in the September quarter was driven by strength from all end markets and geographic regions. New Product sales increased 36% sequentially during the quarter due primarily to strong growth from the Virtex-5 and Spartan-3 FPGA families.
+"I am encouraged by the broad-based recovery in our business," said Moshe Gavrielov, Xilinx President and Chief Executive Officer. "Strong sales growth coupled with continued operating expense control contributed to a significant improvement in operating margin. September quarter operating margin was 20%, up from 15% in the prior quarter."
+Products are classified as follows:
+New Products: Virtex-6, Virtex-5, Spartan-6, Spartan-3A and Spartan-3E product families Mainstream Products: Virtex-4, Spartan-3, Spartan-II and CoolRunner-II product families
+Base Products: Virtex, Virtex-E, Virtex-II, Spartan, XC4000, CoolRunner and XC9500 product families Support Products: Configuration products, HardWire, Software & Support/Services
+Key Statistics:
+(Dollars in millions)
+*     Return on equity calculation: Annualized net income/average stockholders' equity
+Highlights Second Quarter Fiscal 2010
+Xilinx announced design support for Virtex-6 HXT FPGAs with Version 11.3 of the
+ISE Design Suite software. Optimized for 40G/100G wired telecommunications and
+data communications, Virtex-6 HXT FPGAs deliver serial interface technology to
+designers of ultra-high bandwidth systems with line rates in excess of 11 Gigabits per
+second. As the leader in serial connectivity solutions for FPGAs, Xilinx estimates
+that it shipped over 75% of the PLD industry's FPGAs with embedded transceivers in
+the September quarter.  
+The Spartan-6 family continues to be the PLD industry's only 45nm high-volume
+FPGA family. Manufactured by Samsung, this family marks the first time
+transceiver capability and high-performance PCIe and memory controller blocks
+have been integrated into a 45nm low-cost FPGA fabric. These key technologies
+enable customers to make FPGA-based products and platforms that are lower
+power, lower cost and easier to use.  
+The Company's consistent profitability and cash flow generationeven during
+challenging economic conditions, led to the Board's recent decision to increase the
+quarterly cash dividend by $0.02 to $0.16 per common share. This is the fifth time
+Xilinx has increased its dividend since initiating the dividend program in April
+2004.
+Business Outlook  December Quarter Fiscal 2010
+Sales are expected to be up approximately 6% to 10% sequentially.  
+Gross margin is expected to be approximately 62% to 63%.  
+Operating expenses are expected to be approximately $186 million, including $3
+million in charges relating to restructuring activity announced on April 15, 2009.  
+Other income and expense is expected to be a net expense of approximately $1 million.  
+Fully diluted share count is expected to be approximately 278 million.  
+December quarter tax rate is expected to be approximately 19%.
+Conference Call
+A conference call will be held today at 2:00 p.m. Pacific Time to discuss the quarter's results and management's outlook for the December quarter. The webcast and subsequent replay will be available in the investor relations section of the company's web site at www.investor.xilinx.com. A telephonic replay of the call may be accessed later in the day by calling (800) 642-1687 and referencing confirmation code 32161500. The telephonic replay will be available for two weeks following the live call.
+This release contains forward-looking statements and projections. Forward-looking statements and projections can often be identified by the use of forward-looking words such as "expect," "may," "will," "could," "believe," "anticipate," "estimate," "continue," "plan," "intend," "project" or other similar words. Undue reliance should not be placed on such forward-looking statements and projections, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, customer acceptance of our new products, the ability of the Company to generate cost and operating expense savings in an efficient and timely fashion, the ability of our customers to manage their inventories, a high dependence on turns business, the ability of our foundry suppliers to deliver sufficient wafer volumes in a timely manner, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to successfully manage production at multiple foundries, variability in wafer pricing, and other risk factors listed in our most recent Forms 10-K and 10-Q.
+About Xilinx
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available at
+http://www.xilinx.com
+. Xilinx, the Xilinx logo, Virtex, Spartan, ISE, and other brands designated herein are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+#0952F
+XILINX, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Unaudited) (In thousands, except per share amounts)
+XILINX, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS (In thousands)
+XILINX,
+INC.
+SUPPLEMENTAL FINANCIAL INFORMATION (Unaudited)
+(In thousands)
+
+

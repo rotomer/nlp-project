@@ -1,0 +1,83 @@
+FILE:RHT/RHT-8K-20091222160330.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of report (Date of earliest event reported): December 22, 2009
+(State or Other Jurisdiction of Incorporation)
+Red Hat, Inc.
+(Exact Name of Registrant as Specified in Its Charter)
+Delaware
+(919) 754-3700
+(
+Registrants Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+ General Instruction A.2. below):
+ - 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ - 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ - 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ - 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02.         Results of Operations and Financial Condition
+On December 22, 2009, Red Hat, Inc. announced its financial results for the quarter ended November 30, 2009. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+We disclosed non-GAAP financial information in the press release for the three months and nine months ended November 30, 2009 and November 30, 2008. These non-GAAP disclosures include a reconciliation of GAAP net income to adjusted net income based on:
+the impact of non-cash share-based compensation expense under Statement of Financial Accounting Standards No. 123 (Revised 2004), Share-Based Payment ("SFAS 123R");
+the impact of expense associated with the amortization of intangible assets primarily related to business combinations; and
+the impact of a charge recorded in connection with an agreement in principle to settle a class action lawsuit (Civil Action No. 5:04-CV-473BR), pending in the United States District Court for the Eastern District of North Carolina, brought on behalf of a class of shareholders in connection with the restatement of our financial results announced in July 2004 (the Restatement Litigation).
+These non-GAAP disclosures should not be used as a substitute for our GAAP results, but rather read in conjunction with our GAAP results. The non-GAAP financial measures we disclosed and the methods we used to calculate non-GAAP results are not in accordance with GAAP and may be materially different from the non-GAAP measures and methods used by other companies.
+Prior to March 1, 2006, we accounted for share-based compensation pursuant to the provisions of Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, and accordingly no compensation expense was recorded for stock options or other share-based awards to employees and non-employee directors that were granted with an exercise price equal to or above the market value per share of our common stock on the grant date. For awards granted with an exercise price less than the market value of our stock on the grant date, the award's intrinsic value was recorded as deferred compensation and reported as a separate component of stockholders' equity. This deferred compensation was amortized to compensation expense over the vesting period of the award.
+Effective March 1, 2006, we adopted the fair value recognition provisions of SFAS 123R, using the modified prospective transition method. Compensation costs recognized in the three months and nine months ended November 30, 2009 and November 30, 2008, include compensation costs based on the grant date fair value of the share-based awards.  The fair values have been estimated using the Black-Scholes-Merton option-pricing model.  In accordance with the provisions of the modified prospective transition method, results for prior periods have not been restated. Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP non-cash, share-based compensation expense of $12.6 million and $34.2 million for the three and nine months ended November 30, 2009, and $12.3 million and $33.7 million for the three and nine months ended November 30, 2008, respectively, versus the non-GAAP exclusion of such expense.
+We excluded GAAP share-based compensation expense for the purpose of calculating non-GAAP adjusted net income and non-GAAP adjusted net income per share because it is a non-cash expense and management believes that by excluding such expense we provide an alternative and useful measure of operating performance.  Management also believes that non-GAAP measures of profitability that exclude share-based compensation expense are used by a number of financial analysts in the software industry to compare current performance to prior periods and to forecast future performance.
+Amortization expense related to intangible assets results primarily from business combinations.  These costs are fixed in connection with an acquisition, are then amortized over a number of years after the acquisition and generally cannot be changed or influenced by management after the acquisition.  Accordingly, management generally does not consider such costs for the purpose of evaluating the performance of the business or its managers or when making decisions to allocate resources.  Management also believes that non-GAAP measures of profitability that exclude amortization expense related to intangible assets are used by a number of  financial analysts in the software industry to compare current performance to prior periods and to forecast future performance.  Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP non-cash amortization expense of $5.0 million and $15.0 million for the three and nine months ended November 30, 2009, and $5.1 million and $12.7 million for the three and nine months ended November 30, 2008, respectively, versus the non-GAAP exclusion of such expense.
+We also excluded GAAP expense relating to a reserve we recorded in connection with an agreement in principle to settle the Restatement Litigation.  This settlement is subject to the completion of a final, written settlement agreement and court approval.  Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP litigation settlement expense of $8.8 million for the three and nine months ended November 30, 2009.
+Management believes that these adjusted non-GAAP results, when read in conjunction with the GAAP results, offer a useful view of our business performance in that they provide a more consistent means of comparing performance to prior periods in light of the prospective-only application of SFAS 123R in March 2006 (under the modified prospective transition method), the irregularity with which management acquires intangible assets and the non-recurring nature of the litigation settlement expense. Management also uses non-GAAP measures as a component of its regular internal reporting to evaluate performance of the business and compare it to prior performance, to make operating decisions, including internal budgeting and the calculation of incentive compensation, and to forecast future performance. Our disclosure of non-GAAP financial measures allows investors to evaluate the Company's performance using the same methodology and information as that used by management.
+The information furnished pursuant to Item 2.02 of this Form 8-K, including Exhibit 99.1 referenced herein, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+Item 9.01.         Financial Statements and Exhibits
+(d)      Exhibits
+99.1     Press Release dated December 22, 2009.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+EXHIBIT INDEX
+
+Exhibit 99.1
+Red Hat Reports Third Quarter Results
+Revenue of $194 million, up 18% year-over-year
+Subscription Revenue of $164 million, up 21% year-over-year
+Deferred Revenue of $619 million, up 23% year-over-year
+Repurchased $52.3 million, or 1.9 million shares, of common stock
+RALEIGH, N.C.--(BUSINESS WIRE)--December 22, 2009--Red Hat (NYSE: RHT), the world's leading provider of open source solutions, today announced financial results for its fiscal year 2010 third quarter ended November 30, 2009.
+Total revenue for the quarter was $194.3 million, an increase of 18% from the year ago quarter. Subscription revenue for the quarter was $164.4 million, up 21% year-over-year.
+Continued solid execution drove another quarter of strong results for Red Hat. Our double digit growth in the current economic environment was driven by our compelling value proposition and outstanding service. Our customer focus has clearly differentiated us from the competition. Red Hat was recently ranked as #1 among software vendors by IT executives for the fifth time in six years in the Ziff Davis CIO Insight Study, with the highest marks for reliability and value, stated Jim Whitehurst, President and Chief Executive Officer of Red Hat. We also continued to introduce new products, including the November release of RHEV that advances our position in server virtualization and cloud computing. RHEV provides customers the choice of a high-value, low cost, open management solution that was not previously available in the $2 billion virtualization market.
+GAAP operating income for the quarter was $19.8 million, including a previously announced charge of $8.8 million for a litigation settlement, compared to $21.0 million in the year ago quarter. After adjusting for stock compensation, amortization expenses and the charge for the litigation settlement as detailed in the tables below, non-GAAP operating income for the quarter was $46.1 million, up 20% year-over-year. GAAP operating margin was 10.2%. Non-GAAP operating margin was 23.7%, up 50 basis points from the year ago quarter.
+GAAP net income for the quarter was $16.4 million, or $0.08 per diluted share, compared with $24.3 million, or $0.12 per diluted share, in the year ago quarter. The current quarter GAAP net income was reduced by $0.03 per diluted share due to the charge for the litigation settlement. Non-GAAP adjusted net income for the quarter was $33.5 million, or $0.17 per diluted share, after adjusting for stock compensation, amortization expenses and the charge for the litigation settlement as detailed in the tables below, as compared to $36.9 million, or $0.18 per diluted share, in the year ago quarter.
+Operating cash flow totaled $54.1 million, compared to $59.1 million from the year ago quarter. Due to record billings, accounts receivable increased $24 million compared to last year even as days sales outstanding (DSO) improved to 54 days compared to 59 days last year. At November 30, the companys total deferred revenue balance was $618.7 million, an increase of 23% on a year-over-year basis. Total cash, cash equivalents and investments as of November 30, 2009 were $959.1 million after repurchasing $52.3 million, or 1.9 million shares, of common stock.
+Strong bookings, particularly in North America, led to strong billings and greater than 20% growth in subscription revenue and deferred revenue, as well as further improvement of non-GAAP operating margins, stated Charlie Peters, Executive Vice President and Chief Financial Officer of Red Hat. This type of consistent performance, combined with our strong balance sheet, led to our third debt rating upgrade in 20 months by Standard and Poors rating agency.
+Additional information on Red Hat's reported results, including a reconciliation of the non-GAAP adjusted results, are included in the financial tables below. A live webcast of Red Hat's results will begin at 5:00 pm ET today and can be accessed by the general public at Red Hat's investor relations website at . A replay of the webcast will be available shortly after the live event has ended.
+http://investors.redhat.com
+About Red Hat, Inc.
+Red Hat, the world's leading provider of open source solutions and a component of the S&P 500, is headquartered in Raleigh, NC with over 65 offices spanning the globe. CIOs ranked Red Hat as one of the top vendors delivering value in Enterprise Software for six consecutive years in the CIO Insight Magazine Vendor Value survey. Red Hat provides high-quality, affordable technology with its operating system platform, Red Hat Enterprise Linux, together with virtualization, applications, management and Services Oriented Architecture (SOA) solutions, including Red Hat Enterprise Virtualization and JBoss Enterprise Middleware. Red Hat also offers support, training and consulting services to its customers worldwide. Learn more: .
+http://www.redhat.com
+Forward-Looking Statements
+Certain statements contained in this press release may constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks related to delays or reductions in information technology spending, uncertainty and adverse results in litigation and related settlements, the integration of acquisitions and the ability to market successfully acquired technologies and products; the ability of the Company to effectively compete; the inability to adequately protect Company intellectual property and the potential for infringement or breach of license claims of or relating to third party intellectual property; the ability to deliver and stimulate demand for new products and technological innovations on a timely basis; risks related to data and information security vulnerabilities; ineffective management of, and control over, the Company's growth and international operations; fluctuations in exchange rates; and changes in and a dependence on key personnel, as well as other factors contained in our most recent Quarterly Report on Form 10-Q (copies of which may be accessed through the Securities and Exchange Commission's website at ), including those found therein under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations". In addition to these factors, actual future performance, outcomes, and results may differ materially because of more general factors including (without limitation) general industry and market conditions and growth rates, economic conditions, and governmental and public policy changes. The forward-looking statements included in this press release represent the Company's views as of the date of this press release and these views could change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date of the press release.
+http://www.sec.gov
+ 2009 Red Hat, Inc. Red Hat, the Shadowman logo and JBoss are registered trademarks of Red Hat, Inc. in the U.S. and other countries. Linux is a registered trademark of Linus Torvalds.
+CONTACT: Red Hat Inc. Kara Schiltz, 919-301-3002 or Tom McCallum, 919-754-4630
+Media Contact:
+kschiltz@redhat.com
+Investor Relations:
+tmccallum@redhat.com
+
+

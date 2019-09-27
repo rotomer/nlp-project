@@ -1,0 +1,181 @@
+FILE:INTC/INTC-8K-20111019095353.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 2.02                      Results of Operations and Financial Condition
+Attached hereto as Exhibit 99.1 and incorporated by reference herein is financial information and commentary by Stacy J. Smith, Senior Vice President and Chief Financial Officer of Intel Corporation for the quarter ended October 1, 2011 and forward-looking statements relating to the fourth quarter of 2011 as posted on the companys investor website, intc.com, on October 18, 2011. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+In addition to disclosing financial results in accordance with United States (U.S.) generally accepted accounting principles (GAAP), this document contains non-GAAP financial measures for net revenue, gross margin, gross margin percentage, operating income, net income, and diluted earnings per share. This document also provides forward-looking outlook for non-GAAP net revenue and gross margin percentage.  A reconciliation of the adjustments to our GAAP forward-looking outlook, GAAP results for our three and nine months ended October 1, 2011, and prior period GAAP results is included in the tables that are part of Exhibit 99.1.
+Explanation of non-GAAP Results, included in Exhibit 99.1, includes an explanation of the ways management uses these non-GAAP measures and the reasons why management views these measures provide useful information for investors. However, non-GAAP financial information has limitations and should not be considered a substitute for, or superior to, financial measures prepared in accordance with GAAP.
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+Page 1 of 9
+ 
+Intel Corporation
+2200 Mission College Blvd.
+Santa Clara, CA 95054-1549
+ 
+CFO Commentary on Third-Quarter 2011 Results
+ 
+Summary
+Revenue in the third quarter was a record and it was our most profitable quarter ever. You can see the growth of our business by looking at a year to date comparison versus 2010. At the end of the third quarter our revenue of $40.1B was $7.9B dollars higher than the corresponding first three quarters of last year. From a market standpoint, the third quarter grew in line with historical seasonal patterns and demand drivers played out similar to the first half of the year with continued strength in emerging markets and enterprise, being offset partially by slower growth in the mature market consumer segment. Gross margin benefitted from seasonally higher volume, lower unit costs as we continue to ramp our 32nm factories, lower factory start-up costs as we started 22nm production, and lower charges related to the Cougar Point product issue from earlier in the year. Operating expenses remained in tight control in the third quarter, as spending as a percent of revenue declined quarter on quarter. Strong PC and Server demand, improving manufacturing costs and operational expense discipline led to record profitability in the third quarter of 2011. Additionally in the third quarter, we took advantage of low interest rates to take on debt for the primary purpose of buying back stock.
+As a result of the acquisitions of McAfee, Inc. and the Infineon wireless division in the first quarter, we will continue to provide Non-GAAP financial information in addition to GAAP for all of 2011 to provide additional visibility into operational results of the company. Excluding the impacts of deferred revenue write-down and associated costs, amortization of acquisition-related intangibles, and the related income tax effects of these changes, the third quarter results when compared to the third quarter from a year ago were the following:
+           Revenue of $14.3B* was up 29% from $11.1B
+           Gross Margin of 64.4%* was down 1.7 points, from 66.1%
+           Net income of $3.7B* was up 24% from $3.0B
+           Earnings per share of $0.69* was up 33% from $0.52
+ 
+Except as otherwise noted, the remainder of this document presents results and comparables on a GAAP basis.
+Revenue, net income and earnings per share were all records. Revenue of $14.2B, was up $1.2B and 9% sequentially, and $3.1B and 28% year-on-year. Gross margin dollars were $9.0B with gross margin percent at 63%. R&D and MG&A as a percent of revenue was 29%. Operating profit of $4.8B was up 22% sequentially and 16% from a year ago. Operating profit as a percent of revenue was 34%. Net income of $3.5B and earnings per share of $0.65 were up 17% and 25% respectively from a year ago.
+*Non-GAAP financial measure. See the explanation of non-GAAP measures and the reconciliation to the most directly comparable GAAP financial measure on pages 7-9
+ 
+ 
+ 
+ 
+Page 2 of 9
+Revenue
+Revenue of $14.2B was slightly better than expected, up 9% sequentially and 28% from a year ago. The third quarter saw notebook units grow in the double digits both year on year and sequentially, stronger than expected communications processor demand and continued data center strength. Platform** average selling prices were flat compared to the second quarter.  Inventory levels across the supply chain remained healthy as customers continued to tightly manage inventories.
+ 
+Intel Architecture Group third quarter revenue of $13.3B was up 9% sequentially and up 24% year over year:
+The PC Client Group had revenue of $9.4B, up 13% from the second quarter. Year over year, PC Client Group revenue was up 22%
+The Data Center Group had revenue of $2.5B, up 3% from the second quarter.  Year over year, Data Center Group revenue was up 15%.
+The other Intel architecture group had revenue of $1.4B, flat from the second quarter. Year over year, the other Intel architecture groups revenue was up 68%. The Intelligent Systems Group (formerly known as the Embedded and Communications Group) was down 1% from the second quarter and up 3% from a year ago. Intel Mobile Communications (IMC), formerly the Infineon wireless division, contributed $667M to the third quarter 2011 revenue.
+Intel Atom microarchitecture revenue, including microprocessors and associated chipsets, was $269M, down 24% from the second quarter and down 32% from the third quarter of 2010.
+The Software and Services Group had revenue of $541M, up 6% from the second quarter. Year over year, the Software and Services Group revenue was up 720%. McAfee, Inc. contributed $459M to the third quarter 2011 revenue.
+Gross Margin
+Gross margin dollars were $9.0B, up $1.1B from the second quarter.  Gross margin of 63.4% was 2.7 points higher than the second quarter and down 0.6 points compared to the midpoint of the Outlook provided in July.
+Gross Margin Reconciliation: Q211 to Q311(60.6% to 63.4%, up 2.7 points)
+[note: point attributions are approximate]
+Gross Margin Reconciliation: Q310 to Q311(65.9% to 63.4%, down 2.5 points)
+The decrease is primarily due to higher start up costs, acquisition related impacts, and higher platform** unit costs offset partially by higher platform** average selling prices and higher platform** volumes.
+**CPU and chipset, excluding IntelAtom microprocessors and chipsets
+ 
+ 
+ 
+ 
+Page 3 of 9
+Spending
+Spending for R&D and MG&A was $4.2B, up 7% from the second quarter and down approximately $150M from the Outlook provided in July. The increase from the second quarter is driven by increased research and development, primarily the reclassification of spending as process engineers moved from cost of sales to R&D, as well as revenue and profit dependent spending. R&D and MG&A as a percentage of revenue was 29.2%, down from the second quarter.  Depreciation was $1.3B, in line with expectations.
+Amortization of acquisition related intangibles was $76M, in line with expectations.
+Other Income Statement Items
+Gains and losses on equity investments and interest and other income was a net gain of $107M, higher than the $4M loss in the second quarter and in line with our Outlook of a $100M net gain.  Relative to the second quarter, the third quarter was higher due to gains on the sale of equity securities, partially offset by higher equity investment impairments.
+The provision for taxes in the third quarter was at a 29.1% tax rate, up from our forecast of 28% on higher profits coming from higher tax jurisdictions.
+Balance Sheet and Cash Flow Items
+Cash flow from operations in the third quarter was approximately $6.3B. On the balance sheet, total cash investments^^ ended the quarter at $15.2B, up $3.7B from the second quarter. During the third quarter, we paid approximately $1.1B in dividends, purchased $2.7B in capital assets, and repurchased $4.0B in stock. Additionally, we took on $5.0B of long term debt for the primary use of repurchasing stock. Total inventories were approximately flat.
+Other Items
+We added approximately 3.4K employees in the third quarter bringing the total number of employees to approximately 99.9K.
+Diluted shares outstanding decreased by 101M shares from the second quarter to 5.3B shares driven by second quarter and third quarter share repurchases. Diluted shares outstanding decreased by 354M shares from the third quarter a year ago. Diluted shares outstanding is calculated based on a weighted average of shares outstanding during the quarter. As a result, a portion of the $2.0B of second quarter share repurchases and a portion of the $4.0B of the third quarter share repurchases are reflected in our third quarter weighting for diluted shares outstanding. The full impact of our third quarter repurchases will be included in our fourth quarter diluted shares outstanding.
+The Board of Directors increased the authorization limit for share repurchases by an additional $10 billion, bringing the total outstanding buyback authorization to $14.2 billion leaving the third quarter.
+^^ Cash and cash equivalents, short-term investments, and marketable debt instruments included in
+     trading assets
+ 
+ 
+ 
+Page 4 of 9
+Q4 2011 Outlook
+The outlook for the fourth quarter does not include the effect of any acquisitions, divestitures or similar transactions that may be completed after October 18th. The mid-point of the forecast ranges will be referred to when making comparisons to specific periods.
+Revenue
+Revenue is expected to be $14.7B, plus or minus $500M in the fourth quarter. The midpoint of this range is up 28% from a year ago and up 3% from the third quarter which is below our normal seasonal range. On a Non-GAAP basis, excluding certain acquisition-related accounting impacts, the revenue forecast is also $14.7B, plus or minus $500M in the fourth quarter.
+Gross Margin
+Gross margin in the fourth quarter is expected to be 65%, plus or minus a couple points.
+Gross Margin Reconciliation: Q311 to Q411 Outlook (63.4% to 65% +/- a couple points)
+[note: point attributions are approximate]
+Page 5 of 9
+On a Non-GAAP basis, excluding certain accounting impacts and expenses related to acquisitions, primarily the amortization of acquisition-related intangibles, Q411 gross margin is forecasted to be approximately 66% +/- a couple points.
+Spending
+Spending for R&D and MG&A in the fourth quarter is expected to be approximately $4.3B, up from $4.2B in the third quarter, primarily driven by increased research and development investments, and profit dependent spending, offset partially by lower marketing. Depreciation is forecasted to be approximately $1.4B, up from the third quarter.
+Amortization of acquisition-related intangibles is forecasted to be approximately $75M.
+Other Income Statement Items
+Gains and losses from equity investments and interest and other income are expected to be a net loss of approximately $30M, compared to a net gain of $107M in the third quarter.
+The tax rate for the fourth quarter is expected to be 28%.
+Capital Spending
+The capital spending forecast for 2011 is unchanged at $10.5B, plus or minus $300M.
+** CPU and chipset, excluding Intel Atom microprocessors and chipsets
+ 
+ 
+ 
+ 
+ 
+ 
+Risk Factors
+ 
+ 
+The above statements and any others in this document that refer to plans and expectations for the fourth quarter, the year and the future are forward-looking statements that involve a number of risks and uncertainties. Words such as anticipates, expects, intends, plans, believes, seeks, estimates, may, will, should, and their variations identify forward-looking statements.  Statements that refer to or are based on projections, uncertain events or assumptions also identify forward-looking statements.   Many factors could affect Intels actual results, and variances from Intels current expectations regarding such factors could cause actual results to differ materially from those expressed in these forward-looking statements. Intel presently considers the following to be the important factors that could cause actual results to differ materially from the companys expectations.
+ 
+ 
+ 
+Page 6 of 9
+A detailed discussion of these and other factors that could affect Intels results is included in Intels SEC filings, including the report on Form 10-Q for the fiscal quarter ended July 2, 2011.
+ 
+ 
+ 
+Page 7 of 9
+ 
+ 
+ 
+ 
+ 
+Page 8 of 9
+ 
+ 
+ 
+ 
+Page 9 of 9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

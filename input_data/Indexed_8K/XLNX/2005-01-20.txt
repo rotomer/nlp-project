@@ -1,0 +1,167 @@
+FILE:XLNX/XLNX-8K-20050120162117.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Item 2.02. Results of Operations and Financial Condition
+ 
+On January 20, 2005, Xilinx, Inc. issued a press release announcing results for the quarter ended January 1, 2005.  A copy of this press release is furnished as Exhibit 99.1 to this report.
+ 
+Financial Statements and Exhibits:
+Item 9.01
+                                            
+ 
+(c)  Exhibits
+                               
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+ 
+Investor Relations Contact:
+Lori Owen
+Xilinx, Inc.
+(408) 879-6911
+ir@xilinx.com
+ 
+XILINX ANNOUNCES RESULTS FOR THIRD QUARTER OF FISCAL 2005
+ 
+SAN JOSE, CA, JANUARY 20, 2005
+ Xilinx, Inc. (Nasdaq: XLNX) today announced revenues of $355 million in the third quarter of fiscal 2005, a sequential decrease of 12% from the prior quarter and a decrease of 3% from the same quarter a year ago.  Net income was $64 million or $0.18 per diluted share including a $3.1 million charge relating to impairment losses on investments as well as a $5.5 million tax benefit associated primarily with a recent IRS settlement.  This compares to net income of $69 million and $0.19 per diluted share in the prior year.
+ 
+Xilinx also announced today that the Company's Board of Directors declared a quarterly cash dividend of $0.05 per outstanding share of common stock, payable on March 2, 2005 to all stockholders of record at the close of business on February 16, 2005.
+ 
+Additional fiscal third quarter comparisons are represented in the chart below.
+ 
+Quarterly Information
+(In millions, except EPS)
+ 
+ 
+Excess inventory levels at end customers led to weaker than expected orders during the quarter, particularly in the telecom sector.  Sales from communications customers decreased 22% sequentially and represented 47% of total revenues, down from 53% last quarter.  All geographies declined sequentially.
+ 
+"It was a challenging quarter for Xilinx and the PLD industry," said Wim Roelandts, Xilinx's Chairman and CEO.  "However, I remain encouraged by our solid new product execution which has enabled us to introduce an unprecedented number of devices during the last six months.  Additionally, as we exit 2004, I expect Xilinx to capture PLD market segment share for the seventh consecutive calendar year."
+ 
+Business Review  December Quarter FY05
+ 
+Xilinx generated $73 million in cash flow from operations.
+ - 
+                 
+Total inventory days at Xilinx and distribution were 174 days, up from 156 days last quarter.
+ - 
+                 
+Accounts receivables days sales outstanding were 39, down from 46 in the prior quarter.
+ - 
+                 
+Capital expenditures and depreciation were $15 million and $13 million, respectively.
+ - 
+                 
+ 
+Revenue by Geography:
+ 
+ 
+Revenue by End Market*:
+ 
+ 
+*In order to provide more detailed end market information going forward, Xilinx is splitting the category formerly called "Consumer, Industrial & Other" into two components:  "Consumer & Automotive" and "Industrial & Other".  Historical comparisons are not available for these two categories.
+ 
+Revenue by Product*:
+ 
+ 
+*Products are classified as follows:
+ 
+and CoolRunner II products
+New products:  Virtex-4, Virtex-II Pro, Spartan-IIE, Spartan-3, Easypath
+-
+Mainstream products: Virtex-II, Spartan-II, SpartanXL, CoolRunner, Virtex-E and Virtex products
+XC4000XL, XC4000XLA, XC4000XV, XC4000E, XC4000EX, XC5200, XC9500, XC9500XL, XC9500XV and Spartan products
+Base products: XC3000, XC3100, XC4000,
+, Software & Support/Services
+Support products: Configuration solutions, HardWire
+ 
+Product Highlights:
+ 
+Xilinx delivered its fifth 90nm, Virtex-4 device to customers in the December quarter, ahead of schedule.  Devices from all three domain-optimized Virtex-4 families have now shipped.  Two of these families, the SX and FX, provide industry-leading DSP and embedded processing capabilities that are currently unavailable in competitive offerings.  Xilinx expects to ship eight additional Virtex-4 devices in the March quarter.
+ - 
+                 
+Xilinx continues to lead the industry in 90nm shipments.  With eight Spartan-3 and five Virtex-4 family members shipping, Xilinx has a significant competitive lead in 90nm manufacturing.  Also during the quarter, Xilinx began shipping the 90nm Spartan-3L family, which is aimed at low power applications.  The industry's lowest power FPGAs, this family delivers a 98% reduction in static power.
+ - 
+                 
+ 
+For the fourth year in a row, Xilinx placed in the top ten of FORTUNE Magazine's annual listing of "100 Best Places to Work For," ranking highest among all technology electronics companies.  A culture of innovation was cited by the magazine as a key reason for the number 5 ranking this year.
+ - 
+                 
+ 
+Business Outlook  March Quarter FY05
+ 
+Revenues expected to be up 1%-5% sequentially.
+ - 
+                 
+Gross margin expected to be approximately 62%.
+ - 
+                 
+Operating expenses expected to be flat sequentially.
+ - 
+                 
+Other income expected to be approximately $8 million.
+ - 
+                 
+Tax rate expected to be 22%.
+ - 
+                 
+Fully diluted share count expected to approximate 359 million shares.
+ - 
+                 
+ 
+Business Update  March Quarter FY05
+ 
+A fourth quarter business update will be issued in the form of a press release after the market closes on Tuesday, March 8, 2005.  Financial guidance to the investment community will be limited to the points mentioned in the business update document.  Please sign up for a push email alert, which is available from our investor relations web site at http://www.investor.xilinx.com.
+ 
+This release contains forward-looking statements and projections. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, potential impact to customer ordering patterns, customer acceptance of our new products, the ability of our customers to manage their inventories, a high dependence on turns business, higher-than-anticipated product delinquencies, more customer volume discounts than expected, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to secure meaningful wafer capacity from our suppliers, our ability to successfully manage production at multiple foundries, currency fluctuations and their respective impact to customer purchasing power, variability in wafer pricing, and other risk factors listed in our most recent Form 10K.
+ 
+About Xilinx
+ 
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available athttp://www.xilinx.com.
+ 
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(In thousands, except per share amounts)
+ 
+ 
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+ 
+ 
+(1) Derived from audited financial statements
+ 
+ 
+Xilinx, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+(In thousands)
+ 
+ 
+
+

@@ -1,0 +1,98 @@
+FILE:MU/MU-8K-20080423125019.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+           Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+           Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+           Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+           Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4c))
+o
+ 
+ 
+ 
+On April 21, 2008, Micron Technology, Inc. (the Company or Micron) and Micron Semiconductor, B.V. (MNL), a wholly-owned subsidiary of Micron, entered into various agreements with Nanya Technology Corporation (NTC) relating to the formation and operation of a joint venture corporation (MeiYa) that will manufacture stack DRAM products and sell such products exclusively to Micron and NTC.  Upon the satisfaction of customary closing conditions, MNL and NTC will each contribute 1.2 billion New Taiwan dollars (NT$) (which is expected to be approximately equivalent to US$40 million) in cash to MeiYa, whereupon MNL and NTC will each own 50% of MeiYa.  MeiYa will lease a fabrication facility from NTC and, after upgrading the facility to process 300mm DRAM wafers, will begin manufacturing stack DRAM products.  Micron and NTC will purchase all of the output of MeiYa generally in proportion to their relative direct or indirect ownership in MeiYa.
+In addition to the foregoing, Micron will transfer to MeiYa certain intellectual property relevant to the manufacture of stack DRAM products, will transfer and license to NTC certain intellectual property relevant to the manufacture of stack DRAM products and will license from NTC certain intellectual property.  Micron will receive transfer fees for such intellectual property transfers to NTC and MeiYa and will also be entitled to receive royalties from NTC.  The net impact of such transfer fees and royalties is expected to approximate one-half of Microns current DRAM research and development expenditures.  Micron and NTC also will jointly develop process technology and designs for manufacturing stack DRAM products.
+Set forth below are brief descriptions of the material agreements related to the formation and operation of MeiYa, the transfers and licenses of intellectual property and the operation of the joint development program.
+Master Agreement
+Micron and NTC entered into a Master Agreement (the Master Agreement), which recognizes that certain agreements have been, and provides that, upon the satisfaction or waiver of customary closing conditions, certain other agreements will be, entered into in connection with the establishment and operation of MeiYa, the transfers and licenses of intellectual property and the operation of the joint development program.  These agreements, which will govern the rights and obligations of each of Micron, MNL, NTC and MeiYa, include, but are not limited to, a joint venture agreement between MNL and NTC, a guaranty agreement by Micron for the benefit of NTC, a supply agreement among Micron, NTC and MeiYa, a joint stack DRAM process technology and product design development agreement between Micron and NTC, various technology transfer and licensing agreements among Micron, NTC and MeiYa, and a non-suit agreement between Micron and NTC.
+Joint Venture Agreement
+MNL and NTC entered into a Joint Venture Agreement (the Joint Venture Agreement) that will be effective at the closing of the transaction, which will occur upon the satisfaction or waiver of customary closing conditions. The Joint Venture Agreement will govern the rights and obligations of the parties in connection with the operation of MeiYa.
+Pursuant to the Master Agreement and the Joint Venture Agreement, MNL and NTC will each contribute NT$ 1.2 billion (which is expected to be approximately equivalent to US$40 million) in cash to MeiYa at the closing of the joint venture transaction.  As a result of these contributions, MNL and NTC will each own 50% of MeiYa.  The parties have each committed to contribute the NT$ equivalent of an additional US$510 million prior to December 31, 2009.
+The parties will initially appoint an equal number of directors to the Board of Directors of MeiYa. The number of directors appointed by each party adjusts depending upon the parties ownership interest in MeiYa.  Actions to be authorized by the Board of Directors will require approval by a supermajority vote.  Subject to certain terms and conditions, NTC and MNL will each appoint an executive officer, which officers will serve at the pleasure of the Board of Directors.
+The Joint Venture Agreement provides that Micron and NTC will purchase all of the output of MeiYa generally in proportion to their relative direct or indirect ownership in MeiYa. The Joint Venture Agreement also imposes certain restrictions on the transfer by the parties of shares in MeiYa.
+The Joint Venture Agreement contains buy/sell arrangements in the event of: (i) a failure by one of the parties to contribute the capital required by the Joint Venture Agreement, (ii) breach by a party of the terms of the Joint Venture Agreement, (iii) deadlock between the parties after following the procedures set forth in the Joint Venture Agreement, and (iv) one partys ownership in MeiYa falling below certain thresholds relative to the other partys ownership.
+Micron Guaranty
+Micron and NTC have entered into a Micron Guaranty Agreement pursuant to which Micron guarantees, for the benefit of NTC, MNLs performance under the Joint Venture Agreement.
+Supply Agreement
+At the closing of the joint venture transaction, MeiYa will enter into a Supply Agreement with Micron and NTC (the Supply Agreement) pursuant to which MeiYa will sell to Micron and NTC all of the stack DRAM products manufactured by MeiYa.  Micron and NTC will have the same rights in all material respects under the Supply Agreement except for the percentage of MeiYas output to be purchased, which will be consistent generally with the parties relative direct or indirect ownership position in MeiYa.  Each of Micron and NTC initially will be allocated 50% of the output of MeiYa.  Generally, the Supply Agreement will continue for up to 12 months following a buy-out under the Joint Venture Agreement.
+Joint Development Program Agreement
+Micron and NTC have entered into a Joint Development Program Agreement (the JDP Agreement) pursuant to which the parties will jointly develop process technology for the manufacture of stack DRAM products and designs for stack DRAM products.  Absent the occurrence of certain early termination events, the JDP Agreement will remain in effect for at least 10 years.
+All inventions conceived in connection with the joint development program will be either divided between the parties pursuant to mechanisms set forth in the JDP Agreement or will be jointly owned by the parties.
+Research and Development under the JDP Agreement will be conducted jointly by the parties.  After the research and development costs exceed a specified amount, those costs will be shared approximately equally by the parties.  It is expected that such sharing will begin in approximately two years.
+Technology Transfer and License Agreement for 68-50nm Process Nodes
+Micron and NTC have entered into a Technology Transfer and License Agreement for 68-50nm Process Nodes, pursuant to which Micron will transfer to NTC certain information and deliverables relating to technologies for the manufacture of stack DRAM products on 68nm and 50nm process nodes and licenses to NTC the right to use such transferred technologies for specified purposes.
+Technology Transfer and License Agreement
+Micron and NTC have entered into a Technology Transfer and License Agreement, pursuant to which Micron is licensing to NTC the right to use additional technologies relating to the manufacture of stack DRAM products for specified purposes, including relating to the manufacture of stack DRAM products on nodes of less than 50nm.  In addition, under this agreement NTC is licensing to Micron the right to use technologies relating to DRAM products for certain specified purposes.  NTC will pay Micron royalties for its license from Micron.
+Technology Transfer Agreement for 68-50nm Process Nodes
+At the closing of the joint venture transaction, Micron and MeiYa will enter into a Technology Transfer Agreement for 68-50nm Process Nodes, pursuant to which Micron will transfer to MeiYa certain information and deliverables relating to technology for the manufacture of stack DRAM products on 68nm and 50nm process nodes.
+Technology Transfer Agreement
+At the closing of the joint venture transaction, Micron, NTC and MeiYa will enter into a Technology Transfer Agreement, pursuant to which Micron and NTC will transfer to MeiYa certain information and deliverables relating to technology for the manufacture of stack DRAM products on process nodes of less than 50nm that are developed pursuant to the JDP Agreement.
+This Current Report on Form 8-K contains forward-looking statements regarding transfer fees and royalties received by Micron and the formation, operation and funding of MeiYa.  Actual events or results may differ materially from those contained in the forward-looking statements.  Among the factors that could cause actual results to vary are changes in Microns and s  ability and commitment to contribute cash or assets to MeiYa; the the timing and execution of the manufacturing ramp and the manufacturing yields at MeiYa; disruptions in MeiYa supply of necessary raw materials, utilities or other infrastructure; the ability of Micron and and their subsidiaries to integrate the management and operations of MeiYa In addition, please refer to the documents Micron files on a consolidated basis from time to time with the Securities and Exchange Commission, specifically Microns most recent Form 10-K and Form 10-Q.  These documents contain and identify important factors that could cause the actual results for Micron on a consolidated basis to differ materially from those contained in our forward-looking statements (see Certain Factors).  Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements.  We are under no duty to update any of the forward-looking statements after the date of this report to conform to actual results.
+NTC
+timing and success of the facility upgrade by MeiYa to 300mm; difficulties associated with the transfer and implementation of technology to MeiYa;
+  equipment,
+NTC
+in a cost efficient manner.
+ 
+ 
+2
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+3
+ 
+ 
+ 4
+ 
+
+ 
+ 
+EXHIBIT 99.1
+FOR IMMEDIATE RELEASE
+ Micron Technology, Inc., one of the world's leading providers of advanced semiconductor solutions, and Nanya Technology Corporation, a global leader in advanced memory semiconductors, announced today that the two companies have signed an agreement to create MeiYa Technology Corporation, a new DRAM joint venture.
+BOISE, Idaho, and TAIPEI, Taiwan, April 21, 2008
+ 
+The partnership will leverage both Micron and Nanyas manufacturing technology, strengths and experience. As part of the joint venture, a 200 millimeter (mm) Nanya manufacturing facility in Taiwan will be upgraded to industry-leading 300mm technology starting this year, with the facility coming online for production in 2009. In addition to MeiYa, the parties will jointly develop and share future technology.
+ 
+Both parent companies will own 50 percent of the joint venture initially, and each will contribute USD $550 million in cash by the end of 2009. The transaction is subject to customary closing conditions, including regulatory approval in Taiwan, and is expected to close within the next few months.
+ 
+This partnership brings greater scale and efficiency to the DRAM manufacturing operations of both parent companies, and Micron is pleased to officially enter into this joint venture with Nanya, said Mark Durcan, Microns President and Chief Operating Officer.
+ 
+We are sure that MeiYa will demonstrate the synergistic combinations of Nanya and Microns strength in the DRAM industry, said Dr. Jih Lien, Nanyas President. Nanya has a very high expectation for this new entity.
+ 
+About Micron
+ 
+Micron Technology, Inc. is one of the world's leading providers of advanced semiconductor solutions. Through its worldwide operations, Micron manufactures and markets
+DRAMs, NAND flash memory, CMOS image sensors, other semiconductor components, and memory modules for use in leading-edge computing, consumer, networking, and mobile products. Micron's common stock is traded on the New York Stock Exchange (NYSE) under the MU symbol. To learn more about Micron Technology, Inc., visit .
+www.micron.com
+ 
+About Nanya
+ 
+Nanya Technology Corporation, a member of the Formosa Plastics Group, is a global leader in advanced memory semiconductors, focusing on research and development, design, manufacturing, and sales of DRAM products. NTCs common stock is traded on the Taiwan Stock Exchange Corporation (TSEC) under the 2408 symbol. The company currently owns two 200mm fabrication facilities and one 300mm fabrication facility in Taiwan. The company also has a 300mm joint venture, Inotera Memories, Inc., which operates two 300mm fabrication facilities in Taiwan. Further information is available at .
+http://www.ntc.com.tw
+Micron and the Micron orbit logo are trademarks of Micron Technology, Inc. All other trademarks are the property of their respective owners.
+This document contains forward-looking statements that involve risks, uncertainties and assumptions. If any of these risks or uncertainties materializes or any of these assumptions proves incorrect, the parties may be unable to consummate the transactions contemplated by the memorandum of understanding and the results of Micron, Nanya and their respective consolidated subsidiaries could differ materially from those express or implied by such forward-looking statements. The parties are under no duty to update any of the forward-looking statements after the date of this press release.
+All statements other than any statements of historical facts are statements that could be deemed forward looking statements. The risks, uncertainties and assumptions referred to above include the ability of the parties to negotiate mutually acceptable definitive agreements, the timing of signing any such agreements, the implementation of a joint development program, the formation of a joint venture and the potential timing of the Nanya facility upgrade.
+ 
+ 
+ 
+
+

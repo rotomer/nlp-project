@@ -1,0 +1,244 @@
+FILE:TXN/TXN-8K-20111212151158.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITEM 2.02.  Results of Operations and Financial Condition
+ 
+On December 8, 2011, Texas Instruments Incorporated (TI) held a previously announced conference call and webcast to discuss TIs update to its outlook for the fourth quarter of 2011.  A copy of the transcript for the call and webcast is attached hereto as Exhibit 99.
+ 
+ITEM 9.01.  Exhibits
+ 
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995:
+ 
+ 
+This report includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995.  These forward-looking statements generally can be identified by phrases such as TI or its management believes, expects, anticipates, foresees, forecasts, estimates or other words or phrases of similar import.  Similarly, statements herein that describe TIs business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements.  All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+ 
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or its management:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For a more detailed discussion of these factors, see the Risk Factors discussions in Item 1A of TIs most recent Form 10-K, Item 1A of TIs Form 10-Q for the quarter ended June 30, 2011 and Item 1A of TIs Form 10-Q for the quarter ended September 30, 2011.  The forward-looking statements included in this report on Form 8-K are made only as of the date of this report, and we undertake no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+ Exhibit 99
+The following is a transcript of the conference call and webcast held by Texas Instruments Incorporated (TI) December 8, 2011 to discuss an update to its outlook for the fourth quarter of 2011.
+PARTICIPANTS
+Corporate Participants
+ Vice President-Investor Relations
+Ron Slaymaker
+Other Participants
+ Analyst, UBS Securities LLC
+Uche Orji
+ Analyst, Macquarie Capital (USA), Inc.
+Shawn R. Webster
+ Analyst, Bank of America Merrill Lynch
+Vivek Arya
+ Analyst, Goldman Sachs & Co.
+James V. Covello
+ Analyst, Jefferies & Co., Inc.
+Mark J. Lipacis
+ Analyst, Stifel, Nicolaus & Co., Inc.
+Tore E. Svanberg
+ Analyst, JPMorgan Securities LLC
+Chris B. Danely
+ Analyst, Credit Suisse (United States)
+John W. Pitzer
+ Analyst, Caris & Co., Inc.
+Craig A. Ellis
+MANAGEMENT DISCUSSION SECTION
+Operator: Good day and welcome to the Texas Instruments Fourth Quarter 2011 Mid-Quarter Update Conference Call.
+At this time, I would like to turn the conference over to Mr. Ron Slaymaker. Please go ahead, sir.
+Ron Slaymaker, Vice President-Investor Relations
+Good afternoon and thank you for joining TIs mid-quarter financial update for the fourth quarter of 2011. In a moment, I will provide a short summary of TIs current expectations for the quarter, updating the revenue and EPS estimate ranges for the company. In general, I will not provide detailed information on revenue trends by segments or end markets and I will not address details of profit margins. In our earnings release at the end of the quarter, we will provide this information.
+As usual, with our mid-quarter update, we will not be taking follow-up calls this evening. Considering the limited information available at this point in the quarter and in consideration of everyones time, we will limit this call to 30 minutes. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is broadcast live over the web and can be accessed through TIs website. A replay will be available through the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TIs results to differ materially from managements current expectations. We encourage you to review the Safe Harbor Statement contained in the news release published today, as well as TIs most recent SEC filings for a more complete description.
+We have narrowed and lowered our expected ranges for TIs revenue and earnings from our previous ranges. We now expect TI revenue between $3.19 billion and $3.33 billion. We expect earnings per share between $0.21 and $0.25. The reductions are due to broadly lower demand across a wide range of markets, customers and products, except for wireless applications processors.
+Operator, you can now open the line for questions. In order to provide as many of you as possible the opportunity to ask a question, please limit yourself to a single question. I will provide you the opportunity to ask a follow-up question.  Operator?
+QUESTION AND ANSWER SECTION
+Operator: [Operator Instructions] And well go first to Uche Orji with UBS.
+Thank you very much. Ron, can I just ask you if there are any one-time items that may have impacted the EPS, the way it did relative to revenue downgrade?
+<Q  Uche Orji  UBS Securities LLC>:
+Uche, are you asking specifically about why it seems like EPS moves...
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+That is correct.
+<Q  Uche Orji  UBS Securities LLC>:
+...down disproportionate to the revenue?
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Yes.
+<Q  Uche Orji  UBS Securities LLC>:
+I dont know that I would say  actually, there are some one-time items. Let me kind of walk through that transition in general if I can.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+First of all, I would say, mix is unfavorable. And if you think about it, we actually havent talked yet about product areas per se, but what I would say is, were seeing downside versus our expectations in some of the more profitable areas, such as communications infrastructure and some of the catalog, Analog and Embedded Processing product areas while at the same time, were seeing upsides in Wireless. So that mix shift is unfavorable to profit margins, and therefore EPS.
+I think also impacting us this quarter is utilization. With revenue down more than we had initially expected, weve also further reduced production loadings to avoid building excess inventory. And so as a result, the underutilization expense will be higher this quarter, therefore further pressuring profit margins compared to last quarter.
+And then finally, maybe to the point you had initially asked, we will have higher acquisition-related expenses by about $20 million, which is about $0.01 per share higher than what we had previously expected.
+Do you have a follow-on, Uche?
+Yes, I do. Thank you very much for that. Now, in terms of the, what changed between the last earnings call and now, obviously we know the macro has continued to weaken, but, in terms of the expectation that we were seeing a bottoming process forming, are you still willing to stand by that comment, even though youve had to lower now? If I had to recalibrate how you view things from here onwards in respect to earlier comments from your last earnings call, how shall I think about it?
+<Q  Uche Orji  UBS Securities LLC>:
+Okay, so lets start with the, what changed. And again, as I said in my opening remarks, the weakness really is pretty broad-based with the exception of Wireless. So revenue in our Analog, Embedded Processing and Other segments is weaker than we had originally expected. If you look at it by end market, communications infrastructure is exceptionally weak. Really thats being driven by UMTS-based systems in North America as those couple of carriers await the outcome of their proposed merger.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Industrial markets also remain weak and I would say, in that space, we have both customers and distributors seemingly pushing component inventory levels just to very low levels. In the computing space, computing overall is down with declines at storage or hard disk drive customers especially exacerbated by the flooding in Thailand. And then consumer product areas, such as televisions and video games, are also weak this quarter.
+I mentioned the one bright spot is Wireless, and there, our OMAP revenue is doing very well this quarter. Just as a reminder, were now seeing the benefit of customer programs that have ramped into production using our latest OMAP 4 processor, those customer programs include Samsungs Nexus smartphone, which is our first production program based on Googles Ice Cream Sandwich reference design; Samsungs Galaxy S II smartphone; Motorolas DROID BIONIC and RAZR smartphones; LGs Thrill smartphone with its 3D playback and capture feature; and then most recently, the Amazon Fire tablet and the Barnes & Noble NOOK tablet are both based upon OMAP 4.
+And then probably the final end market area that I would mention is automotive, and there, I would describe that sales into automotive applications, we would expect this quarter to be about flat sequentially, which was really about as we had expected.
+So thats really what changed, Uche, and thank you for your question. And well move to the next caller.
+Operator: Thank you. Well go next to Shawn Webster with Macquarie.
+Yeah. Thank you. I was wondering if you could add some color if you could on the order linearity. When did  did you see cancellations and push-outs? Or is it just turns didnt come in as expected? And how did orders progress month by month for the quarter so far? Thank you.
+<Q  Shawn Webster  Macquarie Capital (USA), Inc.>:
+Okay. Shawn, I would say, orders, total orders will likely decline some from the third quarter level. This decline includes the seasonal impact from calculators as well as what I would just characterize as lumpiness in baseband. If we just look at our semiconductor products and pull out baseband because of that lumpiness I would say orders there have generally been moving sideways since the significant drop that we saw in the month of July and that we talked about in our October call. Theyve been kind of noisy from a month-to-month basis but the overall trend has been flattish since that period.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Do you have a follow-on, Shawn?
+Yes. Just on inventories, I was wondering if you could hazard a guess if you think your OEM and your distribution customers are burning inventory now or what your visibility there is?
+<Q  Shawn Webster  Macquarie Capital (USA), Inc.>:
+Clearly reducing inventory, so  and I would say really in both fronts. The distribution, we obviously see that data most clearly because we just know what distributors are carrying and they are continuing to take inventories down. I would say they have inventories down to very low levels. Then our belief is that at the OEM customers inventory is being reduced and that in fact were under-shipping those customers production levels.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Okay, Shawn, thank you for your questions. Well move to the next caller.
+Operator: Thank you. Well go next to Vivek Arya with Bank of America Merrill Lynch.
+Thanks for taking my question. Ron, I have actually a longer-term question. In the past year youve added a significant amount of capacity and I understand these are not short-term decisions, but structurally are there actions that you can take to limit downside if macro remains somewhat weak for the next one or two quarters also?
+<Q  Vivek Arya  Bank of America Merrill Lynch>:
+You mean specifically in terms of shutting down some of that capacity?
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Yes. Because gross margins have taken a big hit over the last several quarters and Im trying to understand how you can sort of limit downside from here given that the visibility is still somewhat weak out there.
+<Q  Vivek Arya  Bank of America Merrill Lynch>:
+Vivek, I would just say thats not in our plans. Obviously there are a lot of options we could do, but especially given our view that were under-shipping demand. Therefore when customers are through with their inventory correction we will be seeing growth even if there is no growth in end demand or inventory replenishment, just as we move back to the customers production levels. So, in that environment and especially considering the low carrying costs of the capacity that we have on board, we have no intention to take any of that, especially the new capacity that weve been bringing on, and doing anything other than fill it up over the course of time.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Did you have a follow-on, Vivek?
+Yes, so one more. You mentioned that you were under-shipping demand. So, if you look at historical trends, how long can that situation persist, i.e., is Q4 a bottom? Is Q1 a bottom? How do we get a sense for that, based on what you have seen in similar situations before?
+<Q  Vivek Arya  Bank of America Merrill Lynch>:
+Okay, sure. And I think this ties somewhat back to the question Uche asked me that I hadnt gotten to specifically, which is, do we still believe that were in this, a bottoming process, the downturn? And the answer is, we do. So, what we look at first of all is, the inventory levels of TI chips at customers and distributors are now very low. And as I said before, we believe were under-shipping demand. So just to reiterate, at some point, customers will have to stop reducing inventory. And when that happens, our revenue will grow as our shipments increase to match the customers production levels, even if theres no growth in end demand or replenishment of inventory.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+And for anybody thats watched this industry cycle over the course of time, you fully understand that once you start to get in that process and customers regain confidence in their own outlook, the next phase is, they will typically then layer in additional inventory as well. The customers historically have not forecast these snap-backs in their demand, and instead they rely on short product lead times to support their increased demand. We think we are very well positioned, both with our inventory as well as our short lead times, to support that inevitable increase in demand. And the other thing that I would point to, which I had mentioned earlier, is just the stability, you might say, in terms of the orders took a step down in the month of July, but they have generally been flattish since that time, which is to us indicative of a bottoming process as well.
+I dont have an exact time period, is it this quarter, is it next quarter as to when that snap back could occur. Historically if you look at semiconductor inventory corrections, the response time generally results in a couple of quarters of inventory burn and thats just looking at history, but well have to see what this one holds. I guess I would say that we continue to be encouraged that were in the bottoming process, even though demand was a little weaker than what we had initially expected this quarter.
+Okay, Vivek, I believe that was your follow-up. Well move to the next caller please.
+Operator: Well go next to Jim Covello with Goldman Sachs.
+Great. Thanks, Ron. Thanks so much for taking the question. I guess first question is, kind of strategically, with all the strategic fab capacity that you guys have, how do you think about using that in this kind of environment, or maybe even more specifically as things start to bounce back a little bit? Do you try to be a little bit more aggressive on pricing to pick up a little bit of that incremental bump in business that youll see as customers start to normalize the order patterns? Or is it more important you keep pricing pretty steady and try to get the margins back to a more healthy level?
+<Q  James Covello  Goldman Sachs & Co.>:
+Well margins will return to more normalized levels just as we fill that capacity up. So...
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Sure.
+<Q  James Covello  Goldman Sachs & Co.>:
+...my view is that probably doesnt tie so much to pricing and just a matter of as we ship more units and therefore amortize that what currently is an underutilization expense, that will do good things for margins.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Youve heard us say many times in the past that for the most part the proprietary product lines that we sell tend to be more spec elastic versus price elastic, so even though were aggressive in pursuing new opportunities, we tend to do it based on the product specifications that were offering, the support package, the applications engineering, as opposed to thinking that somehow if we drop a couple cents off the price, that somehow that would make a difference in the demand that we actually see.
+So, again we tend not view price. Although, I will also say we recognize we have to be competitive on price and I think we have a cost structure that allows us to be competitive with any competitor in the world. So, again I think of it this way for our sales people, price is not an excuse for them to lose a piece of business, but nor is it the reason they should win a piece of business. We want to be competitive on price but we win the business based on other considerations.
+Do you have a follow-on, Jim?
+Yes. This question is specifically about analog. I understand theres a lot of program ramps and design wins and share gains in apps processors, but relative to the analog piece of the business when is it fair for us to measure your share gain story again? In other words, it is always difficult in the downturn to say well, theyre not gaining any share in a downturn, but when is it going to be fair for us to say look at your revenue share of the industry versus your revenue share in a previous period of the cycle and to determine whether the share gain story is playing out?
+<Q  James Covello  Goldman Sachs & Co.>:
+Jim, I dont know that its not fair to look at it in a downturn. I mean we look at it every quarter. Now, we dont overreact to any particular data point but I think the right way to do it is to sample it quarterly and we ask ourselves the question if theres a quarter where we believe we underperformed we ask ourselves why, and frankly you guys should be asking us why as well. Sample it quarterly. The best way to make this story work over the long-term is to make sure it works every quarter.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+At the same time maybe in a downturn like this you may see more strategic long-term moves in terms of share from the standpoint of gaining position at customers on new design programs and things like that more so than the difference show up in revenue that particular quarter. But again, every quarter absolutely counts.
+Okay, Jim, and well move to the next caller. Thank you.
+Operator: Thank you. Well go to Mark Lipacis with Jefferies.
+Thanks for taking my question. Ron, you said on your October quarter call I believe that you said that the distributor inventories were at six weeks and that was at normal levels. It sounds like theyre lower now. Given that you have pretty clear visibility there can you quantify where they are now? Or at least talk qualitatively about how close they are relative to where they were at the depths of the financial crisis?
+<Q  Mark Lipacis  Jefferies & Co., Inc.>:
+I dont want to try to quantify where distributors are right now until the end of the quarter, Mark, but I think your interpretation of what were saying is correct that distributor inventory is going down this quarter. In fact, maybe if I can just comment on distribution overall, but make some specific inventory comments. If you just look at resales we would expect resales from distribution to decline compared to the third quarter although at this point, it looks like theyll decline a little less than TIs revenue would overall if we take the National, or the SVA revenue, out just because we only had it for, what, a week last quarter.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Inventory distributors we expect to be down by a double-digit percentage at this point. And again, thats compared with the third quarter. Although Ill also say that that includes inventory returns from a discontinued National distributor. And so the returns from that distributor probably will contribute maybe a couple  few points of the decline in and of itself. But even without that you can see theres a pretty sharp decline in distributor inventory levels.
+Just one data point that I saw that Ill pass on almost anecdotally. If you look at inventory for products that we would characterize as specific to the industrial market, just in the last couple of quarters, inventory of those products at distributors has been cut in half. Again the distributors are moving pretty aggressively in terms of reducing inventory. And we all have to watch it, because demand can come back pretty quickly. Again call it the buffer, where we feel comfortable with that, is that inside TI our own inventory we think were pretty well-positioned. So distributors are tightening up somewhat, but we feel that we have enough buffer inside TI to be able to respond as business comes back again.
+Do you have a follow-on, Mark?
+Yes, please. Thank you. Thanks for that detail. In trying to model the cash flow for next year, I guess I have to believe that front-end CapEx will be at maintenance levels. And then you may or may not have to get back-end equipment. One, is that a fair way to think about it? And two, could you give us a sense of what is like a maintenance level of CapEx?
+<Q  Mark Lipacis  Jefferies & Co., Inc.>:
+Maybe one way to look at it overall, Mark, is I think historically weve guided that we would expect our CapEx to range somewhere between 5% to 8% of revenue. As you pointed out, with the capacity additions weve made, and over the past couple of years, I think its fair to  we clearly have pulled in capital spending from future years. We dont need to spend a lot on front-end capacity. And therefore, we would expect to be at the lower end of that range, kind of what you said, both maintenance on the front end and then additions to assembly/test.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+But what I would say is, even assembly/test, depending upon growth, as we have more units produced, obviously well need to expand our capacity on assembly/test after weve refilled the existing capacity. And so with utilization both on front end and back end coming back somewhat as weve gone through this downturn, clearly, we have room to grow from current levels before we really even need to spend on back-end capacity to any significance.
+All right, Mark, thank you. And well move to the next caller.
+Operator: Thank you. Well go to Tore Svanberg with Stifel Nicolaus.
+Yes. Thank you. Ron, you quantitatively talked about some of your end markets, but could you also do the same for your regions, please?
+<Q  Tore Svanberg  Stifel, Nicolaus & Co., Inc.>:
+Sure. I guess  and again, this is just based on the first two months of the quarter and extrapolating that through the end of the quarter, but its probably no surprise, Europe is currently our weakest region, followed by Asia and then the U.S. All three of those regions we would expect to be down based upon that two months worth of data. Japan, therefore, is the only region that is tracking to be up sequentially, and thats really as it just continues its post-earthquake recovery.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Do you have a follow-on, Tore?
+Yes. You talked about wireless infrastructure being exceptionally weak, and I think you mentioned maybe thats due to some push-outs. Do you have a sense on how those push-outs look like  meaning, is this a quarter or this going to be a multi-quarter push-out?
+<Q  Tore Svanberg  Stifel, Nicolaus & Co., Inc.>:
+I dont know. And I think as I said, it really goes beyond our customers. Its to their customers with the carriers, and I think youre all aware theyre trying to merge and how they spend and where they spend will be different based on whether that merger happens or if for some reason it doesnt happen. And so in the interim, while theyre sorting that out, theyve pretty much stopped spending. So I have no idea how to assess how long that may last, but thats whats currently impacting us there in terms of the decline.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Other carriers are flattish. Some of the programs in India or China that weve all talked about and hoped was maybe going to be ramping are still on hold at this point. But actually whats impacting us in terms of the decline would be those North American carriers that I talked about.
+Do you have a follow-on, Tore?
+Thats the follow-on. I appreciate it. Thank you, Ron.
+<Q  Tore Svanberg  Stifel, Nicolaus & Co., Inc.>:
+Okay. Thank you. Lets go to the next caller, please.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Operator: Well go to Christopher Danely with JPMorgan.
+Thanks, Ron. I think the minivans got a flat tire right now. Hey, so one thing that you said today that you guys also said on the conference call about a month and a half ago was that bookings have essentially bottomed for the last couple of months. But clearly the revenue outlook is worse. Im just wondering, what is the difference there? Is this just in your opinion a massive inventory drawdown by the distys? Are your customers telling their demand is worse? Can you just sort of parse that out?
+<Q  Chris Danely  JPMorgan Securities LLC>:
+Chris, I dont know that I can talk too specifically about customer demand. But our assessment is that this is mostly them taking inventory levels down more than what we had expected as opposed to their demand is significantly weaker than what we had expected.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Do you have a follow-on, Chris?
+Yeah. Have you noticed any, I guess, worse performance from the National versus the legacy TI business, i.e., is there any more downside from National, do you think any of this is a result of the merger?
+<Q  Chris Danely  JPMorgan Securities LLC>:
+No. In fact I would say National, National is declining this quarter but declining about the same as our HPA revenue. And as you know, both of those areas are catalog products sold through distribution. And I would say they both have relatively strong ties to the industrial market, which is weak right now. But I wouldnt say National is disproportionately a factor one way or the other here.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Okay, Chris, thank you. And well move to the next caller.
+Operator: Thank you. Well go next to John Pitzer with Credit Suisse.
+Yeah, Ron. I guess Im trying to figure out a little bit better whats going on with gross margins in the December quarter. So, I guess, can you help me understand? If OpEx dollars are kind of flattish with the old model, that implies sort of a 200 basis point drop. If thats the case, whats utilization versus mix? And were you able to do anything on the OpEx line? Or with the National integration is OpEx kind of a fixed cost this quarter?
+<Q  John Pitzer  Credit Suisse (United States)>:
+Okay. And, John, let me make sure I understand. Or maybe let me just kind of reiterate what we said even last quarter. OpEx, I think we said in our October call, our view is that OpEx would go up somewhere in the $160 million to $170 million range, and that was a combination of basically having a full quarter of National OpEx in fourth quarter versus only a week of it in the third quarter.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Also I think we talked about some of the  as we adjusted in light of the environment and the forecast some of the variable elements of compensation in the third quarter, there were catch-up accruals basically to adjust the cumulative effect for first half, and that catch-up piece of those lower accruals would not therefore recur in the fourth quarter.
+So we said OpEx would be up about $160 million to $170 million. Suffice to say in this environment were going to try to keep a tight control and do better than that, but that, certainly, part of it which is  were not going to be able to do anything about. OpEx will go up by about that amount. Gross margin, I think as you pointed out, will be down, but its also down for the two reasons I talked about: mix and then especially utilization.
+And then the only other consideration that I should just remind you about is remember, on cost of revenue theres about $100 million of additional expense in the fourth quarter that I would describe as acquisition related. And that tied to the fair value markup of the inventory that we received from National as part of that acquisition. But those are probably the moving pieces that I can think of to point out at this point.
+Did that answer your question, John?
+Yeah, it did pretty much, Ron. I guess as a follow-up, midpoint of revenue coming down by about $140 million, I guess I just want to understand. Did Wireless quarter to date on the OMAP coming in better than you originally expected at the beginning of the quarter? Can you help us kind of give the magnitudes? If I ex out OMAP, whats the rest of the business doing versus expectations at the beginning of the quarter?
+<Q  John Pitzer  Credit Suisse (United States)>:
+Well, yes. OMAP is doing better than expected. I cant quantify it at this point in the quarter, but I will just say OMAP is growing very nicely. And well have more details for you in January. But we expected good growth out of it, and its delivering even better growth. And so other areas are making up the  more than offsetting that growth, and obviously weve taken the overall guidance down. So theyre all doing quite a bit worse than what we had anticipated when we came in. And again, probably for reasons of both macro as well as inventory reduction.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Okay, operator, I believe well take one additional caller, please.
+Operator: Well go next to Craig Ellis with Caris & Company.
+Oh, hey, Ron, thanks for sneaking me in. Just an inquiry on the PC-related businesses, you mentioned some Thai flooding impact. Has that proven to be a little bit worse than what the company expected into the quarter, or pretty much in line?
+<Q  Craig Ellis  Caris & Co., Inc.>:
+Well, and again, if you go back to what we said in October, we looked at our own supply chain risks, both in terms of, I think, a lead frame that we bought from a supplier there that we knew would be disrupted, and some assembly/test that we had there. And I think we quantified that impact as about 1%. But again, that was just TIs supply chain. What we tried to communicate was the first-order effect, which would be the customer, the direct customer impact of hard disk drives that were manufactured in Thailand. And then maybe even a second-order effect of PC manufacturers that couldnt get hard disk drives, that might be weaker than otherwise expected. And again, we didnt, we had some estimates there, but clearly that is having impact. Certainly the first-order effect.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+I dont know how much to  were not the best source to be able to comment on the PC manufacturers. Clearly, theyre going to be impacted by the same macro considerations that every other market segment is, so they likely would have been weak anyway. Was that weakness exacerbated by a lack of storage? I dont know.
+Did you have a follow-on, Chris  or, Craig  Im sorry.
+Yeah, thanks. Yeah, no problem, Ron, thanks. With one of the design wins you have with OMAP 4, the Kindle Fire, youve done a good job getting other content in there, like Wi-Fi. As you look at your design-in funnel, with Ice Cream Sandwich systems, do you see a greater propensity of those design wins bundling more TI content, or how do we think about your ability to attach other components when you get that OMAP 4 design win?
+<Q  Craig Ellis  Caris & Co., Inc.>:
+I would describe that as pretty strong. No guarantees, but usually, almost always when we win OMAP, well add some power management, analog-type products attached to it and then sometimes, connectivity. We dont bundle the two, so there will be places we sell connectivity without OMAP, there will be places we sell OMAP without connectivity, and then there will be customers we sell both into. But, almost always, when we sell OMAP customers just find it more convenient to work with TI on a lot of the analog products such as power management as well as our sale forces is trained to work their way through those customer systems and pick up as much of that companion analog content as they possibly can. I would say when we sell OMAP we usually do very well selling other products outside of OMAP as well.
+<A  Ron Slaymaker  Texas Instruments Incorporated>:
+Okay, Craig, thank you for your questions.
+Before we end the call let me remind you that the replay is available on our website. Thank you and good evening.
+Operator: This does conclude todays conference. Thank you for your participation.
+
+

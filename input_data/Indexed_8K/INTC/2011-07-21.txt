@@ -1,0 +1,167 @@
+FILE:INTC/INTC-8K-20110721105733.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 2.02                      Results of Operations and Financial Condition
+Attached hereto as Exhibit 99.1 and incorporated by reference herein is financial information and commentary by Stacy J. Smith, Senior Vice President and Chief Financial Officer of Intel Corporation for the quarter ended July 2, 2011 and forward-looking statements relating to 2011 and the third quarter of 2011 as posted on the companys investor website, intc.com, on July 20, 2011. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+In addition to disclosing financial results in accordance with United States (U.S.) generally accepted accounting principles (GAAP), this commentary contains non-GAAP financial measures for net revenue, gross margin, gross margin percentage, operating income, net income, and diluted earnings per share. This commentary also provides forward-looking outlook for non-GAAP net revenue and gross margin percentage.  A reconciliation of the adjustments to our GAAP forward-looking outlook, GAAP results for our three and six months ended July 2, 2011, and prior period GAAP results is included in the tables that are part of Exhibit 99.1.
+Explanation of non-GAAP Results, included in Exhibit 99.1, includes an explanation of the ways management uses these non-GAAP measures and the reasons why management believes these measures provide useful information for investors. However, non-GAAP financial information has limitations and should not be considered a substitute for, or superior to, financial measures prepared in accordance with GAAP.
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+Exhibit 99.1
+Page 1 of 10
+Summary
+The second quarter was strong and better than expected, resulting in our first ever quarter with greater than $13B in revenue. From a market standpoint, the quarter played out as expected with strength in emerging markets and enterprise, offset by weakness in the mature market consumer segment. We continue to benefit from the strength of our product line-up as mix within both servers and clients was better than expected. Demand for our latest product, Sandy Bridge, remains strong and is the fastest ramping product in our companys history.
+As a result of the acquisitions of McAfee, Inc. and the Infineon wireless division in the first quarter, we will continue to provide Non-GAAP financial information in addition to GAAP for all of 2011 to provide additional visibility into operational results of the company. Excluding the impacts of deferred revenue write-down and associated costs, amortization of acquisition-related intangibles, and the related income tax effects of these changes, the second quarter results when compared to the second quarter from a year ago were the following:
+           Revenue of $13.1B* was up 22% from $10.8B
+           Gross Margin of 61.9%* was down 5.5 points, from 67.4%
+           Net income of $3.2B* was up 10% from $2.9B
+           Earnings per share of $0.59* was up 16% from $0.51
+Except otherwise noted, the remainder of this document presents results and comparables on a GAAP basis.
+Record revenue of $13.0B, was up $0.2B and 1% sequentially, and $2.3B and 21% year-on-year. Gross margin dollars were $7.9B with gross margin percent at 61%. R&D and MG&A as a percent of revenue was 29.9%. Operating profit of $3.9B was down 5% sequentially and 1% from a year ago. Net income of $3.0B and earnings per share of $0.54 were up 2% and 6% respectively from a year ago.
+*Non-GAAP financial measure. See the explanation of non-GAAP measures and the reconciliation to the most directly comparable GAAP financial measure on pages 8-10
+ 
+ 
+ 
+Page 2 of 10
+Revenue
+Revenue of $13.0B was better than expected, up 1% sequentially and 21% from a year ago. The second quarter included a full quarter of revenue from the acquisitions of McAfee, Inc and the Infineon wireless division but had one less week of revenue than the first quarter. Platform** average selling prices were flat compared to the first quarter. Inventory levels across the supply chain remained healthy as customers continued to burn through older generation inventory and replenish it with our new Sandy Bridge platforms.
+Intel Architecture Group second quarter revenue of $12.1B was approximately flat sequentially and up 17% year over year:
+The Software and Services Group had revenue of $511M, up 113% from the first quarter. Year over year, the Software and Services Group revenue was up 686%. McAfee, Inc. contributed $429M to the second quarter 2011 revenue.
+Gross Margin
+Gross margin dollars were $7.9B, flat to the first quarter.  Gross margin of 60.6% was 0.8 points lower than the first quarter and down 0.4 points compared to the midpoint of the Outlook provided in April.
+Gross Margin Reconciliation: Q111 to Q211(61.4% to 60.6%, down 0.8 points)
+[note: point attributions are approximate]
+The midpoint of the forecast ranges will be referred to when making comparisons to specific periods.
+Gross Margin Reconciliation: Q211 Outlook provided in April to Q211 (61% +/- couple points to 60.6%, down 0.4 points)
+[note: point attributions are approximate]
+Gross Margin Reconciliation: Q210 to Q211(67.2% to 60.6%, down 6.6 points)
+The decrease is primarily due to higher start up costs, higher platform** unit costs, and acquisition related impacts offset partially by higher platform** average selling prices.
+**CPU and chipset, excluding IntelAtom microprocessors and chipsets
+ 
+ 
+ 
+Page 3 of 10
+Spending
+Spending for R&D and MG&A was $3.9B, up 5% from the first quarter and flat to the Outlook provided in April. The increase from the first quarter is primarily driven by the impact of a full quarter of McAfee, Inc. and IMC spending. R&D and MG&A as a percentage of revenue was 29.9%, up from the first quarter. Depreciation was $1.2B, in line with expectations.
+Amortization of acquisition related intangibles was $76M, in line with expectations.
+Other Income Statement Items
+Gains and losses on equity investments and interest and other income was a net loss of $4M, lower than the $213M gain in the first quarter and lower than our Outlook of a $50M net gain.  Relative to the first quarter, the second quarter was lower due to the first quarter gain from the sale of the Digital Health Group to create the Intel-GE joint venture, Care Innovations.
+The provision for taxes in the second quarter was at a 24.9% tax rate, down approximately 4 points from our forecast of 29% on higher profits coming from low tax jurisdictions and tax settlements.
+Balance Sheet and Cash Flow Items
+Cash flow from operations in the second quarter was approximately $4.0B. On the balance sheet, total cash investments^^ ended the quarter at $11.5B, flat to the first quarter. During the second quarter, we paid approximately $1.0B in dividends, purchased $2.5B in capital assets, and repurchased $2.0B in stock.  Total inventories were approximately flat.
+Other Items
+We added approximately 3K employees in the second quarter. Approximately two-thirds of the increase was from new hiring of engineering and other technical personnel and the remaining one-third was from additional employees coming from the McAfee, Inc. and Infineon Wireless division acquisitions, bringing the total number of employees to 96.5K.
+Diluted shares outstanding decreased by 165M shares to 5.4B shares driven by first quarter and second quarter share repurchases. Diluted shares outstanding is calculated based on a weighted average of shares outstanding during the quarter. As a result, a portion of the $4.0B of first quarter share repurchases and a portion of the $2.0B of the second quarter share repurchases are reflected in our second quarter weighting for diluted shares outstanding. The full impact of our second quarter repurchases will be included in our third quarter diluted shares outstanding.
+^^ Cash and cash equivalents, short-term investments, and marketable debt instruments included in 
+trading assets
+ 
+ 
+ 
+Page 4 of 10
+Q3 2011 Outlook
+The outlook for the third quarter does not include the effect of any acquisitions, divestitures or similar transactions that may be completed after July 20th. The mid-point of the forecast ranges will be referred to when making comparisons to specific periods.
+Revenue
+Revenue is expected to be $14.0B, plus or minus $500M in the third quarter. The midpoint of this range would be up 7% from the second quarter, inside the normal seasonal range. On a Non-GAAP basis, excluding certain acquisition-related accounting impacts, the revenue forecast is $14.1B, plus or minus $500M in the third quarter.
+Gross Margin
+Gross margin in the third quarter is expected to be 64%, plus or minus a couple points.
+Gross Margin Reconciliation: Q211 to Q311 Outlook (60.6% to 64% +/- a couple points)
+[note: point attributions are approximate]
+On a Non-GAAP basis, excluding certain accounting impacts and expenses related to acquisitions, primarily the amortization of acquisition-related intangibles, Q311 gross margin is forecasted to be approximately 65% +/- a couple points.
+Spending
+Spending for R&D and MG&A in the third quarter is expected to be approximately $4.3B, up approximately $400M from the second quarter, primarily driven by increased research and development investments, and revenue and profit dependent spending. Depreciation is forecasted to be approximately $1.3B, up slightly from the second quarter.
+Amortization of acquisition-related intangibles is forecasted to be approximately $75M.
+Other Income Statement Items
+Gains and losses from equity investments and interest and other income are expected to be a net gain of approximately $100M, compared to a net loss of $4M in the second quarter.
+Balance Sheet and Cash Flow Items
+Inventory is expected to be roughly flat in Q3.
+** CPU and chipset, excluding Intel Atom microprocessors and chipsets
+ 
+ 
+ 
+Page 5 of 10
+2011 Outlook
+The Outlook for full year 2011 does not include the effect of any acquisitions, divestitures or similar transactions that may be completed after July 20.
+th
+Gross Margin
+Gross margin for the year is expected to be 63%, plus or minus a couple points, unchanged from previous expectations.  On Non-GAAP basis, excluding certain accounting impacts and expenses related to acquisitions, primarily the amortization of acquisition related intangibles, the gross margin forecast for the year is expected to be 64% plus or minus a couple points.
+Spending
+Spending for R&D and MG&A for the year is now expected to be $16.2B, plus or minus $200M, up $500M from previous expectations. The increase is being driven by additional investments and revenue dependent spending. The additional investments are focused on redefining the PC category with Ultrabooks, and strengthening our product offering in tablets and phones.
+Amortization of acquisition-related intangibles is forecasted to be approximately $260M for 2011, unchanged from previous expectations.
+Depreciation for the year is expected to be approximately $5.2B +/- $100M, up $200M from previous expectations.
+Other Income Statement Items
+The tax rate for each of the remaining quarters of 2011 is expected to be 28%, down from the prior forecast of 29%.
+Balance Sheet and Cash Flow Items
+Capital spending for 2011 is forecasted to be $10.5B plus or minus $400M, $300M higher than our previous expectations. The capital spending increase is driven primarily by additional forward re-use capabilities being put in place as we begin construction on our 14nm factories.
+ 
+ 
+ 
+Page 6 of 10
+Risk Factors
+The above statements and any others in this document that refer to plans and expectations for the third quarter, the year and the future are forward-looking statements that involve a number of risks and uncertainties. Words such as anticipates, expects, intends, plans, believes, seeks, estimates, may, will, should, and their variations identify forward-looking statements.  Statements that refer to or are based on projections, uncertain events or assumptions also identify forward-looking statements.   Many factors could affect Intels actual results, and variances from Intels current expectations regarding such factors could cause actual results to differ materially from those expressed in these forward-looking statements. Intel presently considers the following to be the important factors that could cause actual results to differ materially from the companys expectations.
+ 
+ 
+ 
+Page 7 of 10
+A detailed discussion of these and other factors that could affect Intels results is included in Intels SEC filings, including the report on Form 10-Q for the fiscal quarter ended April 2, 2011.
+ 
+ 
+ 
+Page 8 of 10
+ 
+ 
+ 
+Page 9 of 10
+Set forth below are reconciliations of the non-GAAP financial measures to the most directly comparable GAAP financial measures. The non-GAAP financial measures disclosed by the company have limitations and should not be considered a substitute for, or superior to, financial measures prepared in accordance with GAAP, and the financial results prepared in accordance with GAAP and reconciliations from these results should be carefully evaluated. Please refer to "Explanation of Non-GAAP Results" in this commentary for a detailed explanation of the adjustments made to comparable GAAP measures, the ways management uses these non-GAAP measures, and the reasons why management believes these non-GAAP measures provide useful information for investors.
+ 
+ 
+ 
+ 
+Page 10 of 10
+ 
+ 
+ 
+
+

@@ -1,0 +1,48 @@
+FILE:JNPR/JNPR-8K-20070130160943.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[  ]  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) [  ]  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) [  ]  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) [  ]  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Top of the Form
+Item 2.02 Results of Operations and Financial Condition.
+On January 30, 2007, Juniper Networks, Inc. issued a press release and held a conference call regarding its results for the quarter and year ended December 31, 2006. A copy of the press release is furnished as Exhibit 99.1 to this report. The information in this item 2.02 and Exhibit 99.1 shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits.
+(c) Exhibits Exhibit No. Description 99.1 Press Release issued by Juniper Networks, Inc. on January 30, 2007
+Top of the Form
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Top of the Form
+
+EXHIBIT 99.1
+SUNNYVALE, CA  January 30, 2007  Juniper Networks, Inc. (NASDAQ: JNPR) today reported its revenue results for the fourth quarter and year ended December 31, 2006.
+Net revenues for the fourth quarter of 2006 were $595.8 million, compared with $575.5 million for the same quarter last year, an increase of 4 percent. Net revenues for the fiscal year ended December 31, 2006 were $2,303.6 million, compared with $2,064.0 million for the same period last year, an increase of approximately 12 percent.
+Net cash, cash equivalents and investments increased over $200 million during the fourth quarter of 2006 to $2.6 billion.
+"2006 marked our 10 anniversary and a year of considerable progress which culminated with record revenue results in the fourth quarter," said Scott Kriens, Juniper Networks' Chairman and CEO. "Moving into 2007, we see a marketplace that presents us with significant opportunity to deliver strategic value to customers, scale our ability to execute and continue to grow our business."
+th
+Capital expenditures and depreciation during the fourth quarter of 2006 were $32.3 million and $20.7 million, respectively.
+Juniper's focus on innovation was reflected across a number of key product initiatives during the quarter. 
+Highlights:
+For the service provider market, Juniper continued to invest and innovate delivering new features that improve operational
+efficiencies in next-generation core networks being deployed in response to increasing demand for multiplay service offerings.
+New T-series enhancements included industry-leading point-to-multipoint JUNOS capabilities and new solutions to integrate optical transport and core IP routers. A new T-series 40 Gbps Interface Card delivers unprecedented interoperability and service agility over optical transport and IP network infrastructures. The latest features address service provider requirements in the strong installed base of more than 2,500 T-series routers deployed worldwide.  
+Also in the fourth quarter Juniper and NEC expanded its existing partnership and announced plans to jointly develop IMS-FMC solutions for the service provider market. Juniper and NEC are collaborating to deliver comprehensive, best-in-class solutions for both wired and wireless service providers.
+On the enterprise side, Juniper announced its branch office strategy that includes standards-based application acceleration, IP telephony, routing and security designed to work with customers' existing networks and accommodate future growth.
+The branch office strategy also includes a range of new implementation services with Juniper WAN Application Acceleration technologies, as well as the integration of Intelligent Communications capabilities from Avaya into the J-series routers offering greater flexibility for customers.
+Also announced in the fourth quarter was the integration completion of Juniper's 802.1X components with the new Unified Access Control 2.0 solution, including elements of the Odyssey Access Client and Steel-Belted Radius. As an open standards-based Layer 2 and Layer 3 access control solution, UAC 2.0 can be deployed in a flexible array of deployment scenarios to give enterprises real-time visibility and granular policy control throughout the network. 
+Market Share Leadership
+Juniper continues leadership momentum with its position in the "Leaders" quadrant of Gartner's Magic Quadrant for SSL VPN, North America, 3Q06 and Magic Quadrant for Network Intrusion Prevention System Appliances, 2H06. Juniper's placement in the Leaders
+quadrant was based on the company's completeness of vision and ability to execute in both the SSL VPN and IPS markets.  Further, Infonetics Research, Inc. recognized Juniper as the second-largest security vendor in the industry and overall market share leader in the SSL VPN market.  Juniper continued to maintain its Number 2 market share position in Service Provider and high-end enterprise routing for 16 and 4 consecutive quarters respectively according to Synergy Research Group.
+Juniper Networks will host a conference call web cast today, January 30, 2007 at 1:45 p.m. (Pacific Time), to be broadcasted live over the Internet . The conference call will be archived on the Juniper Networks website until February 27, 2007. A replay will be accessible by telephone on January 30, 2007 after 4:00 p.m. Pacific Time through February 6, 2007 by dialing 800-633-8284 (or 402-977-9140), reservation number, 21321540. The replays will be available 24 hours/day, including weekends.
+Conference Call and Web cast:
+http://www.juniper.net/company/investor/conferencecall.html
+Juniper Networks develops purpose-built, high performance IP platforms that enable customers to support a wide variety of services and applications at scale.  Service providers, enterprises, governments and research and education institutions rely on Juniper to deliver a portfolio of proven networking, security and application acceleration solutions that solve highly complex, fast-changing problems in the world's most demanding networks.  Additional information can be found at .
+About Juniper Networks, Inc.
+www.juniper.net
+Juniper Networks and the Juniper Networks logo are registered trademarks of Juniper Networks, Inc. in the United States and other countries.
+Statements in this release concerning Juniper Networks' business outlook, future financial and operating results, and overall future prospects are forward looking statements that involve a number of uncertainties and risks. Actual results could differ materially from those anticipated in those forward-looking statements as a result of certain factors, including: general economic conditions globally or regionally; business and economic conditions in the networking industry; changes in overall technology spending; the network capacity requirements of communication service providers; increases in competition; the timing of orders and their fulfillment; availability and cost of key parts and supplies; ability to establish and maintain relationships with distributors and resellers; variations in the expected mix of products sold; changes in customer mix; customer and industry analyst perceptions of Juniper Networks and its technology, products and future prospects; delays in scheduled product availability; market acceptance of our products and services; rapid technological and market change; adoption of regulations or standards affecting our products, services or industry; the ability to successfully acquire, integrate and manage businesses and technologies; product defects, returns or vulnerabilities; the ability to recruit and retain key personnel; currency fluctuations; litigation; and other factors listed in our most recent report on Form 10-Q filed with the Securities and Exchange Commission. The Company has concluded that the actual measurement dates for financial accounting purposes of certain stock option grants issued in the past differ from the recorded grant dates of such awards, and that the Company will need to restate historical financial statements to record additional non-cash charges for stock-based compensation expense related to past option grants. All statements made in this press release are made only as of the date set forth at the beginning of this release. Juniper Networks undertakes no obligation to update the information in this release in the event facts or circumstances subsequently change after the date of this press release.
+(1) Adjusted for reorganization of session border control product line from Service Layer Technologies to Infrastructure.
+
+

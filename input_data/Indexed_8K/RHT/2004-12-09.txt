@@ -1,0 +1,964 @@
+FILE:RHT/RHT-8K-20041209171548.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Completion of Acquisition or Disposition of Assets	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Completion of Acquisition or Disposition of Assets
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+Information required by Item 1.01 is contained in Item 2.01 below which is incorporated herein by reference.
+ 
+ 
+On December 7, 2004, Red Hat, Inc. ("Red Hat") completed its purchase of the Netscape Security Solutions unit from Netscape Communications Corporation and America Online, Inc. (together, the "Sellers") for a purchase price of $20.5 million in cash. An additional $2.5 million is payable by Red Hat contingent on certain future customer orders being placed on or before April 30, 2005. The assets acquired by the Red Hat are derived from the Netscape Enterprise Suite and included Netscape Directory Server and Netscape Certificate Management System.
+ 
+The acquisition was effected pursuant to an Asset Purchase Agreement by and among the Company and the Sellers dated as of September 29, 2004 (the "Asset Purchase Agreement"), as modified by a letter agreement dated December 6, 2004 (the "Letter Agreement"). The Letter Agreement provides for the post-closing delivery of audited financial statements of the business unit acquired. The foregoing summary of certain material provisions of the Asset Purchase Agreement and Letter Agreement does not purport to be a complete summary. You are urged to read the Asset Purchase Agreement and the Letter Agreement, copies of which are attached as exhibits to this current report on Form 8-K, for a complete description of the terms and conditions of such agreements.
+ 
+ 
+ 
+It is currently impracticable for Red Hat to provide the required financial statements. In accordance with Item 9.01(a)(4) of the Instructions to Form 8-K, Red Hat will file such financial statements as soon as they are available, and in no event later than 71 days from the date of the 8-K filing.
+ 
+ 
+It is currently impracticable for Red Hat to provide the required pro forma financial information. In accordance with Item 9.01(b)(2) of the Instructions to Form 8-K, Red Hat will file such financial statements as soon as they are available, and in no event later than 71 days from the date of the 8-K filing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit 2.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULES
+ 
+ 
+EXHIBITS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THIS ASSET PURCHASE AGREEMENT (together with all Schedules and Exhibits hereto, this ""), dated as of September 29, 2004, is entered into by and among Netscape Communications Corporation, a Delaware corporation ("") and America Online, Inc., a Delaware Corporation ("" and, together with Netscape, collectively, "" and, each, a ""), and Red Hat, Inc., a Delaware corporation ("").
+Agreement
+Netscape
+AOL
+Sellers
+Seller
+Buyer
+ 
+ 
+WHEREAS, Sellers are the owners and operators of certain assets used in connection with the operation of their Netscape Security Solutions unit (the ""); and
+Security Solutions
+ 
+WHEREAS, Sellers desire to sell, and Buyer desires to buy, certain assets of Sellers used in or relating to the operation of the Security Solutions, on the terms and conditions set forth in this Agreement.
+ 
+THEREFORE, Sellers and Buyer agree as follows:
+ 
+ 
+1.1 . Subject to the terms and conditions of this Agreement, Sellers agree to sell, assign, transfer and deliver to Buyer, and Buyer agrees to purchase and accept from Sellers, at the Closing (as defined below), certain assets of Sellers used in the Security Solutions described in Section 1.2. The assets being sold hereunder are collectively referred to as the "." The assets described in Section 1.3 are not being sold pursuant to this Agreement and are collectively referred to as the "."
+Transfer of Assets
+Purchased Assets
+Excluded Assets
+ 
+1.2 . Subject to Section 1.3, the Purchased Assets specifically include the following assets of the Security Solutions:
+Purchased Assets
+ 
+(a) . All Owned Intellectual Property, it being understood that Buyer shall not purchase or acquire any Patent Assets or Trademark Assets of Netscape or AOL. As used in this Agreement, "" means all of the Intellectual Property owned by Sellers that is embodied in the Customer Deliverables and all other Intellectual Property owned by Sellers that is used exclusively in connection with the Security Solutions, in each case excluding (i) the Excluded Patents, (ii) the Excluded Trademarks and (iii) all software owned or licensed by Netscape or Mozilla identified in . For the purposes of this Agreement and the schedules attached hereto, all software owned by Netscape or Mozilla and listed on shall be treated as licensed third party Intellectual Property listed in . Material items of Owned Intellectual Property are described on hereto. As used in this Agreement, "" shall mean all (i) patents, patent applications, patent disclosures and all related continuation, continuation-in-part, divisional, reissue, reexamination, utility model,
+Owned Intellectual Property
+Owned Intellectual Property
+Schedule 1.2(b)(i)
+Schedule 1.2(b)(i)
+Schedule 1.2(b)(i)
+Schedule 1.2(a)
+Intellectual Property
+ 
+certificate of invention and design patents, patent applications, registrations and applications for registrations (collectively, the ""); (ii) trademarks, service marks, trade dress, Internet domain names, logos, trade names and corporate names and registrations and applications for registration thereof (collectively, the ""); (iii) works of authorship and copyrights and registrations and applications for registration thereof; (iv) mask works and registrations and applications for registration thereof; (v) computer software (including source code and object code), build scripts, bug reports, quality data, benchmarking information, translations and translation kits, test suites, test tools, test plans, data and internal and external documentation (including user's manuals, specifications, architectural documents, product requirement documents, product roadmaps, notes from technical support, flow charts, system diagrams, input/output layouts); (vi) inventions, trade secrets and confidential business information, whether patentable or nonpatentable and whether or not reduced to practice, know-how, manufacturing and product processes and techniques, research and development information, copyrightable works, financial, marketing and business data, pricing and cost information, business and marketing plans and customer and supplier lists and information; (vii) any other proprietary rights (including claims for past infringements thereof, remedies against infringements thereof and rights of protection of interest therein under the laws of all jurisdictions); and (viii) copies and tangible embodiments thereof.
+Patent Assets
+Trademark Assets
+ 
+(b) . Except for the SDMA Intellectual Property used by Sellers pursuant to the SDMA and the Intellectual Property identified in , all of Sellers' interest in the Intellectual Property rightfully used by Sellers that is embodied in the Customer Deliverables and all of Sellers' interest in other Intellectual Property rightfully used by Sellers exclusively in connection with the Security Solutions, in each case pursuant to a Contract that is or contains a valid license, including without limitation off-the-shelf software programs licensed pursuant to "shrinkwrap" or "click-thru" licenses (""), and such Contracts pursuant to which the Licensed Intellectual Property is licensed to Sellers (the ""), all of which items of Licensed Intellectual Property and Seller In-License Agreements are described on hereto.
+Licensed Intellectual Property and Seller In-License Agreements
+Schedule 1.2(b)(i)
+Licensed Intellectual Property
+Seller In-License Agreements
+Schedule 1.2(b)(ii)
+ 
+(c) . All of Sellers' interest in the Contracts described on (the "" and, together with the Seller In-License Agreements, "").
+Contracts
+Schedule 1.2(c)
+Scheduled Contracts
+Purchased Contracts
+ 
+(d) . All accounts receivable and trade accounts due to Sellers exclusively in connection with the Security Solutions (the ""), and the full benefit of any security therefor, including without limitation those set forth on .
+Accounts Receivable
+Receivables
+Schedule 1.2(d)
+ 
+(e) . All computers, servers, equipment, test kits, tools, prototypes, technical documentation and other items of tangible personal property owned or leased by Sellers and used in connection with the Security Solutions (wherever located and whether or not carried on Sellers' books) that are set forth on (the ""), and any additions, improvements,
+Tangible Personal Property
+Schedule 1.2(e)
+Tangible Personal Property
+ 
+replacements and alterations thereto made between the date of this Agreement and the Closing Date, together with any express or implied warranty by the manufacturers or sellers of any item or component part thereof, and all maintenance records and other documents relating thereto.
+ 
+(f) . All permits, authorizations, certificates, approvals and licenses relating exclusively to the operation of the Security Solutions, including without limitation those listed on (the "").
+Permits
+Schedule 1.2(f)
+Permits
+ 
+(g) . All records, technical data, asset ledgers, books of account, inventory records, budgets, customer and supplier lists, sales literature, catalogues, trade lists, advertising and promotional materials, payroll and personnel records, computer programs, correspondence and other files of Sellers created or maintained exclusively in connection with the Security Solutions.
+Records
+ 
+(h) . All of Sellers' rights to any choses in action, claims, causes or rights of action arising exclusively in connection with the Security Solutions.
+Claims
+ 
+(i) . All Net Cash, which in no event shall be less than $1.00. As used in this Agreement, "" equals (i) all cash and cash equivalents collected by Sellers between September 15, 2004 and the Closing Date in connection with the Purchased Contracts and Receivables of Sellers (including, without limitation, the approximately $787,500 payment due from Hewlett-Packard Company on or about September 21, 2004 pursuant to the certain iPlanet Directory Server Porting and Distribution Agreement between Netscape and Hewlett-Packard Company dated as of April 25, 2000, as amended), minus (ii) the total salaries of employees of the Security Solutions unit actually paid in connection with the Security Solutions of Sellers between September 15, 2004 and the Closing Date (including, without limitation, the approximately $200,000 payable to Bozeman Pass, if any payment is made to Bozeman Pass during this period), or, solely in the case of salaries of employees of the Security Solutions unit, unpaid salaries of such employees accrued between September 15, 2004 and the Closing Date consistent with past practices; provided that any benefits and indirect costs and any extraordinary expenses incurred in connection with the transactions contemplated by this Agreement shall not be included in the calculation of "Net Cash."
+Net Cash
+Net Cash
+ 
+(j) . All prepaid expenses and deposits paid by Sellers exclusively with respect to the Security Solutions unit, including without limitation deposits and prepayments under any Purchased Contracts.
+Prepaid Items; Deposits
+ 
+(k) . Any and all of Sellers' goodwill in the Purchased Assets.
+Goodwill
+ 
+(l) . All other intangible assets of any kind or description, wherever located, which are owned by Sellers and exclusively used in or exclusively relating to the operations of the Security Solutions and which are not Excluded Assets.
+Other Intangibles
+ 
+1.3 . The following assets of the Security Solutions unit shall be excluded from the Purchased Assets and shall be retained by Sellers:
+Excluded Assets
+ 
+(a) . Any and all Patent Assets of Netscape and/or AOL (the ""), it being understood that Buyer shall not purchase or acquire any Patent Assets of Netscape or AOL or any license, right or interest in, to or under such Patent Assets except for the express license granted pursuant to the Patent License.
+Patent Assets
+Excluded Patents
+ 
+(b) . Any and all Trademark Assets of Netscape and/or AOL (the ""), it being understood that Buyer shall not purchase or acquire any Trademark Assets of Netscape or AOL or any license, right or interest in, to or under such Trademark Assets except for the express license granted pursuant to the Trademark License.
+Trademark Assets
+Excluded Trademarks
+ 
+(c) . The SDMA and the license agreements identified in . "" means the Strategic Development and Marketing Agreement, dated as of November 23, 1998, by and between Sun Microsystems, Inc. ("") and AOL, as amended pursuant to that certain First Amendment to Strategic Development and Marketing Agreement, dated as of September 25, 2001, by and between Sun and AOL and that certain Second Amendment to Strategic Development and Marketing Agreement, dated as of March 15, 2002, by and between Sun and AOL.
+Certain Seller In-License Agreements
+Schedule 1.2(b)(i)
+SDMA
+Sun
+ 
+(d) . All Tangible Personal Property set forth on disposed of or consumed in the ordinary course of business of the Security Solutions unit or with the written consent of Buyer between the date hereof and the Closing Date and all other tangible personal property used in connection with the Security Solutions unit not listed on .
+Certain Personal Property
+Schedule 1.2(e)
+Schedule 1.2(e)
+ 
+(e) . All real property of Sellers, whether owned or leased, together with all easements and appurtenances thereto and all buildings, fixtures and other improvements therein.
+Real Property
+ 
+(f) . All employees of the Sellers, other than as expressly provided for in Section 8.8.
+Employees
+ 
+(g) . All insurance policies relating to the Security Solutions unit, including without limitation policies relating to property, liability, business interruption, health and workers' compensation and lives of officers of Sellers.
+Insurance
+ 
+(h) . Pension, profit sharing or savings plans and trusts and the assets thereof.
+Benefit Plans
+ 
+(i) . Minute books and stock books of Sellers or any of its predecessors in interest.
+Certain Records
+ 
+(j) . Any contracts, agreements, commitments, leases, licenses, loans, purchase orders, work orders, notes, mortgages, indentures,
+Certain Contracts
+ 
+instruments, understandings, arrangements and obligations entered into by either Seller or by which either Seller or any of the Purchased Assets is bound, other than the Purchased Contracts.
+ 
+(k) . The Excluded Materials.
+Excluded Materials
+ 
+(l) . The assets and properties of Sellers relating exclusively to the Security Solutions which are specifically listed on .
+Other Assets
+Schedule
+1.3(l)
+ 
+1.4 .
+Liabilities
+ 
+(a) . The Purchased Assets shall be sold and conveyed to Buyer free and clear of any and all liabilities, obligations, claims, charges, liens, security interests, mortgages, pledges, hypothecations and encumbrances whatsoever; provided, however, that Buyer will assume at Closing only the obligations of Sellers described in Section 1.4(b) below. Notwithstanding anything in this Agreement to the contrary, Buyer shall in no event assume or be liable for any liability or obligation of Sellers not specifically assumed pursuant to this Section and in instruments of assumption delivered by it at Closing, and Sellers shall retain responsibility for all liabilities and obligations with respect to Sellers, whether or not accrued and whether or not disclosed, other than as expressly set forth in Section 1.4(b). Specifically, but without limiting the generality of the foregoing, Buyer shall not assume any liability or obligation of Sellers with respect to employees or former employees of Sellers, including without limitation any liability for accrued salaries, wages, payroll taxes, severance pay entitlements, health, medical, retirement, vacation or deferred compensation benefits or any other obligations or expenses arising out of or relating to the employment by Sellers of its respective employees or either Seller's termination of such employees, including the terminations effected by Sellers pursuant to this Agreement. Sellers shall retain and shall assume and discharge all liabilities and costs under the Consolidated Omnibus Budget Reconciliation Act, as amended ("") (including liabilities for violations thereof) for all "qualifying events" (as defined in COBRA) occurring with respect to employees and their dependents prior to and on the Closing Date, including qualifying events that occur as a result of the sale of the Purchased Assets contemplated by this Agreement.
+Excluded Liabilities
+COBRA
+ 
+(b) . Notwithstanding anything in this Agreement to the contrary, Buyer will assume at Closing only the following liabilities of Sellers: (i) the obligations of Sellers under the Purchased Contracts, to the extent that such obligations are not performed prior to the Effective Time, are disclosed in the text of such Purchased Contracts and accrued subsequent to the Effective Time and (ii)(x) liabilities for payments due to independent contractors of the Security Solutions under the terms of the Purchased Contracts between September 15, 2004 and the Closing Date to the extent not actually paid prior to Closing by Sellers as contemplated by , and (y) liabilities for payments due to Bozeman Pass to the extent not actually paid prior to Closing by Sellers as contemplated by Section 1.2(i), which liabilities in the case of clause (ii) only shall in no event whatsoever exceed the amount of Net Cash actually received by Buyer (clauses (i) and (ii) the "").
+Assumed Liabilities
+Section 1.2(i)
+Assumed Liabilities
+ 
+ 
+2.1 . The aggregate purchase price (the "") for the Purchased Assets shall be $20,500,000. The Purchase Price shall be payable as follows: (a) $19,000,000 shall be paid on the Closing Date by wire transfer of immediately available funds to a single account designated by Sellers in writing; and (b) the remaining $1,500,000 (the "") shall be paid by wire transfer of immediately available funds to First-Citizens Bank and Trust Company (the ""), who shall hold such amount in escrow for a period of twelve (12) months following the Closing Date in accordance with an escrow agreement substantially in the form of attached hereto (the ""), which will be executed and delivered at the Closing. Sellers shall provide wire transfer instructions to Buyer at least two (2) business days prior to the Closing Date.
+Purchase Price
+Purchase Price
+Escrow Funds
+Escrow Agent
+Exhibit A
+Escrow Agreement
+ 
+2.2 .
+Additional Contingent Consideration
+ 
+(a) Buyer shall pay to Sellers additional contingent consideration of $2,500,000 (the "") if Revenue Bookings pursuant to the DOD Contract as determined in good faith by Buyer equals at least $3,000,000. Upon Revenue Bookings equaling $3,000,000, Buyer shall notify Sellers promptly in writing and shall pay the Additional Consideration within thirty (30) days thereafter. Additional Consideration shall be payable by wire transfer of immediately available funds to a single account designated by Sellers in writing. Sellers shall provide wire transfer instructions to Buyer at least two (2) business days prior to such transfer. If Buyer does not pay Sellers the Additional Consideration, Buyer must permit an independent auditor selected by Sellers, upon reasonable prior notice, to examine the records relating to Revenue Bookings and the DOD Contract. As used in this Agreement, "" shall mean that certain Strategic VAR Agreement between Netscape and Intelligent Decisions, Inc. dated as of November 28, 2001 relating to Sellers' products and services provided to the Department of Defense as the same may be extended or renewed, (y) any new agreement between Buyer and Intelligent Decisions or any other reseller or directly or indirectly with the Department of Defense or any of its associated agencies for Buyer to provide products, services or software based upon, incorporating or including any Customer Deliverables or any portion thereof ("") or (z) any existing agreements, or extension or renewal thereof, between Buyer and the Department of Defense or any of its associated agencies or any reseller to the Department of Defense or any of its associated agencies pursuant to which Buyer sells Buyer Customer Deliverables; and "" shall mean the purchase price for Buyer Customer Deliverables purchased pursuant to DOD Contract that are for software licenses for orders placed on or before April 30, 2005, and the aggregate fees for services to be performed within one year of the effective date of any order related to Buyer Customer Deliverables for orders placed on or before April 30, 2005, in each case which the contracting party will be obligated to pay to Buyer as consideration for Buyer's performance thereunder.
+Additional Consideration
+DOD Contract
+Buyer Customer Deliverables
+Revenue Bookings
+ 
+(b) Buyer shall use all commercially reasonable efforts to obtain at least $3,000,000 of Revenue Bookings with respect to the DOD Contract on or before
+ 
+April 30, 2005. Sellers shall have the right to reasonably participate in discussions and negotiations with DOD personnel as they relate to the DOD Contract and work orders placed under the DOD Contract until the earlier of (i) the date Buyer notifies Sellers the Additional Consideration will be paid in accordance with Section 2.2(a) or (ii) April 30, 2005. Sellers shall have the right to review, prior to submission or execution, as the case may be, to the DOD, any proposals by Buyer to be made with respect to the DOD Contract or work orders thereunder or the execution of the DOD Contract or any work order thereunder, until the earlier of (i) the date Buyer notifies Sellers the Additional Consideration will be paid in accordance with Section 2.2(a) or (ii) April 30, 2005.
+ 
+2.3 . Buyer and Seller shall cooperate to agree prior to the Effective Time with respect to the allocation of the total consideration (including any post-closing adjustments) among the Purchased Assets for all purposes (including federal and state tax reporting purposes). Each of the parties acknowledges its understanding of the requirement under Section 1060 of the Internal Revenue Code of 1986, as amended ("") for the filing by each of Form 8594 for their respective tax years in which the Closing occurs. Sellers and Buyer agree to allocate the consideration among the Purchased Assets in accordance with the agreed upon allocations, if such allocation agreement is reached.
+Allocation
+Code
+ 
+2.4 . Subject to the specific provisions of this Section and Section 1.4 and 1.2(i) above, Sellers shall be responsible for all costs and expenses attributable to the operation of the Security Solutions or the ownership of the Purchased Assets up to the Effective Time, and Buyer shall become responsible for all costs and expenses attributable to the operation of the Security Solutions or ownership of the Purchased Assets from and after the Effective Time. Sellers and Buyer shall prorate all expenses of the Security Solutions, including without limitation such items as personal property taxes, as of the Effective Time. Such prorations shall be made and paid insofar as is possible at the Closing and, in any event, no later than thirty (30) days thereafter.
+Proration of Certain Items
+ad valorem
+ 
+2.5 . At Closing, Buyer and Sellers shall execute and deliver a Non-Competition Agreement substantially in the form of attached hereto (the "").
+Non-Competition Agreement
+Exhibit C
+Non-Competition Agreement
+ 
+2.6 . At Closing, Buyer and AOL shall execute and deliver a SDMA Sublicense substantially in the form of attached hereto (the "").
+SDMA Sublicense
+Exhibit D
+SDMA Sublicense
+ 
+2.7 . At Closing, Buyer and Sellers shall execute and deliver a Patent License substantially in the form of attached hereto (the "").
+Patent License
+Exhibit E
+Patent License
+ 
+2.8 . At Closing, Buyer and Sellers shall execute and deliver a Grant-Back License substantially in the form of attached hereto (the "").
+Grant-Back License
+Exhibit F
+Grant-Back License
+ 
+2.9 . At Closing, Buyer and Netscape shall execute and deliver a Trademark License substantially in the form of attached hereto (the "").
+Trademark License
+Exhibit G
+Trademark License
+ 
+2.10 . At Closing, Buyer and AOL shall execute and deliver a Maintenance and Support Services Agreement and Work Order substantially in the form of attached hereto (the "").
+Maintenance and Support Services Agreement
+Exhibit J
+Maintenance and Support Services Agreement
+ 
+2.11 . At Closing, Buyer and Sellers shall execute and deliver a Customer Deliverables Escrow Agreement substantially in the form of attached hereto (the "").
+Customer Deliverables Escrow Agreement
+Exhibit K
+Customer Deliverables Escrow Agreement
+ 
+ 
+Except as specifically set forth on the Sellers Disclosure Schedule set forth on attached hereto, each Seller, jointly and severally, represents and warrants to Buyer as follows:
+Exhibit H
+ 
+3.1 . Each Seller is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware. Sellers have the requisite corporate power and authority to own, operate and lease the Purchased Assets and to conduct the operations of the Security Solutions as presently conducted. Each Seller is duly qualified to do business as a foreign corporation and is in good standing in all jurisdictions in which the character of the property owned, leased or operated by it in connection with the Security Solutions or the nature of the Security Solutions conducted by it makes such qualification necessary and in which failure to be so qualified and in good standing could reasonably be expected to cause a Material Adverse Change, and such jurisdictions are listed on . Netscape is a wholly-owned subsidiary of AOL.
+Organization and Good Standing
+Schedule 3.1
+ 
+3.2 . Each Seller has the requisite corporate power and authority to execute and deliver this Agreement and all other agreements, certificates, instruments and documents to be executed and delivered by such Seller pursuant to this Agreement (collectively, the "") and to perform the transactions contemplated hereby and thereby. The execution, delivery and performance by each Seller of their respective Seller Agreements and the consummation of the transactions contemplated hereby and thereby, have been, or will be by the Closing, duly and validly authorized by all necessary corporate action on the part of each Seller. The Seller Agreements have been or, with respect to Seller Agreements to be executed at the Closing, will be duly executed and delivered by the applicable Seller and each constitutes, or will constitute when executed and delivered, a legal, valid and binding obligation of such Seller, enforceable against such Seller in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium and similar laws affecting the rights and remedies of creditors, and subject to the further qualification that the remedy of specific performance or injunctive relief is discretionary with the court before which any proceeding therefor may be brought.
+Authority
+Seller Agreements
+ 
+3.3 . The execution, delivery and performance by each Seller of their respective Seller Agreements do not and will not (a) conflict with, contravene or constitute a violation of the certificate of incorporation or bylaws of such Seller; (b) conflict with, contravene or constitute a violation of any law, statute, judgment, order, decree, rule or
+No Conflict or Breach
+ 
+regulation of any legislative body, court, administrative agency, governmental authority or arbitrator applicable to or relating to the Security Solutions or the Purchased Assets; (c) conflict with, contravene, constitute a material default under or violation of, result in a material breach or acceleration of or, except as set forth on , require notice to or the consent of any third party under any Purchased Contract to which such Seller is party or by which such Seller is bound and by which the Security Solutions or the Purchased Assets are affected; (d) cause the Buyer or any of its affiliates or representatives to become subject to, or liable for the payment of, any Taxes, or (e) result in the creation or imposition of any lien, claim, charge, security interest, mortgage, pledge, hypothecation, easement, restrictive covenant, restriction or other encumbrance of any kind or nature whatsoever (each, a "" and, collectively, "") on any portion of the Security Solutions or any of the Purchased Assets.
+Schedule 3.4
+Lien
+Liens
+ 
+3.4 . describes (a) each consent, approval, authorization, registration or filing with any federal, state, local or foreign judicial, legislative, executive, administrative or other governmental authority, body or agency (each, a ""); and (b) each consent, approval, authorization of or notice to any other third party, which is required in connection with the valid execution and delivery by each Seller of their respective Seller Agreements or the consummation by each Seller of the transactions contemplated herein or therein, including without limitation the assignment of the Seller In-License Agreements and Purchased Contracts as provided herein (the items described in clauses (a) and (b), collectively, the "").
+Consents and Approvals
+Schedule 3.4
+Governmental Authority
+Required Consents
+ 
+3.5 .
+Statement of Income
+ 
+(a) contains true, correct and complete copies of the unaudited, nonGAAP statement of operations for the fiscal year ended December 31, 2003 (the "") and true, correct and complete copies of the unaudited, nonGAAP statement of operations for the six month period ended on June 30, 2004 (the "") (collectively the ""). The Statements of Income (a) are true and correct based on internal costs and revenue allocations where necessary and complete in all material respects, (b) are in accordance with the records of Sellers and (c) accurately present the results of operations for the periods presented consistent with the basis on which the Statements of Income were prepared.
+Schedule 3.5
+-
+Statement of Income
+-
+Interim Statement of Income
+Statements of Income
+ 
+(b) . If and when delivered to Buyer as provided in Section 8.17, the audited balance sheet, statement of income and statement of cash flows as of and for the 12-month period ended December 31, 2003 and unaudited income statement for the six month period ended June 30, 2004 (the "Carve-Out Financial Statements") will: (i) be true, correct and complete; (ii) be in accordance with the books and records of Sellers; (iii) present fairly the assets, liabilities and financial condition of the Security Solutions unit as of December 31, 2003 and as of June 30, 2004, and the results of operations for the 12-month period ended December 31, 2003 and 6-month period ended June 30, 2004; and (iv) have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis ("GAAP") and the requirements of Regulation S-X.
+Carve-Out Financial Statements
+ 
+3.6 . Each Seller has previously delivered to Buyer true, correct and complete copies of the records of such Seller relating to the Purchased Assets.
+Records
+ 
+3.7 . Sellers have good and marketable title to all of the Tangible Personal Property, free and clear of all Liens, other than the Liens described on , all of which will be removed at or prior to Closing. Each item of Tangible Personal Property is (a) in good operating order, condition and repair, ordinary wear and tear excepted; (b) suitable for immediate use in the ordinary course of business of the Security Solutions; (c) structurally sound and free from defects; (d) merchantable; and (e) of a quality and quantity presently usable in the ordinary course of business of the Security Solutions. No item of Tangible Personal Property is in need of repair or replacement other than as part of routine maintenance in the ordinary course of business.
+Tangible Personal Property
+Schedule 3.7
+ 
+3.8 . lists all material contracts (including the Purchased Contracts), agreements, commitments, leases, licenses (including the Seller In-License Agreements and the Seller Out-License Agreements), loans, purchase orders, work orders, notes, mortgages, indentures, instruments, understandings, arrangements and obligations, whether written or oral, to which either Seller or any of its respective affiliates or subsidiaries is a party and by which the Purchased Assets or the Security Solutions are bound (the "").Sellers have delivered to Buyer true, correct and complete copies of all written Contracts and true, correct and complete memoranda describing all oral Contracts, including any and all amendments and other modifications thereto. Each of the Purchased Contracts is valid, binding and enforceable in accordance with its terms and is in full force and effect. Neither Seller has waived any of its rights under, or modified the terms of, any Purchased Contract orally or by a pattern of practice or otherwise. Neither Seller, and, to Sellers' Knowledge, no other party, is in material breach, default or violation of, and no events or circumstances have occurred which, with or without notice or lapse of time or both, would constitute breaches, defaults or violations, under any of the Purchased Contracts. The assignment of the Purchased Contracts by Sellers to Buyer will not, with respect to any Purchased Contract, (i) constitute a breach, default or violation, or accelerate the obligations, thereunder; (ii) require the consent of any person or party, except for the Required Consents; or (iii) affect the continuation, validity and effectiveness thereof or the terms thereof. There are no renegotiations of, attempts to renegotiate, or outstanding rights to renegotiate any material amounts paid or payable to either Seller under any Purchased Contract, and neither Seller has received any demands for such renegotiation.
+Contracts
+Schedule 3.8
+Contracts
+ 
+3.9 . All Receivables reflected on and all Receivables presently owing and to be owing at the Effective Time will be legal, valid and binding obligations, and are collectible in full at face value. All such Receivables represent or will represent sales actually made or services actually performed in the ordinary course of business of the Security Solutions. There are no set-offs, counterclaims or disputes available or asserted with respect to any Receivable, and no discount or allowance from any Receivable has been made or agreed to by either Seller.
+Receivables
+Schedule 1.2(d)
+ 
+3.10 .
+Intellectual Property
+ 
+(a) As used in this Agreement, "" shall mean all Owned Intellectual Property, Licensed Intellectual Property, the Excluded Patents licensed to Buyer pursuant to the Patent License, the Excluded Trademarks licensed to Buyer pursuant to the Trademark License, and the Intellectual Property licensed to AOL pursuant to the SDMA (the "").
+Security Solutions Intellectual Property
+SDMA Intellectual Property
+ 
+(b) Except as otherwise provided for in Section 3.10(c), Sellers own or have the valid right to use all Security Solutions Intellectual Property necessary (i) to use, reproduce, display, perform, modify, create derivative works of, support, manufacture, have manufactured, market and distribute the object code and source code of its Current Customer Deliverables in the Security Solutions as such Security Solutions activities are conducted by Sellers immediately prior to Closing and (ii) to operate its Internal Systems in the Security Solutions unit as such Security Solutions unit is conducted by Sellers immediately prior to Closing. Except as otherwise specified in , each item of Owned Intellectual Property, SDMA Intellectual Property and Licensed Intellectual Property will be owned or available for use by Buyer immediately following the Closing on substantially identical terms and conditions as it was used by Sellers in connection with the Security Solutions immediately prior to the Closing without transfer fees or similar payments. Sellers have taken reasonable measures to protect the proprietary nature of each item of Owned Intellectual Property, and to maintain in confidence trade secrets and confidential information, that it owns and uses in the Security Solutions. No other person or entity has any rights to any of the Owned Intellectual Property (except pursuant to Seller Out-License Agreements specified in ), and, to Sellers' Knowledge, no other person or entity is infringing, violating or misappropriating any of the Owned Intellectual Property. As used in this Agreement, "" shall mean, in connection with the Security Solutions, (a) the products listed in that either Seller (i) manufactures, markets, sells or licenses immediately prior to the Closing, including those that either Seller has developed prior to the Closing (even if such products have not yet been commercially released), or (ii) has developed, manufactured, marketed, sold or licensed within the three years prior to the Closing, and (b) the services listed in that either Seller (i) provides immediately prior to the Closing, or (ii) has provided within the three years prior to the Closing; "" shall mean, in connection with the Security Solutions, (x) the products listed in that Netscape has manufactured, marketed, sold or licensed within the three years prior to the Closing and (y) the services listed in that Netscape has provided within the three years prior to the Closing; "" means, collectively, the Current Customer Deliverables and the Discontinued Customer Deliverables; and "" shall mean the internal systems of Sellers that are used exclusively in the Security Solutions unit immediately prior to the Closing, including computer hardware systems, software applications and embedded systems.
+Schedule 3.10(b)(i)
+Schedule 3.10(d)
+Current Customer Deliverables
+Schedule 3.10(b)(ii)
+Schedule 3.10(b)(ii)
+Discontinued Customer Deliverables
+Schedule 3.10(b)(iii)
+Schedule 3.10(b)(iii)
+Customer Deliverables
+Internal Systems
+ 
+(c) Except as set forth in , to the Knowledge of Sellers, the development, reproduction, manufacturing, distribution, licensing, sublicensing, sale, use or any other exercise of rights in any Security Solutions Intellectual Property as used or offered for use, licensing or sale by Sellers in connection with the Security Solutions immediately prior to the execution of this Agreement does not infringe on any Intellectual Property rights of any person or entity anywhere in the world. Except as set forth in , no claims (i) challenging the validity or effectiveness of the Owned Intellectual Property, (ii) challenging the ownership by Sellers of any Owned Intellectual Property, or (iii) to the effect that the development, use, distribution, licensing, sublicensing, sale or any other exercise of rights in any product,
+Schedule 3.10(c)(i)
+Schedule 3.10(c)(ii)
+ 
+service, work, technology or process as used or offered for use, licensing, sublicensing or sale by Sellers in connection with the Security Solutions immediately prior to the Closing infringes on any Intellectual Property or other proprietary or personal right of any person or entity have been asserted against either Seller and are outstanding or, to Sellers' Knowledge, are threatened by any person prior to the execution of this Agreement, nor are there, to Sellers' Knowledge, any valid grounds for any bona fide claim of any such kind prior to the execution of this Agreement. To Sellers' Knowledge, there is no unauthorized use, infringement or misappropriation of any of the Owned Intellectual Property by any third party, employee or former employee.
+ 
+(d) identifies each license or other agreement pursuant to which Sellers have licensed, distributed or otherwise granted any rights to any third party with respect to, any Owned Intellectual Property except for licenses or other rights granted to third parties in the ordinary course of business (the "").
+Schedule 3.10(d)
+Seller Out-License Agreements
+ 
+(e) Except as otherwise provided for in Section 3.10(c) and except as set forth in , the Security Solutions Intellectual Property constitutes all of the Intellectual Property necessary to carry out the activities and operations of the Security Solutions as carried out immediately prior to the Closing, including without limitation, to the extent required to carry out such activities, rights to make, use, reproduce, modify, adopt, create derivative works based on, translate, distribute (directly and indirectly), transmit, display and perform publicly, license, rent and lease and, solely with respect to the Owned Intellectual Property, assign and sell, the Security Solutions Intellectual Property. Except as set forth in , the Owned Intellectual Property is free and clear of any and all Liens. Except as set forth on , neither Seller must obtain the approval or consent of any licensor of the Licensed Intellectual Property in order to convey the Licensed Intellectual Property to Buyer as contemplated by this Agreement.
+Schedule 3.10(e)(i)
+Schedule 3.10(e)(ii)
+Schedule 3.10(e)(iii)
+ 
+(f) Except as set forth on , all of the source code relating to the software programs that are part of the Owned Intellectual Property (the "") is owned by Sellers. Except as set forth on , the Source Code has not been licensed to any third party except pursuant to the GNU General Public License or other similar restrictive open source code license.
+Schedule 3.10(f)(i)
+Source Code
+Schedule 3.10(f)(ii)
+ 
+(g) Except as set forth in , all personnel, including employees, agents, consultants and contractors, who have contributed to or participated in the conception and development of the Owned Intellectual Property on behalf of Sellers, have executed confidentiality or nondisclosure agreements similar to the form set forth in and either (i) have been a party to a "work-for-hire" arrangement or agreement with either Seller in accordance with applicable law that has accorded such Seller full, effective, exclusive and original ownership of all Intellectual Property rights thereby arising, or (ii) have executed appropriate instruments of assignment in favor of Sellers as assignee that have conveyed to Sellers full, effective and exclusive ownership of all Intellectual Property rights thereby arising.
+Schedule 3.10(g)
+Schedule 3.10(g)
+ 
+(h) Except for the Licensed Intellectual Property and the SDMA Intellectual Property, and except as set forth in , all of the copyrightable materials (including software) incorporated in Sellers' Current Customer Deliverables have been created by employees of Sellers within the scope of their employment by Sellers or by independent contractors of Sellers who have executed agreements expressly assigning all right, title and interest in such copyrightable materials to Sellers. Except as set forth in , no portion of such copyrightable materials was jointly developed with any third party.
+Schedule 3.10(h)(i)
+Schedule 3.10(h)(ii)
+ 
+(i) contains a true, correct and complete list of the Current Customer Deliverables. The execution and delivery of this Agreement and the Closing will not cause the termination or forfeiture of any Security Solutions Intellectual Property.
+Schedule 3.10(i)
+ 
+(j) To the Knowledge of Sellers, except as set forth in , the Current Customer Deliverables and the Internal Systems of Sellers are free from significant defects or programming errors and conform in material respects to the written documentation and specifications therefor. Sellers use commercially reasonable efforts to regularly scan the Current Customer Deliverables with virus detection software. To the Knowledge of Sellers, the Customer Deliverables and other related Security Solutions Intellectual Property contain no viruses. For the purposes of this Agreement, "virus" means any computer code intentionally designed to harm, disrupt, or disable in any manner the operation of any software or hardware.
+Schedule 3.10(j)
+ 
+(k) Sellers have implemented reasonable steps and practices for the physical and electronic protection of their trade secret and confidential information used in the Security Solutions from unauthorized disclosure, use or modification.
+ 
+(l) Except as set forth in , Sellers do not owe any royalties or other payments to third parties in respect of any Owned Intellectual Property, Licensed Intellectual Property or SDMA Intellectual Property. All royalties or other payments set forth in that have accrued prior to the date of this Agreement have been paid in full.
+Schedule 3.10(l)
+Schedule 3.10(l)
+ 
+(m) Except as set forth in , the Current Customer Deliverables and the Owned Intellectual Property are not subject to any source code escrow or similar agreement to which either Seller is a party.
+Schedule 3.10(m)
+ 
+(n) There are no contractual or other restrictions on Sellers' ability to disclose the Owned Intellectual Property (including computer source code).
+ 
+(o) Except as set forth on , neither Seller is a party to any contract or other agreement containing any continuing or outstanding warranties applicable to Current Customer Deliverables for which Buyer will be liable following the Closing.
+Schedule 3.10(o)
+ 
+(p) NOTWITHSTANDING ANYTHING TO THE CONTRARY IN ANY OTHER PROVISION OF THIS AGREEMENT, SELLERS MAKE NO
+ 
+REPRESENTATIONS OR WARRANTIES WHATSOEVER, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE DISCONTINUED CUSTOMER DELIVERABLES. BUYER ACKNOWLEDGES AND AGREES THAT ALL DISCONTINUED CUSTOMER DELIVERABLES ARE SOLD, TRANSFERRED AND CONVEYED "AS-IS".
+ 
+3.11 . Each supplier of goods or services related to the Security Solutions to whom Sellers have paid more than $25,000, in the aggregate, for goods or services exclusively related to the Security Solutions, during the twelve (12) month period ended on June 30, 2004 (the ""), and each customer of the Security Solutions who paid Sellers more than $25,000, in the aggregate, exclusively related to the Security Solutions, during such period, is listed on , which Schedule reflects in each case the amounts so paid. Neither Seller is engaged in any dispute with any of such suppliers or customers related exclusively to the Security Solutions. Neither Seller has any reason to believe that the sale and transfer of the Purchased Assets hereunder or any other transaction contemplated by this Agreement will have any adverse effect on the business relationship of any such suppliers or customers of the Security Solutions.
+Major Suppliers and Customers
+Statement of Income Date
+Schedule 3.11
+ 
+3.12 . Except as set forth on , there are no claims, actions, suits, arbitration proceedings, inquiries, hearings, injunctions or investigations ("") pending or, to Sellers' Knowledge, threatened against either Seller that in any manner involves or relates to the Purchased Assets, the Security Solutions or any of the officers, directors, employees or other personnel providing services to the Security Solutions. Except as set forth on , no Claims have been brought within the last three years against either Seller or relating to either Seller's ownership, use or operation of the Security Solutions or the Purchased Assets. There are no facts or circumstances which could serve as the basis for any Claim against either Seller that affect, involve or relate to the Security Solutions, the Security Solutions Intellectual Property or the Purchased Assets, or, by virtue of the execution, delivery and performance of any Seller Agreement, against Buyer.
+Litigation
+Schedule 3.12
+Claims
+Schedule 3.12
+ 
+3.13 . There is not outstanding or, to Sellers' Knowledge, threatened any order, writ, injunction or decree of any court, governmental agency or arbitration tribunal against or involving either Seller that in any manner involves or relates to the Security Solutions or the Purchased Assets. Each Seller is currently, and has been at all times, in compliance in all material respects with all laws, statutes, rules, regulations, orders and licensing requirements ("") of all Governmental Authorities applicable to the business, properties and operations of the Security Solutions (including without limitation those relating to antitrust and trade regulation, civil rights, labor and discrimination, safety and health). There has been no allegation of any violation of any such Laws, and no investigation or review by any Governmental Authority is pending, or, to Sellers' Knowledge, planned or threatened with respect to the Security Solutions or the Purchased Assets.
+Compliance with Decrees and Laws
+Laws
+ 
+3.14 . Each Seller has obtained all material permits, authorizations, certificates, approvals, licenses, exemptions and classifications required for the conduct of the Security Solutions and the ownership and operation of the Purchased Assets. Neither Seller is in
+Permits
+ 
+material violation of any of the Permits, and no proceedings are pending or, to Sellers' Knowledge, threatened to revoke or limit any Permit. All of the Permits will be effectively assigned and transferred to Buyer at the Closing.
+ 
+3.15 . Sellers have properly completed and timely filed all tax returns, reports, statements and declarations of estimated tax required to be filed by either of them with any Governmental Authority in connection with the Security Solutions (the ""), and all such Tax Returns are true, correct and complete as filed. Sellers have paid or caused to be paid in full, or made adequate provisions in the Financial Statements for, all taxes, levies, assessments, tariffs, imposts, impositions, tolls, duties, deficiencies or fees (and related fines, penalties and interest) ("") due and owing by it in connection with the Security Solutions, whether or not shown (or required to be shown) on any Tax Returns. Sellers have not been notified by any Governmental Authority that an audit or review of any tax matter is contemplated related to the Security Solutions.
+Taxes
+Tax Returns
+Taxes
+ 
+3.16 . With respect to employment matters:
+Labor and Employment Matters
+ 
+(a) No employees of either Seller who work in the Security Solutions are or have been represented by a union or other labor organization or covered by any collective bargaining agreement or union contract. To Seller's Knowledge, no union is attempting to organize any such employees.
+ 
+(b) There is no unfair labor practice complaint, labor organizational effort, labor strike, dispute, slowdown, stoppage or similar labor difficulty pending or, to Sellers' Knowledge, threatened against or affecting the Security Solutions, nor have there been any such events pending or threatened since the Statement of Income Date.
+ 
+(c) Each Seller is in compliance in all material respects with all federal, state, local and foreign Laws and regulations respecting employment and employment practices, terms and conditions of employment and wages and hours with respect to the Security Solutions, and there is no unfair labor practice complaint against either Seller pending or, to Sellers' Knowledge, threatened.
+ 
+3.17 . sets forth a list of the name, years of service, position, state of employment, employment term, rate of compensation, vacation or other paid time-off accrued, and any incentive compensation arrangements, bonuses or commissions or fringe or other benefits, of each person who is primarily employed in or providing services to the Security Solutions unit in any capacity (whether as an employer, officer, director, independent contractor or otherwise).
+Employees; Compensation and Benefits
+Schedule 3.17
+ 
+3.18 . Except as described in , since the Statement of Income Date, (a) Sellers have conducted the operations and business of the Security Solutions only in the ordinary course consistent with past practices, (b) there has not occurred any event or development which, individually or in the aggregate, has had, or could reasonably be expected to have in the future, a material adverse change with respect to or material adverse effect on, (i) the assets (including intangible assets), business, financial condition, or results of operations of the Security Solutions, taken as a whole, or (ii) the ability of
+Absence of Certain Changes
+Schedule 3.18
+ 
+Buyer to operate the Security Solutions immediately after the Closing in the manner the Security Solutions operated by the Sellers immediately prior to the Closing; provided, however, that any effect, change or event relating to or arising out of the following shall not constitute a Material Adverse Change (x) any change in software industry related rules or regulations of general applicability or interpretations thereof by courts or governmental authorities, (y) general changes in conditions in the software industry or in the global or United States economy or technology markets, with respect to clause (x) and (y), to the extent that a change does not affect the Security Solutions to a materially different extent than other similarly situated software companies, (z) any action or omission of Sellers or Buyer taken with the prior written consent of the other party, as applicable, which written consents (if any) will constitute Deliverables of Sellers and/or Buyer to be provided to the other party as appropriate, as contemplated in this Agreement, or (a) the execution and delivery of this Agreement or the consummation of the transactions contemplated hereby or the announcement thereof, (a ""), and (c) neither Seller has taken any of the actions set forth in Section 5.1.
+Material Adverse Change
+ 
+3.19 . The Purchased Contracts do not include any agreement or arrangement with, or any other commitment to (a) any director, officer or employee of either Seller providing services to, or charged with oversight of any portion of, the Security Solutions; (b) any person related by blood or marriage to any such director, officer or employee; or (c) any corporation, partnership, company, trust or other entity in which either Seller or its affiliates or any of their respective directors, officers, employees or related persons has a material equity, financial or participating interest.
+Related Party Transactions
+ 
+3.20 . Except as set forth on , no finder, broker, agent or other intermediary has acted for or on behalf of Sellers in connection with the transactions contemplated by this Agreement, and there are no claims for any brokerage commission, finder's fee or similar payment ("") due from Sellers.
+Brokers
+Schedule 3.20
+Broker Fees
+ 
+3.21 . Except as set forth on , during the term of its existence, Sellers have not conducted its Security Solutions under any name other than Netscape Communications Corporation, Netscape Security Solutions, and AOL Strategic Business Solutions. All assets and rights relating to the Security Solutions are held by, and all agreements, obligations, expenses and transactions relating to the Security Solutions have been entered into, incurred and conducted by, Sellers in the name Netscape Communications Corporation, Netscape Security Solutions, or AOL Strategic Business Solutions.
+Names
+Schedule 3.21
+ 
+3.22 . There is no inventory associated with the Security Solutions.
+Inventories
+ 
+ 
+Buyer represents and warrants to Sellers as follows:
+ 
+4.1 . Buyer is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware.
+Organization and Good Standing
+ 
+4.2 . Buyer has the requisite corporate power and authority to execute, deliver and perform this Agreement and all other agreements, certificates, instruments
+Authority
+ 
+and documents to be executed and delivered by Buyer pursuant to this Agreement (collectively, the "") and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance of the Buyer Agreements, and the consummation of the transactions contemplated hereby and thereby, have been, or will be by the Closing, duly and validly authorized by all necessary corporate action on the part of Buyer. The Buyer Agreements have been or, with respect to Buyer Agreements to be executed at the Closing, will be duly executed and delivered by Buyer and each constitutes, or will constitute when executed and delivered, a legal, valid and binding obligation of Buyer, enforceable against Buyer in accordance with its terms, subject to bankruptcy, insolvency, reorganization, moratorium and similar laws affecting the rights and remedies of creditors, and subject to the further qualification that the remedy of specific performance or injunctive relief is discretionary with the court before which any proceeding therefor may be brought.
+Buyer Agreements
+ 
+4.3 . The execution, delivery and performance of the Buyer Agreements do not and will not (a) conflict with or constitute a violation of the certificate of incorporation or bylaws of Buyer; or (b) conflict with or constitute a violation of any law, statute, judgment, order, decree, rule or regulation of any legislative body, court, administrative agency, governmental authority or arbitrator applicable to or relating to Buyer.
+No Conflict or Breach
+ 
+4.4 . No consent, approval, authorization, registration or filing with any federal, state or local judicial or governmental authority or administrative agency is required in connection with the valid execution and delivery by Buyer of the Buyer Agreements or the consummation by Buyer of the transactions contemplated herein or therein.
+Governmental Approvals
+ 
+4.5 . Buyer has retained no finder, broker, agent or other intermediary to act for or on behalf of Buyer in connection with the transactions contemplated by this Agreement, and no party has made any claims for any Broker Fees due from Buyer.
+Brokers
+ 
+ 
+Each Seller covenants and agrees with Buyer as follows:
+ 
+5.1 . Between the date of this Agreement and the Effective Time, Sellers shall, except with prior written consent of Buyer, which consent shall not be unreasonably withheld or delayed:
+Conduct of Security Solutions
+ 
+(a) Conduct the operations of the Security Solutions in the normal and customary manner in the ordinary course of business consistent with past practice;
+ 
+(b) Maintain and keep the Tangible Purchased Property, and any tangible assets leased under leases to be assumed by Buyer, in good operating order, repair and condition, ordinary wear and tear excepted;
+ 
+(c) Perform all of its material obligations under all Contracts, and not amend, alter or modify any provision thereof;
+ 
+(d) Use their reasonable best efforts to preserve the Security Solutions organization intact and maintain its relationships with its employees, contractors, service providers, suppliers and customers;
+ 
+(e) Promptly advise Buyer of any Material Adverse Change in the Security Solutions or the Purchased Assets;
+ 
+(f) Promptly advise Buyer of the occurrence of any event or circumstance which affects the consummation of the transactions contemplated by this Agreement or which, if in existence on the date of this Agreement, would have been required to have been disclosed in a Schedule to this Agreement;
+ 
+(g) Not create or permit to exist any Lien with respect to any of the Purchased Assets, except for the Liens described on , all of which will be removed at or prior to the Closing;
+Schedule 3.7
+ 
+(h) Not sell or dispose of any Purchased Assets;
+ 
+(i) Promptly advise Buyer of any change in the employees or contractors providing services to the Security Solutions or in the compensation payable to any such employee or contractor that Buyer intends to employ or retain after the Closing Date as set forth on ;
+Exhibit I
+ 
+(j) Not make any capital improvement or expenditure related to the Security Solutions; and
+ 
+(k) Maintain and collect the Receivables and extend credit terms to its customers in the ordinary course of business consistent with past practices.
+ 
+5.2 . Each Seller shall permit, upon reasonable notice, Buyer and its counsel, accountants and other representatives full access during normal business hours to all the properties, assets, books, records, agreements and other documents of Sellers relating to the Security Solutions. Each Seller shall furnish to Buyer and its representatives all information related to operating the Purchased Assets, and all information related to operation of the Security Solutions as Buyer may reasonably request. Sellers shall permit and facilitate communications between Buyer and the suppliers, customers and other persons having relationships with the Security Solutions.
+Access and Information
+ 
+5.3 . Until the earlier of the Closing Date or the termination of this Agreement in accordance with Article XII below, each Seller and its respective management and representatives shall not solicit or encourage any offer, proposal or inquiry from, or engage in any discussions or negotiations with, any party other than Buyer regarding the sale, lease or license of any of the Purchased Assets or of any material part of the Security Solutions. Sellers shall immediately notify Buyer regarding any contact between either Seller or its respective management or representatives and any other party regarding any such offer or proposal or related inquiry. Each Seller represents that neither it nor any of its affiliates is party to or bound by any agreement with respect to any transaction of the type described in this
+No Other Solicitations
+ 
+Section 5.3 or which would prevent or adversely affect the consummation of any of the transactions provided for in this Agreement.
+ 
+5.4 . Prior to the Closing, Sellers shall obtain all assignments or other agreements necessary to vest ownership in, or to confirm the ownership by, Sellers of all right, title and interest in and to each item included in the Owned Intellectual Property, free and clear of any Liens (the ""), which Intellectual Property Assignments shall be in form and substance reasonably satisfactory to Buyer.
+Intellectual Property Assignments
+Intellectual Property Assignments
+ 
+5.5 Sellers shall reasonably cooperate and use commercially reasonable efforts to cause their accountants to reasonably cooperate with Buyer and Buyer's accountants to provide Buyer and Buyer's accountants financial and other information of Sellers related to the Security Solutions unit: (i) to enable Buyer and Buyer's accountants to prepare pro-forma financial statements relating to Buyer, the Security Solutions unit and/or the Purchased Assets that Buyer and Buyer's accountants determine in good faith are required to be prepared by Buyer (collectively, the "Pro Forma Financial Statements"), and (ii) to enable Buyer to comply with any and all reporting and disclosure requirements of laws, regulations and stock market rules applicable to Buyer. Buyer will pay the fees and costs of Sellers' accountants, and any temporary employees or independent contractors engaged, in connection with the preparation and delivery of the Carve-Out Financial Statements and compliance with this Section 5.5. Unless Buyer shall have waived the condition to closing set forth in Section 8.17, the covenants of this Section shall be continuing covenants for a period of 75 days following Closing.
+Cooperation on Financial and Reporting Matters
+.
+ 
+5.6 * * * * *
+ 
+5.7 . The Parties acknowledge and agree that Sellers will not deliver any Discontinued Customer Deliverables to Buyer at Closing but instead shall deliver the Discontinued Customer Deliverables to Buyer no later than twenty-eight (28) days following Closing. Sellers shall use commercially reasonable efforts to remove from Discontinued Customer Deliverables all third party software and related Intellectual Property (the "") prior to delivery to Buyer.
+Delivery of Discontinued Customer Deliverables
+Discontinued Third Party IP
+ 
+ 
+Buyer covenants and agrees with each Seller as follows:
+ 
+6.1 . Buyer acknowledges and agrees that, except as expressly set forth in , Buyer is not purchasing or acquiring, and Sellers are not assigning, conveying or transferring to Buyer, any license, right, title or other interest in or to (i) any software, data or other information that may reside on or be contained in any Tangible Personal Property that is not a Purchased Asset or (ii) any Discontinued Third Party IP contained in any Discontinued Customer Deliverable (the ""). If any Tangible Personal Property or Discontinued Customer Deliverable contains any Excluded Materials upon delivery to Buyer, Buyer covenants and warrants that it shall not use or permit the use of any such
+Excluded Materials
+Schedule 1.2(e)
+Excluded Materials
+ 
+Excluded Materials for any purpose whatsoever and shall not disclose any such Excluded Materials to any third party. Buyer further covenants and warrants that if it is notified by Sellers that any Excluded Materials reside on or are contained in any Tangible Personal Property or Discontinued Customer Deliverable, as the case may be, or if Buyer otherwise discovers any Excluded Materials residing on or contained in any Tangible Personal Property or Discontinued Customer Deliverable, Buyer shall, as soon as practicable, delete or remove all such Excluded Materials from the Tangible Personal Property or Discontinued Customer Deliverable and delete or destroy all copies of such Excluded Materials.
+ 
+6.2 . Buyer shall retain the records obtained from the Sellers for a period of five (5) years after the Closing Date. Buyer shall permit Sellers to have access to such records as either Seller may reasonably request, upon reasonable notice, in connection with any dispute, litigation, controversy, investigation or other proceeding involving the Security Solutions prior to the Closing Date.
+Record Retention
+ 
+ 
+Buyer covenants and agrees with Sellers, and Sellers covenant and agree with Buyer, as follows:
+ 
+7.1 . Each party hereto agrees to use its reasonable best efforts to satisfy the conditions to the Closing set forth in this Agreement and otherwise to consummate the transactions contemplated by this Agreement. Without limiting the generality of the foregoing, Buyer and each Seller shall use its reasonable best efforts to make or obtain as promptly as possible prior to Closing (i) all consents, approvals, authorizations, registrations and filings with all federal, state, local or foreign judicial or governmental authorities or administrative agencies as are required in connection with the consummation of the transactions contemplated by the Buyer Agreements and the Seller Agreements, respectively, and (ii) all other Required Consents.
+Best Efforts
+ 
+7.2 . In recognition of the confidential nature of certain of the information which will be provided by one or more parties to other parties hereunder, Buyer and each Seller agrees to retain in confidence, and to require its directors, officers, employees, consultants, professional representatives and agents (collectively, its "") to retain in confidence all information transmitted or disclosed to it by any other party hereto, including without limitation the existence of this Agreement and the terms of and transactions contemplated in this Agreement (""), and further agrees that it will not use for its own benefit and will not use or disclose to any third party, or permit the use or disclosure to any third party of, any Confidential Information obtained from or revealed by any other party hereto, except that Buyer and each Seller may disclose Confidential Information to those of its Representatives who need the Confidential Information for the proper performance of their assigned duties with respect to the consummation of the transactions contemplated hereby and who are subject to a nondisclosure obligation comparable in scope to this Section 7.2. In making such Confidential Information available to its Representatives, Buyer and each Seller shall take any and all precautions necessary to ensure that its Representatives use the Confidential Information only as permitted hereby. Notwithstanding anything to the contrary in the foregoing provisions, such Confidential Information may be disclosed (a) to the extent
+Confidentiality
+Representatives
+Confidential Information
+ 
+provided in Section 13.5 hereof or otherwise as Buyer determines in good faith after consultation with counsel it is required by applicable securities laws, securities regulations or stock market rules, provided that (i) Buyer shall only disclose those portions of the SDMA that bear on the rights and obligations of Buyer under the SDMA Sublicense, or (ii) if Buyer determines that it is required to disclose any portions of the SDMA other than those that bear on the rights and obligations of Buyer under the SDMA Sublicense, Buyer shall, in consultation with Sellers, use its commercially reasonable efforts to promptly seek confidential treatment with the Securities and Exchange Commission with respect thereto; (b) where it is otherwise necessary to any regulatory authorities or governmental agencies or required by a final, non-appealable court order or decree or applicable law; (c) if it is ascertainable or obtained from public or published information; (d) if it is received from a third party not known to the recipient to be under an obligation to keep such information confidential; or (e) if the recipient can demonstrate that such information was in its possession prior to disclosure thereof in connection with this Agreement. If any party shall be required to make disclosure of any such Confidential Information by operation of law other than pursuant to clause (a) in the preceding sentence, such disclosing party shall give the other parties prior notice of the making of such disclosure and shall use all reasonable efforts to afford such other party an opportunity to contest the making of such disclosure. In the event that the Closing shall not occur, Buyer and each Seller shall immediately deliver, or cause to be delivered, to the appropriate party (without retaining any copies thereof) any and all documents, statements, media or other written or electronic Confidential Information obtained from such party that contain Confidential Information.
+ 
+7.3 .
+Allocation of Tax Liabilities
+ 
+(a) Sellers shall be responsible for and shall pay or cause to be paid timely any and all Taxes imposed on Sellers, or otherwise imposed on or with respect to the ownership or operation of the Purchased Assets, with respect to all periods that end on or before the Closing Date.
+ 
+(b) Buyer shall be responsible for and shall pay or cause to be paid timely any and all Taxes imposed on Buyer, or otherwise imposed on or with respect to the ownership or operation of the Purchased Assets, with respect to all periods that begin after the Closing Date.
+ 
+ 
+The obligations of Buyer to consummate the transactions contemplated by this Agreement are subject to the satisfaction of the following conditions on or before the Closing Date, unless specifically waived in writing by Buyer prior to the Closing Date:
+ 
+8.1 . The representations and warranties of each Seller contained in this Agreement shall have been true and correct on the date of this Agreement and shall be true and correct on the Closing Date as though made on and as of the Closing Date, except for such inaccuracies of representations and breaches of warranties that, individually or in the aggregate, shall not have had, and shall not reasonably be likely to cause, a Material Adverse Change.
+Representations and Warranties
+ 
+8.2 . Each Seller shall have duly performed and complied in all material respects with all covenants, agreements and obligations required by this Agreement to be performed or complied with by it on or prior to the Closing Date.
+Compliance with Covenants
+ 
+8.3 . No action or proceeding shall be pending before any court or other governmental body or agency seeking to restrain, prohibit or invalidate any of the transactions contemplated by this Agreement or which would materially and adversely affect the right of Buyer to own, operate or control the Purchased Assets after the Closing Date.
+Absence of Litigation
+ 
+8.4 . Between the date of this Agreement and the Closing Date, no Material Adverse Change shall have occurred in the Security Solutions or the Purchased Assets, nor shall there have occurred any material casualty loss or destruction of, or damage to, any of the Purchased Assets whether or not covered by insurance.
+Absence of Change
+ 
+8.5 . All Required Consents shall have been made or obtained and any applicable waiting periods in connection therewith shall have expired. Any condition or restriction imposed in connection with any of the foregoing shall not cause, or reasonably be expected to cause, a Material Adverse Change on Buyer's operation, control or business prospects of the Purchased Assets.
+Consents and Approvals
+ 
+8.6 . All Liens indicated to exist by record searches made by Buyer prior to the Closing Date (specifically including, but not limited to, those liens described on ) shall have been removed, and Sellers shall have provided evidence reasonably satisfactory to Buyer of such removal.
+Removal of Liens
+Schedule 3.7
+ 
+8.7 . Buyer shall have received from counsel to Sellers an opinion, dated as of the Closing Date, in form and substance reasonably satisfactory to Buyer.
+Legal Opinion
+ 
+8.8 . Buyer shall have entered into employment and non-competition agreements on an "at will" basis, in form and substance satisfactory to Buyer with each of the persons who are currently employed in relation to or provide services to the Security Solutions and are identified on I (the "").
+Key Personnel
+Exhibit
+Key Personnel
+ 
+8.9 . Sellers shall have executed and delivered to Buyer the Non-Competition Agreement.
+Non-Competition Agreement
+ 
+8.10 . Sellers shall have executed and delivered to Buyer the SDMA Sublicense.
+SDMA Sublicense
+ 
+8.11 . Sellers shall have executed and delivered to Buyer the Patent License.
+Patent License
+ 
+8.12 . Sellers shall have executed and delivered to Buyer the Grant-Back License.
+Grant-Back License
+ 
+8.13 . Sellers shall have executed and delivered to Buyer the Trademark License.
+Trademark License
+ 
+8.14 . Sellers shall have provided evidence satisfactory to Buyer in its sole discretion that all Intellectual Property Assignments have been obtained, free and clear of any Liens.
+Intellectual Property Assignments
+ 
+8.15 . Sellers shall have executed and delivered to Buyer the Customer Deliverable Escrow Agreement.
+Customer Deliverable Escrow Agreement
+ 
+8.16 . Sellers shall have executed and delivered to Buyer all Deliverables requested by Buyer.
+Deliverables
+ 
+8.17 . Buyer shall have either (i) advised Sellers in writing that Buyer does not require the Carve-Out Financial Statements or (ii) received the Carve-Out Financial Statements; provided that, if notwithstanding Sellers' compliance with Section 5.5, Sellers have not satisfied this condition within twenty-one (21) days of the date of this Agreement, then Sellers may advise Buyer in writing at any time thereafter that Sellers have not satisfied this condition, in which event this Agreement will terminate.
+Financial and Reporting Matters
+ 
+ 
+The obligations of each Seller to consummate the transaction contemplated by this Agreement are subject to the satisfaction of each of the following conditions on or before the Closing Date, unless specifically waived in writing by such Seller prior to the Closing:
+ 
+9.1 . The representations and warranties of Buyer contained in this Agreement shall have been true and correct in all material respects on the date of this Agreement, and shall be true and correct in all material respects on the Closing Date as though made on and as of the Closing Date.
+Representations and Warranties
+ 
+9.2 . Buyer shall have duly performed and complied in all material respects with all covenants, agreements and obligations required by this Agreement to be performed or complied with by it on or before the Closing Date.
+Compliance with Covenants
+ 
+9.3 . No action or proceeding shall be pending by or before any court or other governmental body or agency seeking to restrain, prohibit or invalidate the transactions contemplated by this Agreement.
+Absence of Litigation
+ 
+9.4 . All Required Consents shall have been made or obtained, and any applicable waiting periods in connection therewith shall have expired.
+Consents and Approvals
+ 
+9.5 . Sellers shall have received from counsel to Buyer an opinion, dated as of the Closing Date, in form and substance reasonably satisfactory to Sellers.
+Legal Opinion
+ 
+9.6 . Buyer shall have executed and delivered to Sellers the Grant-Back License.
+Grant-Back License
+ 
+9.7 . Buyer shall have executed and delivered to Sellers the Maintenance and Support Services Agreement.
+Maintenance and Support Services Agreement
+ 
+9.8 . Buyer shall have executed and delivered to Sellers the Customer Deliverable Escrow Agreement.
+Customer Deliverable Escrow Agreement
+ 
+9.9 . Buyer shall have executed and delivered to Sellers all Deliverables requested by Sellers.
+Deliverables
+ 
+ 
+10.1 . The closing of the sale of the Purchased Assets (the "") shall take place at the offices of Womble Carlyle Sandridge & Rice, PLLC, in Research Triangle Park, North Carolina, at 10:00 a.m., local time, on November 4, 2004 or such other date as may be mutually agreed upon by the parties hereto; provided, however, that in no event may the Closing be postponed beyond December 15, 2004. The date of the Closing is referred to as the "." Subject to the specific provisions of Sections 1.2(i) and 2.4, for the purposes of passage of title, risk of loss, allocation of expenses, adjustments and other economic or financial effects of the transactions contemplated hereby, the Closing when completed shall be deemed to have occurred at 11:59:59 p.m., local time, on the Closing Date (the "").
+Closing
+Closing
+,
+Closing Date
+Effective Time
+ 
+10.2 . At the Closing, each party shall execute and deliver to the other such agreements, certificates, filings, instruments of conveyance or assumption and other documents as may be (i) required or contemplated by this Agreement, (ii) customary for transactions of this nature, and (iii) reasonably requested by the other party hereto, all of which shall be in form and substance reasonably satisfactory to the other party collectively, (the "").
+Deliveries
+Deliverables
+ 
+10.3 . At any time on or after the Closing Date and without further consideration, each Seller shall take any and all actions reasonably requested by Buyer to place Buyer in possession and operating control of the Purchased Assets, and will do, execute, acknowledge and deliver all such further acts, deeds, assignments, transfers, conveyances, powers of attorney and assurances as may be reasonably requested by Buyer for the more effective transfer to and reduction to possession of Buyer, or its successors or assigns, of any of the Purchased Assets.
+Further Assurances
+ 
+ 
+11.1 . Each Seller shall, jointly and severally, indemnify, defend and hold harmless Buyer and its Representatives and affiliates (the "") from, against and with respect to any and all action or cause of action, loss, damage, claim, obligation, liability, penalty, fine, cost and expense (including without limitation reasonable attorneys' and consultants' fees and costs and expenses incurred in investigating, preparing, defending against or prosecuting any litigation, claim, proceeding, demand, or request for action by any Governmental Authority), of any kind or character (a "") arising out of or in connection with any of the following:
+Indemnification by Sellers
+Buyer Indemnitees
+Loss
+ 
+(a) any breach of any of the representations or warranties of either Seller contained in or made pursuant to any Seller Agreement;
+ 
+(b) any failure by either Seller to perform or observe, or to have performed or observed, in full, any covenant, agreement, obligation or condition to be performed or observed by it pursuant to any Seller Agreement;
+ 
+(c) any and all liabilities and obligations of either Seller, of any kind or nature whatsoever, whether accrued, absolute, contingent or otherwise, known or unknown, except for the Assumed Liabilities;
+ 
+(d) any Customer Deliverable or component thereof manufactured, sold, licensed, leased or distributed by, or any services provided by, either Seller prior to the Effective Time;
+ 
+(e) the ownership, use and operation of the Purchased Assets prior to the Effective Time;
+ 
+(f) any breach of or failure by either Seller to perform or observe, or to have performed or observed, in full, any covenant, agreement, obligation or condition to be performed or observed by it pursuant to any Purchased Contract prior to the Effective Time; or
+ 
+(g) any claim for Broker Fees owed by Sellers.
+ 
+11.2 . Buyer shall indemnify, defend and hold harmless Sellers and Sellers' Representatives from, against and with respect to any Loss arising out of or in connection with any of the following:
+Indemnification by Buyer
+ 
+(a) any breach of any of the representations and warranties of Buyer contained in or made pursuant to any Buyer Agreement;
+ 
+(b) any failure by Buyer to perform or observe, or to have performed or observed, in full, any covenant, agreement, obligation or condition to be performed or observed by it pursuant to any Buyer Agreement;
+ 
+(c) the Assumed Liabilities;
+ 
+(d) Buyer's ownership, use and operation of the Purchased Assets on and after the Effective Time;
+ 
+(e) any product or component thereof manufactured, distributed or sold by, or any services provided by, Buyer on or after the Effective Time, unless such product was manufactured or distributed by either Seller prior to the Effective Time;
+ 
+(f) any breach of or failure by Buyer to perform or observe, or to have performed or observed, in full, any covenant, agreement, obligation or condition to be
+ 
+performed or observed by it pursuant to any Purchased Contract on or after the Effective Time.
+ 
+11.3 . Any party seeking to be indemnified hereunder (the "") shall promptly notify the party from whom indemnity is sought (the "") in writing of any claim for recovery, specifying in reasonable detail the nature of the Loss and, to the extent ascertainable, the amount of the liability estimated to arise therefrom. The Indemnified Party shall provide to the Indemnity Obligor as promptly as practicable thereafter all information and documentation reasonably requested by the Indemnity Obligor to verify the claim asserted. The failure of the Indemnified Party to notify the Indemnity Obligor on a timely basis will not relieve the Indemnity Obligor of any liability that it may have to the Indemnified Party, except to the extent the defense of such action is prejudiced by the Indemnified Party's failure to give such notice.
+Notice of Claim
+Indemnified Party
+Indemnity Obligor
+ 
+11.4 . If the facts pertaining to a Loss arise out of the claim of any third party, or if there is any claim against a third party available by virtue of the circumstances of the Loss, the Indemnity Obligor may, by giving written notice to the Indemnified Party within twenty (20) days following its receipt of the notice of such claim, elect to assume the defense or the prosecution thereof, including the employment of counsel or accountants at its cost and expense; provided, however, that the Indemnity Obligor may assume the defense or prosecution thereof only if (i) it provides evidence reasonably acceptable to the Indemnified Party that it will have the financial resources to defend the claim and satisfy its indemnification obligations; (ii) it obtains counsel which is reasonably satisfactory to the Indemnified Party; (iii) the third party claim involves only money damages and does not seek an injunction or other equitable relief; (iv) it conducts the defense of the claim actively and diligently; and (v) it keeps the Indemnified Party informed of all material developments and events relating thereto Notwithstanding the foregoing, for the avoidance of doubt, the Indemnity Obligor shall have no obligation to defend any claim of any third party alleging that any Current Customer Deliverable infringes any Intellectual Property of a third party to the extent the Plaintiff or Counterclaim-Plaintiff does not specifically allege in writing that the Current Customer Deliverables infringe such Intellectual Property (even if the Indemnity Obligor has previously elected to assume the defense of such claim, provided that if the Indemnity Obligor elects to discontinue its defense of any such claim pursuant to this sentence, the Indemnity Obligor must provide prompt notice to the Indemnified Parties of its election to discontinue the defense of such claim). The Indemnified Party shall have the right to employ counsel separate from counsel employed by the Indemnity Obligor in any such action and to participate therein, but the fees and expenses of such counsel shall be at the Indemnified Party's own expense. Whether or not the Indemnity Obligor chooses so to defend or prosecute such claim, all the parties hereto shall cooperate in the defense or prosecution thereof and shall furnish such records, information and testimony and shall attend such conferences, discovery proceedings and trials as may be reasonably requested in connection therewith. The Indemnity Obligor shall have the right to settle, adjust or compromise such claim; provided, however, that the Indemnified Party shall not be liable or obligated for any such settlement, adjustment or compromise of any such claim effected without its prior written consent.
+Defense
+.
+ 
+11.5 .
+Limitations on Indemnity; Escrow Funds
+ 
+(a) . Notwithstanding the provisions of Section 11.1 or 11.2 above, the Indemnified Parties shall not be entitled to indemnification pursuant to this Article XI with respect to any Losses pursuant to Section 11.1 or 11.2 until the aggregate amount of such Losses exceeds Seventy-Five Thousand Dollars (US$75,000) (the ""), whereupon the Indemnified Parties shall be entitled to indemnification for all Losses in excess of the Trigger Amount.
+Trigger Amount
+Trigger Amount
+ 
+(b) . In no event shall the amount for which either the Buyer, on the one hand, or the Sellers, on the other hand, shall be liable to an Indemnified Party hereunder exceed in the aggregate $1,500,000.00 (the ""), except for any claims for Losses resulting from a breach of Sellers' representations and warranties set forth in Sections 3.1, 3.2, 3.3(a), 3.10, 3.15 and 3.20 and the first sentence of Section 3.7 or in the event of fraud or intentional breach or misrepresentation in which event such Maximum Indemnity Amount shall not apply. In the event that a Buyer Indemnitee should suffer any Loss described in Section 11.1, such Buyer Indemnitee shall have recourse solely to the Escrow Funds held pursuant to the Escrow Agreement for the satisfaction of any such Loss; provided, however, that a Buyer Indemnitee shall have no such limitation on its recourse in the event of any claims for Losses resulting from a breach of Sellers' representations and warranties set forth in Sections 3.1, 3.2 3.3(a), 3.10, 3.15 and 3.20 and the first sentence of Section 3.7 or in the event of fraud or an intentional breach or misrepresentation; provided further than no Buyer Indemnitee shall have recourse to the Escrow Funds for any Loss resulting from any breach of representation or warranty set forth in Section 3.10.
+Maximum Indemnity Amount  General; Escrow Funds
+Maximum Indemnity Amount
+ 
+(c) . With respect to any claim for Losses resulting from a breach of Sellers' representations and warranties set forth in Section 3.10 of this Agreement or the SDMA Sublicense (""), Sellers shall indemnify the Indemnified Parties (i) for the first $3,000,000 of IP Losses and (ii) for 50% of any additional IP Losses in excess of $3,000,000, subject to Section 11.5(d).
+Maximum IP Indemnity Amount
+IP Losses
+ 
+(d) . Notwithstanding any other provision of this Agreement, in no event shall Sellers' indemnity obligations pursuant to this Agreement exceed $10,250,000.
+Aggregate Maximum Indemnity Amount
+ 
+11.6 . Any claim asserted with respect to the items enumerated in Sections 11.1 or 11.2 must be submitted to the Indemnity Obligor in writing, or invoked in official proceedings, within one year after the Effective Time, except for (a) any claims for Losses resulting from a breach of Sellers' representations and warranties set forth in Sections 3.1, 3.2, 3.3(a), 3.15 and 3.20 and the first sentence of Section 3.7 or in the event of fraud or an intentional breach or misrepresentation, which may be made within any applicable statute of limitations or (b) any claims for Losses resulting from a breach of Sellers' representations and warranties set forth in Section 3.10, which may be brought any time prior to December 3, 2007.
+Time for Claims
+ 
+11.7 . Except for injunctive and provisional relief (including, but not limited to, specific performance) and claims for fraud or intentional breach or misrepresentation, if the Closing occurs, this Article XI shall be the exclusive remedy for breaches of this
+Remedies
+ 
+Agreement (including any covenant, obligation, representation or warranty contained in this Agreement or in any certificate delivered pursuant to this Agreement) or otherwise in respect of the transactions contemplated hereby.
+ 
+11.8 . In calculating any indemnification payments required to be made under Article XI, there shall be deducted any insurance recovery actually received by the Indemnified Party in respect of any Losses (and no right of subrogation shall accrue hereunder to any insurer).
+Insurance Proceeds
+ 
+ 
+12.1 . This Agreement may be terminated at any time prior to the Closing:
+Termination
+ 
+(a) By the mutual written consent of Sellers and Buyer;
+ 
+(b) By either Seller (if such Seller is not then in breach of any term of this Agreement), if Buyer shall (i) fail to perform or observe any covenant, agreement or condition contained herein required to be performed or observed on or prior to the Closing Date; or (ii) breach any of its representations or warranties contained herein, in each case which failure or breach is not cured within ten (10) days after such Seller has notified Buyer of its intent to terminate this Agreement pursuant to this subparagraph;
+ 
+(c) By Buyer (if Buyer is not then in breach of any term of this Agreement), if either Seller shall (i) fail to perform or observe any covenant, agreement or condition contained herein required to be performed or observed on or prior to the Closing Date; or (ii) breach any of its representations or warranties contained herein, in each case which failure or breach is not cured within ten (10) days after Buyer has notified such Seller of its intent to terminate this Agreement pursuant to this subparagraph;
+ 
+(d) By either Sellers or Buyer, if there shall be any order, writ, injunction or final, non-appealable decree of any court or governmental or regulatory agency binding on Sellers or Buyer which prohibits or restrains Sellers or Buyer from consummating the transactions contemplated hereby; or
+ 
+(e) By either Seller or Buyer, if the Closing has not occurred by December 15, 2004 for any reason other than delay or nonperformance of the party seeking such termination.
+ 
+12.2 . Termination of this Agreement pursuant to this Article shall terminate all obligation of the parties hereunder, except for the obligations under this Section 12.2 and Sections 13.4 (with respect to expenses), 13.5 (with respect to publicity) and 7.2 (with respect to confidentiality); provided, however, that termination pursuant to subparagraphs (b) or (c) of Section 12.1 shall not relieve the defaulting or breaching party from any liability to any other party under this Agreement.
+Effect on Obligations
+ 
+ 
+13.1 . All representations and warranties of the parties hereto contained in this Agreement or otherwise made in writing in connection with the transactions contemplated hereby shall survive the execution and delivery of this Agreement and the Closing hereunder for a period of one year after the Effective Time except that (a) the representations and warranties set forth in Sections 3.15 and 3.20 shall survive for the respective statute of limitations periods, (b) the representations and warranties set forth in Sections 3.1, 3.2, and 3.3(a) and the first sentence of Section 3.7 shall survive forever, and (c) the representations and warranties set forth in Section 3.10 shall survive until December 3, 2007. The right to indemnification, payment of damages, reimbursement or other remedy based on the representations and warranties of Sellers, and on covenants, agreements and obligations herein of Sellers shall not be affected by any investigation conducted with respect to, or any knowledge acquired (or capable of being acquired), at any time, whether before or after the execution and delivery of this Agreement or the Effective Time, with respect to the accuracy or inaccuracy of or compliance with, any such representation, warranty, covenant, agreement or obligation. The waiver of any condition based on the accuracy of any representation or warranty, or on the performance of or compliance with any covenant, agreement or obligation, will not affect the right to indemnification, payment of damages, reimbursement or other remedy based on such representation, warranty, covenant, agreement or obligation.
+Survival of Representations
+ 
+13.2 . The parties agree to waive the requirements, if any, of all applicable bulk sales laws. As an inducement to Buyer to enter into such waiver, each Seller represents and warrants that (a) it will not be rendered insolvent by the transactions contemplated by this Agreement; (b) all debts, obligations and liabilities relating to the Security Solutions that are not expressly assumed by Buyer under this Agreement will be promptly paid and discharged by Sellers as and when they become due; and (c) the sale of the Purchased Assets pursuant to this Agreement does not constitute a "bulk sale" within the meaning of applicable law.
+Bulk Sales
+ 
+13.3 . The risk of loss, damage or condemnation of any of the Purchased Assets from any cause whatsoever shall be borne by Sellers at all times prior to the Effective Time.
+Risk of Loss
+ 
+13.4 . All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such expense, whether or not the sale of the Purchased Assets is consummated. Notwithstanding anything in this Agreement to the contrary, sales and transfer taxes (if any) and recording and filing fees on the transfer of the Purchased Assets shall be borne by the Sellers.
+Expenses
+ 
+13.5 . Each of the parties hereto agrees it will not make any press releases or other public announcements or statements prior to Closing with respect to the transactions contemplated hereby, without the prior approval of the other parties hereto; provided, however, that any party may make any public disclosure it believes in good faith after consultation with counsel is required by applicable law, regulation or stock market rule (in which case the disclosing party shall use reasonable efforts to advise the other parties and provide them with a copy of the proposed disclosure prior to making the disclosure).
+Publicity
+ 
+13.6 . All notices, demands and other communications made hereunder shall be in writing and shall be given either by personal delivery, by nationally recognized overnight courier (with charges prepaid) or by facsimile (with telephone confirmation), and shall be deemed to have been given or made when personally delivered, the day following the date deposited with such overnight courier service or when transmitted to facsimile machine and confirmed by telephone, addressed to the respective parties at the following addresses (or such other address for a party as shall be specified by like notice):
+Notices
+ 
+If to Sellers:
+ 
+America Online, Inc.
+Netscape Communications Corporation
+22000 AOL Way
+Dulles, VA 20166
+Attention: CEO, AOL International and Web Properties
+Telephone: 703-265-2545
+Facsimile: 703-265-1105
+ 
+With a copy (which shall not constitute notice) to:
+ 
+Arnold & Porter LLP
+1600 Tysons Blvd., Suite 900
+McLean, VA 22102
+Attention: Paul Freshour, Esq.
+Telephone: 703-720-7008
+Facsimile: 703-720-7399
+ 
+If to Buyer:
+ 
+Red Hat, Inc.
+1801 Varsity Drive
+Raleigh, NC 27606
+Attention: General Counsel
+Telephone: 919-754-3700
+Facsimile: 919-754-3704
+ 
+With a copy (which shall not constitute notice) to:
+ 
+Womble Carlyle Sandridge & Rice, PLLC
+2530 Meridian Parkway, Suite 400
+Durham, NC 27713
+Attention: Kenneth N. Shelton, Esq.
+Telephone: 919-484-2319
+Facsimile: 919-484-2373
+ 
+13.7 . This Agreement shall be governed by the laws of the State of Delaware applicable to agreements made and to be performed entirely within such state. Any action or proceeding seeking to enforce any provision of, or based on any right arising out of, this Agreement may be brought against any of the parties in the courts of the State of Delaware, County of New Castle, or if it has, or can acquire, jurisdiction in the United States District Court for the District of Delaware, and each of the parties consents to the jurisdiction of such courts (and of the appropriate appellate courts) in any such action or proceeding and waives any objection to venue laid therein. Process in any action or proceeding referred to in the preceding sentence may be served on any party anywhere in the world.
+Governing Law; Jurisdiction
+ 
+13.8 . This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+Counterparts
+ 
+13.9 . This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any of the parties hereto without the prior written consent of all other parties hereto, and any purported assignment without such consent shall be void.
+Assignment
+ 
+13.10 . Except as otherwise specifically provided in Article XI above, none of the provisions of this Agreement or any document contemplated hereby is intended to grant any right or benefit to any person or entity which is not a party to this Agreement.
+Third Party Beneficiaries
+ 
+13.11 . The article and section headings contained in this Agreement are solely for the purpose of reference, are not part of this Agreement and shall not in any way affect the meaning or interpretation of this Agreement.
+Headings
+ 
+13.12 . Any waiver, amendment, modification or supplement of or to any term or condition of this Agreement shall be effective only if in writing and signed by all parties hereto, and the parties hereto waive the right to amend the provisions of this Section orally.
+Amendments
+ 
+13.13 . The rights and remedies of the parties to this Agreement are cumulative and not alternative. Neither the failure nor any delay by any party in exercising any right, power or privilege under this Agreement or the documents referred to in this Agreement will operate as a waiver of such right, power or privilege, and no single or partial exercise of any such right, power or privilege will preclude any other or further exercise of such right, power or privilege or the exercise of any other right, power or privilege.
+Waiver
+ 
+13.14 . Each Seller acknowledges that the Purchased Assets are unique and that if such Seller fails to consummate the transactions contemplated by this Agreement such failure will cause irreparable harm to Buyer for which there will be no adequate remedy at law. Buyer shall be entitled, in addition to its other remedies at law or at
+Specific Performance
+ 
+equity, to specific performance of this Agreement if such Seller shall, without cause, refuse to consummate the transactions contemplated by this Agreement.
+ 
+13.15 . In the event that any provision in this Agreement shall be determined to be invalid, illegal or unenforceable in any respect, the remaining provisions of this Agreement shall not be in any way impaired, and the illegal, invalid or unenforceable provision shall be fully severed from this Agreement, and there shall be automatically added in lieu thereof a provision as similar in terms and intent to such severed provision as may be legal, valid and enforceable.
+Severability
+ 
+13.16 . This Agreement (including the Schedules and Exhibits hereto) constitutes the entire contract between the parties hereto pertaining to the subject matter hereof, and supersedes all prior and contemporaneous agreements and understandings between the parties with respect to such subject matter, including without limitation that certain letter of intent between the parties dated as of August 20, 2004
+Entire Agreement
+.
+ 
+13.17 . As used in this Agreement, "" means actual awareness of a particular fact or other matter by an officer, manager, or any individual having responsibility for the operations of the Security Solutions unit following reasonable investigation or inquiry.
+Knowledge
+Knowledge
+ 
+13.18 . For purposes of complying with Section 468B(g) of the Internal Revenue Code, the parties agree that all taxable and/or tax-exempt income earned with respect to the Escrow Funds shall be treated as income of the Sellers (and not as income of the Buyer or the escrow fund) and such earnings shall be immediately distributable to the Sellers from time to time on Sellers' demand. Sellers shall treat earnings with respect to the Escrow Funds as income to Sellers for federal and applicable state income tax purposes. If any of the Escrow Funds are distributed to or on behalf of any Buyer Indemnitee pursuant to this Agreement and the Escrow Agreement, such distribution shall be treated for all federal and applicable state income tax purposes as a reduction in the consideration paid by Buyer to Sellers for the Purchased Assets, and the parties shall report any such reduction as required under Treasury Regulation Section 1.1060-1(e)(1).
+Escrow Funds
+ 
+ 
+IN WITNESS WHEREOF, each of the parties hereto has caused this Agreement to be signed by its duly authorized officer as of the date first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit 2.2
+ 
+ 
+December 6, 2004
+ 
+Via Fax and Overnight Delivery
+ 
+America Online, Inc.
+Netscape Communications Corporation
+22000 AOL Way
+Dulles, VA 20166
+ 
+ 
+Dear Ladies and Gentlemen:
+ 
+Reference is made to that certain Asset Purchase Agreement by and among Netscape Communications Corporation, America Online, Inc. and Red Hat, Inc. dated as of September 29, 2004 (the "Agreement"). Capitalized terms used in this letter shall have the meanings ascribed to such terms in the Agreement unless otherwise defined in this letter.
+ 
+In connection with the Closing under the Agreement, this letter will confirm our mutual agreements and understandings regarding the following matters:
+ 
+1. Pursuant to Section 10.1 of the Agreement, the parties agree that December 7, 2004 shall be the Closing Date. Further, the parties agree to use their commercially reasonable efforts to execute and deliver, or cause to be executed and delivered, by December 6, 2004, each of the Deliverables to which it is a party or for which it is responsible under the Agreement to our counsel to be held in escrow pending the Closing Date except for the Carve-Out Financial Statements.
+ 
+2. By letter from the Securities and Exchange Commission ("SEC") dated November 12, 2004 (the "SEC Letter"), we have been informed that the SEC will not object to presentation in our reports filed with the SEC of certain substitute financial statements in lieu of the Carve-Out Financial Statements as defined in Section 3.5 of the Agreement, which substitute financial statements consist of (i) the audited statement of net assets sold and statement of revenues and direct expenses as of and for the 12-month period ended December 31, 2003 (the "2003 Audited Financial Statements"); and (ii) the unaudited statement of net assets sold as of September 30, 2004 and statements of revenues and direct expenses for the 9-month periods ended September 30, 2003 and September 30, 2004, all of which substitute financial statements shall include footnotes and shall otherwise be in accordance with the SEC Letter.
+ 
+3. The parties agree that on the Closing Date Sellers shall deliver to Buyer: (i) the unaudited statement of net assets sold and statement of revenues and direct expenses as of and for the 12-month period ended December 31, 2003; and (ii) the unaudited statement of net assets sold as of September 30, 2004 and statements of revenues and direct expenses for the 9-month periods ended September 30, 2003 and September 30, 2004, all of which financial statements shall include footnotes, except that such financial statements will not have been audited. For clarification, the financial statements described in the preceding sentence shall be deemed the "Carve-Out Financial Statements" for purposes of the Agreement.
+ 
+4. For clarification, in lieu of the representations and warranties provided in Section 3.5(b) of the Agreement, each of you, jointly and severally, represent and warrant to us that, when delivered to us at Closing as provided in Section 8.17 of the Agreement, the Carve-Out Financial Statements will be: (i) true, correct and complete; (ii) in accordance with the books and records of Sellers; (iii) present fairly the net assets sold of the Security Solutions unit as of December 31, 2003 and as of September 30, 2004, and the revenues and direct expenses for the 12-month period ended December 31, 2003 and 9-month periods ended September 30, 2003 and September 30, 2004; and (iv) have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis ("GAAP") and the requirements of Regulation S-X, except that the Carve-Out Financial Statements will not have been audited.
+ 
+5. Sellers agree to use commercially reasonable efforts to deliver or cause to be delivered to Buyer the 2003 Audited Financial Statements, which must be the same in all material respects in form and substance as the statements provided pursuant to paragraph 3(i) above, along with the audit opinion of Sellers' principal outside accounting firm, by the date which is 60 days following the Closing Date (the actual date of delivery being the "Delivery Date"). When delivered, the representations and warranties of each Seller contained in paragraph 4 above shall be true, correct and complete on and as of the Delivery Date as though made on and as of the Delivery Date with respect to the 2003 Audited Financial Statements to the same extent made with respect to the Carve-Out Financial Statements, except that such 2003 Audited Financial Statements will have been audited.
+ 
+6. In order to secure the performance of the Sellers in the delivery of the 2003 Audited Financial Statements on the Delivery Date, Buyer shall hold-back from the Purchase Price due and payable at Closing (exclusive of the Escrow Amount) an amount equal to $2,050,000 (the "Hold-Back Escrow Amount"). At Closing, Buyer shall pay the Hold-Back Escrow Amount by wire transfer of immediately available funds to First-Citizens Bank and Trust Company (the "Escrow Agent"), who shall hold such amount in escrow until the Delivery Date. In the event the Sellers fail to deliver or cause to be delivered the 2003 Audited Financial Statements: (x) by the date which is 45 days following the Closing Date (the "45 Day Deadline"), Sellers shall forfeit all rights in and to $1,000,000 of the Hold-Back Escrow Amount and the Escrow Agent shall distribute $1,000,000 of the Hold-Back Escrow Amount to Buyer by wire transfer within three business days following the 45 Day Deadline, and (y) by the date which is 60 days following the Closing Date (the "60 Day Deadline"), Sellers shall forfeit all rights in and to the remaining $1,050,000 of the Hold-Back Escrow Amount and the Escrow Agent shall distribute the remaining $1,050,000 of the Hold-Back Escrow Amount to Buyer by wire transfer within three business days following the 60 Day Deadline. In the event the Sellers deliver or cause to be
+ 
+delivered the 2003 Audited Financial Statements, Sellers shall be entitled to any amount of the Hold-Back Escrow Amount not distributed to Buyer in accordance with the preceding sentence and the Escrow Agent shall pay all or such portion of the Hold-Back Escrow Amount to Sellers by wire transfer within three business days following the Delivery Date. In order to implement the provisions of this paragraph 6, the parties agree to execute and deliver an escrow agreement substantially in the form of Exhibit A attached to the Agreement, with such reasonable and conforming changes as the parties may mutually agree, at Closing.
+ 
+7. In order to secure the performance of the Buyer to reimburse certain fees and costs of Sellers as provided in Section 5.5 of the Agreement, Buyer shall deposit an amount equal to $250,000 (the "Reimbursement Escrow Amount") at Closing by wire transfer of immediately available funds with the Escrow Agent, who shall hold such amount in escrow until the Delivery Date. Upon receipt by Buyer of itemized bills with detailed entries evidencing actual fees and costs paid by Sellers to be reimbursed as provided in Section 5.5 of the Agreement, the Escrow Agent shall distribute such portions of the Reimbursement Escrow Amount to Buyer as necessary to reimburse such fees and costs of Sellers by wire transfer within three business days following the date of receipt of such evidence of fees and costs by Buyer. Any portion of the Reimbursement Escrow Amount not distributed to Sellers pursuant to this paragraph 7 by the date which is 30 days following the 60 Day Deadline shall be distributed by the Escrow Agent in full to Buyer by wire transfer within three business days following the date which is 30 days following the 60 Day Deadline. In order to implement the provisions of this paragraph 7, the parties agree to execute and deliver an escrow agreement substantially in the form of Exhibit A attached to the Agreement, with such reasonable and conforming changes as the parties may mutually agree, at Closing.
+ 
+8. In lieu of the provisions of Section 8.17 of the Agreement, the parties substitute the following: "Buyer shall have received the Carve-Out Financial Statements."
+ 
+9. For the avoidance of doubt, this letter shall be deemed a "Seller Agreement" for purposes of the Agreement, and as such shall be subject to your indemnification obligations set forth in Article XI of the Agreement; provided that Buyer's sole remedy for the failure of the Sellers to deliver the 2003 Audited Financial Statements in accordance with paragraph 5 of this letter shall be receipt of all of or a portion of the Hold-Back Escrow Amount in accordance with paragraph 6 of this letter. For clarification and subject to the proviso in the preceding sentence, the Hold-Back Escrow Amount (or any portion thereof) shall be exclusive of, and not be included in, any payments due from Sellers to Buyer Indemnitees under the indemnification provisions of the Agreement.
+ 
+Except as expressly amended and modified herein, the Agreement shall remain in full force and effect.
+ 
+If the foregoing represents your understanding of the agreement between us in these matters, please execute this letter in the appropriate place below.
+ 
+ 
+ 
+
+

@@ -1,0 +1,447 @@
+FILE:CTXS/CTXS-8K-20051031164502.txt.gz
+EVENTS:	Financial Statements and Exhibits
+TEXT:
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explanatory Note
+ 
+As previously reported, on August 15, 2005, Citrix Systems, Inc. ("Citrix") acquired NetScaler, Inc., a privately held Delaware corporation headquartered in San Jose, California ("NetScaler"), pursuant to an Agreement and Plan of Merger, dated as of June 1, 2005, by and among Citrix, NCAR Acquisition Corporation, a Delaware corporation and a wholly owned subsidiary of Citrix, NCAR, LLC, a Delaware limited liability company and a wholly-owned subsidiary of Citrix, NetScaler and Gaurav Garg, as stockholder representative. This Form 8-K/A is filed as an amendment (Amendment No. 1) to the Current Report on Form 8-K filed by Citrix on August 16, 2005 to report the completion of its acquisition of NetScaler under Items 2.01 and 9.01. This Amendment No. 1 is being filed to include the financial information required under parts (a) and (b) of Item 9.01.
+ 
+ 
+ 
+ 
+The audited consolidated financial statements of NetScaler for the fiscal year ended June 30, 2005 are filed as Exhibit 99.1 to this Amendment No. 1 and incorporated herein by reference.
+ 
+ 
+The pro forma financial information required by this item with respect to the transaction described in Item 2.01 is filed as Exhibit 99.2 to this Amendment No. 1 and incorporated herein by reference.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+EXHIBIT 23.1
+ 
+ 
+We consent to the incorporation by reference in the Registration Statement (Form S-8 No. 333-61520) pertaining to the Amended and Restated 1995 Stock Plan and the 2000 Director and Officer Stock Option and Incentive Plan of Citrix Systems, Inc., the Registration Statement (Form S-8 No. 333-80201) pertaining to the Amended and Restated 1995 Stock Plan, the Second Amended and Restated 1995 Non-Employee Director Stock Option Plan and the Second Amended and Restated 1995 Employee Stock Purchase Plan of Citrix Systems, Inc., the Registration Statement (Form S-8 No. 333-121420) pertaining to the Amended and Restated 2000 Stock Incentive Plan and the Amended and Restated 2003 Stock Incentive Plan of Net6, Inc., the Registration Statement (Form S-8 No. 333-125297) pertaining to the 2005 Employee Stock Purchase Plan and 2005 Equity Incentive Plan of Citrix Systems, Inc. and the Registration Statement (Form S-8 No. 333-127991) pertaining to the Amended and Restated 1997 Stock Plan of NetScaler, Inc., of our report dated October 12, 2005, with respect to the consolidated financial statements of NetScaler, Inc. as of and for the year ended June 30, 2005 included in this Current Report on Form 8-K/A of Citrix Systems, Inc.
+ 
+/s/ Ernst & Young LLP
+ 
+Palo Alto, California
+October 24, 2005
+
+Exhibit 99.1
+ 
+C F S
+ONSOLIDATED
+INANCIAL
+TATEMENTS
+ 
+NetScaler, Inc.
+Year ended June 30, 2005
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Board of Directors and Stockholders of
+NetScaler, Inc.
+ 
+We have audited the accompanying consolidated balance sheet of NetScaler, Inc. as of June 30, 2005, and the related consolidated statements of operation, stockholders' equity, and cash flow for the year then ended. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audit.
+ 
+We conducted our audit in accordance with auditing standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. We were not engaged to perform an audit of the Company's internal control over financial reporting. Our audit included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the consolidated financial position of NetScaler, Inc. at June 30, 2005, and the consolidated results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States.
+ 
+/s/ Ernst & Young LLP
+ 
+Palo Alto, California
+October 12, 2005
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Summary of Significant Accounting Policies
+ 
+Description of Business
+ 
+NetScaler, Inc. (the "Company") was incorporated on December 9, 1997, in the state of Delaware and provides networking systems that enable the fast and secure delivery of applications by integrating a unique suite of optimization, security and switching capabilities.
+ 
+Since inception on December 9, 1997, the Company has incurred cumulative net losses of $76,764,560 through June 30, 2005, and expects to continue to incur losses on both a quarterly and annual basis for the next year. Moreover, the Company expects to continue to incur significant sales, marketing, and research and development expenses. Management's plans for fiscal 2006 anticipate that product and maintenance revenues, together with the Company's existing unrestricted cash and cash equivalent balances and borrowing capacity, will be sufficient to fund the Company's cash requirements through at least June 30, 2006. However, management's plans for fiscal 2006 include certain discretionary spending that is predicated on the Company's ability to successfully market its products and generate the anticipated product and maintenance revenues during the year.
+ 
+On June 1, 2005 the Company entered into an Agreement and Plan of Merger with Citrix Systems, Inc. ("Citrix") and certain other parties including NCAR Acquisition Corporation, a wholly-owned subsidiary of Citrix ("NCAR"), and NCAR, LLC, a wholly owned subsidiary of Citrix ("LLC"), pursuant to which the Company will merge with NCAR (the "Merger") with the Company continuing as the surviving entity. The Merger will be followed by a roll-up merger of the Company and LLC with LLC continuing as the surviving entity after the roll-up merger. On August 15, 2005, the Merger was consummated, and Citrix acquired all of the issued and outstanding capital stock of the Company (see Note 8, Subsequent Events).
+ 
+Principles of Consolidation
+ 
+The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries in India, Japan, and the United Kingdom. All significant intercompany balances and transactions have been eliminated.
+ 
+1. Summary of Significant Accounting Policies (continued)
+ 
+Foreign Currency Translation
+ 
+The functional currency of the Company's foreign subsidiary in India is the rupees, in Japan is Yen, and in the United Kingdom is the pound. The Company translates the assets and liabilities of its foreign subsidiaries into U.S. dollars at the rates of exchange in effect at the end of the period and translates revenues and expenses using rates in effect during the period. Gains and losses from these translations are accumulated as a separate component of stockholders' equity. Gains and losses resulting from foreign currency transactions are included in the statements of operations.
+ 
+Use of Estimates
+ 
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results inevitably will differ from those estimates, and such differences may be material to the financial statements.
+ 
+Cash and Cash Equivalents
+ 
+At June 30, 2005, cash and cash equivalents consist of highly liquid short-term investments with original maturities from the date of purchase of three months or less.
+ 
+The Company's cash and cash equivalents are maintained in checking and money market accounts. The carrying amount reported in the balance sheet for cash and cash equivalents approximates the fair value.
+ 
+Concentration of Credit Risk and Significant Customers
+ 
+Financial instruments that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents and accounts receivable. The Company places its cash and cash equivalents with high-credit quality financial institutions.
+ 
+1. Summary of Significant Accounting Policies (continued)
+ 
+Concentration of Credit Risk and Significant Customers (continued)
+ 
+A relatively small number of customers account for a significant portion of the Company's revenues and accounts receivable. The loss or delay of individual orders could have a significant impact on revenues and operating results. No customer accounted for greater than 10% of total revenue for the year ended June 30, 2005. No customer individually accounted for more than 10% of accounts receivable at June 30, 2005. The Company does not require collateral to support credit sales. To reduce credit risk, the Company performs periodic credit evaluations of its customers. Allowances are maintained for potential credit losses and sales returns. The Company has not experienced significant losses to date.
+ 
+Property and Equipment
+ 
+Property and equipment are stated at cost, net of accumulated depreciation. Depreciation is provided on the straight-line method over the useful lives of the assets, generally one to four years.
+ 
+The Company periodically evaluates whether changes have occurred that would require revision of the remaining estimated useful life of the property and equipment or render them not recoverable. If such circumstances arise, the Company uses an estimate of the undiscounted value of expected future cash flows to determine whether the long-lived assets are impaired. Impairment, if any, is determined using discounted expected future cash flows.
+ 
+Inventories
+ 
+Inventories consist of finished goods and are recorded at the lower of cost (as determined by the first-in, first-out method) or market.
+ 
+Shipping and Handling Costs
+ 
+Shipping and handling costs are classified as a component of cost of revenues. Customer payments for shipping and handling are included in net revenues.
+ 
+Advertising Expenses
+ 
+The Company accounts for advertising costs as an expense in the period in which they are incurred. Advertising expense for the year ended June 30, 2005, was approximately $321,000.
+ 
+Research and Development Costs
+ 
+Research and development expenditures primarily include personnel, related overhead, and materials expenses incurred to design, create, and test network infrastructure solutions. The Company expects to launch and market additional products within the coming 12 months. Software development costs incurred by the Company subsequent to the establishment of
+ 
+1. Summary of Significant Accounting Policies (continued)
+ 
+Research and Development Costs (continued)
+ 
+technological feasibility which, based on the Company's product development process, is established upon completion of a working model, and prior to general product release, have been insignificant. Therefore, through June 30, 2005, the Company has charged all such costs to research and development expense in the period incurred.
+ 
+Revenue Recognition
+ 
+The Company recognizes product revenues from direct sales and sales made through resellers and other channel partners when persuasive evidence of an arrangement exists; delivery and customer acceptance, where applicable, has occurred: the fee is fixed or determinable, and collectibility is probable. Product revenue is deferred when the Company: (i) has to obtain customer acceptance, or (ii) has provided price protection and/or right of return on products unsold by resellers and channel partners, in which case, revenue and related costs are deferred until those obligations are met.
+ 
+The Company uses the residual method to recognize revenue when an agreement includes one or more elements to be delivered at a future date and fair value of all undelivered elements exists. Fair value for undelivered elements is based on normal pricing for those elements when sold separately and, for training and installation, is additionally measured by third party sales prices for comparable services. The revenue associated with customer support contracts is deferred and recognized ratably over the period of obligation. The revenue associated with service arrangements is primarily derived from fees for product installation and is recognized when the service is performed.
+ 
+The Company's products carry a warranty that includes factory repair services or replacement parts as needed. The Company estimates expenses for the cost to repair or replace products that may be returned under warranty and records the amount in the cost of sales in the same period that the related revenue is recognized. The Company estimates the expense based upon actual experience or for specific product warranty problems that are identified after shipment.
+ 
+Accounts receivable is recorded net of allowance for doubtful accounts and sales return reserve. The Company regularly reviews the adequacy of its accounts receivable allowance and sales return reserve by considering the accounts receivable aging, customer concentrations, the customer's expected ability to pay, and the collection history of each customer. The Company reviews any outstanding past due balances to determine if an allowance is appropriate based on the risk category using the factors discussed above. In addition, the Company maintains an additional allowance for doubtful accounts for all invoices by applying a percentage based on the age category. The allowance for doubtful accounts represent management's best estimate, but changes in circumstances relating to accounts receivable may result in a requirement for additional allowance or reserve in the future.
+ 
+1. Summary of Significant Accounting Policies (continued)
+ 
+Stock-Based Compensation
+ 
+The Company accounts for employee stock option grants using the intrinsic-value method and has adopted the disclosure-only alternative for the effect of accounting for such grants under the fair-value method. Accordingly, no stock compensation is recognized for stock options granted to employees with an exercise price equal to the fair value of shares of common stock for accounting purposes. The Company accounts for stock options granted to nonemployees under the fair-value method using the Black-Scholes option-pricing model.
+ 
+Pro forma information regarding net loss is required as if the Company has accounted for its employee stock options under the fair-value method using the minimum-value option model. The fair value of these options was estimated at the date of grant using the following weighted-average assumptions:
+ 
+ 
+For purposes of pro forma disclosures, the estimated fair value of the options is amortized to expense on a straight-line basis over the options' vesting period.
+ 
+The following table illustrates the effect on net loss if the Company had applied the fair-value method:
+ 
+ 
+The weighted-average fair value of stock options granted during fiscal 2005 was $0.2825 per share.
+ 
+In fiscal 2006 the Company must adopt FASB Statement No. 123R (SFAS 123R), which is a revision of FASB Statement No. 123, . Under SFAS 123R, all shared-based payments to employees, including grants of employee stock options, are to be expensed in the financial statements based on their fair value determined by applying a fair value measurement method. The adoption of SFAS 123R will have a material impact on the Company's financial position and results of operations.
+"Share-Based Payment"
+"Accounting for Stock-Based Compensation"
+ 
+1. Summary of Significant Accounting Policies (continued)
+ 
+Income Taxes
+ 
+The Company accounts for income taxes under the liability method, which provides for the establishment of deferred tax assets and liabilities for the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+ 
+Comprehensive Income (Loss)
+ 
+For the period presented, the comprehensive loss is materially equal to the net loss and has been disclosed in the statements of stockholders' equity. Accumulated other comprehensive loss at June 30, 2005, relates to currency translation adjustments.
+ 
+Fair Value of Financial Instruments
+ 
+The carrying amounts for cash and cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their fair values due to the short period of time until their maturity.
+ 
+Recent Accounting Pronouncements
+ 
+In June 2005, the Financial Accounting Standards Board ("FASB") issued Statement of Financial Accounting Standard No. 154, "" ("SFAS 154"). The Statement applies to all voluntary changes in accounting principle, and changes the requirements for accounting for and reporting of a change in accounting principle. SFAS 154 requires retrospective application to prior periods' financial statements of a voluntary change in accounting principle unless it is impracticable. SFAS 154 requires that a change in method of depreciation, amortization, or depletion for long-lived, non-financial assets be accounted for as a change in accounting estimate that is affected by a change in accounting principle. Opinion 20 previously required that such a change be reported as a change in accounting principle. SFAS 154 is effective for accounting changes and corrections of errors made in fiscal years beginning after December 15, 2005. The Company does not believe this pronouncement will have a material impact on its financial results.
+Accounting Changes and Error Corrections, a replacement of APB Opinion No. 20, Accounting Changes, and FASB Statement No. 3, Reporting Accounting Changes in Interim Financial Statements
+ 
+In November 2004, the FASB issued Statement of Financial Accounting Standard No. 151, " ("SFAS 151"). SFAS 151 clarifies treatment of abnormal amounts of idle facility expense, freight, handling costs and spoilage, specifying that such costs should be expensed as incurred and not included in overhead. The new statement also requires that allocation of fixed production overheads to conversion costs should be based on normal capacity of the production facilities. The provisions in SFAS 151 are effective for inventory costs incurred during fiscal years beginning after June 15, 2005. Companies must apply the standard prospectively. The Company does not believe the impact of this new standard will have a material effect on its financial statements or results of operations.
+Inventory CostsAn Amendment of ARB No. 43, Chapter 4"
+ 
+2. Property and Equipment
+ 
+Property and equipment consist of the following:
+ 
+ 
+3. Warranty Accrual
+ 
+The Company generally sells its products with warranty for a period of 12 months from the date of shipment. A provision for the estimated cost of the warranty is recorded at the time revenue is recognized. The Company estimates the costs that may be incurred under the warranty and records a liability in the amount of such costs at the time the product is shipped. The Company periodically assesses the adequacy of its recorded warranty liabilities and adjusts the amounts as necessary.
+ 
+Changes in the Company's product liability, which is included in other accrued liabilities on the consolidated balance sheet, is as follows:
+ 
+ 
+4. Financing Arrangements
+ 
+On November 7, 2003 and subsequently amended, the Company entered into an accounts receivable purchase agreement (the "Purchase Agreement") with a financial institution. Under the Purchase Agreement, the Company may sell certain of its receivables and customer purchase orders to the financial institution on a full recourse basis for an amount equal to 80% of the face amount of such purchased receivables and customer purchase orders, with the aggregate face amount of purchased receivables not to exceed $2.5 million and with an aggregate face amount of purchased customer purchase orders not to exceed $1.25 million. The aggregate amount of all outstanding advances may not exceed $2.0 million. The Purchase Agreement expires November 3, 2005 and from year to year thereafter until terminated by either party and payments are due monthly. In connection with the Purchase Agreement, the Company granted the financial institution a security interest in substantially all of its tangible assets, other than intellectual property, in which the Company granted a negative pledge. The Purchase Agreement includes certain nonfinancial covenants with which the Company must comply. The Company is required to pay a monthly finance charge equal to prime plus 2.5% or prime plus 1.0%.
+ 
+4. Financing Arrangements (continued)
+ 
+Per annum of the average daily gross amount of unpaid purchased receivables and an administration fee equal to either 0.75% or 0.15% of the face amount of each purchased receivable, depending upon the Company's financial position. Since the Company's obligation to repay the financial institution is not conditioned on the collection of the related accounts receivable balances, the Company recorded the amounts due under this agreement in current liabilities. As of June 30, 2005, the Company had zero outstanding under the Purchase Agreement and the Company terminated the Purchase Agreement in June 2005.
+ 
+In December 2003, the Company entered into a loan agreement with a financial institution that provided up to $3,000,000 under a revolving line of credit bearing interest at prime less 0.5% but in no case less than 3.5% that matures on December 31, 2005. The revolving line of credit was secured by a certificate of deposit to be maintained by the Company at the financial institution. This certificate of deposit was included in restricted cash in the accompanying consolidated balance sheet. As of June 30, 2005 the Company had no outstanding borrowing under the revolving line of credit and terminated the loan agreement in June 2005.
+ 
+5. Stockholders' Equity
+ 
+Preferred Stock
+ 
+The Series 1 convertible preferred stock ("Series 1 preferred stock") and the Series 2 convertible preferred stock ("Series 2 preferred stock") have a liquidation preference of $1.10 and $5.6455 per share, respectively, plus all declared and unpaid dividends. The Series 1 preferred stock and Series 2 preferred stock are entitled to a noncumulative dividend at the rate of $0.088 and $0.452, per share per annum, respectively, when and if declared by the board of directors, in preference and priority to any common stock dividend.
+ 
+The holders of the shares of Series 1 preferred stock and Series 2 preferred stock ("Series preferred stock") are entitled to one vote for each share of common stock into which such share may convert. The holders of Series preferred stock have the right at any time, at the option of the holder, to convert their shares into common stock at the exchange rate in effect at the time of conversion (currently 1-for-1), which is subject to appropriate adjustment for common stock splits, stock dividends, and similar transactions. Series 1 and 2 preferred stock automatically converts into common stock upon the closing of a qualifying initial public offering.
+ 
+Stock Option/Rights Plan
+ 
+The Company adopted the 1997 Stock Option Plan (the "Plan"), under which employees, directors, and consultants may be granted Incentive Stock Options ("ISOs"), Stock Purchase Rights ("SPRs"), or Nonstatutory Stock Options ("NSOs") to purchase shares of the Company's common stock.
+ 
+The Company is authorized to grant up to 6,692,000 shares of its common stock under the Plan and up to 90,911 shares of common stock outside of the Plan. The Plan permits ISOs to be
+ 
+5. Stockholders' Equity (continued)
+ 
+Stock Option/Rights Plan (continued)
+ 
+granted to employees at an exercise price of not less than 100% of the fair value on the date of the grant as determined by the board of directors. For employees who own stock representing more than 10% of the voting power of all classes of stock of the Company, the exercise price must not be less than 110%. The Plan permits NSOs to be granted at an exercise price of not less than 85% of the fair value on the date of grant as determined by the board of directors. For service providers who, at the time of grant of such option, own stock representing more than 10% of the voting power of all classes of stock of the Company, the exercise price must not be less than 110%, and the term of the option shall be five years from the date of the grant or such shorter term as may be provided in the Option Agreement. Options that expire (generally ten years from the date of grant) are canceled and returned to the Plan. The term of the Plan is ten years. Options may be granted with different vesting terms as determined by the board of directors. The options generally vest at 12.5% upon completion of six months of service and 1/48 per month thereafter.
+ 
+The following is a summary of activity under the Plan and outside of the Plan:
+ 
+ 
+The following table summarizes information regarding stock options outstanding at June 30, 2005:
+ 
+ 
+Under the Plan, the Company may also grant stock purchase rights ("SPRs") either alone, in addition to, or in tandem with other awards under the Plan. Exercise of these SPRs is made pursuant to restricted stock purchase agreements containing provisions established by the board of directors. These provisions give the Company the right to repurchase the shares at the original
+ 
+5. Stockholders' Equity (continued)
+ 
+Stock Option/Rights Plan (continued)
+ 
+purchase price. This right expires at a rate determined by the board of directors, generally at a rate of 12.5% after six months and 1/48 per month thereafter. The Company issued zero shares in the form of SPRs during the year ended June 30, 2005. At June 30, 2005, 109,166 shares of common stock, at a weighted-average exercise price of $0.1298, remained subject to repurchase under such restricted stock purchase agreements.
+ 
+At June 30, 2005, there were 71,839 shares available for future grant under the Plan.
+ 
+For the year ended June 30, 2005 the Company recorded stock compensation expenses of $142,924 related to stock options granted to consultants, service providers, and advisory board members. The value of the options was estimated using the Black-Scholes option pricing model. The unvested options have been and will continue to be marked-to-market until they vest using the estimated fair value at the end of each accounting period.
+ 
+Warrants
+ 
+The following warrants to purchase common stock were outstanding as of June 30, 2005:
+ 
+ 
+Deferred Compensation
+ 
+The Company recorded deferred stock compensation in connection with the grant of certain stock options to employees and non-employees. Deferred compensation amounts are included as a reduction of stockholders' equity. The Company recorded $189,075 in deferred compensation associated with these grants throughout the year ended June 30, 2005. The Company recorded amortization of deferred stock compensation expense in connection with these grants totaling $142,924 during fiscal 2005.
+ 
+5. Stockholders' Equity (continued)
+ 
+Shares Reserved
+ 
+Common stock reserved for future issuance at June 30, 2005, is as follows:
+ 
+ 
+6. Income Taxes
+ 
+Income taxes of $48,042 for the year ended June 30, 2005, relate to current tax expense on income earned by foreign subsidiaries. The provision for income taxes differs from the expected tax benefit amount computed by applying the statutory federal income rate of 34% to loss before taxes as follows as of June 30, 2005:
+ 
+ 
+The components of net deferred tax assets are as follows as of June 30, 2005:
+ 
+ 
+The valuation allowance increased by $5,352,000 and $4,500,000 during the years ended June 30, 2005 and 2004, respectively. Realization of the deferred tax assets is dependent upon future taxable income, if any, the amount and timing of which are uncertain. Accordingly, the net deferred tax assets have been fully offset by a valuation allowance.
+ 
+As of June 30, 2005, the Company had federal and state net operating loss carryforwards of approximately $71,112,000 and $38,366,000, respectively. The Company also had federal and state research and development tax credit carryforwards of approximately $617,000 and
+ 
+6. Income Taxes (continued)
+ 
+$634,000 respectively. The net operating loss and tax credit carryforwards will expire at various dates beginning in 2006 if not utilized.
+ 
+Utilization of the net operating loss carryforwards and credits may be subject to a substantial annual limitation due to the ownership change limitations provided by the Internal Revenue Code of 1986, as amended, and similar state provisions. The annual limitation may result in the expiration of net operating losses and credits before utilization.
+ 
+A subsidiary of the Company has a tax holiday valid for a period of 10 years from April 2002, under which 90% of the subsidiary's profits are not subject to tax. The subsidiary did not have taxable income for the years ended June 30, 2005 and 2004 due to prior years' net operating losses carried forward.
+ 
+7. Commitments and Contingencies
+ 
+Operating Commitments
+ 
+Future minimum lease payments under noncancelable operating leases having initial terms in excess of one year as of June 30, 2005, and other noncancelable commitments are as follows:
+ 
+ 
+The Company's rental expense under operating leases for the year ended June 30, 2005, totaled $972,079.
+ 
+In connection with the Company's operating lease for its corporate headquarters, the Company is required to provide a standby letter of credit of $65,320, through March 31, 2009, unless the lease is terminated earlier. The standby letter of credit is fully collateralized by way of a restricted cash certificate of deposit with a financial institution that the Company recorded as restricted cash on the consolidated balance sheet. Total interest earned in the restricted escrow accounts for the year ended June 30, 2005 was approximately $435.
+ 
+7. Commitments and Contingencies (continued)
+ 
+Licensing Termination Arrangement
+ 
+In connection with the Company's technology licensing agreement with F5 Networks, Inc, ("F5") in the event of a change of control during the term of the licensing agreement that expires in March 2008, at F5's option, the Company will be obligated to pay the lesser of: (a) a royalty equal to the lesser of (i) 1% of the sales revenue for products incorporating the licensed patent or (ii) $175 per unit; or (b) a lump sum royalty equal to $1,650,000 less the amount of any royalties paid to F5. (See Note 8, Subsequent Events)
+ 
+Other
+ 
+From time to time, the Company may be subject to claims, which arise in the normal course of business. Although the amount of any liability with respect to such litigation cannot be determined, in the opinion of management, the ultimate disposition of these claims will not have a material adverse effect on the Company's financial position, cash flows or results of operations. However, depending on the amount and timing, an unfavorable resolution of a matter could materially affect the Company's future results of operations or cash flows in a particular period.
+ 
+8. Subsequent Events
+ 
+On August 15, 2005, Citrix acquired all of the issued and outstanding capital stock of the Company in exchange for $140,100,000 in cash and approximately 6,600,000 shares of Citrix's common stock. Citrix also assumed certain options of the Company upon the closing of the transaction.
+ 
+In accordance with the terms of the technology license agreement with F5 (see Note 7, Commitments and Contingencies  Licensing Termination Arrangement), the Company made a termination payment of $1,275,000 in October 2005 in full satisfaction of its obligation.
+ 
+
+Exhibit 99.2
+ 
+ 
+ 
+As previously reported, on August 15, 2005, Citrix Systems, Inc. ("Citrix") acquired NetScaler, Inc., a privately held Delaware corporation headquartered in San Jose, California ("NetScaler"), pursuant to an Agreement and Plan of Merger, dated as of June 1, 2005, by and among Citrix, NCAR Acquisition Corporation, a Delaware corporation and a wholly owned subsidiary of Citrix, NCAR, LLC, a Delaware limited liability company and a wholly-owned subsidiary of Citrix, NetScaler and Gaurav Garg, as stockholder representative. The Company funded the merger through its authorized common stock, its available cash resources and bank financing.
+ 
+The following unaudited pro forma condensed combined consolidated balance sheet as of June 30, 2005 and the unaudited pro forma condensed combined consolidated income statements for the six months ended June 30, 2005 and the year ended December 31, 2004 are based on the historical financial statements of Citrix and NetScaler after giving effect to the merger, effective as of August 15, 2005, as a purchase of NetScaler by Citrix using the purchase method of accounting, borrowings made in connection therewith the Credit Facility (as described in Note 3) and the assumptions and adjustments described in the accompanying notes to the unaudited pro forma condensed combined financial statements.
+ 
+The unaudited pro forma condensed combined consolidated balance sheet as of June 30, 2005 is presented to give effect to the merger as if it and the borrowings under the Credit Facility occurred on June 30, 2005 and combines the historical balance sheets of Citrix and NetScaler at June 30, 2005. The unaudited pro forma condensed combined consolidated income statements of Citrix and NetScaler for the six months ended June 30, 2005 and the year ended December 31, 2004 are presented as if the merger and the borrowings under the Credit Facility had occurred on January 1, 2004.
+ 
+Under the purchase method of accounting the total preliminary purchase price as described in Note 2 to these unaudited pro forma condensed combined consolidated financial statements was allocated to the net tangible and intangible assets of NetScaler acquired in connection with the merger based on their fair values as of the completion of the merger. The estimated fair values of certain assets and liabilities have been determined with the assistance of third party valuation specialists. The preliminary work performed by the third party valuation specialists has been considered in management's estimates of the fair values reflected in these unaudited pro forma condensed combined consolidated financial statements. Management's estimates and assumptions are subject to change upon the finalization of the valuation and may be adjusted in accordance with Statement of Financial Accounting Standards ("SFAS") No. 141, The purchase price allocation is not finalized primarily due to in-process research and development ("IPR&D").
+Business Combinations.
+ 
+The unaudited pro forma condensed combined consolidated financial statements should be read in conjunction with the historical consolidated financial statements and the accompanying notes
+ 
+of Citrix included in Citrix Systems, Inc. Annual Report on Form 10-K for the year ended December 31, 2004 and quarterly reports filed on Form 10-Q for the three months ended March 31, 2005 and the three and six months ended June 30, 2005 and with the historical consolidated financial statements and the accompanying notes of NetScaler for the year ended June 30, 2005, a copy of which is attached as Exhibit 99.1 to this Form 8-K/A. The unaudited pro forma condensed combined consolidated financial statements are not intended to represent or be indicative of the consolidated results of operations or financial condition of Citrix that would have been reported had the merger and the borrowings under the Credit Facility been completed as of the dates presented, and should not be taken as representative of the future consolidated results of operations or financial condition of Citrix. The unaudited pro forma condensed combined consolidated financial statements do not reflect any operating efficiencies and cost savings that Citrix may achieve with respect to the combined companies nor do they include the effects of Citrix's repayment of the borrowings under the Credit Facility.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The unaudited pro forma condensed combined consolidated balance sheet as of June 30, 2005 is presented to give effect to the merger as if it and the borrowings under the Credit Facility occurred on June 30, 2005 and combines the historical balance sheets of Citrix Systems, Inc. ("Citrix") and NetScaler, Inc. ("NetScaler") at June 30, 2005. The unaudited pro forma condensed combined consolidated income statements of Citrix and NetScaler for the six months ended June 30, 2005 and the year ended December 31, 2004 are presented as if the merger and the borrowings under the Credit Facility had occurred on January 1, 2004. No pro forma adjustments were required to conform NetScaler's accounting policies to Citrix accounting policies.
+ 
+Under the purchase method of accounting the total preliminary purchase price as described in Note 2 to these unaudited pro forma condensed combined consolidated financial statements was allocated to the net tangible and intangible assets of NetScaler acquired in connection with the merger based on their fair values as of the completion of the merger. The estimated fair values of certain assets and liabilities have been determined with the assistance of third party valuation specialists. The preliminary work performed by the third party valuation specialists was considered in management's estimates of the fair values reflected in these unaudited pro forma condensed combined consolidated financial statements. Management's estimates and assumptions are subject to change upon the finalization of the valuation and may be adjusted in accordance with Statement of Financial Accounting Standards ("SFAS") No. 141, The purchase price allocation is not finalized primarily due to in-process research and development ("IPR&D").
+Business Combinations.
+ 
+The unaudited pro forma condensed combined consolidated financial statements are not intended to represent or be indicative of the consolidated results of operations or financial condition of Citrix that would have been reported had the merger and the borrowings under the Credit Facility been completed as of the dates presented, and should not be taken as representative of the future consolidated results of operations or financial condition of Citrix. The unaudited pro forma condensed combined consolidated financial statements do not reflect any operating efficiencies and cost savings that Citrix may achieve with respect to the combined companies nor do they include the effects of Citrix's repayment of the borrowings under the Credit Facility. The unaudited pro forma condensed combined consolidated financial statements should be read in conjunction with the historical consolidated financial statements and the accompanying notes of Citrix included in Citrix Systems, Inc. Annual Report on Form 10-K for the year ended December 31, 2004 and quarterly reports filed on Form 10-Q for the three months ended March 31, 2005 and the three and six months ended June 30, 2005 and with the historical consolidated financial statements and the accompanying notes of NetScaler for the year ended June 30, 2005.
+ 
+ 
+On June 1, 2005, Citrix and NetScaler entered into a merger agreement that resulted in Citrix acquiring 100 percent of the issued and outstanding capital stock of NetScaler by means of a reverse triangular merger of NetScaler and NCAR Acquisition Corporation, a wholly-owned subsidiary of Citrix, with NCAR Acquisition Corporation ceasing to exist as a separate corporate entity and NetScaler continuing as the surviving corporation. The reverse triangular merger was consummated on August 15, 2005 and followed by a roll-up merger of NetScaler and NCAR, LLC, a limited liability company wholly-owned by Citrix, with NCAR, LLC continuing as the surviving entity of the roll-up merger. The transaction was accounted for using the purchase method of accounting. The total consideration for this transaction was approximately $302.4 million, comprised of approximately $140.0 million in cash, approximately 6.6 million shares of the Company's common stock valued at approximately $155.3 million and direct transaction costs of approximately $6.1 million. The value of the common stock issued was based on 55% of the total purchase price divided by a fixed value per share of $24.83 as defined in the merger agreement. As of September 30, 2005, there were outstanding commitments for the issuance of shares of the Company's common stock related to the purchase consideration for NetScaler of approximately $0.5 million. The Company also assumed approximately $20.1 million in unvested stock options upon the closing of the transaction that were accounted for in accordance with FASB Interpretation No. 44, and were recorded as deferred compensation. The options assumed had an excess of fair value over intrinsic value of approximately $0.5 million and is reflected in the total consideration for the transaction.
+Accounting for Certain Transactions Involving Stock Compensation (an Interpretation of APB Opinion No. 2)
+ 
+Under the purchase method of accounting, the total estimated purchase price was allocated to NetScaler's net tangible and intangible assets based on their estimated fair values as of the date of the completion of the merger. Based on the preliminary third party valuation and other factors as described in the introduction to these unaudited pro forma condensed combined consolidated financial statements, the preliminary estimated purchase price was allocated as follows (in thousands):
+ 
+ 
+The preliminary allocation of the purchase price was based upon a preliminary valuation and the Company's estimates and assumptions are subject to change upon the finalization of the
+ 
+valuation. The purchase price allocation is not finalized primarily due to IPR&D.
+ 
+Of the total estimated purchase price, a preliminary estimate of approximately $13.0 million was allocated to net tangible assets acquired. Net tangible assets were valued at their respective carrying amounts, which management believes approximated fair value, except for adjustments to deferred revenue, deferred tax assets and a pre-acquisition royalty liability. Deferred revenues were reduced by $2.8 million in the pro forma condensed combined consolidated balance sheet, to adjust deferred revenue to the estimated cost plus an appropriate profit margin to perform the support and maintenance services, product delivery and installation obligations under NetScaler's existing contracts. Deferred tax assets include the tax effects of fair value adjustments related to NetScaler's net tangible and intangible assets and the pre-acquisition royalty liability which relates to a termination payment made in accordance with the terms of the technology license agreement with F5 is recorded at the amount paid subsequent to the acquisition.
+ 
+Approximately $70.2 million was allocated to identifiable amortizable intangible assets acquired. Core technology is comprised of products that have reached technological feasibility, which includes most of NetScaler's technology, principally NetScaler's application acceleration networking product line. The remainder of amortizable intangible assets is associated with customer relationships, trade names and covenants not to compete. The amortization related to the amortizable intangible assets is reflected as a pro forma adjustment to the unaudited pro forma condensed combined consolidated income statements.
+ 
+Of the total estimated purchase price, approximately $212.2 million was allocated to goodwill. Goodwill represents the excess of the purchase price over the fair value of the tangible and identifiable intangible assets acquired. Goodwill amounts are not amortized, but rather are tested for impairment at least annually. In the event that the Company determines that the value of the goodwill has become impaired, an accounting charge for the amount of the impairment will be incurred in the quarter in which such determination was made.
+ 
+Of the total estimated purchase price, approximately $7.0 million was allocated to IPR&D and was charged to expense upon completion of the merger. The IPR&D amount is primarily related to NetScaler projects related to development in multiple product areas that have not yet reached technological feasibility and do not have alternative future uses.
+ 
+ 
+Effective August 9, 2005, the Company entered into a senior revolving credit agreement (the "Credit Facility") with a group of financial institutions, to, among other things, fund a portion of the cash portion of the purchase price of the acquisition of the outstanding shares of capital stock of NetScaler. The Credit Facility provides for a five year revolving line of credit in the aggregate amount of $100.0 million, subject to continued covenant compliance. The Credit Facility bears interest at LIBOR plus 0.5% and adjusts in the future in the range of 0.5% to 1.25% above LIBOR based on the level of the Company's total debt and its adjusted earnings before interest, taxes, depreciation and amortization ("EBITDA"). In addition, the Company is required to pay
+ 
+an annual facility fee ranging from 0.125% to 0.25% based on the aggregate amount available under the Credit Facility and the level of the Company's total debt and its adjusted EBITDA. The Company repaid all initial borrowings under the Credit Facility on September 29, 2005.
+ 
+ 
+Pro forma adjustments are necessary to reflect purchase accounting adjustments and borrowings as if the merger and the borrowings occurred on June 30, 2005 and to present the unaudited pro forma condensed combined consolidated income statements for the six months ended June 30, 2005 and the year ended December 31, 2004, respectively.
+ 
+The pro forma adjustments included in the unaudited pro forma condensed combined consolidated financial statements are as follows:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,126 @@
+FILE:MSFT/MSFT-8K-20040428120229.txt.gz
+EVENTS:	
+TEXT:
+ITEM: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 12. Results of Operations and Financial Condition
+ 
+On April 22, 2004, Microsoft Corporation issued a press release announcing its financial results for the fiscal quarter ended March 31, 2004, and presented materials on its website that included supplemental historical financial information. A copy of that supplemental information is furnished as Exhibit 99.1 to this report. In addition, certain additional historical financial information was provided by Microsoft in a conference call webcast on April 22, 2004 following the issuance of the press release. A transcript of the portion of the conference call providing that additional historical financial information is set forth as Exhibit 99.2 to this report.
+ 
+The information in this report shall not deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+Reconciliation Of Differences Between GAAP And Non-GAAP Financial Measures
+ 
+We may from time to time discuss this quarter's performance using the non-GAAP financial measures presented below. The following table provides a reconciliation of the differences between the non-GAAP financial measures presented below and the most directly comparable financial measures calculated and presented in accordance with GAAP.
+ 
+ 
+The non-GAAP measures provided above, which remove the Sun settlement, the accrual for the fine imposed by the European Commission and stock-based compensation expense from the most directly comparable GAAP measures, are included as an additional clarifying item to aid readers of the financial statements in further understanding the Company's quarterly performance and the impact that certain items and events had on the financial results. The non-GAAP financial measures provided above should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.
+
+Exhibit 99.2
+ 
+Portions of Microsoft Fiscal Year 2004 Third Quarter Earnings Conference Call, Thursday, April 22, 2004, 2:30 PM PDT  comments of Scott Di Valerio, Corporate Vice President and Corporate Controller
+ 
+At this time I will provide an overview on the quarter and highlight a few significant financial and business momentum points. All growth comparisons that I mention relate to the third quarter of last year, unless otherwise specified.
+ 
+From a revenue perspective, we had a strong quarter with net revenue up 17 percent to $9.2 billion, with nearly all of our seven business segments exceeding expectations and growing double digits. Better than expected OEM sales of Windows XP, continued strength in sales of Office 2003, strong demand for Server products, healthy Xbox console and software sales and higher MSN advertising revenue contributed to our overall excellent performance.
+ 
+We continue to receive a benefit from favorable foreign exchange rates, primarily driven by the weakened U.S. dollar, however, the impact was generally in line with the guidance we gave you in January. Had rates been constant with the prior year, revenue would have been approximately $350 million lower.
+ 
+We estimate that total PC unit growth was about 14 percent, driven by strong business demand in both mature and emerging markets. Total server hardware units grew about 17 percent, with Windows Server shipments growing faster than the overall market at 25 percent.
+ 
+Total operating expenses came in at $7.9 billion, including $748 million of stock-based compensation expense. G&A costs were higher than expected due to $2.5 billion of legal charges resulting from the settlement of the Sun Microsystems litigation and the accrual related to the European Commission fine.
+ 
+Operating income decreased 53 percent to $1.3 billion, primarily due to the legal expenses I just discussed.
+ 
+Investment income totaled $1 billion, higher than our guidance primarily due to higher realized gains resulting from generally improved market conditions.
+ 
+Net income for the quarter was $1.3 billion, with diluted earnings per share of $0.12, including $0.17 related to the Sun Microsystems settlement and the accrual related to the European Commission fine, and $0.05 in stock-based compensation.
+ 
+Recognition of revenue related to annuity licensing agreements during the quarter accounted for approximately 24 percent of total revenue. This compares to 26 percent in the prior year and 22 percent in the second quarter of this year.
+ 
+Now let me take a minute to provide some color around PC demand. We estimate that total PC unit shipments worldwide grew about 14 percent during the quarter. The U.S., EMEA and Asia Pacific region, excluding Japan, all showed low to mid double-digit growth. Japan and Latin America grew in the mid to high single-digit range. We continue to see strong unit growth in emerging markets where a greater percentage of PCs ship with pirated copies of our products or without a Microsoft operating system. As a result, growth in underlying PC unit shipments does not always correlate directly with our operating system license growth numbers.
+Now let's get to the business segment results.
+ 
+Client revenue grew 16 percent to $2.9 billion, driven by stronger than expected PC shipments. Windows OEM license units grew 16 percent which drove 18 percent growth in OEM revenue. The difference between OEM unit growth and revenue growth was driven principally by a 2 point increase in the mix of professional versions of Windows up to 58 percent as we experienced strong business PC shipments.
+ 
+Revenue from commercial and retail licensing grew less than the OEM channel as customers purchased or upgraded their operating systems through the purchase of a new PC.
+ 
+During the quarter, Client operating income declined 16 percent, primarily as a result of the $700 million charge related to the settlement of the Sun Microsystems litigation.
+ 
+Revenue from Server and Tools grew 19 percent to $2.2 billion driven by healthy demand for Windows Server, Exchange, SQL Server and Visual Studio products. Rapid customer adoption of Windows Server continued with new licenses growing 31 percent compared to the prior year. Similar to previous quarters, we saw strong growth in Server OEM sales.
+ 
+Our consulting and premier product support businesses grew 11 percent. Revenue from developer tools, training and certification and MS Press businesses decreased 38 percent due to the recognition of $128 million of previously deferred revenue in Q3 of the prior year.
+ 
+Server and Tools had an operating loss of $940 million, primarily due to a charge related to settlement of the Sun Microsystems litigation of approximately $1.2 billion.
+ 
+Information Worker revenue was up 18 percent this quarter to $2.7 billion, as Office experienced strong sales across all customer segments. During the quarter, OEM licensing revenues grew 35 percent and revenue from preinstalled versions of Office 2003 in Japan, volume licensing, and retail packaged products grew an aggregate of 15 percent.
+ 
+Information Worker operating income improved 14 percent during the quarter, primarily due to the increase in revenue.
+ 
+Revenue from Microsoft Business Solutions was $153 million, up 4 percent, primarily due to continued growth in licensing the Navision products outside the United States. We continue to focus our efforts on delivering high value products to our customers and improving our execution across the board.
+ 
+The operating loss from Microsoft Business Solutions improved 29 percent on lower operating expenses.
+MSN reported another profitable quarter with improved margins as well as better than expected revenue growth of 16 percent. MSN advertising revenue increased 43 percent during the quarter, again showing strength in both traditional online and search-based advertising.
+ 
+Revenue in the subscription side of the business decreased about 6 percent year over year as the business continues to see a decline in its narrowband subscriber base. The subscription number ended up slightly above the December quarter at 8.2 million as the loss of narrowband subscribers was offset by the gain of Internet services and Hotmail extra storage subscriptions.
+ 
+Revenue in Mobile and Embedded Devices grew at 33 percent to $61 million on strong growth across all our businesses. Additionally, upcoming Windows Mobile based Smartphones like Motorola MPx and MPx100 generated tremendous enthusiasm at the 3GSM conference in February. We released Windows Mobile 2003 2nd Edition Software during the quarter as we continue to improve the software experience on mobile devices.
+ 
+Mobile and Embedded Devices operating loss improved 47 percent due to lower operating expenses.
+ 
+Now turning to Home and Entertainment, revenues increased 17 percent to $530 million. Xbox console volumes increased 30 percent over the same quarter last year. In the U.S., March NPD data showed that Xbox market share has increased 8 percentage points from 22 percent in March 2003 to 30 percent in March 2004. The Xbox business continues to execute with steady console growth, strong software sales, increasing numbers of subscribers using our Xbox Live gaming service and the highest U.S. attach rate of any console after just over two years in the market at 6.8.
+ 
+Operating loss for the third quarter improved 25 percent driven by revenue growth and improved Xbox console and third party software margins.
+ 
+Moving on to the rest of the income statement:
+ 
+Cost of revenue increased slightly to $1.4 billion due to the higher cost of services as well as the higher volume of Xbox consoles.
+ 
+The balance of operating expenses increased $2.7 billion, primarily due to charges related to the settlement of the Sun Microsystems litigation, accrual for the European Commission fine and other legal expenses. Sales and marketing came in about where we expected and R&D was a bit below our guidance due to lower headcount related costs.
+ 
+Operating income was $1.3 billion, including the legal expenses, which were partially offset by stronger than expected revenue.
+ 
+Investment income of $1.0 billion increased significantly from the third quarter of 2003 due to improved market conditions, resulting in higher gains on the sales of investments and significantly lower impairments.
+ 
+Our effective tax rate for the quarter was 42 percent, reflecting the non-deductibility of the European Commission fine.
+Now turning to cash flow and the balance sheet.
+ 
+Cash flow from operations increased 19 percent to $4.9 billion reflecting strong revenue and changes to working capital. During the quarter we spent approximately $1.4 billion to repurchase nearly 50 million shares.
+ 
+Accounts receivable decreased $671 million sequentially, consistent with seasonal trends. DSO was at 51 days, compared to 49 days in the prior year March quarter. As we usually point out, our DSO computation includes changes in unearned revenue and the average sales number so it is consistent with what is included in receivables.
+ 
+Other current liabilities increased $2.5 billion, primarily as a result of the accrual for the settlement of legal claims with Sun Microsystems and InterTrust. The $440 million InterTrust settlement involved a combination of a license of IP assets valued at $266 million and a payment of $174 million for past infringement. This settlement is reflected in our financial results and do not impact the income statement because it was partially funded through insurance.
+ 
+Unearned revenue was down sequentially $326 million to $7.5 billion, slightly better than our forecast. Annuity billings showed year over year growth, driven primarily by new Enterprise Agreements signed with large corporations. License only billings were stronger than we anticipated, partially driven by continued momentum for Office 2003 and strong demand for our Server products.
+ 
+The Upgrade Advantage contract amortization during the quarter was $261 million compared to $296 million in the December 2003 quarter and $450 million in the prior year March quarter.
+ 
+The undelivered element portion of unearned revenue decreased by $123 million, due to the reduction in our product deferral rates for Windows and Office during the fourth quarter of fiscal 2003. We expect the undelivered elements portion of unearned revenue to continue to decrease as the lower deferral rates add to the account at a slower rate than the current period recognition.
+ 
+Contracted but unbilled revenue increased sequentially and remains over $6 billion as customers continue to buy or renew Enterprise Agreements, consistent with the previous few quarters.
+ 
+Finally, I'd like to point out our average diluted weighted shares outstanding were 10.86 billion, right about where we expected. We continue to actively manage share dilution through our various buyback programs.
+
+

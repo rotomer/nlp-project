@@ -1,0 +1,127 @@
+FILE:XLNX/XLNX-8K-20070118163027.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+Item 2.02 Results of Operations and Financial Condition
+On January 18, 2007, Xilinx, Inc. issued a press release announcing results for the fiscal quarter ended December 30, 2006.  A copy of this press release is furnished as Exhibit 99.1 to this report.
+ 
+Use of Non-GAAP Financial Measures
+In addition to disclosing financial results calculated in accordance with U.S. generally accepted accounting principles (GAAP), the Company's earnings release contains non-GAAP financial measures that exclude the effects of stock-based compensation and the requirements of Statement of Financial Accounting Standards No. 123(R), "Share-based Payment" (SFAS 123(R)). The non-GAAP financial measures used by management and disclosed by the Company exclude the statement of income effects of all forms of stock-based compensation and the effects of SFAS 123(R) upon the number of diluted shares used in calculating non-GAAP net income per share.  These non-GAAP financial measures are not in accordance with or an alternative for GAAP measures and may be different from, and therefore not comparable to, non-GAAP measures used by other companies. The Company has provided a reconciliation of the non-GAAP financial measures to the most directly comparable GAAP financial measuresXilinx believes that the presentation of these non-GAAP measures, when shown in conjunction with the corresponding GAAP measures and our reconciliations, provides useful information to management and investors regarding financial and business trends relating to Xilinx's financial condition and results of operations.  Xilinx management uses these non-GAAP financial measures, in addition to the corresponding GAAP measures, in its internal reviews of the financial results of the Company, its presentations of results and forecasts to the Board of Directors and its establishment of internal budgets. Management believes that the use of these non-GAAP financial measures provides consistency and comparability with periods prior to the adoption of SFAS 123(R) and facilitates comparisons to internal performance forecasts and comparisons with other companies in our industry that separately identify stock-based compensation.  Management further believes that where the adjustments used in calculating non-GAAP net income and non-GAAP net income per share are based on specific, identified charges that impact different line items in the statements of income (including cost of revenues, research and development, and selling, general and administrative expense), that it is useful to investors to know how these specific line items in the statements of income are affected by these adjustments.  In particular, as Xilinx begins to apply SFAS 123(R), the Company believes that it
+.
+2
+is useful to investors to understand how the expenses associated with the application of SFAS 123(R) are being reflected on the Company's statements of income.
+The Company applied the modified prospective method of adoption of SFAS 123(R), under which the effects of stock-based compensation are reflected in the Company's GAAP financial statement presentations for and after the first quarter of fiscal 2007, but are not reflected in results for prior periods.  Gross margin, expenses (research and development and selling, general and administrative), operating income, income taxes, net income and net income per share are the primary financial measures that management uses for planning and forecasting future periods which are affected by stock-based compensation.  Because management reviews these financial measures calculated without taking into account the effects of the new requirements under SFAS 123(R), these financial measures are treated as "non-GAAP financial measures" under Securities and Exchange Commission rules.
+Item 9.01               Financial Statements and Exhibits
+(d)  Exhibits          
+ 
+3
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+4
+ 
+ 
+5
+
+Lori Owen
+Xilinx, Inc.
+(408) 879-6911
+ir@xilinx.com
+XILINX ANNOUNCES THIRD QUARTER FISCAL 2007 RESULTS; $0.26 EPS
+SAN JOSE, CA, JANUARY 18, 2007
+ Xilinx, Inc. (Nasdaq: XLNX) today announced net revenues of $450.7 million in the third quarter of fiscal 2007,
+down 4% sequentially from the prior quarter and flat with the same quarter a year ago. Third quarter net income of $87.5 million, or $0.26 per diluted share, decreased 6% from the prior quarter, and included stock-based compensation of $21.4 million.  Third quarter net income also included a tax benefit of approximately $0.02 per diluted share related to the reinstatement of the R&D tax credit and a reduction in the fiscal 2006 income tax provision.
+Xilinx also announced that its Board of Directors declared a quarterly cash dividend of $0.09 per outstanding share of common stock, payable on February 28, 2007 to all stockholders of record at the close of business on February 7, 2007.
+Additional third quarter comparisons are represented in the chart below:
+GAAP Results
+(In millions, except EPS)
+ 
+Results Excluding the Effects of Stock-Based Compensation
+(In millions, except EPS)
+ 
+Sales from all end markets were weaker than anticipated with the exception of the Industrial and Other end market, which increased 3% sequentially as strong sales from defense and test and measurement applications were offset by a decline in sales from industrial, scientific and medical applications.  Sales from the Communications end market decreased 7% sequentially, driven by softness in telecommunications.
+"Sales from Mainstream and Base Products declined during the quarter," said Wim Roelandts, Xilinx chief executive officer. "However, Xilinx experienced solid growth from New Products, which increased 12% sequentially and represented 26% of total sales, up from 13% of sales in the same quarter a year ago.  Sales from the Spartan
+-3E and Virtex
+-4 FX families were particularly strong during the quarter driven by a broad base of customers and applications."
+Business Review  December Quarter Fiscal 2007
+Total inventory days at Xilinx and distribution were 118 days, down from 126 days last quarter.
+                 
+Accounts receivable days sales outstanding were 30, down from 36 in the prior quarter.
+                 
+Capital expenditures and depreciation were $21 million and $13 million, respectively.
+                 
+Net Revenues by Geography:
+ 
+Net Revenues by End Market:
+ 
+Net Revenues by Product*:
+*Products are classified as follows:
+ II products
+New Products: Virtex-5, Virtex-4, Spartan-3, Spartan-3E, and CoolRunner
+-
+Mainstream Products: Virtex-II Pro, Virtex-II, Spartan-IIE, Spartan-II, CoolRunner, Virtex-E products
+Base Products: Virtex, XC3000, XC3100, XC4000, XC4000XL, XC4000XLA, XC4000XV, XC4000E, XC4000EX, XC5200, XC9500, XC9500XL, XC9500XV and Spartan products
+Support Products: Configuration solutions, HardWire, Software & Support/Services
+Highlights  December Quarter Fiscal 2007:
+Xilinx sales from products manufactured using 90nm and 65nm process technologies increased to a record 24% of total sales, up from 11% in the same quarter a year ago.  Based on cumulative revenues, Xilinx continues to demonstrate its technology leadership by supplying approximately 70% of the world's 90nm field programmable gate arrays (FPGAs) and 100% of the world's 65nm FPGAs.
+                 
+In December 2006, Xilinx shipped the industry's highest density FPGA. Developed using an advanced power-saving 65nm process technology, the Virtex-5 LX330 FPGA delivers 65% more logic than the largest 90nm FPGAs. Xilinx foundry
+                 
+2
+      partners UMC and Toshiba have ramped production on their 65nm processes quickly and with excellent yields, allowing Xilinx to deliver the complete 65nm Virtex-5 LX platform on time and over one year ahead of its competition.
+     
+Xilinx began shipping its Spartan-3A family of I/O-optimized FPGAs, an extension of its low-cost, high volume Spartan-3 Generation. The Spartan-3A platform provides a cost-reduced solution for applications where I/O count and capabilities matter more than logic density. With support for the industry's widest range of I/O standards (26) and unique power, configuration capabilities and anti-cloning security advantages, Spartan-3A FPGAs provide a flexible and cost-saving solution to new high-volume applications within consumer and industrial end markets, such as display panel interfaces, video/tuner board interfaces and video switching.
+                 
+Business Outlook  March Quarter Fiscal 2007
+                 
+Revenues expected to be flat to down 5% sequentially.
+                 
+Gross margin expected to be approximately 61% including $2 million of stock-based compensation charges.
+                 
+Operating expenses are expected to be up approximately 1% sequentially including $18 million of stock-based compensation.
+                 
+Other income expected to be approximately $21 million.
+                 
+Tax rate is expected to
+be approximately 22%.
+                 
+Fully diluted share count expected to decrease to approximately 336 million shares.
+Business Update  March Quarter Fiscal 2007
+The Company expects to issue a fourth quarter business update press release after the market closes on Monday, March 5, 2007.  Financial guidance to the investment community will be limited to the points mentioned in the business update document.  Please sign up for a push email alert, which is available from our investor relations web site at http://www.investor.xilinx.com.
+This release contains forward-looking statements and projections. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, customer acceptance of our new products, the ability of our customers to manage their inventories, a high dependence on turns business, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to successfully manage production at multiple foundries, variability in wafer pricing, and other risk factors listed in our most recent Form 10-K.
+About Xilinx
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available at http://www.xilinx.com.
+3
+XILINX, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(In thousands, except per share amounts)
+ 
+ 
+4
+XILINX, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+(In thousands)
+Derived from audited financial statements
+(1)
+            
+5
+ 
+ 
+In addition to disclosing financial results calculated in accordance with U.S. generally accepted accounting principles (GAAP), the Company's earnings release contains non-GAAP financial measures that exclude the effects of stock-based compensation and the requirements of Statement of Financial Accounting Standards No. 123(R), "Share-based Payment" (SFAS 123(R)). The non-GAAP financial measures used by management and disclosed by the Company exclude the statement of income effects of all forms of stock-based compensation and the effects of SFAS 123(R) upon the number of diluted shares used in calculating non-GAAP net income per share.  These non-GAAP financial measures are not in accordance with or an alternative for GAAP measures and may be different from, and therefore not comparable to, non-GAAP measures used by other companies. The Company has provided reconciliations of the non-GAAP measures to the most directly comparable GAAP measures. Xilinx believes that the presentation of these non-GAAP measures, when shown in conjunction with the corresponding GAAP measures and our reconciliations, provides useful information to management and investors regarding financial and business trends relating to Xilinx's financial condition and results of operations.  For additional information regarding these non-GAAP financial measures and their use by Company management, see the Form 8-K dated January 18, 2007 that Xilinx has filed with the SEC.
+6
+
+

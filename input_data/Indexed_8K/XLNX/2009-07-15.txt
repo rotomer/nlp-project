@@ -1,0 +1,83 @@
+FILE:XLNX/XLNX-8K-20090715162020.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[  ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+   
+Item 2.02 Results of Operations and Financial Condition
+On July 15, 2009, Xilinx, Inc. issued a press release announcing results for the fiscal quarter ended June 27, 2009. A copy of this press release is furnished as Exhibit 99.1 to this report.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant
+    
+has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+SAN JOSE, CA, JULY 15, 2009
+-- Xilinx, Inc. (Nasdaq: XLNX) today announced first quarter fiscal 2010 sales of $376.2 million, down 5% sequentially and down 23% from the first quarter of the prior fiscal year. First quarter net income was $38.0 million, or $0.14 per diluted share, including previously announced pre-tax restructuring charges totaling $15.8 million, and the reversal of $8.7 million of interest income previously accrued on the tax prepayment as a result of the recent adverse court case ruling. Collectively, these items represented approximately $0.07 per diluted share after tax.
+The Xilinx Board of Directors declared a quarterly cash dividend of $0.14 per outstanding share of common stock, payable on August 26, 2009 to all stockholders of record at the close of business on August 5, 2009.
+Additional first quarter comparisons are represented in the charts below:
+"Sales growth was impacted in the June quarter by supply constraints primarily relating to certain Virtex-5 devices in high demand," said Moshe Gavrielov, Xilinx President and Chief Executive Officer. "We reduced SG&A and R&D expenses by more than 5% sequentially and generated $128 million of operating cash flow. At the same time, we remain committed to our ongoing investment in next generation FPGA development, which we expect to drive future growth opportunities."
+During the June quarter, sales from Asia Pacific increased 2% sequentially to represent a record 37% of total sales. This was up from 35% of sales in the prior quarter, and up from 32% of total sales in the same quarter a year ago. Sales from all other geographies declined sequentially during the quarter.
+Net Revenues by Product:
+Note:
+The product categories represented below have been modified to make categories more meaningful given new product introductions and maturing of products. For comparative purposes, we have provided supplemental information on our website at www.investor.xilinx.com that presents results based on previous category classifications.
+Products are classified as follows:
+New Products: Virtex-6, Virtex-5, Spartan-6, Spartan-3A and Spartan-3E product families Mainstream Products: Virtex-4, Spartan-3, Spartan-II and CoolRunner-II product families
+Base Products: Virtex, Virtex-E, Virtex-II, Spartan, XC4000, CoolRunner and XC9500 product families Support Products: Configuration products, HardWire, Software & Support/Services
+*     Return on equity calculation: Annualized net income/average stockholders' equity
+     
+Highlights First Quarter Fiscal 2010
+During the June quarter, Xilinx released the Xilinx Base Targeted Design Platform aimed
+at accelerating the development of system-on-chip solutions with Xilinx Virtex-6 and
+Spartan-6 FPGAs. This design platform combines the 11.2 release of the ISE Design
+Suite, with an expanded intellectual property portfolio and pre-verified reference designs
+enabling design teams to dramatically reduce development cycles and focus engineering
+resources on creating greater product differentiation.  
+Xilinx introduced the Xilinx Virtex-5Q family for the Aerospace and Defense (A&D)
+industry. Virtex-5Q FPGAs leverage the proven Virtex-5 family architecture to
+deliver higher speeds, greater capacity and lower dynamic power consumption on
+average over previous generations. Xilinx is the leading programmable logic provider
+to the A&D market with over twice the market share of its nearest competitor serving
+myriad applications including secure communications, avionics, military and satellite
+communications.
+Business Outlook  September Quarter Fiscal 2010
+Sales are expected to be up approximately 2% to 6% sequentially.  
+Gross margin is expected to be approximately 61%.  
+Operating expenses are expected to be approximately flat including $5 million in
+charges relating to restructuring activity announced on April 15, 2009.  
+Interest and other is expected to be a net expense of approximately $3 million.  
+Fully diluted share count is expected to be approximately 278 million, flat with the
+prior quarter.  
+September quarter tax rate is expected to be approximately 16%.
+Conference Call
+A conference call will be held today at 2:00 p.m. Pacific Time to discuss the quarter's results and management's outlook for the June quarter. The webcast and subsequent replay will be available in the investor relations section of the company's web site at www.investor.xilinx.com. A telephonic replay of the call may be accessed later in the day by calling (800) 642-1687 and referencing confirmation code 16517886. The telephonic replay will be available for two weeks following the live call.
+This release contains forward-looking statements and projections. Forward-looking statements and projections can often be identified by the use of forward-looking words such as "expect," "may," "will," "could," "believe," "anticipate," "estimate," "continue," "plan," "intend," "project" or other similar words. Undue reliance should not be placed on such forward-looking statements and projections, which speak only as of the date they are made. We undertake no obligation to update such forward-looking statements. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, customer acceptance of our new products, the ability of the Company to generate cost and operating expense savings in an efficient and timely fashion, the ability of our customers to manage their inventories, a high dependence on turns business, the ability of our foundry suppliers to deliver sufficient wafer volumes in a timely manner, more customer volume discounts than expected, greater product mix changes than anticipated, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to successfully manage production at multiple foundries, variability in wafer pricing, and other risk factors listed in our most recent Form 10-K.
+About Xilinx
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available at http://www.xilinx.com. Xilinx, the Xilinx logo, Virtex, Spartan, ISE, and other brands designated herein are trademarks of Xilinx in the United States and other countries. All other trademarks are the property of their respective owners.
+#0939F
+XILINX, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (In thousands, except per share amounts)
+*      As adjusted for the adoption of FSP APB 14-1.
+     
+ 
+XILINX, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS (In thousands)
+XILINX,
+INC.
+SUPPLEMENTAL
+FINANCIAL
+INFORMATIO
+N (In
+thousands)
+*      As
+adjusted
+for the
+adoption
+of FSP APB 14-1.
+
+

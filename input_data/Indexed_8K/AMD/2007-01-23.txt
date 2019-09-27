@@ -1,0 +1,144 @@
+FILE:AMD/AMD-8K-20070123164331.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this Report, including the Exhibit 99.1 attached hereto, is furnished pursuant to Item 2.02 and Item 7.01 of this Form 8-K. Consequently, it is not deemed "filed" for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or Securities Act of 1933, as amended, if such subsequent filing specifically references this Form 8-K.
+On January 23, 2007, Advanced Micro Devices, Inc. (the "Company") announced its financial position and results of operations as of and for the quarter and year ended December 31, 2006 in a press release that is attached hereto as Exhibit 99.1.
+To supplement the Company's financial results presented on a U.S. GAAP basis, the Company's earnings release contains non-GAAP financial measures of non-GAAP operating income, non-GAAP gross margin and adjusted EBITDA.
+To derive non-GAAP operating income and non-GAAP gross margin, the Company excluded stock-based compensation expense and certain business combination accounting entries and expenses related to its acquisition of ATI Technologies, Inc. which closed on October 24, 2006. Specifically, these non-GAAP financial measures reflect adjustments of the following items:
+: Non-GAAP gross margin and operating income exclude stock-based compensation expenses. The Company adopted FASB Statement No. 123R, Share-Based Payments, on December 26, 2005, which requires that share-based payments, including employee stock options, be measured at their fair value and recorded as compensation expense in the Company's financial statements. Prior to the adoption of Statement 123R, the Company was required to record stock-based compensation expense using the awards' intrinsic value which generally resulted in no compensation expense being recorded in the financial statements. In accordance with the modified prospective method the Company used to adopt Statement 123R, the Company's financial statements for prior periods have not been restated to reflect, and do not include, changes in the method to expense share-based payments, including employee stock options, at their fair values. Starting from the fourth quarter of 2006, management no longer considers this non-cash expense in evaluating the business performance of the Company's operating segments.
+Stock-based compensation expense
+: Non-GAAP operating income excludes the effect of amortization of acquired intangible assets associated with the ATI acquisition. The Company believes that the exclusion of these amounts enables investors to better evaluate its current operating performance compared with prior periods. Amortization expenses are recurring.
+Amortization of acquired intangible assets
+: The Company incurred significant expenses in connection with the ATI acquisition, which it would not have otherwise incurred and which the Company believes are not indicative of ongoing performance. Consequently, the Company excluded the effect of these charges from its GAAP operating income and gross margin. Acquisition-related and integration charges primarily consist of in-process research and development expenses, the cost of the fair value adjustment of acquired inventory and other charges incurred in connection with integrating the two companies. The Company believes that the exclusion of these amounts enables investors to better evaluate its current operating performance compared with prior periods.
+Acquisition-related and integration charges
+In addition, the Company presented "Adjusted EBITDA" in the earnings release. In the earnings release for the quarter and year ended December 31, 2006, Adjusted EBITDA was determined by adjusting net income (loss) for interest expense, income tax, depreciation and amortization, and then, due to the significant expenses incurred in connection with the ATI acquisition, further adjusting EBITDA for in-process research and development and amortization of acquired intangible assets. For each of the three quarters in the periods ended October 1, 2006,
+EBITDA was determined by adjusting net income (loss) for interest expense, income tax, depreciation and amortization. In quarters prior to March 26, 2006, EBITDA was determined by adjusting net income (loss) for interest income, interest expense, income tax, depreciation and amortization. In the earnings release prior periods have been restated to conform to the presentation of the current quarter.
+Pursuant to the requirements of Regulation G, the Company has provided reconciliations within the press release of these non-GAAP financial measures to the most directly comparable U.S. GAAP financial measures. The Company provided non-GAAP operating income and gross margin financial measures in order to enable investors to better compare and evaluate the Company's historical business prior to the ATI acquisition with the financial results for the quarter ended December 31, 2006. Management believes this non-GAAP presentation will aid investors by presenting current and historical results in a form that makes it easier to compare current period results with historical results.
+The Company calculated and communicated Adjusted EBITDA because management believes it is of interest to investors and lenders in relation to its overall capital structure and its ability to borrow additional funds.
+The Company's calculation of Adjusted EBITDA may or may not be consistent with the calculation of this measure by other companies in the same industry. Investors should not view Adjusted EBITDA as an alternative to the U.S. GAAP operating measure of net income or U.S. GAAP liquidity measures of cash flows from operating, investing and financing activities. In addition, Adjusted EBITDA does not take into account changes in certain assets and liabilities as well as interest and income taxes that can affect cash flows.
+Management does not intend the presentation of these non-GAAP measures to be considered in isolation or as a substitute for results prepared in accordance with U.S. GAAP. These non-GAAP measures should be read only in conjunction with the Company's consolidated financial statements prepared in accordance with U.S. GAAP.
+Item 9.01 Financial Statements and Exhibits.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+News Release
+ 
+AMD (NYSE: AMD) today reported financial results for the quarter ended December 31, 2006. As a result of AMD's acquisition of ATI, fourth quarter financial results include the results of the former ATI operations
+SUNNYVALE, Calif. Jan. 23, 2007 
+1
+beginning October 25, 2006. Because comparison of fourth quarter consolidated financial results to previous periods do not correlate directly, AMD has provided non-GAAP financial measures for AMD's historical business (pre-acquisition AMD). Management believes this non-GAAP presentation will aid investors by presenting current and historical results in a form that makes it easier to compare current period results with historical results.
+AMD reported fourth quarter 2006 revenue of $1.77 billion, an operating loss of $527 million, and a net loss of $574 million, or $1.08 per share. These results include acquisition-related and integration charges of $550 million, or $1.04 per share, and $27 million of employee stock-based compensation expense, or $0.05 per share.
+ 
+ 
+"We believe we once again gained microprocessor unit share in the quarter, as we did in the year, by continuing to execute against our customer acquisition strategy and our product, technology and manufacturing plans," said Robert J. Rivet, AMD's chief financial officer.
+ 
+Excluding the former ATI operations, acquisition-related and integration charges, and employee stock-based compensation expense, AMD reported fourth quarter revenue of $1.37 billion and operating income of $63 million compared with revenue of $1.35 billion and operating income of $272 million for the fourth quarter of 2005
+2
+. Comparable third quarter 2006 revenue was $1.33 billion and operating income was $142 million.
+ 
+AMD revenue increased 33 percent to $5.25 billion and operating income increased 9 percent to $600 million for the year ended December 31, 2006,
+ 
+ 
+excluding the former ATI operations, acquisition-related and integration charges, and employee stock-based compensation expense. This compares with revenue of $3.94 billion and operating income of $548 million for the year ended December 25, 2005
+2
+.
+ 
+Fourth quarter 2006 gross margin was 40 percent, excluding acquisition-related charges and stock-based compensation expense for the applicable periods, compared to 52 percent in the third quarter of 2006 and 57 percent in the fourth quarter of 2005
+2
+. The decrease from the prior quarter was due largely to significantly lower server processor average selling prices (ASPs) and the inclusion of the former ATI operations.
+Computation Products
+Fourth quarter microprocessor unit shipments grew 26 percent year-over-year and 19 percent sequentially as customers continued leveraging AMD solutions to provide greater choice to the market.
+Fourth quarter demand for AMD mobile processors was especially strong, resulting in record unit shipments and revenue. Mobile processor unit shipments and revenue both increased 41 percent quarter-over-quarter. Year-over-year, mobile processor unit shipments increased 76 percent and revenue increased 85 percent. Desktop processor revenue was also strong in the quarter, led by demand for
+AMD Athlon 64 X2 dual-core processors. Overall server processor unit shipments were essentially flat compared to the third quarter and ASPs were down significantly.
+AMD commenced first revenue shipments of 65nm processors in December as planned.
+Graphics and Chipsets, and Consumer Electronics Segments
+Revenue from Graphics and Chipsets, and Consumer Electronics segments for the period beginning October 25, 2006, was $398 million. Solid demand for chipsets contributed to Graphics and Chipsets segment revenue of $278 million. Revenue of $120 million for the Consumer Electronics segment was driven by demand for handheld products and game console royalties.
+ 
+Additional Highlights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Current Outlook
+AMD's outlook statements are based on current expectations. The following statements are forward looking, and actual results could differ materially depending on market conditions and the factors set forth under "Cautionary Statement" below.
+In a seasonally down first quarter, AMD expects revenue to be in the range of $1.6 to $1.7 billion.
+AMD Teleconference
+AMD will hold a conference call for the financial community at 2:00 p.m. PT (5:00 p.m. ET) today to discuss fourth quarter financial results. AMD will provide a real-time audio broadcast of the teleconference on the Investor Relations page of its Web site at www.amd.com. The webcast will be available for 10 days after the conference call.
+About AMD
+Advanced Micro Devices (NYSE: AMD) is a leading global provider of innovative processing solutions in the computing, graphics and consumer electronics markets. AMD is dedicated to driving open innovation, choice and industry growth by delivering superior customer-centric solutions that empower consumers and businesses worldwide. For more information, visit www.amd.com.
+ 
+Cautionary Statement
+This release contains forward-looking statements concerning revenue for the first quarter of 2007 and anticipated product functionality, which are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+ 
+Investors are cautioned that forward-looking statements in this release involve risks and uncertainties that could cause actual results to differ materially from the company's current expectations. Risks include the possibility that Intel Corporation's pricing, marketing programs, product bundling, new product introductions or other activities targeting the company's business will prevent attainment of the company's current revenue plans; demand for computers and consumer electronics products and, in turn, demand for the company's products will be lower than currently expected; global business and economic conditions will worsen, resulting in lower than currently expected revenue in the first quarter of 2007 and beyond; the company will not achieve its current product and technology introduction schedules; the company will require additional capital and will not be able to raise sufficient capital, on favorable terms or at all; the company will not be able to obtain sufficient manufacturing capacity or components to meet demand for its products; solutions providers will not provide the infrastructure to support the company's AMD64 technology in a timely fashion; competitors, customers and suppliers of AMD may take actions that will negate the anticipated benefits of AMD's acquisition of ATI; revenue, cost savings, growth prospects and other synergies expected from the acquisition of ATI will not be fully realized or will take longer to realize than expected; the acquisition will not be accretive in the timeframe expected; there will be delays associated with integrating the companies; and unfavorable results of operations of Spansion will adversely impact the company's results of operations. We urge investors to review in detail the risks and uncertainties in the company's Securities and Exchange Commission filings, including but not limited to the Annual Report on From 10-K for the year ended December 25, 2005 and AMD's quarterly report on Form 10-Q for the quarter ended October 1, 2006.
+AMD, the AMD Arrow logo, AMD Athlon, AMD Opteron and combinations thereof, and ATI and the ATI logo, and Imageon, Radeon and Crossfire are trademarks of Advanced Micro Devices, Inc. Other names used are for identification purposes only and may be trademarks of their respective owners.
+ 
+ADVANCED MICRO DEVICES, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Millions except per share amounts)
+ 
+Note: Figures may not foot due to rounding
+ 
+ADVANCED MICRO DEVICES, INC.
+CONSOLIDATED BALANCE SHEETS
+(Millions)
+ 
+ 
+Note: Figures may not foot due to rounding
+ADVANCED MICRO DEVICES, INC.
+SELECTED CORPORATE DATA
+(Unaudited)
+(Millions except headcount and percentages)
+ 
+SEE FOOTNOTES ON NEXT PAGE
+Note: Figures may not foot due to rounding
+ADVANCED MICRO DEVICES, INC.
+SELECTED CORPORATE DATA FOOTNOTES
+(Unaudited)
+(Millions)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Figures may not foot due to rounding
+
+

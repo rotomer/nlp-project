@@ -1,0 +1,466 @@
+FILE:ADI/ADI-8K-20080116164841.txt.gz
+EVENTS:	Completion of Acquisition or Disposition of Assets	Financial Statements and Exhibits
+TEXT:
+ITEM: Completion of Acquisition or Disposition of Assets
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+     Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+Table of Contents
+Item 2.01. Completion of Acquisition or Disposition of Assets
+     On January 11, 2008, Analog Devices, Inc. (including various subsidiaries, "Analog") completed the sale of its cellular handset radio and baseband chipset operations, pursuant to the terms of the Purchase and Sale Agreement entered into by Analog and MediaTek Inc. ("MediaTek"). Analog previously announced the transaction in September 2007. At the closing, Mediatek acquired the assets related to the Othello radio transceiver and SoftFone baseband chipset business, as well as certain cellular handset baseband support operations (the "Business"). MediaTek paid total consideration to Analog of approximately $350 million in cash. The Purchase and Sale Agreement dated as of September 9, 2007 was filed as Exhibit 2.1 to Analog's Form 10-K for the fiscal year ended November 3, 2007.
+     The transaction also included the license by Analog to MediaTek of certain technology and intellectual property rights related to the Business, subject to certain field of use restrictions related to the activities of the Business. In addition, Analog received a license back of the technology and intellectual property sold to MediaTek, subject to certain restrictions on use related to the activities of the Business for a seven-year period. The foregoing is qualified in its entirety by the License Agreement, dated as of January 11, 2008, by and among Analog and MediaTek, a copy of which is filed herewith as Exhibit 2.3 and is incorporated herein by reference.
+     Following the closing of the transaction, Analog shall be subject to certain non-competition covenants related to the activities of the Business for a four-year period. Analog has also agreed to provide MediaTek with various transition services following the closing of the transaction.
+     Also on January 11, 2008, Analog and MediaTek entered into an amendment to the Purchase and Sale Agreement, a copy of which is filed herewith as Exhibit 2.2.
+     A copy of the press release issued by Analog on January 11, 2008 concerning the completion of the foregoing transaction is filed herewith as Exhibit 99.1 and is incorporated herein by reference.
+Item 9.01. Financial Statements and Exhibits
+     (d) Exhibits
+Table of Contents
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Table of Contents
+
+ 
+Exhibit 2.2
+     This AMENDMENT NO. 1 TO (this "") is entered into as of January 11, 2008 among , a Massachusetts corporation (the ""), , a limited liability company formed under the laws of the Netherlands (""), , a company organized under the laws of Denmark (""), , a company organized under the laws of England (""), , a company organized under the laws of India (""), ., a company organized under the laws of Hong Kong (""), ., a company organized under the laws of Korea (""),  ., a company organized under the laws of the People's Republic of China (""), a company organized under the laws of the People's Republic of China (""), and ., a company organized under the laws of Taiwan ("") (the Parent, Analog BV, Analog ApS, Analog Limited, Analog India, Analog Hong Kong, Analog Korea, Analog Shanghai, Analog China and Analog Taiwan are each individually referred to herein as a "" and are collectively referred to herein as the ""), and , a company organized under the laws of Taiwan (the "").
+PURCHASE AND SALE AGREEMENT
+Amendment
+Analog Devices, Inc.
+Parent
+Analog Devices, B.V.
+Analog BV
+Analog Devices ApS
+Analog ApS
+Analog Devices Limited
+Analog Limited
+Analog Devices India Private Limited
+Analog India
+Analog Devices Hong Kong, Ltd
+Analog Hong Kong
+Analog Devices Korea, Ltd
+Analog Korea
+Analog Devices (Shanghai) Co., Ltd
+Analog Shanghai
+Analog Devices (China) Co., Ltd.,
+Analog China
+Analog Devices Taiwan, Ltd
+Analog Taiwan
+Seller
+Sellers
+MediaTek Inc.
+Buyer
+     WHEREAS, Sellers and Buyer are parties to that certain Purchase and Sale Agreement dated September 9, 2007 (the ""); and
+Purchase Agreement
+     WHEREAS, Sellers and Buyer wish to make certain amendments to the Purchase Agreement, as further set forth in this Amendment.
+     NOW, THEREFORE, pursuant to Section 12.7 of the Purchase Agreement and in consideration of good and valuable consideration, the receipt of which is hereby acknowledged, the undersigned hereby agree as follows:
+     1. 
+Amendment
+          (a) The following is hereby inserted into the Purchase Agreement as Section 4.8 thereof:
+     "4.8 . From and after the date of this Agreement, Parent shall promptly upon the Buyer's written request reimburse the Buyer in respect of any amounts paid by Buyer or any of its Affiliates to any third party listed in Annex I hereto in respect of (i) license fees or (ii) maintenance or support fees, in each case relating to the period from the Closing until the third anniversary of the Closing, with respect to each of the software products listed in hereto and solely for incorporation in the Analog Development Tools (as defined in the License Agreement). Buyer will deliver to Parent a copy
+Reimbursement for Certain Third Party IP Licenses
+Annex I
+ 
+of the paid invoice and license, maintenance or support agreement, as applicable, as a condition to such reimbursement. This Section 4.8 shall be without limitation of, nor subject to the limitations under, any rights of any Buyer Indemnified Party to claim indemnification pursuant to Section 6.1(c)."
+          (b) The following is hereby inserted into the Purchase Agreement as Section 9.1(h) thereof:
+     "9.1(h) Notwithstanding anything to the contrary in this Agreement, for the avoidance of doubt, the Parties hereby agree that the standard of performance with respect to any obligation of the Buyer or any of its Affiliates to provide any Continuing Employees or Continuing Contractors with substantially comparable severance and other benefits after Closing pursuant to this Section 9.1 shall be compared only to Sellers' written plans and policies, and any terms agreed to by the Buyer as part of the TUPE consultation process in Europe, and shall not be compared to practices, unwritten policies or informal arrangements."
+          (c) Article XI of the Purchase Agreement is hereby amended as follows:
+          The defined term "Purchase Price" is hereby amended and restated in its entirety as follows:
+          """ shall mean U.S. $349,572,000."
+Purchase Price
+     2. . Except as amended hereby and set forth above, the Purchase Agreement shall continue in full force and effect.
+Effect of Amendment and Waiver
+     3. . This Amendment and any disputes hereunder shall be governed by and construed in accordance with the internal laws of the State of New York without giving effect to any choice or conflict of law provision or rule (whether of the State of New York or any other jurisdiction) that would cause the application of laws of any jurisdiction other than those of the State of New York. Any dispute, controversy or claim arising out of or relating to this Amendment, will be resolved in accordance with Section 12.11 of the Purchase Agreement.
+Governing Law; Jurisdiction
+     4. . This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. This Amendment may be executed by facsimile signature.
+Counterparts and Facsimile Signature
+ 
+     IN WITNESS WHEREOF, the undersigned have executed this Amendment No. 1 as of the date first above written.
+ 
+
+ 
+Exhibit 2.3
+     This License Agreement (""), dated as of January 11, 2008, is made and entered into by and between Analog Devices, Inc., a Massachusetts corporation (""), Analog Devices B.V., a corporation organized under the laws of the Netherlands, ("" and together with ADI, the "") and MediaTek, Inc., a corporation organized under the laws of Taiwan, and MediaTek Singapore Pte. Ltd., a corporation organized under the laws of Singapore (collectively, together with all of their respective Related Entities, the "").
+Agreement
+ADI
+Analog B.V.
+Analog Parties
+Licensee
+A. The Analog Parties and Licensee have entered into a certain Purchase and Sale Agreement dated September 9, 2007 (as such agreement may be amended from time to time, the "").
+Purchase and Sale Agreement
+B. In connection with the Purchase and Sale Agreement, Licensee wishes to obtain a license, and the Analog Parties and their respective Subsidiaries (as defined below) are willing to grant a license under the terms of this Agreement, to the Analog Technology (as defined below) and the Analog Intellectual Property (as defined below).
+In consideration of the mutual undertakings set forth herein, the sufficiency of which is acknowledged, Licensee and the Analog Parties agree as follows:
+1. . Capitalized terms used but not otherwise defined herein shall have the following meanings:
+Definitions
+     "" means the Analog 218x DSP as it is presently used in digital baseband semiconductor integrated circuits, but specifically excluding the M2181 Synthesizable RTL as licensed by Analog from QualCore Logic, Inc. (formally known as VIPG) which is the subject of the M2181 Synthesizable RTL Sublicense Agreement.
+218x DSP
+     "" shall mean the "Business" as defined in the Purchase and Sale Agreement.
+Acquired Business
+     means analog or digital functionality that is the same as or substantially similar to functionality performed by Current Products other than the processing of radio frequency, digital baseband, and/or analog baseband signals in compliance with one or more of the Applicable Standards. For clarity, Ancillary Functionality includes without limitation power management functions and multimedia processing.
+"Ancillary Functionality"
+     "" means all proprietary software in Source Code and/or Object Code form, related behavioral models and data owned by any of the Analog Parties or their
+Analog Design Tools
+ 
+respective Subsidiaries on the Effective Date and used to create Current Products, including but not limited to the software, models and data listed in attached hereto, and related Documentation.
+Appendix A
+     "" means all proprietary software in Source Code and/or Object Code form and related hardware and/or emulators and related Documentation owned on the Effective Date by any of the Analog Parties or their respective Subsidiaries and used to create software to run on (a) a DSP of a Current Product specifically, the 218x DSP, Baseband DSP or SigmaDSP or (b) a PC for use in developing, debugging or testing a Current Product, including, without limitation, editors, linkers, compilers and emulators, and related Documentation. Analog Development Tools include but are not limited to those tools listed in attached hereto.
+Analog Development Tools
+Appendix B
+     "" means the technology and related information currently owned on the Effective Date and used by any of the Analog Parties or their respective Subsidiaries in connection with the design, development, implementation, testing, debugging, supporting, and manufacturing of Current Products including but not limited to all register transfer level code, Source Code (provided that with respect to the Analog Tools, Source Code is supplied only to the extent listed in an applicable Appendix), test benches, synthesizable net lists, synthesis scripts, make files, flow methodologies, Documentation, placement and layout diagrams, circuit schematics, simulation models, specifications, production test requirements, DSPs, firmware and DSP code, LEDs, digital to analog converters, analog to digital converters, phase locked loops, clocks, memory caches, references, power management units, interfaces, switches, detectors, modulators, gain blocks, controllers, codecs and codec interfaces, drivers, data interfaces, memory interfaces, SIM interfaces, communications interfaces, display interfaces, radio interfaces, keypad interfaces, and accessory interfaces, to the limited extent that the same are included within the Current Products. For the avoidance of doubt, Analog Hardware Technology shall not include any (i) Third Party Technology (except to the extent sublicensable to Licensee without causing any Analog Party or any Related Entity to incur an obligation to pay a license fee, royalty, or similar cost to any third party) or (ii) Transferred Technology.
+Analog Hardware Technology
+     means all Intellectual Property (excluding the Transferred Intellectual Property Rights) owned or licensed (with the right to sublicense; provided, that Intellectual Property licensed to the Analog Parties shall not be included if the grant of a sublicense to such Intellectual Property would cause any Analog Party or any Related Entity to incur an obligation to pay a license fee, royalty, or similar cost to any third party) on the Effective Date by the Analog Parties or their respective Subsidiaries applicable to the Analog Technology and/or the Transferred Technology, including, without limitation, the Licensed Patents.
+"Analog Intellectual Property"
+     "" has the meaning set forth in Section 6.5.
+Analog Modification
+     "" means each derivative of any item of Transferred Technology (including any translation, modification, compilation, abridgement or other form
+Analog Modified Version
+ 
+in which the Analog Technology has been recast, transformed or adapted) and any trade secrets relating thereto, other modifications and improvements to the Transferred Technology and related Confidential Information, made by Analog pursuant to this Agreement.
+     means the Analog Hardware Technology, Analog Tools, and Documentation. The term "Analog Technology" excludes Third Party Technology, except to the extent sublicensable to Licensee without causing any Analog Party or any Related Entity to incur an obligation to pay a license fee, royalty, or similar cost to any third party.
+"Analog Technology"
+     "" means Analog Design Tools and Analog Development Tools.
+Analog Tools
+     "" means the following 2G and/or 3G cellular telecommunication standards: GSM, GPRS, EDGE, UMTS, HSxPA, TDSCDMA, 4G and beyond and future extensions of each of the foregoing, provided however that the inclusion of 4G and beyond and future extensions of the same shall not apply to or limit the license rights under Section 6.1 and 6.2 or rights provided under Section 7.1. For the purposes hereof "4G" has the meaning commonly ascribed to it by the telecommunications market, from time to time, but in any event shall include 802.16x, WiMAX, WiBRO and Ultra Mobile Broadband.
+Applicable Standards
+     "" means the 16 bit fixed point DSP currently known as "Blackfin" that (a) is presently used in Analog digital baseband semiconductor integrated circuits, (b) is not a 218x DSP, (c) is characterized by a low power advanced fixed point MicroSignal Architecture DSP core and NISA DSP architecture.
+Baseband DSP
+     "" means a System-on-Chip that has, as the primary purpose of the integrated circuit(s), the processing of radio frequency, digital baseband, and analog baseband signals in compliance with one or more of the Applicable Standards, or a set of integrated circuits that work together (a ; whether in one package or multiple packages) to process radio frequency, digital baseband, and analog baseband signals in compliance with one or more of the Applicable Standards. For avoidance of doubt, and without limiting the generality of the foregoing, a Cellular Semiconductor Product does not include a base station or other cellular infrastructure products, systems or components.
+Cellular Semiconductor Product
+"Chipset"
+     "" means a mobile telecommunications device that (a) receives and demodulates radio frequency signals and processes such signals in the baseband, and (b) receives and processes baseband signals and modulates and transmits such signals at radio frequencies, all in compliance with one or more of the Applicable Standards.
+Cellular Terminal
+     means, except as the exclusions set forth in Section 9.1 may apply: (i) the terms and conditions of this Agreement; (ii) the Analog Technology (to be treated hereunder as Analog's Confidential Information), including without limitation when contained in any Licensee Modified Version or any Licensee Modification; (iii) the Transferred Technology (to be treated hereunder as Licensee's Confidential Information),
+"Confidential Information"
+ 
+including without limitation when contained in any Analog Modified Version or any Analog Modification; (iv) any information designated in writing by either party, by appropriate legend, as confidential; (v) any information which if first disclosed orally is identified as confidential at the time of disclosure and is thereafter reduced to writing for confirmation and sent to the other party within thirty (30) days after its oral disclosure and designated, by appropriate legend, as confidential; and (vi) any other information, written or oral, that a reasonable person in the position of the receiving party would understand to be confidential given the circumstances surrounding disclosure or the nature of such information.
+     "" means all products sold or marketed or proposed to be sold or marketed by the Acquired Business as of the Effective Date including but not limited to the products listed on attached hereto. For avoidance of doubt, the Current Products shall include all products in the Product Roadmap.
+Current Products
+Appendix C
+     (when capitalized) means a derivative work within the meaning of the United States Copyright laws together with implementation or insubstantion in any semiconductor of the same.
+"Derivative"
+     "" means all technical documentation, specifications, design documents, drawings, data sheets, user guides, training and supporting materials, library guides, and marketing literature and any other documents that Analog generally makes available to its customers in connection with Current Products as of the Effective Date.
+Documentation
+     "" means the closing date of the transactions described by the Purchase and Sale Agreement.
+Effective Date
+     means the Intellectual Property that necessarily applies to any commercially feasible implementation of a technical standard, including but not limited to any Applicable Standard, in whole or in part through Licensed Products.
+"Essential Intellectual Property"
+     "" means an executable representation of processor specific machine instructions created through compilation of Source Code and linking of Object Code.
+Executable Binary
+     shall have the following meaning:
+"Field of Use"
+ 
+     means a semiconductor component that is not a System-On-Chip and that provides, as its primary purpose, a basic or general purpose analog or digital function. For avoidance of doubt, and without limiting the generality of the foregoing, the term "General Purpose Product" includes amplifiers, drivers, comparators, A/D converters, D/A converters, sample/track & hold amplifiers, V/F and F/V converters, line receivers or transmitters, microconverters, microcontrollers, codecs, analog computation circuits (e.g. multipliers, dividers, RMS converters), mixers, voltage regulators, voltage references, temperature sensors, multiplexers and decoders, switches, signal isolators, micro-machined devices, RF detectors, power management components (except that stand-alone power management components may be sold as part of a Cellular Semiconductor Product), energy meters, DC-DC converters, battery chargers, frequency synthesizers, and digital signal processors.
+"General Purpose Product"
+     "" shall have the meaning that applies under the US federal law under the Patent Act.
+Improvement
+     means any or all of the following and all statutory and/or common law rights throughout the world in, arising out of, or associated therewith: (i) all patents and applications therefor and all reissues, divisions, renewals, extensions, provisionals, continuations and continuations-in-part thereof; (ii) all inventions (whether
+"Intellectual Property"
+ 
+patentable or not) retained as confidential information, confidential invention disclosures, confidential improvements, and all other trade secrets; (iii) all works of authorship, copyrights, mask works, copyright and mask work registrations and applications and all industrial designs and design rights and any registrations and applications therefor; and (iv)  any similar, corresponding or equivalent rights to any of the foregoing.
+     "" means the grants set forth in Section 2.1, subject to the restrictions and other requirements set forth in Section 2.
+License
+     "" means the grants set forth in Section 6.1 subject to the restrictions and other requirements set forth therein.
+License Back
+     "" means each derivative of any item of Analog Technology (including any translation, modification, compilation, abridgement or other form in which the Analog Technology has been recast, transformed or adapted) and any trade secrets relating thereto, other modifications and improvements to the Analog Technology and related Confidential Information, made by Licensee pursuant to this Agreement.
+Licensee Modified Version
+     "" means a change in, subtraction from or addition to the Analog Technology made by Licensee in the making of a modification or derivative thereof pursuant to the license grants in Section 2 of this Agreement. The meaning of Licensee Modification will be interpreted in accordance with and guided by with the examples set forth on .
+Licensee Modification
+Appendix K
+     "" means all patents (excluding the Patents included in the Transferred Intellectual Property Rights as defined in the Purchase and Sale Agreement) worldwide owned by the Analog Parties or their respective Subsidiaries on the Effective Date or issued on any patent applications pending on the Effective Date or any applications claiming priority from a patent pending on the Effective Date, applications filed by the Analog Parties or their respective Subsidiaries that read on the Transferred Technology, Analog Hardware Technology and/or the Analog Tools including but not limited to the patents and patent applications listed on attached hereto.
+Licensed Patents
+Appendix G
+     "" means Cellular Semiconductor Products and Wireless Semiconductor Products and other semiconductor products, all to the extent made under the license granted in Section 2 of this Agreement.
+Licensed Products
+     "" means the synthesizable DSP core and any Derivatives thereof in the Current Products (i.e. Klio) licensed by Analog from QualCore Logic, Inc. (formally known as VIPG), and licensed by Analog to Licensee pursuant to the M2181 Synthesizable RTL Sublicense Agreement.
+M2181 Synthesizable RTL
+     "means that agreement between the parties of even date hereof, under which the M2181 Synthesizable RTL is
+M2181 Synthesizable RTL Sublicense Agreement"
+ 
+sublicensed by Analog to Licensee, which will be substantially in the form attached as .
+Appendix L
+     means the machine code generated by a Source Code language processor such as an assembler or compiler, which may be linked to create Executable Binary.
+"Object Code"
+     "" means those customers listed on attached hereto to whom Licensee may grant sublicenses of the Analog Hardware Technology and Analog Design Tools pursuant to the provisions hereof. Such Appendix may be amended from time to time by Licensee with the prior written consent of Analog; , that such consent shall not be unreasonably withheld or delayed.
+Permitted Sublicensees
+Appendix F
+provided
+     "" means products under active development by the Acquired Business, including but not limited to those listed under the heading "Product Roadmap" of attached hereto.
+Product Roadmap
+Appendix C
+     "" means, with respect to a party, a person or entity that controls, is controlled by, or is under common control with such party; , , that an entity shall only be a Related Entity during such time as it is controls, is controlled by, or is under common control with such party. For purposes of this definition, "control" means ownership of more than fifty percent (50%) of the outstanding capital stock or other securities having voting rights or power, or any other ability, to elect more than half of the board of directors or similar managing authority of the subject entity, whether by contract or otherwise.
+Related Entity
+provided
+however
+     "" means information in non-tangible form that has been unintentionally retained in the memory of and used by persons who have had access to the Analog Technology as authorized herein.
+Residuals
+     means the Analog 26-bit, 3-channel digital signal processor core and technology currently known under the SigmaDSP including versions of the software currently known as "Sigma Studio."
+"SigmaDSP"
+     "" means the software programs and supporting files which can be used to create Object Code and/or Executable Binary, and that are written using human readable formats including, but not limited to, high-level languages such as C or intermediate languages such as assembler. Source code also means auto-generated source code which is created by a software tool, which is then subject to assembly, compilation or further processing to create an Executable Binary.
+Source Code
+     "means a semiconductor chip that consists of the integration of all or substantially all of the electronic communications and signal processing components of a product.
+System-on-Chip"
+     "" has the meaning set forth in the Purchase and Sale Agreement.
+Subsidiaries
+ 
+     "" has the meaning set forth in Section 13.1.
+Term
+     "" means any technology subject to a third party's Intellectual Property Rights or obtained under a license grant from a third party, including, without limitation, the M2181 Synthesizable RTL, and any models that may be required by Licensee.
+Third Party Technology
+     "" has the meaning set forth in the Purchase and Sale Agreement.
+Transferred Intellectual Property Rights
+     "has the meaning set forth in the Purchase and Sale Agreement.
+Transferred Technology"
+     means a System-on-Chip or a Chipset that uses the Analog Hardware Technology for the primary purpose of implementing wireless communications protocols pursuant to one or more of the following: GPS, Bluetooth, WiFi and WiMax.
+"Wireless Semiconductor Product"
+.
+2.
+License
+     2.1 . Subject to the terms and conditions of this Agreement, under the Analog Intellectual Property, the Analog Parties or their respective Subsidiaries hereby grant to Licensee a perpetual (except as otherwise set forth below), irrevocable (except as otherwise set forth below), non-transferable (except pursuant to Section 14.4), non-exclusive, worldwide license (with limited rights to sublicense, only as set forth below) to do any of the following during the Term:
+License of Analog Intellectual Property
+(i) to use, copy, modify and create derivative works of the Analog Hardware Technology, for the design, development, manufacture, sale, testing, debugging, support and maintenance of integrated circuits within the Field of Use;
+(ii) to make, have made, use, sell (directly or indirectly), offer for sale, import, reproduce, distribute, and provide support for integrated circuits created under Section 2.1(a)(i); and
+(iii) to sublicense the Analog Hardware Technology pursuant to the terms set forth below.
+ 
+(i) to use, copy, import, modify, make derivative works from and maintain (if provided in Source Code form pursuant to ) the Analog Design Tools for the design, development, manufacture, sale, testing, debugging, support and maintenance of integrated circuits within the Field of Use; and
+Appendix A
+(ii) to sublicense the Analog Design Tools pursuant to the terms set forth below.
+(i) to use, copy, import, modify, make derivative works from and maintain (if provided in Source Code form pursuant to ) the Analog Development Tools for the purpose of creating software to run on a 218x DSP, a Broadband DSP or a SigmaDSP embedded within an integrated circuit within the Field of Use; and
+Appendix B
+(ii) to sublicense the Analog Development Tools pursuant to the terms set forth below.
+(i) to use, copy, modify and create derivative works of any such Transferred Technology, for the design, development, manufacture, testing and debugging of integrated circuits; and
+(ii) to make, have made, use, sell (directly or indirectly), offer for sale, import, reproduce, distribute, and provide support for integrated circuits created under Section 2.1(d)(i).
+     Each of the foregoing technologies licensed under (a), (b), (c) or (d) above may be used independently or in combination with one another. A license to use under this Agreement also includes a license for display (if applicable) as is reasonably required for use, subject to applicable confidentiality requirements.
+     2.2 []
+Section Omitted
+     2.3 .
+Sublicenses of Analog Hardware Technology and Analog Tools
+ 
+2.4 . The License is subject to the restrictions that Licensee shall not, directly, or indirectly:
+Restrictions on License; Protection Against Unauthorized Use
+ 
+     2.5 . Licensee shall be entitled to exercise the License through Related Entities; , that (a) each such Related Entity consents in writing to be bound by this Agreement, and (b) any such exercise shall cease immediately if such entity ceases to be a Related Entity. Licensee shall remain responsible for any breach by a Related Entity even after such entity ceases to be a Related Entity.
+Exercise Through Related Entities
+provided
+     2.6 . Subject to the terms and conditions of this Agreement, including without limitation, Licensee retaining responsibility for any breach of this Agreement, and the requirements of Section 9, Licensee may employ subcontractors in connection with the exercise of the License.
+Subcontractors
+     2.7 . The Licensee may grant sublicenses under the License in connection with the sale, spin-off, reorganization, merger or disposition of any product line
+Certain Sublicenses
+ 
+or line of business (each, a "Licensee Transaction-Connected Sublicense"). The Licensee may grant three Licensee Transaction-Connected Sublicenses without the Analog Parties' consent (but must provide reasonably prompt notice to the Analog Parties of the same) and thereafter, with the Analog Parties' consent, not to be unreasonably refused. Licensee Transaction-Connected Sublicenses under this Section 2.7 may only be granted in a bona fide transaction not designed for the purpose of immunizing the grantee from the assertion of the Analog Intellectual Property by the Analog Parties. Each grantee of such a Licensee Transaction-Connected Sublicense may grant one Licensee Transaction-Connected Sublicense without the Analog Parties' consent (but must provide reasonably prompt notice to the Analog Parties of the same) subject, in all other respects, to the foregoing terms and conditions. No Licensee Transaction-Connected Sublicense may be granted except as provided above. A Licensee Transaction-Connected Sublicense may not be granted to any party listed on attached hereto; provided, that the restriction set forth in this sentence shall expire on the fourth (4) anniversary of the Effective Date. Every sublicense under this Section 2.7 shall be subject to any and all limitations that apply to the License under this Agreement. Each grantee under a sublicense under this Section 2.7 will have the right to transfer the sublicense in connection with the transfer, sale or other disposition of all or substantially all of the assets of the grantee. For clarification, the provisions set forth in this Section 2.7 shall not limit the rights of the parties under Section 14.4 of this Agreement.
+Appendix H
+th
+3.
+License Fees
+.
+     3.1 . In consideration for the License, Licensee shall make a payment to the Analog Parties equal to fifteen million US dollars ($US 15,000,000) (the ""). The parties hereto acknowledge and agree that the License Back is being granted in connection with the transactions contemplated by the Purchase and Sale Agreement and that no additional value is attributable thereto.
+License Payment
+Licensee Fee
+     3.2 . The Parties shall use commercially reasonable efforts to minimize any applicable withholding tax and obtain any available exemption, tax credit or refund in respect of any such withholding tax. Licensee will pay on a timely basis all amounts owed pursuant to any applicable withholding tax to the appropriate Taxing Authority (as defined in the Purchase and Sale Agreement) as required by Applicable Law; , , that Licensee shall first submit to Analog for its approval all documents it proposes to provide to such Taxing Authority, which approval shall not be unreasonably withheld or delayed. Licensee shall provide to Analog an official receipt or other evidence of payment of any applicable withholding tax reasonably satisfactory to Analog. Each of Analog and Licensee shall use commercially reasonable efforts to promptly pay to the other fifty percent (50%) of any cash refund received by it (or an Affiliate as defined in the Purchase and Sale Agreement) in respect of any applicable withholding tax. For tax and accounting purposes only, any such payment shall be treated as an increase of the License Fee if made by Licensee and a reduction of the License Fee if made by Analog. If Analog (or any Affiliate of the Analog) actually receives, after taking into account all other available tax assets, a net benefit from a tax credit in respect of any applicable withholding tax, it shall pay over to Licensee 50% of the net tax benefit received promptly after the earlier of (i) the expiration of the statute of limitations applicable to the taxable year in which such net tax
+Withholding Taxes
+provided
+however
+ 
+benefit was received or (ii) the completion of an audit examination by the relevant Taxing Authority of the income tax returns for the taxable year in which such net tax benefit was received. Any such payment shall be treated as a reduction of the License Fee for tax and accounting purposes only.
+. Licensee will comply with all applicable laws, rules, regulations, orders and other requirements of any governmental authority having jurisdiction over its exercise of the License. Some elements of the technology licensed under this Agreement are subject to governmental restrictions on exports and reexports; disclosures of such technologies to foreign persons; and the importation and/or use of such technologies outside of the United States. Licensee shall comply with all applicable U.S. and foreign export, customs and import laws and regulations (including without limitation the Export Administration Regulations of the U.S. Department of Commerce, the International Traffic in Arms Regulations of the U.S. Department of State and the sanctions regulations of the U.S. Department of Treasury).
+4.
+Compliance with Laws
+5.
+Proprietary Rights
+.
+     5.1 . The Analog Parties retain sole and exclusive ownership of the Analog Intellectual Property and Analog Technology. Except as expressly set forth in this Agreement, no license right in or to the Analog Technology or Analog Intellectual Property is granted to Licensee pursuant to or by virtue of this Agreement. Nothing of this Agreement conveys or assigns to Licensee any ownership in or to the Analog Technology or Analog Intellectual Property. No licenses are granted by implication. The Analog Parties will not have any obligation to register, make any filing with respect to, enforce, defend or take any other action for the perfection, maintenance, preservation or protection of any Analog Technology or Analog's Intellectual Property.
+Ownership
+     5.2 . Licensee Modifications (with respect to Intellectual Property therein created by or for Licensee) shall belong solely to Licensee; that this Section 5.2 grants no license, permission or immunity with respect to any Licensee Modifications under any Analog Intellectual Property beyond or in addition to the license grants stated in this Agreement that may otherwise apply.
+Licensee Modifications
+provided
+6.
+License to Analog
+     6.1 . Subject to the terms and conditions of this Agreement, Licensee hereby grants to the Analog Parties under the Transferred Intellectual Property Rights and with respect to the Transferred Technology, a perpetual, irrevocable, non-exclusive, non-transferable (except as set forth in Section 6.6 below), worldwide, royalty-free, license to make, have made, use, sell (directly or indirectly), offer for sale, import, modify, copy, display, create derivative works of, support, and distribute products and services of any kind; , that for the period commencing on the Effective Date and continuing thereafter until the seventh (7) anniversary thereof, no Analog Party shall use the Transferred Intellectual Property Rights to manufacture or sell Cellular Semiconductor Products. Notwithstanding the foregoing, with regard to certain patents include in the
+License Grant
+provided
+th
+ 
+Transferred Intellectual Property Rights, as listed immediately below, the restriction in the preceding clause of this Section 6.1 (regarding Cellular Semiconductor Products) will not apply, and Analog will be deemed licensed to use and exploit the patents under the license as stated above but without restraint; the patents referred to are: US patents 5,886,589, 6,107,889, 6,194,958, 6,525,606 and 7,199,698 as well as the US patent application entitled "Phase locked loop bandwidth calibration circuit and method thereof" by inventors Balboni, Palmer and Strange and published as published application 20,050,073,369 together with US and foreign patents and applications that claim priority or common priority with the foregoing patents and applications.
+     6.2 . The Analog Parties may only grant sublicenses under the Transferred Intellectual Property Rights or the Transferred Technology (i) to vendors, suppliers, and customers in the ordinary course of business of design, development, manufacturing, distribution, import, and sale of Analog products or products that incorporate Analog products in accordance with the terms of the License Back and (ii) in connection with the sale, spin-off, reorganization, merger or disposition of any product line or line of business (each, a "Transaction-Connected Sublicense"). The Analog Parties may grant three Transaction-Connected Sublicenses without Licensee's consent (but must provide reasonably prompt notice to Licensee of the same) and thereafter, with Licensee's consent, not to be unreasonably refused. Transaction-Connected Sublicenses under this Section 6.2 may only be granted in a bona fide transaction not designed for the purpose of immunizing the grantee from the assertion of the Transferred IP Rights by Licensee. Each grantee of such a Transaction-Connected Sublicense may grant one Transaction-Connected Sublicense without Licensee's consent (but must provide reasonably prompt notice to Licensee of the same) subject, in all other respects, to the foregoing terms and conditions. No Transaction-Connected Sublicense may be granted except as provided above. Every sublicense under this Section 6.2 shall not include (and shall expressly exclude) any and all rights with regard to Cellular Semiconductor Products and moreover shall be subject to terms at least as restrictive as those described in Exhibit E-2. Each grantee under a sublicense under this Section 6.2 will have the right to transfer the sublicense in connection with the transfer, sale or other disposition of all or substantially all of the assets of the grantee. For clarification, the provisions set forth in this Section 6.2 shall not limit the rights of the parties under Section 14.4 of this Agreement.
+Sublicenses
+     6.3 . The Analog Parties shall be entitled to exercise the licenses granted hereunder through Related Entities; that (a) each such Related Entity consents in writing to be bound by this Agreement, and (b) any such exercise shall cease immediately if such entity ceases to be a Related Entity. Analog shall remain responsible for any breach by a Related Entity even after such entity ceases to be a Related Entity.
+Related Entities
+provided
+     6.4 . Subject to the terms and conditions of this Agreement, including without limitation, the Analog Parties retaining responsibility for any breach of this Agreement, and the requirements of Section 9, the Analog Parties may employ subcontractors in connection with the exercise of licenses granted hereunder.
+Subcontractors
+ 
+     6.5 . Analog Modifications, as defined below, (with respect to Intellectual Property therein created by or for one or more of the Analog Parties) shall belong solely to the respective Analog Parties; that this Section 6.5 grants no license, permission or immunity with respect to Analog Modifications beyond or in addition to the license grants stated in this Agreement that may otherwise apply. means a change in, subtraction from or addition to the Transferred Technology made in the course of the creation of modifications or derivatives pursuant to license grants in Section 6 of this Agreement. The meaning of Analog Modification will be interpreted in accordance with and guided by with the examples set forth on .
+Analog Modifications
+provided
+"Analog Modification"
+Appendix K
+     6.6 . The Analog Parties agree not to (1) procure for others to use any Transferred Technology or Transferred Intellectual Property for the purposes of developing technology or products which work around Licensee's rights in intellectual property licensed hereunder; or (2) use, or procure for others to use, any Transferred Technology or Transferred Intellectual Property for the purposes of challenging the validity of Transferred Intellectual Property licensed hereunder, Licensee's rights therein, or in connection with any action or request for cancellation or re-examination of the same or otherwise.
+Additional Restriction
+.
+7.
+Non-Assertion
+     7.1 Licensee hereby covenants that, with respect to any of the Licensee's patents whose priority date or whose date of acquisition by Licensee falls within the first 7 years following the Effective Date and that claim any Improvement of the Analog Technology, Licensee shall not assert against the Analog Parties or any of their Related Entities, each permitted assign, or each permitted sublicensee under a Transaction-Connected Sublicense or any of their agents, suppliers, contractors, fabricators, distributors, resellers, customers, or vendees, direct or indirect, any claims for infringement under such patent rights based upon the manufacture, use, sale, offer for sale, or import of any product made or sold by or for the Analog Parties and/or their respective Subsidiaries, each permitted assign, or each permitted sublicensee under a Transaction-Connected Sublicense (except, in each case, as a response to a claim, or threatened claim, initiated by the Analog Parties or any of their Related Entities or permitted assign, or permitted sublicensee under a Transaction-Connected Sublicense, regardless of whether such response is in the same case or another case), to the extent such activity would have been authorized by the Licensee under the license grant of Section 6.1 were such patent rights included in the Transferred Intellectual Property Rights.
+     7.2 The Analog Parties hereby covenant that, with respect to any of their patents whose priority date or whose date of acquisition by Licensee falls within the first 7 years following the Effective Date and that claim any Improvement of the Transferred Technology, they shall not assert against the Licensee or any of its Related Entities, each permitted assign, or each permitted sublicensee under a Licensee Transaction-Connected Sublicense or any of their agents, suppliers, contractors, fabricators, distributors, resellers, customers, or vendees, direct or indirect, any claims for infringement under such patent rights based upon the manufacture, use, sale, offer for sale, or import of any product made or sold by or for the
+ 
+Licensee and/or its Subsidiaries, each permitted assign, or each permitted sublicensee under a Licensee Transaction-Connected Sublicense (except, in each case, as a response to a claim, or threatened claim, initiated by the Licensee or any of its Related Entities, each permitted assign, or each permitted sublicensee under a Licensee Transaction-Connected Sublicense, regardless of whether such response is in the same case or another case), to the extent such activity would have been authorized by the Analog Parties under the license grant of Section 2.1 were such patent rights included in the Licensed Patents.
+. The Analog Parties will deliver and disclose to Licensee all of the Analog Technology and Documentation applicable to the grants set forth in Section 2.1, in accordance with the Purchase and Sale Agreement.
+8.
+Delivery
+.
+9.
+Confidentiality
+     9.1 . Except as expressly provided by this Section 9, each party shall maintain in confidence the Confidential Information disclosed by the other party and apply security measures commensurate with the measures that such party applies to its own like information, but not less than a reasonable degree of care, to prevent unauthorized disclosure and use of the Confidential Information. The period of confidentiality shall be perpetual with respect to each party's Confidential Information, until and unless such information:
+Obligation
+(a) is known to and has been reduced to tangible form by the receiving party as evidenced by written documentation prior to its receipt; , that such information is not already subject to any obligations of confidentiality;
+provided
+(b) is publicly available at the time of receipt or later becomes part of the publicly available without breach of the confidentiality obligations in this Agreement;
+(c) is received from a third party without any breach of any obligation of confidentiality in respect of such information; or
+(d) is independently developed by either party without use of the other party's Confidential Information as evidenced by written documentation.
+     9.2 . In exercising the License, Licensee will not disclose any Confidential Information included in the Analog Technology to third parties as permitted under Sections 9.3, 9.4, 9.5, or 9.6, unless the third party is bound by confidentiality obligations with respect to such information as restrictive as the provisions of this Agreement. In exercising the License Back, the Analog Parties will not disclose any Confidential Information included in the Transferred Technology to third parties as permitted under Sections 9.3, 9.4, 9.5, or 9.6, unless the third party is bound by confidentiality obligations with respect to such information as restrictive as the provisions of this Agreement.
+Condition to Permitted Disclosures
+ 
+     9.3 . Licensee may make disclosures of Confidential Information included in the Analog Technology to Related Entities in accordance with Section 9.2 for the purpose of exercising the License through Related Entities as permitted under Section 2.5. The Analog Parties may make disclosures of Confidential Information included in the Transferred Technology to Related Entities in accordance with Section 9.2 for the purpose of exercising the License Back through Related Entities as permitted under Section 6.3.
+Disclosure to Related Entities
+     9.4 . Licensee may make disclosures of Confidential Information applicable to Analog Technology to its subcontractors in accordance with Section 9.2 to the extent that Licensee wishes to use subcontractors as permitted by Section 2.6. The Analog Parties may make disclosures of Confidential Information applicable to Transferred Technology to its subcontractors in accordance with Section 9.2 to the extent that an Analog Party wishes to use subcontractors as permitted by Section 6.4.
+Disclosures to Subcontractors
+     9.5 . Licensee may make disclosures of Confidential Information applicable to the subject matters authorized under Section 2.3 to its customers in accordance with Section 9.2 and to its sublicensees (to the extent permitted under Section 2.3 and under any applicable Appendix) in accordance with Section 9.2. The Analog Parties may make disclosures of Confidential Information applicable to Transferred Technology to their customers in accordance with Section 9.2 and to their sublicensees (to the extent permitted under Section 6.2) in accordance with Section 9.2.
+Disclosures to Customers
+     9.6 . Either party may disclose Confidential Information received from the other party in the following circumstances:
+Other Permitted Disclosures
+ 
+     9.7 . The parties acknowledge that employees of the Licensee may retain Residuals. Licensee may use Residuals resulting from access to or work with the Analog Technology, that Licensee has consistently complied with the confidentiality and nondisclosure provisions of this Agreement and the Purchase and Sale Agreement. However, this Section shall not grant to Licensee any license or immunity, express or implied, under any patent or copyright of the Analog Parties not otherwise licensed in this Agreement, nor shall it be read to expand the scope of any license granted in this Agreement.
+Residuals
+provided
+A.
+10
+Compliance Verification Procedure by Analog
+     10.1 During the first two years of the Term, on no more than three (3) occasions during such period, Analog and its representatives shall have the right to carry out, and Licensee will have an obligation to cooperate with, the following procedures to determine Licensee's compliance with the terms of this Agreement regarding Licensee's permitted use of the Analog Technology and confidentially as required by the is Agreement (the "Analog Compliance Topics"). Each such procedure shall be a "Compliance Review."
+     10.2 At its place of business, Licensee will make available for interview (each an "Analog Compliance Interview"), on no less than 30 calendar days' prior written notice during normal business hours, senior engineers or managers directly involved in the use of the Analog Technology ("Licensee Senior Staff Member") as identified and requested by Analog. Analog may require no more than five (5) such Licensee Senior Staff Members in each Compliance Review. Such identification and request may be by name or by title or function. Analog will provide no less than 10 calendar days' in advance a good faith list of topics for discussion, but may obtain information on any matter reasonably relevant to the Analog Compliance Topics.
+     10.3 Licensee will be required to cause such Licensee Senior Staff to provide responsive information in each Compliance Interview with regard to matters relevant to the Analog Compliance Topics. Licensee, at its option, may have other persons present at each Compliance Interview.
+     10.4 Senior Staff will be made available separately or together, as Analog may request, but in any case, Licensee will not be obligated to provide each Licensee Senior Staff Member for longer than one full business day in any one Analog Compliance Interview for each Compliance Review.
+ 
+     10.5 The language of each Analog Compliance Interview will be English, provided that, by notice no less than 30 calendar days in advance, Licensee may require that the Analog Compliance Interview be in the Licensee Senior Staff Member's preferred language.
+     10.6 Each party, at its option, may record each Analog Compliance Interview by electronic means and obtain copies of any documentation provided.
+     10.7 Any information provided pursuant to any audit performed in accordance with the provisions of this Section 10 shall be treated as Confidential Information of the party providing the same. Each party will bear its own costs of each Analog Compliance Review. Licensee may require any Analog representative to sign a reasonable confidentiality agreement consistent with this Section.
+10B.
+Compliance Verification Procedure by Licensee
+     10.1 During the first two years of the Term, on no more than three (3) occasions during such period, Licensee and its representatives shall have the right to carry out, and the Analog Parties will have an obligation to cooperate with, the following procedures to determine their compliance with the terms of this Agreement regarding the Analog Parties' permitted use of the Transferred Technology and confidentially as required by the is Agreement (the "Licensee Compliance Topics.").
+     10.2 At its place of business, Analog will make available for interview (each an "Licensee Compliance Interview"), on no less than 30 calendar days' prior written notice during normal business hours, senior engineers or managers directly involved in the use of the Transferred Technology ("Analog Senior Staff Member") as identified and requested by Licensee. Licensee may require no more than five (5) such Analog Senior Staff Members in each Compliance Review. Such identification and request may be by name or by title or function. Licensee will provide no less than 10 calendar days' in advance a good faith list of topics for discussion, but may obtain information on any matter reasonably relevant to the Licensee Compliance Topics.
+     10.3 Analog will be required to cause such Senior Staff to provide responsive information in each Compliance Interview with regard to matters relevant to the Licensee Compliance Topics. Analog, at its option, may have other persons present at each Compliance Interview.
+     10.4 Analog Senior Staff will be made available separately or together, as Licensee may request, but in any case, Analog will not be obligated to provide each Senior Staff Member for longer than one full business day in any one Licensee Compliance Interview for each Compliance Review.
+     10.5 The language of each Licensee Compliance Interview will be English, provided that, by notice no less than 30 calendar days in advance, Analog may require that the Licensee Compliance Interview be in the Analog Senior Staff Member's preferred language.
+ 
+     10.6 Each party, at its option, may record each Licensee Compliance Interview by electronic means and obtain copies of any documentation provided.
+     10.7 Any information provided pursuant to any audit performed in accordance with the provisions of this Section 10 shall be treated as Confidential Information of the party providing the same. Each party will bear its own costs of each Licensee Compliance Review. Analog may require any Licensee representative to sign a reasonable confidentiality agreement consistent with this Section.
+11.
+Warranties; Disclaimers
+.
+     11.1 . Analog represents and warrants to Licensee that: (a) each of Analog and Analog B.V. are corporations duly organized, validly existing and in good standing under the laws of the Commonwealth of Massachusetts and The Netherlands, respectively; (b) each of Analog and Analog B.V. has all necessary corporate power and authority to execute and deliver this Agreement and perform its respective obligations hereunder; (c) this Agreement constitutes a valid and binding obligation of the Analog Parties and, in the event of any exercise under Section 6.3, the Related Entities of the Analog Parties; and (d) this Agreement is enforceable against the Analog Parties and, in the event of any exercise under Section 6.3, the Related Entities of the Analog Parties, in accordance with its terms.
+By Analog
+     11.2 . Licensee represents and warrants to the Analog Parties that: (a) Licensee is a corporation duly organized, validly existing and in good standing under the laws of its jurisdiction of organization; (b) Licensee has all necessary corporate power and authority to execute and deliver this Agreement and perform its obligations hereunder; (c) this Agreement constitutes a valid and binding obligation of Licensee and, in the event of any exercise under Section 2.5, the Licensee Related Entities; and (d) this Agreement is enforceable against Licensee and, in the event of any exercise under Section 2.5, the Licensee Related Entities, in accordance with its terms.
+By Licensee
+     11.3 . EXCEPT AS EXPRESSLY SET FORTH IN SECTION 11.1 OR AS MAY OTHERWISE BE PROVIDED UNDER THE PURCHASE AND SALE AGREEMENT, THE ANALOG PARTIES DISCLAIM ALL OTHER REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, ARISING BY LAW OR OTHERWISE WITH REGARD TO THIS AGREEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE ANALOG PARTIES DISCLAIM (EXCEPT AS MAY OTHERWISE BE PROVIDED UNDER THE PURCHASE AND SALE AGREEMENT) (A) ANY AND ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE SCOPE, COVERAGE, VALIDITY OR ENFORCEABILITY OF ANY PATENTS OR PATENT APPLICATIONS OR ANY OTHER INTELLECTUAL PROPERTY OF THE ANALOG PARTIES; AND (B) ANY AND ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO ANY ANALOG TECHNOLOGY OR INTELLECTUAL PROPERTY OR OTHERWISE (INCLUDING, BUT NOT LIMITED TO, ANY INFRINGEMENT OR MISAPPROPRIATION OF ANY INTELLECTUAL
+Disclaimer of Warranties
+ 
+PROPERTY OF ANY THIRD PARTY AND ANY IMPLIED WARRANTY OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE). FURTHER, THE ANALOG PARTIES MAKE NO REPRESENTATION OR WARRANTY THAT ANY LICENSED PRODUCT CAN BE USED, MADE, SOLD OR IMPORTED WITHOUT INFRINGING THE INTELLECTUAL PROPERTY OF A THIRD PARTY.
+.
+12. 
+Indemnity
+     12.1 . Except to the extent Licensee is entitled to indemnification under Article VI of the Purchase and Sale Agreement, Licensee undertakes to fully defend, indemnify, and hold the Analog Parties, their Related Entities and their respective employees, officers, directors, and consultants (the "") harmless from and against any claim that actually or allegedly is based upon or arise from:
+Indemnification by Licensee
+Analog Indemnified Parties
+(i) Any unlicensed or unauthorized use or exploitation of Analog Technology or the Analog Intellectual Property;
+(ii) The infringement of any third party Intellectual Property right (except for third party Intellectual Property embodied in or reasonably necessary for use of the Analog Technology or the Transferred Technology) by any Licensed Product or its sale, offer for sale, manufacture, import, export, reproduction, display, distribution, modification, creation of derivative works from, production or use;
+(iii) Failure by Licensee or its sublicensees or any customer of either to obtain licenses or permissions regarding any third party Intellectual Property with regard to a Licensed Product (except for third party Intellectual Property which is embodied in or reasonably necessary for use of the Analog Technology or the Transferred Technology);
+(iv) Any claim of infringement and/or misuse of intellectual property with regard to a Licensed Product to the extent arising out of or resulting from (i) the combination of the Analog Technology and/or the Transferred Technology (each or both, the "Supplied Technology") together with other technology if such infringement would not have occurred without the combination, to the extent of such combination; (ii) the modification of the Supplied Technology if such infringement would not have occurred without the modification, to the extent of such modification; (iii) any process of manufacturing or fabrication used or applied to the extent that such infringement would not have occurred without such process, to the extent of the application of such process;
+(v) Failure by Licensee or its sublicensees or any customer of either to comply with any applicable laws;
+(vi) Any product liability claim or product defect with respect to any Licensed Product;
+ 
+(vii) Any injury, death or damage to property resulting from or caused by any Licensed Product; and
+(viii) All other claims and demands resulting or alleged to result from the Licensed Products, their contents or deficiencies or the use or operation of the Licensed Products, the License or the exercise thereof.
+     12.2 . The Analog Parties undertake to fully defend, indemnify, and hold Licensee and its employees, officers, directors, and consultants (the "" and, together with the Analog Indemnified Parties, the "") harmless from and against any claim that actually or allegedly is based upon or arise from:
+Indemnification by Analog Parties
+Licensee Indemnified Parties,
+Indemnified Parties
+(i) Any unlicensed or unauthorized use or exploitation of Transferred Technology or the Transferred Intellectual Property Rights;
+(ii) The infringement of any third party Intellectual Property right by any product made by the Analog Parties, their Related Entities or their respective sublicensees utilizing the Transferred Technology or Transferred Intellectual Property (an ""), or the sale, offer for sale, manufacture, import, export, reproduction, display, distribution, modification, creation of derivative works from, production or use of any such Analog Products;
+Analog Product
+(iii) Failure by the Analog Parties, their Related Entities, their respective sublicensees or any customers of any of the foregoing to obtain licenses or permissions regarding any third party Intellectual Property with regard to an Analog Product;
+(iv) Any claim of infringement and/or misuse of intellectual property with regard to an to Analog Product to the extent arising out of or resulting from: (i) the combination of the Transferred Technology together with other technology if such infringement would not have occurred without the combination, to the extent of such combination; (ii) the modification of the Transferred Technology if such infringement would not have occurred without the modification, to the extent of such modification; (iii) any process of manufacturing or fabrication used or applied to the extent that such infringement would not have occurred without such process, to the extent of the application of such process;
+(v) Failure by the Analog Parties, their Related Entities, their respective sublicensees or any customers of any of the foregoing to comply with any applicable laws;
+(vi) Any product liability claim or product defect with respect to any Analog Product;
+(vii) Any injury, death or damage to property resulting from or caused by any Analog Product; and
+ 
+(viii) All other claims and demands resulting or alleged to result from the Analog Products, their contents or deficiencies or the use or operation of the Analog Products, the License Back or the exercise thereof.
+     12.3 . The Indemnified Parties shall provide written notice to the party from whom indemnification is sought (the "") of any claim within thirty (30) days after such claim is asserted in writing or by legal action against the party claiming indemnification. Failure by the Indemnified Parties to so notify the Indemnitor shall not relieve the Indemnitor from any obligation that the Indemnitor would otherwise have pursuant to this Agreement except to the extent that the Indemnitor has been materially prejudiced by such failure to so notify. The Indemnified Parties shall furnish to the Indemnitor, on request, non-privileged information reasonably available to the Indemnified Parties for such defense. The Indemnitor may elect to have sole control of the defense and settlement of such claim, except that the Indemnitor shall not enter into any agreement, agreed order, consent judgment, or the like which is binding on the Indemnified Parties without the consent of the Indemnified Parties. However, the Indemnitor can settle the claim without the consent of the Indemnified Parties so long as a full and unconditional release is provided to the Indemnified Parties and no agreed order, consent judgment, admission of fault, or the like is entered to the prejudice of the Indemnified Parties. Notwithstanding the election of the Indemnitor to assume the defense and investigation of such claim, the Indemnified Parties shall have the right to employ separate counsel and participate in the defense and investigation of such claim at their sole cost.
+Indemnification Procedures
+Indemnitor
+.
+13.
+Term; Termination
+     13.1 . The term of this Agreement, the License, and all other rights and grants will commence on the Effective Date and (except for the shorter license terms established herein) will continue in perpetuity, unless sooner terminated as provided in this Section 13 ("").
+Term
+Term
+     13.2 . Either party may terminate this Agreement immediately by written notice if the other party commits any material breach of this Agreement and within 30 days after the non-breaching party gives written notice of such breach, (i) the breaching party either fails to cure such breach or fails to implement reasonable steps to cure such breach or (ii) if such breach is not capable of cure, fails to implement reasonable steps to prevent any similar future breach from occurring in the future.
+Termination
+     13.3 . The License set forth in Section 2.1(a) shall automatically terminate effective on the termination date of the M2181 Synthesizable RTL Sublicense Agreement to the extent that the grant set forth in Section 2.1(a) requires, or is facilitated by, the rights covered by the M2181 Synthesizable RTL Sublicense Agreement. This Agreement and all grants, other than under Section 2.1(a), shall continue in full force and effect except as otherwise set forth on attached hereto.
+Partial Termination
+Appendix A
+ 
+     13.4 . If this Agreement is terminated in accordance with the provisions of this Section 13, (i) the License or License Back (as the case may be) of the breaching party shall terminate immediately upon the fulfillment of all then existing product orders and the sale of all existing product inventory and (ii) the License or License Back (as the case may be) of the non-breaching party shall continue in full force and effect.
+Effect of Termination on License and License Back
+     13.5 . Upon the termination of this Agreement for any reason, the parties' respective rights and obligations arising out of any breach of or default under this Agreement during the Term will survive subject to the terms hereof. The following provisions: shall survive the termination of this Agreement: Sections 1 (Definitions); 4 (Compliance with Laws); 5 (Proprietary Rights), 7 (Non-Assertion); 9 (Confidentiality); 10A and 10B (Compliance Verification Procedure); 11 (Warranties and Disclaimers); 12 (Indemnity); 13.4 (Effect of Termination on License and License Back); 13.5 (Survival); and 14 (Miscellaneous) together with those provisions that apply to any surviving License or License Back or the conduct of the parties with respect thereto.
+Survival
+.
+14.
+Miscellaneous
+     14.1 . Each party acknowledges that the other party may be damaged irreparably in the event any of the provisions of this Agreement are not performed in accordance with their specific terms or otherwise are beached. Accordingly, notwithstanding any dispute resolution provision of the Purchase and Sale Agreement, each party will be entitled to specific performance of the terms and provisions of this Agreement, and shall be entitled to temporary or permanent injunctive relief to prevent any breach or continuing breach of this Agreement.
+Specific Performance; Injunctive Relief
+     14.2
+Limitation of Liability
+. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY HERETO FOR ANY CLAIM, WHETHER ARISING IN TORT, CONTRACT OR OTHERWISE, FOR ANY INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES OR FOR ANY LOST PROFITS OR LOST BUSINESS.
+     14.3 . All notices and other communications hereunder will be in writing and will be deemed given if delivered personally, by registered or certified mail, return receipt requested and postage prepaid (receipt verified) or by nationally recognized overnight courier service (receipt verified), to the parties at the following addresses (or at such other address for a party as may be specified by notice provided hereunder):
+Notices
+ 
+All such notices and communications will be deemed effective when received as evidenced by the delivery receipt.
+     14.4 . Neither Licensee nor the Analog Parties shall transfer or assign (whether voluntarily, involuntarily, in the event of merger, acquisition or sale, by operation of law or otherwise) the License, this Agreement or any of its or their rights or obligations under this Agreement, without the prior written consent of Analog (in the case of an assignment by Licensee) or Licensee (in the case of an assignment by Analog); that such consent shall not be unreasonably withheld or delayed. Notwithstanding the foregoing, this Agreement, and all rights, interests and obligations hereunder, may be assigned (whether voluntarily, involuntarily, in the event of merger, acquisition or sale, by operation of law or otherwise), without such consent, (i) to any Related Entity of any party, or any entity that acquires all or substantially all of the Analog Parties' business and assets, on the one hand, or all or substantially all of Licensee's business and assets, on the other hand, or (ii) in connection with a merger, acquisition or sale of all or substantially all of the Acquired Business (i.e. other than in connection with a transaction covered by clause (i) above), to any party not listed on attached hereto; provided, that the restriction set forth in this subsection (ii) shall expire on the fourth (4) anniversary of the Effective Date. Such Appendix may be amended from time to time by Analog with the prior written consent of Licensee; , that such consent shall not be unreasonably withheld or delayed.
+Successors and Assigns
+provided
+Appendix H
+th
+provided
+     No assignment or other transfer by a party, with or without the consent of the other parties, will relieve or release such party from any of its obligations under this Agreement. Subject to the foregoing restriction on assignments or transfers, this Agreement will be binding upon, inure to the benefit of, and be enforceable by each of the parties and their respective successors, assigns, and transferees. Any purported action in violation of this Section 14.4 will be null and void and of no force or effect.
+     14.5 . This Agreement and any disputes hereunder shall be governed by and construed in accordance with the internal laws of the State of New York without giving effect to any choice or conflict of law provision or rule (whether of the State of New York or any other jurisdiction) that would cause the application of laws of any jurisdiction other than those of the State of New York. The UN Convention on Contracts for the International Sale of Goods shall not apply.
+Governing Law
+     14.6 . Any dispute, controversy or claim arising out of or relating to this Agreement, including as to formation, interpretation, breach or termination thereof, and including whether the claims asserted are arbitrable will be decided under the
+Dispute Resolution
+ 
+provision of paragraph 12.11 of the Purchase and Sale Agreement as if such agreement were set forth in full in this Agreement.
+     14.7 . If any provision of this Agreement is determined to be invalid or unenforceable by any court of competent jurisdiction, such finding shall not invalidate the remainder of this Agreement which shall remain in full force and effect as if the provision(s) determined to be invalid or unenforceable had not been a part of this Agreement. In the event such finding of invalidity or unenforceability, the parties will substitute forthwith the invalid or unenforceable provision(s) by such effective provision(s) as will most closely correspond with the original intention of the provision(s) so voided.
+Severability
+     14.8 . The headings and captions set forth in this Agreement are for convenience only and shall not be given interpretive effect.
+Headings
+     14.9 . Neither the failure nor the delay of a party to enforce any provision of this Agreement shall constitute a waiver of such provision or of the right of a party to enforce each and every provision of this Agreement.
+No Waiver
+     14.10 . This Agreement constitutes the entire agreement and supersedes any and all prior and contemporaneous agreements and understandings, oral or written, between the parties with regard to the subject matter hereof. Notwithstanding any cross reference to the Purchase and Sale Agreement, (a) nothing of this Agreement shall supersede any provision of the Purchase and Sale Agreement under which this Agreement is identified as an ancillary agreement, and (b) this Agreement remains severable and distinct from the Purchase and Sale Agreement. No amendment, modification or waiver of any provision of this Agreement will be valid unless set forth in a written instrument signed by the party to be bound thereby.
+Entire Agreement
+     14.11 . This Agreement may be executed in several counterparts, each of which shall be considered an original and which together will be considered one and the same agreement.
+Counterparts
+     14.12 In the event that any technology or intellectual property licensed hereunder is not delivered on the Effective Date, the management of the Acquired Business may, at anytime after the Effective Date, contact the Vice President of Analog's Digital Signal Processing Systems Division to identify the omitted technology or intellectual property and the provision under which it was licensed, and Analog shall promptly arrange for the delivery to Licensee of the omitted technology or intellectual property.
+Omitted Material.
+ 
+     IN WITNESS WHEREOF, the parties have entered into this License Agreement as of the date first set forth above.
+
+ 
+Exhibit 99.1
+NORWOOD, Massachusetts  Analog Devices, Inc. (NYSE: ADI) today announced that it has completed the sale of its cellular handset radio and baseband chipset operations to MediaTek, Inc. (TWSE: 2454, "MediaTek"). On September 10, 2007, ADI announced that it signed a definitive agreement to sell this business to MediaTek. For a total cash consideration of approximately $350 million, Mediatek acquired the assets related to the Othello radio transceiver and SoftFone baseband chipset business, as well as certain cellular handset baseband support operations. ADI will record a one-time gain related to this transaction in the first quarter of fiscal year 2008, which ends February 2, 2008. ADI began accounting for the divested operations as discontinued operations in the fourth quarter of fiscal 2007.
+ADI continues to invest in the wireless handset market by focusing in areas where the audio, video, connectivity, and power efficiency capabilities in a range of wireless multimedia devices can be significantly enhanced through innovative analog, micro-electro mechanical systems (MEMS), and programmable digital signal processing (DSP) technology.
+About Analog Devices
+Innovation, performance, and excellence are the cultural pillars on which Analog Devices has built one of the most long-standing, high-growth companies within the technology sector. Acknowledged industry-wide as the world leader in data conversion and signal conditioning technology, Analog Devices serves over 60,000 customers around the world, representing virtually all types of electronics equipment. Celebrating more than 40 years as a leading global manufacturer of high-performance integrated circuits used in analog and digital signal processing applications, Analog Devices is headquartered in Norwood, Massachusetts, with design and manufacturing facilities throughout the world. Analog Devices' common stock is listed on the New York Stock Exchange under the ticker "ADI" and is included in the S&P 500 Index. For more information, please visit ADI's website at www.analog.com.
+This press release contains forward-looking statements which address a variety of subjects including, for example, the expected benefits of the transaction to ADI and ADI's future wireless handset strategy. Statements that are not historical facts, including statements about beliefs and expectations, are forward-looking statements. Such statements are based on current expectations and are subject to a number of factors and uncertainties which could cause actual results to differ materially. The following important factors and uncertainties, among others, could cause actual results to differ materially from those described in these forward-looking statements: the expected benefits of the transaction may not be achieved in a timely manner, or at all; ADI may not achieve its future wireless handset strategy in a timely manner, and disruption from the
+ 
+transaction may adversely affect relationships with customers, suppliers or employees. For detailed information about factors that could cause ADI's actual results to differ materially from those described in the forward-looking statements, please refer to ADI's filings with the Securities and Exchange Commission, including ADI's most recent Annual Report on Form 10-K. Forward-looking statements represent management's current expectations and are inherently uncertain. We do not undertake any obligation to update forward-looking statements made by us.
+CONTACT: Analog Devices, Inc. Maria Tagliaferro, 781-461-3282 Director of Corporate Communications maria.tagliaferro@analog.com
+
+

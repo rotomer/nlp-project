@@ -63,7 +63,7 @@ def _find_price_at_horizon(prices_dict, eps_date, prediction_horizon_in_days):
     return prices_dict.get(base_date)
 
 
-horizons = [5, 30, 90, 180, 360, 720]
+horizons = [5, 30, 90, 180, 360, 720, 1080]
 
 columns = ['Ticker',
            'Date',
@@ -349,7 +349,8 @@ def _append_8k_row_for_ticker(data_frame_csv_file,
               str(price_trends[2]),  # 90 days
               str(price_trends[3]),  # 180 days
               str(price_trends[4]),  # 360 days
-              str(price_trends[5])  # 720 days
+              str(price_trends[5]),  # 720 days
+              str(price_trends[6]),  # 1080 days
               )
 
     data_frame_csv_file.write(','.join(record) + '\n')
@@ -435,7 +436,8 @@ def _append_10k_row_for_ticker(data_frame_csv_file,
               str(price_trends[2]),  # 90 days
               str(price_trends[3]),  # 180 days
               str(price_trends[4]),  # 360 days
-              str(price_trends[5])  # 720 days
+              str(price_trends[5]),  # 720 days
+              str(price_trends[6]),  # 1080 days
               )
 
     data_frame_csv_file.write(','.join(record) + '\n')
@@ -570,7 +572,7 @@ def create_data_frame_csv_file(data_frame_csv_file_path):
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
     data_frame_dir = os.path.join(current_file_dir_path, '..', 'data', 'Data_Frames')
-    data_frame_csv_file_path = os.path.join(data_frame_dir, 'relations_cosine_specialized_sentiment.csv')
+    data_frame_csv_file_path = os.path.join(data_frame_dir, 'relations_cosine_specialized_sentiment_1080.csv')
 
     if not os.path.exists(data_frame_dir):
         os.makedirs(data_frame_dir)

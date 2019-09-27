@@ -1,0 +1,988 @@
+FILE:ANR/ANR-8K-20120627070613.txt.gz
+EVENTS:	Other Events
+TEXT:
+ITEM: Other Events
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[  ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+ 
+Credit Agreement Amendment
+ 
+On June 26, 2012, Alpha Natural Resources, Inc. (the Company) entered into an amendment (the Credit Agreement Amendment) to the Third Amended and Restated Credit Agreement, dated as of May 19, 2011, by and among the Company, the lenders party thereto, the issuing banks party thereto, Citicorp North America, Inc. as administrative and collateral agent and Citigroup Global Markets Inc. and Morgan Stanley Senior Funding, Inc. as joint lead arrangers and joint book managers (the Credit Agreement).  The Credit Agreement Amendment, among other things:
+ 
+1)           replaces the maximum net leverage ratio covenant with a maximum net secured leverage ratio covenant through the end of 2014, relaxes the maximum net leverage ratio covenant for the first and second quarters of 2015, and relaxes the minimum interest coverage ratio covenant from the fourth quarter of 2012 through the end of 2013;
+ 
+2)           adds a minimum liquidity covenant through the end of 2014;
+ 
+3)           increases the applicable margin for borrowings under the Credit Agreement if the Companys consolidated net leverage ratio is greater than 3.75 to 1.00 for the preceding fiscal quarter;
+ 
+4)           modifies the requirements for incremental term loan or revolving credit facilities in excess of $500 million; and
+ 
+5)           provides additional real property collateral to secure obligations under the Credit Agreement and certain hedging and cash management obligations with lenders and affiliates of lenders.
+ 
+ 
+ 
+ 
+ 
+Accounts Receivable Securitization Facility Amendment
+ 
+On June 26, 2012, ANR Receivables Funding, LLC (ANR Receivables) and Alpha Natural Resources, LLC (ANR LLC), each of which are subsidiaries of the Company, entered into an amendment (the Receivables Purchase Agreement Amendment) to the Second Amended and Restated Receivables Purchase Agreement, dated as of October 19, 2011, by and among ANR Receivables, ANR LLC, certain financial institutions from time to time parties thereto as conduit purchasers, committed purchasers, purchaser agents and LC Participants (as defined therein) and PNC Bank, National Association, as administrator and LC Bank (as defined therein) (the Receivables Purchase Agreement).  The Receivables Purchase Agreement Amendment, among other things, replaces the maximum net leverage ratio termination event with a termination event based on a maximum net secured leverage ratio through the end of 2014 and relaxes the maximum net leverage ratio termination event for the first and second quarters of 2015.
+ 
+Qualification by Reference
+ 
+The foregoing descriptions of the Credit Agreement Amendment, the Credit Agreement, the Receivables Purchase Agreement Amendment and the Receivables Purchase Agreement do not purport to be complete and are qualified in their entirety by reference to the Credit Agreement, as amended by the Credit Agreement Amendment, which is attached to this report as Exhibit 10.1, and by reference to the Receivables Purchase Agreement, as amended by the Receivables Purchase Agreement Amendment, which are attached to this report as Exhibit 10.2. The Credit Agreement Amendment and the Receivables Purchase Agreement Amendment are each incorporated herein by reference.  On June 27, 2012, the Company issued a press release regarding the Credit Agreement Amendment, the Credit Agreement, the Receivables Purchase Agreement Amendment and the Receivables Purchase Agreement, a copy of which is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+ 
+ 
+ 
+ 
+ 
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+ 
+The disclosure set forth under Item 1.01 above is incorporated herein by reference.
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+           Exhibits
+(d)
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 10.1
+ 
+ 
+AMENDMENT NO. 1
+ 
+TO
+ 
+THIRD AMENDED AND RESTATED CREDIT AGREEMENT
+ 
+as of June 26, 2012 (this ), is entered into among ALPHA NATURAL RESOURCES, INC., a Delaware corporation (), the Lenders party hereto and Citicorp North America, Inc., a Delaware corporation, in its capacity as administrative agent for the Lenders and as agent for the Secured Parties (in such capacity, the ), and amends the Third Amended and Restated Credit Agreement dated as of May 19, 2011 (as amended, restated, supplemented or otherwise modified from time to time, the ) entered into among the Borrower, the institutions from time to time party thereto as Lenders (the ), the Administrative Agent, Bank of America, N.A., JPMorgan Chase Bank, N.A., PNC Bank, National Association, The Royal Bank of Scotland PLC and Union Bank, N.A. and The Bank of Tokyo-Mitsubishi UFJ, LTD., as Co-Documentation Agents and Morgan Stanley Senior Funding, Inc. as Sole Syndication Agent, and Citigroup Global Markets Inc. and Morgan Stanley Senior Funding, Inc., as Joint Lead Arrangers.  Capitalized terms used herein and not otherwise defined herein shall have the meanings ascribed to them in the Credit Agreement.
+This Amendment No. 1 to Third Amended and Restated Credit Agreement, dated
+Amendment
+Borrower
+Administrative Agent
+Credit Agreement
+Lenders
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, the Borrower has requested that the Lenders amend the Credit Agreement to effect the changes below;
+ 
+WHEREAS, the Borrower and Lenders wish to make certain other amendments set forth in Section 1 below;
+ 
+NOW, THEREFORE, in consideration of these premises and for other good and valuable consideration (the receipt and sufficiency of which is hereby acknowledged), the parties hereto hereby agree as follows:
+ 
+ 
+ 
+ 
+ 
+Section 1.
+ 
+Amendments to the Credit Agreement
+ 
+(a)
+ 
+Section 1.01 of the Credit Agreement is amended by (i) deleting the definition of  and replacing it in its entirety with the following:
+Applicable Margin
+ 
+ shall mean (i) for any day with respect to any ABR Loan, the applicable margin per annum set forth below under the caption ABR Spread based upon the Leverage Ratio as of the most recent determination date, (ii) for any day with respect to any Eurocurrency Loan, the applicable margin per annum set forth below the caption Eurocurrency Spread based upon the Leverage Ratio as of the most recent determination date and (iii) for any day with respect to any Commitment Fee, the fee per annum set forth below the caption Commitment Fee based upon the Leverage Ratio as of the most recent determination date.
+Applicable Margin
+ 
+ 
+For purposes of the foregoing, (1) the Leverage Ratio shall be determined as of the end of each fiscal quarter of the Borrowers fiscal year based upon the consolidated financial information of the Borrower and its Restricted Subsidiaries delivered pursuant to Section 5.04(a) or (b) and (2) each change in the Applicable Margin resulting from a change in the Leverage Ratio shall be effective during the period commencing on and including the first Business Day after the date of delivery to the Administrative Agent of such consolidated financial information indicating such change and ending on the date immediately preceding the effective date of the next such change; that the Leverage Ratio shall be deemed to be in Category 1 for purposes of this definition at the option of the Administrative Agent or the Required Lenders at any time during which the Borrower fails to deliver the consolidated financial information when required to be delivered pursuant to Section 5.04(a) or (b), during the period from the expiration of the time for delivery thereof until such consolidated financial information is delivered.
+provided
+ 
+ 
+ 
+ 
+ 
+(b)
+ 
+Section 1.01 of the Credit Agreement is amended by (i) deleting the definition of  and replacing it in its entirety with the following:
+Consolidated Net Debt
+ 
+ as of any date shall mean (without duplication) (i) the aggregate amount of all Indebtedness of the Borrower and its Restricted Subsidiaries specified in clauses (a), (b), (c) and (e) of the definition of Indebtedness (so long as, in the case of clause (e), such Guarantees are full and unconditional and such Guarantees are of Indebtedness of Unrestricted Subsidiaries or Minority Ventures specified in clauses (a), (b) and (c) of the definition of Indebtedness), (ii) any Receivables Net Investment of the Borrower and its Restricted Subsidiaries, (iii) the aggregate amount of unrestricted cash, cash equivalents and Permitted Investments of the Borrower and its Restricted Subsidiaries; that, for the purposes of the definition of Consolidated Senior Secured Debt, the aggregate amount of unrestricted cash, cash equivalents and Permitted Investments that reduces clauses (i) and (ii) above shall not exceed $500 million.
+Consolidated Net Debt
+plus
+minus
+provided
+ 
+(c)
+ 
+Section 1.01 of the Credit Agreement is amended by (i) replacing the period at the end of the definition of  with ; and (ii) adding the following proviso at the end of such definition:
+Equity Interests
+ 
+provided that, for the avoidance of doubt, "Equity Interests" shall not include convertible notes.
+ 
+(d)
+ 
+Section 1.01 is amended by deleting the words or directly and fully guaranteed or insured and (provided that the full faith and credit of the United States is pledged in support of those securities) in clause (b) of the definition of Permitted Investments.
+ 
+(e)
+ 
+Section 1.01 is amended by deleting the words Sections 6.10 and 6.11 in clause (e) of the definition of Permitted Notes and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof.
+ 
+(f)
+ 
+Section 1.01 is amended by inserting the words other than in the case of a refinancing of the Massey 3.25% Convertible Notes, at the beginning of clause (d) of the definition of Permitted Refinancing Indebtedness.
+ 
+(g)
+ 
+Section 1.01 is amended by deleting the words , all determined on a consolidated basis in accordance with GAAP in the definition of Senior Secured Leverage Ratio.
+ 
+ 
+ 
+ 
+ 
+(h)
+ 
+Section 1.01 is further amended by inserting the following new definitions in the appropriate alphabetic order:
+ 
+ shall mean (i) any real property owned  in fee by any Loan Party as of the Amendment No. 1 Effective Date that (x) is not a Mortgaged Property as of such date, (y)  has a net book value  as of March 31, 2012 in excess of $10 million and (z) is not a Massey Principal Property and (ii) any real property in which a Loan Party  has a leasehold interest as of the Amendment No. 1 Effective Date that (x) is not a Mortgaged Property as of such date, (y) has annual minimum  royalties, rents or any similar payment obligations in excess of $1 million in the most recently  ended fiscal year and (z) is not a Massey Principal Property; provided that, Amendment No. 1 Material Real Property shall not include Excluded Assets.
+Amendment No. 1 Material Real Property
+ 
+ as of any date shall mean (without duplication) (i) the aggregate amount of all Indebtedness of the Borrower and its Restricted Subsidiaries specified in clauses (a), (b), (c) and (e) of the definition of Indebtedness (so long as, in the case of clause (e), such Guarantees are full and unconditional and such Guarantees are of Indebtedness of Unrestricted Subsidiaries or Minority Ventures specified in clauses (a), (b) and (c) of the definition of Indebtedness), (ii) any Receivables Net Investment of the Borrower and its Restricted Subsidiaries.
+Consolidated Debt
+plus
+ 
+ shall mean, as of any date of determination, the aggregate principal amount of Consolidated Debt that is not Subordinated Indebtedness on such date and that is secured by a Lien.
+Consolidated Gross Senior Secured Debt
+ 
+ means, for the Borrower and its Restricted Subsidiaries on a consolidated basis, the sum of (x) all unrestricted cash, cash equivalents and Permitted Investments, (y) the aggregate Available Unused Commitments (assuming for such purpose, that the Borrower would be permitted to immediately incur such Available Unused Commitments) and (z) the unused availability under any Permitted Receivables Financing.
+Consolidated Liquidity
+ 
+ shall mean, on any date, the ratio of (a) Consolidated Gross Senior Secured Debt as of such date to (b) EBITDA for the period of four consecutive fiscal quarters of the Borrower most recently ended as of such date; that, to the extent any Asset Disposition or any Asset Acquisition (or any similar transaction or transactions that require a waiver or a consent of the Required Lenders pursuant to Section 6.04 or 6.05) or incurrence or repayment of Indebtedness (excluding normal fluctuations in revolving Indebtedness incurred for working capital purposes) has occurred during the relevant Test Period, EBITDA shall be determined for the respective Test Period on a Pro Forma Basis for such occurrences.
+Gross Senior Secured Leverage Ratio
+provided
+ 
+(i)
+ 
+Subsection 2.20(a)(ii) shall be amended by deleting the words Sections 6.10 and 6.11 and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof.
+ 
+ 
+ 
+ 
+ 
+(j)
+ 
+Subsection 2.20(a)(iii) shall be amended by deleting it in its entirety and replacing it with the following
+ 
+(iii)           The sum of the outstanding Additional Revolving Facility Commitments and the principal amount outstanding of Additional Term Loans, when aggregated with the principal amount outstanding of Permitted Notes, shall not exceed $500 million; that this limitation shall be increased by (x) $750 million if, at the time of such increase, after giving effect on a Pro Forma Basis to Additional Revolving Facility Commitments as if they were fully drawn on the first day of the most recent period of four consecutive fiscal quarters for which financial statements have been delivered pursuant to Section 5.04(a) or (b), and to the incurrence of Additional Term Loans and Permitted Notes as if such incurrence had occurred on such day, the Gross Senior Secured Leverage Ratio shall not be in excess of 2.00 to 1.00 and (y) an additional $750 million if, at the time of such increase, after giving effect on a Pro Forma Basis to Additional Revolving Facility Commitments as if they were fully drawn on the first day of the most recent period of four consecutive fiscal quarters for which financial statements have been delivered pursuant to Section 5.04(a) or (b), and to the incurrence of Additional Term Loans and Permitted Notes as if such incurrence had occurred on such day, the Gross Senior Secured Leverage Ratio shall not be in excess of 1.00 to 1.00.
+provided
+ 
+(k)
+ 
+Subsection 2.20(a)(iv) shall be amended by deleting the second sentence thereof in its entirety and replacing it with the following:
+ 
+In the event that the all-in-yield for any Additional Term Loans in excess of the initial $500 million in Additional Term Loans is greater than the all-in-yield for the Term Loans (or other term loan previously established as an Additional Term Loan hereunder), then the all-in-yield for the Term Loans (or other term loan previously established as an Additional Term Loan hereunder) will be increased such that after giving effect thereto the all-in-yield for the Term Loans (or other term loan established as an Additional Term Loan hereunder) is equal to the all-in-yield for the Additional Term Loans.
+ 
+(l)
+ 
+Subsection 5.04(c) shall be amended by deleting the words Sections 6.10 and 6.11 and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof in both clause (x) and (y).
+ 
+(m)
+ 
+Subsection 5.13(a)(ii) shall be amended by deleting the words Sections 6.10 and 6.11 and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof.
+ 
+(n)
+ 
+Subsection 6.01(c) shall be amended by deleting the words Sections 6.10 and 6.11 and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof.
+ 
+(o)
+ 
+Subsection 6.02(b) shall be amended by deleting the words Sections 6.10 and 6.11 and inserting the words Sections 6.10, 6.11 and 6.15, as applicable in lieu thereof.
+ 
+(p)
+ 
+Subsection 6.02(d) shall be amended by deleting the words (other than the Massey 3.25% Convertible Notes).
+ 
+ 
+ 
+ 
+ 
+(q)
+ 
+Subsection 6.02(f) shall be amended by deleting it in its entirety and replacing it with the following:
+ 
+(f)           (i)  Permitted Notes in an aggregate principal amount, when aggregated with the amount of Additional Term Loans and Additional Revolving Facility Commitments outstanding pursuant to Section 2.20, not to exceed $500 million; that this limitation shall be increased by (x) $750 million if, at the time of such incurrence, after giving effect on a Pro Forma Basis to such incurrence and to the incurrence of any Additional Term Loans and any Additional Revolving Facility Commitments (as if they were fully drawn on the first day of the most recent period of four consecutive fiscal quarters for which financial statements have been delivered pursuant to Section 5.04(a) or (b)) as if such incurrence had occurred on such day, the Gross Senior Secured Leverage Ratio shall not be in excess of 2.00 to 1.00 and (y) an additional $750 million if, at the time of such incurrence, after giving effect on a Pro Forma Basis to such incurrence and to the incurrence of any Additional Term Loans and any Additional Revolving Facility Commitments (as if they were fully drawn on the first day of the most recent period of four consecutive fiscal quarters for which financial statements have been delivered pursuant to Section 5.04(a) or (b)) as if such incurrence had occurred on such day, the Gross Senior Secured Leverage Ratio shall not be in excess of 1.00 to 1.00; that the full amount of Indebtedness incurred pursuant to this clause (i) would have been permitted to be incurred under Section 2.20; (ii) Permitted Notes in excess of the amount permitted under the foregoing clause (i), the Net Cash Proceeds of which are applied to the permanent repayment of Term Loans pursuant to Section 2.11; and (iii) in the case of Permitted Notes incurred under any of the foregoing clauses (i) and (ii), Permitted Refinancing Indebtedness in respect thereof;
+provided
+provided
+further
+ 
+(r)
+ 
+Subsection 6.06(a)(B) shall be amended by deleting it in its entirety and replacing it with the following:
+ 
+(B)           after giving effect to such Restricted Payment on a Pro Forma Basis as if such Restricted Payment had occurred on the first day of the most recent period of four consecutive fiscal quarters for which financial statements have been delivered pursuant to Section 5.04(a) or (b), the Borrower shall be in compliance with Sections 6.10, 6.11 and 6.15, as applicable; and
+ 
+ 
+ 
+ 
+ 
+(s)
+ 
+Section 6.10 shall be amended by deleting it in its entirety and replacing it with the following:
+ 
+Permit the Interest Coverage Ratio as of the last day of any fiscal quarter of the Borrower ending on the dates set forth below to be less than the ratio corresponding to such fiscal quarter:
+ 
+ 
+ 
+ 
+ 
+ 
+(t)
+ 
+Section 6.11 shall be amended by deleting it in its entirety and replacing it with the following:
+ 
+(a) .  Permit the Senior Secured Leverage Ratio as of the last day of any fiscal quarter of the Borrower ending on the dates set forth below to be greater than the ratio corresponding to such fiscal quarter:
+Senior Secured Leverage Ratio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) .  Permit the Leverage Ratio as of the last day of any fiscal quarter of the Borrower ending on the dates set forth below to be greater than the ratio corresponding to such fiscal quarter:
+Leverage Ratio
+ 
+ 
+(u)
+ 
+Article VI shall be amended by inserting the following new Section 6.15 thereto:
+ 
+  Permit the Consolidated Liquidity as of the end of any fiscal quarter of the Borrower beginning with the fiscal quarter ending June 30, 2012 through and including the fiscal quarter ending December 31, 2014, to be less than $500 million.
+Minimum Liquidity.
+ 
+ 
+ 
+ 
+ 
+Section 2.
+ 
+Conditions Precedent to the Effectiveness of this Amendment
+ 
+This Amendment shall become effective as of the date first written above when, and only when, each of the following conditions precedent shall have been satisfied or waived (the ) by the Administrative Agent:
+Amendment No. 1 Effective Date
+ 
+(a)           The Administrative Agent shall have received this Amendment, duly executed by the Borrower, the Subsidiary Guarantors, the Administrative Agent, the Collateral Agent and the Required Lenders;
+Executed Counterparts.  
+ 
+(b)           All Lenders who have executed this Amendment prior to 5:00 P.M. New York City time on June 25, 2012 shall have received a fee equal to 0.25% of their outstanding Revolving Facility Commitments and Term Loans.
+Lender Fees.  
+ 
+(c)           .  The Borrower shall have paid to the Administrative Agent all reasonable out-of-pocket expenses incurred by the Administrative Agent and invoiced to the Borrower prior to the Amendment No. 1 Effective Date in connection with the preparation, reproduction, execution and delivery of this Amendment (including, without limitation the reasonable fees, charges and disbursements of Cahill Gordon & Reindel , special counsel to the Administrative Agent);
+Reimbursement of Expenses
+llp
+ 
+(d)           .  The representations and warranties set forth in Section 3 of this Amendment shall be true and correct and the Administrative Agent shall have received a certificate to that effect from a Responsible Officer of the Borrower;
+Representations and Warranties
+ 
+(e)           .  The Administrative Agent shall have received, on behalf of itself, the Collateral Agent, the Lenders and each Issuing Bank on the Amendment No. 1 Effective Date, a favorable written opinion of Cleary Gottlieb Steen and Hamilton LLP, special counsel for the Borrower addressed to the Administrative Agent, the Collateral Agent, each Issuing Bank and the Lenders and in form and substance reasonably satisfactory to the Administrative Agent; and
+Opinions of Counsel
+ 
+(f)           The Administrative Agent shall have a received a completed Life-of-Loan Federal Emergency Management Agency Standard Flood Hazard Determination with respect to each property subject to an Existing Mortgage on which a Building (as defined in 12 CFR Chapter III, Section 339.2) is located (together with a notice about special flood hazard area status and flood disaster assistance duly executed by the Borrower and each Loan Party relating thereto) and, if any portion of such Mortgaged Property is located in a special flood hazard area, evidence of flood insurance to the extent required pursuant to Section 5.02(c) of the Credit Agreement.
+Flood Insurance.  
+ 
+ 
+ 
+ 
+ 
+Section 3.
+ 
+Representations and Warranties
+ 
+On and as of the Amendment No. 1 Effective Date, after giving effect to this Amendment, the Borrower hereby represents and warrants to the Administrative Agent and each Lender as follows:
+ 
+(a)
+ 
+this Amendment has been duly authorized, executed and delivered by the Borrower and constitutes the legal, valid and binding obligations of the Borrower enforceable against the Borrower in accordance with its terms, and the Credit Agreement, as amended by this Amendment, constitutes the legal, valid and binding obligation of the Borrower enforceable against the Borrower in accordance with its terms, in each case, subject to (i) the effects of bankruptcy, insolvency, moratorium, reorganization, fraudulent conveyance or other similar laws affecting creditors rights generally, (ii) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law) and (iii) implied covenants of good faith and fair dealing;
+ 
+(b)
+ 
+each of the representations and warranties contained in Article III () of the Credit Agreement and each other Loan Document is true and correct in all material respects on and as of the Amendment No. 1 Effective Date, as if made on and as of such date, except to the extent that such representations and warranties expressly relate to an earlier date, in which case such representations and warranties shall be true and correct in all material respects as of such earlier date; , , that references therein to the Credit Agreement shall be deemed to refer to the Credit Agreement as amended hereby and after giving effect to the consents and waivers set forth herein; and
+Representations and Warranties
+provided
+however
+ 
+(c)
+ 
+no Default or Event of Default has occurred and is continuing.
+ 
+ 
+ 
+ 
+ 
+Section 4.
+ 
+Post Closing Matters
+ 
+Within ninety (90) days of the Amendment No. 1 Effective Date, Borrower shall, and shall cause the applicable Loan Parties to, deliver a supplement to the Perfection Certificate updating the real property schedules in form and substance reasonably satisfactory to the Collateral Agent and, within one hundred eighty (180) days of the Amendment No. 1 Effective Date, Borrower shall, and shall cause the applicable Loan Parties to, take all actions required by Section 5.10(b) of the Credit Agreement with respect to each real property that falls within the definition of Amendment No. 1 Material Real Property, as if Amendment No. 1 Material Real Property had been acquired after the Third Amendment Effective Date and as if Section 5.10(b) were applicable by its terms to Amendment No. 1 Material Real Property.  In addition, on such date as, pursuant to Section 5.10(c), the requirements of Section 5.10(b) become applicable to Massey Principal Property, Borrower shall, and shall cause the applicable Loan Parties to, take all actions required by Section 5.10(c) of the Credit Agreement with respect to each Massey Principal Property that falls within the definition of Amendment No. 1 Material Real Property, as if Amendment No.1 Material Real Property had been acquired on such date.
+ 
+Section 5.
+ 
+Fees and Expenses
+ 
+The Borrower and each other Loan Party agrees to pay on demand in accordance with the terms of Section 9.05 () of the Credit Agreement all reasonable out-of-pocket expenses of the Administrative Agent in connection with the preparation, reproduction, execution and delivery of this Amendment (including, without limitation, the reasonable fees and out-of-pocket expenses of counsel for the Administrative Agent with respect thereto).
+Expenses; Indemnity
+ 
+ 
+ 
+ 
+ 
+Section 6.
+ 
+Reference to the Effect on the Loan Documents
+ 
+(a)
+ 
+As of the Amendment No. 1 Effective Date, each reference in the Credit Agreement to , , , , or words of like import, and each reference in the other Loan Documents to the Credit Agreement (including, without limitation, by means of words like ,  and words of like import), shall mean and be a reference to the Credit Agreement as amended hereby, and this Amendment and the Credit Agreement shall be read together and construed as a single instrument.  Each of the table of contents and lists of Exhibits and Schedules of the Credit Agreement shall be amended to reflect the changes made in this Amendment as of the Amendment No. 1 Effective Date.
+this Agreement
+hereunder
+hereof
+herein
+thereunder
+thereof
+ 
+(b)
+ 
+Except as expressly amended hereby, all of the terms and provisions of the Credit Agreement and all other Loan Documents are and shall remain in full force and effect and are hereby ratified and confirmed.
+ 
+(c)
+ 
+The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of the Lenders, the Borrower or the Administrative Agent under any of the Loan Documents, nor constitute a waiver or amendment of any other provision of any of the Loan Documents or for any purpose except as expressly set forth herein.
+ 
+(d)
+ 
+This Amendment is a Loan Document.
+ 
+ 
+ 
+ 
+ 
+Section 7.
+ 
+Execution in Counterparts
+ 
+This Amendment may be executed in any number of counterparts and by different parties in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.  Signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are attached to the same document.  Delivery of an executed counterpart by telecopy shall be effective as delivery of a manually executed counterpart of this Amendment.
+ 
+Section 8.
+ 
+Affirmation of Guarantee and Collateral Agreement and Other Obligations
+ 
+Each Loan Party (other than the Borrower) hereby consents to the amendments to the Credit Agreement effected hereby, and hereby confirms and agrees that, notwithstanding the effectiveness of this Amendment, the obligations of such Loan Party contained in the Guarantee and Collateral Agreement, or in any other Loan Documents to which it is a party are, and shall remain, in full force and effect and are hereby ratified and confirmed in all respects and the Collateral and the Loan Documents shall continue to secure, guarantee, support and otherwise benefit the Obligations and the of the Borrower and the other Loan Parties under this Agreement and the other Loan Documents.
+ 
+Section 9.
+ 
+Governing Law
+ 
+This Amendment shall be construed in accordance with and governed by the laws of the State of New York.
+ 
+ 
+ 
+ 
+ 
+Section 10.
+ 
+Section Titles
+ 
+The section titles contained in this Amendment are and shall be without substantive meaning or content of any kind whatsoever and are not a part of the agreement between the parties hereto, except when used to reference a section.  Any reference to the number of a clause, sub-clause or subsection of any Loan Document immediately followed by a reference in parenthesis to the title of the section of such Loan Document containing such clause, sub-clause or subsection is a reference to such clause, sub-clause or subsection and not to the entire section; , , that, in case of direct conflict between the reference to the title and the reference to the number of such section, the reference to the title shall govern absent manifest error.  If any reference to the number of a section (but not to any clause, sub-clause or subsection thereof) of any Loan Document is followed immediately by a reference in parenthesis to the title of a section of any Loan Document, the title reference shall govern in case of direct conflict absent manifest error.
+provided
+however
+ 
+Section 11.
+ 
+Notices
+ 
+All communications and notices hereunder shall be given as provided in the Credit Agreement.
+ 
+Section 12.
+ 
+Severability
+ 
+The fact that any term or provision of this Agreement is held invalid, illegal or unenforceable as to any person in any situation in any jurisdiction shall not affect the validity, enforceability or legality of the remaining terms or provisions hereof or the validity, enforceability or legality of such offending term or provision in any other situation or jurisdiction or as applied to any person.
+ 
+ 
+ 
+ 
+ 
+Section 13.
+ 
+Successors
+ 
+The terms of this Amendment shall be binding upon, and shall inure to the benefit of, the parties hereto and their respective successors and assigns.
+ 
+Section 14.
+ 
+Waiver of Jury Trial
+ 
+Each of the parties hereto irrevocably waives trial by jury in any action or proceeding with respect to this Amendment or any other Loan Document.
+ 
+[SIGNATURE PAGES FOLLOW]
+ 
+ 
+ 
+the parties hereto have caused this Amendment to be executed by their respective officers and general partners thereunto duly authorized, as of the date first written above.
+IN WITNESS WHEREOF,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 10.2
+ 
+ 
+ 
+This THIRD AMENDMENT TO THE SECOND AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT (this ), dated as of June 26, 2012, is entered into by and among the following parties:
+Amendment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capitalized terms used but not otherwise defined herein (including such terms used in the foregoing preamble) have the respective meanings assigned thereto in the Receivables Purchase Agreement defined below.
+ 
+ 
+1.
+ 
+The parties hereto have entered into that certain Second Amended and Restated Receivables Purchase Agreement, dated as of October 19, 2011 (as amended, restated, supplemented or otherwise modified through the date hereof, the ).
+Receivables Purchase
+Agreement
+ 
+2.
+ 
+The parties hereto desire to amend the Receivables Purchase Agreement as set forth herein.
+ 
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+ 
+SECTION 1.
+ 
+.  The Receivables Purchase Agreement is hereby amended as follows:
+Amendments to the Receivables Purchase Agreement
+ 
+1.1
+ 
+of the Receivables Purchase Agreement is amended by replacing the phrase Upon the occurrence and during the continuance of a Termination Event where it appears in the second sentence of such Section with the phrase Upon the occurrence and during the continuance of a Termination Event or an Unmatured Termination Event.
+Section 4.3
+ 
+ 
+ 
+ 
+ 
+1.2
+ 
+The following defined terms and definitions thereof are added to of the Receivables Purchase Agreement in appropriate alphabetical order:
+Exhibit I
+ 
+ has the meaning assigned to such term in the Credit Agreement, as amended by Amendment No.1 thereto dated as of June 26, 2012, but without giving effect to any other amendment, supplement, modification or waiver of such definition (or any defined term used directly or indirectly in such definition) to which the Administrator, the LC Bank and each of the Majority LC Participants and Majority Purchaser Agents have not consented in writing.
+Leverage Ratio
+ 
+ means a report, in substantially the form of to this Agreement, furnished by or on behalf of the Servicer to the Administrator and each Purchaser Agent pursuant to the Agreement, reflective of the Receivables Pool as of the end of the most recently completed calendar month.
+Monthly Information Package
+Annex A-1
+ 
+ has the meaning assigned to such term in the Credit Agreement, as amended by Amendment No.1 thereto dated as of June 26, 2012, but without giving effect to any other amendment, supplement, modification or waiver of such definition (or any defined term used directly or indirectly in such definition) to which the Administrator, the LC Bank and each of the Majority LC Participants and Majority Purchaser Agents have not consented in writing.
+Senior Secured Leverage Ratio
+ 
+ means a report, in substantially the form of to this Agreement, furnished by or on behalf of the Servicer to the Administrator and each Purchaser Agent pursuant to the Agreement, reflective of the Receivables Pool as of the end of business on the most recent Friday.
+Weekly Information Package
+Annex A-2
+ 
+1.3
+ 
+The definition of  set forth in of the Receivables Purchase Agreement is replaced in its entirety with the following:
+Information Package
+Exhibit I
+ 
+ means each Monthly Information Package and each Weekly Information Package.
+Information Package
+ 
+ 
+ 
+ 
+ 
+1.4
+ 
+in of the Receivables Purchase Agreement is replaced in its entirety with the following:
+Section 1(a)(ii)
+Exhibit IV
+ 
+(ii)           .  (A) As soon as available and in any event not later than two Business Days prior to the Settlement Date, a Monthly Information Package as of the most recently completed calendar month, and (B) if required pursuant to the following , not later than the second Business Day of each week, a Weekly Information Package as of the end of business on the most recent Friday; , that the Administrator or any Purchaser Agent may, in the exercise of reasonable commercial discretion (including, without limitation, following a material degradation of the financial condition or creditworthiness of the Performance Guarantor or the occurrence of an Unmatured Termination Event), by ten days prior written notice to the Seller and the Servicer, require the Seller and the Servicer to deliver Weekly Information Packages on a weekly basis pursuant to above and of this .
+Information Packages
+proviso
+provided
+clause (B)
+Section 2(a)(i)
+Exhibit IV
+ 
+1.5
+ 
+in of the Receivables Purchase Agreement is replaced in its entirety with the following:
+Section 2(a)(i)
+Exhibit IV
+ 
+(ii)           .  (A) As soon as available and in any event not later than two Business Days prior to the Settlement Date, a Monthly Information Package as of the most recently completed calendar month, and (B) if required pursuant to the following , not later than the second Business Day of each week, a Weekly Information Package as of the end of business on the most recent Friday; , that the Administrator or any Purchaser Agent may, in the exercise of reasonable commercial discretion (including, without limitation, following a material degradation of the financial condition or creditworthiness of the Performance Guarantor or the occurrence of an Unmatured Termination Event), by ten days prior written notice to the Seller and the Servicer, require the Seller and the Servicer to deliver Weekly Information Packages on a weekly basis pursuant to above and of this .
+Information Packages
+proviso
+provided
+clause (B)
+Section 1(a)(ii)
+Exhibit IV
+ 
+ 
+ 
+ 
+ 
+1.6
+ 
+in the list of Termination Events set forth in of the Receivables Purchase Agreement is replaced in its entirety with the following:
+Clause (m)
+Exhibit V
+ 
+(m)           the Performance Guarantors Senior Secured Leverage Ratio as of the last day of any fiscal quarter ending during the period beginning on (and including) June 30, 2012 and ending on (and including) December 31, 2014 shall exceed 2.50 : 1.00; or
+ 
+1.7
+ 
+The following new is added to the list of Termination Events set forth in of the Receivables Purchase Agreement:
+clause (n)
+Exhibit V
+ 
+(n)           the Performance Guarantors Leverage Ratio as of the last day of any fiscal quarter ending on the dates set forth below shall exceed the corresponding ratio set forth below for such fiscal quarter:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.8
+ 
+The form of Information Package attached as of the Receivables Purchase Agreement prior to giving effect to this Amendment shall hereafter constitute of the Receivables Purchase Agreement, and attached to this Amendment shall hereafter constitute of the Receivables Purchase Agreement.
+Annex A
+Annex A-1
+Annex A-2
+Annex A-2
+ 
+SECTION 2.
+ 
+  Each of the Seller and the Servicer hereby represents and warrants to the Administrator, each Purchaser and each Purchaser Agent as follows:
+Representations and Warranties
+.
+ 
+(a)
+ 
+.  Both before and immediately after giving effect to this Amendment, the representations and warranties made by such Person under the Transaction Documents are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date).
+Representations and Warranties
+ 
+(b)
+ 
+.  The execution and delivery by such Person of this Amendment, and the performance of each of its obligations under this Amendment and the other Transaction Documents to which such Person is a party, as amended hereby, are within each of its organizational powers and have been duly authorized by all necessary organizational action on its part.  This Amendment and the other Transaction Documents to which such Person is a party, as amended hereby, are such Persons valid and legally binding obligations, enforceable in accordance with its terms.
+Enforceability
+ 
+(c)
+ 
+. Both before and immediately after giving effect to this Amendment and the transactions contemplated hereby, (i) no Termination Event or Unmatured Termination Event exists or shall exist and (ii) the Purchase and Sale Termination Date (as defined in the Purchase and Sale Agreement) has not occurred.
+No Default
+ 
+SECTION 3.
+ 
+.  All provisions of the Receivables Purchase Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Receivables Purchase Agreement (or in any other Transaction Document) to this Agreement, hereof, herein or words of similar effect referring to the Receivables Purchase Agreement shall be deemed to be references to the Receivables Purchase Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Receivables Purchase Agreement or any other Transaction Document other than as set forth herein.
+Effect of Amendment
+ 
+ 
+ 
+ 
+ 
+SECTION 4.
+ 
+The Seller agrees to pay on demand all costs and expenses of the Administrator, each Purchaser and each Purchaser Agent (including, without limitation, counsel fees and expenses) incurred in connection with the preparation, execution and delivery of this Amendment and the transactions contemplated hereby.
+Costs and Expenses
+.  
+ 
+SECTION 5.
+ 
+Amendment is a Transaction Document
+.  For the avoidance of doubt, this Amendment shall constitute a Transaction Document for all purposes.
+ 
+SECTION 6.
+ 
+.  This Amendment shall become effective as of the date hereof, upon receipt by the Administrator of:
+Effectiveness
+ 
+(a)
+ 
+counterparts of  this Amendment (including facsimile or electronic copies) duly executed by each of the parties hereto;
+ 
+(b)
+ 
+counterparts of  that certain amended and restated Purchaser Group Fee Letter (the ) being entered into as of the date hereof among the parties hereto in connection with this Amendment (including facsimile or electronic copies) duly executed by each of the parties thereto; and
+A&R Fee Letter
+ 
+(c)
+ 
+confirmation that the fees payable by the Seller on the date hereof pursuant to the A&R Fee Letter have been paid in full.
+ 
+ 
+ 
+ 
+ 
+SECTION 7.
+ 
+.  This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument.  Delivery by facsimile or email of an executed signature page of this Amendment shall be effective as delivery of an executed counterpart hereof.
+Counterparts
+ 
+SECTION 8.
+ 
+.  THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO ANY OTHERWISE APPLICABLE CONFLICTS OF LAW PRINCIPLES (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK).
+Governing Law
+ 
+SECTION 9.
+ 
+.  The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Receivables Purchase Agreement, any other Transaction Document or any provision hereof or thereof.
+Section Headings
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above.
+ 
+ANR RECEIVABLES FUNDING, LLC, as Seller
+ 
+By:  
+ 
+/s/ Vaughn R. Groves                                                                 
+Name:  Vaughn R. Groves
+Title:  Senior Vice President and Secretary
+ 
+ 
+ 
+ALPHA NATURAL RESOURCES, LLC, as Servicer
+ 
+By:  
+ 
+/s/ Frank J. Wood                                                                  
+Name:  Frank J. Wood
+Title:  Executive Vice President and Chief Financial Officer
+ 
+ 
+ 
+ 
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as a Related Committed Purchaser, as an LC Participant and as a Purchaser Agent
+By:   
+ 
+/s/ William P. Rutkowski                                                  
+Name:  William P. Rutkowski
+Title:  Vice President
+ 
+ 
+ 
+MARKET STREET FUNDING LLC,
+as a Related Committed Purchaser and as a Conduit Purchaser
+By:   
+ 
+/s/ Doris J. Hearn                                                                 
+Name: Doris J. Hearn
+Title: Vice President
+ 
+ 
+ 
+ 
+PNC BANK, NATIONAL ASSOCIATION, as Administrator
+ 
+By:   
+ 
+/s/ Robyn A. Reeher                                                    
+Name:  Robyn A. Reeher
+Title:  Vice President
+ 
+PNC BANK, NATIONAL ASSOCIATION, as the LC Bank and as an LC Participant
+ 
+By:   
+ 
+/s/ Robyn A. Reeher                                                     
+Name:  Robyn A. Reeher
+Title:  Vice President                                           
+ 
+PNC BANK, NATIONAL ASSOCIATION, as Purchaser Agent for the Market Street Purchaser Group
+ 
+By:   
+ 
+/s/ Robyn A. Reeher                                                     
+Name:  Robyn A. Reeher
+Title:  Vice President
+ 
+ 
+ 
+Acknowledged and Agreed to by:
+ALPHA NATURAL RESOURCES, INC., a Delaware corporation, as Performance Guarantor under that certain Second Amended and Restated Performance Guaranty, dated as of October 19, 2011
+By:   
+                                                    
+/s/ Frank J. Wood
+Name:  Frank J. Wood
+Title:  Executive Vice President, Chief Financial Officer, Treasurer and Assistant Secretary
+
+Exhibit 99.1
+ 
+FOR IMMEDIATE RELEASE
+BRISTOL, Va., June 27, 2012  Alpha Natural Resources, Inc. (NYSE: ANR) announced today that it has amended its $1.6 billion secured credit facility enhancing its financial flexibility.
+The amendment, among other revisions, provides the company with a holiday from the maximum net leverage ratio covenant of 3.75 times through 2014 in exchange for implementing a maximum net secured leverage ratio covenant of 2.50 times during such period and re-implementing a maximum net leverage ratio covenant of 4.25 times during the first quarter of 2015, which will be in turn be reduced to 4.0 times during the second quarter 2015, and return to 3.75 times beginning in the third quarter 2015. The pricing grid was amended to provide an additional 50 basis points of interest to the participating banks for loans outstanding if the leverage ratio during an applicable time period exceeds 3.75 times. In addition, the amendment reduces the minimum interest coverage ratio covenant of 2.5 times by 25 basis points during the fourth quarter 2012, by an additional 25 basis points during the first quarter 2013, and returning to 2.25 times during the second quarter 2013 extending through the fourth quarter of 2013.  Furthermore, a minimum liquidity requirement of $500 million will be in place during the remainder of 2012 and 2013. Alpha received unanimous support from its bank group for this amendment.
+Alpha has also amended its accounts receivable securitization facility in order to relax the leverage ratio covenant in the same manner as in the secured credit facility amendment, among other revisions.
+We are pleased with our ability to proactively amend our secured credit facilities to achieve terms that further improve our financial flexibility as we continue to navigate a challenging market environment, said Frank Wood, Alphas Chief Financial Officer.
+About Alpha Natural Resources
+With $7.1 billion in total revenue in 2011, Alpha Natural Resources ranks as Americas second-largest coal producer by revenue and third-largest by production.  Alpha is the nations largest supplier of metallurgical coal used in the steel-making process and is a major supplier of thermal coal to electric utilities and manufacturing industries.  In 2011, the company had more than 200 customers on five continents.  More information about Alpha can be found on the companys Web site at www.alphanr.com.
+ 
+Investor Contact
+Todd Allen, CFA
+Vice President, Investor Relations
+(276) 739-5328
+tallen@alphanr.com
+Media Contact
+Ted Pile
+Vice President, Corporate Communications
+(276) 623-2920
+tpile@alphanr.com
+Forward Looking Statements
+Statements in this news release which are not statements of historical fact are forward-looking statements within the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995.  Such statements are not guarantees of future performance.  Many factors could cause our actual results, performance or achievements, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward looking-statements.  These factors are discussed in detail in our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and in our other filings with the SEC.  We make forward-looking statements based on currently available information, and we assume no obligation to update the statements made today or contained in our Annual Report or other filings due to changes in underlying factors, new information, future developments, or otherwise, except as required by law.
+
+

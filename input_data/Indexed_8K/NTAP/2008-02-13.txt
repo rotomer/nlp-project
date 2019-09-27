@@ -1,0 +1,100 @@
+FILE:NTAP/NTAP-8K-20080213160538.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (date of earliest event reported): February 13, 2008
+______________
+Network Appliance, Inc.
+(Exact name of Registrant as specified in its charter)
+(408) 822-6000
+(
+Registrants telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ - 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ - 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ - 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ - 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02.     Results of Operations and Financial Condition
+On February 13, 2008, Network Appliance, Inc. issued a press release announcing its earnings for the third quarter of fiscal year 2008. The press release is attached as an exhibit to this Form 8-K, and the information set forth therein is hereby incorporated by reference into this Item 2.02.
+Item 9.01.     Financial Statements and Exhibits
+(d) Exhibits.
+Network Appliance, Inc.s February 13, 2008 press release is hereby furnished as Exhibit 99.1 to this Form 8-K in connection with the disclosures under Item 2.02 of this Form 8-K.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Index to Exhibits
+
+Exhibit 99.1
+NetApp Announces Results for Third Quarter Fiscal Year 2008
+Achieves Record Revenue, Income from Operations, and Cash Flow from Operating Activities
+SUNNYVALE, Calif.--(BUSINESS WIRE)--NetApp (NASDAQ:NTAP), the leader in advanced networked storage solutions, today reported results for the third quarter of fiscal year 2008. Revenues for the third fiscal quarter were $884.0 million, an increase of 21% compared to revenues of $729.3 million for the same period a year ago and an increase of 12% compared to $792.2 million in the prior quarter.
+For the third fiscal quarter, GAAP net income was $101.8 million, or $0.29 per share compared to GAAP net income of $66.5 million, or $0.17 per share for the same period in the prior year. Non-GAAP net income for the third fiscal quarter was $131.7 million, or $0.37 per share, compared to non-GAAP net income of $111.1 million, or $0.29 per share for the same period a year ago.
+1
+2
+Revenues for the first nine months of the current fiscal year totaled $2.4 billion, compared to revenues of $2.0 billion for the first nine months of the prior fiscal year, an increase of 18% year over year.
+GAAP net income for the first nine months of the current fiscal year totaled $219.9 million, or $0.60 per share, compared to GAAP net income of $208.1 million, or $0.53 per share for the first nine months of the prior fiscal year. Non-GAAP net income for the first nine months of the current fiscal year totaled $324.1 million, or $0.89 per share, compared to non-GAAP net income of $316.5 million, or $0.81 per share for the first nine months of the prior fiscal year.
+By providing customers with the best value in the industry, NetApp again achieved record financial results this quarter, said Dan Warmenhoven, chief executive officer. Through our efforts to increase our field coverage, expand our product portfolio and diversify our revenue streams, NetApp continues to grow significantly faster than the markets we serve.
+Outlook
+NetApp expects revenue for the fourth quarter of fiscal year 2008 to be between $915.0 million and $945.0 million, with year-over-year growth of approximately 14% to 18% and sequential growth of approximately 3.5% to 7%.
+Including the effect of SFAS123(R) and with current information and assumptions, the company estimates that the fourth quarter fiscal year 2008 GAAP earnings per share will be approximately $0.23 to $0.25 per share.
+NetApp expects fourth quarter fiscal year 2008 non-GAAP earnings per share to be approximately $0.35 to $0.37 per share.
+Quarterly Highlights
+During the third quarter of fiscal year 2008, NetApp broadened its footprint in the high-end data center market with the introduction of the new NetApp FAS6000 and V6000 series systems. The new solutions help maximize application-level availability and high storage utilization to reduce power, space, and cooling costs. These features, coupled with the NetApp unified storage architecture, offer incredible business value for enterprise customers.
+NetApp also set a new standard for performance this quarter, proving its systems provide greater value for customers data centers, by releasing the independently audited Storage Performance Benchmark-1 (SPC-1) performance results. SPC-1 is a widely recognized industry standard benchmark for storage system performance. The SPC-1 results provided a head-to-head comparison of the NetApp FAS3040 modular storage system and the EMC CLARiiON CX3 Model 40 storage systems and tested both products on their overall SAN performance with and without snapshots enabled. In both cases, the NetApp FAS3040 outshined the EMC CLARiiON CX3-40, and further validated NetApp as the high-performance leader for real-world data center deployments featuring value-added data management and data protection functionality.
+st
+During the quarter, NetApp won several awards for its product innovations. In the United States, the NetApp FAS2020 was named Best Unified Storage Solution of the Year, marking the third time in the last four years that NetApp has been honored by with a Technology of the Year award. NetApp also won seven recent awards in China for its FAS, NAS, and disaster recovery solutions. The NetApp FAS2000 was named Product of the Year by and Editors Choice for 2007 by both and . The NetApp FAS6080 was named Product of the Year by and Editors Choice by . also awarded NetApp with Solution of the Year for its disaster recovery offerings.
+InfoWorld
+Dostor.com
+China Information World
+China Partner World
+China Computerworld
+Smart Partner
+China Computerworld
+From a market perspective, NetApp gained share in both the storage software and hardware markets, as reported in IDCs Worldwide Quarterly Storage Software Tracker Q3 2007 and Worldwide Quarterly Disk Storage Systems Tracker Q3 2007. In the overall storage software market, NetApp grew the fastest among the top five leading storage software providers both sequentially (Q207 through Q307) and year over year (Q306 through Q307). This marks the ninth consecutive quarter that NetApp has outpaced the storage software market.
+3
+4
+NetApp also grew faster than the networked storage market (which includes SAN, NAS, and iSCSI) both sequentially and year over year, in both capacity shipped and revenue. NetApp grew FC SAN revenue at more than four times the rate of the overall FC SAN market and grew FC SAN capacity at twice the rate of the overall market. This marks the 15th consecutive quarter that NetApp FC SAN revenue and capacity grew faster than the market. Demonstrating this market traction, NetApp in the third quarter reached a significant company milestone by achieving 15,000 production deployments of NetApp SAN solutions.
+IDC also found that NetApp continued its leadership in the NAS and iSCSI storage markets in the third quarter. NetApp maintained the number-one market share positions in capacity shipped for NAS (38.7%) and in iSCSI for both capacity shipped (28.3%) and revenue (20.5%).
+Also this quarter, NetApp continued its midrange leadership with the news that it has been positioned by Gartner, Inc., in the Leaders quadrant for midrange enterprise disk arrays in its research note, Magic Quadrant for Midrange Enterprise Disk Array, 2H07.
+5
+NetApp also was named by magazine as one of the 100 Best Companies to Work For for the sixth consecutive year. This year, NetApp ranked number 14 on the list as a result of its ability to deliver world-class solutions, while providing employees with a workplace environment that encourages creativity, innovation, team building, and leadership.
+FORTUNE
+And finally, NetApp was honored this quarter by the California Integrated Waste Management Boards Waste Reduction Awards Program (WRAP) for its outstanding actions to reduce waste locally and minimize its global impact on the environment.
+Webcast and Conference Call Information
+The NetApp quarterly results conference call will be broadcast live on the Internet at on Wednesday, February 13, 2008, at 2:00 p.m. Pacific Time. This press release and any other information related to the call will also be posted on the Web site at that location.
+http://investors.netapp.com
+The conference call will also be available live in a listen-only format at (866) 314-4483 in the United States and (617) 213-8049 outside the United States. The pass code for both numbers is 69226880.
+A replay will be available for 72 hours following the completion of the live call by dialing (888) 286-8010 in the United States and (617) 801-6888 outside the United States, using replay code 76754186. The Webcast replay will be posted on our Web site for at least one year.
+About NetApp
+NetApp is a leading provider of innovative data management solutions that simplify the complexity of storing, managing, protecting, and retaining enterprise data. Market leaders around the world choose NetApp to help them reduce cost, minimize risk, and adapt to change. For solutions that deliver unmatched simplicity and value, visit us on the web at .
+www.netapp.com
+Safe Harbor Statement Under U.S. Private Securities Litigation Reform Act of 1995
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include all of the statements under the Outlook section relating to our forecasted operating results and metrics for the fourth quarter of fiscal year 2008; statements regarding our growth opportunities; and statements regarding the anticipated benefits of our products, technologies, and services relative to the offerings of our competitors. These forward-looking statements involve risks and uncertainties, and actual results could vary. Important factors that could cause actual results to differ materially from those in the forward-looking statements include our ability to build non-deferred backlog to levels consistent with our past results and to increase our revenue over the next several quarters; general economic and industry conditions, including expenditure trends for storage-related products; risks associated with the anticipated growth in network storage and content delivery markets; our ability to deliver new product architectures and enterprise service offerings; competition risks, including our ability to design products and services that compete effectively from a price and performance perspective; risks with new product introductions; our reliance on a limited number of suppliers; our ability to accurately forecast demand for our products and successfully manage our relationships with our contract manufacturers; our ability to expand our direct sales operations and reseller distribution channels; our ability to develop, maintain, and strengthen our relationships and product offerings with strategic partners; risks associated with international operations; our ability to successfully acquire and integrate complementary businesses and technologies; foreign currency exchange rate fluctuations; and other important factors as described in NetApp reports and documents filed from time to time with the Securities and Exchange Commission, including the factors described under the sections captioned Risk Factors in our most recently submitted 10-K and 10-Q. We disclaim any obligation to update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise.
+Earnings per share is calculated using the diluted number of shares for all periods presented.
+1
+Non-GAAP results of operations exclude amortization of intangible assets, stock-based compensation expenses, acquisition-related retention costs, gain on sale of investment, restructuring charges/recoveries, prior acquisition-related costs, and the related effects on income taxes as well as certain discrete GAAP provisions for income tax matters recognized ratably for non-GAAP purposes.
+2
+IDC Worldwide Quarterly Storage Software Tracker Q3 2007.
+3
+IDC Worldwide Quarterly Disk Storage Systems Tracker Q3 2007.
+4
+Magic Quadrant for Midrange Enterprise Disk Arrays, 2H07, by Stanley Zaffos, Roger W. Cox, and Pushan Rinnen, January 2008.
+5
+Network Appliance Usage of Non-GAAP Financials
+The Company refers to the non-GAAP financial measures cited above in making operating decisions because they provide meaningful supplemental information regarding the Company's operational performance. These non-GAAP results of operations exclude amortization of intangible assets, stock-based compensation expenses, acquisition-related retention costs, gain on sale of investment, restructuring charges/recoveries, prior acquisition-related costs, and the related effects on income taxes as well as certain discrete GAAP provisions for income tax matters recognized ratably for non-GAAP purposes. We have excluded these items in order to enhance investors understanding of our ongoing operations. The use of these non-GAAP financial measures has material limitations because they should not be used to evaluate our company without reference to their corresponding GAAP financial measures. As such, we compensate for these material limitations by using these non-GAAP financial measures in conjunction with GAAP financial measures.
+These non-GAAP financial measures facilitate management's internal comparisons to the Company's historical operating results and comparisons to competitors' operating results. We include these non-GAAP financial measures in our earnings announcement because we believe they are useful to investors in allowing for greater transparency with respect to supplemental information used by management in its financial and operational decision making, such as employee compensation planning. In addition, we have historically reported similar non-GAAP financial measures to our investors and believe that the inclusion of comparative numbers provides consistency in our financial reporting at this time.
+CONTACT: NetApp Jodi Baumann, 408-822-3974 (Press) Jodi.Baumann@netapp.com Tara Dhillon, 408-822-6909 (Investors) tara@netapp.com Billie Fagenstrom, 408-822-6428 (Investors) billief@netapp.com
+
+

@@ -1,0 +1,589 @@
+FILE:RRD/RRD-8K-20110511163545.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2.):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+On May 5, 2011, R.R. Donnelley & Sons Company (the "") entered into an accelerated share repurchase agreement (the "") with J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch (""), under which the Company will repurchase shares of its common stock. The Company is acquiring its shares under the ASR as part of its previously announced program that authorizes the repurchase of up to $1.0 billion of the Company's common stock. Pursuant to the terms of the ASR, the Company paid $500 million to JPM on May 10, 2011, and JPM made an initial delivery to the Company of 19,940,179 shares of the Company's common stock (equivalent to 80% of the number of shares of the Company's common stock that could be purchased for $500 million based on the closing price of the Company's common stock on May 9, 2011).
+Company
+ASR
+JPM
+The total number of shares of the Company's common stock that will be purchased under the ASR will be based on the volume average weighted price of the Company's common stock, subject to adjustment in accordance with the terms of the ASR, over a valuation period, which is expected to end around the end of the year unless JPM, at its option, designates an earlier valuation completion date. After the end of this period, the Company may receive additional shares of its common stock or, to the extent that the value of the initial number of shares delivered of the Company's common stock, based on the volume weighted average price of the Company's common stock (as adjusted) during the valuation period is greater than $500 million, be required to remit to JPM, at the Company's election, cash or shares of its common stock.
+The ASR is subject to terms customary for similar agreements, including terms providing for the effect of extraordinary corporate transactions and setting forth circumstances under which the ASR may be terminated early.
+The preceding description of the ASR does not purport to be a complete description and is qualified in its entirety by the ASR which is filed as Exhibit 10.1 to this Current Report on Form 8K and which is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 10.1
+EXECUTION VERSION
+May 5, 2011
+R.R. Donnelley & Sons Company
+111 South Wacker Drive
+Chicago, Illinois 60606
+Ladies and Gentlemen:
+The purpose of this letter agreement (this "") is to confirm the terms and conditions of the Transaction entered into between J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch (the ""), and R.R. Donnelley & Sons Company, a Delaware corporation (the ""), on the Trade Date specified below (the ""). This Confirmation constitutes a "Confirmation" as referred to in the Agreement specified below.
+Confirmation
+Seller
+Purchaser
+Transaction
+This Confirmation evidences a complete and binding agreement between the Seller and the Purchaser as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall supplement, form a part of, and be subject to an agreement in the form of the 2002 ISDA Master Agreement (the "") as if the Seller and the Purchaser had executed an agreement in such form (but without any Schedule except for (i) the election of the laws of the State of New York as the governing law but without regard to its choice of law provisions, (ii) the election that the "Cross Default" provisions of Section 5(a)(vi) will apply to the Seller with a "Threshold Amount" equal to 3% of the Seller's shareholders' equity, determined at the end of the Seller's most recently completed fiscal year in accordance with generally accepted accounting principles in the United States, and (iii) the election that Section 10(a) of the Agreement will apply to the Transaction), on the Trade Date. In the event of any inconsistency between provisions of that Agreement and this Confirmation, this Confirmation will prevail for the purpose of the Transaction to which this Confirmation relates. The parties hereby agree that no Transaction other than the Transaction to which this Confirmation relates shall be governed by the Agreement.
+Agreement
+Section 1.01. . (a) As used in this Confirmation, the following terms shall have the following meanings:
+Definitions
+"" means, (A) for any Trading Day described in clause (x) of the definition of Trading Day hereunder, the volume-weighted average price at which the Common Stock trades as reported in the composite transactions for United States exchanges and quotation systems, during the regular trading session for the Exchange (or, if applicable, the Successor Exchange on which the Common Stock has been listed in accordance with Section 7.01(c)) on such Trading Day, excluding (i) trades that do not settle regular way, (ii) opening (regular way) reported trades in the consolidated system on such Trading Day, (iii) trades that occur in the last ten minutes before the scheduled close of trading on the Exchange on such Trading Day and ten minutes before the scheduled close of the
+10b-18 VWAP
+ 
+primary trading in the market where the trade is effected, and (iv) trades on such Trading Day that do not satisfy the requirements of Rule 10b-18(b)(3), as determined in good faith by the Calculation Agent, or (B) for any Trading Day that is described in clause (y) of the definition of Trading Day hereunder, an amount determined in good faith by the Calculation Agent as 10b-18 VWAP using a volume weighted method based on Rule 10b-18 eligible transactions in the Common Stock on such day. The Calculation Agent shall use the Bloomberg Page "RRD US <Equity> AQR SEC" (or any successor thereto) (absent manifest error on such page) for such Trading Day to determine the 10b-18 VWAP.
+"" has the meaning set forth in Section 7.01.
+Additional Termination Event
+"" has the meaning set forth in the second paragraph of this Confirmation.
+Agreement
+"" has the meaning set forth in Section 14 of the Agreement.
+Affected Party
+"" has the meaning set forth in Section 14 of the Agreement.
+Affected Transaction
+"" means any "affiliated purchaser" (as such term is defined in Rule 10b-18) of the Purchaser.
+Affiliated Purchaser
+"" means (i) in the case of a Termination Event (other than following consummation of a Merger Event or Nationalization) or Event of Default (as defined in the Agreement), one share of Common Stock and (ii) in the case of consummation of a Merger Event or Nationalization, a unit consisting of the number or amount of each type of property received by a holder of one share of Common Stock in such Merger Event or Nationalization; that if such Merger Event involves a choice of consideration to be received by holders of the Common Stock, an Alternative Termination Delivery Unit shall be deemed to include the amount of cash received by a holder who had elected to receive the maximum possible amount of cash as consideration for his shares.
+Alternative Termination Delivery Unit
+provided
+"" has the meaning set forth in Section 9.07.
+Bankruptcy Code
+"" means any day on which the Exchange is open for trading.
+Business Day
+"" means JPMorgan Chase Bank, National Association.
+Calculation Agent
+"" has the meaning set forth in Section 7.01(f).
+Cash Distribution
+"" means, for any "" set forth in the Pricing Supplement, the amount specified in the Pricing Supplement for such Reference Period.
+Cash Distribution Amount
+Reference Period
+"" means an amount in cash equal to (i) the absolute value of the Settlement Number (ii) the dollar volume weighted average price per share at which Seller or its designated affiliate executes purchases of shares of Common Stock during the Cash Settlement Purchase Period in respect of its hedge position for the Transaction, which purchases shall be effected in good faith and in a commercially reasonable manner.
+Cash Settlement Amount
+multiplied by
+"" means the period during which the Seller purchases shares of Common Stock to unwind its hedge position following the Valuation Completion Date.
+Cash Settlement Purchase Period
+"" has the meaning set forth in Section 2.01.
+Common Stock
+"" has the meaning set forth in Annex C hereto.
+Communications Procedures
+"" has the meaning set forth in the first paragraph of this letter agreement.
+Confirmation
+ 
+"" means the amount specified as such in the Pricing Supplement.
+Contract Fee
+"" means the period commencing on and including the Trade Date and ending on and including the date all payments or deliveries of shares of Common Stock pursuant to Section 3.01 or Section 7.03 have been made.
+Contract Period
+"" has the meaning set forth in Section 7.02(a).
+Default Notice Day
+"" has the meaning set forth in Section 7.01(c).
+De-Listing
+"" means the amount specified as such in the Pricing Supplement.
+Discount
+"" has the meaning set forth in Section 4.02(a).
+Disrupted Day
+"" has the meaning set forth in Section 4.02(b).
+Distribution Notice
+"" has the meaning set forth in Section 7.01(f).
+Distribution Termination Event
+"" has the meaning set forth in Section 14 of the Agreement.
+Early Termination Date
+"" has the meaning set forth in Section 14 of the Agreement.
+Event of Default
+"" means the NASDAQ Global Select Market.
+Exchange
+"" means the Securities Exchange Act of 1934, as amended.
+Exchange Act
+"" means the date specified as such in the Pricing Supplement.
+Expiration Date
+"" has the meaning set forth in Section 9.02.
+Indemnified Person
+"" has the meaning set forth in Section 9.02.
+Indemnifying Party
+"" means the percentage specified as such in the Pricing Supplement.
+Initial Delivery Percentage
+"" means the number of shares of Common Stock, rounded down to the nearest integer, equal to the product of (i) the Initial Delivery Percentage and (ii) the Purchase Price the Initial Share Price.
+Initial Number of Shares
+divided by
+"" has the meaning set forth in Section 2.02.
+Initial Settlement Date
+"" means the closing price per share of the Common Stock on the Exchange on the second Trading Day immediately following the Trade Date.
+Initial Share Price
+"" has the meaning set forth in Section 7.01(d).
+Merger Event
+"" has the meaning set forth in Section 7.01(e).
+Nationalization
+"" means any day other than a Saturday, a Sunday, a legal holiday or a day on which banking institutions are authorized or required by law or regulation to close in The City of New York.
+New York Banking Day
+"" has the meaning set forth in Section 2.01.
+Number of Shares
+ 
+"" has the meaning set forth in Section 9.02.
+Obligations
+"" means the Pricing Supplement attached hereto as Annex D.
+Pricing Supplement
+"" has the meaning set forth in Annex A hereto.
+Private Placement Agreement
+"" means the private placement value of a share of Common Stock as determined in accordance with Annex A hereto.
+Private Placement Price
+"" has the meaning set forth in Section 3.01(b).
+Private Placement Shares
+"" has the meaning set forth in Annex A hereto.
+Private Placement Procedures
+"" has the meaning set forth in Annex A hereto.
+Private Securities
+"" has the meaning set forth in Section 2.01.
+Purchase Price
+"" has the meaning set forth in the first paragraph of this Confirmation.
+Purchaser
+"" means, for any date, (i) a number of shares of Common Stock equal to the Purchase Price, two, the Initial Share Price, (ii) the net number of shares of Common Stock delivered by the Purchaser to the Seller in respect of this Transaction on or prior to such date, (iii) the net number of shares of Common Stock delivered by the Seller to the Purchaser in respect of this Transaction on or prior to such date, subject to appropriate adjustments pursuant to Section 8.02(x).
+Purchaser Share Cap
+multiplied by
+divided by
+minus
+plus
+"" means, for any corresponding "" specified in the Pricing Supplement, the period specified in the Pricing Supplement for such Cash Distribution Amount.
+Reference Period
+Cash Distribution Amount
+"" has the meaning set forth in Section 3.01(b).
+Registered Shares
+"" means the amount specified as such in the Pricing Supplement.
+Registered Shares Fee
+"" has the meaning set forth in Annex B hereto.
+Registration Procedures
+"" means Regulation M under the Exchange Act.
+Regulation M
+"" means Rule 10b-18 promulgated under the Exchange Act (or any successor rule thereto).
+Rule 10b-18
+"" means any day on which the Exchange is scheduled to be open for trading for its regular trading session.
+Scheduled Trading Day
+"" means the Securities and Exchange Commission.
+SEC
+"" means the Securities Act of 1933, as amended.
+Securities Act
+"" has the meaning set forth in the first paragraph hereto.
+Seller
+"" means, for any date, (i) 75% of the total number of shares of Common Stock then issued and outstanding (ii) the number of shares of Common Stock delivered by the Seller to the Purchaser in respect of this Transaction on or prior to such date, subject to appropriate adjustments pursuant to Section 8.02(x).
+Seller Share Cap
+minus
+"" has the meaning set forth in Section 7.03.
+Seller Termination Share Purchase Period
+ 
+"" means (i) if Section 3.01(a)(i) is applicable, the third Business Day following the Valuation Completion Date; (ii) if settlement in cash is applicable pursuant to Section 3.01(d), the date of such cash payment determined in accordance with Section 3.01(d)(ii); (iii) if Section 3.01(e) is applicable, the Business Day immediately following the day on which the Seller informs the Purchaser, pursuant to Annex A hereto, of the number of Private Placement Shares required to be delivered; and (iv) if Section 3.01(f) is applicable, each of the dates so advised by the Seller pursuant to Annex B hereto.
+Settlement Date
+"" means a number of shares of Common Stock, rounded down to the nearest integer and which number may be negative, equal to (i) the Valuation Number (ii) the Initial Number of Shares.
+Settlement Number
+minus
+"" has the meaning set forth in Section 3.01(b).
+Settlement Shares
+"" has the meaning set forth in Section 7.01(c).
+Share De-listing Event
+"" has the meaning set forth in Section 7.01(c).
+Successor Exchange
+"" has the meaning set forth in Section 7.02(a).
+Termination Amount
+"" has the meaning set forth in Section 14 of the Agreement.
+Termination Event
+"" means the value of an Alternative Termination Delivery Unit (determined as provided in Annex A hereto).
+Termination Price
+"" has the meaning set forth in Section 7.03(a).
+Termination Settlement Date
+"" has the meaning set forth in Section 2.01.
+Trade Date
+"" means (x) any day (i) other than a Saturday, a Sunday or a day on which the Exchange is not open for business, (ii) during which trading of any securities of the Purchaser on any national securities exchange has not been suspended, (iii) during which there has not been, in the Calculation Agent's judgment, a material limitation in the trading of Common Stock or any options contract or futures contract related to the Common Stock, and (iv) that is not a Disrupted Day, or (y) any day that, notwithstanding the occurrence of events contemplated in clauses (x)(ii), (x)(iii) and (x)(iv) of this definition, the Seller determines to be a Trading Day.
+Trading Day
+"" has the meaning set forth in the first paragraph of this Confirmation.
+Transaction
+"" has the meaning set forth in the Pricing Supplement.
+Valuation Completion Date
+"" means (i) the Purchase Price (ii) the arithmetic average of 10b-18 VWAP for each of the Trading Days in the Valuation Period the Discount; , that with respect to any Trading Day that is described in clause (y) of the definition of Trading Day hereunder, the Valuation Number shall be adjusted based on an appropriately weighted average based on the nature and duration of the event described in clause (x)(ii), (x)(iii) or (x)(iv) of the definition of Trading Day instead of the arithmetic average, as determined by the Calculation Agent in its commercially reasonable judgment. For the avoidance of doubt, if the Discount is a negative number, the difference in clause (ii) of the immediately preceding sentence shall be equal to the arithmetic average of 10b-18 VWAP for each of the Trading Days in the Valuation Period the absolute value of the Discount.
+Valuation Number
+divided by
+minus
+provided, however
+plus
+"" means the period of consecutive Trading Days commencing on and including the Initial Settlement Date and ending on and including the Valuation Completion Date.
+Valuation Period
+ 
+Section 2.01. . Subject to the terms and conditions of this Confirmation, the Purchaser agrees to purchase from the Seller, and the Seller agrees to sell to the Purchaser, on May 5, 2011 or on such other Business Day as the Purchaser and the Seller shall otherwise agree (the ""), a number of shares (the "") of the Purchaser's common stock, par value $1.25 per share (""), for an aggregate purchase price equal to $500,000,000 (the ""). The Number of Shares purchased by the Purchaser hereunder shall be determined in accordance with the terms of this Confirmation.
+Purchase of the Stock
+Trade Date
+Number of Shares
+Common Stock
+Purchase Price
+Section 2.02. . On the third Trading Day immediately following the Trade Date (such day, the ""), the Seller shall deliver the Initial Number of Shares to the Purchaser, upon payment by the Purchaser of (i) an amount equal to the Purchase Price to the Seller and (ii) the Contract Fee to J.P. Morgan Securities LLC; that if the Seller is unable to borrow or otherwise acquire a number of shares of Common Stock equal to the Initial Number of Shares for delivery to the Purchaser on the Initial Settlement Date, the Initial Number of Shares shall be reduced to such number of shares of Common Stock as the Seller is able to borrow or otherwise acquire and any amounts payable by the Purchaser pursuant to this Article 2 shall be reduced correspondingly. Such delivery and payment shall be effected in accordance with the Seller's customary procedures.
+Delivery and Payments
+Initial Settlement Date
+provided
+Section 3.01. . (a) (i) If the Settlement Number is greater than zero, the Seller shall deliver to the Purchaser a number of shares of Common Stock equal to the Settlement Number on the Settlement Date in accordance with the Seller's customary procedures; and
+Subsequent Payments or Share Deliveries
+(ii) if the Settlement Number is less than zero, the Purchaser shall make a payment of cash or delivery of shares of Common Stock to the Seller in respect of the absolute value of the Settlement Number, as provided in this Section 3.01.
+(b) Subject to Section 3.01(c), payment of the absolute value of the Settlement Number by the Purchaser to the Seller shall be in cash or validly issued shares of Common Stock (""), and if in shares of Common Stock, then in shares to be sold in a private placement ("") or registered shares (""), as the Purchaser shall elect, which binding election shall be made by written notice to the Seller no later than the close of business on the second Business Day following the Valuation Completion Date; that by making an election to deliver Settlement Shares pursuant to this Section 3.01(b), the Purchaser shall be deemed to make the representations and warranties in Section 5.01 as if made on the date of the Purchaser's election; and that if the Purchaser fails to make such election by such date, the Purchaser shall be deemed to have elected settlement in cash.
+Settlement Shares
+Private Placement Shares
+Registered Shares
+provided
+provided further
+(c) (i) Any election by the Purchaser to deliver the absolute value of the Settlement Number in Settlement Shares pursuant to clause (b) of this Section 3.01 shall not be valid, and settlement in cash shall apply, if the representations and warranties made by the Purchaser to the Seller in Section 5.01 are not true and correct in all material respects as of the date the Purchaser makes such election.
+(ii) Notwithstanding any election by the Purchaser to make payment of the absolute value of the Settlement Number in Settlement Shares, at any time prior to the time the Seller (or any affiliate of the Seller) has contracted to resell all or any portion of such Settlement Shares, the Purchaser may elect to deliver in lieu of such Settlement Shares an amount in cash equal to the absolute value of the Settlement Number with respect to any Settlement Shares not yet contracted to be sold, in which case the provisions of Section 3.01(d) shall apply with respect to such amount; that any such election by the Purchaser
+provided
+ 
+pursuant to this clause (ii) shall not be valid and settlement in Settlement Shares shall continue to apply if the representations and warranties made by the Purchaser to the Seller in Section 5.01(a) are not true and correct in all material respects as of the date the Purchaser makes such election.
+(iii) If the Purchaser elects to make payment of the absolute value of the Settlement Number (A) in Private Placement Shares and fails to comply with the requirements set forth in Section 3.01(e) or Annex A hereto or takes any action that would make unavailable either (1) the exemption set forth in Section 4(2) of the Securities Act for the sale of any Private Placement Shares by the Purchaser to the Seller or (2) an exemption from the registration requirements of the Securities Act reasonably acceptable to the Seller for resales of Private Placement Shares by the Seller, or (B) in Registered Shares and fails to comply with the requirements set forth in Section 3.01(f) or Annex B hereto; then in the case of either (A) or (B), the Purchaser shall deliver in lieu of any Private Placement Shares or Registered Shares an amount in cash equal to the absolute value of the Settlement Number with respect to any Settlement Shares not yet sold, in which case the provisions of Section 3.01(d) shall apply with respect to such amount.
+(d) (i) If the Purchaser elects to pay the absolute value of the Settlement Number in cash, if settlement in cash is otherwise applicable in accordance with this Section 3.01, or if the Purchaser elects to make payment of the absolute value of the Settlement Number in Private Placement Shares pursuant to Section 3.01(e), then the Calculation Agent shall determine an amount in cash equal to the Cash Settlement Amount.
+(ii) If cash settlement is applicable, payment of the Cash Settlement Amount shall be made by wire transfer of immediately available U.S. dollar funds on the first Business Day immediately following the date of notification by the Seller to the Purchaser of the Cash Settlement Amount or such later Business Day as determined by the Seller in its sole discretion.
+(e) If the Purchaser elects to make payment of the absolute value of the Settlement Number in Private Placement Shares, then on the Settlement Date, the Purchaser shall deliver to the Seller a number of Settlement Shares equal to (A) the Cash Settlement Amount (B) the Private Placement Price (determined by the Calculation Agent in accordance with the Private Placement Procedures contained in Annex A hereto).
+divided by
+(f) If the Purchaser elects to make payment of the absolute value of the Settlement Number in Registered Shares, then the Purchaser shall deliver to the Seller a number of Settlement Shares equal to (A) the absolute value of the Settlement Number (B) an additional number of Settlement Shares to take into account the Registered Shares Fee on the absolute value of the Settlement Number. Such Settlement Shares shall be delivered in such numbers and on such dates on or following the Valuation Completion Date as are specified by the Seller in accordance with the Registration Procedures contained in Annex B hereto.
+plus
+Section 3.02. . If the Purchaser elects to deliver Private Placement Shares pursuant to Section 3.01(b) or elects to deliver Alternative Termination Delivery Units pursuant to Section 7.02(a), the Private Placement Procedures contained in Annex A hereto shall apply, and if the Purchaser elects to deliver Registered Shares pursuant to Section 3.01(b), the Registration Procedures contained in Annex B hereto shall apply.
+Private Placement Procedures and Registration Procedures
+Section 3.03. . (a) If at any time, as a result of provisions limiting deliveries of shares of Common Stock to the Purchaser Share Cap, the Purchaser is not required to deliver to the Seller any shares of Common Stock, the Purchaser shall, to the extent that the Purchaser has at such time authorized but unissued shares of Common Stock not reserved for other purposes, promptly notify the Seller thereof and deliver to the Seller a number of shares of Common Stock not previously delivered as a result of such provisions.
+Continuing Obligation to Deliver Shares
+(b) The Purchaser agrees to use its best efforts to cause the number of authorized but unissued shares of Common Stock to be increased, if necessary, to an amount sufficient to permit the Purchaser to fulfill its obligations under this Section 3.03.
+ 
+Section 4.01. . (a) The parties agree and acknowledge that:
+Transactions by the Seller
+(i) During any Cash Settlement Purchase Period and any Seller Termination Share Purchase Period, the Seller (or its agent or affiliate) may purchase shares of Common Stock in connection with this Confirmation. The timing of such purchases by the Seller, the price paid per share of Common Stock pursuant to such purchases and the manner in which such purchases are made, including without limitation whether such purchases are made on any securities exchange or privately, shall be within the sole judgment of the Seller; that the Seller shall use commercially reasonable efforts to make all purchases of Common Stock in a manner that would comply with the limitations set forth in clauses (b)(2), (b)(3), (b)(4) and (c) of Rule 10b-18 (but without regard to clause (a)(13)(iv) of Rule 10b-18) as if such rule were applicable to such purchases.
+provided
+(ii) During the Valuation Period, the Seller (or its agent or affiliate) may effect transactions in shares of Common Stock in connection with this Confirmation. The timing of such transactions by the Seller, the price paid or received per share of Common Stock pursuant to such transactions and the manner in which such transactions are made, including without limitation whether such transactions are made on any securities exchange or privately, shall be within the sole judgment of the Seller; that the Seller shall use commercially reasonable efforts to make all such transactions that are purchases of shares of Common Stock in a manner that would comply with the limitations set forth in clauses (b)(2), (b)(3), (b)(4) and (c) of Rule 10b-18 (but without regard to clause (a)(13)(iv) of Rule 10b-18) as if such rule were applicable to such purchases.
+provided
+(iii) The Purchaser shall, at least one day prior to the first day of the Valuation Period, any Cash Settlement Purchase Period and any Seller Termination Share Purchase Period, notify the Seller of the total number of shares of Common Stock, if any, purchased in Rule 10b-18 purchases of blocks pursuant to the once-a-week block exception set forth in Rule 10b-18(b)(4) by or for the Purchaser or any of its Affiliated Purchasers during each of the four calendar weeks preceding such day and during the calendar week in which such day occurs ("" and "" each being used as defined in Rule 10b-18), which notice shall be substantially in the form set forth as Exhibit A hereto.
+Rule 10b-18 purchase
+blocks
+(b) The Purchaser acknowledges and agrees that (i) all transactions effected pursuant to Section 4.01 hereunder shall be made in the Seller's sole judgment and for the Seller's own account and (ii) the Purchaser does not have, and shall not attempt to exercise, any influence over how, when or whether to effect such transactions, including, without limitation, the price paid or received per share of Common Stock pursuant to such transactions whether such transactions are made on any securities exchange or privately. It is the intent of the Seller and the Purchaser that this Transaction comply with the requirements of Rule 10b5-1(c) of the Exchange Act and that this Confirmation shall be interpreted to comply with the requirements of Rule 10b5-1(c)(1)(i)(B) and the Seller shall take no action that results in the Transaction not so complying with such requirements.
+(c) Notwithstanding anything to the contrary in this Confirmation, the Purchaser acknowledges and agrees that, on any day, the Seller shall not be obligated to deliver or receive any shares of Common Stock to or from the Purchaser and the Purchaser shall not be entitled to receive any shares of Common Stock from the Seller on such day, to the extent (but only to the extent) that after such transactions the Seller's ultimate parent entity would directly or indirectly beneficially own (as such term is defined for purposes of Section 13(d) of the Exchange Act) at any time on such day in excess of 8.5% of the outstanding shares of Common Stock. Any purported receipt or delivery of shares of Common Stock shall be void and have no effect to the extent (but only to the extent) that after any receipt or delivery of such shares of Common Stock the Seller's ultimate parent entity would directly or indirectly so beneficially own in excess of 8.5% of the outstanding shares of Common Stock. If, on any day, any delivery or receipt of shares of Common Stock by the Seller is not effected, in whole or in part, as a result of this provision, the Seller's and Purchaser's respective obligations to make or accept such receipt or delivery shall not be
+ 
+extinguished and such receipt or delivery shall be effected over time as promptly as the Seller determines, in the reasonable determination of the Seller, that after such receipt or delivery its ultimate parent entity would not directly or indirectly beneficially own in excess of 8.5% of the outstanding shares of Common Stock.
+Section 4.02. . (a) Notwithstanding anything to the contrary in Section 4.01(a), if, based on the advice of counsel, the Seller reasonably determines that on any Scheduled Trading Day, the Seller's trading activity in order to manage its economic hedge in respect of the Transaction would not be advisable in respect of applicable securities laws, then the Seller may suspend such trading activity on such day (such day, a ""). If a Disrupted Day occurs and the Seller does not elect to treat such Disrupted Day as a Trading Day pursuant to clause (y) of the definition of Trading Day, the Seller may extend the Expiration Date, modify the Valuation Period or otherwise adjust the terms of the Transaction in its good faith, commercially reasonable discretion to ensure the Seller's compliance with such laws and to preserve the fair value of the Transaction to the Seller. The Seller shall notify the Purchaser of the exercise of the Seller's rights pursuant to this Section 4.02(a) upon such exercise and, upon request, shall provide the Purchaser with a schedule setting forth in reasonable detail the basis of any adjustment made to the Transaction pursuant to this Section 4.02(a) (it being understood that the Seller shall not be obligated to disclose any proprietary models used by it for purposes of determining such adjustment).
+Adjustment of Transaction for Securities Laws
+Disrupted Day
+(b) The Purchaser agrees that, during the Contract Period, neither the Purchaser nor any of its affiliates or agents shall make any distribution (as defined in Regulation M) of Common Stock, or any security for which the Common Stock is a reference security (as defined in Regulation M) unless it shall have provided written notice to the Seller of such distribution (a "") not later than one Scheduled Trading Day prior to the beginning of the related restricted period (as defined in Regulation M). If the Purchaser provides a Distribution Notice to the Seller, the Purchaser shall provide a written notice to the Seller of the conclusion of the related restricted period (as defined in Regulation M) not later than one Scheduled Trading Day following the last day of such restricted period; that if no such notice is received by the Seller within 20 Scheduled Trading Days of the first day of such restricted period, an Additional Termination Event shall occur on such Scheduled Trading Day in respect of which the Purchaser is the sole Affected Party and this Transaction is the sole Affected Transaction. The Purchaser acknowledges that such notice may cause a Disrupted Day to occur pursuant to Section 4.02(a); accordingly, the Purchaser acknowledges that such notice must comply with the standards set forth in Section 5.01(b) below.
+Distribution Notice
+provided
+Section 4.03. . Without the prior written consent of the Seller, the Purchaser shall not, and shall cause its affiliates and affiliated purchasers (each as defined in Rule 10b-18) not to, directly or indirectly (including, without limitation, by means of a derivative instrument) purchase, offer to purchase, place any bid or limit order that would effect a purchase of, or commence any tender offer relating to, any shares of Common Stock (or equivalent interest, including a unit of beneficial interest in a trust or limited partnership or a depository share) or any security convertible into or exchangeable for shares of Common Stock during the Contract Period.
+Purchases of Common Stock by the Purchaser
+Section 5.01. . The Purchaser represents and warrants to, and agrees with, the Seller, on the date hereof and on any date pursuant to which the Purchaser makes an election to deliver Settlement Shares pursuant to Section 3.01, to pay cash in lieu of Settlement Shares pursuant to Section 3.01(c)(ii) or to receive or deliver Alternative Termination Delivery Units pursuant to Section 7.03, that:
+Repeated Representations, Warranties and Agreements of the Purchaser
+(a) The reports and other documents filed by the Purchaser with the SEC pursuant to the Exchange Act since January 1, 2011 when considered as a whole (with the more recent such reports and documents deemed to amend inconsistent statements contained in any earlier such reports and
+Disclosure; Compliance with Laws.
+ 
+documents), do not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading. The Purchaser is not in possession of any material nonpublic information regarding the Purchaser or the Common Stock.
+(b) The Purchaser acknowledges that (i) the Purchaser does not have, and shall not attempt to exercise, any influence over how, when or whether to effect purchases of Common Stock by the Seller (or its agent or affiliate) in connection with this Confirmation and (ii) the Purchaser is entering into the Agreement and this Confirmation in good faith and not as part of a plan or scheme to evade compliance with federal securities laws including, without limitation, Rule 10b-5 promulgated under the Exchange Act. The Purchaser also acknowledges and agrees that any amendment, modification, waiver or termination of this Confirmation must be effected in accordance with the requirements for the amendment or termination of a "plan" as defined in Rule 10b5-1(c) under the Exchange Act. Without limiting the generality of the foregoing, any such amendment, modification, waiver or termination shall be made in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b-5 under the Exchange Act, and no amendment, modification or waiver shall be made at any time at which the Purchaser is aware of any material nonpublic information regarding the Purchaser or the Common Stock.
+Rule 10b5-1.
+(c) Any shares of Common Stock or Alternative Termination Delivery Units delivered to the Seller pursuant to this Confirmation, when delivered, shall have been duly authorized and shall be duly and validly issued, fully paid and nonassessable and free of preemptive or similar rights, and such delivery shall pass title thereto free and clear of any liens or encumbrances.
+Nature of Shares Delivered.
+(d) The Purchaser is not entering into this Confirmation to create actual or apparent trading activity in the Common Stock (or any security convertible into or exchangeable for Common Stock) or to manipulate the price of the Common Stock (or any security convertible into or exchangeable for Common Stock).
+No Manipulation.
+(e) The Purchaser is not engaged in, and is not currently contemplating engaging in, a distribution, as such term is used in Regulation M, that would preclude purchases by the Purchaser or the Seller of the Common Stock.
+Regulation M.
+(f) The Purchaser is entering into this Transaction in connection with its share repurchase program, which was approved by its board of directors and publicly disclosed.
+Board Authorization.
+(g) The Purchaser is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware. This Confirmation has been duly authorized, executed and delivered by the Purchaser and (assuming due authorization, execution and delivery thereof by the Seller) constitutes a valid and legally binding obligation of the Purchaser. The Purchaser has all corporate power to enter into this Confirmation and to consummate the transactions contemplated hereby and to purchase the Common Stock and deliver any Settlement Shares in accordance with the terms hereof.
+Due Authorization and Good Standing.
+(h) There has not been any public announcement (as defined in Rule 165(f) under the Securities Act) of any merger, acquisition, or similar transaction involving a recapitalization relating to the Purchaser that would fall within the scope of Rule 10b-18(a)(13)(iv), where such announcement was within the Purchaser's control and where such transaction has not been completed or the vote by target shareholders has not been completed.
+Certain Transactions.
+Section 5.02. . The Purchaser represents and warrants to, and agrees with the Seller, as of the date hereof, that:
+Initial Representations, Warranties and Agreements of the Purchaser
+(a) The assets of the Purchaser at their fair valuation exceed the liabilities of the Purchaser, including contingent liabilities; the capital of the Purchaser is adequate to conduct the business of the Purchaser and the Purchaser has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature.
+Solvency.
+ 
+(b) [Reserved.]
+(c) The execution and delivery by the Purchaser of, and the performance by the Purchaser of its obligations under, this Confirmation and the consummation of the transactions herein contemplated do not conflict with or violate (i) any provision of the certificate of incorporation, by-laws or other constitutive documents of the Purchaser, (ii) any statute or order, rule, regulation or judgment of any court or governmental agency or body having jurisdiction over the Purchaser or any of its subsidiaries or any of their respective assets or (iii) any contractual restriction binding on or affecting the Purchaser or any of its subsidiaries or any of its assets.
+No Conflict.
+(d) All governmental and other consents that are required to have been obtained by the Purchaser with respect to performance, execution and delivery of this Confirmation have been obtained and are in full force and effect and all conditions of any such consents have been complied with.
+Consents.
+(e) The Purchaser is not and, after giving effect to the transactions contemplated in this Confirmation, will not be required to register as an "investment company" as such term is defined in the Investment Company Act of 1940, as amended.
+Investment Company Act.
+(f) The Purchaser is an "eligible contract participant", as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended.
+Commodity Exchange Act.
+Section 5.03. . The Purchaser and the Seller represent and warrant to, and agree with, each other that:
+Additional Representations, Warranties and Agreements
+(a) Each party agrees and acknowledges that (i) J.P. Morgan Securities LLC, an affiliate of the Seller (""), has acted solely as agent and not as principal with respect to this Transaction and (ii) JPMS has no obligation or liability, by way of guaranty, endorsement or otherwise, in any manner in respect of this Transaction (including, if applicable, in respect of the settlement thereof). Each party agrees it will look solely to the other party (or any guarantor in respect thereof) for performance of such other party's obligations under this Transaction. The Seller represents that JPMS is authorized to act as agent for the Seller.
+Agency.
+JPMS
+(b) Each party has entered into this Transaction solely in reliance on its own judgment. Neither party has any fiduciary obligation to the other party relating to this Transaction. In addition, neither party has held itself out as advising, or has held out any of its employees or agents as having the authority to advise, the other party as to whether or not the other party should enter into this Transaction, any subsequent actions relating to this Transaction or any other matters relating to this Transaction. Neither party shall have any responsibility or liability whatsoever in respect of any advice of this nature given, or views expressed, by it or any such persons to the other party relating to this Transaction, whether or not such advice is given or such views are expressed at the request of the other party. The parties have conducted their own analyses of the legal, accounting, tax and other implications of this Transaction and consulted such advisors, accountants and counsel as they have deemed necessary.
+Non-Reliance.
+Section 5.04. . The Seller represents and warrants to the Purchaser that:
+Representations and Warranties of the Seller
+(a) This Confirmation has been duly authorized, executed and delivered by the Seller and (assuming due authorization, execution and delivery thereof by the Purchaser) constitutes a valid and legally binding obligation of the Seller. The Seller has all corporate power to enter into this Confirmation and to consummate the transactions contemplated hereby and to deliver the Common Stock in accordance with the terms hereof.
+Due Authorization.
+(b) The Seller will, at the Initial Settlement Date and on any other day on which it is required to deliver shares of Common Stock to the Purchaser hereunder, have the free and unqualified right to transfer the Number of Shares of Common Stock to be delivered by the Seller pursuant to Sections 2.01, 2.02 and 3.01 hereof, free and clear of any security interest, mortgage, pledge, lien, charge, claim, equity or encumbrance of any kind.
+Right to Transfer.
+ 
+(c) The Seller is an "eligible contract participant", as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended.
+Commodity Exchange Act.
+(d) The execution and delivery by Seller of, and the performance by Seller of its obligations under, this Confirmation and the consummation of the transactions herein contemplated do not conflict with or violate (i) any provision of the certificate of incorporation, by-laws or other constitutive documents of Seller, (ii) any statute or order, rule, regulation or judgment of any court or governmental agency or body having jurisdiction over Seller or any of its subsidiaries or any of their respective assets or (iii) any contractual restriction binding on or affecting Seller or any of its subsidiaries or any of its assets.
+No Conflict.
+Section 6.01.
+[Reserved.]
+Section 6.02. . The Purchaser hereby agrees with the Seller that the Purchaser shall not, during the Contract Period, enter into or alter any corresponding or hedging transaction or position with respect to the Common Stock (including, without limitation, with respect to any securities convertible or exchangeable into the Common Stock).
+Purchaser's Hedging Transactions
+Section 6.03. . The Purchaser hereby agrees with the Seller that the Purchaser shall not, directly or indirectly, communicate any information relating to the Common Stock or this Transaction (including any notices required by Section 6.05) to any employee of the Seller or J.P. Morgan Securities LLC, other than as set forth in the Communications Procedures attached as Annex C hereto.
+No Communications
+Section 6.04. . (a) Notwithstanding any other provision of this Confirmation, the Purchaser shall not be required to deliver Settlement Shares, or shares of Common Stock or other securities comprising the aggregate Alternative Termination Delivery Units, in excess of the Purchaser Share Cap, in each case except to the extent that the Purchaser has available at such time authorized but unissued shares of such Common Stock or other securities not expressly reserved for any other uses (including, without limitation, shares of Common Stock reserved for issuance upon the exercise of options or convertible debt). The Purchaser shall not permit the sum of (i) the Purchaser Share Cap plus (ii) the aggregate number of shares expressly reserved for any such other uses, in each case whether expressed as caps or as numbers of shares reserved or otherwise, to exceed at any time the number of authorized but unissued shares of Common Stock.
+Maximum Deliverable Number of Shares of Common Stock
+(b) Notwithstanding any other provision of this Confirmation, the Seller shall not be required to deliver Settlement Shares, or shares of Common Stock or other securities comprising the aggregate Alternative Termination Delivery Units, in excess of the Seller Share Cap.
+Section 6.05. . If at any time during the Contract Period, the Purchaser makes, or expects to be made, or has made, any public announcement (as defined in Rule 165(f) under the Securities Act) of any merger, acquisition, or similar transaction involving a recapitalization relating to the Purchaser (other than any such transaction in which the consideration consists solely of cash and there is no valuation period, or as to which the completion of such transaction or the completion of the vote by target shareholders has occurred), then the Purchaser shall (i) notify the Seller prior to the opening of trading in the Common Stock on any day on which the Purchaser makes, or expects to be made, or has made any such public announcement, (ii) notify the Seller promptly following any such announcement (or, if later, prior to the opening of trading in the Common Stock on the first day of any Seller Termination Share Payment Period) that such announcement has been made and (iii) promptly deliver to the Seller following the making of any such announcement (or, if later, prior to the opening of trading in the
+Notice of Certain Transactions
+ 
+Common Stock on the first day of any Seller Termination Share Payment Period) a certificate indicating (A) the Purchaser's average daily Rule 10b-18 purchases (as defined in Rule 10b-18) during the three full calendar months preceding the date of such announcement and (B) the Purchaser's block purchases (as defined in Rule 10b-18) effected pursuant to paragraph (b)(4) of Rule 10b-18 during the three full calendar months preceding the date of such announcement. In addition, the Purchaser shall promptly notify the Seller of the earlier to occur of the completion of such transaction and the completion of the vote by target shareholders. Accordingly, the Purchaser acknowledges that its actions in relation to any such announcement or transaction must comply with the standards set forth in Section 6.03.
+Section 6.06. . For the avoidance of doubt, other than payment of the Purchase Price by the Purchaser, nothing in this Confirmation shall be interpreted as requiring the Purchaser to cash settle this Transaction, except in circumstances where cash settlement is within the Purchaser's control (including, without limitation, where the Purchaser elects to deliver or receive cash, where the Purchaser fails timely to elect to deliver Settlement Shares or to deliver or receive Alternative Termination Delivery Units, or where the Purchaser has made Private Placement settlement in accordance with Annex A unavailable due to the occurrence of events within its control ) or in those circumstances in which holders of the Common Stock would also receive cash.
+Delivery or Receipt of Cash
+Section 7.01. . (a) An Additional Termination Event shall occur in respect of which the Purchaser is the sole Affected Party and this Transaction is the sole Affected Transaction if, on any day, the Seller determines, in its commercially reasonable judgment, that it is unable, after using commercially reasonable efforts, to establish, re-establish or maintain any hedging transactions reasonably necessary in the normal course of such party's business to hedge the price and market risk of entering into and performing its obligations under this Transaction, due to market illiquidity, illegality or lack of availability of hedging transaction market participants.
+Additional Termination Events
+(b) An Additional Termination Event shall occur in respect of which the Purchaser is the sole Affected Party and this Transaction is the sole Affected Transaction if (i) a Share De-listing Event occurs; (ii) a Merger Event occurs; (iii) a Nationalization occurs, (iv) a Distribution Termination Event occurs or (v) an event described in the last sentence of paragraph III of Annex C occurs.
+(c) A "" means that at any time during the Contract Period, the Common Stock ceases to be listed, traded or publicly quoted on the Exchange for any reason (other than a Merger Event, a "") and is not immediately re-listed, traded or quoted as of the date of such de-listing, on another U.S. national securities exchange or a U.S. automated interdealer quotation system (a ""). If the Common Stock is immediately re-listed, traded or quoted on a Successor Exchange upon its De-Listing from the Exchange, then the Successor Exchange shall be deemed to be the Exchange for all purposes.
+Share De-listing Event
+De-Listing
+Successor Exchange
+(d) A "" means the public announcement, including any public announcement as defined in Rule 165(f) of the Securities Act (by the Purchaser or otherwise) at any time during the Contract Period of any (i) planned recapitalization, reclassification or change of the Common Stock that will, if consummated, result in a transfer of more than 20% of the outstanding shares of Common Stock, (ii) planned consolidation, amalgamation, merger or similar transaction of the Purchaser with or into another entity (other than a consolidation, amalgamation or merger in which the Purchaser will be the continuing entity and which does not result in any such recapitalization, reclassification or change of more than 20% of such shares outstanding), (iii) other takeover offer for the shares of Common Stock that is aimed at resulting in a transfer of more than 20% of such shares of Common Stock (other than such shares owned or controlled by the offeror) or (iv) irrevocable commitment to any of the foregoing.
+Merger Event
+ 
+(e) A "" means that all or substantially all of the outstanding shares of Common Stock or assets of the Purchaser are nationalized, expropriated or are otherwise required to be transferred to any governmental agency, authority or entity.
+Nationalization
+(f) A "" means a declaration by the Purchaser of any cash dividend or distribution on shares of Common Stock (a ""), that has a record date during the Contract Period, the amount of which, together with all prior declared Cash Distributions that have a record date during the same Reference Period of the Purchaser, exceeds the Cash Distribution Amount specified in the Pricing Supplement for such Reference Period.
+Distribution Termination Event
+Cash Distribution
+Section 7.02. . (a) In the event of the occurrence or effective designation of an Early Termination Date under the Agreement, cash settlement, as set forth in Section 7.02(b), shall apply unless (i) the Purchaser elects (which election shall be binding), in lieu of payment or receipt, as applicable, of the amount payable in respect of this Transaction pursuant to Section 6(d)(ii) of the Agreement (the ""), to deliver or to receive Alternative Termination Delivery Units pursuant to Section 7.03, and (ii) notifies the Seller of such election by delivery of written notice to the Seller on the Business Day immediately following the Purchaser's receipt of a notice (as required by Section 6(d) of the Agreement following the designation of an Early Termination Date in respect of this Transaction) setting forth the amounts payable by the Purchaser or by the Seller with respect to such Early Termination Date (the date of such delivery, the ""); that the Purchaser shall not have the right to elect the delivery or receipt of the Alternative Termination Delivery Units pursuant to Section 7.03 if:
+Consequences of Additional Termination Events
+Termination Amount
+Default Notice Day
+provided
+(i) the representations and warranties made by the Purchaser to the Seller in Section 5.01 are not true and correct as of the date the Purchaser makes such election, as if made on such date, or
+(ii) in the event that the Termination Amount is payable by the Purchaser to the Seller, (A) the Purchaser has taken any action that would make unavailable (x) the exemption set forth in Section 4(2) of the Securities Act, for the sale of any Alternative Termination Delivery Units by the Purchaser to the Seller or (y) an exemption from the registration requirements of the Securities Act reasonably acceptable to the Seller for resales of Alternative Termination Delivery Units by the Seller, and (B) such Early Termination Date is in respect of an Event of Default which is within Purchaser's control (including, without limitation, failure to execute a Private Placement Agreement or otherwise comply with the requirements applicable to Purchaser set forth in Annex A hereto).
+For the avoidance of doubt, upon the Purchaser's making an election to deliver Alternative Termination Delivery Units pursuant to this Section 7.02(a), the Purchaser shall be deemed to make the representations and warranties in Section 5.01 hereof as if made on the date of the Purchaser's election. Notwithstanding the foregoing, at any time prior to the time the Seller (or any affiliate of the Seller) has contracted to resell the property to be delivered upon alternative termination settlement, the Purchaser may deliver in lieu of such property an amount in cash equal to the Termination Amount in the manner set forth in Section 6(d) of the Agreement.
+(b) If cash settlement applies in respect of an Early Termination Date, Section 6 of the Agreement shall apply.
+Section 7.03. . (a) Subject to Section 7.02(a), if the Termination Amount shall be payable by the Purchaser to the Seller and the Purchaser elects to deliver the Alternative Termination Delivery Units to the Seller, the Purchaser shall, as soon as directed by the Seller after the Default Notice Day (such date, the ""), deliver to the Seller a number of Alternative Termination Delivery Units equal to the quotient of (A) the Termination Amount (B) the Termination Price.
+Alternative Termination Settlement
+Termination Settlement Date
+divided by
+(b) Subject to Section 7.02(a), if the Termination Amount shall be payable by the Seller to the Purchaser and the Purchaser elects to receive the Alternative Termination Delivery Units from the Seller, (i) the
+ 
+Seller shall, beginning on the first Trading Day following the Default Notice Day and ending when the Seller shall have satisfied its obligations under this clause (the ""), purchase (subject to the provisions of Section 4.01 and Section 4.02 hereof) a number of Alternative Termination Delivery Units equal to the quotient of (A) the Termination Amount (B) the Termination Price; and (ii) the Seller shall deliver such Alternative Termination Delivery Units to the Purchaser on the settlement dates relating to such purchases.
+Seller Termination Share Purchase Period
+divided by
+Section 7.04. . If an Event of Default occurs in respect of a party, such party will, promptly upon becoming aware of it, notify the other party specifying the nature of such Event of Default.
+Notice of Default
+Section 8.01.
+[Reserved.]
+Section 8.02. . If (x) any corporate event occurs as a direct result of an action by the Purchaser having a dilutive or concentrative effect on the theoretical value of the Common Stock (other than any cash dividend but including, without limitation, a spin-off, a stock split, stock or other dividend or distribution, reorganization, rights offering or recapitalization), or (y) as a result of the definition of Trading Day (whether because of a suspension of transactions pursuant to Section 4.02 or otherwise), any day that would otherwise be a Trading Day during the Contract Period is not a Trading Day or on such Trading Day, pursuant to Section 4.02, the Seller effects transactions with respect to shares of Common Stock at a volume lower than originally anticipated with respect to this Transaction, or (z) as a result of market conditions, the Seller incurs additional costs in connection with maintaining its hedge position with respect to this Transaction resulting from the insufficient availability of stock lenders willing and able to lend shares of Common Stock with a borrow cost not greater than 50 basis points per annum, then in any such case, the Calculation Agent shall make corresponding, commercially reasonable adjustments with respect to any variable relevant to the terms of the Transaction (but without duplication of any adjustment made with respect thereto pursuant to Section 4.02), as the Calculation Agent determines, in its commercially reasonable judgment, appropriate to preserve the fair value of the Transaction to the Seller, and shall determine, in its commercially reasonable judgment, the effective date of such adjustment. The Seller shall notify the Purchaser of the exercise of the Seller's rights pursuant to this Section 8.02 upon such exercise and, upon request, shall provide the Purchaser with a schedule setting forth in reasonable detail the basis of any adjustment made to the Transaction pursuant to this Section 8.02 (it being understood that the Seller shall not be obligated to disclose any proprietary models used by it for purposes of determining such adjustment).
+Other Dilution Adjustments
+Section 9.01. . All covenants and agreements in this Confirmation made by or on behalf of either of the parties hereto shall bind and inure to the benefit of the respective successors and assigns of the parties hereto whether so expressed or not.
+Successors and Assigns
+Section 9.02. . The Purchaser (the "") agrees to indemnify and hold harmless the Seller and its officers, directors, employees, affiliates, advisors, agents and controlling persons (each, an "") from and against any and all losses, claims, damages and liabilities, joint or several (collectively, ""), to which an Indemnified Person may become subject arising directly out of or directly in connection with any breach of any representation or warranty made or repeated or deemed to have been made or repeated by the Purchaser in this Confirmation or the Agreement, or any failure by the Purchaser to comply with or perform any agreement or obligation to be complied with or performed by the Purchaser pursuant to this Confirmation or the Agreement, or any claim, litigation, investigation or proceeding relating thereto, regardless
+Purchaser Indemnification
+Indemnifying Party
+Indemnified Person
+Obligations
+ 
+of whether any of such Indemnified Person is a party thereto, and to reimburse, within 30 days, following Purchaser's receipt of a written request therefor, each such Indemnified Person for any reasonable legal or other expenses incurred in connection with investigating, preparation for, providing evidence for or defending any of the foregoing, provided, however, that the Indemnifying Party shall not have any liability to any Indemnified Person to the extent that such Obligations (i) are finally determined by a court of competent jurisdiction to have resulted from the gross negligence, bad faith or willful misconduct of such Indemnified Person (and in such case, such Indemnified Person shall promptly return to the Indemnifying Party any amounts previously expended by the Indemnifying Party hereunder) or (ii) are trading losses incurred by the Seller as part of its purchases or sales of shares of Common Stock pursuant to this Confirmation (unless, and to the extent that, the losses are directly related to a breach by the Purchaser of an agreement, term or covenant herein).
+Section 9.03Notwithstanding any other provision in this Confirmation to the contrary requiring or allowing Seller to purchase, sell, receive or deliver any shares of Common Stock or other securities to or from the Purchaser, Seller may designate any of its affiliates to purchase, sell, receive or deliver such shares of Common Stock or other securities and otherwise to perform the Seller's obligations in respect of this Transaction and any such designee may assume such obligations; that the Seller shall be discharged of its obligations to the Purchaser only to the extent of such performance. The Seller may assign the right to receive Settlement Shares to any third party who may legally receive Settlement Shares. For the avoidance of doubt, Seller hereby acknowledges that notwithstanding any such designation hereunder, to the extent any of Seller's obligations in respect of this Transaction are not completed by its designee, Seller shall be obligated to continue to perform or to cause any other of its designees to perform in respect of such obligations.
+. Assignment and Transfer.
+provided
+Section 9.04Whenever the Calculation Agent is permitted or required to act or to exercise judgment in any way with respect to this Transaction, it will do so in good faith and in a commercially reasonable manner.
+. Calculation Agent.
+Section 9.05The Seller and the Purchaser hereby acknowledge and agree that, subject to Section 6.03, each is authorized to disclose every aspect of this Confirmation and the transactions contemplated hereby to any and all persons, without limitation of any kind, and there are no express or implied agreements, arrangements or understandings to the contrary.
+. Non-confidentiality.
+Section 9.06To the extent permitted by law, the unenforceability or invalidity of any provision or provisions of this Confirmation shall not render any other provision or provisions herein contained unenforceable or invalid.
+. Unenforceability and Invalidity.
+Section 9.07The parties hereto agree and acknowledge as of the date hereof that (i) the Seller is a "financial institution" within the meaning of Section 101(22) of Title 11 of the United States Code (the "") and (ii) this Confirmation is a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code, entitled to the protection of Sections 362(b)(6) and 555 of the Bankruptcy Code.
+. Securities Contract.
+Bankruptcy Code
+Section 9.08Notwithstanding any provision of the Agreement, or any other agreement between the parties, to the contrary, the obligations of the Purchaser hereunder are not secured by any collateral. Obligations under this Transaction shall not be netted, recouped or set off (including pursuant to Section 6 of the Agreement) against any other obligations of the parties, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise, and no other obligations of the parties shall be netted, recouped or set off (including pursuant to Section 6 of the Agreement) against obligations under this Transaction, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise, and each party hereby waives any such right of setoff, netting or recoupment.
+. No Collateral, Netting or Setoff.
+Section 9.09Unless otherwise specified herein, any notice, the delivery of which is expressly provided for in this Confirmation, may be made by telephone, to be confirmed in writing to the address below. Changes to the information below must be made in writing.
+. Notices.
+ 
+R.R. Donnelley & Sons Company
+111 S. Wacker Drive
+Chicago, IL 60606
+Attention: Daniel N. Leib
+Title: Chief Financial Officer
+Telephone No.: 312-326-7710
+Facsimile No.: 312-326-7748
+With copies to:
+Suzanne S. Bettman
+General Counsel
+R. R. Donnelley & Sons Company
+111 S. Wacker Drive
+Chicago, IL 60606
+Telephone No: 312-326-8233
+Facsimile No: 312-326-8594
+Yossi Vebman
+Partner
+Skadden, Arps, Slate, Meagher & Flom LLP
+Four Times Square
+New York, NY 10036
+Telephone No: (212) 735-3719
+Facsimile No: (917) 777-3719
+ 
+JPMorgan Chase Bank, National Association
+c/o J.P. Morgan Securities LLC
+EDG Marketing Support
+Email: EDG_OTC_HEDGING_MS@jpmorgan.com
+Fax: 1-866-886-4506
+With a copy to:
+Santosh Sreenivasan
+Managing Director
+383 Madison Avenue, Floor 28
+New York, NY, 10179, United States
+Telephone No: (212) 622-5604
+Facsimile No: (917) 464-2505
+Email: santosh.sreenivasan@jpmorgan.com
+ 
+Please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Confirmation enclosed for that purpose and returning it to us.
+ 
+ 
+ 
+ANNEX A
+I.
+Introduction
+R.R. Donnelley & Sons Company, a Delaware corporation (the "") and J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch (the "") have agreed to these procedures (the "") in connection with entering into the Confirmation (the "") dated as of May 5, 2011 between JPMorgan and the Purchaser relating to the sale by JPMorgan to the Purchaser of common stock, par value $1.25 per share, or security entitlements in respect thereof (the "") of the Purchaser. These Private Placement Procedures supplement, form part of, and are subject to the Confirmation and all terms used and not otherwise defined herein shall have the meanings assigned to them in the Confirmation.
+Purchaser
+Seller
+Private Placement Procedures
+Confirmation
+Common Stock
+II.
+Procedures
+If the Purchaser elects to deliver Private Placement Shares pursuant to Section 3.01(b) of the Confirmation or, in the case of Alternative Termination Delivery Units that constitute "securities" within the meaning of the Securities Act, elects to deliver Alternative Termination Delivery Units pursuant to Section 7.02(a) of the Confirmation, the Purchaser shall effect such delivery in compliance with the private placement procedures provided herein.
+(a) The Purchaser shall afford the Seller, and any potential buyers of the Private Placement Shares (or, in the case of alternative termination settlement where the Alternative Termination Delivery Units constitute "securities" within the meaning of the Securities Act, Alternative Termination Delivery Units) (collectively, the "") designated by the Seller a reasonable opportunity to conduct a due diligence investigation with respect to the Purchaser customary in scope for private offerings of such type of securities (including, without limitation, the availability of senior management to respond to questions regarding the business and financial condition of the Purchaser and the right to have made available to them for inspection all financial and other records, pertinent corporate documents and other information reasonably requested by them), and the Seller (or any such potential buyer) shall be satisfied in all material respects with such opportunity and with the resolution of any disclosure issues arising from such due diligence investigation of the Purchaser.
+Private Securities
+(b) Prior to or contemporaneously with the determination of the Private Placement Price (as described below), the Purchaser shall enter into an agreement (a "") with the Seller (or any affiliate of the Seller designated by the Seller) providing for the purchase and resale by the Seller (or such affiliate) in a private placement (or other transaction exempt from registration under the Securities Act) of the Private Securities, which agreement shall be substantially similar to private placement purchase agreements customary for private placements of equity securities of similar size by similar issuers on commercially reasonable terms and in form and substance reasonably satisfactory to the Seller (or such affiliate) and the Purchaser and (without limitation of the foregoing) shall:
+Private Placement Agreement
+(i) contain customary conditions, and customary undertakings, representations and warranties (to and from the Seller or such affiliate, and if requested by the Seller or such affiliate, to potential purchasers of the Private Securities);
+(ii) contain customary indemnification and contribution provisions in connection with the potential liability of the Seller and its affiliates relating to the resale by the Seller (or such affiliate) of the Private Securities;
+ 
+(iii) provide for the delivery of related certificates and representations, warranties and agreements of the Purchaser, including those necessary or advisable to establish and maintain the availability of an exemption from the registration requirements of the Securities Act for the Seller and resales of the Private Securities by the Seller (or such affiliate); and
+(iv) provide for the delivery to the Seller (or such affiliate) of customary opinions (including, without limitation, opinions relating to the due authorization, valid issuance and fully paid and non-assessable nature of the Private Securities, the availability of an exemption from the Securities Act for the Seller and resales of the Private Securities by the Seller (or such affiliate), and the lack of material misstatements and omissions in the Purchaser's filings under the Exchange Act).
+(c) The Calculation Agent shall determine the Private Placement Price (or, in the case of alternative termination settlement, the Termination Price) in its good faith judgment by commercially reasonable means, which may include (without limitation):
+(i) basing such price on indicative bids from investors;
+(ii) taking into account any factors that are customary in pricing private sales and any and all risks and costs in connection with the resale of the Private Securities by the Seller (or any affiliate of the Seller designated by the Seller), but not including any placement agent's fee, spread, discount, commission or any similar fees or expenses to be retained by the Seller (or such affiliate); and
+(iii) providing for the payment by the Purchaser of all reasonable fees and expenses in connection with such sale and resale, including all reasonable fees and expenses of outside counsel for the Seller or such affiliate (which outside counsel shall be limited to one law firm).
+(d) The Seller shall notify the Purchaser of the number of Private Securities required to be delivered by the Purchaser and the Private Placement Price (or, in the case of alternative termination settlement, the Termination Price) by 6:00 p.m. on the day such price is determined.
+(e) The Purchaser agrees not to take or cause to be taken any action that would make unavailable either (i) the exemption set forth in Section 4(2) of the Securities Act, for the sale of any Private Securities by the Purchaser to the Seller or (ii) an exemption from the registration requirements of the Securities Act reasonably acceptable to the Seller for resales of Private Securities by the Seller.
+(f) The Purchaser expressly agrees and acknowledges that the public disclosure of all material information relating to the Purchaser is within the Purchaser's control and that the Purchaser shall promptly so disclose all such material information during the period from the Valuation Completion Date to and including the Settlement Date.
+ 
+ANNEX B
+I.
+Introduction
+R.R. Donnelley & Sons Company, a Delaware corporation (the "") and J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch (the "") have agreed to these procedures (the "") in connection with entering into the Confirmation (the "") dated as of May 5, 2011 between JPMorgan and the Purchaser relating to the sale by JPMorgan to the Purchaser of common stock, par value $1.25 per share, or security entitlements in respect thereof (the "") of the Counterparty. These Registration Procedures supplement, form part of, and are subject to the Confirmation and all terms used and not otherwise defined herein shall have the meanings assigned to them in the Confirmation.
+Purchaser
+Seller
+Registration Procedures
+Confirmation
+Common Stock
+II.
+Procedures
+If the Purchaser elects to deliver Registered Shares pursuant to Section 3.01(b) of the Confirmation, the Purchaser shall effect such delivery in compliance with the registration procedures provided herein.
+(a) The Purchaser shall take all actions within its control to make available to the Seller and its affiliates an effective primary registration statement under the Securities Act and one or more prospectuses as necessary or advisable to allow the Seller and its affiliates to comply with the applicable prospectus delivery requirements (the "") for the sale by Seller or its affiliates of the Registered Shares to be delivered by the Purchaser pursuant to the Confirmation (the ""), such Registration Statement to be effective and Prospectus to be current until all such sales by the Seller (or its affiliates) have been settled.
+Prospectus
+Registration Statement
+(b) The Purchaser shall use commercially reasonable efforts to prevent the issuance of any stop order suspending the effectiveness of the Registration Statement or of any order preventing or suspending the use of any Prospectus and, if any such order is issued, to obtain the lifting thereof as soon thereafter as is reasonably possible. If the Registration Statement, the Prospectus or any document incorporated therein by reference contains a misstatement of a material fact or omits to state a material fact required to be stated therein or necessary to make any statement therein not misleading, the Purchaser shall as promptly as reasonably practicable file any required document and prepare and furnish to the Seller a reasonable number of copies of such supplement or amendment thereto as may be necessary so that the Prospectus, as thereafter delivered to the purchasers in connection with sales of Registered Shares thereunder, will not contain any misstatement of a material fact or omit to state a material fact required to be stated therein or necessary to make any statement therein not misleading.
+(c) The Purchaser shall afford the Seller (and its agents and affiliates) a reasonable opportunity to conduct a due diligence investigation with respect to the Purchaser customary in scope for registered offerings of such type of securities (including, without limitation, the availability of senior management and external advisors to respond to questions regarding the business and financial condition of the Purchaser and the right to have made available to them for inspection all financial and other records, pertinent corporate documents and other information reasonably requested by them), and such opportunity and the resolution of any disclosure issues arising from such due diligence investigation of the Purchaser shall be satisfactory to Seller in all material respects. The Purchaser shall reimburse the Seller for all reasonable out-of-pocket expenses it incurs in connection with such diligence and otherwise in connection with the preparation of the Registration Statement and Prospectus, including, without limitation, the reasonable fees and expenses of one outside counsel to the Seller incurred in connection therewith.
+(d) The Purchaser shall enter into an agreement (a "") with the Seller (or any affiliate of the Seller designated by the Seller) providing for the registration of the Registered Shares, which agreement shall be on commercially reasonable terms and in form and substance reasonably satisfactory to the Purchaser and the Seller (or such affiliate) and (without limitation of the foregoing) shall:
+Registration Agreement
+(i) contain customary conditions, and customary undertakings, representations and warranties (to the Purchaser and the Seller or such affiliate);
+ 
+(ii) contain customary indemnification and contribution provisions in connection with the potential liability of the Seller and its affiliates relating to the sale by the Seller (or such affiliate) of the Registered Shares;
+(iii) provide for the delivery of related certificates and representations, warranties and agreements of the Purchaser;
+(iv) provide for the delivery of accountants' "comfort letters" to the Seller in form and substance satisfactory to the Seller, containing statements and information of the type customarily included in such letters to "underwriters" with respect to the financial statements and certain financial information contained, or incorporated by reference, in the Registration Statement and the Prospectus; and
+(v) provide for the delivery to the Seller (or such affiliate) of customary opinions, including, without limitation, opinions relating to the due authorization, valid issuance and fully paid and non-assessable nature of the Registered Shares and the lack of material misstatements and omissions in the Registration Statement (including any documents incorporated by reference therein).
+(e) The Seller shall notify the Purchaser of the numbers of Registered Shares to be delivered by the Purchaser on the Settlement Dates, as necessary in light of the Seller's unwinding of its hedge positions in connection with the Transaction and sales of Registered Shares in accordance with these Registration Procedures, and the Purchaser shall deliver such Shares to the Seller on such Settlement Dates. The parties understand and acknowledge that (i) the Seller or its affiliates expect to make contemporaneous or nearly contemporaneous (A) purchases of Common Stock to unwind its hedge and (B) sales of Registered Shares in accordance with these Registration Procedures, (ii) the Seller or its affiliates intend to make such sales of Registered Shares in a manner that is not a distribution for purposes of Regulation M, and (iii) accordingly, the length of the period during which the Seller or its affiliates make such purchases and sales will depend in part on prevailing trading volumes for the Common Stock.
+(f) In the event that (i) the Purchaser fails to comply with the requirements set forth in this Annex B, (ii) the Registration Statement is not effective on or prior to the date that is 30 days after the Valuation Completion Date, or fails to remain effective until all Registered Shares have been sold hereunder, (ii) the opportunity to conduct a due diligence investigation with respect to the Purchaser and the resolution of any issues arising therefrom is not reasonably satisfactory to the Seller (or its designated affiliate) in all material respects, or does not continue to be reasonably satisfactory to the Seller (or such designated affiliate) in all material respects until all Registered Shares have been sold hereunder, (iv) the Seller (or such designated affiliate) is not able to make sales of Registered Shares in a manner that permits the contemporaneous or nearly contemporaneous purchase by the Seller or its affiliates of Common Stock in accordance with Regulation M or (v) the Registration Procedures otherwise become unavailable for the sale by the Seller and its affiliates of the Registered Shares delivered by the Purchaser hereunder prior to the completion of the sale thereof, then in any such event, the provisions of Section 3.01(d) of the Confirmation providing for cash settlement with respect to any unsold Registered Shares shall apply, appropriately modified to take into account any Registered Shares theretofore delivered and sold pursuant to these Registration Procedures.
+ 
+ANNEX C
+I.
+Introduction
+R.R. Donnelley & Sons Company, a Delaware corporation ("") and J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch ("") have adopted these communications procedures (the "") in connection with entering into the Confirmation (the "") dated as of May 5, 2011 between JPMorgan and Counterparty relating to the sale by JPMorgan to Counterparty of common stock, par value $1.25 per share, or security entitlements in respect thereof (the "") of the Counterparty. These Communications Procedures supplement, form part of, and are subject to the Confirmation.
+Counterparty
+JPMorgan
+Communications Procedures
+Confirmation
+Common Stock
+II.
+Communications Rules
+From the date hereof until the end of the Contract Period, Counterparty and its Employees and Designees shall not engage in any Program-Related Communication with, or disclose any Material Non-Public Information to, any EDG Trading Personnel. Except as set forth in the preceding sentence, the Confirmation shall not limit Counterparty and its Employees and Designees in their communication with Affiliates and Employees of JPMorgan, including without limitation Employees who are EDG Permitted Contacts.
+III.
+Termination
+If, in the sole judgment of any EDG Trading Personnel or any affiliate or Employee of JPMorgan participating in any Communication with Counterparty or any Employee or Designee of Counterparty, such Communication would not be permitted by these Communications Procedures, such EDG Trading Personnel or affiliate or Employee of JPMorgan shall immediately terminate such Communication. In such case, or if such EDG Trading Personnel or affiliate or Employee of JPMorgan determines following completion of any Communication with Counterparty or any Employee or Designee of Counterparty that such Communication was not permitted by these Communications Procedures, such EDG Trading Personnel or such affiliate or Employee of JPMorgan shall promptly consult with his or her supervisors and with counsel for JPMorgan regarding such Communication. If, in the reasonable judgment of JPMorgan's counsel following such consultation, there is more than an insignificant risk that such Communication could materially jeopardize the availability of the affirmative defenses provided in Rule 10b5-1 under the Exchange Act with respect to any ongoing or contemplated activities of JPMorgan or its affiliates in respect of the Confirmation, it shall be an Additional Termination Event with respect to the Confirmation.
+IV.
+Definitions
+Capitalized terms used and not otherwise defined herein shall have the meanings ascribed to them in the Confirmation. As used herein, the following words and phrases shall have the following meanings:
+"" means any contact or communication (whether written, electronic, oral or otherwise) between Counterparty or any of its Employees or Designees, on the one hand, and JPMorgan or any of its affiliates or Employees, on the other hand.
+Communication
+"" means a person designated, in writing or orally, by Counterparty to communicate with JPMorgan on behalf of Counterparty.
+Designee
+"" means any of Mr. David Aidelson, Mr. Gregory Batista, Mr. Elliot Chalom, Ms. Karin Ross, Mr. Santosh Sreenivasan , Mr. Steven Seltzer and Mr. Jeffrey J. Zajkowski or any of their designees; that JPMorgan may amend the list of EDG Permitted Contacts by delivering a revised list of EDG Permitted Contacts to Counterparty.
+EDG Permitted Contact
+provided
+ 
+"" means Graham Orton, Michael Tatro and any other Employee of the public side of the Equity Derivatives Group or the Special Equities Group of J.P. Morgan Chase & Co.; that JPMorgan may amend the list of EDG Trading Personnel by delivering a revised list of EDG Trading Personnel to Counterparty; and that, for the avoidance of doubt, the persons listed as EDG Permitted Contacts are not EDG Trading Personnel.
+EDG Trading Personnel
+provided
+provided further
+"" means, with respect to any entity, any owner, principal, officer, director, employee or other agent or representative of such entity, and any affiliate of any of such owner, principal, officer, director, employee, agent or representative.
+Employee
+"" means information relating to the Counterparty or the Common Stock that (a) has not been widely disseminated by wire service, in one or more newspapers of general circulation, by communication from the Counterparty to its shareholders or in a press release, or contained in a public filing made by the Counterparty with the Securities and Exchange Commission and (b) a reasonable investor might consider to be of importance in making an investment decision to buy, sell or hold shares of Common Stock. For the avoidance of doubt and solely by way of illustration, information should be presumed "material" if it relates to such matters as dividend increases or decreases, earnings estimates, changes in previously released earnings estimates, significant expansion or curtailment of operations, a significant increase or decline of orders, significant merger or acquisition proposals or agreements, significant new products or discoveries, extraordinary borrowing, major litigation, liquidity problems, extraordinary management developments, purchase or sale of substantial assets and similar matters.
+Material Non-Public Information
+"" means any Communication the subject matter of which relates to the Confirmation or any Transaction under the Confirmation or any activities of JPMorgan (or any of its affiliates) in respect of the Confirmation or any Transaction under the Confirmation.
+Program-Related Communication
+ 
+ANNEX D
+This Pricing Supplement is subject to the Confirmation dated as of May 5, 2011 (the "") between J.P. Morgan Securities LLC, as agent for JPMorgan Chase Bank, National Association, London Branch (the ""), and R.R. Donnelley & Sons Company, a Delaware corporation (the ""). Capitalized terms used herein have the meanings set forth in the Confirmation.
+Confirmation
+Seller
+Purchaser
+ 
+ 
+ 
+ 
+EXHIBIT A
+JPMorgan Chase Bank, National Association
+c/o J.P. Morgan Securities LLC
+383 Madison Avenue
+5th Floor
+New York, New York 10172
+Re: Accelerated Purchase of Equity Securities
+Ladies and Gentlemen:
+In connection with our entry into the Confirmation dated as of May 5, 2011 (the ""), we hereby represent that set forth below is the total number of shares of our common stock purchased by or for us or any of our affiliated purchasers in Rule 10b-18 purchases of blocks (all defined in Rule 10b-18 under the Securities Exchange Act of 1934) pursuant to the once-a-week block exception set forth in Rule 10b-18(b)(4) during the four full calendar weeks immediately preceding the first day of the [Valuation Period] [Cash Settlement Purchase Period] [Seller Termination Share Purchase Period] (as defined in the Confirmation) and the week during which the first day of the Valuation Period occurs.
+Confirmation
+Number of Shares:
+                    
+We understand that you will use this information in calculating trading volume for purposes of Rule 10b-18.
+ 
+ 
+
+

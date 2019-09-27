@@ -1,0 +1,176 @@
+FILE:TXN/TXN-8K-20031020164606.txt.gz
+EVENTS:		Financial statements and exhibits
+TEXT:
+ITEM: 
+ITEM: Financial statements and exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Registrant's earnings release dated October 20, 2003, regarding its third quarter 2003 results of operations and financial condition attached hereto as Exhibit 99 is incorporated by reference herein.
+ 
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995: The statements contained in this report on Form 8-K are "forward-looking statements" intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+ 
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of the company or its management:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For a more detailed discussion of these and other factors, see the text under the heading "Cautionary Statements Regarding Future Results of Operations" in Item 1 of TI's most recent Form 10-K. The forward-looking statements included in this Form 8-K are made only as of the date of this Form 8-K and TI undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99
+ 
+News Release
+C-03054
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: All results are reported in accordance with U.S. GAAP.
+ 
+DALLAS (October 20, 2003)Texas Instruments Incorporated (NYSE: TXN) today reported financial results that reflect strengthened conditions across its semiconductor markets in the third quarter. TI's total revenue of $2533 million increased 8 percent sequentially and 13 percent from the year-ago quarter due to growth in Semiconductor. Earnings per share (EPS) were $0.25 in the quarter, including a contribution from the sale of Micron Technology, Inc. common stock and the impact of charges for restructuring and an acquisition.
+ 
+Semiconductor segment revenue increased 10 percent sequentially due to higher shipments of DSP products into the wireless and digital consumer electronics markets, as well as higher shipments of high-performance analog products. Compared with the year-ago quarter, Semiconductor revenue increased 16 percent due to higher shipments of DSP, high-performance analog and Digital Light Processing (DLP) products.
+TI revenue from the Semiconductor wireless market increased 22 percent sequentially and 30 percent from the year-ago quarter due to growth in 2.5G wireless modems and OMAP applications processors. Broadband revenue increased 11 percent sequentially primarily due to strong demand for the company's latest multimode wireless local area networking (LAN) products that support the IEEE 802.11 a, b and g standards. Broadband revenue increased 74 percent from the year-ago quarter due to strength in wireless LAN and DSL. Revenue from Analog products increased 7 percent sequentially and 6 percent from the year-ago quarter primarily due to demand for high-performance analog products. DSP revenue increased 22 percent sequentially and 37 percent from the year-ago quarter.
+ 
+In the Sensors & Controls segment, revenue decreased 7 percent sequentially and increased 2 percent from the year-ago quarter. In the Educational & Productivity Solutions (E&PS) segment, revenue increased 13 percent sequentially and decreased 2 percent from the year-ago quarter.
+ 
+In the third quarter, the company incurred $56 million in charges related to previously announced restructuring actions, of which $48 million is included in cost of revenue, $7 million in selling, general and administrative (SG&A) expense and $1 million in research and development (R&D) expense. The company also incurred a non-tax-deductible $23 million in-process R&D charge related to the company's acquisition of Radia Communications, Inc. in the quarter.
+Gross profit of $1030 million increased 18 percent sequentially and 23 percent from the year-ago quarter. Gross profit margin was 40.7 percent of revenue, up 3.2 percentage points sequentially and 3.6 percentage points from the year-ago quarter as higher revenue fell through to gross profit at a high rate due to increased utilization of the company's largely fixed-cost manufacturing assets in its Semiconductor operations.
+ 
+R&D expense of $468 million was up 10 percent sequentially and 13 percent from the year-ago quarter due to the inclusion of purchased in-process R&D from the Radia acquisition, as well as increased product development activity within Semiconductor, especially for wireless products.
+ 
+SG&A expense of $313 million decreased 5 percent sequentially primarily due to a lease termination expense in the second quarter. SG&A expense was about even with the year-ago period.
+ 
+Operating profit of $249 million, or 9.8 percent of revenue, increased $124 million sequentially and $140 million from the year-ago quarter due to higher gross profit.
+Other income (expense) net (OI&E) of $143 million includes interest income, investment gains (losses) and other items. OI&E increased $107 million sequentially and $86 million from the year-ago quarter due to a pre-tax gain of $106 million from the company's previously announced sale of 24.7 million shares of Micron stock. Interest expense of $8 million declined $2 million sequentially and $6 million from the year-ago quarter due to the company's lower debt level.
+ 
+Net income in the quarter was $447 million, or $0.25 per share. The Micron transaction includes the recognition of a previously reserved tax benefit of $162 million associated with TI's impairment write-down of Micron stock in the fourth quarter of 2002. The effective tax rate for the quarter was 26 percent exclusive of the tax impact resulting from the recognition of the previously reserved tax benefit associated with the Micron stock transaction. The effective tax rate was higher than previously expected due to a revision in the company's expected tax rate for the year and the resulting cumulative catch-up tax expense of $6 million. The effective tax rate for the year is expected to be 24 percent.
+ 
+TI orders of $2662 million increased 15 percent sequentially and 26 percent from the year-ago period. Semiconductor orders of $2295 million increased 21 percent sequentially and 29 percent from the year-ago period. The Semiconductor book-to-bill ratio was 1.08 for the third quarter, up from 0.99 in the prior quarter.
+"TI's revenue and profit margins continue to rebound," said Tom Engibous, TI chairman, president and CEO. "As the semiconductor market has rebuilt momentum, TI has grown faster as a result of the manufacturing technology and product R&D investments we maintained through the industry's downturn.
+ 
+"These investments have resulted in volume production of a wide range of 130-nanometer products with 90-nanometer products already sampling and scheduled to be in production soon. TI has shipped more than 100 million chips to our customers in 130-nanometer," Engibous said. "When these advanced technologies are combined with 300-millimeter wafers, it means TI can design and manufacture products that perform better, consume less power and cost less than products from competitors that have not made or been able to make these investments.
+ 
+"One example of the success of this strategy is the development of OMAP applications processors for smartphones and PDAs. These processors generated about half of our wireless revenue growth in the third quarter compared with a year ago," Engibous said. "We see similar enthusiasm for TI's new products for the broadband and digital consumer electronics markets, as well as for our new high-performance analog products. We expect that the revenue growth from these and other new products, as well as the benefits of ongoing cost management and lower depreciation levels, will be drivers for further profit expansion."
+Total cash (cash and cash equivalents plus short-term investments and long-term cash investments) of $4538 million increased by $355 million from the end of the prior quarter and by $894 million from the end of the year-ago quarter. Cash flow from operations increased to $510 million from $378 million in the prior quarter due to higher net income, and decreased from $565 million in the year-ago quarter. Capital expenditures were $233 million in the third quarter, up from $162 million in the previous quarter and down from $269 million in the year-ago quarter.
+ 
+Accounts receivable increased by $82 million sequentially and $94 million from the year-ago quarter due to higher revenue. Days sales outstanding declined to 54 days at the end of the third quarter from 55 days in the prior quarter and 57 days in the year-ago quarter.
+ 
+Inventory decreased by $5 million sequentially primarily due to higher seasonal shipments of E&PS products in the quarter. Compared with the year-ago quarter, inventory increased $172 million in anticipation of higher Semiconductor product shipments in the fourth quarter of 2003 and to support reduced product lead times. Days of inventory were 60 days at the end of the third quarter compared with 62 days at the end of the prior quarter and 52 days at the end of the year-ago quarter
+.
+Outlook
+ 
+TI intends to provide a mid-quarter update to its financial outlook on December 8 by issuing a press release and holding a conference call. Both will be available on the company's web site.
+ 
+For the fourth quarter of 2003, TI expects revenue to be in the following ranges:
+ 
+ 
+ 
+ 
+ 
+TI expects earnings per share to be in the range of $0.14 to $0.19. Restructuring charges in the fourth quarter are expected to be about $15 million.
+ 
+For 2003, TI expects: R&D to be about $1.75 billion, higher than the previous estimate due to the Radia acquisition capital expenditures to be about $800 million, unchanged from the previous estimate; and depreciation to be about $1.4 billion, unchanged from the previous estimate. The effective tax rate for the year is expected to be about 24 percent, exclusive of the tax impact resulting from the recognition of the previously reserved $162 million tax benefit associated with the Micron stock transaction during the third quarter.
+;
+ 
+ 
+ 
+ 
+ 
+ 
+Semiconductor
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3Q Highlights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensors & Controls
+ 
+ 
+ 
+Educational & Productivity Solutions (E&PS)
+ 
+ 
+ 
+ 
+Additional Financial Information
+ 
+ 
+ 
+ 
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995: This release includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management "believes," "expects," "anticipates," "foresees," "forecasts," "estimates" or other words or phrases of similar import. Similarly, such statements in this release that describe the company's business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of the company or its management:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For a more detailed discussion of these factors, see the text under the heading "Cautionary Statements Regarding Future Results of Operations" in Item 1 of the company's most recent Form 10-K. The forward-looking statements included in this release are made only as of the date of publication, and the company undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+ 
+Texas Instruments Incorporated provides innovative DSP and Analog technologies to meet our customers' real world signal processing requirements. In addition to Semiconductor, the company's businesses include Sensors & Controls and Educational & Productivity Solutions. TI is headquartered in Dallas, Texas, and has manufacturing, design or sales operations in more than 25 countries.
+ 
+Texas Instruments is traded on the New York Stock Exchange under the symbol TXN. More information is located on the World Wide Web at .
+www.ti.com
+ 
+TI Trademarks:
+OMAP
+Digital Light Processing
+DLP
+ 
+Other trademarks are the property of their respective owners.
+
+

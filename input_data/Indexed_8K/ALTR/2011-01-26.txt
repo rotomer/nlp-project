@@ -1,0 +1,1229 @@
+FILE:ALTR/ALTR-8K-20110126190311.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 8-K
+ 
+            
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): January 25, 2011
+ 
+            
+ALTERA CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+ 
+Registrant's telephone number, including area code: (408) 544-7000
+Not Applicable
+(Former name or former address, if changed since last report.)
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 2.02. Results of Operations and Financial Condition.
+ 
+On January 25, 2011, Altera Corporation held a conference call to discuss financial results for the fourth quarter of 2010 and management's current business outlook. A copy of the conference call transcript is furnished as Exhibit 99.1 to this report.
+ 
+Forward-Looking Statements
+ 
+Statements in the conference call transcript that are not historical are "forward-looking statements" as the term is defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements are generally written in the future tense and/or preceded by words such as "will," "expects," "anticipates," or other words that imply or predict a future state. Forward-looking statements include any projection of growth rate or market share, any projection of revenue, gross margin, expense or other financial items discussed as part of Altera's business outlook, the timing of product shipments, assessments of the supply environment and the potential for continued technology leadership at 28 nm. Investors are cautioned that all forward-looking statements in this conference call transcript involve risks and uncertainty that can cause actual results to differ from those currently anticipated, due to a number of factors, including without limitation, current global economic conditions, customer business environment, customer inventory levels, vertical market mix, market acceptance of the company's products, product introduction schedules, the rate of growth of the company's new products including Arria
+II, Cyclone
+III, Cyclone IV, Stratix
+III,
+Stratix IV FPGAs, MAX
+II and MAX V CPLDs and HardCopy
+device families, changes in the mix of our business between prototyping and production-based demand, as well as changes in economic conditions and other risk factors discussed in documents filed by the company with the Securities and Exchange Commission (SEC) from time to time. Copies of Altera's SEC filings are posted on the company's website and are available from the company without charge. Forward-looking statements were made as of the date of the conference call, and, except as required by law, the company does not undertake an obligation to update its forward-looking statements to reflect future events or circumstances.
+ 
+ 
+Item 9.01.  Financial Statements and Exhibits.
+(d)  Exhibits.
+ 
+99.1  Conference call transcript dated January 25, 2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+Dated: January 26, 2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT INDEX
+ 
+ 
+Exhibit No.
+           
+Description
+ 
+99.1         Conference call transcript dated January 25, 2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+PRESENTATION
+______________________________________________________________________________________________________
+Operator
+ 
+Good day everyone and welcome to the Altera fourth-quarter 2010 earnings results conference call. Today's call is being recorded. At this time I would like to turn the call over to Mr. Scott Wylie, Vice President of Investor Relations for Altera Corporation. Mr. Wylie, please go ahead.
+ 
+______________________________________________________________________________________________________
+Scott Wylie
+- Altera Corporation - VP IR
+ 
+Good afternoon. Thank you for joining this conference call, which will be available for replay telephonically and on Altera's website shortly after we conclude this afternoon.
+ 
+To listen to the webcast replay please visit Altera's Investor Relations webpage where you will find complete instructions. The telephone replay will be available at area code 719-457-0820, and use code 258712.
+ 
+During today's prepared remarks we will be making some forward-looking statements. In addition, management may make additional forward-looking statements in response to questions. In light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings.
+ 
+Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty, and that future events may differ from the statements made. For additional information, please refer to the Company's Securities and Exchange Commission filings, which are posted on our website or available from the Company without charge.
+ 
+With me today are John Daane, our CEO, and Ron Pasek, Chief Financial Officer. Ron will open the call with a financial overview before turning the call over to John. After John concludes his remarks we will take your questions. Prior to the Q&A session the operator will be giving instructions on how you can access the conference call with your questions.
+ 
+I would know like to turn the call over to Ron.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Thank you, Scott. Revenue for the fourth quarter 2010 was a record $555 million, representing a sequential increase of 5%, and slightly above the midpoint of our guidance. Our large customers were the growth leaders in Q4 with a collective growth rate well above the overall average.
+ 
+On the product side we achieved a 26% sequential growth for new products, while our mainstream and mature product categories were down versus Q3. This sequential decrease in mainstream and mature products appears to be customer inventory fine-tuning and is not a surprise.
+ 
+Sequential growth within new products included Stratix IV increasing 25%, Cyclone III up 23%, Arria II up 22%, MAX II down 4%, Stratix III up 34%, Cyclone IV up strongly at $2 million, and HardCopy III and IV up 378% at $10 million.
+ 
+Stepping back for 2010 we experienced a nearly 200% increase in new products, with most of this dollar increase coming from 65 nanometer. Mainstream products produced growth of 12% and mature products decreased 7%, as one would expect.
+ 
+In Q4 40 nanometer revenue increased sequentially 35%, and 65 nanometer revenue showed sequential growth of 28%. For Q4 40 and 65 nanometer revenue represented 17% and 31%, respectively, of total revenue. 40 nanometer revenue on a cumulative basis is over $260 million to date.
+ 
+Q4 turns were in the mid-20s range, consistent with our guidance. Book to bill for the quarter was below 1, which is to be expected as our leadtimes returned to normal levels for essentially all products. In Q4 we did not see an unusual number of cancellations.
+ 
+Gross margin at 71% was up 90 basis points from Q3, and at the high-end of guidance. Improved yields and material cost
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+improvements were the big drivers, offset by slightly unfavorable vertical mix.
+ 
+Operating expenses of $131 million were slightly higher than guidance. Some of this increase can be attributed to our recent acquisition of Avalon and an array of individual items that came in slightly over forecast.
+ 
+Operating margin for Q4 was 47.4%, the highest level in 2010. Our Q4 effective tax rate was 12% after netting the favorable effects of the R&D tax credit with some offsetting fourth-quarter discrete items.
+ 
+Net income for the quarter was $232 million or $0.72 per diluted share. On the balance sheet cash and investment balances increased to $2.8 billion, helped as in the last several quarters by cash received from option exercises.
+ 
+Cash flow from operating activities was $210 million for the quarter, and our cash conversion cycle was 85 days. We ended Q4 with total pipeline month supply in hand of 3.5, consistent with our guidance. Ending Q4 inventory is comprised of 2.7 months for Altera and 0.8 months for distributors.
+ 
+Moving on to our outlook for the first quarter of 2011, we expect revenue to be down 1% to 5%. First-quarter turns looked to be in the mid to high 30s. This sequential increase in our turns is to be expected as our lead times have shortened. Keep in mind that historically a normal turns number runs in the 50% to 60% range, and over time will likely return to that range.
+ 
+Gross margin for Q1 will be 71% to 72%, as we anticipate some favorable vertical mix.
+ 
+We are targeting R&D spend at $76 million to $77 million, up from Q4, as we begin a multi-quarter period 28 nanometer introductions and the strategic initiatives we described in our November 29 call.
+ 
+SG&A should be $69 million to $70 million. For both R&D and SG&A the full-year operating expense estimates we gave you on November 29 are still valid. We expect ending Q1 month supply in hand inventory to be in the mid-3s, which is still in the desirable range of 3 to 4 month supply on hand.
+ 
+The tax rate for Q1 will be 10% to 12%, which is slightly favorable to our earlier guidance due to US R&D tax credit.
+ 
+Diluted share count for Q1 will be approximately 327 million shares. Additionally, for full-year diluted share count you should use a revised number of 329 million shares. Since our call on November 29 we have seen an increase in option exercises and stock price, which increases our diluted share forecast for FY '11.
+ 
+With that, let me turn the call over to John.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Thank you, Ron. We are pleased to Q4 revenues increased 5% sequentially to cap a stellar year of revenue growth, profitability and marketshare gain.
+ 
+For the fourth-quarter telecom wireless revenue increased 10% sequentially on wireless growth in GSM, WCDMA and microwave applications. Telecom decreased due to inventory rebalancing across several customers. Huawei represented 16% of revenue in the quarter.
+ 
+Industrial, military, automotive declined 9%, with a significant decrease in military on program timing. Computers, storage, networking increased 17%, with double-digit growth in each subsegment. Other grew 2%.
+ 
+In 2010 our revenues increased 64%, outpacing the semiconductor, ASIC, ASSP and PLD markets by a wide margin. Improved end-market conditions and increased PLD content in new generation systems were both contributors to the PLD industry growth. Our market success with 65 nanometer and 40 nanometer FPGAs then led to Altera's significant outgrowth of the PLD industry.
+ 
+Additionally, our 2000 growth was broad-based -- 2010 growth was broad-based. Telecom wireless increased 64%, industrial military and automotive 60%, computer storage networking, 55%, and other increased 73%.
+ 
+On the product line front in 2010 we focused on 28 nanometer development. As announced, we will introduce more products in 28 nanometer than any previous process node, again relying on the customer input to drive our specifications.
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+ 
+We also continue the tailored device strategy that has delivered our significant marketshare growth over the last several process nodes. Stratix V and HardCopy V are on the HP process for high-performance, as they have been in prior generations. Arria V and Cyclone V are on the LP process with low-power and low product costs. Each product will have optimized architecture, memory, DSP and transceivers tailored for diverse market requirements.
+ 
+This portfolio approach, while perhaps costlier in R&D, matches customer need across a broad array of markets, delivering superior growth and profitability.
+ 
+We taped out our first Stratix V 28 nanometer family member in December and plan to sample in Q1.
+ 
+For Q1 revenue we are forecasting a 1% to 5% sequential decrease. We expect telecom wireless to decline as a few customers rebalance inventory, and because TDS CDMA fourth-round deployment completed in Q4. This should be partially offset by growth in WCDMA and LTE. Industrial military and automotive should increase on military and automotive. Computer, storage, networking should be flat to slightly down. Other should decrease.
+ 
+Our book to bill was under 1 in Q4, as expected with a leadtime reduction. The turns required to make the Q1 guidance are in the mid-to high 30% range, well below our historical high 50s range. There are very few customers that have reported inventory, and the amount looks minimal, which correlates to the low turns number.
+ 
+In summary, our 2010 results show the success of PLDs and Altera specifically in replacing ASICs due to the rising semiconductor design costs associated with each new process node. And note the addressable ASIC market is still twice the size of the PLD industry.
+ 
+The design cost burden also affects microprocessors and ASSPs. Using our FPGAs as a product platform, we are adding microprocessors to encroach on the embedded industry and IP blocks, as evidenced by our Avalon acquisition, to replace ASSPs. Our goal is to continue to grow at a rate of double the semiconductor industry on average. And with an estimated $47 billion ASIC, ASSP and embedded market replacement opportunity, we believe we are well positioned to do so.
+ 
+Now let me turn this call back to Scott.
+ 
+______________________________________________________________________________________________________
+Scott Wylie
+- Altera Corporation - VP IR
+ 
+We would now like to take questions. Please limit your questions to one at a time so that we give as many callers as possible the opportunity to ask questions during the call. Operator, would you please provide instructions and poll for questions.
+ 
+ 
+QUESTION AND ANSWER
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+(Operator Instructions). Uche Orji, UBS.
+ 
+______________________________________________________________________________________________________
+Uche Orji
+- UBS - Analyst
+ 
+Thank you very much. Just let me start with Ron. Ron, can we just put a little bit what is going on with the inventory? I know you said it still within your normal range, but we kind of had a huge jump this quarter. Can you try and pass that data and tell us what is happening with any specific customers, or within distribution, just for us to get slightly better comfort with that? Looking forward how should we think about a trend for inventory now that leadtimes are back to normal?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+So a good question. So you look at the last year, historically we were running inventory a year ago December below 3, and then through the year in the low 3s. And also our leadtimes were actually extended.
+ 
+So to some extent this is just getting leadtimes synced with inventory. It is still in a very desirable range. As I said earlier in the script, we are basically at standard leadtimes for almost all products.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+There is a breakout of distribution versus Altera inventory that is in the press release, so see you can see that. Again, typically we have tried to operate between 3 to 4 months supply on hand total of both distribution in Altera. At 3.5 I think we are in great shape, particularly coming out of a period where we did not have enough inventory and ultimately caused the leadtime expansion.
+ 
+______________________________________________________________________________________________________
+Uche Orji
+- UBS - Analyst
+ 
+Let me switch guys a little bit. John, you talked about your gross margin when you gave your business update, I think, a couple of months ago. And even as you're seeing strength in FPGAs over ASICs, the data at least suggests that gross margins continued to stay strong.
+ 
+Why should -- how should we think about this going forward as to what gross margins should trend? What factors should affect that as we look at you versus the ASIC players?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+This is Ron. I think a couple of things. The biggest factor that will swing gross margin in the short term is of course vertical mix. And that is why you are seeing a slight increase from Q4 to Q1.
+ 
+But what we talked about on November 29 over the long term for this year you should see margins around 70% plus or minus 1 point. And over the long term what we said over the next -- certainly at the end of five years, probably going down to 65%.
+ 
+______________________________________________________________________________________________________
+Scott Wylie
+- Altera Corporation - VP IR
+ 
+Thank you very much, Uche. Next question please.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Adam Benjamin, Jefferies & Co.
+ 
+______________________________________________________________________________________________________
+Adam Benjamin
+- Jefferies & Co. - Analyst
+ 
+I am just curious, your competitor has been talking a lot about share gains stabilizing by the end of this year. I am just curious as to -- in terms of the design cycle what you have seen, how you can draw that back maybe 12 months, given how that share shift should have happened in terms of designs translating to revenue later this year? And then in terms of just high-end versus low-end how do you think you are positioned going forward? Thanks.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+So I would expect that Altera will once again increase marketshare again in 2011, as we did in 2010, and actually going back, I
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+think, probably for the last eight years. I have seen nothing in the battle of 40 and 45 nanometer which I believe will change the momentum that we have.
+ 
+I do think because Altera did so well in 40 nanometer with roughly two/thirds of the overall revenue that we should continue to gain marketshare as the 40 nanometer node continues to grow over the next several years.
+ 
+In the 28 nanometer battle I think actually we are extremely well set up to continue that momentum. I like our tailored product approach. It is something that has done us very well for several generations of products now. I think it addresses a wider array of markets and applications. I think it also provides a much better cost structure for each individual product. So I would expect as we enter into the 28 nanometer battle that Altera will continue to do extremely well.
+ 
+So fundamentally in conclusion, I just don't see anything that has happened near term or from what I've heard from announcements of competitors that I think changes the momentum that we have in the marketplace today.
+ 
+______________________________________________________________________________________________________
+Adam Benjamin
+- Jefferies & Co. - Analyst
+ 
+All right, guys, I guess we will have to see it unfold this year.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Yes, thank you very much, Adam. Next question please.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Glen Yeung, Citi.
+ 
+______________________________________________________________________________________________________
+Glen Yeung
+- Citi - Analyst
+ 
+Going back to the first question about inventory, now we've got leadtimes back to normal. Inventories are back to normal. How would you characterize the supply environment that you are in right now, John? Do you think this is something where for the balance of the year your concern is more that things are tight or your concern is more that things may get a little loose?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Right now we are in a position where we can get the product that we need. I think if we were to grow 64% again this year we would probably struggle getting product. But based on our plan we feel that we have enough supply commitment from our foundry substrate suppliers and back end assembly suppliers, and ultimately test capacity, that we will be okay.
+ 
+So right now we are projecting based on our numbers that we will be okay. There may be some tightness in a few specific nodes. We will have to deal with that as things come.
+ 
+I guess the question then becomes are we doing anything to procure inventory strategically ahead of time. No, that is not our plan. Ultimately we would rather purchase the product at a later date when yields improve and costs go down than trying to put inventory in place. Because, once again, we do think we have adequate capacity commitments from our supply base.
+ 
+______________________________________________________________________________________________________
+Glen Yeung
+- Citi - Analyst
+ 
+Right, okay. As a follow-up, just thinking about the 28 nanometer node again, and the idea that we have now seen share gain from Altera really several years, if you go way back. As we think about 28 and yourself and Xilinx are coming in in a similar time
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+frame, plus or minus, but with different sort of family approaches, for lack of a better term.
+ 
+Is this a node where you think you can extend your share gain? You are kind of almost at record levels now -- marketshare. Can you go even further still at the 28 nanometer node?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I would expect that we can. The reason is because I think the approaches between the two companies are actually quite different in this process node. We are continuing the tailored approach by product.
+ 
+Remember, when we originally came out with the Cyclone family and designed a dedicated die for that that was low cost, it really did significantly extend our overall business. We did that by cutting down features, cutting down performance, but not having to sacrifice anything in our Stratix family.
+ 
+I think the advantage that our competitor does have is, if you do one product and one process technology, which is, I think, essentially what they're doing, you can lower your overall R&D investment. But I think it is important to remember that the battle that we fight is not with necessarily our primary [POE] competitors, the battle is for ASICs and ASSPs.
+ 
+And we supply into a diverse set of markets that each have different requirements of technology. Consumer, for instance, television sets does not require high-performance. It does not require high-end transceivers. It does not require high density. It is more about product costs.
+ 
+When you are in OTN applications it is quite the opposite. Density, performance, transceiver speed are everything to those customers. So we believe that by having a tailored product set we could address more applications. We can displace more ASICs and ASSPs, which obviously leads to revenue growth.
+ 
+And, again, because each product is differentiated, the lower-end products like Arria and Cyclone, will have a much lower cost structure per die. And we think that will be advantageous for us from a gross margin perspective long-term as well.
+ 
+So I am actually -- from everything I have seen and heard over the many months from our competition, I'm actually excited about 28. I think it plays in our favor. There is nothing that has been announced that has us rethinking our strategy. And we do think we can extend the gains that we have had in 40, and hopefully accelerate that in 28.
+ 
+______________________________________________________________________________________________________
+Glen Yeung
+- Citi - Analyst
+ 
+Thanks.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Patrick Newton, Stifel Nicolaus.
+ 
+______________________________________________________________________________________________________
+Patrick Newton
+- Stifel Nicolaus - Analyst
+ 
+Thank you for taking my questions. A quick big picture question for you, John. Given that you outgrew the broader semiconductor industry by 2 times or maybe more than 2 times in 2010, when 90 and 60 nanometer designs were really the volume drivers. I guess as we move into 2011 and 2012 when 40 and 28 nanometer are the volume drivers, do you think that perhaps your long-term growth target could prove somewhat conservative?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+Well, we still -- our target is to grow twice as fast as the semiconductor industry on average. We do believe that this year in 2011 that we will outgrow the semiconductor industry. We would hope so to continue to do that.
+ 
+It is really a factor of a couple of things. One, I think we have done really well in 40. Obviously, 40 is really the growth note for programmable logic over the next several years, so we should get a marketshare advantage for that.
+ 
+Then if you look at our products like Stratix IV, we really did open up a lot of new applications, had record design wins, had record opportunities. And I think that speaks to the fact that programmable logic really opened up a lot more of the ASIC and ASSP market to replace. And that means that revenue is in the future, and we should be able to grow at a faster rate than those industries.
+ 
+28 then continues that acceleration obviously. By the time you are in 28 you are now a good four nodes -- process nodes ahead of the mainstream ASIC industry. And you really are compelling for almost all ASIC designs for them to use your programmable logic instead. And I think we can continue to see PLDs accelerate the replacement.
+ 
+Again, remember, what we believe that we can replace -- so if we take out things like handsets, we take out games, we take out platforms that we know that we cannot participate in, either because of cost or power, and we look mainly at the infrastructure, there is about a $47 billion opportunity of products that we can go replace. Simply replacing 1% of that per year gives you an opportunity to grow the Company at a 10% compound annual.
+ 
+So we feel pretty good that we have the opportunity. We just need to continue to execute on our end and take marketshare.
+ 
+______________________________________________________________________________________________________
+Patrick Newton
+- Stifel Nicolaus - Analyst
+ 
+Speaking of taking marketshare, I guess moving to 40 nanometer last quarter your competitor said that they had pegged their share at roughly 40%. I don't believe that we got a number this quarter. I was just wondering if you have your thoughts on where your marketshare stands at the 40 nanometer node?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+It is probably between 60% to 70%, and probably about 65% from what we saw for the entire year. I didn't see a breakout by quarter from our competitors, so we didn't know. But if you take the whole year, which is where they gave the figure, it is about 63% to 65% in favor of Altera.
+ 
+______________________________________________________________________________________________________
+Patrick Newton
+- Stifel Nicolaus - Analyst
+ 
+All right, thank you, gentlemen.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Srini Pajjuri, CLSA Securities.
+ 
+______________________________________________________________________________________________________
+Srini Pajjuri
+- CLSA Securities - Analyst
+ 
+John, you said that TD-SCDMA market is going to decline or is in a decline because of inventory correction. I am just wondering what is next after phase 4? Are you hearing anything about if there is a potential phase 5? And also if you can touch upon where the WCDMA growth is coming from, whether it is US or India? And then how important the telecom and wireless market is for you to outgrow the industry this year? Thank you.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+ 
+So TD-SCDMA is the technology that China Mobile is deploying for their third generation. Remember that there are three communication operators in China. China Mobile's deployment comes in phases. The others are doing more regular measured purchases.
+ 
+So while TD-SCDMA has ended, that does not mean -- for the fourth round that doesn't mean that China Wireless has ended because the other two carriers continue to deploy.
+ 
+Additionally, remember that the wireline infrastructure in China is still in its infancy, and there will continue to be a very significant telecom deployment in China.
+ 
+So TD-SCDMA goes in phases of rounds. We just completed the fourth round. There is now discussion of the fifth. It is possible that the fifth may turn away from TD-SCDMA into LTE or TD-LTE, which is the Chinese version. If that happens, great. If it stays TD-SCDMA that is fine too, because we have very high marketshare in either of those.
+ 
+It is not -- TD-SCDMA did not end because of inventory, it really ends because, again, they do the purchases in a block or short period of time and then in between there is a redesign cycle.
+ 
+In terms of WCDMA we are seeing deployment really across quite a few geographies. With the deployment of smartphones requiring an upgrade in data bandwidth capability, we are seeing deployment in the United States still, in Europe, and other developing countries, certainly in China. And we have seen some initial work for India.
+ 
+GSM has also been quite strong for India, as well as other developing countries. As I mentioned, microwave as a backhaul has been very strong and played as well.
+ 
+______________________________________________________________________________________________________
+Srini Pajjuri
+- CLSA Securities - Analyst
+ 
+Then if I may just one quick question for Ron. Ron, your leadtimes are back to normal and inventories are back to normal. I'm just wondering why your turns are not back to normal yet? Thank you.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Well, as we told you a couple quarters in a row, we had this phenomena of customers placing inventory not just for the current quarter but for the next quarter as well, and that is still happening. So we had a number of orders in our books for Q1 for a while. And that has the effect of lowering the turns number. I don't know how long it is going to last, but it is nice to have.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I would expect the turns number over time to get back up into the high 50s. It is where we operated for many, many years, and I think customers have said repeatedly that they will go back to that.
+ 
+But what you're seeing is a very orderly transition from a period of time where we had lengthened leadtimes to know, as Ron mentioned, cancellations have been minimal and quite consistent with what happened all of last year. We have seen some push-outs, but they have been easy to deal with. And, therefore, we are tremendous amount of backlog still, which is why the turns number is low.
+ 
+______________________________________________________________________________________________________
+Srini Pajjuri
+- CLSA Securities - Analyst
+ 
+Thanks, John.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+ 
+James Schneider, Goldman Sachs.
+ 
+______________________________________________________________________________________________________
+James Schneider
+- Goldman Sachs - Analyst
+ 
+Thanks for taking my question. I was wondering if you could address the industrial OEM customer mix right now, meaning medical, test and measurement, automotive customers, things like that? What are you seeing from those customers now? Are they in an inventory takedown mode, or do you think they are running pretty much steady at this point?.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+The industrial business is fairly steady at this point. I think if you look at some of the areas that you mentioned, some were up in Q4, some maybe down in Q1. But we haven't really identified a lot of that being tied to inventory as much as it is program timing or customers and their success of their products in the marketplace.
+ 
+So as we mentioned, the overall other category did fairly well in the fourth calendar quarter; it grew 2%. We are expecting it to decline this quarter, but I don't think it's a tremendous decline.
+ 
+If you look at the industrial category, which includes military and automotive, it did decline in Q4, but we are expecting it to grow this quarter because of automotive, as well as military.
+ 
+So I think generally most of the categories are fairly stable at this point at a gross level.
+ 
+______________________________________________________________________________________________________
+James Schneider
+- Goldman Sachs - Analyst
+ 
+Fair enough. Then on a geographic basis, it was pretty notable that Japan was very, very strong and the US declined a lot. Is the US decline just due to military or is there any more color on what was going on within those geographical regions? Thank you.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+There are other puts and takes, but certainly military did impact North America. And again, there are other puts and takes in there that did impact it as well. Thank you, Jim. Next question please.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Mahesh Sanganeria, RBC Capital Markets.
+ 
+______________________________________________________________________________________________________
+Mahesh Sanganeria
+- RBC Capital Markets - Analyst
+ 
+Thank you. A question on the gross margin. When you had provided guidance for 70% ahead, did you assume that gross margins will be higher in the first half and lower in the second half? I was just modeling flat. Can you just give us some color on that one?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Yes, we didn't really give -- we are not that fine tuned. Again, it depends on vertical mix throughout the year, so we just gave a 70% plus or minus 1 point. So in any given quarter, as that mix of vertical revenue comes in, it will affect margin. So I can't tell you that we modeled the first half different than the second half at all.
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+______________________________________________________________________________________________________
+Mahesh Sanganeria
+- RBC Capital Markets - Analyst
+ 
+And then on the military you said it was down significantly. Was there anything specific? Because usually for your competitor at least the military is -- December is like a peak quarter. Is that any reason that you have a different seasonality than your competitor?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I don't know specifically what our competitor did this Q4, but certainly it was down for us. It was simply -- in Q4 it was program timing. It is going up this quarter. So nothing I think tremendously unusual there.
+ 
+______________________________________________________________________________________________________
+Mahesh Sanganeria
+- RBC Capital Markets - Analyst
+ 
+Okay, thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Shawn Webster, Macquarie.
+ 
+______________________________________________________________________________________________________
+Shawn Webster
+- Macquarie - Analyst
+ 
+Can you share with us what your mix of wireless versus wireline within your telecom and wireless segment was for Q4 and the full year? And then I have a quick follow-up.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Why don't you say your quick follow-up and then maybe we can compute it while we are talking.
+ 
+______________________________________________________________________________________________________
+Shawn Webster
+- Macquarie - Analyst
+ 
+Okay, on the theme of ASIC displacement, I am just -- it was hoping that maybe you might have some quantitative information for us in terms of design wins or something more specific that we could wrap our arms around and try and quantify that aspect of your revenue growth?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Well, I think if you look at a macro level this is the fourth year that programmable logic has outperformed the ASIC industry. And so this year significantly more perhaps than the last couple. But it certainly gives you an indication that it is not a one-year trend; it has been a multiyear trend.
+ 
+Again, the cost is the issue, and I think that is at this point universally accepted. Because you see the growth across a broad array of marketplaces, it is not one application or one area that we are replacing ASIC as much as it is just broadly.
+ 
+We have talked in the past, for instance, about security cameras using PLDs today. Military applications like radios used to be ASICs and DSPs are now using programmable logic.
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+Communications equipment, obviously, you have seen a very significant increase in programmable logic content replacing a large number of ASICs and some ASSPs in a broad array of product lines.
+ 
+So we have talked about PLDs entering into consumer applications like television sets, where ASICs used to be used in the past, or in some cases ASSPs. So I can't really give you one thing, because it is not as much as it is just a trend broadly in a large number of marketplaces, and PLDs are benefiting, and I think ultimately because Altera has been better positioned in products, we are benefiting more.
+ 
+Then on the products breakdown, my guess would be it is 60% wireless, 40% telecom. How close am I?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+A little bit heavier.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+A little bit heavier in wireless?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Yes.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+It is about 70%/30%?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Between those two.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+In Q4 or for the year?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+In Q4.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+And for the year it is probably closer to 60%/40%. So that should give you, hope, a rough breakdown of the business. Thank you. Next question please.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+ 
+Chris Danely, JPMorgan.
+ 
+______________________________________________________________________________________________________
+Chris Danely
+- JPMorgan - Analyst
+ 
+Thanks, guys. Sticking with (inaudible) question on end-markets, John, you were kind enough to give us your end-market color commentary on Q1. Can you just maybe give us your relative growth expectations for end-markets for the year?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+For the year I really can't. The reason is it is very difficult for our customers themselves to forecast a full year, and provide what they believe their guidance is going to be. And so we just try to stick with one quarter at a time. Certainly we do expect to outgrow the semiconductor industry for the full year, but that is about all I could an say at this point.
+ 
+______________________________________________________________________________________________________
+Chris Danely
+- JPMorgan - Analyst
+ 
+Okay, and then maybe if you could comment on what the linearity of your order rates were like last quarter and so far during this quarter?
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+We didn't see any unusual patterns in order rates for last quarter, and so far this quarter we are not seeing anything unusual either.
+ 
+______________________________________________________________________________________________________
+Chris Danely
+- JPMorgan - Analyst
+ 
+Great, thanks.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Ian Ing, Gleacher.
+ 
+______________________________________________________________________________________________________
+Ian Ing
+- Gleacher and Company - Analyst
+ 
+Yes, thanks. First question on gross margins, could you describe the differences in the cost reductions and yield improvements you got this time versus back in March when you had another uptick? I am assuming it is 40 nano-related. Also, I thought the mix would richen a little bit going forward given less wireless deployments.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+So definitely more of the yield improvement was direct related to 40 this quarter versus March of last year. That is certainly a factor. I'm trying to understand the second part of your question.
+ 
+______________________________________________________________________________________________________
+Ian Ing
+- Gleacher and Company - Analyst
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+Wireless base stations tend to have leaner mix, and I would think it would richen if that is a little bit below average growth. I think you are guiding wireless and wireless down next quarter.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Yes, so again, as a vertical telecom tends to have slightly lower margins than some of the other verticals.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I think the thing with telecom and wireless is it really depends on the application within it. If you are in a base station the volumes are lower than if you are in a radio. So where the volumes increase typically the pricing on the margins go down, which is why in general consumer has lower gross margins than, for instance, industrial or defense-related market segments.
+ 
+Pricing tends to be volume-related in semiconductors. So sometimes where we could have a flat communications quarter, but the mix within communications can change and that can cause -- from a high-volume to a low-volume segment and that can cause margins to swing one way or the other.
+ 
+So understand that there is a lot of puts and takes within these markets that drive that. Overall we did benefit from a lot of product cost reductions. Our yields continue to substantially improve generally or well ahead of what others are seeing in similar process nodes with a similar foundry. And we are very pleased with what our organization has been able to do with cost reductions over last year and hopefully through Q1.
+ 
+______________________________________________________________________________________________________
+Ian Ing
+- Gleacher and Company - Analyst
+ 
+A quick follow-up for John. The high-speed (inaudible), you're pushing that fairly aggressively down the stack, 5 gig at Cyclone and 10 gig at Arria, could you talk about the impact of cannibalization, because you've got to convert some of the Stratix IV sockets?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Really that is because what has happened is broadly there are a number of serial protocols that have entered into the industry. So you think of things like PCI Express or CPRI for wireless or SATA, which is a storage, there are a broad array of these which require different performance rates.
+ 
+So even some of the cost sensitive markets like consumer have moved to serial I/O standards. The midrange, the CPRI rate has moved up into the 5 to 6.5 gig area, which is why you see Arria with that standard. So it is simply because the bandwidth is moving up in a lot of these end applications, and we need to deal with that for the cost application.
+ 
+I do think that is an advantage for us, because, again, we are doing the tailored approach. So by having a lower performance transceiver in one family that means the I/O buffer itself is substantially smaller, the cost is lower. And I think that gives us an advantage in each of these markets by having the tailored approach.
+ 
+______________________________________________________________________________________________________
+Ian Ing
+- Gleacher and Company - Analyst
+ 
+Thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Mark Lipacis, [MSSE].
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+ 
+______________________________________________________________________________________________________
+Mark Lipacis
+- Morgan Stanley - Analyst
+ 
+Thanks for taking my question. John, what do you think the -- how would you characterize the biggest wireless opportunities geographically and by area interface standard this year? And with that,can you talk about how big you expect LTE to be for you?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I think China will continue to be strong, because of telecom really for -- and microwave for backhaul. There will be more cards added to the base stations. In other words, a lot of the base stations were deployed with not being completely full. So as we see an uptick in user demand for smartphones, I think that will continue.
+ 
+Obviously India is a great marketplace. There has been 2G deployment. There will be 3G deployment as the spectrum has been purchased. North America, because both the continued deployment of HSDPA, and combined with WCDMA plus LTE. And then you'll see the emerging countries continue to deploy to GSM which should be strong. And that is going to be South America and that is going to be Africa.
+ 
+Then you're going to see some initial deployments of LTE in Japan. So I think you're actually going to see a broader deployment of equipment in wireless from a geography standpoint than we saw last year.
+ 
+Now a lot of people look at the CapEx figures and they say -- well, CapEx is down, therefore it is going to impact the programmable logic suppliers. And if you go back and look at it, CapEx for telecom has actually been down for several years year-on-year, and yet we have been growing.
+ 
+What some people have missed is that with each new generation of equipment our content goes up significantly. So as we have made transitions to seeing deployment of 2G to 3G equipment, the actual dollar spent on the equipment may be flat, but the PLD content goes up dramatically, and therefore we grow at a much faster rate than the industry itself.
+ 
+I would expect that trend to continue, because again, if you look into the LTE, we have a multiple of the dollar content that we had in 3G. So I think we are well-positioned to continue to see growth over the next several years within wireless and telecom.
+ 
+______________________________________________________________________________________________________
+Mark Lipacis
+- Morgan Stanley - Analyst
+ 
+Very helpful. Thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Hans Mosesmann, Raymond James.
+ 
+______________________________________________________________________________________________________
+Hans Mosesmann
+- Raymond James - Analyst
+ 
+I apologize if you have already answered this, but can you comment about wafer pricing, if there is any change here over the past year relative to what you see today?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+We have a long-term agreement with our foundry. We haven't seen any change in wafer pricing nor anticipate to see anything happen for the foreseeable future.
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+______________________________________________________________________________________________________
+Hans Mosesmann
+- Raymond James - Analyst
+ 
+Then as a follow-up, and thanks, you have slightly lower turns in Q1. Do you have a sense at this point how Q2 could emerge, maybe perhaps not as turns but in terms of seasonality, would it be normal seasonal?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I have no idea on the seasonality of Q2, and would prefer to stay away from trying to guess on that one. I do anticipate better book to bill will probably be under 1 again this quarter. And that over the next couple of quarters we will start to approach the high 50s in terms of our turn rate, which is again our historical norm.
+ 
+______________________________________________________________________________________________________
+Hans Mosesmann
+- Raymond James - Analyst
+ 
+Great, thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Sumit Dhanda, Citadel Securities.
+ 
+______________________________________________________________________________________________________
+Sumit Dhanda
+- Citadel Securities - Analyst
+ 
+Hi, John, just first a follow-up on the competitive dynamic between you and Xilinx. One of the things they are focused on is the opportunity at 45 nanometers, given that Cyclone IV is still a 60 nanometer products, and hence their ability to gain share.
+ 
+I was wondering if you could specifically comment on that dynamic, and how you see that playing out, whether you feel you are disadvantaged because you are a process geometry behind.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+We do not feel we are disadvantaged at that process node. We actually have a Cyclone IV that we recently introduced. Its transceiver performance is rock-solid. We are continuing to win very well within the low-end space. I haven't really seen anything that is going to cause a tremendous marketshare shift one way or the other at this point within the low-end.
+ 
+I think at the high-end we continue to have the momentum, and will certainly until 28 products are out. And even when then, I think, at the high-end we will have a much higher performance, higher density, much better transceiver story. So I would expect at the high-end we really will continue to do extremely well for years to come.
+ 
+Remember, at the low-end it is not just Altera and Xilinx. We certainly have Lattice as a competitor there as well. And so we have many people in that space.
+ 
+______________________________________________________________________________________________________
+Sumit Dhanda
+- Citadel Securities - Analyst
+ 
+Okay, and then just as a follow-up, on the book to bill, my recollection was when you reported last quarter you said that it was flat quarter to date, and it eventually finished the quarter below 1. Does that suggest that relative to your sales trajectory for the last two months bookings were a little weaker or is that not really consequential?
+ 
+______________________________________________________________________________________________________
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+Ron Pasek
+- Altera Corporation - CFO
+ 
+Yes, I guess the way -- what we said the last quarter at the earnings release was that for the quarter book to bill was above 1, but for the month of September it was slightly below 1. What we also indicated was that as -- we predicted as leadtimes shortened, bookings would tend to weaken in relation to shipments. So we expected the book to bill to be below 1. And that is all we are seeing. With good leadtimes we are seeing book to bill below 1 that's all.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+I think it is important to remember when -- what customers, their goal is to cover your leadtimes with the backlog. So if your leadtimes extend, they need to place more orders in order to extend the backlog coverage. When your leadtimes come back in, of course, they don't need to book as much, and so -- because they don't need to cover as long of a period of time.
+ 
+The bookings, therefore, at times where you see changes in the leadtime are not a good indicator for what the underlying business is doing. So that is important to remember. That is why our business is doing okay, even though our book to bill may be below 1. It is just simply customers are reacting to the fact that they don't have to place as much backlog or have a backlog that goes out as far.
+ 
+______________________________________________________________________________________________________
+Sumit Dhanda
+- Citadel Securities - Analyst
+ 
+Okay, thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Sukhi Nagesh, Deutsche Bank.
+ 
+______________________________________________________________________________________________________
+Sukhi Nagesh
+- Deutsche Bank - Analyst
+ 
+Thanks for taking my question. Ron, could you just tell me understand what is really going on in your network being business? It showed some solid strength here, 17%, and you are guiding that to be flat. You had three consecutive quarters of growth there. Help us understand what is going on in that space please.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+So I think it is important to remember that networking is more than just a couple of US companies. There is also networking equipment that is being developed in other countries, number one. Number two, remember that we are growing marketshare content within these systems.
+ 
+As another important metric overall networking was up very strongly in the quarter, as was computer and storage, I think, reflecting the fact that corporations and, even in some cases, carriers are returning to strong purchases or upgrades. And that is the driver, combined with the marketshare gains that we are seeing.
+ 
+______________________________________________________________________________________________________
+Sukhi Nagesh
+- Deutsche Bank - Analyst
+ 
+Okay, as a follow-up, if you look at Huawei that increased 20% sequentially. It seems to more than doubled from a year ago. If you look at this year how should we be looking at Huawei as the year progresses? Thank you.
+ 
+______________________________________________________________________________________________________
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+John Daane
+- Altera Corporation - CEO
+ 
+I can't really comment on any particular customer for this year for the same reason I can comment on what the end verticals may do this year. We simply don't know.
+ 
+Because of the concentration of customers in the communications world and because communications are such a large marketplace in general for semiconductors, but also for programmable logic, I think it is natural that -- or it is very possible that you will see 10% plus customers from us at time to time. We have one now. I believe our competitor has one as well. And so it is possible. I am not overly concerned with it. But again can't really comment on what any particular customer is going to do for the full year.
+ 
+Thank you, next question please.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+John Pitzer, Credit Suisse.
+ 
+______________________________________________________________________________________________________
+John Pitzer
+- Credit Suisse - Analyst
+ 
+John, just getting back to the long-term gross margin target of 65%. When I scan over the last 32 quarters, I only see about four or five quarters when you weren't operating above that longer-term target. I guess I'm trying to understand what is the mechanism that gets gross margins from current levels back down to target, especially in light of the fact that a big reason for ASIC replacement is that PLDs provide a tangible economic value to the customer that you should be able to share it.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Well, I think 65% has been our long-term target that we have cited for many, many years, probably eight. We feel historically is a good balance between gross -- excuse me, growth and profitability. In other words, we don't want to limit our growth potential by trying to maximize gross margins. On the other side of the coin, we don't want to destroy the profitability of the Company just for growth sake.
+ 
+So 65 has been a target that we have established, and we use that internally. I think for a series of reasons we have been able to operate above that level, either because of -- in vertical mix, because of the success of our products, because of cost reductions that we have been able to enjoy or put in place.
+ 
+It is very hard to predict exactly where gross margins will be in a couple of years from now. Certainly, as Ron has said, I don't see anything in the near term which causes a tremendous change in the gross margins. But long-term 65% is still our comfortable long-term model, and we feel maybe over several years we may get there. It is possible we stay above, but again, we need to put out a long-term target, it still remains 65%.
+ 
+______________________________________________________________________________________________________
+John Pitzer
+- Credit Suisse - Analyst
+ 
+Then, John, earlier you talked about a goal of doubling the growth of the semi industry. I am just kind of curious, with the step up in R&D around 28 nanometer this year, in part to broaden the product portfolio and get into new markets, would you expect that multiplier to go up as 28 starts to ship into volume, call it, a year, a year and a half from now?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+The multiple growth?
+ 
+______________________________________________________________________________________________________
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+John Pitzer
+- Credit Suisse - Analyst
+ 
+Yes, growth.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Yes, I think the growth potential certainly is there for us as an industry to grow 2 X the overall ASIC, ASSP and embedded opportunity. Again, if you do the math, PLDs were only $5 billion last year, and yet the opportunity is probably close to 50. So you have the ability with 1% to literally grow our industry 10%.
+ 
+So I think the opportunity is there to grow it at an extended rate. I think in particular for Altera we benefit two ways. Number one is we are an incumbent coming out of 40 nanometer. Number two, I think from what I have seen we have a much better, broader product portfolio in 28, which should allow us to address more of the ASIC and ASSP opportunities.
+ 
+And, again as I mentioned earlier, do it more cost effectively, because we have different families that are optimized. Therefore our product costs, I think, should be better.
+ 
+I think all put together should allow Altera to continue to grow faster than the other PLD companies and capture marketshare, but most importantly replace ASICs and ASSPs, and hopefully continue to grow at 2 X the overall semiconductor industry.
+ 
+______________________________________________________________________________________________________
+John Pitzer
+- Credit Suisse - Analyst
+ 
+Great, thanks John.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+John --
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Just, Ron had one more.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+John, just getting back to your first question, I think it is fair, but I just want to remind you that in November what I tried to outline is the 65%, what I left you with was that would occur in 2015. So there is a lot that can happen between now and then. It is, in fact, a very long-term target.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Tim Luke, Barclays Capital.
+ 
+______________________________________________________________________________________________________
+Tim Luke
+- Barclays Capital - Analyst
+ 
+Thanks so much. Ron, just to clarify, other than Huawei, did you have any other 10% customers? And was I correct that Huawei was up 20% sequentially?
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+And separately when you're thinking about OpEx should we think about it being slightly higher in the first half of the year with the spend on 28 nanometer to get to your unchanged full-year targets, or how were you thinking about the way that that flows through the full year? Thank you.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+So first of all, we only have one above 10% customer; that is Huawei. I would have to check the growth rate, but I am not sure it is 20% quarter-to-quarter.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+We listed Huawei also as greater than 10% customer last quarter. It was 14%. So the math is roughly clear that you can back into it. I apologize. I don't know the particular breakdown (multiple speakers).
+ 
+______________________________________________________________________________________________________
+Tim Luke
+- Barclays Capital - Analyst
+ 
+I don't think you gave the exact percentage last time, so that is very helpful, yes.
+ 
+______________________________________________________________________________________________________
+Ron Pasek
+- Altera Corporation - CFO
+ 
+To the last question you asked, I think what you should expect to see is a ramp of headcount through the year. And in that sense you should see probably the second half being higher in OpEx than the first half, just because of the way the hiring is occurring.
+ 
+______________________________________________________________________________________________________
+Tim Luke
+- Barclays Capital - Analyst
+ 
+To John, just generally, you have seen several strong quarters in a row, and now it seems that you're broadly seeing the leadtimes normalize and supply and demand come into equilibrium and revenue slightly lower sequentially.
+ 
+Do you now off these high levels expect this year to be as growth year? And will it be a couple of quarters of absorbing the movement to normalize leadtimes, or do you feel that given what you have seen this as a one quarter period and you will return to your -- to growth engine?.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Well, I can't comment specifically on the second calendar quarter. What I can say is we do expect to grow this year. We do expect to outgrow the semiconductor industry this year. We also expect to take marketshare within programmable logic this year.
+ 
+The other comment I would make is the inventory that has been reported is only by a few customers so far, and is fairly minimal. And so with lead times now at a fairly normal level, you would expect those that have inventory positions would be reporting that, and obviously changing their order flow in the future so that they could pull that inventory down. And again, we are not hearing from a lot of customers that they have inventory -- a few.
+ 
+So can't really say what that means for the second calendar quarter at this point. But again, we do expect to grow this year and outgrow the semiconductor industry.
+ 
+______________________________________________________________________________________________________
+Tim Luke
+- Barclays Capital - Analyst
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+Thanks, guys.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Gus Richard, Piper Jaffray.
+ 
+______________________________________________________________________________________________________
+Gus Richard
+- Piper Jaffray - Analyst
+ 
+Thanks for taking my question. Could you talk a little bit about -- give a little bit more color on your 28 nanometer sampling plans? Do customers have products in hand as we speak? Just a little bit more color as to when samples hit the streets.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+We release software for our Stratix series, I believe, in second calendar quarter this year. It is in a press release, so we do have it out. It is still the only generally available software in PLDs for any product in 28 nanometer, so I think we have had a very substantial lead on that.
+ 
+We did take out our first Stratix V product in the fourth calendar quarter in December. We are planning to sample that to customers this quarter in Q1.
+ 
+Then we just announced the Arria V and Cyclone V families. You will see those arriving both in software format, and then later starting first with the Arria series with chips this year as well. So you'll see a lot of introductions across several different products from us in 28 nanometer, again, starting with Stratix V this quarter and sampling.
+ 
+______________________________________________________________________________________________________
+Gus Richard
+- Piper Jaffray - Analyst
+ 
+Okay, still looking in-house?
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+No, it is a manufacturing right now.
+ 
+______________________________________________________________________________________________________
+Gus Richard
+- Piper Jaffray - Analyst
+ 
+Okay, you are still in fab. Okay, thank you.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+Uche Orji, UBS.
+ 
+______________________________________________________________________________________________________
+Uche Orji
+- UBS - Analyst
+ 
+Sorry, my question has been answered. Thank you very much.
+ 
+______________________________________________________________________________________________________
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+John Daane
+- Altera Corporation - CEO
+ 
+Thank you, Uche. I think we are probably coming up on the hour. I suspect we have time for one more question, if there is one more out there.
+ 
+______________________________________________________________________________________________________
+Operator
+ 
+There is, sir. And we will take our final question from Ruben Roy, Pacific Crest Securities.
+ 
+______________________________________________________________________________________________________
+Ruben Roy
+- Pacific Crest Securities - Analyst
+ 
+John, following up the 28 nanometer discussion, I was wondering if you could spend a minute or two on -- I understand the optimized families, but when you look at the high-end of your product families, the Stratix, can you give us a little bit of information on where you see the differentiation using the HP process, the TSM versus what Xilinx seems to be using at HPL? Thank you.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+Well, I think the first thing is performance. HP is -- it stands for high performance. It is what the FPGAs and GPUs, for instance, have been built on for many generations. I think if you put a high-end family on a low-power process technology, low-power means also low performance. So the downside is you are simply not going to have the performance.
+ 
+You add something like a 28 gig transceiver, which we have and have demonstrated to customers -- once you bring that performance rate into the chip you need to have a high-performance fabric and memories to be able to handle that much data that quickly.
+ 
+I would suspect there will be challenges trying to shoehorn a low-power process technology product into the high-end. So we are simply doing what we have done for many generations, and for that matter, what our competition has done for many generations.
+ 
+We have estimated the high-end is probably 60% of the business, the low-end is probably 40%. So it is not an insignificant part of the business at all. And we think by continuing what we have done in the past we actually enter the high-end with an extreme advantage, and performance rates in particular, Both with transceivers and the overall fabric performance of the devices.
+ 
+I would say in general, just going back to the comment on -- just something struck me. Remember, we do a methodology which has been traditionally different from what our competitors have done in that we do prototypes or test chips along the way so that we can prove out each piece of the technology, which is why in the third and fourth calendar quarters as we were able to demonstrate our 28 gig transceiver operating in a 28 nanometer process technology.
+ 
+There is no other such transceiver -- in fact, there is no transceiver that is operating today in 28 nanometer, other than our device. This allows us to see each piece and know that by the time that we put this all together that we have proven the technology out. We have tuned and that the first chip should be very solid.
+ 
+So employing that strategy yet again on 28 nanometer gives us a feeling that our products will be pretty rock-solid and should be able to easily start to sample that product in the first calendar quarter.
+ 
+______________________________________________________________________________________________________
+Ruben Roy
+- Pacific Crest Securities - Analyst
+ 
+Thanks for that, John. If I could just really quickly get a follow-up around the Avalon acquisition. Was that driven by a specific customer program near-term or kind of general IP acquisition for a longer-term at Altera? Thanks very much.
+ 
+______________________________________________________________________________________________________
+John Daane
+- Altera Corporation - CEO
+ 
+ 
+FINAL TRANSCRIPT
+Jan 25, 2011 / 09:45PM GMT, ALTR - Q4 2010 Altera Corporation Earnings Conference Call
+We have done really well in the OTN applications because of the transceiver performance requirements. We really haven't had any competition to a large extent in that space.
+ 
+We had many customers using the Avalon IP actually to implement their OTN applications, 40 gig, 100 gig. And we felt the technology was very extensible to the 400 gig range, which customers are starting to work on now.
+ 
+And so we felt with the Avalon technology we could actually extend our IP and start replacing some other ASSPs potentially that were coming to market, and broaden our business base. And so that is why we did the acquisition.
+ 
+I think it is a space we are doing very well in, again, because of the transceiver performance that we had and the good partnership we had with Avalon on the IP. This just brings it all together and allows us to, I think, do more ASSP replacements as a product strategy going forward.
+ 
+______________________________________________________________________________________________________
+Ruben Roy
+- Pacific Crest Securities - Analyst
+ 
+Great, thanks.
+ 
+______________________________________________________________________________________________________
+Scott Wylie
+- Altera Corporation - VP IR
+ 
+Thanks, Ruben. As we wrap up today, let me mention that we will attend two industry conferences this quarter -- the Morgan Stanley Technology Media and Telecom Conference March 2 in San Francisco, and the Raymond James 32nd Annual Institutional Investors Conference in Orlando on March 8.
+ 
+This concludes Altera's earnings conference call. Thanks for your interest and participation.
+ 
+ 
+
+

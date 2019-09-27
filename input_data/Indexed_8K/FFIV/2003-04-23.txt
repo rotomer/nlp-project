@@ -1,0 +1,43 @@
+FILE:FFIV/FFIV-8K-20030423161506.txt.gz
+EVENTS:	Financial statements and exhibits	Regulation FD Disclosure
+TEXT:
+ITEM: Financial statements and exhibits
+ITEM: Regulation FD Disclosure
+Table of Contents
+Table of Contents
+Item 7. Financial Statements and Exhibits.
+     (c)  Exhibits:
+Item 9. Regulation FD Disclosure.
+     The information contained in this Item 9 of this Current Report on Form 8-K is being furnished pursuant to "Item 12. Results of Operations and Financial Condition" in accordance with SEC Release No. 33-8176 and 33-8216.
+     On April 23, 2003, F5 NETWORKS, INC. (the "Company") issued a press release containing quarterly earnings results for the second quarter ended March 31, 2003. A copy of this press release is attached hereto as Exhibit 99.1
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: April 23, 2003
+Table of Contents
+
+ 
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+F5 Networks Announces Second Quarter Earnings
+Revenue up sequentially on demand for new products and strengthening international sales
+F5 Networks today announced net income of $815,000 ($0.03 per share) on revenue of $28.0 million for the second quarter of fiscal 2003. Both results were within the target ranges ($0.02 to $0.04 on revenue of $27 million to $28.5 million) set by management in the company's January 22 earnings release. In the second quarter of fiscal 2002 the company reported a net loss of $1.8 million ($0.07 per share) on revenue of $27.1 million.
+SEATTLE, WAApril 23, 2003
+F5 president and chief executive officer John McAdam said the company's sequential revenue growth reflected strong demand for the company's recently introduced family of new products, which helped drive application switch sales to 67 percent of systems revenue, up from 54 percent in the prior quarter. In addition, McAdam said the company saw solid improvements in all of its international markets, which accounted for more than 37 percent of total revenue for the quarter.
+"During the second quarter, sales of the new switch-based products we began shipping in December continued to accelerate in response to strong demand from both new customers and our installed base," McAdam said. "Interest in these products reflects their superior performance and the advanced functionality of our BIG-IP Application Traffic Management software, which can identify any set of values in a stream of packets and use those values to direct, persist or filter traffic."
+McAdam added that sales of BIG-IP software into the nascent blade server market also contributed to F5's revenue growth during the second quarter. "Although blade server sales have been slow to take off, we are beginning to see signs that the market is gaining momentum."
+Near the end of the quarter, McAdam said, the company also began shipping its newest software product, iControl Services Manager (iSM), a comprehensive network management solution that improves the effectiveness of network infrastructure by providing centralized administration of F5 devices. "iSM allows our customers to install, configure and manage multiple F5 devices from a single console, making them easier to use and adding a new level of functionality. This is particularly attractive to our large enterprise customers who have dozens of BIG-IP appliances and application switches within a division or managing traffic for a single application." Although iSM is expected to
+ 
+generate incremental software revenue, McAdam said its primary significance is that it leverages the company's iControl architecture to add value to F5's existing products.
+Commenting on the relative strength of international revenue during the quarter, McAdam noted that sales in Japan benefited from seasonal strength accompanying the March close of the Japanese fiscal year. At the same time, he said, Europe and Asia-Pacific also posted solid gains that reflected the strength of the company's distribution partnerships. The combined growth in international sales more than offset the ongoing sluggishness in U.S. markets as war-related issues compounded other factors that have dampened the economy and continue to impede capital spending. McAdam said he did not expect the U.S. business climate to improve significantly over the next several months.
+Despite the prospect of lingering softness in the U.S., McAdam said the overall outlook for F5 remains positive, and the company continues to see evidence that its initiatives in the emerging markets for blade servers, Web services and wireless Internet applications represent solid growth opportunities in the second half of calendar 2003.
+For the third quarter of fiscal 2003, he said the company has set a target of $27.5 million to $29.0 million in revenue with net income of $0.02 to $0.04 per share.
+F5 Networks is the industry leader in Application Traffic Management, enabling enterprises and service providers to optimize any mission-critical application or web service, providing secure and predictable delivery of application traffic in an unpredictable environment. Through F5's unique open iControl API, third party applications and network devices can take an active role in shaping network traffic, delivering application aware networks that allow customers to direct traffic based on their exact business requirements. Our solutions optimize the availability, security and speed of mission-critical servers and applications, including enterprise applications, web services, mobile IP applications, web publishing, content delivery, e-commerce, caching, firewalls and more. F5's solutions are widely deployed in large enterprises, the top service providers, financial institutions, government agencies, healthcare, and portals throughout the world. The company is headquartered in Seattle, Washington, and has offices throughout North America, Europe, Japan and Asia Pacific. F5 Networks is located on the web at www.f5.com.
+About F5 Networks
+Statements in this press release concerning the blade server market gaining momentum, iSM generating incremental software revenue, capital spending and the state of the U.S. business climate, F5's outlook, growth opportunities in the markets for blade servers, Web services and wireless Internet applications, the revenue and earnings targets for the third quarter of fiscal 2003
+Forward Looking Statements
+ 
+and other statements that are not historical facts are forward-looking statements. Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others: the acceptance of the BIG-IP application traffic switch products, iControl Services Manager, iControl architecture; competitive pricing pressures; increased sales discounts; the timely development and introduction of additional new products and features by F5 or its competitors or other factors; F5's ability to sustain or develop distribution relationships; F5's ability to attract, train and retain qualified marketing and sales and professional services and customer support personnel; F5's ability to expand in the international markets and the unpredictability of F5's sales cycle. F5 has no duty to update any guidance provided. More information about potential risk factors that could affect F5's business and financial results is included in the Company's annual report on Form 10K for the fiscal year ended September 30, 2002, and other public filings with the Securities and Exchange Commission.
+ 
+ 
+
+

@@ -1,0 +1,70 @@
+FILE:FFIV/FFIV-8K-20120418161800.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On April 18, 2012, F5 Networks, Inc. issued a press release regarding its financial results for the second quarter ended March 31, 2012. The press release is attached hereto as Exhibit 99.1. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+ 
+(d) Exhibits:
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+ 
+ For the second quarter of fiscal 2012, F5 Networks, Inc. (NASDAQ: FFIV) announced revenue of $339.6 million, up 5.3 percent from $322.4 million in the prior quarter and 22.4 percent from $277.6 million in the second quarter of fiscal 2011.
+SEATTLE, WAApril 18, 2012
+GAAP net income was $68.6 million ($0.86 per diluted share), compared to $66.5 million ($0.83 per diluted share) in the prior quarter and $55.6 million ($0.68 per diluted share) in the second quarter a year ago.
+Excluding the impact of stock-based compensation, amortization of purchased intangible assets and acquisition-related charges and related tax effects, non-GAAP net income for the second quarter was $87.1 million ($1.09 per diluted share), compared to $82.2 million ($1.03 per diluted share) in the prior quarter and $71.5 million ($0.88 per diluted share) in the second quarter of last year.
+A reconciliation of GAAP net income to non-GAAP net income is included on the attached Consolidated Statements of Operations.
+John McAdam, F5 president and chief executive officer, said strong demand for VIPRION platforms, F5's industry leading Virtual Clustered Multiprocessing technology ("vCMP"), and the full range of BIG-IP software modules contributed to solid gains in product revenue, which grew more than 18 percent year over year. Bookings growth was solid in APAC, especially in Japan, and sales growth in EMEA was in line with overall growth during the quarter. Solid growth in the Americas was driven by strong service provider sales.
+"During the quarter we continued to see growing demand for both VIPRION 2400, our midrange chassis-based application delivery controller, and VIPRION 4400, the high end of our ADC product family," McAdam said. "In early April, we introduced a new chassis, VIPRION 4480, with new blades that effectively double the performance of VIPRION 4400."
+"VIPRION 4480 is the highest performing ADC on the market. Like all of our VIPRION and BIG-IP products it is also an ICSAcertified network firewall, delivering twelve times the performance of the nearest competing product. In the second quarter we saw increasing demand for all of our security products, including our security modules, Application Security Manager (ASM) and Access Policy Manager (APM), and our EDGE Gateway appliance. As the number and complexity of security threats continues to grow, we anticipate that our integrated security solutions will be an increasingly important component of our revenue stream."
+During the quarter, F5 added approximately 190 employees worldwide, including 60 from Traffix Systems. Following the acquisition of Traffix Systems on February 22, 2012 and the repurchase of 404,106 shares of its outstanding common stock, the company ended the quarter with $1.03 billion in cash and investments.
+For the current quarter, ending June 30, management has set a revenue goal of $350 million to $355 million with a GAAP earnings target of $0.88 to $0.90 per diluted share. Excluding the impact of stock-based compensation and amortization of purchased intangible assets and related tax effects, the company's non-GAAP earnings target is $1.12 to $1.14 per diluted share.
+A reconciliation of the company's expected GAAP and non-GAAP earnings is provided in the following table:
+ 
+ 
+About F5 Networks
+F5 Networks, Inc., the global leader in Application Delivery Networking (ADN), helps the world's largest enterprises and service providers realize the full value of virtualization, cloud computing, and on-demand IT. F5 solutions help integrate disparate technologies to provide
+ 
+greater control of the infrastructure, improve application delivery and data management, and give users seamless, secure, and accelerated access to applications from their corporate desktops and smart devices. An open architectural framework enables F5 customers to apply business policies at "strategic points of control" across the IT infrastructure and into the public cloud. F5 products give customers the agility they need to align IT with changing business conditions, deploy scalable solutions on demand, and manage mobile access to data and services. Enterprises, service and cloud providers, and leading online companies worldwide rely on F5 to optimize their IT investments and drive business forward. For more information, go to www.f5.com.
+Forward Looking Statements
+Statements in this press release concerning the continuing strength of F5's business, sequential growth, the target revenue and earnings range, share amount and share price assumptions, demand for application delivery networking and storage virtualization products and other statements that are not historical facts are forward-looking statements. Such forward-looking statements involve risks and uncertainties, as well as assumptions and other factors that, if they do not fully materialize or prove correct, could cause the actual results, performance or achievements of the company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, but are not limited to: customer acceptance of our new traffic management, security, application delivery, WAN optimization and storage virtualization offerings; the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive pricing pressures; increased sales discounts; uncertain global economic conditions which may result in reduced customer demand for our products and services and changes in customer payment patterns; F5's ability to sustain, develop and effectively utilize distribution relationships; F5's ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel; F5's ability to expand in international markets; the unpredictability of F5's sales cycle; the share repurchase program; future prices of F5's common stock; and other risks and uncertainties described more fully in our documents filed with or furnished to the Securities and Exchange Commission. All forward-looking statements in this press release are based on information available as of the date hereof and qualified in their entirety by this cautionary statement. F5 assumes no obligation to revise or update these forward-looking statements.
+Use of non-GAAP Financial Information
+F5's management evaluates and makes operating decisions using various operating measures. These measures are generally based on the revenues of its products, services operations and certain costs
+ 
+of those operations, such as cost of revenues, research and development, sales and marketing and general and administrative expenses. One such measure is net income excluding stock-based compensation, which is a non-GAAP financial measure under Section 101 of Regulation G under the Securities Exchange Act of 1934, as amended. This measure consists of GAAP net income excluding, as applicable, stock-based compensation. Net income excluding stock-based compensation (non-GAAP) is adjusted by the amount of additional taxes or tax benefit that the company would accrue if it used non-GAAP results instead of GAAP results to calculate the company's tax liability. Stock-based compensation is a non-cash expense that F5 has accounted for since July 1, 2005 in accordance with the fair value recognition provisions of Financial Accounting Standards Board ("FASB") Accounting Standards Codification ("ASC") Topic 718 CompensationStock Compensation ("FASB ASC Topic 718").
+The non-GAAP financial information for the second quarter of fiscal 2012 in this press release and the attached Consolidated Statements of Operations, and the reconciliation of the company's GAAP and non-GAAP earnings for the three months ended June 30, 2012 set forth above, also exclude from net income the amortization of purchased intangible assets and acquisition-related charges, net of taxes. Amortization of intangible assets is a non-cash expense. Investors should note that the use of intangible assets contribute to revenues earned during the periods presented and will contribute to revenues in future periods. Acquisition-related expenses consist of professional services fees incurred in connection with acquisitions.
+Management believes that non-GAAP net income per share provides useful supplemental information to management and investors regarding the performance of the company's core business operations and facilitates comparisons to the company's historical operating results. Although F5's management finds this non-GAAP measure to be useful in evaluating the performance of the core business, management's reliance on this measure is limited because items excluded from such measures could have a material effect on F5's earnings and earnings per share calculated in accordance with GAAP. Therefore, F5's management will use its non-GAAP earnings and earnings per share measures, in conjunction with GAAP earnings and earnings per share measures, to address these limitations when evaluating the performance of the company's core business. Investors should consider these non-GAAP measures in addition to, and not as a substitute for, financial performance measures in accordance with GAAP.
+F5 believes that presenting its non-GAAP measure of earnings and earnings per share provides investors with an additional tool for evaluating the performance of the company's core business and which management uses in its own evaluation of the company's performance. Investors are encouraged to look at GAAP results as the best measure of financial performance. However, while the GAAP results are more complete, the company provides investors this supplemental measure since, with reconciliation to GAAP, it may provide additional insight into the company's operational performance and financial results.
+ 
+ 
+ 
+ 
+ 
+
+

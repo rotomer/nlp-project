@@ -1,0 +1,545 @@
+FILE:IBM/IBM-8K-20040415211019.txt.gz
+EVENTS:		Other events
+TEXT:
+ITEM: 
+ITEM: Other events
+QuickLinks
+-- Click here to rapidly navigate through this document
+Item 5.    Other Events
+        The registrant's press release dated April 15, 2004, regarding its financial results for the period ended March 31, 2004, including unaudited consolidated financial statements for the period ended March 31, 2004, is Attachment I of this Form 8-K. Attachment II is the transcript of IBM's Chief Financial Officer John R. Joyce's first quarter earnings presentation to securities analysts on Thursday, April 15, 2004. Attachment III are the charts for such presentation. Attachment IV is reconciliation information in connection with certain information in Attachments II and III. Attachment V is certain segment information.
+        Attachment I (press release), Attachment IV (reconciliation information) and Attachment V (segment information) are hereby filed under this Item 5. Attachment II (transcript) and Attachment III (charts) are hereby filed under this Item 5 except for the following information in such attachments, which information is furnished pursuant to Item 12:
+ATTACHMENT II (TRANSCRIPT):
+        The following sentence on Page 3: " And, over the last four quarters, our return on invested capital, excluding our global financing business, was 28%, significantly above the S&P 500."
+        The following statement on Pages 14 and 15: "On a pro-forma basis, our former Technology Group would have lost approximately $150 million in the first quarter,"
+        The following sentences on Page 19:
+"The financial benefit of this integrated portfolio is a Return on Invested Capital that we have sustained well above the S&P 500 average. It's an important point because it reflects our management discipline and strategy, and our resulting capital efficiency with our investors' money.
+Last year, IBM returned 28% on invested capital. This measure excludes our Global Financing business, which is more appropriately measured on return on equity.
+Over the last five years, IBM's total Return on Invested Capital, including Global Financing, has ranged between 5 and 15 percentage points above that of the S&P 500, and well above our weighted average cost of capital.
+Most companies can deliver impressive Return on Invested Capital for one year. The key is to deliver impressive Return On Invested Capital on a sustained basis."
+ATTACHMENT III (CHARTS):
+        The entire chart on Page 14 titled "HISTORICAL RETURN ON INVESTED CAPITAL".
+        The first two rows on the chart on Page S-6 titled "RECONCILIATION OF PRO FORMA TECHNOLOGY GROUP TO SYSTEMS AND TECHNOLOGY GROUP PTI", which rows are entitled "Pro forma Technology Group PTI" and "Pro forma Systems Group PTI and Related Intercompany Eliminations (estimate)*".
+ITEM 12.    RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+        All the information in Attachments II (transcript) and Attachment III (charts) of this Form 8-K that is not filed pursuant to Item 5 is hereby furnished under Item 12.
+        IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ATTACHMENT I
+        ARMONK, N.Y., April 15, 2004... IBM today announced first-quarter 2004 diluted earnings per common share of $.93 from continuing operations compared with diluted earnings of $.79 per share in the same period of 2003, an increase of 18 percent. First-quarter income from continuing operations was $1.6 billion compared with $1.4 billion a year ago, an increase of 16 percent. Revenues from continuing operations for the first quarter were $22.2 billion, up 11 percent compared with the first quarter of 2003 revenues of $20.1 billion.
+        Samuel J. Palmisano, IBM chairman and chief executive officer, said: "The IBM team entered the first quarter with good momentum and delivered a solid first quarter. Behind the results, clients are increasingly turning to IBM to help them become on demand businesses. This is creating demand for integrated services and high-performance IT infrastructure based on open industry standards -- areas where we have chosen to lead.
+        "IBM continued to out-perform the industry in our selected segments and gained share. We continued our industry-leading work in services with more than $10 billion in signings after a very strong fourth quarter of signings, and we grew our software and systems businesses, with significant progress in zSeries servers and WebSphere middleware. We delivered double-digit growth in emerging markets such as China, Eastern Europe, India and Brazil. Our balance sheet remains strong, with $8.5 billion of cash on hand.
+        "Despite the strengthening economic recovery, many of our competitors continue to struggle with the fundamental, changing dynamics of the IT industry. Because we anticipated these changes in computing and in how enterprises apply technologywe made significant investments and repositioned IBM during the downturn. Those strategic moves are beginning to pay off for our clients and shareholders. We remain enthusiastic about our prospects for 2004."
+        First-quarter revenue growth of 11 percent (3 percent, adjusting for currency) was driven by growth across all geographies. In the Americas, first-quarter revenues from continuing operations were $9.1 billion, up 6 percent (4 percent, adjusting for currency) from the 2003 period. Revenues from Europe/Middle East/Africa were $7.3 billion, an increase of 15 percent (1 percent, adjusting for currency). Asia-Pacific revenues grew 16 percent (6 percent, adjusting for currency) to $5.2 billion. OEM revenues decreased 3 percent to $671 million compared with the first quarter of 2003.
+        Revenues grew at double digits in three of IBM's five industry sectors in the first quarter, as well as sales to Small and Medium businesses, which led the growth with 15 percent year over year.
+        Revenues from Global Services, including maintenance, increased 9 percent (1 percent, adjusting for currency) to $11.1 billion in the first quarter. Global Services revenues, excluding maintenance, increased 9 percent as well (1 percent, adjusting for currency). IBM signed services contracts totaling more than $10 billion and ended the quarter with an estimated services backlog, including Strategic Outsourcing, Business Consulting Services, Integrated Technology Services and Maintenance, of $120 billion.
+        Hardware revenues from continuing operations increased 16 percent (10 percent, adjusting for currency) to $6.7 billion in the first quarter versus the year-ago period. In the quarter, revenues from the new Systems and Technology Group increased. As a result of a "one team" approach to collaboration between Systems Group and Technology Group, the two segments were combined into one reporting segment in the first quarter of 2004.
+        First-quarter revenues for this group totaled $3.8 billion, up 14 percent due in large part to significant eServer revenue increases for xSeries Intel-based servers, pSeries UNIX servers and zSeries
+servers. The total delivery of zSeries computing power as measured in MIPS (millions of instructions per second) increased nearly 100 percent in the quarter compared with the first quarter of 2003. Revenues for the eServer iSeries midrange servers declined as did Microelectronics revenues. Storage Systems revenues increased due to strength in midrange disk and tape products. Personal Systems Group revenues increased 18 percent to $2.8 billion. Revenues from mobile personal computers increased significantly due to strong demand.
+        Revenues from Software were $3.5 billion, an increase of 11 percent (3 percent, adjusting for currency) compared with the first quarter of 2003. Revenues from IBM's middleware brands, which include WebSphere, DB2, Rational, Tivoli and Lotus products, increased 13 percent to $2.7 billion in the first quarter of 2004. Operating systems revenues increased 6 percent to $604 million compared with the first quarter of 2003.
+        WebSphere revenues in the first quarter increased 24 percent. WebSphere software facilitates customers' ability to manage a wide variety of business processes using open standards to interconnect applications, data and operating systems. Revenues for Data Management increased 10 percent including revenues for DB2 database software, which increased 14 percent. Revenues from Tivoli software (infrastructure software that enables customers to centrally manage networks and storage) increased 18 percent, and revenues for Lotus software, which enables customers to communicate, collaborate and learn effectively, increased 15 percent. Revenues from Rational (comprehensive software development tools) increased 88 percent, benefiting from the comparison to a partial first quarter in 2003 when the business was acquired.
+        Global Financing revenues declined 6 percent (12 percent, adjusting for currency) in the first quarter to $662 million. Revenues from the Enterprise Investments/Other area, which includes industry-specific IT solutions such as product life-cycle management software, increased 13 percent (6 percent, adjusting for currency) to $288 million compared with the first quarter of 2003.
+        The company's total gross profit margin from continuing operations was 36.0 percent in the 2004 first quarter, the same as the first quarter of 2003.
+        In the first quarter of 2004, total expense and other income from continuing operations of $5.7 billion increased 9 percent over the year-earlier period. The company's selling, general and administrative expense-to-revenue ratio improved to 20.2 percent in the quarter compared with 21.0 percent in the first-quarter 2003, while SG&A expense increased 6 percent to $4.5 billion. Research, development and engineering expense increased 14 percent to $1.4 billion. Intellectual property and custom development income declined 36 percent. Other (income) and expense was $13 million of net expense in the first quarter of 2004 versus $84 million of net expense in the same period last year.
+        IBM's effective tax rate from continuing operations in the first-quarter 2004 was 30.0 percent, the same as the first quarter of 2003.
+        For total operations, net income for the first quarter of 2004, including a loss from discontinued operations of $1 million, was $1.6 billion, or $.93 per diluted common share. Net income for the first quarter of 2003, including a loss from discontinued operations of $3 million, was $1.4 billion, or $.79 per diluted share.
+        Share repurchases totaled approximately $1.8 billion in the first quarter. The weighted-average number of diluted common shares outstanding in the quarter was 1.73 billion compared with 1.76 billion shares in the same period of 2003. As of March 31, 2004, there were 1.69 billion basic shares outstanding.
+        Debt, including Global Financing, totaled $23.7 billion, essentially the same at year-end 2003. From a management segment view, the non-global financing debt-to-capitalization ratio was 2.8 percent at the
+end of March 31, 2004, and Global Financing debt declined $300 million from year-end 2003 to a total of $23.0 billion, resulting in a debt-to-equity ratio of 6.7 to 1.
+Forward-Looking and Cautionary Statements
+        Except for the historical information and discussions contained herein, statements contained in this release may constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, as discussed in the company's filings with the Securities and Exchange Commission (SEC).
+Presentation of Information in this Press Release
+        In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company has also disclosed in this press release the following non-GAAP information which management believes provides useful information to investors:
+ - 
+adjusting for currency
+        The rationale for management's use of non-GAAP measures is included as part of the supplementary materials presented within the first-quarter earnings materials. These materials are available on the IBM investor relations Web site at
+www.ibm.com/investor
+.
+Conference Call and Webcast
+        IBM's regular quarterly earnings conference call is scheduled to begin at 4:30 p.m. EDT, today. Investors may participate by viewing the Webcast at
+www.ibm.com/investor/1q04
+.
+*
+2003 Technology Group and Systems Group segment results have been reclassified to conform with current reporting structure.
+ATTACHMENT II
+Thanks and good afternoon. This is Hervey Parke, Vice President of Investor Relations for IBM. Thank you all for joining us.
+Let me start with a quick advertisement. When you went to our Investor Relations website to get to our slides for this earnings presentation, you may have noticed that we have made numerous improvements to IBM's IR website which will facilitate your access to information about our company. These include:
+The IR press room which contains the press releases that we think you will find most relevant;
+An IR calendar of events which will highlight upcoming conference calls and other speaking engagements, and
+"IR corner"a banner alert for information we feel is important to investors.
+We have more enhancements planned for later in the year, and I would encourage you to visit this site from time to time.
+Now, at this time, the opening page of the presentation should have automatically loaded, and you should be on Chart 1the title page.
+After the last chart in the presentation, we will provide you an index to go back to specific slides during the Q&A. Or, you can jump to any chart in the presentation at any time by clicking on the chart name on the scrolling list found on the left navigation bar.
+For printing slides, there are two alternatives:
+There is a link on the index page so you can download the entire set of charts for printing.
+Or, there is a link to printer-friendly charts along the bottom of the presentation window so you can download them at any time.
+In roughly an hour, you will also be able to link to the prepared remarks using a link also found at the bottom of the presentation window.
+And finally, a replay of this webcast will be available on this website by this time tomorrow.
+Let me also point out that this presentation includes certain non-GAAP financial measures in an effort to provide additional information on the Company's results.
+All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules. You will find reconciliation charts at the end and in the Form 8-K to be filed with the SEC immediately following this call.
+Another point. Later tonight, to facilitate your analysis of the newly integrated Systems and Technology Group, we will provide you its past two years of segment results, by quarter. You will find this in both the aforementioned 8-K and via that same link to the prepared remarks at the bottom of the presentation window shortly after we finish the web cast.
+Now, please click on the Next button and move to Chart 2.
+Certain comments made by John Joyce or myself during this call may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+Those statements involve a number of factors that could cause actual results to differ materially.
+Additional information concerning these factors is contained in the company's filing with the SEC. Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+Please click again on the Next button for Chart 3.
+Now, let me turn the call over to John Joyce, IBM's Senior Vice President and Chief Financial Officer.
+Thank you, Hervey.
+IBM's 1st quarter results reflect solid financial performance, and positive signs for the IT environment.
+For the 1st quarter, we had:
+ - 
+$22.2 billion in revenue, up 11% year-to-year
+ - 
+$2.3 billion in pretax income, up 16%
+ - 
+And we delivered 93 cents of earnings per share, up 18% from the 1st quarter of last year
+Our cash flow performance was strong.
+Our balance sheet remains strong, with $8.5 billion of cash on hand.
+And, over the last four quarters, our return on invested capital, excluding our global financing business, was 28%, significantly above the S&P 500.
+After adjusting for currency, revenue grew at 3%, a pickup from the rate in the 4th quarter. When we reported 4th quarter results three months ago, we told you that we were starting to see improvement in the IT environment. This quarter's results reaffirm this view.
+ - 
+Our server products grew 19%:
+Customers' existing infrastructures are the oldest they've been, in nearly 20 years. The need for customers to update their technology, together with strong acceptance of our on demand capabilities, have created a unique opportunity for IBM.
+By the time all companies report earnings, we expect to continue to gain share versus our competitors in major segments of the market.
+During the recent economic downturn, we used the strong, steady results of our Services business to invest in our Systems business, which has led to profitable growth and industry leadership in Systems.
+ - 
+We had double-digit growth in software revenue, with strength in all product areas, providing good profit leverage.
+ - 
+Our Services signings were $11.2 billion, or $10.5 billion at constant currency, following a very strong 4th quarter of over $17 billion.
+ - 
+And we're continuing to gain traction in key customer segments, including Small and Medium business, which grew 15%.
+This strength in these areas has enabled us to focus on some key investments:
+ - 
+In our Services business, we continue to build capabilities in on demand infrastructure and business transformation, which will be a significant driver of growth in the future, and,
+ - 
+We continue to improve yields in our leading-edge 300 millimeter facility, though they are not yet where they need to be.
+So overall, we are pleased with IBM's position. We delivered revenue and profit growth, while improving profitability.
+Based on these results, and a steadily improving environment, the analysts' average estimates for full-year revenue and earnings per share, which by the way have increased over the last 90 days, remain reasonable.
+Now, if you'll click on the Next button for Chart 4, we'll get into our 1st quarter results, starting with Revenue.
+As I said, Total Revenue in the 1st quarter was up 11% as reported, and was up 3% at constant currency.
+This 11% growth follows our 9% growth in the 4th quarter, and reflects steady improvement in customer demand for infrastructure capabilities.
+Revenue for Global Services, half of IBM's revenue, was up 9% year-to-year as reported in the quarter.
+Strategic Outsourcing maintained its steady growthand Business Consulting Services and IT services were up.
+The strongest performance came from Hardware, up 16% as reported.
+zSeries servers continued their strong performance, along with pSeries and xSeries. We continued to extend our leading market position in servers.
+Software revenue grew 11% as reported. We had good performance across our middleware family.
+We believe that hardware and software are key indicators of the IT environment.
+Customers have worked-off the excess capacity of the late 90's, and are buying again.
+This is in contrast to the Services business, which has maintained reasonable growth over that time frame.
+Global Financing revenue declined 6% as reported. Income generating assets were down, although financing originations were up. And, used sales declined from last year's 1st quarter.
+Now please click on the Next button for Chart 5, and we'll discuss our revenue by geography.
+From a geographic perspective:
+Asia Pacific and Americas showed the greatest acceleration over the 4th quarter.
+In the 1st quarter:
+ - 
+Asia Pacific had the strongest revenue growth year-to-year, based on constant currency.
+We had strong growth in China and India, where we continue to invest.
+And Japan, which is about 60% of Asia Pacific's revenue, returned to modest growth this quarter, as the environment started to show signs of recovery.
+ - 
+Americas reversed the trend of the last few quarters, and reaccelerated their growth rate.
+All three of its major regions grew at constant currency, with the strongest growth still coming from Latin America, led by Brazil.
+ - 
+Europe grew slightly overall, with mixed performance by country.
+France and Spain were up. Germany was flat. And Italy and the UK were down.
+Let me add that once again we had very strong growth in Eastern Europe.
+Now let me give you an additional view of revenue by customer set, Chart 6.
+This chart reflects our five worldwide industry sectors, as well as our important Small and Medium Business customers. It excludes our OEM business.
+Let me remind you, that while we report our results by brand and by geography, our go-to-market strategy is based on customer sets.
+ - 
+Sales to our Small and Medium Businesses led the growth in the 1st quarter,
+with double-digit growth in every geography.
+ - 
+The Financial Services sector performance was based on continued strength in Financial Markets, especially in Americas and EMEA.
+ - 
+Industrial sector was led by growth in Automotive and Electronics.
+ - 
+And spending by Communications customers is starting to pick up.
+Now let's turn to Gross Profit, Chart 7.
+Gross profit margin in the 1st quarter was 36%.
+Global Services gross profit margin declined four-tenths of a point from last year's 1st quarter.
+The decline was driven by continued investments in on demand infrastructure and business transformation capabilities. In the services business, these investments are made at a customer contract level and so are reflected in gross margin. We'll expand on this later.
+Hardware gross profit margin was essentially flat.
+And for Software, where revenue grew double digits, gross profit margin increased 1.4 points year-to-year.
+I'll have more on gross profit when I go into a discussion of the business units.
+Now let's turn to Expense, Chart 8.
+Total Expense and Other Income grew 9% in the 1st quarter, as reported.
+Since revenue was up 11%, Total Expense-to-Revenue improved by five-tenths of a point.
+Underneath this, SG&A expense-to-revenue improved eight-tenths of a point.
+Now let me go through our "road map" of specific expense items that can help or hurt earnings in different ways quarter to quarter.
+Three factors slowed earnings growth:
+ - 
+Retirement-related plans, both pension and health, were a year-to-
+year hurt of $187 million. We expect this level of year-to-year impact to continue throughout the rest of the year.
+ - 
+Second, IP Income of $180 million was down $102 million from last year's 1st quarter.
+I'll come back to this in a minute.
+The third factor slowing earnings was continued workforce rebalancing expense of $163 million, $85 million more than last year.
+Offsetting these impacts:
+ - 
+Provisions against Accounts Receivable were $77 million less than last year's 1st quarter.
+Our Reserve coverage is up slightly from where we ended the year.
+This should remain fairly stable from this point forward.
+Returning to the discussion on Intellectual Property:
+This quarter, we did not recognize any large IP transactions, causing IP income to be down $100 million.
+Yet, earlier this week we announced that AMCC will acquire intellectual property associated with IBM's PowerPC 400 standard processor products for approximately $200 million. This supports the PowerEverywhere initiative.
+One last point on currency.
+As we've often pointed out, we have ongoing hedging programs that are intended to mitigate the volatility of currency on period results. Note that currency trends over an extended period of time can impact year-to-year profit growth for any company.
+The impact of these hedging programs is principally reflected in Other Income and Expense as well as cost of goods sold.
+As we normally do, we have provided you a supplemental chart at the end of the presentation which benchmarks currency's potential future impact on revenue, assuming Wednesday's exchange rates.
+Now let's turn to Cash Flows, Chart 9.
+As I said in my introductory remarks, we had strong cash performance.
+Remember that this Cash Flow Analysis chart differs in one respect from our FAS 95 format you will find in the supplemental charts at the back.
+It considers our Global Financing Receivables as an investment on which we make profit, not as Working Capital that we want to minimize for efficiency.
+And the chart lays out the three broad categories of our investments, and what we return to shareholders in the form of stock buybacks and dividends.
+Net Cash Provided from Operations, excluding the change in Global Financing Receivables, was $500 million, up $800 million from last year.
+This reflects growth in our net income, and our continued focus on working capital and supply chain management.
+ - 
+Our accounts receivable collections improved significantly year-to-year, and,
+ - 
+Inventory was down over $250 million year-to-year, and turns improved.
+Turning to our use of cash for investments:
+ - 
+Net Capital Expenditures were $900 million, up over $100 million from last year, reflecting increased net investments in our services business and a lower level of asset sales, partially offset by lower investments in our microelectronics business.
+Let me make a subtotal here since many investors look at cash flow after Capital Expenditures.
+We had a net use of $400 million, reflecting the payout of employee variable compensation. However, we are more than $600 million better than last year.
+ - 
+Next, our Global Financing Receivables, net of changes in Global Financing Debt, declined $2.9 billion, driven by our typical seasonality.
+ - 
+Finally, with no major acquisition activity in the 1st quarter of this year, investments in acquisitions were down $1.1 billion from last year's 1st quarter, when we acquired Rational Software.
+Next, we returned $2 billion to investors.
+ - 
+$1.8 billion of this was through share repurchase which remains an important element of our financial model.
+We bought back 18.3 million shares in the 1st quarter, and average diluted shares for the 1st quarter stood at 1.73 billion, down 1.6% from a year ago.
+We have $5.2 billion remaining after our last Board authorization, which was $4 billion. Note that this was a little higher than the usual $3.5 billion authorization.
+ - 
+And in the quarter, we paid out $271 million in dividends.
+Now, please turn to Chart 10, and we'll discuss the Balance Sheet.
+At the end of the 1st quarter, our cash levels grew to $8.5 billion:
+ - 
+up $2.9 billion dollars from a year ago,
+ - 
+and up sequentially $900 million, despite payment for employee variable compensation.
+97% of our total debt of $23.7 billion was driven by our Global Financing business, and Global Financing was leveraged at an appropriate 6.7 to 1.
+The remaining non-financing debt level was $700 million, down $1 billion from a year ago.
+Debt-to-capital was well within acceptable levels of 2.8 percent.
+Our Balance Sheet remains very strong, and we are well positioned to capitalize on future opportunities.
+Now let me turn to a discussion of some of the individual businesses, starting with Global Services, Chart 11.
+Global Services met our growth expectations.
+We delivered IGS Revenue of $11.1 billion, up 9% as reported. Total signings for Services this quarter were $10.5 billion at constant currency.
+The backlog for Global Services, including Strategic Outsourcing, BCS, IT Services and Maintenance, was estimated at $120 billion at the end of the quarter.
+We continued to make progress in contract rescopings which declined year-to-year, for the fifth consecutive quarter.
+IGS Gross Profit Margin at 24.5% was down year-to-year by four-tenths of a point.
+We have reached a point where we expect this margin to gradually improve in the second half of the year.
+First, we have made strategic, targeted investments in our on demand infrastructure capabilities as well as long-term business transformation offerings.
+ - 
+Unlike hardware with its up-front development expense, these services investments are often made as part of specific customer engagements, and are reflected in our gross profit margins.
+ - 
+These investments drive future revenue growth, and follow-on contracts will benefit from greater productivity and improving margins.
+Second, we have come through a period of increased contract rescopings, as you would expect during an economic downturn.
+ - 
+These rescopings can reduce overall portfolio profitability, while new contracts mature.
+ - 
+But, as I have noted, the amount of rescopings has been down five quarters in a row.
+Now, let's review the three major segments of Global Services:
+Strategic Outsourcing, which was about 40% of Global Services, was up 16% year-to-year.
+Through the use of our unique business transformational skills and the leverage of our existing scale, we gained share in Strategic Outsourcing.
+And, e-Business hosting, which provides web hosting infrastructure and application management as an Internet service, continued its strong pattern of growth, up over 30% year-to-year, with positive profit contribution in each geography for the fifth consecutive quarter.
+Integrated Technology Services, was about 30% of Global Services.
+Revenue for ITS was up 6%, driven by growth in our:
+ - 
+Business Continuity and Recovery Services,
+ - 
+Software product services, and
+ - 
+Product maintenance.
+And finally, Business Consulting Services, which was about 30% of IGS, grew 4% year-to-year.
+Our Consulting and Systems Integration business, currently most of BCS' total revenue, improved its year-to-year performance from last quarter in a weak but recovering market.
+Consulting and Systems Integration remains dependent upon a sustained economic upturn.
+Revenue growth is key for this business, that typically lags economic recovery.
+The pipeline for our long-term Business Transformation offerings continues to show signs of strength for 2004, confirming our view that this business will develop into a growth-driver through 2004 and into 2006.
+We are on track to improve BCS' profitability during 2004, through the initiatives I mentioned last quarter, including:
+ - 
+A targeted 4-point improvement in utilization,
+ - 
+Optimization of the labor mix, and
+ - 
+Working to reduce our overhead costs by 15%.
+So, for Global Services, we continue to expect margin improvement, while making significant investments in our on demand initiatives of business transformation, on demand infrastructure and key customer accounts.
+Now, click on the Next button for Chart 12, and I'll discuss our Hardware businesses.
+Hardware, at $6.7 billion of revenue, grew 16% as reported.
+The Systems and Technology Groups were combined at the beginning of the year, reflecting the need to better leverage their combined expertise.
+System performance is increasingly about the integration of system and technology skills.
+For example, last month we launched Power Everywhere which includes the industry's first openly collaborative chip architecture.
+With this open technology we intend to enable the broadest possible community around Power, from game developers, to our own supercomputers. This move recognizes that system level integration, not chip frequencies, will drive performance gains and innovation from semiconductors going forward.
+The Systems & Technology Group had strong year-to-year revenue growth of 14% in the 1st quarter.
+With these results, we are confident we will have gained share in major segments of the systems market including Unix, Linux, Intel, blades, and total storage. We are the clear market leader in servers. The growth was geographically broad-based and reflects good performance in all market segments.
+Our knowledge of both technology and systems architecture has enabled our sustained leadership over a remarkable period of time.
+Consider that, earlier this month, we celebrated the 40th anniversary of the IBM System/360. And, in the 1st quarter, zSeries revenue grew 34% year-to-year, with MIPS growth of nearly 100%.
+The strong growth in the 1st quarter was driven by new applications and Linux workloads on the zSeries in addition to increased workloads on existing applications.
+We continued to execute on our strategy to deliver attractive hardware and software price performance as well as clear leadership in areas like virtualization, automation, security and reliability to address the total cost of computing.
+Our pSeries UNIX server revenue grew 15% year-to-year.
+We continued to see very strong demand for our 64-bit POWER systems across our entry and high-end server offerings.
+Earlier in the 1st quarter, we announced a new p690 which, compared with Sun
+Sparc and HP RISC systems, delivers better performance with half the processors. The performance advantages resulting from our leading POWER architecture are what enables attractive price/performance for our customers and attractive returns for our shareholders.
+We also see significant traction in our Linux-on-Power pSeries offerings giving customers the robustness of 64-bit POWER at 32-bit prices.
+The POWER-based BladeCenter JS20 will bring this value proposition to the market, and is another addition to our market-leading BladeCenter offering.
+When IDC releases its 1st-quarter market analysis, we believe pSeries will again gain significant share, marking the seventh quarter in a row of competitive share gains.
+iSeries revenue declined 7% in the 1st quarter, compared to a strong prior year quarter in which we announced the launch of the new iSeries platform.
+We will announce a new iSeries product line based on integrated Power 5 technology, which will ship near the end of the second quarter,
+Our xSeries revenue grew 24% year-to-year. xSeries servers grew 28% with strong growth across the product line from both low-end 1 and 2-way ser vers to high-end 8-way and above servers.
+BladeCenter revenue more than doubled. IBM is leading and shaping the blade market.
+In the 1st quarter, we:
+ - 
+shipped the industry's most powerful 4-way blade at close to one-fourth the size of the competitor's offering
+ - 
+announced BladeCenter T, optimized and "hardened" for the Telco industry, and, as I mentioned
+ - 
+we began shipping the first POWER processor in a blade formfactor.
+We believe that when the industry data becomes available, IBM xSeries servers will also have gained more than a point of revenue share.
+Turning to storage, revenue for IBM Total Storage grew 16%, reflecting the strength of the industry's most complete portfolio of information management solutions.
+Our disk revenue grew 11% year-to-year, on the continued strength of midrange that grew 35% year-to-year.
+Tape grew nearly 25% year-to-year, the third consecutive quarter of double-digit growth
+And, last week we introduced the midrange Enterprise Storage System 750 a powerful storage system that brings enterprise-class technology to the midrange segment.
+The ESS 750 was designed to integrate with the zSeries 890, and provides a compelling replacement for competitive legacy midrange products.
+Demand for our OEM technology is strong, however, we must continue to improve our yields in our 300-millimeter facility.
+Our 200- millimeter plant in Burlington performed well, with both strong demand and higher-than -expected yields.
+IP income was light, reflecting that signings for IP, like large services contracts, are not evenly spread by quarter.
+Also, our Engineering and Technology Services performance was strong this quarter with double-digit revenue growth both year-to-year and sequentially.
+In the 1st quarter, two industry leaders, Sony and Samsung, attested to the value of IBM's technologies with strategic commitments.
+Sony Group is investing $325 million to facilitate production of next generation 65-nanometer chips in IBM's 300-millimeter semiconductor manufacturing facility.
+Samsung Electronics joined IBM's chip development alliance with Infineon and Chartered Semiconductor, broadening the base of firms utilizing similar processes. Although we have combined our Systems and Technology Groups, we don't want you to lose sight of the financial progress of our microelectronics business. On a pro-forma basis, our former Technology Group would have lost approximately
+$150 million in the first quarter, of which roughly $100 million was due to IP.
+As I mentioned earlier, we announced a deal with AMCC which is expected to deliver approximately $200 million of IP income in the second quarter. This will help the Group's profit in the 2nd quarter.
+I have said in the past that the Technology Group needed approximately $1.1 billion of revenue to break even. This revenue included sales to our Systems divisions.
+Obviously, in any given quarter, this is dependent on multiple factors including the amount of IP income.
+In this Group's new construct, which is based only on external revenue, Technology OEM revenue of approximately $725 million should indicate br eak-even profitability in a typical quarter.
+In the 1st quarter there was about $590 million of Technology OEM revenue.
+However, we expect the former Technology Group to be profitable in 2004 based on improving yields, flat IP income, and increased demand.
+So, bringing it all together, by leveraging our systems and technology skills, the Systems and Technology Group delivered $170 million of profit in the 1st quarter, and importantly, continued to extend our leading market share position in servers.
+Turning to our Personal Systems Group.
+Revenue from Personal Systems was up 18% year-to-year, driven again by strong performance worldwide by our ThinkPad laptop computers.
+ThinkPad revenue and units were up over 40%.
+Growth was strongest in Asia Pacific, particularly in China, where we are number one in mobile.
+This is important as China is expected to be the fastest growing major PC market over the next few years.
+Driven by this strong performance in mobile, we believe we will gain share in commercial PCs when the data becomes available.
+And we continued to roll out new ThinkPads.
+In the 1st quarter, we delivered a completely redesigned ultraportable notebook computer, the ThinkPad X40, at less than three pounds. It is setting new industry standards for portability, battery life, and wireless connectivity in ultraportables.
+It is also one of the toughest, with IBM's exclusive laptop "airbag" Active Protection System to protect hard drive data.
+Our Retail Store Solutions unit also delivered strong growth worldwide, as we would expect from the market leader in point-of-sale solutions.
+And in the 1st quarter, RSS announced a new point-of-sale system for the food service and hospitality industries and new models of its SurePoint touchscreens.
+The Personal Systems segment had a loss of $11 million dollars, a $58-million improvement year-to-year
+.
+Now if you'll move to Chart 13, we'll cover Software.
+Our software business, at $3.5 billion, grew 11% as reported.
+ - 
+Operating Systems were up 6%, while
+ - 
+Middleware was up 13%.
+Middleware growth on
+ - 
+Our distributed platforms was a strong 21%, while
+ - 
+Our host platform grew 10%.
+During the quarter
+ - 
+We improved our gross profit margin by 1.4 points, and our software segment profit margin by 3.9 points.
+ - 
+Meanwhile, we realigned our software sales force in January to be consistent with our customers' industry-specific needs.
+And, we strengthened our software portfolio through two recent strategic acquisitions, Trigo Technologies and Candle Corporation.
+Now, let's look at our middleware software products.
+We believe IBM's Software segment gained share in several key product areas.
+The WebSphere family of software is the industry's most complete portfolio of
+infrastructure software for integrating and managing high-volume transactions.
+Growing 24% for the quarter, the WebSphere family exceeded the Street's growth expectations for our largest competitor
+.
+ - 
+While our application server revenue grew at 33%, customers continued to focus on our higher-function WebSphere products, driving strong double-digit growth there as well. Our WebSphere Portal software grew 56%, and our Business Integration software grew 19%.
+Rational continued to exceed our original expectations.
+ - 
+Rational is the foundation of the industry's most complete, integrated set of development tools for business applications.
+Today, more than 600,000 software developers use Rational tools to plan and execute large software development projects, and 98 of the Fortune 100 companies use Rational tools to build better software.
+Our Data Management software revenue grew 10%.
+ - 
+DB2 database software grew 14% driven by balanced growth in both our distributed and host products, benefiting from a continued strong pattern of upgrades.
+ - 
+Our DB2 database tools grew 18%.
+Tivoli software grew revenue 18% for the quarter, the third consecutive quarter of double-digit growth, and showed good performance in each segment
+ - 
+Tivoli Systems Management software grew 11% as customers focused on complex distributed web systems.
+ - 
+We saw continued strength in Tivoli Storage software which grew 31%, driven by sales of Tivoli Storage Manager as well as the expansion of technical support for Storage Area Networks. This software complements IBM's family of storage hardware products.
+ - 
+Tivoli Security software grew 73%, benefiting from the acquisition of Access360.
+Tivoli's products are an important part of our customers' on demand strategy, enabling them to securely automate many of their processes to gain efficiencies.
+Lotus revenue was up 15% for the quarter:
+ - 
+Notes Domino products grew 12% for the quarter, reflecting continued demand for our Notes-based collaborative software.
+ - 
+Our recently announced Lotus Workplace offering continues to gain momentum in the marketplace, adding approximately 150 new customers in the quarter, for a total of 320.
+In addition to these key brands, Other Middleware, including our traditional host software products like CICS, Other Storage and Printer Software, grew 7% for the quarter.
+Our momentum with Independent Software Vendors, ISVs, continued to build.
+ - 
+This quarter we signed six Strategic Alliances including expansion into the small and medium business space with IBS, a Stockholm-based company with virtual enterprise and supply chain applications.
+So, a good quarter for IBM Software.
+ - 
+Good growth across our middleware brands
+ - 
+Successful realignment of our software salesforce
+ - 
+Improved gross profit and segment profit,
+And, we are acquiring two software companies to further enhance our portfolio.
+Now if you'll click on the Next button for Chart 14, I'll quickly wrap up.
+Customers are driving the technology agenda, and they understand that to be an on demand business, they need to be flexible and responsive.
+They can't get there just by web-enabling individual applications or processes.
+ - 
+It's about bringing together business processes.
+ - 
+It's about bringing together customers and suppliers.
+ - 
+It requires deep business knowledge, and open standards, and horizontal integration.
+ - 
+This is all enabled by information technology.
+ - 
+And, increasingly, what our customers want is for someone to help them with their non-core business processes, so that they can focus on the processes that differentiate them in the marketplace.
+This work is beyond the scope of traditional piece-part IT providers. And it requires synergy between the elements of the solution, such as:
+ - 
+business process insight married with technical innovation
+ - 
+software and servers, based on leading-edge research, and
+ - 
+microprocessors architected specifically for systems.
+Our competitive advantage is a combination of the breadth of our offerings, and our ability to bring them all together.
+The financial benefit of this integrated portfolio is a Return on Invested Capital that we have sustained well above the S&P 500 average. It's an important point because it reflects our management discipline and strategy, and our resulting capital efficiency with our investors' money.
+Last year, IBM returned 28% on invested capital. This measure excludes our Global Financing business, which is more appropriately measured on return on equity.
+Over the last five years, IBM's total Return on Invested Capital, including Global Financing, has ranged between 5 and 15 percentage points above that of the S&P 500, and well above our weighted average cost of capital.
+Most companies can deliver impressive Return on Invested Capital for one year. The key is to deliver impressive Return On Invested Capital on a sustained basis.
+And we're off to a good start again this year. We delivered another solid quarter:
+ - 
+Strong revenue growth
+ - 
+Continued share gains in key segments
+ - 
+Improving profitability, and
+ - 
+Strong cash flow with a strong balance sheet.
+These 1st quarter results, followed by continued execution of our on demand strategy, and a steadily improving IT environment should enable us to deliver our 2004 objectives, high single-digit revenue growth and double-digit earnings per share growth.
+Now Hervey and I will take your questions.
+Thanks, John.
+Now, if you'll all go to the next chart, you'll find an index of all our slides that may be helpful during the Q&A.
+Remember that we also have a few supplemental charts following the index.
+OK, let's get started.
+Attachment III
+ 
+IBM 1Q 2004
+Earnings Presentation
+April 2004
+Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the Company's filing with the SEC.  Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations.
+ 
+ 
+May not add due to rounding
+ 
+ 
+* Reclassified to conform with 2004 presentation
+ 
+May not add due to rounding
+May not add due to rounding
+May not add due to rounding
+ 
+* Excluding Cash & Marketable Securities
+ 
+May not add due to rounding
+ 
+ 
+ 
+Strong software results
+Acquiring two key software companies
+ 
+ - 
+              Candle
+ - 
+              Trigo
+HISTORICAL RETURN ON INVESTED CAPITAL
+ 
+ 
+Note: IBM 2002 as reported, including restructuring charges See Form 8K for reconciliation
+ 
+May not add due to rounding
+In an effort to provide investors with additional information regarding the Company's results as determined by generally accepted accounting principles (GAAP), the Company also discloses the following non-GAAP information which management believes provides useful information to investors:
+ 
+Management refers to growth rates at constant currency or adjusting for currency so that the business results can be viewed without the impact of changing foreign currency exchange rates, thereby facilitating period-to-period comparisons of the Company's businesses. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates.
+ 
+Management includes a presentation of cash flows that excludes the effect of Global Financing Receivables and subtracts net capital investments from Net Cash from Operations. For a financing business, increasing receivables is the basis for growth. Receivables are viewed as an investment and an income-producing asset. Capital investments are necessary to grow and sustain the business. Therefore, management presents financing receivables as an investing activity and Net Capital Investments as a reduction of Net Cash from Operations. Management's view is that this presentation gives investors the best perspective of cash available for investment or for distribution to shareholders. Reconciliation to Net Cash from Operations is provided herein.
+Management includes a pro forma estimate of PTI of the old Technology Group segment for the quarter ended March 31, 2004. This amount does not exist in the IBM Financial Systems and therefore is estimated. This data is neither reviewed by IBM management (except for purposes of this disclosure), used to assess performance, nor used to make resource allocation decisions. The presentation was created to provide a directional statement to our investors on the profitability of the Technology Group as it existed in 2003, and also because we believe it provides greater transparency into the first presentation of our new operating segment, Systems and Technology Group.
+ 
+Our return on invested capital (ROIC) is our rate of return on capital that we have invested. We use ROIC as a measure of how effectively we allocate our capital and our profitability on both a total
+IBM basis and on a non-Global Financing basis. Management presents ROIC excluding the impact of Global Financing as it provides a better measure of our mainline businesses and is a more appropriate point for comparison with our industry. Management believes that the leveraged nature of Global Financing makes company-wide ROIC a less useful metric for this business.
+ 
+May not add due to rounding
+ 
+ 
+ 
+* Represents the sum of estimated amounts for Systems Group under the 2003 construct and elimination activity between the two units.
+ATTACHMENT IV
+Reconciliation of IBM Return on Invested Capital
+ROIC = Income from continuing operations excluding Interest expense/Invested Capital
+Invested Capital = Long-term debt + Stockholders' equity
+        The reconciliation to the most comparable U.S. GAAP measurements for the numerator and denominator are as follows:
+*
+Calculated using the consolidated effective tax rate for each respective year.
+Reconciliation of Non-Global Financing Return on Invested Capital
+*
+Calculated using the consolidated effective tax rate for each respective year.
+**
+Allocated based on ratio of Global Financing debt to total debt.
+ATTACHMENT V
+        As discussed in the company's 2003 Annual report, over recent years the company has been developing and enhancing a "one team" approach to the collaboration between the Systems Group and Technology Group. The one-team approach is crucial not only to the competitive differentiation driven by IBM's core technologies, but it will also accelerate IBM's ability to exploit the discontinuity around semiconductor technologies themselves. Frequency alone, as measured in megahertz or gigahertz, no longer provides a meaningful representation of chip performance, but rather it is the integration of system functions onto the semiconductor that will provide performance advantages. These "system on a chip" designs require a deep expertise in both semiconductor and systems design as well as a very strong integration of these skills. The degree of this collaboration has increased whereby in 2004, the company is managing these groups as one. Accordingly, in the first quarter of 2004, the company combined the two segments into one reporting segment. The new Systems and Technology Group segment will generate one consolidated set of financial results, which senior management will use for joint strategy, budgets and resource allocation decisions, as well as performance and compensation scoring.
+        The 2003 and 2002 quarterly and full year Technology Group and Systems Group segment results have been reclassified in Attachment V-A and Attachment V-B, to conform with the one reporting segment. The company is providing this data in order to facilitate an analysis by users of the company's consolidated financial statements.
+        The results of the combined Systems and Technology Group segment differ from the sum of the two individual segments as reported. These differences are due to the elimination of internal transfer pricing between the two groups, Technology Group sales to contract manufacturers subsequently repurchased by Systems Group, and timing differences between inter group shipments versus shipments to external customers from Systems Group which include Technology Group parts. All such differences represent eliminations and other adjustments between IBM's reportable segments and IBM's consolidated results. There is no impact to the company's Consolidated Statement of Earnings, Consolidated Statement of Financial Position or Consolidated Statement of Cash Flows.
+Attachment V-A
+Management System Segment View
+Reconciliation to IBM as Reported:
+(Dollars in millions)
+Reconciliation to IBM as Reported:
+(Dollars in millions)
+Reconciliation to IBM as Reported:
+(Dollars in millions)
+Reconciliation to IBM as Reported:
+Reconciliation to IBM as Reported:
+Management System Segment View
+Reconciliation to IBM as Reported:
+Reconciliation to IBM as Reported:
+Reconciliation to IBM as Reported:
+Reconciliation to IBM as Reported:
+Reconciliation to IBM as Reported:
+Attachment V-B
+Management System Segment View
+Reconciliation to IBM as Reported:
+(Dollars in millions)
+Reconciliation to IBM as Reported:
+(Dollars in millions)
+QuickLinks
+Item 5. Other Events
+ITEM 12. RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+SIGNATURE
+ATTACHMENT I
+IBM REPORTS 2004 FIRST-QUARTER RESULTS
+ATTACHMENT II
+ATTACHMENT IV
+ATTACHMENT V
+Attachment V-A
+SEGMENT INFORMATION Quarter Ended March 31, 2003 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended June 30, 2003 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended September 30, 2003 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended December 31, 2003 (UNAUDITED)
+SEGMENT INFORMATION Full Year Ended December 31, 2003 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended March 31, 2002 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended June 30, 2002 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended September 30, 2002 (UNAUDITED)
+SEGMENT INFORMATION Quarter Ended December 31, 2002 (UNAUDITED)
+SEGMENT INFORMATION Full Year Ended December 31, 2002 (UNAUDITED)
+Attachment V-B
+SEGMENT ASSET INFORMATION Full Year Ended December 31, 2003 (UNAUDITED)
+
+

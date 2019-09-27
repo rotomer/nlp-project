@@ -1,0 +1,1064 @@
+FILE:CSC/CSC-8K-20090521162221.txt.gz
+EVENTS:	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+FINAL TRANSCRIPT
+ 
+ 
+ 
+ 
+CSC  Q4 2009 Computer Sciences Corporation Earnings Conference Call
+ 
+ 
+ 
+ 
+Event Date/Time:  May.20.2009 / 5:00PM ET
+ 
+ 
+ 
+ 
+ 
+CORPORATE PARTICIPANTS
+ 
+Brian Brady
+Computer Sciences Corporation - VP, IR
+Mike Laphen
+Computer Sciences Corporation - Chairman, President, CEO
+Mike Mancuso
+Computer Sciences Corporation - CFO
+Don DeBuck
+Computer Sciences Corporation - VP and Controller
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+Karl Keirstead
+Kaufman Brothers - Analyst
+Julio Quinteros
+Goldman Sachs - Analyst
+Jason Kupferberg
+UBS - - Analyst
+Rod Bourgeois
+Sanford Bernstein - Analyst
+Brian Keane
+Credit Suisse - Analyst
+Ashwin Shirvaikar
+Citigroup - - Analyst
+Shlomo Rosenbaum
+Stifel Nicolaus - Analyst
+Melissa Moran
+Thomas Weisel Partners - Analyst
+Moshe Katri
+Cowen and Company - Analyst
+ 
+ 
+PRESENTATION
+ 
+Operator
+ 
+ 
+Good day, everyone, and welcome to the CSC FY 2009 Fourth Quarter and year-end earnings conference call. Today's call is being recorded. For opening remarks and introductions, I would like to turn the call over to Brian Brady, Vice President of Investor Relations. Please go ahead, sir.
+ 
+ 
+Brian Brady
+- Computer Sciences Corporat
+ion - VP, IR
+ 
+Thank you, operator, and good afternoon everyone. Welcome to CSC's earnings call for the Fourth Quarter and Fiscal year 2009. We hope you've had a chance to review our financial results which was issued earlier this afternoon. With me today are Mike Laphen, our Chairman and Chief Executive Officer and Mike Mancuso, our Chief Financial Officer. As usual, this call is being webcast at CSC.com and we've also posted slides to our website to accompany our discussion.
+ 
+On slide two there's a reminder of the statement made during this call that are not historical facts may be considered forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to known and unknown risks and uncertainties which could cause actual results to differ materially. Additional information concerning these risks and uncertainties is contained in the Company's filings with the SEC. And copies of these filings are available from the SEC, from our website, and from our Investor Relations department.
+ 
+Slide number three acknowledges that CSC's presentation includes certain non-GAAP financial measures. In accordance with SEC rules, a reconciliation of these metrics to GAAP metrics is included in the tables of the earnings release and in the appendix to our slides. Both documents are available for your review at the Investor Relations segment of the CSC website. Finally, I would like to remind our listens that CSC assumes no obligation to update the information presented on this conference call, except as required by law.
+ 
+Now, if you will please move to slide number four, I'm pleased to turn the call over to Mike Laphen.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Thank you Brian and good afternoon everyone. First I would like to welcome Brian to this inaugural earnings call in his new IR role. And also express my thanks to Bill Lackey for his many years of service to CSC.
+ 
+Last month CSC celebrated it's 50th year, a significant milestone for any business. We believe that CSC's strategic direction, competitive position and our current results provide a strong foundation for our next 50 years. And so I'm especially pleased to have the opportunity today to speak with you about our 2009 fiscal year and Fourth Quarter results.
+ 
+As slide five summarizes, our fiscal 2009 and its fourth quarter were successful and important steps in our drive to improve our financial performance. For the full fiscal year, we delivered GAAP EPS of $7.31, including tax benefits. Accomplished unprecedented cash performance, achieved our margin improvement goal, successfully completed our NHS milestones, and remediated our tax accounting related material weakness while delivering a major tax benefit to our bottom line results. Mike Mancuso will provide further details this his remarks on our EPS performance as well as our positive tax result.
+ 
+Our cash flow performance speaks to our commitment to manage all of our cash levers. Additionally, given the importance of cash to every Company in this current economic environment, this result is indicative of the quality of our delivery performance for our customers. Importantly, our Fourth Quarter results provide CSC with a cash balance of approximately $2.3 billion, which enables continuing flexibility to fund our foreseeable business needs.
+ 
+As slide six depicts, we plan to sustain our financial performance in fiscal year 2010. In particular, we plan to continue to position CSC for new business opportunities and profitable growth. And achieve earnings improvement despite an anticipated modest overall revenue decline by maintaining focus on cash management and cost management. and by removing risks and uncertainties surrounding our major benefit plans, and by continuing our solid NHS performance.
+ 
+Delivering results for our clients is the Hallmark of CSC. And as shown on slide seven, our performance for the NHS is no exception. Fiscal year 2009 marked another successful year for CSC and the NHS program as we a accomplished our deployment objectives and met our financial objectives. We're pleased to report that we successfully achieved our major milestone for Lorenzo Release one in the fourth quarter with our third early adopter, Bradford going live in March. The corresponding cash payments were received as forecasted.
+ 
+In addition, we achieved an important milestone for our ambulance solution and successfully completed the build of a contingency PACS solution for the NHS in the South of England. Both of which almost made a positive contribution to the quarter. To date in our work on the NHS program, CSC has successfully completed well over 1800 system deployments in setting across the entire healthcare system; in GP practices, communities, mental health and child health, as well as an acute hospitals and Returning now to our overall fiscal year 2009 performance, slide eight shows changes in the revenue composition of our businesses over the last two fiscal years and our fiscal year 2009 growth results. Despite the difficulties of the global economy and head winds from several major currency swings, our fiscal year 2009 revenues of $16.7 billion reflect positive growth of 1.5% as reported and 4.3% in constant currency. Given market conditions, we consider this positive top line growth for fiscal year 2009 a noteworthy accomplishment and are pleased that all three lines of business show positive growth in constant currency. On an as-reported basis, this result, however, approximately $100 million less than our last guidance. We attribute about half of this amount to further currency impacts and the other half to a shortfall in revenues from our North American public sector.
+ 
+Now, to address our fiscal 2009 new business bookings, I'll draw your attention to slide nine. In aggregate, we achieved total bookings for the year of $16.2 billion, up 4% year-over-year. Early in the new fiscal year, we have already announced some important signings, including the $570 million UK Identity and Passport program and a new $100 million outsourcing agreement with Xerox.
+ 
+In the Fourth Quarter, BS&S held its ground in a very difficult market achieving flat bookings while realizing an overall bookings growth of approximately 9.7% for the full year. Given the difficulty of the economic environment, we consider this result quite positive as it reflects the quality of both our client relationships and our delivery performance. Year-over-year global outsource bookings grew from $100 million to $800 million in the Fourth Quarter and from $2.2 billion to $4.4 billion for the full year. Our outsourcing pop line for fiscal years 2010 through 2012 period currently stand at approximately $10 billion of qualified opportunities. Importantly, expressions of interest in outsourcing are now turning into deal flow.
+ 
+NPS bookings for fiscal 2009 were $7.3 billion, our second highest booking year of the last five years. This yields a constructive book-to-bill ratio of 1.2, even though on a comparative basis this result was down from last year's exceptionally high result of $9.3 billion. This positive fiscal year 2009 result was achieved despite delays in several large opportunity with award dates shifted out of CSC's fiscal year. Our NPS pipeline for fiscal year 2010 through 2012 period currently contains some $26 billion of opportunities of which $16 billion are scheduled for award in fiscal year 2010.
+ 
+We expect NPS to return to its historical growth rates of mid to upper single digit in the fiscal 2010. A strategic initiatives in areas such as healthcare, intelligence and identity management as well as training and simulation generated solid growth in fiscal year 2009 the and positioned us for the new US administration's priorities and budget initiatives. Additionally, several important wins occurred late in the fourth quarter and early in fiscal year 2010. These will contribute net new revenue in fiscal year 2010.
+ 
+Turning to slide ten, our top line performance by industry for the year shows flat to positive performance in constant currency for five of our six vertical industry groups. Our public sector business grew 4% and is expected to show solid growth in fiscal year 2010 as new programs come online such as UK Identity and Passport program, I mentioned earlier.
+ 
+In constant currency, our health services business grew 30% which includes the effect of the first consulting group acquisition in Q4 of fiscal year 2008. We expect continued growth from our health services sector in fiscal year 2010. Our Medicare Part D offerings and our claims expense management solutions were the basis of contract signings in fiscal year 2009 that will help generate growth in fiscal 2010. Additionally, the NHS program is expected to continue growth in constant currency as deployments continue and as we accomplish our next release of Lorenzo.
+ 
+Give the extreme distress and financial services manufacturing industries globally, we consider our flat but positive results for the year in constant currency as constructive. Chemical, energy and natural resources continue to be an area of strength for CSC as we serve a number of the world's major resource companies and we saw growing demand in our utilities business. Our Looking forward to 2010, slide 11 depicts some of the major market trends that will shape CSC's future. In our markets, we see real opportunity for CSC. Our commercial and public sector healthcare businesses along with our track record at NHS, establish CSC as a major player in the global healthcare reform unit.
+ 
+As I just mentioned, our outsourcing pipe lines are growing and the quality of the opportunities is strengthening. We have offerings such as remote infrastructure and virtualization as well as application management services that addresses the immediate needs of clients to reduce cost and limit capital requirements, while providing a rapid return on investment. We believe we are well positioned for this next growth phase of the outsourcing market.
+ 
+As one of the few companies that has significant businesses in both public and commercial sectors, we are strongly, if not uniquely, positioned as a leading competitor in the growing cyber space and identity management markets. Again, our recent win of the UK Identity and Passport program is evidence of this competitive strength.
+ 
+Not only are we managing our business for strong operating results and cash performance, but many of our product lines enable or clients to do so as well. Our BPO businesses in the property and casuality industry are coming off a strong year. And we believe that our BPO offerings to the life insurance industry are becoming even more compelling given the current environment.
+ 
+In the health services sector, our claims management solution provides another example as it enables healthcare payors, including self insured companies, to manage their claims more effectively. Today regulatory uncertainty, complexity, and compliance are increasingly important issues across many industries. Many of our health and financial services solutions help our clients deal directly with the myriad of issues of regulatory compliance, as well as the need for consistency in the applications of rules and guidelines when interfacing with individual consumers and citizens.
+ 
+For example, CSC's early resolution product is a software as a service offering that enables loan services and consumers to address individual mortgage issues, including restructuring and default avoidance. With more than a 40% market share, this innovative business to consumer solution has earned CSC a strong position with major financial institutions and has helped keep borrowers in their homes.
+ 
+For companies in the chemical, energy, pharmaceutical and manufacturing industries, the movement and tracking of hazardous or restricted chemicals and materials is a complex issue with significant regulatory oversight. Within the European Union markets, Reach compliance is now required. Here, again, CSC is at the fore front of providing companies the services and solutions required to support their enterprise compliance and sustainability programs.
+ 
+Whether our products and services are used within consulting arrangements, as web-based services, licensed products, components of an outsourcing agreement or internally within a BPO relationship, our clients rely on CSC to help them achieve regulatory compliance and operating efficiency. In summary, there is growth opportunity for CSC in this market.
+ 
+Turning to slide 12, for fiscal year 2010, we expect new business bookings to be in the range of $17 billion to $18 billion, an increase of 5% to 11% over our fiscal year 2009 result. However, significant currency headwinds in the first have and macroeconomic conditions will continue to pressure the top line. Accordingly, we expect revenue to be in the range of $16 billion to $16.5 billion. We are raising free cash flow guidance to between 90% and 100 % of net income. We anticipate a further expansion in operating margin of 25 to 50 basis points and to grow earnings between $4.20 and $4.30 per share.
+ 
+At this point, I would like to turn the call over Mike Mancuso for further details in this quarters and well as the full year's financials.
+ 
+ 
+M
+ike Mancuso
+ 
+ 
+Computer Sciences Corporation - CFO
+Thanks, Mike, and a good afternoon to all. I want to echo the sentiment and characterization of the Fourth Quarter of full year results that Mike Laphen expressed during his opening remarks. I believe by any standard we recorded a very solid quarter, particularly in light of the difficult worldwide economic environment. In addition to our strong performance in the quarter, we have also fixed some things that needed fixing and eliminated near term and potential long-term volatility surrounding asset performance and funding uncertainty in our major benefit plan. And I'll talk more about this in a few minutes.
+ 
+So if you'll turn to slide 14, cash is the big story for the quarter. Free cash flow in the quarter totaled $850 million bringing the full year total to just over $1 billion, an increase of almost $850 million. Days outstanding or DSOs improved by six days and free cash flow for the year is 92% of net earnings. Frankly, we did much better in the quarter than our previous guidance suggested. And as Mike said, we did achieve the major NHS milestones and collected the payments we had anticipated. But NHS is not the full story, as many of our other businesses were significant contributors.
+ 
+Last quarter in our press release our revenue guidance for the year was $16.8 billion, which implied $4.2 billion for the fourth quarter. For the full year we recorded $16.740 billion which resulted in a $4.1 billion achievement in the fourth quarter. Of the rounded one -tenth of a billion that we were off roughly $50 million was currency related. Reported EPS of $7.31 for the year and $2.51 in the quarter significantly exceeded our guidance of $6.30 for the year and dollar $1.50 for the quarter.
+ 
+You may recall that we did note in the press release last quarter that we were undergoing several tax audits, both domestically and internationally. Many of the audits were concluded in the quarter, obviously yielding a favorable EPS impact. So excluding the tax gain and the unanticipated good will impairment charge of $0.12, we came in just about in line with the guidance we gave you. As the chart suggests OI margin in the quarter and full year has improved. We remediated a tax accounting material weakness. It has been downgraded to a significant deficiency and we have a road map in place to eliminate the deficiency in our current fiscal year. Our balance sheet is stronger, including a significant reduction in net debt.
+ 
+Moving to slide 15, I have addressed most of these numbers. The good will impairment of $19 million was taken against one of our Asian businesses. Normally, the Company does their annual impairment testing in the Second Quarter which was completed with all reporting segments passing the Phase one screen. The economic turmoil of the last several months triggered the need to reevaluate several reporting segments during the fourth quarter, resulting in one of the businesses incurring the charge. And as I said, the EPS impact was $0.12.
+ 
+Slide 16 addresses revenue and revenue growth. In constant currency, quarter over quarter and year-over-year revenue increased. As reported full year revenue grew modestly at 1.5%. Slide 17 breaks down revenue by line of business for the quarter. As you can see, NPS drove the growth with declines in GOS and BS&S on a GAAP basis. Slide 18 addresses operating income in the quarter. With the overall margin rate up about 90 points. Here NPS and BS&S were both drivers in both absolute terms and margin rate growth. Slide 19 displays our full year results for selected measures. The message here is that revenue, operating income, and margin rate improve year-over-year and on a GAAP and non-GAAP basis, EPS improved.
+ 
+Slide 20 displays selected balance sheet accounts. Cash has increased substantially as a result of our strong Fourth Quarter and the impact of last October 's drawdown of our revolver credit line. Also keep in mind we paid $300 million of term debt in March and funded an additional $50 million into our defined benefit plan. Accounts receivable has also improved dramatically year-over-year. And as you can see, net debt to total capital is now under 20%.
+ 
+Slide 21 addresses cash flow. The overall improvement drivers are net income, working capital and CapEx. The supplemental charts are included. I'm not going to comment on them. If you have any detailed questions on these, Brian Brady will be available after the call.
+ 
+The last two items I want to address are pension and quarterly guidance. As Mike Laphen said this the press release, we decided to freeze our defined benefit plan in the US in favor of enhancing our defined contribution plan. This action eliminates most, not all, but most of the future uncertainty around contributions and P&L expense. In fiscal year 2009, the underfunding in our combined plans increased $600 million to just about $1 billion dollars. Again, to remind you, we are talking about our main US plan. We have undertaken a review of our international plans, but are not in a position to comment on what, if anything, will change.
+ 
+For the US plan, this action should yield an FY 2010 improvement of about a $30 million reduction in both estimated contributions and expense after factoring in the increase in our defined contribution plan. This change will take effect in the Second Quarter. Beyond fiscal year 2010, the cost reduction or avoidance grows since contributions were expected to increase substantially. And, of course, we will see the full year benefit of the change. With regard to the EPS guidance, the midpoint of our range is $4.25 and the quarterly profile should look something like $0.50, $1, $1.25 and $1.50 for the First Quarter.
+ 
+So in summary, we had a good quarter. We met or exceeded expectations in most, if not all, of the important categories. We strengthened the Company and we are better positioned to continue to add value for our shareholders. We are focused on continuous improvement and we look forward to sharing our success with you.
+ 
+That being said, I'll turn it back to Brian to start the questions.
+ 
+ 
+ 
+Brian Brady
+- Computer Sciences Corporation - VP, IR
+ 
+Okay. Thank you very much, Mike. Operator, we're now ready to begin the Q&A session. If you could please advise the callers for the protocol.
+ 
+ 
+ 
+ 
+QUESTIONS AND ANSWERS
+ 
+Operator
+ 
+Of course. (Operator Instructions) We'll take our first question from Karl Keirstead with Kaufman Brothers.
+ 
+ 
+ 
+Karl Keirstead
+- Kaufman Brothers - Analyst
+ 
+Hi, good afternoon. Thanks for taking my call. Mike, the quarterly EPS guidance you just provided if I heard you correctly, you mentioned $0.50 for the First Quarter. If I'm right, that's kind of a slow start to the full year. I'm wondering if you might add a little color?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+It is, Karl. I think last year, as a matter of fact, we were up around $0.75, $0.79 for the First Quarter. To remind you last year, we had -- overall we had an extra fiscal week in the quarter. Of course what you're looking at now are the impacts of currency. I think roughly we're projecting a decrease in revenue in the quarter in round numbers of about $600 million of which $300 million or so is related to revenue -- to currency declines. And the other $300 rounded is a result of just a seasonal step down among other things and a slow start in some of the new awards that we have.
+ 
+So what you should see in the year going forward is we expect the Second Quarter to pick up a little bit relative to obviously the First Quarter. Then the Third Quarter should exceed last year. And by the Fourth Quarter, we should be in the neighborhood of $4.5 billion in sales for hitting the midpoint in the range that Mike talked about.
+ 
+ 
+ 
+Karl Keirstead
+- Kaufman Brothers - Analyst
+ 
+Okay. And I haven't run this through the model yet obviously, but on a year-over-year basis, would you expect in the first fiscal quarter that the margins would be flat or perhaps given that revenue pressure you just outlined maybe they would be somewhat down year-over-year?
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Karl, I haven't honestly looked at that. So I really don't have a good answer for you. But I'm happy to provide it to you afterwards.
+ 
+ 
+ 
+Karl Keirstead
+- Kaufman Brothers - Analyst
+ 
+Okay. Great. Thank you.
+ 
+ 
+ 
+Operator
+ 
+We'll hear the next question from Julio Quinteros with Goldman Sachs.
+ 
+ 
+ 
+Julio Quinteros
+- Goldman Sachs - Analyst
+ 
+Hi, guys. Great. Thank you for the time here. One real quick question on the tax rate that is implied in your fiscal year 2010 guidance. And then would you mind just rehashing the pension impact for fiscal year 20010 both from the US and international side?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+The first part of your question on the tax rate, Julio.
+ 
+ 
+ 
+Juli
+o Quinteros
+- Goldman Sachs - Analyst
+ 
+Yes.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+You should plan on about 37.5% to be the nominal tax rate to use in your model for the year.
+ 
+ 
+ 
+Julio Quinteros
+- Goldman Sachs - Analyst
+ 
+Got it. Okay.
+ 
+ 
+ 
+Mike
+Mancuso
+- Computer Sciences Corporation - CFO
+ 
+And as far as pension contributions are concerned, we normally would have contributed something in the neighborhood of an overall $160 million to $200 million of pension contributions next year. If we hadn't frozen the US plan, now that $160 million is all plans including international plans. That number should drop this year to the tune of about a $30 million benefit cash flow
+ 
+ 
+Julio Quinteros
+- Goldman Sachs - Analyst
+ 
+Okay. And then the international part? There was no comment on that.
+ 
+ 
+ 
+Mike Mancuso
+-
+Computer Sciences Corporation - CFO
+ 
+We're not adjusting contributions or expense or the plan internationally at this point. We're looking at it. We haven't gotten to a point where we're prepared to comment on that. So overall pension contributions probably for total CSC for FY 2010 should be in the neighborhood of about $100 million, round numbers.
+ 
+ 
+ 
+Julio Quinteros
+- Goldman Sachs - Analyst
+ 
+Got it. Great. Thank you.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Thank you.
+ 
+ 
+ 
+Operator
+ 
+We'll hear next from Jason Kupferberg with UBS.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+Thanks. I just want to start off with a question, I guess, on the EPS guidance and understand what the impact of lower pension expense might be here. I mean, in the guidance range, I guess, is really tight for the year and there is still a fair amount of uncertainty in the macro environment. So can you talk about the visibility on the guidance and maybe as part of that the big step up from Q1 to Q2? I think there is a doubling of EPS there. And then as I mentioned, just highlight for us kind of year-over-year delta in pension expense so we can isolate that impact on the P&L. Thanks.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Total pension as I said pension expense year-over-year should be about $100 million decrease. Year-over-year. That's total pension expense.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+ 
+Okay ..
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+The benefit from the action we've taken in FY 2010, keep in mind that that action -- that change will not be effective until the Second Quarter.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+Right.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+So you're looking at three-quarters worth of benefits. So it's roughly $30 million improvement over three-quarters. So factor $7 million pretax into each quarter, both in cash flow effect and P&L effect pretax.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+Okay. And then just the tightness of the range here. I mean, you're, I guess , only a couple percent here from the low end to the high end looking a
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Well, Jason, we could have said between 420 and 480 or 390 to 470. This is an awful economy to try to stick your neck out and start to give broad guidance. We're commenting on the things we think we know and have nailed down. So beyond that your guess is as good as ours as to what is going to happen in the macro economy.
+ 
+ 
+ 
+Jason K
+upferberg
+- UBS - Analyst
+ 
+Okay. And just one clarification on the cash contributions, total CSC pension wise, I think last quarter at the time you had hypothesized that that must be might increase $100 million, maybe even $150 million year-over-year and that would have put you in the $300 million to $350 million range, if I'm not mistaken. Now if I heard the answer to the last question correctly, you're talking about only $160 million to $200 million. So actually being down year-over-year? Did I get those numbers right?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Well, look, let's go back to fiscal year 2009 and in the Fourth Quarter we contributed overall $50 million to the pension plan.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+Yes.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+And it was fairly linear in FY 2009. So a rounded $200 million of contributions in 2009. We expected that to go up. We based it on the asset values at the end of December. And projections we had then. As it turned out, the expected contributions were not going to be quite as high as we had anticipated back then. So the effect of -- so the contributions all other things being equal and no action taken would probably have been somewhere in the neighborhood of $200 million to $250 million over all for all of our pension plans.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+And now instead they're going to be what with the actions? I'm sorry.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+We're going to improve the contributions to a net benefit in the US of the action we took of $30 million. So you can reduce the pension contributions by $30 million because, as I said, we are taking some of the pension contribution for the defined benefit plan and putting it into the defined contribution plan.
+ 
+ 
+ 
+Jason Kupferberg
+- UBS - Analyst
+ 
+Right. Okay. So you're basically year-over-year. I think I've got it. Thanks, guys.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Thank you.
+ 
+ 
+ 
+Operator
+ 
+We'll hear next from Rod Bourgeois with Bernstein.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Yes, guys. I wanted to inquire about the NHS and the impact that NHS had on the financials and on the year-over-year change in the financials. I guess specifically what would be helpful, can you specify for the March 2009 quarter what the revenue EPS and free cash flow contributions was from NHS? And then if you could juxtaposed with how that change over the year that would help us understand the impact of that important contract? Thanks.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Rod, we don't give contract specific data, whether it be NHS or any other contracts. So we're not going to respond to that specific request.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Okay. Can you give us an idea of what percentage of revenue that is now? I mean, it appears that in your BS&S segment that contract had a meaningful change or a meaningful impact on the year-over-year changes in the revenues and probably in the margins as well, if I'm reading that correctly.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Again, Rod, we really don't want to get down into that level of detail for the NHS contract.
+ 
+ 
+ 
+Rod Bourgeois
+- Sa
+nford Bernstein - Analyst
+ 
+Okay. Is there lumpiness in your year-over-year change in financials because of the NHS deal, can you give us that amount of detail? Because if we look at the BS&S segment, which is in large part system integration and software, it had a meaningful year-over-year improvement in the margins and the revenues which sort of defies the logic happening in the market. So it raises a question where that came from and I'm assuming NHS might have had an impact?
+ 
+ 
+ 
+Mike Laphen
+- Computer Scie
+nces Corporation - Chairman, President, CEO
+ 
+It may have had an impact, but, again, we're not going to get contract specific or quantify the NHS contract.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Okay. Got it. And then can you talk about on NHS kind of the outlook for fiscal 2010? You've given us guidance. I mean are there certain milestones that are critical in fiscal 2010 that are assumed in your guidance? Can you give us any specificity on that front?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - -
+Chairman, President, CEO
+ 
+Yes, I can talk a little bit with that, Rod. First of all, we would expect given the profile we see at this point in time some uptake in revenue and the corresponding profit that would go along with it on the program. We -- our next major Lorenzo delivery phase is expected in the November time frame. So we're working towards that. And that success on that milestone is incorporated into the numbers.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Right. Okay. And some of the comments in the press and coming out of the NHS leadership suggest that November is a critical milestone where they'll make a determination on whether to consider alternative approaches. Do you think it's highly unlikely that they would have to go down the path of looking at alternative approaches based on how you expect your progress to be playing out over the next several months?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Well, we're continuing to work with the NHS jointly. In I think a very strong partnership fashion to achieve success in November. We anticipate success in November, as we anticipated success in March. And, again, I would say that you have to put some of the press remarks in a bit of a context. So we continue to have favorable feedback from the customer. The customer I expect will continue to put pressure on us to continue with successful deliveries as does most customers and we will continue to march down that path.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Okay. And can you give us an update on the underfunded status of your pension and other post-retirement benefit plans? A year ago it was at $488 million. It's clearly higher than that now. Can you give us the total underfunded status on your pension and other post-retirement benefit plans?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+We said it grew -- I said in my earlier comments it grew by $600 million. So I think it's $ billion dollars is roughly the round number.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+But is that just the US portion or does that include international and pension plus other benefit plans?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+It's all plans.
+ 
+ 
+ 
+Rod B
+ourgeois
+- Sanford Bernstein - Analyst
+ 
+That's everything inclusive? Now, was that amount reduced because of the freezing of the US plan?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Prospectively, it will come down since we won't have to be chasing or growing liability. It isn't reduced at this moment.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+So the March quarter ending balance wasn't affected by the freezing?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+The freeze isn't effective until July.
+ 
+ 
+ 
+Rod Bourgeois
+- Sanford Bernstein - Analyst
+ 
+Got it. Perfect. Thanks, guys.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Thank you.
+ 
+ 
+ 
+Operator
+ 
+(Operator Instructions.) We'll hear our next question from Brian Keane with Credit Suisse.
+ 
+ 
+ 
+Brian Keane
+- Credit Suisse - Analyst
+ 
+Hi. Good afternoon. I just want to get back to the BS&S margins. I know they were at 15.4% and that's up from 12.8%. That's a pretty considerable margin expansion. Can you just detail for us the details what the reasons for the margin expansion were?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Better cost structure, better performance.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+And also the fourth quarter is the highest utilization of all four quarters for us in that line of business. So it is always a higher quarter for us.
+ 
+ 
+ 
+Brian Keane
+- Credit Suisse - Analyst
+ 
+Yes. Well, I'm just looking at the year-over-year went to 15.4 to 12.8.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Yes.
+ 
+ 
+Brian Keane
+- Credit Suisse - Analyst
+ 
+So better cost. You guys are reducing cost and considered going forward when you're looking at the margin expansion of 25 to 50 bips. Should we see most of that expansion in the BS&S or should US come back a little bit?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+I would expect GLS would come back as well.
+ 
+ 
+ 
+Brian Keane
+- Credit Suisse - Analyst
+ 
+Okay. And then just last question for me, the $0.50 to $1, it's still not clear to me the big jump in operating margin that we're expecting. I assume it's in operating margin to get to the dollar. Is that just better cost control between the first and second quarters? Because it's a considerable increase then we've seen in the past from margins between first and second quarter?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Yes. The one thing that I would add to the items that Mike already listed is during the First Quarter we typically do our work force rationization as well. So we would be taking some impact at the earnings level as part of that rationalization.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+And, Brian, just to elaborate further on the answer to your question about the margin rate year-over-year and particularly in the Fourth Quarter, licenses have an impact and they tend to be, to stack up towards the end of the year. So that's another contributing factor.
+ 
+ 
+ 
+Br
+ian Keane
+- Credit Suisse - Analyst
+ 
+Okay. Thanks, guys.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Thank you.
+ 
+ 
+ 
+Operator
+ 
+We'll take our next question from with Ashwin Shirvaikar from Citi.
+ 
+ 
+ 
+Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+Hi, Mike and Mike. My question is about the slower bookings that you guys and everyone else in the industry is seeing and to what extent has that affected your margin profile because you're spending less on them? I believe in the last quarter there was some kind of benefit. And to what extent? Because that is cost that eventually comes back. To what extent is that factored into your guidance? If you could comment on that.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, Pres
+ident, CEO
+ 
+Actually our new business expense was not down. We did cut back on some advertising. But our pursuit expense was not cut back. We're quite active on the pipeline. So the margin improvement does not come at the expense of the new business expenditures.
+ 
+ 
+ 
+As
+hwin Shirvaikar
+- Citigroup - Analyst
+ 
+I meant the ramp of the existing contacts because that tends to be the slower ramping of fewer contracts and so on and that has had some benefit in the past.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, P
+resident, CEO
+ 
+I'm sorry. I'm having a hard time hearing you. You have a lot of background noise.
+ 
+ 
+ 
+Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+Sorry about that, I'm at the airport. So what I was talking about was not so of the pursuit cost, but I was talking about the ramp cost, the ramping of existing contracts.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Ashwin, could you try again with your question.
+ 
+ 
+ 
+Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+Well, I was talking about the ramping of existing contracts to what extent that has been a benefit to your cost structure and will continue to be a benefit because you've signed fewer contracts? I'm not talking about the pursuit cost. I'm talking about contracts you've already signed.
+ 
+ 
+ 
+Mi
+ke Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Ashwin, go back to what Mike said. First of all, to the extent that there is business pruning actions being taken, they'll be taken in the First Quarter so you'll see an effect on that. New business generally starts out with lower margins and ramps up as we get some experience under our belt. So volume in the Second Quarter is higher than it was in the First Quarter. That's a contributing factor. So there is a lot of things, a lot of moving parts. All of them in the positive direction.
+ 
+But when we budget the new business, we budget the corresponding ramp up cost I think you call it or the start up cost as we would call it. So that is factored into the budget numbers when we construct the budget.
+ 
+ 
+ 
+Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+Okay. And could you guys just sort of separate out the cash flow and EPS impact from the pensions? Is the timing on both of those going to be similar or is the timing on both of those different?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Assume, they're similar.
+ 
+ 
+ 
+Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+Okay. Thank you.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corpora
+tion - CFO
+ 
+Thank you.
+ 
+ 
+ 
+Brian Brady
+- Computer Sciences Corporation - VP, IR
+ 
+Next question.
+ 
+ 
+ 
+Operator
+ 
+Next question comes from Shlomo Rosenbaum with Stifel Nicolaus.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+Hi. Thank you very much for taking my questions. I want to start are there any benefits to the cash flow in the quarter from tax settlements? Were there any he deferral of cash taxes? And follow-up with that is are there any large prepayments that popped up from in the quarter from NHS or anyone else? I'm just trying to find out what was sort of one time-ish in the quarter
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+The answer is, no, no and no to your three questions. Fundamentally there were no cash tax payments abnormal related to the tax settlements, et cetera, et cetera. So the improvement in the quarter was, as we talked about, receivables among other things came down significantly in the quarter, as I said. Days for the year, days outstanding were down for the year. There was a big receivable improvement in the quarter. That's a big contributor. Lower CapEx spending in the quarter. And net earnings effect in the quarter.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+Okay, good. Can you just elaborate a little bit more what the good will impairment was for?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+It was for our -- one of our Asian businesses. It started to appear that it might be impaired. So rather then wait until the normally in the second quarter, we undertook an impairment analysis of three or four of our businesses. This one -- if you're familiar with good will impairment testing, you go through a phase one. If you pass phase one, you move on. This particular business didn't pass phase one. So we did a full up phase two evaluation of the business which resulted in impairment charge of $19 million. In other words, good will was written down by $19 million.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+What type of business was it?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences C
+orporation - CFO
+ 
+It's a fix and repair business located out in Hong Kong or wherever.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+It's fix - -- break and fit business and reseller business. They just fell off with the economic situation.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+Okay. And then the BS&S signings are pretty stable and it's pretty surprising given what's going on with the macro side of things. Can you just comment on the discretionary demand what you saw in the March quarter and what you think the outlook is for the June quarter?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Yes. What we're seeing at this point, I guess, is some stabilization in that market. So our early looks at this quarter are pretty much consistent with the utilization we saw in the Fourth Quarter. And the building rates are almost exactly on target as well. So we're seeing very little variability between Fourth Quarter and the early start of this quarter. So I would say stabilizing, but I wouldn't characterize it as upticking at this point.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+And then lastly I just wanted to ask about the tax benefit in the quarter again. Can you give me the actual dollar amount of that? And if you could give me what the pro forma tax rate was excluding the benefit in the good will impairment?
+ 
+ 
+ 
+Mike Mancuso
+-
+Computer Sciences Corporation - CFO
+ 
+The total number is about $166 million in the quarter. And the tax rate exclusive of that is about 38% round numbers.
+ 
+ 
+ 
+Shlomo Rosenbaum
+- Stifel Nicolaus - Analyst
+ 
+Okay. Thank you very much.
+ 
+ 
+ 
+Operator
+ 
+We'll take our next question from Melissa Moran with Thomas Weisel Partners.
+ 
+ 
+ 
+Melissa Moran
+- Thomas Weisel Partners - Analyst
+ 
+Hi. This is Melissa in for David Grossman. Thanks for taking my question. Could you tell us how much the first consulting group acquisition added to revenue in the quarter?
+ 
+ 
+ 
+Mike Mancuso
+ 
+- Computer Sciences Corporation - CFO
+ 
+We can in one second, Melissa, if it you bear with us.
+ 
+ 
+ 
+Melissa Moran
+- Thomas Weisel Partners - Analyst
+ 
+Sure. And also could you tell me what segment that gets recorded in?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+I'm sorry.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+That's in BSS.
+ 
+ 
+ 
+Melissa Moran
+- Thomas Weisel Partners - Analyst
+ 
+Okay. And also if you could just call out how much that added to BSS in addition to total revenue growth?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Zero.
+ 
+ 
+ 
+Melissa Moran
+- Thomas Weisel Partners - Analyst
+ 
+The acquisition didn't add anything to revenue growth?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+I'm sorry, Don. Go ahead and answer the question.
+ 
+ 
+ 
+-
+Don DeBuck
+Computer Sciences Corporation - VP and Controller
+ 
+This is - -- it anniversaried in the Fourth Quarter so it didn't -- there was no effect in terms of the acquired growth.
+ 
+ 
+ 
+Melissa Moran
+- Thomas Weisel Partners - Analyst
+ 
+Okay. Sorry. I thought it was partially through 1Q. Okay.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Thanks, Melissa.
+ 
+ 
+ 
+Melissa Moran
+- Thomas
+Weisel Partners - Analyst
+ 
+Okay. Great. Thank you.
+ 
+ 
+ 
+Operator
+ 
+Our last question comes from Moshe Katri with Cowen and Company.
+ 
+ 
+ 
+Moshe Katri
+- Cowen and Company - Analyst
+ 
+Thanks. Going back to Rod's question, again, without having to go in and provide us with specific numbers regarding to NHS, if we exclude the NHS contributions to free cash flow in fiscal 2009 and fiscal 2008, is cash flows from your core business up year-over-year, flat or -
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+We lost you., Moshe.
+ 
+ 
+ 
+Moshe Katri
+- Cowen and Company - Analyst
+ 
+Can you hear me?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Say again the question.
+ 
+ 
+ 
+Moshe Katri
+- Cowen and Company - Analyst
+ 
+If we exclude NHS contributions to free cash in fiscal 2009 and in fiscal 2008, would you see the free cash flow from your core business is up, down or flat year-over-year? Thanks.
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+Up.
+ 
+ 
+ 
+Moshe Katri
+- Cowen and Company - Analyst
+ 
+It is up?
+ 
+ 
+ 
+Mike Mancuso
+- Computer Sciences Corporation - CFO
+ 
+It is up.
+ 
+ 
+ 
+Moshe Katri
+- Cowen and Company - Analyst
+ 
+Okay. Great. And then can you talk briefly about your views on federal funding for IT given the recent new budgets and maybe you can talk about what you're seeing out there in your bid and proposal pipeline? What sort of mix do you have there between DOD and civil and some of the other areas? Thanks.
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, P
+resident, CEO
+ 
+Sure, Moshe. Well, first of all, I would say that there's been a slow down in awards and that impacted us somewhat in the Fourth Quarter. Particularly on a couple major task order contracts. However, they have popped out in the First Quarter so we're pleased about that. We're not expecting a significant impact from the new budget profile for this fiscal year.
+ 
+We believe there is some very good opportunities as we move forward into next year and as the new budget is constructed for next year. And is rolled out. So we're particularly focused on healthcare where we think we have some great offerings that can assist President Obama in one of his major initiatives.
+ 
+Again, cyber security and identity management is an area that's of particular interest to us. I've said on a number of calls, we're particularly fortunate because our footprint runs across essentially the complete breadth of both the civilian and the defense agencies. So I think it's realistic to think we'll see some of the IT shifting to spending shifting to the civilian space, but we're very well positioned with that customer base.
+ 
+ 
+ 
+Operator
+ 
+Thank you. And I would like to turn the conference back over to Brian Brady for any additional or closing remarks.
+ 
+ 
+ 
+Brian Brady
+- Computer Scie
+nces Corporation - VP, IR
+ 
+Thank you very much, operator, and thank you everyone for joining us. Mike, do you want to close it out?
+ 
+ 
+ 
+Mike Laphen
+- Computer Sciences Corporation - Chairman, President, CEO
+ 
+Yes. Thank you for joining us today. We look forward to updating you with our First Quarter results in a couple of months. And as we said, we're extremely pleased with where we're sitting today and our opportunity for the future. So thank you very much.
+ 
+ 
+ 
+Operator
+ 
+This does conclude today's conference call. We thank you for your participation.
+ 
+
+

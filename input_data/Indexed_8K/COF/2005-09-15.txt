@@ -1,0 +1,1932 @@
+FILE:COF/COF-8K-20050915160537.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+Item 8.01 Other events.
+ 
+The Company is filing a revised redacted Services Agreement with First Data Resources, Inc. dated November 8, 2004 (the "Agreement"), which was previously filed as Exhibit 10.8 to the Company's Form 10-K for the year ended December 31, 2004. Confidential treatment has been requested for certain portions of the Agreement.
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+ 
+The following exhibits are filed herewith:
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 10.1
+ 
+Pursuant to 17 CFR 240.24b-2, confidential information has been omitted and has been filed separately with the Securities and Exchange Commission pursuant to a Confidential Treatment Application filed with the Commission.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF SCHEDULES
+ 
+ 
+SERVICES AGREEMENT (the ""), made and effective as of November 8, 2004 (the " "), by and between Capital One Services, Inc. (" "), a Delaware corporation having offices at 1680 Capital One Drive, McLean, Virginia, 22102, and First Data Resources Inc. (" "), a Delaware corporation having offices at 6902 Pine Street, Omaha, Nebraska, 68106.
+Agreement
+Effective
+Date
+Capital
+One
+First
+Data
+ 
+1. BACKGROUND
+ 
+Capital One is engaged in providing various credit, secured and other similar financial services to consumers and businesses; and
+WHEREAS,
+ 
+First Data represents that it has experience in and is engaged in the business of providing plastics, statement, letter, remittance processing and related card production services; and
+WHEREAS,
+ 
+Capital One desires that First Data provide certain plastics, statement, letter, remittance and related card production processing services for Capital One; and
+WHEREAS,
+ 
+First Data desires to provide such services on the terms and conditions hereinafter provided.
+WHEREAS,
+ 
+, in consideration of the foregoing recitals and other good and valuable consideration, the adequacy of which the parties hereby acknowledge, the parties agree as follows:
+NOW, THEREFORE
+ 
+2. DEFINITIONS
+ 
+2.1
+Certain Definitions.
+ 
+As used in this Agreement with initial capitalization:
+ 
+(a) " " shall have the meaning provided in Section [* * * ].
+Acquired
+Services
+ 
+(b) "" shall mean, with respect to any entity, any other entity Controlling, Controlled by, or under common Control with, such entity at the time in question. At Capital One's option:
+Affiliate
+ 
+(i) any divested former Affiliate shall be deemed to remain an Affiliate of Capital One for [* * * ] after the date it ceases to Control, be Controlled by, or be under common Control with, Capital One; and
+ 
+(ii) the purchaser of all or substantially all the assets of any line of business of Capital One or its Affiliates which at the time of sale was receiving a portion of the Services shall be deemed to be an Affiliate of Capital One for [* * * ] after the date of purchase, but only with respect to the business(es) acquired.
+ 
+(c) "" shall mean the Terms and Conditions and the schedules, exhibits, attachments and appendices thereto, as the same may be amended by the parties from time to time in accordance with Section 21.16.
+Agreement
+ 
+(d) " " means any applicable laws, statutes, regulations, ordinances, codes or subordinate legislation in force from time to time to which a party is subject, including:
+Applicable
+Laws
+ 
+(i) The common law as applicable to the parties from time to time;
+ 
+(ii) Any binding court order, judgment or decree; and
+ 
+(iii) Any applicable directive, policy, rule or order that is binding on a party and that is made or given by any government, an agency thereof, or any regulatory body,
+ 
+of any country, the European Union, or other national, federal, commonwealth, state, provincial or local jurisdiction and of any exchange or association (including the New York Stock Exchange and the National Association of Securities Dealers) whose regulations are binding on either party pursuant to a self-regulating mechanism approved by a governmental entity.
+ 
+(e) " " shall mean the following subcontractors of First Data:
+Approved
+Subcontractors
+ 
+(i) First Data's Affiliates;
+ 
+(ii) Subcontractors identified in Schedule K;
+ 
+(iii) Subcontractors for whom approval by Capital One is not required in accordance with Section 8.5(a); and
+ 
+(iv) Any other subcontractor(s) approved by Capital One in accordance with Section 8.5(b);
+ 
+unless and until (in each case of (i), (ii), (iii) and (iv)) approval of such subcontractor is rescinded in accordance with Section 8.5(b)(vii).
+ 
+(f) "" shall mean Visa, MasterCard and any other interchange or similar card association.
+Associations
+ 
+(g) " " shall mean every day Monday through Friday other than Holidays. References in this Agreement to "days" that do not specifically refer to Business Days are references to calendar days and, unless otherwise provided, a period of more than seven (7) days that expires on a day other than a Business Day shall be automatically extended to the next following Business Day.
+Business
+Day
+ 
+(h) " " shall mean those Capital One Works and inventions that Capital One believes provide Capital One with a competitive advantage. As of the Effective Date, these include [* * *], [* * * ] and [* * * ] . For the avoidance of doubt, Capital One Competitive Works and Inventions do not include Developed Works.
+Capital
+One
+Competitive
+Works
+and
+Inventions
+ 
+(i) " " shall have the meaning provided in Section 13.4(a).
+Capital
+One
+Confidential
+Information
+ 
+(j) " " shall have the meaning provided in Section 10.1(a).
+Capital
+One
+Contract
+Executive
+ 
+(k) " " shall mean all information, whether or not Confidential Information, entered in or otherwise transferred to Software or Equipment by or on behalf of Capital One and information derived from such information, including as stored in or processed through the Equipment or Software.
+Capital
+One
+Data
+ 
+(l) " " shall mean all information, including Capital One Data, in any form, furnished or made available directly or indirectly to First Data by Capital One or otherwise obtained by First Data from Capital One.
+Capital
+One
+Information
+ 
+(m) " " shall mean those items in inventory at Capital One's Seattle Production Facility and Richmond Production Facilities, as applicable, as of the Commencement Date that are items otherwise identified in Schedule C as being provided by First Data on a Pass-Through Expenses basis. The ownership of such items will not be transferred to First Data but will be held by First Data as bailment.
+Capital
+One
+Retained
+Inventory
+ 
+(n) " " shall mean Software owned by Capital One or its Affiliates.
+Capital
+One
+Software
+ 
+(o) " " means those Works, and all derivative works thereof, created, produced, generated or otherwise developed, at any time, (i) by or on behalf of Capital One (alone or with third parties, except by First Data hereunder), whether pursuant to this Agreement or otherwise, and (ii) in the case of Capital One Competitive Works and Inventions, by or on behalf of Capital One (alone or with third parties, except by First Data), whether pursuant to this Agreement or otherwise. Capital One Works shall not include Developed Works or First Data Works.
+Capital
+One
+Works
+ 
+(p) [* * * ] shall mean Capital One's proprietary quality management methodology and score card, which weights production errors by customer impacts, as collected through customer surveys and interviews.
+ 
+(q) " " shall have the meaning provided in Section 8.4(c).
+Change
+Control
+Procedure
+ 
+(r) "" shall have the meaning provided in Section 1.1(a) of Schedule C plus the amounts payable for any New Capabilities that are chargeable pursuant to Schedule C but without deduction for any [* * * ], [* * * ] or [* * * ]. The term "Charges" does not include (i) Pass-Through Expenses, (ii) Out-of-Pocket Expenses or (iii) taxes.
+Charges
+ 
+(s) " " shall mean taking such steps and performing in such a manner as a well managed business would undertake where such business was acting in a determined, prudent and reasonable manner to achieve a particular desired result for its own benefit.
+Commercially
+Reasonable
+Efforts
+ 
+(t) " " shall mean the first date of the first full month following the day as of which Capital One ceased performing all services that are the Production Services at each of the Capital One facilities identified in Attachment C-1 to Schedule C.
+Commencement
+Date
+ 
+(u) " " shall have the meaning provided in Section 13.4(a).
+Confidential
+Information
+ 
+(v) "" and its derivatives mean with regard to any entity the legal, beneficial or equitable ownership, directly or indirectly, of fifty percent (50%) or more of the capital stock (or other ownership interest if not a stock corporation) of such entity ordinarily having voting rights.
+Control
+ 
+(w) [* * * ] shall have the meaning provided in Section 7.2(b).
+ 
+(x) " " shall have the meaning provided in Section 13.3(a)(i).
+Customer
+Data
+ 
+(y) " " means those Works created, produced, generated or otherwise developed for or delivered to Capital One by or on behalf of First Data (alone or with Capital One or third parties) in the course of First Data's performance of Services under this Agreement and any and all derivative works thereof. Developed Works include derivative works of Capital One Works (except as excluded below), First Data Works and Third Party Works provided by First Data only to the extent created, produced, generated or otherwise developed for or delivered to Capital One by or on behalf of First Data (alone or with Capital One or third parties) in the course of First Data's performance of Services under this Agreement. Developed Works do not include derivative works of Capital One Competitive Works and Inventions or Third Party Works provided by Capital One.
+Developed
+Works
+ 
+(z) " " shall have the meaning provided in Section 18.1(a)(i).
+Dispute
+Date
+ 
+(aa) " " shall have the meaning provided in Section [* * *].
+Divested
+Business
+ 
+(bb) " " shall have the meaning provided in the preamble to this Agreement.
+Effective
+Date
+ 
+(cc) " " shall mean users of the Services.
+End
+Users
+ 
+(dd) "" shall mean the Production Services, computer and telecommunications equipment (without regard to which entity owns or leases such equipment) used by First Data and its Approved Subcontractors and to provide the Services. Equipment includes the following:
+Equipment
+ 
+(i) Production Services equipment, including embossing machines, printers, sorters, letter openers, imaging and character recognition machines, and remittance extraction machines.
+ 
+(ii) Computer equipment, including associated attachments, features, accessories, peripheral devices, front end devices, and other computer equipment;
+ 
+(iii) Telecommunications equipment, including private branch exchanges, multiplexors, modems, CSUs/DSUs, hubs, bridges, routers, switches and other telecommunications equipment; and
+ 
+(iv) Related services (e.g., maintenance and support services, upgrades, subscription services) provided by third parties (e.g., manufacturer and lessor) in the same or related agreement covering the provision of such Equipment.
+ 
+(ee) " " shall have the meaning provided in ordinary parlance, i.e., what a willing buyer would pay a willing seller, neither being under any compulsion or financial distress.
+Fair
+Market
+Value
+ 
+(ff) " " shall have the meaning provided in Section 6.4(a).
+First
+Data
+Inventions
+ 
+(gg) " " shall mean employees of First Data and its Approved Subcontractors assigned to perform the Services pursuant to this Agreement.
+First
+Data
+Personnel
+ 
+(hh) " " shall have the meaning provided in Section 5.1(a)(ii).
+First
+Data
+Project
+Executive
+ 
+(ii) " " shall mean the Software that is owned by First Data or its Affiliates.
+First
+Data
+Software
+ 
+(jj) " " shall mean the Software and Equipment owned or otherwise provided by First Data and used by First Data to perform the Services. The First Data System does not include Capital One Software or Equipment owned or leased by Capital One.
+First
+Data
+System
+ 
+(kk) " " means those Works, and all derivative works thereof, that First Data can show were created, produced, generated or otherwise developed by or on behalf of First Data (alone or with third parties) either (i) prior to the Effective Date or (ii) after the Effective Date at the direction of an entity other than Capital One or its agents on a matter unrelated to both this Agreement and to the Services. First Data Works shall not include Developed Works or Capital One Works.
+First
+Data
+Works
+ 
+(ll) " " shall mean the entities who are deemed to be Affiliates pursuant to the second sentence of the definition of "Affiliate".
+Former
+Affiliate
+ 
+(mm) " " shall mean the Gramm-Leach-Bliley Act, 15 USC 6801 ., and the implementing regulations and regulatory interpretations thereto, as amended from time to time.
+GLB
+Act
+et.
+seq
+ 
+(nn) "" shall mean those holidays on which Capital One's corporate headquarters office is scheduled to be closed.
+Holiday
+ 
+(oo) " " shall have the meaning provided in Schedule A.
+Initial
+Migration
+ 
+(oo) " " shall have the meaning provided in Schedule A.
+Initial
+Migration
+Plan
+ 
+(pp) " " shall have the meaning provided in Section 4.1.
+Initial
+Term
+ 
+(qq) " " shall mean, collectively, Patent Rights and Non-Patent IP Rights.
+Intellectual
+Property
+Rights
+ 
+(rr) [* * * ] shall mean Capital One's proprietary Software application, processes and prioritization algorithms to expedite [* * * ].
+ 
+(ss) " " shall have the meaning provided in Section 8.4(a).
+IT
+Direction
+ 
+(tt) " " shall have the meaning provided in Section 5.1(a).
+Key
+First
+Data
+Positions
+ 
+(uu) " " shall have the meaning provided in Section 20.2(a).
+Legal
+Requirements
+ 
+(vv) " " shall have the meaning provided in Section 6.1(b).
+Licensed
+Developed
+Works
+ 
+(ww) "" shall mean all losses, liabilities, damages and claims, and all related costs and expenses (including reasonable legal fees and disbursements and costs of investigation, litigation, settlement, judgment, interest and penalties).
+Losses
+ 
+(xx) "[* * * ] " shall mean the Charges payable with respect to Services provided in a particular [* * * ], without regard to when such Charges are billed and without reduction for any [* * *], [* * * ]or [* * * ].
+Charges
+ 
+(yy) " " shall have the meaning provided in Section 8.2(a).
+Monthly
+Performance
+Report
+ 
+(zz) " " shall have the meaning provided in Schedule C.
+New
+Capabilities
+ 
+(aaa) [* * * ] shall have the meaning provided in Section 7.2(b).
+ 
+(bbb) " " shall mean, on a worldwide basis, any and all:
+Non-Patent
+IP
+Rights
+ 
+(i) rights associated with works of authorship and literary property, including copyrights, moral rights of an author of a copyrightable work (including any right to be identified as the author of the work or to object to derogatory treatment of the work), and mask-work rights;
+ 
+(ii) rights relating to know-how or trade secrets, including ideas, concepts, methods, techniques, inventions (whether or not developed or reduced to practice);
+ 
+(iii) rights in domain names, universal resource locator addresses, telephone numbers (including toll free numbers), and similar identifiers; and
+ 
+(iv) trade marks, trade dress, service marks and other similar types of indicia of origin and the goodwill associated therewith;
+ 
+(v) other intellectual property rights of every kind and nature, however designated, whether arising by operation of law, contract, license or otherwise; and
+ 
+(vi) registrations, initial applications (including intent to use applications), renewals, extensions, continuations, divisions, or reissues thereof now or hereafter in force (including any rights in any of the foregoing); provided, however, that "Non-Patent IP Rights" shall not include Patent Rights.
+ 
+(ccc) " " shall mean reasonable, demonstrable and actual out-of-pocket expenses incurred by First Data for equipment, materials, supplies or services provided to or for Capital One or its Affiliates as identified in this Agreement, but not including First Data's [* * * ]. Out-of-Pocket Expenses shall be calculated at First Data's [* * * ] directly related to the Services (i.e., not to include amounts allocable to other First Data customers) and do not include Charges and Pass-Through Expenses. Before First Data charges Capital One for any Out-of-Pocket Expense from an Affiliate of First Data that is not an expense incurred by the Affiliate with a third party, Capital One's approval [* * * ] shall be obtained and the amount charged shall be no greater than would have been incurred in an arm's length transaction between unaffiliated companies.
+Out-of-Pocket
+Expenses
+ 
+(ddd) " " shall have the meaning provided in Section 11.2(a).
+Pass-Through
+Expenses
+ 
+(eee) " " means patents, designs, algorithms and other industrial property rights and registrations, initial applications (including intent to use applications), renewals, extensions, continuations, divisions, or reissues thereof now or hereafter in force (including any rights in any of the foregoing).
+Patent
+Rights
+ 
+(fff) " " shall mean, individually and collectively, the quantitative and qualitative performance standards and commitments for the Services contained in this Agreement, including Service Levels.
+Performance
+Standards
+ 
+(ggg) " " shall have the meaning provided in Section 6.1(b).
+Permitted
+Licenses
+ 
+(hhh) " " shall mean any information that (i) is defined as "personal information" under the GLB Act or (ii), alone or in combination with other information, relates to a specific, identifiable individual person. Personally Identifiable Information includes individual names, social security numbers, telephone numbers, home address, driver's license number, account number, email address, and vehicle registration number. Any information that can be associated with Personally Identifiable Information shall also be Personally Identifiable Information. For example, an individual's age alone is not Personally Identifiable Information, but if such age were capable of being associated with one or more specific, identifiable, individuals then such age would be deemed Personally Identifiable Information.
+Personally
+Identifiable
+Information
+ 
+(iii) " (s)" shall have the meaning provided in Section 21.16.
+Pre-Existing
+Agreement
+ 
+(jjj) " " shall mean the standards and procedures manual described in Section 8.3.
+Procedures
+Manual
+ 
+(kkk) " " shall have the meaning provided in Section 4.1.
+Processing
+Year
+ 
+(lll) " " shall have the meaning provided in Section 4.2.
+Renewal
+Term
+ 
+(mmm) " " shall mean such consents as may be required or desirable for the assignment to First Data, or the grant to First Data of rights of use, of resources otherwise provided for in this Agreement.
+Required
+Consents
+ 
+(nnn) [* * * ] shall mean Capital One's proprietary systems and processes to [* * * ].
+ 
+(ooo) "" shall have the meaning provided in Section 3.1(a).
+Services
+ 
+(ppp) " " shall have the meaning provided in Section 7.1.
+Service
+Levels
+ 
+(qqq) [* * * ] shall have the meaning provided in Section 7.2(b).
+ 
+(rrr) "" shall (unless a more specific reference is provided) mean software programs and programming (including the supporting documentation, media, on-line help facilities and tutorials) as those terms are generally understood in the IT industry.
+Software
+ 
+(sss) " " shall have the meaning provided in Section 8.1.
+Steering
+Committee
+ 
+(ttt) "" shall have the meaning provided in Section 4.2.
+Term
+ 
+(uuu) " " shall have the meaning provided in Section 19.6(a).
+Termination/Expiration
+Assistance
+ 
+(vvv) " " shall mean Articles 1 through 21 of this document.
+Terms
+and
+Conditions
+ 
+(www) " " are all Works that are not Capital One Works, First Data Works or Developed Works.
+Third
+Party
+Works
+ 
+(xxx) " " shall mean Affected Employees who accept First Data's offers of employment in the manner and within the time frame reasonably specified by First Data in such offers.
+Transitioned
+Employees
+ 
+(yyy) "" shall have the meaning provided in Section 5.3(b).
+Turnover
+ 
+(zzz) "" shall mean, in the context of Software, to use, copy, maintain, modify, enhance, distribute to Capital One End Users, or create derivative works.
+Use
+ 
+(aaaa) "" shall have the meaning provided in Section 14.10.
+Virus
+ 
+(bbbb) "" means any work of authorship, including test results, research, specifications, documents, materials, writing, design, model, drawing, photograph, report, flow chart, diagram, pattern, compilation, database, software (including source code and object code) or other expression of a technique, process, concept or idea, whether or not protectable under U.S. copyright laws.
+Work
+ 
+2.2
+Inclusion of Affiliates in Definition of Capital One and First Data; Meaning of "party".
+ 
+(a) As used in this Agreement, references to "Capital One" include Affiliates of Capital One in accordance with the following:
+ 
+(i) A reference includes Affiliates of Capital One where expressly so provided;
+ 
+(ii) References to Capital One in the following definitions include Affiliates of Capital One (unless expressly provided to the contrary): Capital One Data, Capital One Information, Capital One Software, and Capital One Works;
+ 
+(iii) References to sale, assignment, grant or the like by Capital One means Capital One will perform the act for itself or cause Affiliates of Capital One to perform the act themselves; references to assets being in the name of Capital One include Affiliates of Capital One; and
+ 
+(iv) References to the business, operations, policies, procedures and the like of Capital One include Affiliates of Capital One to the extent Affiliates are receiving the Services.
+ 
+Subject to the foregoing, references to Capital One shall include Affiliates of Capital One as Capital One reasonably designates.
+ 
+(b) As used in this Agreement, references to "First Data" include Affiliates of First Data in accordance with the following:
+ 
+(i) A reference includes Affiliates of First Data where expressly so provided;
+ 
+(ii) References to First Data in the following definitions include Affiliates of First Data (unless expressly provided to the contrary): First Data Inventions, First Data Works, and the Confidential Information of First Data; and
+ 
+(iii) Where Services are to be provided outside of the United States and First Data operates in the relevant country through an Affiliate, with respect to the provision of Service in that country references to First Data include such Affiliate.
+ 
+(c) References to a "party" means Capital One, on the one hand, and First Data, on the other hand. References to the "parties" means Capital One and First Data. References to third parties means individuals or entities other than Capital One, First Data, and either of their Affiliates.
+ 
+2.3
+Rules of Interpretation.
+ 
+(a) Terms other than those defined within this Agreement shall be given their plain English meaning, and those terms, acronyms and phrases known in the bank card and card processing industries shall be interpreted in accordance with their generally known meanings.
+ 
+Unless the context otherwise requires, words importing the singular include the plural and vice-versa, and words importing gender include both genders. Unless the context otherwise requires, references to "persons" includes individual natural persons and juridical legal entities.
+ 
+(b) References to articles, sections, and paragraphs shall be references to articles, sections and paragraphs of this Agreement, unless otherwise specifically stated.
+ 
+(c) The section headings in this Agreement are intended to be for reference purposes only and shall not be construed to modify or restrict any of the terms or provisions of this Agreement.
+ 
+(d) Where there is similar, but not identical, construction of phrases, sentences, or clauses of this Agreement no implication is made that a "negative pregnant" is intended and they shall each be construed separately, in accordance with their plain meaning.
+ 
+(e) The words "include", "includes", "including", and "" when following a general statement or term, are not to be construed as limiting the general statement or term to any specific item or matter set forth or to similar items or matters, but rather as permitting the general statement or term to refer also to all other items or matters that could reasonably fall within its broadest scope.
+e.g.
+ 
+(f) The word "may" shall be construed as meaning "shall have the right, but not the obligation, to".
+ 
+3. SERVICES
+ 
+3.1
+Provision of Services.
+ 
+(a) Commencing on or after the Effective Date in accordance with the Initial Migration Plan, First Data will provide the following services, functions and responsibilities, as they may evolve during the Term and as they may be supplemented, enhanced, modified or replaced (""). The Services will include the services, functions and responsibilities set forth in Section 3.2 and described in more detail in Schedule A.
+In General.
+Services
+ 
+(b) If any services, functions, or responsibilities are required for the proper performance and provision of the Services, regardless of whether they are specifically described herein, they shall be deemed to be implied by and included within the scope of the Services to be provided by First Data to the same extent and in the same manner as if specifically described in this Agreement.
+Implied Services.
+ 
+(c) The Services are variable in scope and volume. Such variations are provided for in the pricing mechanisms set forth in Schedule C. First Data shall be responsible for adjusting the resources used to provide the Services to accommodate variations in scope and volume (including variations resulting from Capital One's exercise of its rights under Section 3.1(d)) in such a manner as to comply with all Performance Standards. First Data shall not be entitled to receive an adjustment to the Charges resulting from such variations in scope and volume, except as set forth in Schedule C.
+Services Variable In Scope and Volume.
+ 
+(d) .
+Services Performed by Capital One or Third Party
+ 
+(i) Capital One has the right [* * *] any of the Services. Capital One will use Commercially Reasonable Efforts to [* * *] [* * *] [* * *] [* * *]. If Capital One [* * *] or [* * *] to do so, [* * *] with Capital One or such [* * *]. Subject to paragraph (ii) below, such cooperation shall include [* * *] [* * *].
+with an opportunity
+if and to the extent that
+from
+regarding
+ 
+(ii) Third parties retained by Capital One to perform the Services shall comply with First Data's reasonable security and confidentiality requirements, as have been provided by First Data. If First Data is aware of an act or omission of such a third party that could reasonably be expected to cause a problem or delay in First Data's provision of the Services, then First Data shall promptly notify Capital One and shall work with Capital One to prevent or circumvent such problem or delay.
+ 
+(e) [* * *] If Capital One [* * *] or [* * *], Capital One [* * *] of this Agreement and [* * * ] provided that [* * * ]. [* * *]% [* * *] Capital One [* * *]. [* * *] (i) [* * *] and (ii) [* * *]. [* * *] [* * *].
+may
+First Data
+any such
+Conversely, if Capital One
+may require
+If such
+The Parties shall
+and
+ 
+3.2
+Overview of Services.
+ 
+On and after the Effective Date, and commencing in accordance with the Initial Migration Plan, First Data shall perform, as part of the Services, the services, functions, and responsibilities described generally below (and more fully described in Schedule A):
+ 
+(a) Plastics Services;
+ 
+(b) Statement Services;
+ 
+(c) Letter Services;
+ 
+(d) Outbound Mailing Services;
+ 
+(e) Remittance Processing Services;
+ 
+(f) Inventory Services;
+ 
+(g) Data Transmission;
+ 
+(h) Problem Management Services
+ 
+(i) Physical and Logical Security;
+ 
+(j) Disaster Recovery and Business Continuity;
+ 
+(k) Migrations;
+ 
+(l) Transfer and Start-Up Services;
+ 
+(m) Acquisition Support Services;
+ 
+(n) [* * * ]
+ 
+(o) Application Development and Application Maintenance; and
+ 
+(p) Training Services.
+ 
+3.3
+Permitted Users of the Services.
+ 
+The Services may be used by Capital One and, as directed by Capital One, its Affiliates. First Data acknowledges that such access is on-going as of the Effective Date. Services provided to such entities shall be deemed to be Services provided to Capital One. Capital One shall be responsible to First Data for any breach of this Agreement caused by a party permitted by Capital One to use the Services hereunder.
+ 
+3.4
+Facilities and Other Resources.
+ 
+(a) Except to the extent specifically provided elsewhere in this Agreement, First Data shall be responsible for providing all resources (including facilities, personnel, Equipment and Software) necessary or desirable to provide the Services and will only recover such costs through the corresponding Charges provided in Schedule C.
+ 
+(b) Subject to reasonable advance notice and to Capital One's approval, First Data may perform the Services employing any First Data facility; provided however, that Capital One may withhold its approval in its sole discretion with respect to any First Data facility outside the continental United States. The First Data facilities that Capital One has approved as of the Effective Date and the division of remittance work performed at each First Data facility are set forth in Schedule G (Services Locations). Proposed changes to the remittance volume distribution shall be subject to the non-proposing party's approval.
+ 
+4. TERM
+ 
+4.1
+Term.
+ 
+The initial term of this Agreement (the " ") shall commence on the Effective Date and shall continue for five (5) Processing Years unless terminated earlier in accordance with this Agreement. " " shall mean the twelve (12) month periods beginning on the Commencement Date and each anniversary of the Commencement Date thereafter.
+Initial
+Term
+Processing
+Years
+ 
+4.2
+Extension.
+ 
+Upon giving written notice to First Data not less than [* * * ] prior to the then existing expiration date, Capital One shall have the right to extend the Term of this Agreement for up to [* * * ] on the terms and conditions then in effect. Capital One shall have [* * * ] such extension [* * * ] .
+ 
+5. FIRST DATA PERSONNEL
+ 
+5.1
+Key First Data Positions.
+ 
+(a) " " shall be the positions set forth as such in Schedule D. First Data shall cause each of the First Data Personnel filling the Key First Data Positions to devote substantially full time and effort to the provision of the Services to Capital One. First Data shall ensure that each of these individuals remain on the Capital One account for at least twelve (12) months from the time they initially assume a Key First Data Position. First Data Personnel approved as of the Effective Date to fill the Key First Data Positions are listed in Schedule D.
+Key
+First
+Data
+Positions
+ 
+(i) Capital One may from time to time change the positions that are designated as Key First Data Positions; provided however, that the number of Key First Data Positions shall not exceed ten (10) without First Data's consent.
+ 
+(ii) First Data shall designate an individual to serve as " ". The First Data Project Executive shall (A) be one of the Key First Data Positions; (B) be a member of the Steering Committee; (C) serve as the single point of accountability for First Data for the Services; and (D) have day-to-day authority for undertaking to ensure the provision of the Services to Capital One's satisfaction.
+First
+Data
+Project
+Executive
+ 
+(b) Before assigning an individual to a Key First Data Position, whether as an initial assignment or a subsequent assignment, First Data shall:
+ 
+(i) Notify Capital One of the proposed assignment;
+ 
+(ii) Introduce the individual to appropriate Capital One representatives;
+ 
+(iii) Upon request, provide such representatives with the opportunity to interview the individual; and
+ 
+(iv) Provide Capital One with a resume and other information about the individual reasonably requested by Capital One.
+ 
+If Capital One objects in good faith to the proposed assignment of an individual to a Key First Data Position, the parties shall attempt to resolve Capital One's concerns on a mutually agreeable basis. If the parties have not been able to resolve Capital One's concerns within five (5) Business Days, First Data shall not assign the individual to that position and shall propose to Capital One the assignment of a different individual of suitable ability and qualifications.
+ 
+(c) Except with Capital One's consent individuals filling Key First Data Positions may not be transferred or re-assigned to other positions with First Data or its Affiliates until a suitable replacement has been approved by Capital One, and no such transfer shall occur at a time or in a manner that would have an adverse impact on delivery of the Services. First Data and Capital One may mutually agree upon a timeframe for identifying and positioning a replacement in the event Capital One approves a transfer or re-assignment of an individual filling a Key First Data
+ 
+Position prior to approving a replacement. Notwithstanding Section 5.3(d), Capital One may, in its sole discretion, require First Data to remove and replace any individuals filling Key First Data Positions at any time.
+ 
+5.2
+Transitioned Personnel.
+ 
+(a) Subject to subsection (b) below, First Data shall make offers of employment to all non-exempt Capital One employees performing Production Services-related functions as of the Effective Date and who are located at the Capital One facilities set forth in Attachment C-1 to Schedule C and at Capital One's West Creek campus in Glen Allen, Virginia. The terms of such employment offers shall be consistent with the requirements set forth in Schedule E (Employment Terms) but shall otherwise be within First Data's discretion. Capital One will provide First Data such reasonable assistance as may be necessary for First Data to make such offers and the parties shall coordinate such offers through the Capital One career center.
+ 
+(b) Transitioned Employees will be subject to First Data's generally applicable employment standards with respect to background checks and drug screens (at First Data's expense). First Data shall not be obligated to offer employment with First Data to any Affected Employee who does not satisfy such standards. Any Transitioned Employee who does not satisfy such standards may be terminated by First Data in accordance with First Data's then applicable policies.
+ 
+5.3
+Qualifications, Retention and Replacement of First Data Personnel.
+ 
+(a) First Data shall assign an adequate number of First Data Personnel to perform the Services. First Data shall ensure that all First Data Personnel have initially satisfied, and are in continued compliance with, Capital One's background screening (including those related to compliance with the Office of Foreign Assets Control regulations), drug testing policies, and other similar requirements, as they may change from time to time. First Data Personnel shall be properly educated, trained, and fully qualified for the Services they are to perform. If any portion of the Services of First Data Personnel are [* * * ] First Data [* * * ] First Data Personnel to become familiar with Capital One's account, business or requirements.
+ 
+(b) The parties agree that it is in their best interests to keep the turnover rate of Key First Data Positions (the "") to a reasonably low level. Accordingly, if Capital One believes that the Turnover may be excessive and so notifies First Data, First Data shall provide data concerning its Turnover and meet with Capital One to discuss the reasons for, and impact of, the Turnover. If appropriate, First Data shall submit to Capital One its proposals for reducing the Turnover, and the parties shall mutually agree on a program to bring the Turnover down to an acceptable level. In any event, First Data shall use Commercially Reasonable Efforts to keep the Turnover to a reasonably low level. Notwithstanding transfer or turnover of Key First Data Positions or First Data Personnel in other positions, First Data remains obligated to perform the Services without degradation and in accordance with this Agreement.
+Turnover
+ 
+(c) While at Capital One's premises (or the premises of others receiving the Services hereunder), First Data Personnel shall (i) comply with Capital One's requests, rules, and
+ 
+regulations regarding personal and professional conduct (including the wearing of an identification badge and adhering to regulations and general safety, dress, behavior, and security practices or procedures) generally applicable to such premises and (ii) otherwise conduct themselves in a businesslike and professional manner.
+ 
+(d) If Capital One determines in good faith that the continued assignment to Capital One's account of one or more of the First Data Personnel is not in the best interests of Capital One, then Capital One may give First Data notice to that effect. After receipt of such notice, First Data shall have a reasonable period of time in which to investigate the matters stated in such notice, discuss its findings with Capital One and resolve the problems with such person. If, following such period, Capital One requests replacement of such person, First Data shall replace that person with another person of suitable ability and qualifications. However, where Capital One notifies First Data that Capital One has determined that the nature of the concern is of such a nature that such First Data Personnel should be removed immediately (albeit temporarily) from Capital One's account, First Data shall immediately remove such individual(s) from Capital One's account. In any event, any request by Capital One to remove an individual from Capital One's account shall not be deemed to constitute a termination of such individual's employment by First Data, and in no event shall Capital One be deemed an employer of any such person. This provision shall not operate or be construed to limit First Data's responsibility for the acts or omissions of First Data Personnel, and First Data retains the right to discipline or terminate First Data Personnel in its sole discretion.
+ 
+5.4
+Oversight Controls.
+ 
+First Data shall implement oversight and monitoring procedures reasonably designed to detect, prevent, investigate, and report to Capital One any misuse or misappropriation of Capital One assets, systems, funds, or information by First Data Personnel or subcontractors. First Data shall promptly report any such misuse or misappropriation to Capital One.
+ 
+6. INTELLECTUAL PROPERTY RIGHTS
+ 
+6.1
+Developed Works and First Data Works.
+ 
+(a) Subject to Sections 6.2 (Capital One Works), 6.3 (Third Party Works), and 6.4 (Patentable Inventions), as between First Data and Capital One, First Data shall own all Developed Works and First Data Works and all Non-Patent IP Rights therein. Capital One hereby grants and assigns to First Data all right, title, and interest in and to the Developed Works and First Data Works.
+ 
+(b) First Data hereby grants Capital One, Affiliates of Capital One [* * *] (as used in this Article 6, collectively, the " ") [* * *], worldwide right to use, modify, maintain, create derivative works of, execute, reproduce, display, publish, perform and distribute all Developed Works (including any First Data Works included therein) that are physically delivered to Capital One as final work product for use by Capital One during the Term (i.e., and not merely provided for Capital One's review, comment or approval) and as further described in subsections (i) and (ii) below; and derivative works of Capital One Works and Third Party
+Permitted
+Licensees
+ 
+Works provided by Capital One regardless of whether delivered to Capital One during the Term, for the internal business purposes of Capital One and the Permitted Licensees, without any obligation to account to First Data or any third party (the " "). For the avoidance of doubt, Licensed Developed Works:
+Licensed
+Developed
+Works
+ 
+(i) shall consist of the following types of deliverables:
+ 
+(A) derivative works of Capital One Works and Third Party Works provided by Capital One;
+ 
+(B) report formats;
+ 
+(C) statement compositions;
+ 
+(D) letter compositions;
+ 
+(E) plastics formats;
+ 
+(F) business and user requirements;
+ 
+(G) file formats;
+ 
+(H) procedures manuals;
+ 
+(I) meeting summaries;
+ 
+(J) [* * *] and
+ 
+(K) correspondence.
+ 
+(ii) shall not consist of the following types of deliverables:
+ 
+(A) Software (other than derivative works of Capital One Works and Third Party Works provided by Capital One and regardless of whether delivered to Capital One during the Term);
+ 
+(B) derivative works of First Data Works to the extent that such works have not been customized for Capital One in a material respect (e.g., First Data template system user manuals where the changes consist merely of substituting "Capital One" for "customer" and other similar types of non-substantive modifications); and
+ 
+(C) quotes, bids and proposals for additional in-scope Services and New Capabilities.
+ 
+If a particular deliverable is not addressed by the lists set forth in paragraphs (i) and (ii) above, the parties shall use such lists to work in good faith to determine whether or not such deliverable shall be deemed a Licensed Developed Work. As used in this Section, "internal business purpose," whether or not capitalized, means any legitimate business purpose of a Permitted
+ 
+Licensee (other than the [* * *] [* * *] to have access to and use of the Licensed Developed Work for the sole purpose of providing services to a Permitted Licensee or, in the case of a customer, in connection with bona fide business relationship with a Permitted Licensee (e.g., a customer shall have the right to make copies of his statements notwithstanding that First Data may own the copyright in such statement). First Data shall provide to Capital One electronic copies of derivative works of Capital One Works, including object code or source code or both, as applicable, for Works that are Software, as requested by Capital One.
+and includes
+ 
+(c) Notwithstanding the foregoing, the license grant in Section 6.1(b) shall not apply with respect to any particular Developed Work and it shall not be deemed a "Licensed Developed Work," if: (i) First Data provides Capital One a written request that such license not apply with respect to that Developed Work; (ii) such request is provided in advance of First Data charging Capital One for work on such Developed Work and specifically cites the default license grant above; and (iii) [* * *].
+ 
+(d) If Capital One requests that First Data create any [* * *] (as defined in Section 5.1 of Schedule C), whether or not a Licensed Developed Work, that Capital One believes [* * *] and Capital One notifies First Data of such belief prior to First Data's commencement of work on such [* * *], [* * *] [* * *], , [* * *]. [* * *], [* * *] [* * *].
+then Capital One
+or to have
+as applicable
+At the
+if such
+is otherwise a
+ 
+6.2
+Capital One Works.
+ 
+(a) Except for the licenses provided hereunder, as between First Data and Capital One, First Data has no rights in and Capital One shall be the sole and exclusive owner of the Capital One Works and all Non-Patent IP Rights therein.
+ 
+(b) Subject to Section 6.2(c), Capital One grants First Data a non-exclusive, non-transferable, non-sub-licensable, royalty-free, fully paid-up license to use, modify, maintain, create derivative works of, execute, and reproduce the Capital One Works provided to First Data during the Term for the purpose of performing the Production Services solely (i) to the extent necessary for performing the Services, and (ii) subject to Section 6.2(c), for the benefit of First Data and its other customers to the extent that a Capital One Work is included in a Developed Work, both during the Term and following expiration or termination of this Agreement in perpetuity; provided, however, that the foregoing license shall be rescinded if this Agreement is terminated prior to the Commencement Date. For the avoidance of doubt, the foregoing license grant shall not apply to those Capital One Works made available to First Data for purposes other than performing the Production Services. Capital One Works will be made available to First Data in such form and on such media as exists on the Effective Date or as is later obtained by Capital One, together with available documentation and any other related materials. First Data shall install, operate, use and support, as applicable, and otherwise treat in the same manner as Capital One Works existing as of the Effective Date, additional Capital One Works that Capital One may designate from time to time during the Term.
+ 
+(c) To the extent that Capital One discloses to First Data (either prior to the Effective Date or during the Term) Capital One Competitive Works and Inventions, such Capital One
+ 
+Competitive Works and Inventions shall be deemed Capital One Confidential Information and subject to the provisions of Section 13.4. In addition to its obligations of non-disclosure under Section 13.4, First Data will not use Capital One Competitive Works and Inventions (other than First Data Works and First Data Inventions that are incorporated therein) that are Capital One Confidential Information other than for purposes of providing the Services without Capital One's prior written consent, which Capital One may withhold in its sole discretion; provided, however, that the foregoing restriction shall not apply to the extent that Capital One Competitive Works and Inventions fall into one of the categories set forth in Section 13.4(c)(i). First Data may retain copies of the Capital One Competitive Works and Inventions (and any embodiments thereof) only until such time as the copies or embodiments are no longer needed to perform the Services or the end of the Term, whichever occurs first. At such time First Data shall either return or destroy all such copies or embodiments, as Capital One elects. For the avoidance of doubt, except as provided in Section 6.2(b)(i) above, Capital One has not granted to First Data any right, title or interest in or to any Capital One Confidential Information, including any Capital One Competitive Works and Inventions, regardless of whether contained in any Capital One Works or Developed Works.
+ 
+6.3
+Third Party Works.
+ 
+(a) .
+Third Party Works Provided by First Data
+ 
+(i) First Data will provide Capital One [* * *] of any Third Party Works that: (i) First Data [* * *] in the Licensed Developed Works; or (ii) that are [* * *] for Capital One's [* * *] of the Licensed Developed Works.
+ 
+(ii) First Data may not [* * *] Third Party Works as provided in Section 6.3(a)(i) [* * *] If Capital One [* * *] for any such Third Party Work, then First Data [* * *] [* * *] [* * *].
+without
+on such
+ 
+(b)
+Third Party Works Provided by Capital One.
+ 
+(i) With respect to the Third Party Works licensed by Capital One, subject to First Data having obtained any Required Consents, Capital One grants to First Data solely to the extent necessary for performing the Services, the rights of use of such Third Party Works that Capital One has as of the Effective Date of this Agreement or that Capital One later obtains with respect to such Third Party Works. First Data shall comply with the obligations, including use restrictions and those of nondisclosure, imposed on Capital One by the licenses for such Third Party Works to the extent made available to First Data, and First Data shall not seek to modify or otherwise revoke such terms. Except as otherwise requested or approved by Capital One, First Data shall cease all use of such Third Party Works upon expiration or termination of this Agreement.
+ 
+(ii) Notwithstanding anything else to the contrary in this Agreement, other than the limited license grant in Section 6.3(b)(i), no terms of this Agreement or subsequent disclosures or actions of Capital One shall be construed as granting to or conferring on First Data, expressly or impliedly any right, title or interest in or to (including any Intellectual Property Rights), or license to:
+ 
+(A) the Third Party Works licensed by Capital One and made available to First Data; or
+ 
+(B) any derivative works of the Third Party Works licensed by Capital One and made available to First Data; or
+ 
+(C) any patentable inventions embodied in the Third Party Works described in subsections (A) and (B) above or any improvements thereto.
+ 
+6.4
+Patentable Inventions.
+ 
+(a) As between Capital One and First Data, First Data shall have exclusive ownership of Patent Rights in patentable inventions, and all patentable improvements to such inventions, to the extent that such inventions or improvements were conceived and reduced to practice by one or more employees of First Data (collectively the " ").
+First
+Data
+Inventions
+ 
+(b) To the extent, if any, that any First Data Inventions are or may become [* * *] [* * *] [* * *] [* * *] [* * *] First Data hereby [* * *] (except to the extent otherwise permitted under this Agreement), [* * *] products and services [* * *], for the internal business purposes of the Permitted Licensees, [* * *] [* * *].
+or
+for the
+and
+of the
+or any
+ 
+(c) If:
+ 
+(i) Capital One requests that First Data create a [* * *] under this Agreement, and
+ 
+(ii) in creating such [* * *] and
+ 
+(iii) Capital One [* * *] on the [* * *] embodying such First Data Invention,
+ 
+then Capital One shall have [* * *] [* * *]. [* * *] [* * *].
+as applicable, such
+At the
+in this
+ 
+(d) To the extent, if any, that any First Data Inventions [* * *] are being used by Capital One after the effective date of termination or expiration of this Agreement in violation of Patent Rights of First Data or its Affiliates, then First Data [* * *] Capital One [* * *] using such First Data Invention. First Data (on its own behalf and on behalf of its Affiliates) [* * *] Capital One or any of the Permitted Licensees [* * *] such Patent Rights [* * *] [* * *] [* * *] [* * *].
+and
+and
+by the
+ 
+6.5
+Residual Knowledge.
+ 
+Nothing contained in this agreement shall restrict a party from the use of any general ideas, concepts, know-how, methodologies, processes, technologies, algorithms or techniques retained in the unaided mental impressions of such party's personnel relating to the Services that
+ 
+either party, individually or jointly, develops or discloses under this Agreement, provided that in doing so such party does not (a) breach its obligations with respect to the confidential information of the other party or (b) infringe the Intellectual Property Rights of the other party or of third parties that have licensed or provided materials to the other party. Except for the express license rights contained herein, neither this Agreement nor any disclosure made hereunder grants any license to either party under Intellectual Property Rights of the other party. This Section 6.5 shall survive termination/expiration of this Agreement.
+ 
+6.6
+[* * *] Subcontracting.
+ 
+First Data shall [* * *] Capital One, and shall cause its Affiliates, employees, independent contractors, subcontractors and other agents to [* * *] any documents (including applications and assignments) as may reasonably be necessary, or as Capital One may reasonably request, [* * *] Capital One [* * *] provided in this Article 6 or [* * *] Capital One's Intellectual Property Rights in any derivative works of Capital One Competitive Works and Inventions, without additional consideration and regardless of whether during or after the Term. First Data shall otherwise cooperate fully, and cause its Affiliates, employees, independent contractors and other agents to cooperate fully, with Capital One, at the expense of Capital One, in the preparation, prosecution, and protection of [* * *] and Intellectual Property Rights and shall cooperate fully with Capital One at Capital One's expense, in any claims, legal actions and proceedings concerning [* * *] Intellectual Property Rights.
+ 
+6.7
+No Implied Grant.
+ 
+Except for the license rights contained in this Article 6, neither this Agreement nor any disclosure made hereunder shall be deemed to grant to either party a license to the Intellectual Property Rights of the other party.
+ 
+6.8
+Export.
+ 
+The parties acknowledge that certain Software and technical data to be provided hereunder and certain transactions hereunder may be subject to export controls under Applicable Laws, including the U.S. Commerce Department's Export Administration Regulations. Neither party shall export or re-export any such items or any direct product thereof or undertake any transaction in violation of any such Applicable Laws. To the extent within First Data's control, First Data shall be responsible for, and shall coordinate and oversee, compliance with such Applicable Laws, and any Capital One's policies, standards and procedures related to such laws, in respect of such items exported or imported hereunder.
+ 
+7. PERFORMANCE STANDARDS
+ 
+7.1
+General.
+ 
+First Data shall perform the Services at least at the same level and with at least the same degree of accuracy, quality, completeness, timeliness, responsiveness and efficiency as was provided prior to the Effective Date by or for Capital One. Quantitative performance standards for certain of the Services (" ") are set forth in Schedule B. At all times First Data's level of performance shall be at least equal to the Service Levels and to standards satisfied by well-managed, world-class production facilities.
+Service
+Levels
+ 
+7.2
+Failure to Perform.
+ 
+(a) If First Data fails to meet any Service Level, or if there is an indication that First Data will likely fail to meet any Service Level, First Data shall promptly (taking into consideration the severity of the failure):
+ 
+(i) Investigate, assemble, and preserve pertinent information with respect to, and report on the causes of, the problem(s), including performing a root cause analysis of the problem(s);
+ 
+(ii) Advise Capital One, as and to the extent requested by Capital One, of the status of remedial efforts being undertaken with respect to such problem(s);
+ 
+(iii) Minimize the impact of and correct the problem(s) and begin meeting the Performance Standards; and
+ 
+(iv) Take appropriate preventive measures so that the problem does not recur.
+ 
+(b) First Data recognizes that its failure to meet those Service Levels identified in Schedule B as [* * *] may have a material adverse impact on the business and operations of Capital One and that the damage from First Data's failure to meet [* * *] is not susceptible of precise determination. Accordingly, if First Data fails to meet [* * *] and such failure is not excused pursuant to Schedule B, then in addition to any non-monetary remedies available to Capital One under this Agreement, at law, or in equity, Capital One may elect, in [* * *] This provision will not limit Capital One's rights with respect to the events upon which Capital One may rely as a basis for Capital One's termination of this Agreement for cause, which are in addition to, and not a substitution for, such provisions.
+ 
+7.3
+User Satisfaction.
+ 
+First Data and Capital One will conduct a survey at agreed-to intervals (not less than annually) of an agreed upon percentage of Capital One's user community. The surveys shall be designed to determine the level of user satisfaction and areas where user satisfaction can be improved. Such surveys shall include representative samples of each major category of user within Capital One and an agreed upon number of in-depth face-to-face or telephone interviews. First Data and Capital One will mutually agree on the form and content of the surveys, which shall be no less thorough than First Data's customary user satisfaction program. The parties will jointly review the results of the surveys, and First Data will develop and implement a plan to improve user satisfaction in areas where user satisfaction is low. [* * *] shall be an element of First Data [* * *]. Such factors shall comprise a [* * *].
+ 
+7.4
+Periodic Reviews.
+ 
+Within twelve (12) months after the Commencement Date and at least annually thereafter, Capital One and First Data shall review the Service Levels and, as more fully described in Schedule B, shall make adjustments to them as appropriate, including to reflect New Capabilities. The parties expect and understand that the Service Levels will be improved over time.
+ 
+7.5
+Measurement and Monitoring Tools.
+ 
+First Data shall utilize the necessary measurement and monitoring tools and procedures required to measure and report First Data's performance of the Services against the applicable Service Levels. First Data shall describe its proposed measurement and monitoring tools. First Data shall also provide Capital One with on-line, real-time access to reports (both management and operational) and the monitoring and performance management data and tools that First Data will use to manage the Services and measure performance against the Service Levels. Underlying data will be made available by First Data in real time (or near real-time), not held until the end of a reporting period.
+ 
+8. PROJECT AND CONTRACT MANAGEMENT
+ 
+8.1
+Steering Committee.
+ 
+The parties shall form a steering committee to facilitate communications between them (the " "). The Steering Committee shall be initially composed of the individuals filling the following positions: Capital One's Director [* * *] (as of the Effective Date, [* * *] Capital One's Director [* * *] (as of the Effective Date, [* * *] First Data's Vice President, [* * *] (as of the Effective Date, [* * *] a First Data Corporation Senior Vice President [* * *] (as of the Effective Date, [* * *] and such other positions as may be mutually agreed by the parties. The Steering Committee shall always have equal numbers of representatives from Capital One and First Data. The parties agree that it is in their mutual best interests to keep turnover on the Steering Committee low. Accordingly, a party may substitute other individuals to serve on the Steering Committee, either temporarily due to the unavailability of a designated individual or permanently, only (a) with the consent of the other party or (b) if the person has been permanently appointed to one of the positions then-currently designated as on the Steering Committee (e.g., as of the Effective Date, Capital One's Director [* * *]).
+Steering
+Committee
+ 
+8.2
+Reports and Meetings.
+ 
+(a) First Data shall provide to Capital One the types of reports indicated in Schedule J and as specified elsewhere in this Agreement. Such reports shall (i) be no less comprehensive than the internal reporting of Capital One prior to the Effective Date; and (ii) be issued at the frequency reasonably requested by Capital One. First Data shall provide Capital One with suggested formats for such reports for Capital One's review and approval. As one such report, First Data shall provide a monthly performance report, which shall be delivered to Capital One within fifteen (15) days after the end of each month, describing First Data's performance of the Services in the preceding month (the " "). The Monthly Performance Report shall:
+Reports.
+Monthly
+Performance
+Report
+ 
+(i) Separately address First Data's performance in each area of the Services, including the Plastics Services, Statement Services and Remittance Processing Services, Letter Services and DRBC Services (each as defined in Schedule A);
+ 
+(ii) Assess the degree to which First Data has attained or failed to attain the pertinent objectives for each area of the Services, including with respect to the Performance Standards;
+ 
+(iii) Explain deviations from the Performance Standards and include a plan for corrective action where appropriate;
+ 
+(iv) Describe the status of problem resolution efforts, ongoing projects, and other initiatives;
+ 
+(v) Set forth a record of the material Equipment, Software and personnel changes that pertain to the Services and describe planned changes during the upcoming month that may affect the Services;
+ 
+(vi) Set forth the utilization of Resource Units for the month (as defined in Schedule C) and report on utilization trends and statistics; and
+ 
+(vii) Include such documentation and other information as Capital One may reasonably request to verify compliance with, and meeting the objectives of, this Agreement.
+ 
+(b) Within thirty (30) days after the Effective Date, the parties shall determine an appropriate set of periodic meetings to be held between representatives of Capital One and First Data during the Term of this Agreement, which will include, at a minimum, the following meetings:
+Meetings.
+ 
+(i) A weekly meeting of the Capital One Contract Executive and the First Data Project Executive to discuss day-to-day operations and such other matters as appropriate;
+ 
+(ii) A monthly meeting among operational personnel representing Capital One and First Data to discuss the Monthly Performance Report, daily performance, planned or anticipated activities and changes that might adversely affect performance, and otherwise to address, review and discuss matters specific to Capital One;
+ 
+(iii) A quarterly management meeting of the Steering Committee to review the reports for the quarter, review First Data's overall performance under this Agreement, review progress on the resolution of issues, provide a strategic outlook for Capital One's IT requirements, and discuss such other matters as appropriate; and
+ 
+(iv) Such other meetings between Capital One's representatives and First Data Personnel reasonably requested by either party as necessary to address performance of the Services.
+ 
+First Data shall prepare and circulate an agenda sufficiently in advance of each such meeting to give participants an opportunity to prepare for the meeting. First Data shall incorporate into such agenda items that Capital One desires to discuss.
+ 
+8.3
+Procedures Manual.
+ 
+(a) First Data shall develop, establish, maintain, and comply with a procedure manual (the " ") for the Services. The Procedures Manual shall be suitable for use by Capital One to understand the Services and shall describe:
+Procedures
+Manual
+ 
+(i) How First Data shall perform and deliver the Services under this Agreement (including the specific processes specified, or approved, by Capital One for handling interactions with Capital One's customers);
+ 
+(ii) The Equipment and Software being used, and the documentation (e.g., operations manuals, user guides, specifications) that provides further details of such activities;
+ 
+(iii) The activities First Data proposes to undertake in order to provide the Services, including those direction, supervision, monitoring, staffing, reporting, planning and oversight activities normally undertaken to provide services of the type First Data is to provide under this Agreement;
+ 
+(iv) Descriptions of the acceptance testing and quality assurance procedures approved by Capital One;
+ 
+(v) First Data's problem management and escalation procedures, and the other standards and procedures of First Data pertinent to Capital One's interaction with First Data in obtaining the Services;
+ 
+(vi) The procedures that First Data proposes to undertake to comply with Applicable Law;
+ 
+(vii) The procedures that First Data proposes to undertake to comply with Capital One's internal policies, standards and procedures applicable to the Services (including [* * *] that Capital One makes available to First Data from time to time; First Data shall have a reasonable period of time to achieve compliance with such policies, standards and procedures made available by Capital One;
+ 
+(viii) The procedures that First Data proposes to undertake to comply with Capital One's internal records retention policies; and
+ 
+(ix) Any other standards and procedures of First Data pertinent to Capital One's interaction with First Data in receiving the Services.
+ 
+(b) Within one hundred twenty (120) days after the Effective Date, First Data shall deliver a draft Procedures Manual to Capital One, for Capital One's review and comments. First Data shall incorporate reasonable comments or suggestions of Capital One and shall finalize the Procedures Manual within a reasonable time after receiving Capital One's comments. The final Procedures Manual shall be subject to the approval of Capital One, only to the extent that such Capital One internal policies, standards and procedures are made available to First Data. First Data shall periodically update the Procedures Manual to reflect changes in the operations or procedures described therein. Updates of the Procedures Manual shall be provided to Capital One for review, comment and approval. First Data shall perform the Services in accordance with the Procedures Manual. The Procedures Manual shall not be used to amend this Agreement. If there is a conflict between the provisions of this Agreement and the Procedures Manual, the provisions of this Agreement shall control.
+ 
+8.4
+Change Control.
+ 
+(a) First Data shall provide Capital One its IT architecture and IT standards (the "") within ninety (90) days of the Effective Date. Material changes to the IT Direction shall be presented to the Technology Subcommittee of the Steering Committee. First Data, in performing the Services, shall conform to and shall support such IT Direction.
+IT Direction
+ 
+(b) First Data shall be responsible for making all changes to the First Data System and the Services, including changes to programs, manual procedures, parameters and schedules, in compliance with the following change control requirements:
+ 
+(i) Prior to using any new Software or new Equipment to provide the Services, First Data shall have verified that the item has been properly installed, is operating in accordance with its specifications and is performing its intended functions in a reliable manner.
+ 
+(ii) As a result of implementing a change in technology, First Data shall not (A) increase [* * *] without in each case first obtaining Capital One's approval, which approval Capital One may withhold in its discretion. For the avoidance of doubt, the foregoing restrictions shall not apply with respect to the implementation of New Capabilities that have been elected by Capital One.
+ 
+(iii) First Data shall move programs from development and test environments to production environments in a controlled and documented manner.
+ 
+(c) Within sixty (60) days after the Effective Date, First Data shall prepare and provide to Capital One for its review and approval a change control procedure (the " ") detailing how First Data will comply with the requirements set forth in this Section 8.4 and otherwise control changes to Capital One's IT environment pertaining to the Services. First Data shall incorporate reasonable comments or suggestions of Capital One and shall finalize the Change Control Procedure within thirty (30) days after receiving Capital One's comments. The final Change Control Procedure shall be subject to Capital One's approval. The Change Control Procedure shall not be used to amend this Agreement. If there is a conflict between the provisions of this Agreement and the Change Control Procedure, the provisions of this Agreement shall control.
+Change
+Control
+Procedure
+ 
+8.5
+Use of Subcontractors and Other Support.
+ 
+(a) Except as provided in Section 8.5(b), First Data may, in the ordinary course of business, subcontract with third parties for services or products related to the Services. If Capital One expresses concerns to First Data about a proposed or existing subcontract covered by this Section 8.5(a), First Data shall discuss such concerns with Capital One and work in good faith to resolve Capital One's concerns on a mutually acceptable basis.
+ 
+(b) Except as and to the extent that Capital One may agree otherwise in writing, prior to First Data subcontracting (to new or existing suppliers) its obligations under this Agreement:
+ 
+(i) for services or products that are dedicated to Capital One, or
+ 
+(ii) that are material to a particular function constituting a part of the Services, or
+ 
+(iii) that will result in a material change in the way First Data conducts its business or will materially adversely affect Capital One, whether in performance of, or Charges for, the Services or otherwise, or
+ 
+(iv) to an entity that is not a United States-based company, or
+ 
+(v) for services to be performed outside of the United States, or
+ 
+(vi) where such subcontract contemplates that such third party subcontractor will have access to Customer Data or information otherwise subject to the GLB Act,
+ 
+then First Data shall give Capital One reasonable prior notice specifying the components of the Services affected, the scope of the proposed subcontract, and the identity and qualifications of the proposed subcontractor. At Capital One's request, First Data shall forward to Capital One a description of the scope, privacy and confidentiality terms of the subcontract or proposed subcontract. Capital One may approve or disapprove of any such proposed subcontractor in its discretion. The subcontractors listed on Schedule K are hereby approved for the scope of Services and duration therein described.
+ 
+(vii) Capital One may revoke its approval of an Approved Subcontractor and direct First Data to replace such Approved Subcontractor if the Approved Subcontractor's performance is materially deficient; good faith doubts exist concerning the Approved Subcontractor' ability to render future performance because of changes in the Approved Subcontractor's ownership, management, financial condition, or otherwise; or there have been material misrepresentations by or concerning the Approved Subcontractor. If an Approved Subcontractor ceases to be an Affiliate of First Data, First Data shall promptly notify Capital One and First Data's continued use of such subcontractor shall be subject to approval by Capital One if the subcontract is one for which approval is otherwise required under Section 8.5(b).
+ 
+(c) First Data shall remain responsible for obligations, services, and functions performed by subcontractors to the same extent as if such obligations, services and functions were performed by First Data's employees. First Data shall be Capital One's sole point of contact regarding the Services, including with respect to payment. First Data shall not disclose Capital One Confidential Information to a subcontractor unless and until such subcontractor has agreed in writing to protect the confidentiality of such Confidential Information in a manner substantially equivalent to that required of First Data under this Agreement.
+ 
+(d) To the extent subcontractors, agents, representatives and other entities perform, or otherwise provide support to First Data related to, the Services, First Data shall cause such entities to comply with the obligations and restrictions applicable to First Data under this Agreement.
+ 
+8.6
+Technology Plan.
+ 
+(a) The parties will designate members of the Steering Committee to serve on a Technology Subcommittee to meet to review and assess the then-current IT systems, including an assessment of the appropriate direction for such systems and services in light of Capital One's business priorities and strategies and competitive market forces, including (i) the identification of proposed Equipment and Software strategies and direction; (ii) a description of the types of personnel skills and abilities needed to respond to any recommended changes or upgrades in technology; (iii) a general plan and a projected time schedule for developing and achieving the recommended elements; and (iv) references to appropriate information services operations platforms that support Service Level requirements, exploit industry trends in production capabilities and provide potential price performance improvement opportunities.
+ 
+(b) The Technology Subcommittee of the Steering Committee shall meet at such times and frequency as determined by the Steering Committee to support Capital One's annual business planning cycle and to reflect changes in the business of Capital One that materially impact the then-current IT systems.
+ 
+8.7
+Innovation Performance and Measurement.
+ 
+(a) All Capital One requests for [* * *] from First Data shall be assigned one (1) of the following three (3) designations by Capital One (provided that if First Data objects to any such designation, the Steering Committee will review and determined the designation): (i) [* * *] ; (ii) [* * *] ; or (iii) [* * *] For the avoidance of doubt, if such New Capability (x) is at the time in general use within the production processing industry or (y) is documented by Capital One to First Data as capable of producing material economic benefit to Capital One, including through increased revenue, responses, or payments, then the request shall be deemed [* * *] .
+ 
+(b) If First Data and the project management organizations and other third parties acting on First Data's behalf collectively do not implement into production for Capital One [* * *] of the subset of Capital One's [* * *] requests for a Processing Year which: (i) are designated by the Steering Committee as [* * *] or otherwise meet the definition of [* * *] set forth herein; and (ii) Capital One determines will be implemented into production for Capital One (Capital One
+ 
+shall promptly communicate any such determination to First Data in writing); and (iii) are implemented into production for Capital One by either Capital One itself, First Data, or third parties (regardless of whether acting on behalf of Capital One or First Data); and (iv) are for [* * *] and (v) are not [* * *]; and (vi) are requests as to which Capital One has afforded First Data opportunities [* * *] to Capital One that are at least as great, and are on terms at least as favorable as, the opportunities regarding the [* * *] by Capital One, then Capital One shall have the [* * *] provided, however, that [* * *] within a reasonable period of time after the [* * *] shall be Capital One's [* * *].
+ 
+(c) For purposes of making the determinations set forth in subsection (b) above, an implementation of a [* * *] on a pilot basis shall be considered an implementation into production.
+ 
+(d) On a regular basis, the Steering Committee shall review and evaluate First Data's performance relative to this Section. Without limiting the generality of the foregoing, no less frequently than on a calendar quarterly basis the Steering Committee shall issue a report updating Capital One and First Data on the status of all Capital One [* * *] requests. All such reports shall at a minimum include a then-current listing of the subset of Capital One [* * *] requests which are designated as [* * *] and have been implemented into production for Capital One by third parties.
+ 
+8.8
+Quality Assurance and Improvement Programs.
+ 
+As part of its total quality management process, First Data shall provide continuous quality assurance and quality improvement through (a) the identification and application of proven techniques and tools from other installations within its operations (i.e., "Best Practices"), and (b) the implementation of concrete programs, practices and measures designed to improve Performance Standards. Such procedures shall include checkpoint reviews, testing, acceptance, and other procedures for Capital One to confirm the quality of First Data's performance, and shall be included in the Procedures Manual. First Data shall utilize project management tools, including productivity aids and project management systems, as appropriate in performing the Services.
+ 
+9. AUDITS; RECORDS RETENTION
+ 
+9.1
+Audit Rights.
+ 
+(a) First Data shall maintain a complete audit trail of all financial and non-financial transactions resulting from this Agreement. First Data shall provide to Capital One, its auditors (including internal audit staff and external auditors), inspectors, regulators and other representatives as Capital One may from time to time designate in writing, access at all reasonable times and upon reasonable advance notice (and in the case of regulators at any time required by such regulators regardless of notice) to any facility or part of a facility at which either First Data or any of its subcontractors is providing the Services, First Data Personnel, and to data and records relating to the Services for the purpose of performing audits and inspections of either First Data or any of its subcontractors during the Term and for the period First Data is required to maintain records hereunder to:
+ 
+(i) Verify the accuracy of Charges and invoices;
+ 
+(ii) Verify the integrity of Capital One Data and examine the systems that process, store, support and transmit that data; and
+ 
+(iii) Examine First Data's performance of the Services and conformance to the terms of this Agreement including, to the extent applicable to the Services and to the Charges therefor.
+ 
+(b) Accordingly, Capital One's rights herein shall include the right to perform audits (i) of practices and procedures; (ii) of systems, Equipment and Software that process, store, support and transmit Capital One Data; (iii) of supporting information and calculations regarding compliance with Performance Standards; (iv) of general controls and security practices and procedures; (v) of disaster recovery and back-up procedures; and (vi) as necessary to enable Capital One to meet, or to confirm that First Data is meeting, applicable regulatory and other legal requirements. Notwithstanding the foregoing, except for regulatory audits, Capital One shall not perform more than one (1) comprehensive audit per year of each major functional area of the Services. Each such comprehensive audit of each major functional area of the Services by Capital One shall be limited to ten (10) days on-site at First Data and to a three (3) year look-back period, unless an audit uncovers breaches of this Agreement, overcharges, non-compliance with Applicable Laws or other irregularities, in which case Capital One may extend the on-site audit period and may audit as far back as reasonably required to determine the extent of such breach, overcharge, non-compliances or other irregularity, as applicable.
+ 
+(c) Capital One and its auditors (including internal audit staff and external auditors), inspectors, and other representatives (other than regulators) shall comply with First Data's reasonable security requirements as provided in writing to such auditors, inspectors, regulators and other representatives.
+ 
+(d) First Data shall provide to such auditors, inspectors, regulators, and other representatives such assistance as they request without additional charge, including installing and operating audit software, provided that such software needs to conform to First Data's reasonable technical, security, compliance and operational requirements. If such audit software is installed and operated by Capital One's internal or external auditors (other than regulatory auditors or inspectors), Capital One shall work with First Data to avoid a material adverse impact on First Data's systems or operations and shall coordinate the use of such software with non-peak hours or maintenance windows. First Data shall cooperate fully with Capital One or its designees in connection with audit functions and with regard to examinations by regulatory authorities.
+ 
+(e) First Data shall conduct audits of or pertaining to the Services in such manner and at such times as is consistent with the audit practices of world-class, well managed operations performing services similar to the Services. First Data shall perform a security audit at least annually.
+ 
+9.2
+Audit Follow-up.
+ 
+(a) Following an audit or examination, Capital One may conduct (in the case of an internal audit), or request its external auditors or examiners to conduct, an exit conference with First Data to obtain factual concurrence with issues identified in the review. First Data shall make available promptly to Capital One First Data's Type II SAS-70 report; provided however, that First Data may redact its Type II SAS-70 as necessary to protect confidential information of First Data's other customers. In addition, First Data shall promptly notify Capital One if any other audit conducted by First Data or its Affiliates (including by internal audit staff or external auditors), or by inspectors, regulators or other representatives (including internal and external auditors) or by other customers, identifies deficiencies that are reasonably likely to materially adversely impact the Services; provided, however, that First Data shall not be obligated to provided Capital One the actual audit reports that are the basis for such notice.
+ 
+(b) First Data and Capital One shall promptly meet to review each audit report after its issuance, and First Data shall promptly remedy any deficiencies discovered by the audit unless Capital One agrees to an alternative resolution of the deficiency. Capital One and First Data agree to develop operating procedures for the sharing of audit and regulatory findings and reports related to First Data's operating practices and procedures produced by auditors or regulators of either party.
+ 
+9.3
+Records Retention.
+ 
+Until the latest of:
+ 
+(a) The earlier of three (3) years after creation of the record and the time period for such record specified in Schedule F (Records Retention);
+ 
+(b) All pending matters relating to this Agreement (e.g., disputes) are closed;
+ 
+(c) The information is no longer required to meet Capital One's records retention policy as disclosed by Capital One to First Data and as such policy may be adjusted from time to time; or
+ 
+(d) The information is no longer required for either party to comply with Applicable Laws,
+ 
+First Data shall maintain and provide access upon request to the records, documents and other information required to meet Capital One's audit rights under this Agreement. Before destroying or otherwise disposing of such information, First Data shall provide Capital One with sixty (60) days prior notice and offer Capital One the opportunity to recover such information or to request First Data to deliver such information to Capital One, with Capital One paying First Data's Out-of-Pocket Expenses.
+ 
+9.4
+Overcharges.
+ 
+(a) If as a result of an audit or otherwise it is determined that First Data has overcharged Capital One, at Capital One's option, First Data shall either (i) credit Capital One's account, or (ii) pay Capital One directly, an amount equal to the [* * *] [* * *] [* * *].
+at
+from the
+ 
+(b) If the audit discloses that First Data's overcharges exceeded [* * *] ([* * *]) of the charges (including Pass-Through Expenses) during the period audited, then First Data shall also reimburse Capital One for the reasonable cost of the audit.
+%
+ 
+10. CAPITAL ONE RESPONSIBILITIES
+ 
+10.1
+Capital One Responsibilities.
+ 
+Capital One's responsibilities will be limited to those expressly set forth in this Agreement. In addition to Capital One's responsibilities expressly set forth elsewhere in this Agreement, Capital One shall be responsible for the following:
+ 
+(a) Capital One shall designate one (1) individual to whom First Data may address operational communications concerning this Agreement (the " ").
+Capital
+One
+Contract
+Executive
+ 
+(b) Capital One shall cooperate with First Data, including by making available management decisions, information, approvals and acceptances, as reasonably requested by First Data so that First Data may accomplish its obligations and responsibilities hereunder. The Capital One Contract Executive, or such person's designee, will be the principal point of contact for obtaining such decisions, information, approvals, and acceptances. Only personnel as expressly so designated by the Capital One Contract Executive will be authorized to make commitments on the part of Capital One that amend this Agreement. To the extent First Data relies on the apparent authority of other Capital One employees or representatives, it does so at its own risk and without obligation on Capital One's part.
+ 
+(c) While at First Data's premises, Capital One employees shall (i) comply with First Data's requests, rules, and regulations regarding personal and professional conduct (including the wearing of an identification badge and adhering to regulations and general safety, dress, behavior, and security practices or procedures) generally applicable to such premises and (ii) otherwise conduct themselves in a businesslike and professional manner.
+ 
+(d) Capital One shall be responsible for the acts and omissions of its other service providers to the same extent as if such acts and omissions were performed by Capital One's employees.
+ 
+10.2
+Savings Clause.
+ 
+(a) Due to the material adverse impact termination of this Agreement or suspension of performance of the Services would have on Capital One's business, [* * *]
+ 
+(b) First Data acknowledges that Capital One would not be willing to enter into this Agreement without assurance that this Agreement [* * *] and that First Data [* * *], and only to the extent, explicitly provided herein.
+ 
+(c) First Data's nonperformance of its obligations under this Agreement [* * *] the extent (i) [* * *] and (ii) First Data provides Capital One with [* * *] and (if requested by Capital One) uses [* * *] (with Capital One being responsible to [* * *].
+ 
+11. CHARGES
+ 
+11.1
+General.
+ 
+All amounts First Data may charge for the Services are set forth in this Agreement and in Schedule C. First Data shall not have the right to charge, and Capital One shall not be required to pay to First Data, any amounts for the Services other than or in addition to those payable to First Data under this Agreement or Schedule C, including that Capital One is not obligated to pay any separate charges for [* * *] First Data or for [* * *]. In no event will information or changes in circumstances discovered after the Effective Date regarding Capital One's operations of any kind serve as the basis for First Data to adjust the charges or terms of this Agreement or any of the Schedules.
+ 
+11.2
+Pass-Through Expenses.
+ 
+(a) " " shall mean third party charges that are to be administered by First Data and either (i) paid directly by Capital One, or (ii) paid by First Data and reimbursed by Capital One. All Pass-Through Expenses are identified in Schedule C. All Pass-Through Expenses shall be [* * *].
+Pass-Through
+Expenses
+ 
+(b) First Data shall use Commercially Reasonable Efforts to minimize the amount of Pass-Through Expenses. With respect to services or materials paid for on a Pass-Through Expenses basis, Capital One reserves the right to:
+ 
+(i) Obtain such services or materials directly from one or more third parties;
+ 
+(ii) Designate the third party source for such services or materials;
+ 
+(iii) Designate the particular services or materials (e.g., equipment make and model) First Data shall obtain; provided however, if First Data demonstrates to Capital One that such designation will have an adverse impact on First Data's ability to meet the Service Levels or otherwise perform a material part of the Services, such designation shall be subject to First Data's approval;
+ 
+(iv) Designate the terms for obtaining such services or materials (e.g., purchase or lease and lump sum payment or payment over time);
+ 
+(v) Require First Data to identify and consider multiple sources for such services or materials or to conduct a competitive procurement; and
+ 
+(vi) Review and approve the applicable Pass-Through Expenses before entering into a contract for particular services or materials.
+ 
+(c) [* * *]
+ 
+(d) First Data shall arrange for delivery by third parties to First Data of invoices for all Pass-Through Expenses, and First Data shall promptly review such invoices and provide Capital One with a statement identifying which charges are proper and valid and should be paid by Capital One, together with back-up documentation to support such charges, which may include a copy of the original invoice or any rebates or discounts from the supplier, provided that First Data may redact those portions of such invoices unrelated to the Services.
+ 
+11.3
+Incidental Expenses.
+ 
+Except as may be otherwise provided in this Agreement, expenses that First Data incurs in performing the Services (including travel and lodging, document reproduction and shipping, and long-distance telephone) are included in First Data's charges and rates set forth in this Agreement. Accordingly, such First Data expenses are not separately reimbursable by Capital One unless, on a case-by-case basis for unusual expenses, Capital One has agreed in advance and in writing to reimburse First Data for the expense.
+ 
+11.4
+Taxes.
+ 
+The parties' respective responsibilities for taxes arising under or in connection with this Agreement shall be as follows:
+ 
+(a) Each party shall be responsible for:
+ 
+(i) Any real or personal property taxes on property it uses, regardless of whether such property is owned or leased;
+ 
+(ii) Franchise and privilege taxes on its business, and
+ 
+(iii) Taxes based on its net income or gross receipts.
+ 
+(b) Capital One shall be responsible for any sales, use, excise, value-added, services, consumption or other tax levied on the Services provided by First Data to Capital One.
+ 
+(c) If a sales, use, excise, value added, services, consumption, or other tax is assessed on the provision of any portion of the Services, the parties shall work together to segregate the payments under this Agreement into three (3) payment streams:
+ 
+(i) Those for taxable Services;
+ 
+(ii) Those for which First Data functions merely as a payment agent for Capital One in receiving goods, supplies, or services (including leasing and licensing arrangements) that otherwise are non-taxable or have previously been subject to tax; and
+ 
+(iii) Those for other nontaxable Services.
+ 
+(d) The parties shall cooperate with each other to enable each to more accurately determine its own tax liability and to minimize such liability to the maximum extent legally permissible. Unless Capital One has provided First Data with tax-exemption, direct pay, or resale certificates, First Data's invoices shall separately state the amounts of any taxes First Data is collecting from Capital One, and First Data shall remit such taxes to the appropriate authorities. Each party shall provide and make available to the other any direct pay or resale certificates, information regarding out-of-state or out-of-country sales or use of equipment, materials, or services, and other exemption certificates or information reasonably requested by the other party.
+ 
+(e) First Data shall promptly notify Capital One of, and coordinate with Capital One the response to and settlement of, any claim for taxes asserted by applicable taxing authorities for which Capital One is responsible hereunder, it being understood that with respect to any claim arising out of a form or return signed by a party to this Agreement, such party may elect to control the response to and settlement of the claim, but the other party shall have all rights to participate in the responses and settlements that are appropriate to its potential responsibilities or liabilities. Capital One shall be responsible for any additional taxes (and interest and penalties thereon) ultimately determined to be due for which Capital One is responsible hereunder; provided, however, that First Data shall be responsible for such interest and penalties to the extent arising from First Data's failure to notify Capital One of the potential underlying taxes as provided in this Section 11.4. If Capital One requests First Data to challenge the imposition of any tax, First Data shall do so in a timely manner and Capital One shall reimburse First Data for the reasonable legal fees and expenses it incurs. Capital One shall be entitled to any tax refunds or rebates granted to the extent such refunds or rebates are of taxes that were paid by Capital One.
+ 
+12. INVOICING AND PAYMENT
+ 
+12.1
+Invoicing.
+ 
+(a) First Data shall render a single consolidated invoice to Capital One for all amounts due under this Agreement on a [* * * ] basis in [* * * ]
+ 
+(i) [* * * ] specified by Capital One, including as necessary to satisfy Capital One's internal accounting and [* * * ]
+ 
+(ii) Separately identify Pass-Through Expense for the month, amounts prepaid by Capital One, [* * * ] and the amount of taxes First Data incurred in connection with the Services and is proposing to collect; and
+ 
+(iii) State for each item charged the calculations utilized to establish the charges in sufficient detail to enable Capital One to confirm the accuracy thereof. At Capital One's request, First Data will identify the clause in the Agreement authorizing First Data to charge a particular fee.
+ 
+(b) Each [* * * ] invoice shall be complete as to the charges for such [* * * ] . First Data may not charge Capital One any additional amounts for a [* * * ] for which an invoice has been rendered, except where a particular [* * * ] invoice indicates that certain charges are incapable of being determined as of the date of such invoice and that such charges may be billed on a later invoice, although in no event shall they be billed more than [* * * ] after the end of the [* * * ] in which incurred (except with respect to Services provided by third parties and other items treated on a Pass-Through Expense basis, which will in no event be billed more than [* * * ] after the end of the [* * * ] in which incurred and which will include both debits and credits to the invoice).
+ 
+(c) If a credit is due Capital One pursuant to this Agreement, First Data shall provide Capital One with an appropriate credit against amounts then due and owing; if no further payments are due to First Data, First Data shall pay such amounts to Capital One within [* * * ] .
+ 
+12.2
+Payment Due.
+ 
+(a) Subject to the other provisions of this Article 12, invoices provided for under Section 12.1 and properly submitted to Capital One pursuant to this Agreement shall be due and payable by Capital One within [* * * ] after receipt thereof. Capital One shall remit the applicable undisputed amount to First Data via an ACH funds transfer. Notwithstanding the foregoing, to facilitate the [* * *] [* * *] [* * *]. The detailed records of the amounts drawn on the account of Capital One, and the underlying data supporting such payments, will be provided by First Data to Capital One on a daily basis. For the avoidance of doubt, the foregoing method of [* * *] [* * *] [* * *].
+as provided in
+to a
+for
+under
+ 
+(b) With respect to any amount to be paid by Capital One hereunder, Capital One may:
+ 
+(i) Deduct from such amount any amounts that First Data is obligated to pay Capital One hereunder; and
+ 
+(ii) Withhold from such amount payment of particular charges that Capital One disputes in good faith.
+ 
+(c) First Data may [* * * ] [* * *] [* * *] [* * *] [* * *].
+at the
+within the above
+until after
+and that
+ 
+12.3
+Accountability.
+ 
+First Data shall maintain complete and accurate records of and supporting documentation for the amounts billable to and payments made by Capital One hereunder in accordance with generally accepted accounting principles applied on a consistent basis. First Data agrees to provide Capital One with documentation and other information with respect to each invoice as may be reasonably requested by Capital One to verify accuracy and compliance with the provisions of this Agreement.
+ 
+12.4
+Proration.
+ 
+Except as may be otherwise provided in this Agreement, periodic charges under this Agreement are to be computed on a [* * * ] basis, and shall be prorated for any [* * * ] .
+ 
+13. SAFEGUARDING OF DATA; CONFIDENTIALITY
+ 
+13.1
+Capital One Information.
+ 
+(a) Capital One Information shall be and remain, as between the parties, the property of Capital One. First Data shall not possess or assert any lien or other right against or to Capital One Information. No Capital One Information, or any part thereof, shall be:
+ 
+(i) Used by First Data for any purpose other than in connection with providing the Services;
+ 
+(ii) Sold, assigned, leased or otherwise disposed of to third parties by First Data; or
+ 
+(iii) Commercially exploited by or on behalf of First Data.
+ 
+(b) Upon Capital One's request, the termination or expiration of this Agreement for any reason (including termination for cause) or, if feasible with respect to any particular Capital One Information, on such earlier date that the same shall be no longer required by First Data in order to render the Services hereunder, Capital One Information (including copies thereof) shall be promptly returned to Capital One by First Data in a form reasonably requested by Capital One or, if Capital One so elects, shall be destroyed by First Data.
+ 
+13.2
+Safeguarding Capital One Data.
+ 
+(a) Capital One shall establish and maintain safeguards against the destruction, loss or alteration of Capital One Data in the possession or control of First Data that are no less rigorous than (i) those maintained by Capital One as of the Effective Date and (ii) those maintained by First Data for its other customers' information of a similar nature. Capital One may establish backup security for Capital One Data and to keep backup Capital One Data and Capital One Data files in its possession if it chooses.
+ 
+(b) Without limiting the generality of Section 13.2(a):
+ 
+(i) First Data Personnel shall not attempt to access, or allow access to, any Capital One Data that they are not permitted to access under this Agreement. If such access is attained (or is reasonably suspected), First Data shall promptly report such incident to Capital One, describe in detail the accessed Capital One Data, and if applicable return to Capital One any copied or removed Capital One Data.
+ 
+(ii) First Data shall implement and maintain security systems and procedures, including systems security measures no less thorough than the systems security measures First
+ 
+Data uses to guard the information and software of First Data and its other customers, to guard against the unauthorized access, alteration, or destruction of Software and Capital One Data. Such measures shall include the use of Software that: (A) requires all users to enter a user identification and password prior to gaining access to the information systems; (B) controls and tracks the addition and deletion of users; and (C) controls and tracks user access to areas and features of the information systems.
+ 
+13.3
+GLB Compliance.
+ 
+(a) First Data acknowledges that Capital One is subject to Title V of the GLB Act, pursuant to which Capital One is required to obtain certain undertakings from First Data with regard to the privacy, use and protection of Personally Identifiable Information of Capital One's customers or prospective customers. Therefore, notwithstanding anything to the contrary contained in this Agreement and in addition to (and not in substitution for) First Data's other obligations hereunder:
+ 
+(i) First Data shall protect and keep confidential all Personally Identifiable Information about or pertaining to Capital One's customers, prospective customers or other individuals about whom Capital One has collected Personally Identifiable Information that is disclosed by Capital One or otherwise obtained by First Data in the performance of its duties under this Agreement (collectively, the " "). For the avoidance of doubt, Customer Data shall have the same meaning as the term "nonpublic personal information," which is defined in Title V of the GLB Act and applicable regulations promulgated thereunder, and does not include (A) information collected from Capital One employees (in their capacity as employees, and not as Capital One's customers) by First Data for the purpose of administering and providing the Services, and (B) nonpublic information collected from a source other than Capital One that has been obtained on a non-confidential basis and that is not subject to the GLB Act. During the Term, First Data shall collect and use Customer Data only to the extent necessary to exercise its rights or perform its obligations under this Agreement for which such Customer Data was disclosed to First Data or as otherwise directed by Capital One.
+Customer
+Data
+ 
+(ii) First Data shall ensure that First Data Personnel shall not attempt to access, or allow access to, any Customer Data that they are not permitted to access under this Agreement.
+ 
+(iii) First Data represents and warrants that it has, and covenants that for so long as it retains Customer Data it will continue to have, adequate administrative, technical, and physical safeguards to (A) ensure the security and confidentiality of such Customer Data; (B) protect against any anticipated threats or hazards to the security or integrity of such Customer Data; (C) protect against unauthorized access to or use of such Customer Data; and (D) without limiting the generality of items (A) through (C) preceding, to meet the objectives of the requirements contained in Section 501(b) of the GLB Act and the Interagency Guidelines Establishing Standards for Safeguarding Capital One Information adopted by federal bank regulatory agencies, including the OTS and Board of Governors of the Federal Reserve System. To the extent technologically feasible, such safeguards shall include using software that: (A) requires all users to enter a user identification and password prior to gaining access to
+ 
+Customer Data; (B) controls and tracks the addition and deletion of users authorized to access Customer Data; and (C) controls and tracks user access to Customer Data. First Data shall develop, implement and maintain, at First Data's own expense, a proven system or methodology to audit for compliance with the requirements of this Section 13.3(a)(iii) and appropriate mitigation strategies to address issues identified as a result of these audits.
+ 
+(iv) First Data shall promptly notify Capital One if First Data discovers there has been a material breach of, or a serious attempt to breach, its security safeguards required by this Section 13.3, or if the security of Customer Data has been or may be compromised for any reason (including unauthorized access to and unauthorized attempts to access Customer Data). First Data must take appropriate actions to address incidents of unauthorized access to or use of Customer Data. Capital One may take all reasonable and appropriate steps to protect Customer Data in such event, including auditing First Data's security safeguards required under this Section 13.3. First Data shall have a business continuity plan that enables First Data to take appropriate actions to address incidents of unauthorized access to or misuse of Customer Data. Such plan shall also enable Capital One to expeditiously implement its own response program.
+ 
+(v) First Data shall not retain Customer Data unless First Data has a specific business purpose to retain it, which purpose is set forth in this Agreement. First Data shall destroy such Customer Data or return it to Capital One, at Capital One's option: (i) during the Term promptly following the time at which such Customer Data is no longer needed to provide the Services, or (ii) within sixty (60) days after termination or expiration of this Agreement.
+ 
+(b) The obligations set forth in this Section 13.3 shall survive termination of this Agreement.
+ 
+13.4
+Confidentiality.
+ 
+(a) . First Data and Capital One each acknowledge that they may be furnished with, receive or otherwise have access to information of or concerning the other party that such party considers to be confidential, a trade secret or otherwise restricted. " " shall mean all information, in any form, furnished or made available directly or indirectly by one party to the other, or that a party gains knowledge of or access to in connection with this Agreement, that is (i) marked confidential, proprietary, restricted, or with a similar designation, (ii) otherwise disclosed in a manner consistent with information that is confidential or proprietary nature, or (iii) information of a third party that the recipient knows, or reasonably should know, that the furnishing party is obligated to keep confidential. Confidential Information includes the following types of information, whether or not reduced to writing: operating procedures, marketing lists and other customer information, fees, pricing, pricing policies and other financial information. The terms and conditions of this Agreement shall be deemed Confidential Information of each party. In the case of Capital One, Confidential Information also shall include: (A) Capital One Data; (B) Capital One Works; (C) Customer Data; (D) all information concerning the operations, affairs and businesses of Capital One, the financial affairs of Capital One, and the relations of Capital One with its customers, employees and service providers (including scripts provided by Capital One for use by First Data in providing the Services, customer lists, customer information, account information and consumer
+Confidential Information
+Confidential
+Information
+ 
+markets); (E) information about Designated Accounts; and (F) other information or data stored on magnetic media or otherwise or communicated orally, and obtained, received, transmitted, processed, stored, archived or maintained by First Data under this Agreement (collectively, the " "). In the case of First Data, Confidential Information also shall include (1) First Data Software; (2) the First Data System; (3) all other Equipment and Software provided or used by First Data (other than those made available by Capital One), in each case, whether owned, licensed or otherwise provided or used by First Data (collectively, the " ").
+Capital
+One
+Confidential
+Information
+First
+Data
+Confidential
+Information
+ 
+(b)
+Obligations.
+ 
+(i) Each party shall use at least the same degree of care as it employs to avoid unauthorized disclosure of its own information, but in any event no less than Commercially Reasonable Efforts, to prevent disclosing to unauthorized parties the Confidential Information of the other party.
+ 
+(ii) As requested by the furnishing party during the Term or upon expiration or any termination of this Agreement, the receiving party shall return or destroy, as the furnishing party may direct, all material in any medium that contains, refers to, or relates to the Confidential Information of the furnishing party, and retain no copies except to the extent for the duration that the receiving party has a license to continue to use such material under this Agreement; provided, however, that, subject to First Data's record retention obligations hereunder, information for a particular Designated Account shall be returned to Capital One upon the earlier to occur of (A) Capital One's withdrawal of such Designated Account from First Data's Services; (B) completion of the Services with respect to such Designated Account; and (C) termination of this Agreement. Such Designated Account information shall be returned to Capital One in the form and on the media as may be reasonably requested by Capital One.
+ 
+(iii) In the event of any actual or suspected misuse, disclosure or loss of, or inability to account for, any Confidential Information of the furnishing party, the receiving party promptly shall: (A) notify the furnishing party upon becoming aware thereof; (B) promptly furnish to the other party full details of the unauthorized possession, use, or knowledge, or attempt thereof, and use Commercially Reasonable Efforts to assist the other party in investigating or preventing the reoccurrence of any unauthorized possession, use, or knowledge, or attempt thereof, of Confidential Information; (C) take such actions as may be necessary or reasonably requested by the furnishing party to minimize the violation; and (D) cooperate in all reasonable respects with the furnishing party to minimize the violation and any damage resulting therefrom.
+ 
+(iv) Neither party shall commence any legal action or proceeding against a third party with respect to any unauthorized possession, use, or knowledge, or attempt thereof, of Confidential Information by any person or entity which action or proceeding identifies the other party or its Confidential Information without such party's consent.
+ 
+(v) With respect to Confidential Information that is Customer Data, the terms of this Section 13.4(b) shall not supersede any different, or similar but more protective, rights or obligations set forth in Section 13.3.
+ 
+(vi) The parties' obligations respecting Confidential Information (including all Customer Data) shall survive expiration or termination of this Agreement in perpetuity, without limitation.
+ 
+(c)
+Exclusions.
+ 
+(i) Section 13.4(b) shall not apply to any particular information (other than Customer Data) which First Data or Capital One can demonstrate: (A) was, at the time of disclosure to it, in the public domain; (B) after disclosure to it, is published or otherwise becomes part of the public domain through no fault of the receiving party; (C) was lawfully in the possession of the receiving party at the time of disclosure to it without obligation of confidentiality; (D) was received after disclosure to it from a third party who had a lawful right to disclose such information to it without any obligation to restrict its further use or disclosure; or (E) was independently developed by the receiving party without reference to Confidential Information of the furnishing party.
+ 
+(ii) In addition, a party shall not be considered to have breached its obligations by disclosing Confidential Information of the other party as required to satisfy any legal requirement or written request of a competent government body (including a regulatory authority) provided that, promptly upon becoming aware of such legal requirement or receiving any such request and to the extent that it may legally do so, such party advises the other party of the requirement or request prior to making such disclosure in order that the other party may interpose an objection to such disclosure, take action to assure confidential handling of the Confidential Information, or take such other action as it deems appropriate to protect the Confidential Information.
+ 
+(iii) First Data may disclose Capital One Confidential Information (including Customer Data) to Affiliates of Capital One and Affiliates of First Data; provided, however, that such disclosure is only to the extent and for the duration necessary for First Data to perform its obligations under this Agreement.
+ 
+(iv) First Data may disclose Capital One Confidential Information (including Customer Data) to Approved Subcontractors; provided, however, that: (A) such disclosure is only to the extent and for the duration necessary for First Data to perform its obligations under this Agreement; and (B) prior to any such disclosure the Approved Subcontractor agrees in writing (1) to use and disclose such Confidential Information only to the extent necessary to carry out the specific purposes for which such Confidential Information was disclosed to First Data; and (2) to comply with the same obligations to which First Data is subject under this Agreement with respect to Confidential Information (including as provided in this Article 13). In no event, however, shall an Approved Subcontractor be permitted to make disclosures of Confidential Information to its subcontractors without Capital One's prior written consent. If First Data uses Approved Subcontractors to perform its obligations under this Agreement, First Data shall have
+ 
+appropriate controls in place to ensure that any such Approved Subcontractor meets the requirements of this Article 13 and shall exercise oversight over each such Approved Subcontractor to ensure ongoing compliance with the requirements of this Article 13.
+ 
+(v) Capital One may disclose First Data Confidential Information to Affiliates of Capital One if and to the extent necessary for Capital One and its Affiliates to exercise their respective rights or to comply with their respective obligations under this Agreement. Capital One may disclose First Data Confidential Information that is of a technical or operational nature (i.e., not financial) to third party service providers of Capital One and its Affiliates if, and only to the extent, necessary for Capital One and its Affiliates to exercise their respective rights or to comply with their respective obligations under this Agreement and provided that such third party service providers have written agreements with Capital One or its Affiliates that impose non-disclosure obligations on such provider that are materially similar to the non-disclosure obligations of Capital One under this Agreement; provided further, however, that Capital One may not disclose any First Data Confidential Information to any third party that is a competitor of First Data.
+ 
+(vi) Either party may disclose the terms and conditions of this Agreement to third parties that (A) have expressed a bona fide interest in consummating a significant financing, merger or acquisition transaction between such third parties and the disclosing party; (B) have a reasonable ability (financial and otherwise) to consummate such transaction; and (C) have executed a nondisclosure agreement that: (1) includes within its scope the terms and conditions of Section 13.4(b); (2) limits distribution to those with a need to know in connection with such transaction; and (3) allows use only in connection with the transaction; provided however, that no such disclosure may be made to a competitor of Capital One. Each party shall endeavor to delay the disclosure of the terms and conditions of this Agreement until the status of discussions concerning such transaction warrants such disclosure.
+ 
+(d) Each party's Confidential Information shall remain the property of that party. Nothing contained in this Section 13.4 shall be construed as obligating a party to disclose its Confidential Information to the other party, or as granting to or conferring on a party, expressly or impliedly, any rights or license to the Confidential Information of the other party, and any such obligation or grant shall only be as provided by other provisions of this Agreement.
+ 
+13.5
+Tax Disclosure Authorization.
+ 
+Notwithstanding anything to the contrary herein, the parties agree that except to the extent necessary to comply with any applicable federal or state securities laws each party (and each employee, representative, and other agent of such party) may disclose to any and all persons the transaction's tax treatment or tax structure (as such terms are used in Internal Revenue Code 6011 and 6112 and regulations promulgated thereunder) contemplated by this Agreement and all materials of any kind (including opinions or other tax analyses) provided to such party relating to such tax treatment and tax structure. This authorization is not intended to permit disclosure of any other information, including:
+ 
+(a) Any portion of any materials to the extent not related to the transaction's tax treatment or tax structure;
+ 
+(b) The identities of participants or potential participants;
+ 
+(c) Any pricing or financial information (except to the extent such pricing or financial information is related to the transaction's tax treatment or tax structure); or
+ 
+(d) Any other term or detail not relevant to the transaction's tax treatment or the tax structure.
+ 
+14. REPRESENTATIONS AND WARRANTIES
+ 
+14.1
+Work Standards.
+ 
+First Data represents and warrants that the Services shall be rendered with promptness and diligence and shall be executed in a workmanlike manner, in accordance with the practices and high professional standards used in well-managed operations performing services similar to the Services. First Data represents and warrants that it shall use adequate numbers of qualified individuals with suitable training, education, experience, and skill to perform the Services.
+ 
+14.2
+Maintenance.
+ 
+First Data represents and warrants that it shall maintain the Equipment and Software so that they operate in accordance with their specifications, including (a) maintaining Equipment in good operating condition, subject to normal wear and tear; (b) undertaking repairs and preventive maintenance on Equipment in accordance with the applicable Equipment manufacturer's recommendations; and (c) performing Software maintenance in accordance with the applicable Software vendor's documentation and recommendations.
+ 
+14.3
+Efficiency and Cost Effectiveness.
+ 
+First Data represents and warrants that it shall use Commercially Reasonable Efforts to use efficiently the resources or services necessary to provide the Services. First Data represents and warrants that with respect to Pass-Through Expenses and Services chargeable on a non-Resource Units basis it shall use Commercially Reasonable Efforts to perform the Services in the most cost-effective manner consistent with the required level of quality and performance.
+ 
+14.4
+Technology.
+ 
+First Data represents and warrants that it shall provide the Services using [* * * ] (consistent with the Change Control Procedure) that will enable Capital One to [* * * ] in its industry and support Capital One's efforts to maintain competitiveness in the markets in which it competes.
+ 
+14.5
+Non-Infringement.
+ 
+Each party represents and warrants that it shall perform its responsibilities under this Agreement in a manner that does not infringe, or constitute an infringement or misappropriation of, any Intellectual Property Rights of any third party. First Data represents and warrants that there are no current claims that any portion of the Services infringes upon any third party Intellectual Property Rights (regardless of First Data's view of the merits of such claim) and First Data will promptly inform Capital One of any claims that are hereinafter brought.
+ 
+14.6
+Software Ownership or Use.
+ 
+First Data represents and warrants that it is either the owner of, or authorized to Use, and in compliance with any licenses for, all of the Works (including Software and related materials, including First Data Software), used and to be used in connection with the Services, which is not otherwise owned by Capital One.
+ 
+14.7
+No Pending Matters.
+ 
+First Data represents and warrants that there is no claim, or any litigation, proceeding, arbitration, investigation or material controversy pending to which First Data or any of First Data's Affiliates, agents, or representatives is a party, relating to the provision of the Services offered by First Data, or which would have a material adverse effect on First Data's ability to enter into this Agreement and perform its obligations hereunder and, to the best of First Data's knowledge, no such claim, litigation, proceeding, arbitration, investigation or material controversy has been threatened or is contemplated.
+ 
+14.8
+Authorization and Other Contracts.
+ 
+Each party represents and warrants to the other that:
+ 
+(a) It is duly organized, validly existing and in good standing under the laws of the jurisdiction in which it is organized;
+ 
+(b) It has the requisite corporate power and authority to enter into this Agreement and to carry out the transactions contemplated by this Agreement;
+ 
+(c) The execution, delivery and performance of this Agreement and the consummation of the transactions contemplated by this Agreement have been duly authorized by the requisite corporate action on the part of such party and will not constitute a violation of (i) the charter, by-laws or any other equivalent organizational documents of such party, or (ii) any judgment, order or decree;
+ 
+(d) The execution, delivery and performance of this Agreement and the consummation of the transactions contemplated by this Agreement will not constitute a material default under any material contract by which it or any of its material assets are bound, or an event that would, with notice or lapse of time or both, constitute such a default; and
+ 
+(e) There is no pending or, to the knowledge of the party, threatened claim, litigation, proceeding, arbitration, or investigation or controversy before any governmental agency to which such party is a party or by which such party is bound that challenges or may have a material adverse affect on this Agreement or the transactions contemplated by this Agreement.
+ 
+14.9
+Inducements.
+ 
+First Data represents and warrants to Capital One that it has not violated any Applicable Laws regarding the offering of unlawful inducements in connection with this Agreement. If at any time during the Term, Capital One determines that the foregoing warranty is inaccurate, then, in addition to any other rights Capital One may have at law or in equity, Capital One may terminate this Agreement for cause without affording First Data an opportunity to cure.
+ 
+14.10
+Viruses.
+ 
+First Data represents and warrants that it shall use Commercially Reasonable Efforts so that no Viruses are coded or introduced into the First Data System or other systems used by First Data to provide the Services. In the event a Virus is found to have been introduced into the First Data System or other systems used by First Data to provide the Services, First Data shall use Commercially Reasonable Efforts at no additional charge to assist Capital One in reducing the effects of the Virus and, if the Virus causes a loss of operational efficiency or loss of data, to assist Capital One to the same extent to mitigate and restore such losses. "" shall mean (i) program code or programming instruction or set of instructions intentionally designed to disrupt, disable, harm, interfere with or otherwise adversely affect computer programs, data files or operations; or (ii) other code typically described as a virus or by similar terms, including Trojan horse, worm or backdoor.
+Virus
+ 
+14.11
+Disabling Code.
+ 
+First Data represents and warrants that, without the prior consent of Capital One (which may be arbitrarily withheld), First Data shall not insert into the Software any code that would have the effect of disabling or otherwise shutting down all or any portion of the Services. First Data further represents and warrants that, with respect to any disabling code that may be part of the Software, First Data shall not invoke such disabling code at any time, including upon expiration or termination of this Agreement for any reason, without Capital One's prior consent.
+ 
+14.12
+Disclaimers.
+ 
+(a) Prior to the execution of this Agreement, First Data has been afforded the opportunity to conduct to its satisfaction a complete due diligence on any Equipment and Software that First Data wishes to purchase. There will be no due diligence following the Effective Date and in no event will after discovered information or changes in circumstances of any kind serve as the basis for First Data to have the right to adjust the pricing or terms of this Agreement.
+ 
+(b) THE WARRANTEES SET FORTH IN THIS AGREEMENT ARE EXCLUSIVE. THERE ARE NO EXPRESS WARRANTIES OTHER THAN AS PROVIDED IN THIS AGREEMENT, AND THERE ARE NO IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND EACH PARTY SPECIFICALLY DISCLAIMS THE SAME.
+ 
+15. INSURANCE
+ 
+15.1
+Insurance Coverage.
+ 
+First Data represents that as of the Effective Date it has, and that REMITCO has, and agrees that it shall maintain in force, and shall cause REMITCO to maintain in force, during the Term, at least the following insurance coverages:
+ 
+(a) Worker's Compensation Insurance and other similar social insurance in accordance with the laws of the country, state or territory exercising jurisdiction over the employee with minimum limits required by law.
+ 
+(b) Employer's Liability Insurance, including coverage for occupational injury, illness and disease, with minimum limits per employee and per event of $[* * * ].
+ 
+(c) Commercial General Liability Insurance, including Products Liability, Completed Operations, Premises Operations, Personal Injury, and Contractual and Broad Form Property Damage Liability coverages, on an occurrence basis, with a minimum per occurrence combined single limit of $[* * * ] and a minimum aggregate combined single limit of $[* * * ]. This coverage shall be endorsed to name Capital One and its Affiliates as additional insureds.
+ 
+(d) Comprehensive Automotive Liability Insurance covering use of all owned, non-owned and hired automobiles used to perform the Services or on Capital One's property for purposes related to the Services for bodily injury, property damage, uninsured motorist and underinsured motorist liability with a minimum combined single limit per accident of $[* * * ] or the minimum limit required by law, whichever limit is greater. This coverage shall be endorsed to name Capital One and its Affiliates as additional insureds.
+ 
+(e) Commercial Crime Insurance, including blanket coverage for Employee Dishonesty and Computer Fraud, for loss or damage arising out of or in connection with any fraudulent or dishonest acts, including wrongful conversion of (i) Capital One's, or any of its Affiliates or Users', property, (ii) the property of any customers or patrons of such persons or (iii) the property of others in First Data's possession, care, custody or control, committed by First Data's employees, agents or subcontractors, acting alone or in collusion with others, with a minimum limit per event of $[* * * ] This coverage shall be endorsed to name Capital One and its Affiliates as Loss Payees.
+ 
+(f) Professional Liability Insurance for Errors and Omissions covering liability for loss or damage due to an act, error, omission, or negligence, with a minimum limit per event of $[* * * ].
+ 
+(g) Electronic Data Processing Insurance providing coverage for all risks of loss or damage to equipment, data, media and valuable papers that are in the possession, care, custody or control of First Data pursuant to this Agreement. Such insurance shall include Extra Expense and Business Income coverage and shall have a minimum limit adequate to cover such risks on a replacement costs basis.
+ 
+(h) Property Insurance, including Extra Expense and Business Income coverage, for all risks of physical loss of or damage to buildings, business personal property or other property that is in the possession, care, custody or control of First Data pursuant to this Agreement. Such insurance shall have a minimum limit adequate to cover risks on a replacement costs basis.
+ 
+(i) Excess or Umbrella Liability Insurance with a minimum limit of $[* * * ] in excess of the insurance coverage described in Sections 15.1(b), 15.1(c), and 15.1(d) above.
+ 
+15.2
+Insurance Provisions.
+ 
+(a) First Data shall cause its insurers to waive all rights of subrogation against Capital One, and its officers, directors and employees and any insured-versus-insured exclusion regarding Capital One.
+ 
+(b) The amounts of insurance required above may be satisfied by First Data purchasing primary coverage in the amounts specified or by First Data buying a separate excess umbrella liability policy together with lower limit primary underlying coverage. The structure of the coverage is at First Data's option, so long as the total amount of insurance meets the Company's requirements.
+ 
+(c) The insurance coverages under Sections 15.1(a) through 15.1(i) shall be primary, and all coverage shall be non-contributing with respect to any other insurance or self-insurance that may be maintained by Capital One. The insurance coverage under Sections 15.1(a), 15.1(b), 15.1(c), 15.1(d) and 15.1(i) shall be written on an occurrence form basis. If any other coverage is written on a claims-made basis, it shall have a retroactive date no earlier than the Effective Date and, notwithstanding the termination of this Agreement, either directly or through tail' coverage shall be maintained for a period of at least two (2) years following completion of the Term, or it shall allow for reporting of claims until the later of two (2) years after the Term or the period of the applicable limitations of actions has expired.
+ 
+(d) First Data shall cause its insurers to name Capital One Financial Corporation, Capital One Financial Corporation's Affiliates and their respective directors, officers, employees, agents, successors, and permitted assigns, as additional insureds on the insurance coverages under Sections 15.1(b), 15.1(c), 15.1(d) and 15.1(i).
+ 
+(e) First Data shall cause its insurers to issue certificates of insurance evidencing that the coverages and policy endorsements required under this Agreement are maintained in force. First Data shall require its insurers to provide Capital One not less than thirty (30) days' written notice prior to any adverse modification, cancellation, or non-renewal of the policies. The insurers selected by First Data shall be of good standing and authorized to conduct business in the jurisdictions in which Services are to be performed. When the policy is issued each such insurer shall have at least an A.M. Best rating of A- IX and replacement coverage shall be sought if the insurer's rating goes below A- VIII.
+ 
+(f) Except to the extent that First Data proposes a change in the applicable coverage for a particular subcontractor, and Capital One agrees to such change, First Data shall assure that all Approved Subcontractors maintain the following insurance coverages, naming First Data or the Capital One Financial Corporation as an additional insured or loss payee, where relevant:
+ 
+(i) such insurance provided in Section 15.1(b) with minimum limits of $[* * * ];
+ 
+(ii) such insurance provided in Section 15.1(a);
+ 
+(iii) such insurance provided in Section 15.1(c) with minimum limits of $[* * * ], which coverage shall be endorsed to name First Data as additional insured;
+ 
+(iv) such insurance provided in Section 15.1(d) with minimum limits of $[* * * ] per person and $[* * * ] per occurrence, which coverage shall be endorsed to name First Data as additional insured;
+ 
+(v) such insurance provided in Section 15.1(f), with minimum limits of $[* * * ];
+ 
+(vi) such insurance provided in Section 15.1(i), with minimum limits of $[* * * ].
+ 
+(g) In the case of loss or damage or other event that requires notice or other action under the terms of any insurance coverage specified in this Article 17, First Data shall be solely responsible to take such action. First Data shall provide Capital One with contemporaneous notice and with such other information as Capital One may request regarding the event.
+ 
+(h) First Data's obligation to maintain insurance coverage shall be in addition to, and not in substitution for, First Data's other obligations hereunder and First Data's liability to Capital One for any breach of an obligation under this Agreement which is subject to insurance hereunder shall not be limited to the amount of coverage required hereunder.
+ 
+15.3
+Risk of Loss.
+ 
+Each party shall be responsible for risk of loss of, and damage to, any Equipment, Software or other materials in its possession or under its control.
+ 
+16. INDEMNITIES
+ 
+16.1
+Indemnity by First Data.
+ 
+First Data shall indemnify, defend and hold harmless Capital One and its Affiliates and their respective officers, directors, employees, agents, successors and assigns from and against any and all Losses and threatened Losses arising from, in connection with, or based on allegations whenever made of, any of the following:
+ 
+(a) Any claims of infringement or misappropriation of any Intellectual Property Rights alleged to have occurred because of Works or other resources provided by First Data to Capital One, or based upon performance of the Services by First Data, except to the extent that such claims (i) are caused by, relate to or arises out of Capital One's use of the Services in breach of the Agreement or (ii) arise from technical specifications or Software coding provided by Capital One that could not reasonably have been implemented in a non-infringing manner. If Capital One provides First Data requirements for the creation of a Developed Work, and First Data reasonably believes that it cannot implement such requirements without infringing or misappropriating the Intellectual Property Rights of a third party, then First Data shall so notify Capital One and the parties shall agree on an alternative approach;
+ 
+(b) Any claim or action by, on behalf of, or related to, any employee of First Data, its Affiliates or any subcontractor, including claims arising under occupational health and safety, worker's compensation, ERISA or other applicable federal, state, or local laws or regulations, arising on or after the Effective Date (or which, if made by a Transitioned Employee, arises after the effective date of such employee's severance from Capital One or arises directly out of actions by First Data, its Affiliates or their subcontractors);
+ 
+(c) Any claim for which First Data is required to have insurance coverage under Article 15 of this Agreement;
+ 
+(d) Any claim arising out of or related to First Data's fraudulent actions or inactions, gross negligence or willful misconduct;
+ 
+(e) Any claim arising out of or related to First Data's breach of its obligations under Article 13 of this Agreement; and
+ 
+(f) Any claim arising out of or related to First Data's interview, screening, selection, offer and acceptance process for Affected Employees; provided however, that First Data is not required to indemnify Capital One for any decisions made or actions taken by Capital One with respect to the Affected Employees.
+ 
+16.2
+Indemnity by Capital One.
+ 
+Capital One agrees to indemnify, defend and hold harmless First Data and its Affiliates and their respective officers, directors, employees, agents, successors and assigns from any and all Losses and threatened Losses arising from, in connection with, or based on allegations whenever made of, any of the following:
+ 
+(a) Any claims of infringement or misappropriation of any Intellectual Property Rights alleged to have occurred because of Works or other resources provided to First Data by Capital One, except to the extent that such claims are caused by, relate to or arise out of First Data's use of such Works or resources in breach of this Agreement; and
+ 
+(b) Any claim or action by, on behalf of, or related to, an Affected Employee arising solely on or prior to the effective date of such employee's severance from Capital One, including claims arising under the occupational health and safety, worker's compensation, ERISA or other applicable federal, state or local laws or regulations, except where such claim arises out of actions of First Data or its Affiliates or their subcontractors.
+ 
+16.3
+Additional Indemnities.
+ 
+Each party (indemnitor) agrees to indemnify, defend and hold harmless the other, and its Affiliates, officers, directors, employees, agents, successors, and assigns (collectively, the indemnitee), from any and all Losses and threatened Losses arising from, in connection with, or based on allegations whenever made of, any of the following:
+ 
+(a) The death or bodily injury of any agent, employee (other than an employee of the indemnitor), customer, business invitee, or business visitor or other person caused by the tortious conduct of the indemnitor (except to the extent that the indemnitor is considered a "special employer" under applicable workers compensation laws);
+ 
+(b) The damage, loss or destruction of any real or tangible personal property caused by the tortious conduct of the indemnitor; and
+ 
+(c) Any claim, demand, charge, action, cause of action, or other proceeding asserted against the indemnitee but resulting from an act or omission of the indemnitor in its capacity as an employer of a person.
+ 
+16.4
+Infringement.
+ 
+(a) Subject to Section 16.4(b), if any item used by First Data to provide the Services becomes the subject of an infringement or misappropriation claim or proceeding, in addition to indemnifying Capital One as provided in this Article 16 and to the other rights Capital One may have under this Agreement, First Data shall:
+ 
+(i) Promptly secure the right at First Data's expense to continue using the item; or
+ 
+(ii) If (i) above cannot be accomplished by First Data with Commercially Reasonable Efforts, then at First Data's expense, replace or modify the item to make it non-infringing or without misappropriation, provided that any such replacement or modification will not degrade the performance or quality of the affected component of the Services; or
+ 
+(iii) If neither (i) or (ii) above can be accomplished by First Data with Commercially Reasonable Efforts, and only in such event, then remove the item from the Services.
+ 
+In the event that First Data performs the remedy in (iii) above, the Charges shall be equitably adjusted to reflect such removal and such adjustment shall take into account the reduced value of the Services to Capital One and any increased costs associated with using another vendor to provide some or all of the Services removed. If in Capital One's reasonable opinion such removal is material to all or any portion of the remaining Services, then Capital One may terminate such portion of the affected Services or the entire Agreement, as the case may be, without any charge or other payment to First Data. Additionally, if the claim of infringement was not disclosed to Capital One in accordance with the terms hereof or the infringement was knowing or willful, First Data will be liable to indemnify Capital One and its Affiliates for all Losses suffered as a result thereof.
+ 
+(b) If any item provided by Capital One in connection with the Services becomes the subject of an infringement or misappropriation claim or proceeding, First Data shall promptly cease using such item except as otherwise directed by Capital One and will be excused from performing the affected Services to the extent provided in Section 10.2.
+ 
+16.5
+Indemnification Procedures.
+ 
+With respect to third-party claims the following procedures shall apply:
+ 
+(a) . The parties agree that in the event any claim is made or asserted, or any suit or action is commenced, that would give rise to a right of indemnification pursuant to Sections 16.1 through 16.3, or an officer of either party has actual knowledge of facts which, if not corrected, would give rise to a right of indemnification pursuant to Sections 16.1 through 16.3 (each, a ""), the indemnitee, or the indemnitor if the indemnitor has knowledge of such facts, will give notice (via facsimile with a copy sent by standard overnight carrier) to the other party, which notice will contain, in reasonable detail, the facts giving rise to such Claim, as promptly as practicable, but in no event later than twenty (20) days after the receipt by the notifying party of such notice or knowledge of such Claim. No failure of the indemnitee to so notify the indemnitor shall relieve the indemnitor of its obligations under this Agreement except to the extent that the indemnitor can demonstrate damages attributable to such failure.
+Notice of Claims
+Claim
+ 
+(b) . The indemnitee may assume the defense of a Claim if (i) the indemnitee promptly notifies the indemnitor of its desire to assume the defense of such Claim and the indemnitor consents to such assumption of the defense by the indemnitee, or (ii) the indemnitor does not assume the defense of a Claim pursuant to Section 16.5(c), in which case the indemnitee will have the right to assume the
+Assumption of Defense and Selection of Counsel by the Indemnitee
+ 
+defense at the cost, expense, and risk of the indemnitor, including payment of any judgment or award and the costs of settlement or compromise of the claim. If it is determined that the indemnitor failed to defend a claim for which it was liable, the indemnitor shall not be entitled to challenge the amount of any settlement or compromise paid by the indemnitee.
+ 
+(c) . Except as otherwise provided herein, the indemnitor has the right to assume the defense of a Claim with respect to which it has received a notice pursuant to Section 16.5(a) and may select counsel reasonably satisfactory to the indemnitee in connection with such defense. If the indemnitor assumes the defense of such Claim, the indemnitee will not thereafter have the right to employ its own counsel with the fees and expenses of such counsel at the indemnitor's expense, unless (i) the employment of such counsel is authorized in writing by the indemnitor, (ii) the indemnitor has not employed counsel to take charge of the defense of such action within a reasonable period of time after electing to assume the defense thereof or (iii) the indemnitee has reasonably concluded that there may be defenses available to it which are different from or additional to those available to the indemnitor (in which case the indemnitor will not have the right to direct the defense of such action on behalf of the indemnitee), in any of which events such reasonable fees and expenses of the defense of such Claim will be borne by the indemnitor. The party defending any Claim will institute and maintain any such defense diligently and will keep the other party fully advised of the status thereof.
+Assumption of Defense and Selection of Counsel by the Indemnitor
+ 
+(d) . The indemnitee will make available to the indemnitor and its counsel, accountants and other consultants during normal business hours all books and records of the indemnitee relating to any Claim. Each party will render to the other party such reasonable assistance as may be requested by the other party (at the expense of the party requesting assistance) in order to provide prompt and adequate evaluation of the Claim, defense of any Claim and any settlement or compromise under this Article 16.
+Cooperation
+ 
+(e) . The indemnitor will have the right to defend, compromise and settle any Claim in the name of the indemnitee to the extent that the indemnitor may be liable to the indemnitee under this Article 16; provided however, that the indemnitor will not compromise or settle a Claim without the consent of the indemnitee:
+Settlement of Claims
+ 
+(i) unless the indemnitor assumes the obligation to indemnify for all Losses arising out of or relating thereto;
+ 
+(ii) if such settlement or compromise would grant any non-monetary relief; or
+ 
+(iii) unless there is an unqualified release of the indemnitee.
+ 
+(f) . All amounts owed under this Article 16, including all costs and expenses (which include payment of any judgment or award and the costs of settlement or compromise of the claim) owed under Section 16.5(b), will be paid promptly when due.
+Indemnification Payments
+ 
+16.6
+Subrogation.
+ 
+The indemnitor will be subrogated to any claims or rights of the indemnitee against any other persons with respect to any amount paid by the indemnitor under this Article 16. The indemnitee will cooperate with the indemnitor, at the indemnitor's expense, in the assertion by the indemnitor of any such claim against such other Persons.
+ 
+17. LIABILITY
+ 
+17.1
+General Intent.
+ 
+Subject to the specific provisions of this Article 17, it is the intent of the parties that each party shall be liable to the other party for any actual damages incurred by the non-breaching party as a result of the breaching party's failure to perform its obligations in the manner required by this Agreement.
+ 
+17.2
+Liability Restrictions.
+ 
+(a) IN NO EVENT, WHETHER IN CONTRACT, IN TORT (INCLUDING BREACH OF WARRANTY, NEGLIGENCE AND STRICT LIABILITY IN TORT), OR OTHERWISE, SHALL A PARTY BE LIABLE TO THE OTHER PARTY (OR ANYONE CLAIMING UNDER OR THROUGH THE OTHER PARTY) FOR INDIRECT OR CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR SPECIAL DAMAGES ARISING OUT OF, RESULTING FROM, ON IN ANY WAY CONNECTED WITH THE PERFORMANCE OR BREACH OF THIS AGREEMENT, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE. The foregoing shall not apply to [* * * ].
+ 
+(b) Subject to Sections 17.2(c) and 17.2(d), each party's total liability to the other for any event giving rise to liability, whether in contract, in tort (including breach of warranty, negligence and strict liability in tort), or otherwise arising out of, resulting from, or in any way connected with, the performance or breach of this Agreement, shall be limited to an amount equal to:
+ 
+(i) Prior to [* * * ] $[* * * ]
+ 
+(ii) Beginning at the [* * * ] $[* * * ]
+ 
+(iii) After the [* * * ] [* * * ]%
+ 
+[* * * ] do not count against and do not reduce the amounts available under the foregoing limitations.
+ 
+(c) The limitations set forth in 17.2(b) shall not apply with respect to:
+ 
+(i) Claims that are the subject of indemnification pursuant to Sections 16.1(a), 16.1(d), 16.1(e), 16.2(a) and the last sentence of Section 16.4(a); and
+ 
+(ii) Damages occasioned by a party's breach of its obligations with respect to Confidential Information;
+ 
+(d) The limitations set forth in 17.2(b) shall not apply and each party's total liability to the other, whether in contract, in tort (including breach of warranty, negligence and strict liability in tort), or otherwise for damages occasioned by a party's breach of [* * * ] of this Agreement shall be limited to:
+ 
+(i) Prior to the [* * * ] $[* * * ]
+ 
+(ii) Beginning at the [* * * ] $[* * * ]
+ 
+(iii) After the [* * * ] $[* * * ]
+ 
+[* * * ] do not count against and do not reduce the amounts available under the foregoing limitations.
+ 
+(e) The following shall be [* * * ] the extent they result from a party's failure to fulfill its obligations in accordance with this Agreement:
+ 
+(i) [* * * ] necessitated by failure to comply with Applicable Laws and Capital One's requirements, including the Production Specifications (as defined in Schedule A);
+ 
+(ii) Capital One's incremental expenses incurred in resolving [* * * ] (as defined in Schedule A) and other problems caused by First Data (e.g., [* * * ]); and
+ 
+(iii) More than a reasonable amount of [* * * ] provided on a Pass-Through Expense basis.
+ 
+(f) Each party shall have a duty to mitigate damages for which the other party is responsible.
+ 
+17.3
+Force Majeure.
+ 
+Upon the occurrence of a force majeure event that adversely impacts the Services, First Data shall be responsible for performing Disaster Recovery and Business Continuity Services with respect to such Services as provided in Schedule A.
+ 
+18. DISPUTE RESOLUTION
+ 
+Any dispute between the parties arising out of or relating to this Agreement, including with respect to the interpretation of any provision of this Agreement and with respect to the performance by First Data or Capital One, shall be resolved as provided in this Article 18.
+ 
+18.1
+Informal Dispute Resolution.
+ 
+(a) Subject to Sections 18.1(b) and 18.1(c), the parties initially shall attempt to resolve their dispute informally, in accordance with the following:
+ 
+(i) Upon the notice by a party to the other party of a dispute (" "), each party shall appoint a designated representative who does not devote substantially all of his or her time to performance under this Agreement, whose task it will be to meet for the purpose of endeavoring to resolve such dispute.
+Dispute
+Date
+ 
+(ii) The designated representatives shall meet as often as the parties reasonably deem necessary in order to gather and furnish to the other all information with respect to the matter in issue which the parties believe to be appropriate and germane in connection with its resolution. The representatives shall discuss the problem and attempt to resolve the dispute without the necessity of any formal proceeding.
+ 
+(iii) During the course of discussion, all reasonable requests made by a party to the other for non-legally privileged information reasonably related to this Agreement shall be honored in order that a party may be fully advised of the other's position.
+ 
+(iv) The specific format for the discussions shall be left to the discretion of the designated representatives.
+ 
+(b) After twenty-five (25) days following the Dispute Date and prior to commencement of any litigation as permitted under Section 18.1(c), either party may initiate mediation of the dispute by submitting to JAMS (the dispute mediation entity, "") and to the other party a written request for mediation, setting forth the subject of the dispute and the relief requested. The parties shall cooperate with DM and each other in the mediation process. The mediation shall be conducted in accordance with the applicable practices and procedures of DM. Upon commencement of litigation as permitted under Section 18.1(c), either party, upon notice to DM and to the other party, may terminate the mediation process. Each party shall bear its own expenses in the mediation process and shall share equally the charges of DM.
+DM
+ 
+(c) Litigation of a dispute may be commenced by either party upon the earlier to occur of any of the following:
+ 
+(i) The designated representatives mutually conclude that amicable resolution through continued negotiation of the matter does not appear likely;
+ 
+(ii) Thirty-five (35) days have elapsed from the Dispute Date if neither party has requested mediation under Section 18.1(b), or sixty (60) days have elapsed from the Dispute Date if either party has requested mediation within thirty (30) days after the Dispute Date (these periods shall be deemed to run notwithstanding any claim that the process described in this Section 18.1 was not followed or completed); or
+ 
+(iii) Commencement of litigation is deemed appropriate by a party to avoid the expiration of an applicable limitations period or to preserve a superior position with respect to other creditors, or a party makes a good faith determination, including as provided in Section 19.7 respecting Capital One, that a breach of this Agreement by the other party is such that a temporary restraining order or other injunctive relief is necessary.
+ 
+18.2
+Litigation.
+ 
+Except as set forth in Section 18.4, for all litigation which may arise with respect this Agreement, the parties irrevocably and unconditionally submit (i) to the exclusive jurisdiction and venue (and waive any claim of and any objections as to laying of venue) of the United States District Court for the Southern District of New York or (ii) if such court does not have subject matter jurisdiction, to the state courts of New York located in New York City, in connection with any action, suit or proceeding arising out of or relating to this Agreement. The parties further consent to the jurisdiction and venue of any state court located within a district that encompasses assets of a party against which a judgment has been rendered for the enforcement of such judgment or award against the assets of such party. Each party waives personal service of any summons, complaint or other process and agrees that the service thereof may be made by certified or registered mail directed to such party at such party's address provided for purposes of notices hereunder. Service of process in any suit must be effectuated within thirty (30) days after commencement of such suit.
+forum non conveniens
+ 
+18.3
+Continued Performance.
+ 
+Except as otherwise directed by the other party with respect to the subject matter of the dispute, each party shall continue performing its obligations under this Agreement while a dispute is being resolved except (and then only) to the extent the issue in dispute precludes performance (dispute over payment shall not be deemed to preclude performance) and without limiting either party's right to terminate this Agreement as provided in Article 19.
+ 
+18.4
+Injunctive Relief; Specific Performance.
+ 
+(a) Each of the parties acknowledges that the non-breaching party would be irreparably harmed and the total amount of monetary damages for any injury to such party will be impossible to calculate and therefore an inadequate remedy, and accordingly, the non-breaching party shall be entitled to seek temporary and permanent injunctive relief without posting bond or proving damages, against the breaching party and its employees, officers, directors, agents, representatives or independent contractors and to enforce specifically this Agreement and the terms and provisions thereof, if:
+ 
+(i) any of the provisions of Articles 9 and 13 were not performed in accordance with their specific terms or were otherwise breached; or
+ 
+(ii) a party did not [* * * ]
+ 
+(iii) [* * * ]
+ 
+(b) In such a circumstance, the non-breaching party may without delay institute an action in any court of the United States or any state or jurisdiction having subject matter jurisdiction, in addition to any remedy to which such party may be entitled, at law or in equity. If such court should find that one of the events set forth in paragraphs (i) through (iii) has occurred, the breaching party agrees that, without any additional findings of irreparable injury or other conditions to injunctive relief (including the posting of bond), it shall not oppose the entry of an appropriate order compelling performance by the breaching party and restraining it from any further breaches.
+ 
+18.5
+Governing Law.
+ 
+(a) This Agreement and performance under it shall be governed by and construed in accordance with the law of the State of New York without regard to any portion of its choice of law principles that might provide for application of a different jurisdiction's law.
+ 
+(b) To the maximum extent permitted under applicable law, none of this Agreement will be subject to the Uniform Computer Information Transactions Act ("") or Article 2 of the Uniform Commercial Code (each prepared by the National Conference of Commissioners on Uniform State Laws) as currently enacted or as may be codified or amended from time to time by any jurisdiction. To the extent that any aspect of this Agreement or any license granted under this Agreement is unclear or disputed by the parties and UCITA, if applied, would clarify the license or resolve the dispute, the parties agree to clarify the license or resolve the dispute independently of UCITA by applying the intent of the parties at the time they entered into this Agreement.
+UCITA
+ 
+18.6
+Waiver of Right To Jury Trial.
+ 
+THE PARTIES HEREBY UNCONDITIONALLY WAIVE THEIR RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION ARISING DIRECTLY OR INDIRECTLY OUT OF, RELATED TO, OR IN ANY WAY CONNECTED WITH, THE PERFORMANCE OR BREACH OF THIS AGREEMENT, AND/OR THE RELATIONSHIP THAT IS BEING ESTABLISHED AMONG THEM. The scope of this waiver is intended to be all encompassing of any and all disputes that may be filed in any court or other tribunal (including, without limitation, contract claims, tort claims, breach of duty claims, and all other common law and statutory claims). THIS WAIVER IS IRREVOCABLE, MEANING THAT IT MAY NOT BE MODIFIED EITHER ORALLY OR IN WRITING, AND THE WAIVER SHALL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR MODIFICATIONS TO THIS AGREEMENT, AND RELATED DOCUMENTS, OR TO ANY OTHER DOCUMENTS OR AGREEMENTS RELATING TO THIS TRANSACTION OR ANY RELATED TRANSACTION. In the event of litigation, this Agreement may be filed as a consent to a trial by the court.
+ 
+19. TERMINATION
+ 
+19.1
+Termination for Cause.
+ 
+(a) If First Data:
+ 
+(i) [* * * ] of this Agreement which is capable of being cured within [* * * ] after notice of breach from Capital One to First Data, and is not cured in such [* * * ]
+ 
+(ii) Commits a [* * * ] of this Agreement that is not subject to cure with due [* * * ] after notice of breach from Capital One to First Data;
+ 
+(iii) Commits numerous [* * * ] of its duties or obligations (whether or not [* * * ] which [* * * ] of this Agreement and are not cured within a [* * * ] after notice of [* * * ] from Capital One to First Data;
+ 
+(iv) Without limitation of (i), (ii) or (iii) above, has incurred [* * * ] that are equal to [* * * ]% [* * * ] excluding [* * * ] (if calculated without regard to [* * * ] ), or
+ 
+(v) Without limitation of (i), (ii) or (iii) above, is temporarily or permanently prevented or restricted from performing the Services as a result of an action [* * * ],
+ 
+then Capital One may, by giving notice to First Data, [* * * ] as of a date specified in the notice of [* * * ]. Any [* * * ] by Capital One for [* * * ] shall not constitute an [* * * ] and shall be [* * * ] as to Capital One's other rights resulting therefrom. If Capital One chooses to [* * * ] this Agreement in part (pursuant to (i), (ii), (iii) or (iv) above), [* * * ] under this Agreement will be equitably reduced [* * * ] , and the [* * * ] (as described in Schedule C) will be adjusted appropriately.
+ 
+(b) If, and only if, Capital One [* * *] and fails to make such payment within thirty (30) days after written notice from First Data of the failure to make [* * *], First Data may by giving written notice to Capital One [* * *] specified in the written notice of termination which is at least [* * *].
+ 
+19.2
+Termination for Convenience.
+ 
+Capital One may terminate this Agreement for convenience and without cause at any time by giving First Data [* * * ]. In such event, Capital One shall be [* * *] as provided in Schedule C, [* * * ]. If a purported [* * *] by Capital One under Section 19.1 is ultimately determined not to have been [* * * ].
+ 
+19.3
+Termination Upon Change of Control.
+ 
+If (i) Capital One undergoes [* * * ] or (ii) First Data [* * * ] and the new Controlling entity is a [* * * ] then, at any time within [* * * ] after the completion of such Change of Control Event, Capital One may [* * * ] (x) giving First Data at [* * * ] and designating a date upon which such [* * * ] shall be effective, and (y) in the case of a termination [* * * ]. A " " shall mean, with respect to a party, (i) any event or series of events by which another entity that is not at the time an Affiliate of such party, directly or indirectly, whether singly or in concert with one or more persons (A) beneficially owns, acquires or has acquired either Control of such party or all or substantially all of the assets of such party, or (B) has, acquires, or has acquired the power to direct or cause the direction of the management and policies of such party; or (ii) a merger with or into another entity which at the time is not an Affiliate of such party. As used herein a " " means, at the time of the Change of Control Event, an entity [* * * ]
+Change
+of
+Control
+Event
+Capital
+One
+Competitor
+ 
+19.4
+Termination Due To First Data's Financial Inability To Perform.
+ 
+Capital One may by giving notice to First Data terminate this Agreement for default as of the date specified in such notice of termination if:
+ 
+(a) First Data files a petition in bankruptcy,
+ 
+(b) First Data has an involuntary petition in bankruptcy filed against it which is not challenged within twenty (20) days and dismissed within sixty (60) days,
+ 
+(c) First Data becomes insolvent,
+ 
+(d) First Data makes a general assignment for the benefit of creditors,
+ 
+(e) First Data admits in writing its inability to pay its debts as they mature,
+ 
+(f) First Data has a receiver appointed for its assets, or
+ 
+(g) First Data has any significant portion of its assets attached.
+ 
+19.5
+No Damages From Termination.
+ 
+Neither party shall be liable to the other for any damages arising from proper termination of this Agreement, although each party shall remain liable for any damages suffered as a result of any underlying breach.
+ 
+19.6
+Termination/Expiration Assistance.
+ 
+(a) Beginning on such earlier date as Capital One may request, or commencing upon of this Agreement or cessation of any of the Services, and continuing through the effective date of expiration or, if applicable, of of this Agreement, First Data shall provide to Capital One, or at Capital One's request to Capital One's designee, requested by Capital One to Capital One's request may be in the context of shall include the assistance described in Schedule I.
+six (6) months prior to expiration of this Agreement,
+a notice of termination (including notice of termination based upon default by Capital One)
+termination
+the reasonable termination/expiration assistance
+allow the Services to continue without interruption or adverse effect and to facilitate the orderly transfer of the Services to Capital One or its designee (including a competitor of First Data) ("Termination/Expiration Assistance").
+Capital One's reduction or removal of a portion of the Services in accordance with Section 3.1(c), although this Agreement is not itself being terminated. Termination/Expiration Assistance
+ 
+(b) For following the effective date of termination/expiration under other provisions of this Agreement, or cessation of any Services, at Capital One's request, and subject to Capital One providing First Data a plan for migrating the affected volumes and work during such time period, First Data shall continue to Actions by First Data under this Section 19.6(b) shall be subject to the other provisions of this Agreement. Charges for such activities by First Data shall be as specified in Schedule C, except that the during such period.
+up to nine (9) months
+provide Termination/Expiration Assistance.
+Minimum Revenue Commitment shall not apply
+ 
+(c) As part of evaluating whether to undertake or allow termination/expiration or renewal of this Agreement, Capital One may consider obtaining, or determine to obtain, of this Agreement. As and when reasonably requested by Capital One for use in such a process, First Data shall provide to Capital One such information and other cooperation regarding performance of the Services as would be reasonably necessary for , and for a
+offers for performance of services similar to the Services following termination/expiration
+a third party to prepare an informed, non-qualified offer for such services
+third party not to be disadvantaged compared to First Data if First Data were to be invited by Capital One to submit a proposal.
+ 
+19.7
+Equitable Remedies.
+ 
+First Data's [* * * ] its obligation to provide [* * * ] shall be subject to injunctive relief and/or specific performance as provided in Section 18.4.
+ 
+20. COMPLIANCE WITH LAWS
+ 
+20.1
+Compliance with Laws and Regulations Generally.
+ 
+(a) Each party shall perform its obligations (including maintaining production facilities) in a manner that complies with all Applicable Laws and with Capital One's policies, standards and procedures related to such laws, including identifying and procuring required permits, certificates, approvals and inspections.
+ 
+(b) If a charge of non-compliance with any Applicable Laws occurs, the party so charged shall promptly notify the other party of such charges in writing. First Data will undertake concerted efforts appropriate for the nature of any non-compliance by First Data to cure such non-compliance. First Data shall reasonably cooperate with Capital One with respect to Capital One's efforts to comply with Applicable Laws and Capital One's policies, standards and procedures related to such laws, including implementing such measures as Capital One deems necessary to effect such compliance; provided however, that Capital One shall reimburse First Data for its reasonable Out-Of-Pocket Expenses incurred in implementing such measures to the extent that such measures are not required by any of First Data's other customers, unless Capital One is the only customer for whom First Data is performing the services to which the non-compliance relates.
+ 
+20.2
+Legal Requirements.
+ 
+(a) Capital One is solely responsible for monitoring and interpreting the Applicable Laws pertaining to equal credit opportunity, truth in lending, fair credit billing, fair debt collection practices, Title V of the GLB Act, the Bank Secrecy Act, the FCRA and general consumer protection (the " ") in connection with the Services provided by First Data to Capital One.
+Legal
+Requirements
+ 
+(b) First Data shall maintain its systems so that the systems (including the Services provided thereunder) contain functionality enabling Capital One to comply with the Legal Requirements in a cost-effective manner (e.g., enabling Capital One to provide required information to cardholders through statement messages rather than letters). Capital One is responsible for selecting available parameter settings and programming features and options within the Services that apply to Capital One's use of the Services in compliance with the Legal Requirements and for determining that such selections are consistent with the Legal Requirements. In making such determinations, Capital One may rely on the descriptions of such settings, features and options provided by First Data. First Data shall review with and explain to Capital One such settings, features and options and shall provide clarification on the operation of such features as requested by Capital One.
+ 
+(c) If in Capital One's determination, the parameter settings and programming features available within the Services do not permit compliance with Applicable Laws, First Data and Capital One will work together to identify an appropriate response (whether through system enhancements, work-around solutions or otherwise) to each Legal Requirement identified in the Capital One notice. First Data will use Commercially Reasonable Efforts to develop enhancements to the First Data System or to the Services to accommodate the response desired by Capital One and all such enhancements will be deemed Category I New Capabilities (as defined in Schedule C). Commercial reasonableness for this purpose will consider whether the enhancement would require substantial rearchitecture of the First Data System.
+ 
+20.3
+Compliance with Certain Applicable Laws and Policies.
+ 
+Without limiting the generality of Sections 20.1 or 20.2:
+ 
+(a) First Data will perform all work under this Agreement in full compliance with the provisions of the Federal Occupational Safety and Health Act of 1970, and with any rules and regulations promulgated pursuant to the Act and any similar state or local laws.
+ 
+(b) First Data shall comply with all applicable provisions of Sections 6, 7, and 12 of the Fair Labor Standards Act, 29 USC 201 - 219, as amended, and agrees that there will be no violations by First Data of the hot goods' or hot cargo' provisions of such Act involving restrictions on use of underage individuals by First Data.
+ 
+(c) To the extent applicable to the Services or to First Data as a provider of the Services, First Data is knowledgeable about the economic and trade sanctions administered by the Office of Foreign Assets Control (OFAC) of the U.S. Department of the Treasury, including all Executive Orders and implementing regulations, and First Data will perform the Services under this Agreement in compliance with such laws, Executive Orders and regulations rendered hereunder, including not assigning to perform the Services or retaining on Capital One programs any persons identified to First Data by Capital One as being on OFAC's SDN and Blocked Persons List. First Data shall first have identified to Capital One the names, addresses and other identifying information of all its employees it intends to assign to perform the Services or to Capital One programs in a timely manner, prior to assignment to a Capital One program, so as to facilitate possible OFAC checks performed by Capital One.
+ 
+(d) To the extent applicable to the Services or to First Data as a provider of the Services, First Data is and shall continue to be knowledgeable about the anti-money laundering requirements and legal obligations toward combating terrorist financing as required by Federal law, including those requirements contained in the Bank Secrecy Act as amended by the USA PATRIOT Act of 2001 and all implementing regulations, and shall perform the Services under this Agreement in compliance with such laws. First Data will ensure all appropriate personnel are adequately trained on their anti-money laundering procedures, with refresher training provided no less than annually.
+ 
+(e) To the extent applicable to the Services or to First Data as a provider of the Services, First Data shall comply with all Applicable Laws protecting the confidential material and privacy rights of Capital One, its Affiliates, and/or their customers and consumers including Title V, Subtitle A of the GLB Act, the Bank Secrecy Act, and the Economic Espionage Act, 18 U.S.C. 1831 et. seq.).
+ 
+(f) To the extent applicable to the Services or to First Data as a provider of the Services, First Data is and shall continue to be knowledgeable about, and shall perform the Services under this Agreement in compliance with, Applicable Laws governing collection of debt and consumer credit reporting, including the Fair Debt Collection Practices Act (FDCPA) (16 USC 1601 et. seq.), the Fair Credit Reporting Act (FCRA) (15 U.S.C. 1681 et. seq.), the FACT Act, the Equal Credit Opportunity Act (16 U.S.C. 1691 et. seq.), the Telephone Consumer Protection Act, 47 U.S.C.  227 et seq. administered by the Federal Communication Commission, the Telephone Sales Rule, 16 C.F.R. 310.1 et seq. and any state or local equivalents of the foregoing.
+ 
+(g) First Data, in providing Services, shall:
+ 
+(i) Employ workers on the basis of their ability to do the job, not on the basis of their personal characteristics. First Data shall not discriminate against their employees in hiring practices or any other terms or conditions of work on the basis of race, color, nationality, age, religion, maternity or marital status, disability, sexual orientation or political opinion;
+ 
+(ii) Furnish employees with safe and healthy working conditions, adequate medical facilities, fire exits and safety equipment, well-lit and comfortable workstations and clean restrooms. First Data shall comply with all Applicable Laws governing occupational health and safety and, in addition to any such legal requirements, shall adequately train its employees to perform their jobs safely;
+ 
+(iii) Not use child labor. As used in this clause "child" means an individual that is younger than either: (A) 15 years of age or (B) the minimum legal age requirement to work in the applicable location;
+ 
+(iv) Only employ individuals whose presence is voluntary and not use forced, indentured, involuntary, prison, or uncompensated labor under any circumstances; and
+ 
+(v) Not use corporal punishment, or other forms of physical coercion, or mental coercion as a form of discipline of employees.
+ 
+(h) To the extent applicable to the Services or to First Data as a provider of the Services, First Data shall comply with Association rules and requirements and Capital One's policies, standards and procedures related to such Association requirements.
+ 
+21. GENERAL
+ 
+21.1
+Binding Nature and Assignment.
+ 
+This Agreement shall be binding on the parties hereto and their respective successors and assigns. Neither party may, or shall have the power to, assign this Agreement without the prior consent of the other, except that Capital One may assign its rights and obligations under this Agreement without the approval of First Data to:
+ 
+(a) An entity which acquires all or substantially all of the assets of Capital One;
+ 
+(b) To any Capital One Affiliate, or
+ 
+(c) To the successor in a merger or acquisition of Capital One; provided that in no event shall such assignment relieve Capital One of its obligations under this Agreement.
+ 
+Within thirty (30) days of request by First Data, any such successor or other permitted assign shall confirm in writing its intent to be bound by and assume Capital One's rights and obligations under this Agreement. Subject to the foregoing, any assignment by operation of law, order of any court, or pursuant to any plan of merger, consolidation or liquidation, shall be deemed an assignment for which prior consent is required and any assignment made without any such consent shall be void and of no effect as between the parties.
+ 
+21.2
+Mutually Negotiated.
+ 
+Each party acknowledges that the limitations and exclusions contained in this Agreement have been the subject of active and complete negotiation between the parties and represent the parties' agreement based upon the level of risk to Capital One and First Data associated with their respective obligations under this Agreement and the payments to be made to First Data and credits to be issued to Capital One pursuant to this Agreement. The terms and conditions of this Agreement (including any perceived ambiguity herein) shall not be construed in favor of, or against, either party by reason of the extent to which any party or its professional advisors participated in the preparation of the original or any further drafts of this Agreement as each party is a sophisticated business entity and has fully negotiated this Agreement with the full participation of counsel and it represents their mutual efforts and it represents their mutual intent.
+ 
+21.3
+Notices.
+ 
+All notices, requests, demands and determinations under this Agreement (other than routine operational communications), shall be in writing and shall be deemed duly given:
+ 
+(i) When delivered personally (against a signed receipt);
+ 
+(ii) On the designated day of delivery (other than a non-Business Day) after being timely given to an express overnight courier with a reliable system for tracking delivery;
+ 
+(iii) On the next Business Day when sent by confirmed facsimile with a copy sent by another means specified in this Section 21.3; or
+ 
+(iv) Four (4) Business Days after the day of mailing, when mailed by United States mail, registered or certified mail, return receipt requested and postage prepaid and addressed as follows:
+ 
+ 
+Either party may from time to time change its address or designee for notification purposes by giving the other prior notice of the new address or designee and the date upon which it will become effective. Because facsimile numbers and email addresses change over time and facsimile transmissions and emails may not be treated with the same degree of seriousness as more formal communications, notices given by facsimile or email shall only be deemed effective if responded to by the intended recipient (or his or her successor).
+ 
+21.4
+Counterparts.
+ 
+This Agreement may be executed in several counterparts, each of which shall be considered an original but all of which taken together shall constitute but one and the same agreement.
+ 
+21.5
+Headings.
+ 
+The Article and Section headings and the Table of Contents used in this Agreement are for reference and convenience only and shall not enter into the interpretation of this Agreement.
+ 
+21.6
+Relationship of parties.
+ 
+In furnishing the Services First Data is acting as an independent contractor, and First Data has the sole right and obligation to supervise, manage, contract, direct, procure, perform or cause to be performed, all work to be performed by First Data under this Agreement. No contract of agency and no joint venture is intended to be created hereby. First Data is not an agent of Capital One and has no authority to represent Capital One as to any matters, except as expressly authorized in this Agreement. None of First Data's employees shall be deemed employees of Capital One and First Data shall be responsible for reporting and payment of all wages, unemployment, social security and other payroll taxes, including contributions from them when required by law. Capital One does not and shall not have actual, potential, or any other control over First Data or its employees.
+ 
+21.7
+Non-Exclusivity.
+ 
+This Agreement is non-exclusive and shall not be deemed to be a requirements contract. Except to the extent provided in Section 3.1(d) of this Agreement and Section 5.2 of Schedule C, Capital One shall be free without obligation to First Data to acquire from third parties services similar or identical to the Services provided hereunder.
+ 
+21.8
+Severability.
+ 
+If any provision of this Agreement conflicts with the law under which this Agreement is to be construed or if any such provision is held invalid by a competent authority, such provision shall be deemed to be restated to reflect as nearly as possible the original intentions of the parties in accordance with applicable law. The remainder of this Agreement shall remain in full force and effect.
+ 
+21.9
+Consents and Approval.
+ 
+Where approval, acceptance, consent, agreement or similar action by either party is required under this Agreement, such action must be provided in writing and shall not be unreasonably delayed or withheld, except where expressly provided as being in the discretion of a party. An approval or consent given by a party under this Agreement shall not relieve the other party from responsibility for complying with the requirements of this Agreement, nor shall it be construed as a waiver of any rights under this Agreement, except as and to the extent otherwise
+ 
+expressly provided in such approval or consent. Capital One's and First Data's representatives may not be fully familiar with, or necessarily insist at all times on the full and complete performance with, the terms of this Agreement. A party's failure to insist in any one or more instances upon strict performance of any provision of this Agreement, or failure or delay to take advantage of any of its rights or remedies hereunder, or failure to notify the other party of any breach, violation, or default, shall not be construed as a waiver or construction by either party of any such performance, provision, rights, breach, violation, or default either then or in the future or the relinquishment of any of its rights and remedies. Each party shall, at the request of the other party, perform those actions, including executing additional documents and instruments, reasonably necessary to give full effect to the terms of this Agreement.
+ 
+21.10
+Waiver of Default; Cumulative Remedies.
+ 
+(a) A delay or omission by either party to exercise any right or power under this Agreement shall not be construed to be a waiver thereof. A waiver by either of the parties of any of the covenants to be performed by the other or any breach thereof shall not be construed to be a waiver of any succeeding breach thereof or of any other covenant herein contained.
+ 
+(b) Except as otherwise expressly provided herein, all remedies provided for in this Agreement shall be cumulative and in addition to and not in lieu of any other remedies available to either party at law or in equity.
+ 
+21.11
+Survival.
+ 
+Any provision of this Agreement that contemplates performance or observance subsequent to termination or expiration of this Agreement shall survive termination or expiration of this Agreement and continue in full force and effect.
+ 
+21.12
+Public Disclosures.
+ 
+(a) All media releases, public announcements and public disclosures by either party relating to this Agreement or the subject matter of this Agreement, including promotional or marketing material, but not including announcements intended solely for internal distribution or disclosures to the extent required to meet legal or regulatory requirements beyond the reasonable control of the disclosing party, shall be coordinated with and approved by the other party prior to release.
+ 
+(b) If a party determines that disclosure is required to meet legal or regulatory requirements it shall promptly inform the other party and coordinate such disclosure with the other party. The disclosing party shall limit disclosure to that which is necessary and shall give due consideration to comments the other party and its counsel provide regarding the nature of the disclosure.
+ 
+(c) Notwithstanding the foregoing, in proposals and other marketing materials First Data may list Capital One as a customer and describe in general terms the services provided by First Data under this Agreement.
+ 
+21.13
+Service Marks.
+ 
+Without Capital One's prior consent (which may be arbitrarily withheld and if granted revoked), First Data shall not use the name, service marks, or trademarks of Capital One.
+ 
+21.14
+Third Party Beneficiaries.
+ 
+Except as provided in Article 16, this Agreement is entered into solely between, and may be enforced only by, Capital One and First Data, and this Agreement shall not be deemed to create any rights in third parties, including suppliers and customers of a party, or to create any obligations of a party to any such third parties.
+ 
+21.15
+Covenant of Good Faith and Fair Dealing.
+ 
+Each party, in its respective dealings with the other party under or in connection with this Agreement, shall act in good faith and with fair dealing.
+ 
+21.16
+Entire Agreement; Amendment.
+ 
+(a) This Agreement, including any Schedules and Exhibits referred to herein and attached hereto, each of which is incorporated herein for all purposes, constitutes the entire agreement between the parties with respect to the subject matter contained in this Agreement and supersedes all prior correspondence, discussions, agreements, and understandings entered into between the parties, whether written or oral, with respect to such subject matter (the ""); provided, however, that through November 30, 2004 the fees and charges for services set forth in the Pre-Existing Agreements for services provided under those agreement as of the Effective Date shall continue to apply to such services only to the extent provided pursuant to this Agreement after the Effective Date and through November 30, 2004. Confidential Information (as defined in the Pre-Existing Agreement) disclosed by one party to the other prior to the Effective Date that was protected under the terms of the Pre-Existing Agreement at the time of such disclosure shall be deemed the Confidential Information of the disclosing party under this Agreement.
+Pre-Existing Agreement(s)
+ 
+(b) Except to the extent provided otherwise in Section 21.16(a), as of the Effective Date, the following Pre-Existing Agreements, including as amended after the respective effective dates, shall be superceded in their entirety:
+ 
+(i) The embossing and lettershop processing services agreement effective as of the 3
+rd
+day of December 2001, made by and between Capital One Services, Inc. and First Data Resources, Inc.
+ 
+(ii) The statement and letter production and disaster recovery services agreement effective as of 1 February 2003, made by and between First Data Resources, Inc. and Capital One Services, Inc.
+ 
+(iii) The remittance processing services agreement effective as of the 1st day of August 2001, made by and between Capital One Services, Inc., Capital One Bank and Capital
+ 
+One FSB and Integrated Payment Systems, Inc., a Delaware corporation with an office at 6200 South Quebec Street, Englewood, Colorado 80111 and which is the subject of the separate letter agreement for termination attached as Schedule H hereto.
+ 
+(c) Except to the extent provided otherwise in Section 21.16(a), the rights and responsibilities of the parties, and any claims arising, on and after the Effective Date shall be defined solely by this Agreement; the rights and responsibilities of the parties and any claims arising prior to the Effective Date shall be defined solely by the Pre-Existing Agreement(s).
+ 
+(d) Neither the course of dealings between the parties nor trade practices shall act to modify, vary, supplement, explain, or amend this Agreement. If either party issues any purchase order, terms or conditions, or other form, it shall be deemed solely for the administrative convenience of that party and not binding on the other party, even if acknowledged or acted upon. No change, waiver, or discharge hereof shall be valid unless in writing and signed by an authorized representative of the party against which such change, waiver or discharge is sought to be enforced. There are no promises, representations, warrantees, or other commitments relied upon by either party that is not expressly set forth herein.
+ 
+IN WITNESS WHEREOF, the parties have each caused this Agreement to be signed and delivered by its duly authorized officer, all as of the Effective Date.
+ 
+ 
+
+

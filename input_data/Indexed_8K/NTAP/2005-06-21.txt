@@ -1,0 +1,71 @@
+FILE:NTAP/NTAP-8K-20050621172531.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Table of Contents
+Item 1.01. Entry into a Material Definitive Agreement.
+Merger Agreement
+On June 15, 2005, Network Appliance, Inc., a Delaware corporation ("Registrant"), Dolphin Acquisition Corp., a wholly-owned subsidiary of Registrant (the "Merger Sub"), and Decru, Inc., a Delaware corporation that develops and sells encryption software and appliances to secure network data storage ("Decru"), entered into an Agreement and Plan of Merger and Reorganization (the "Merger Agreement"). The Merger Agreement provides that, upon the terms and subject to the conditions set forth therein, Decru will merge with and into Merger Sub, with Merger Sub continuing as the surviving corporation and wholly-owned subsidiary of Registrant (the "Merger").
+At the effective time and as a result of the Merger, each share of Decru capital stock issued and outstanding immediately prior to the effective time of the Merger will be canceled and extinguished and automatically converted into the right to receive that amount of cash and that number of shares of Registrant common stock as set forth in the Merger Agreement. Registrant has agreed to acquire all of the capital stock of Decru in exchange for an aggregate of approximately $265 million (which amount is subject to adjustment at the effective time based on certain expense and balance sheet items as set forth in Decru's financial statements immediately prior to the effective time), 80% of which will be paid in the form of Registrant common stock and 20% of which will be paid in the form of cash (such aggregate consideration, the "Merger Consideration"). The price of one share of common stock of Registrant to be used for purposes of determining the aggregate number of shares of common stock issuable to Decru securityholders shall be based on the average trading price of Registrant's common stock for the ten consecutive trading days ending two trading days immediately prior to the effective time, subject to a collar. An amount equal to 12.5% of the Merger Consideration shall be subject to an escrow. The amount of consideration to be paid upon the consummation of the Merger for the outstanding capital stock of Decru was determined through an arms-length negotiation between Registrant and the stockholders of Decru together with their respective advisors. Options held by Decru employees to purchase Decru's common stock shall be assumed by Registrant.
+Decru has made customary representations, warranties and covenants in the Merger Agreement, including, among others, covenants (i) to conduct its business in the ordinary course consistent with past practice during the interim period between the execution of the Merger Agreement and the consummation of the Merger, (ii) not to engage in certain kinds of transactions during such period, (iii) to prepare an information statement to be distributed to the stockholders of Decru relating to the Merger Agreement and the transactions contemplated thereby, (iv) subject to certain exceptions, for its board of directors to recommend adoption and approval by its stockholders of the Merger Agreement and the transactions contemplated thereby, (v) not to solicit proposals relating to alternative business combination transactions and (vi) subject to certain exceptions, not to enter into discussions concerning, or provide confidential information in connection with, alternative business combination transactions.
+Consummation of the Merger is subject to customary conditions, including (i) approval of the Merger Agreement and the Merger by the stockholders of Decru, (ii) absence of any law or order prohibiting the consummation of the Merger, (iii) expiration or termination of the applicable Hart-Scott-Rodino waiting period and receipt of certain foreign antitrust approvals, (iv) approval of the issuance of Registrant common stock either by the California Commissioner of Corporations or the Securities Exchange Commission, as the case may be, (v) the accuracy of the representations and warranties made by both Registrant and Decru and (vi) the absence of any material adverse effect on Registrant or Decru.
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the Agreement and Plan of Merger and Reorganization, which will be subsequently filed and is incorporated herein by reference.
+Press Release
+On June 16, 2005, Registrant issued a press release announcing this transaction, a copy of which is filed as Exhibit 99.1 attached hereto.
+Item 9.01. Financial Statements and Exhibits.
+(c) Exhibits.
+99.1 Press Release issued by Network Appliance, Inc, dated June 16, 2005.
+Table of Contents
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Table of Contents
+ 
+
+ 
+Exhibit 99.1
+Network Appliance Acquires Decru
+Extends Leadership in Data Protection Solutions, Expands Market Footprint for Heterogeneous Storage Support
+Network Appliance, Inc. (NASDAQ:NTAP), the leader in advanced networked storage solutions, today announced that it has entered into a definitive agreement to acquire Decru, a privately held company based in Redwood City, California, for approximately $272 million in cash and stock. Decru is a clear market leader in storage security, offering data protection solutions to address a range of needs for enterprises and governments, including regulatory compliance, privacy, secure consolidation, and outsourcing. Decru DataFort appliances protect the core of the storage network by seamlessly inserting a layer of strong encryption, authentication, access controls, and compartmentalization.
+Sunnyvale, Calif.  June 16, 2005 
+"In an era where data is a precious asset and security threats to that data are accelerating, encryption is a key element of any data infrastructure," said Dan Warmenhoven, CEO of Network Appliance, Inc. "Recent, highly public mishaps point to the need for companies and governments to more effectively protect sensitive business, employee, partner, customer, and intelligence data. Decru has established an early lead in the data security space. The combination of Decru with NetApp strengthens our own data protection portfolio and gives more customers the opportunity to purchase Decru products with the confidence that they'll get the support, service, and continuous innovation that distinguish NetApp in data management."
+Over the last year, NetApp and Decru together have delivered many collaborative solutions designed to help companies and various government organizations safeguard their data and comply with a plethora of regulations that have recently taken effect. These solutions combine Decru DataFort appliances with NetApp storage. But Decru DataFort solutions are not limited to NetApp storage and in fact can be deployed transparently with a wide variety of vendors' storage systems in NAS, DAS, SAN, iSCSI, and even tape backup environments. Deploying Decru appliances requires no changes to servers, desktops, applications, or user workflow, making Decru solutions easy and fast for customers to integrate into their existing infrastructures.
+Decru solutions provide encryption at wire speeds, enabling maximum protection with no performance sacrifice. And unlike firewalls and network security, which protect the network perimeter and "data in motion," Decru systems protect "data at rest" behind the firewall, which is where recent United States Federal Bureau of Investigation (FBI) studies show up to 80% of all data attacks occur.
+For Network Appliance, the acquisition of Decru augments the company's already impressive lineup of data protection solutions including systems for disk backup and recovery; various SnapSuite software offerings for data replication, mirroring, and restoration; systems and associated software for protection from Internet viruses and attacks; and , which helps provide the technology foundation for safeguarding regulated data.
+NearStore
+NetCache
+LockVault
+ 
+The acquisition also complements the recent NetApp acquisition of Alacritus and expands the company's ability to deliver advanced data protection solutions for hard disk storage as well as tape and virtual tape environments.
+Finally, with Decru, NetApp continues to expand its ability to "front end" multivendor (or heterogeneous) storage systems from various third-party vendors in the storage arena. Just as the newly enhanced NetApp systems virtualize a myriad of storage systems, NetApp and Decru solutions are also capable of protecting data stored on third-party disk and tape systems.
+V-Series
+Since January 2004, NetApp and Decru have worked together to deliver solutions to customers in sectors including investment banking, healthcare, semiconductors, software, and the federal government. On June 7, NetApp and Decru jointly announced an integrated turnkey platform for secure processing and storage of credit card data in compliance with Visa and Mastercard Payment Card Industry (PCI) security standards.
+Decru was founded in 2001 and has raised more than $45 million in venture financing from Benchmark Capital, Greylock, New Enterprise Associates, In-Q-Tel, and others. Additional information on Decru is available at www.Decru.com.
+The acquisition is expected to close by October, 2005 subject to receipt of required regulatory approvals and other customary closing conditions. Decru will form a new business unit within NetApp. Decru remains committed to maintaining and furthering its deep relationships with heterogeneous storage vendors and networking vendors.
+About Network Appliance
+Network Appliance is a world leader in unified storage solutions for today's data-intensive enterprise. Since its inception in 1992, Network Appliance has delivered technology, product, and partner firsts that simplify data management. Information about Network Appliance solutions and services is available at www.netapp.com.
+"Safe Harbor" Statement under U.S. Private Securities Litigation Reform Act of 1995
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include the anticipated benefits to be obtained from the Company's acquisition of Decru and the expected timing of the completion of the acquisition. These forward-looking statements involve risks and uncertainties, and actual results could vary. Factors that could impact our ability to achieve our goals include our ability to successfully integrate Decru's operations and products with the future success of both companies product lines, general economic and industry conditions, including expenditure trends for storage-related products; our ability to deliver new product architectures and products that meet market acceptance; our ability to design products that compete effectively from a price and performance perspective; and other important factors as described in Network Appliance, Inc.'s reports and documents filed from time to time with the Securities and Exchange Commission, including our most recently submitted 10-K and 10-Q.
+ 
+Eric Brown Network Appliance, Inc. (408) 822-3463 ebrown@netapp.com
+Press Contacts:
+Jodi Baumann Network Appliance, Inc. (408) 822-3974 jodi.baumann@netapp.com
+xdl-uspr@netapp.com
+PR Hotline: 408-822-3287
+Tara Calhoun Network Appliance, Inc. (408) 822-6909 tara.calhoun@netapp.com
+Investor Contact:
+
+

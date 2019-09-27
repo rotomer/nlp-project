@@ -1,0 +1,2156 @@
+FILE:IBM/IBM-8K-20050520093454.txt.gz
+EVENTS:	Regulation FD Disclosure
+TEXT:
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+Item 7.01 (Regulation FD Disclosure)
+ 
+Attachment I contains presentation materials for IBM's May 20, 2005 Investors' Briefing by IBM's Chairman and CEO and other senior IBM executives.  This information is hereby furnished.
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+Date:  May 20, 2005
+ 
+ 
+ATTACHMENT I
+Exhibit 99.1
+ 
+ 
+Good morning.  I'd like to welcome you to this briefing for IBM investors.
+ 
+I'm joined today by Mark Loughridge, our CFO, and the senior leaders of our major business units.  Together, we'll provide a perspective on IBM's strategy and operations.
+ 
+This is an important time for the industry and for IBM.  It's also a potentially confusing time for investors.  It's easy to intermix near-term issues with longer-term shifts, cyclical effects with more fundamental change.
+ 
+That's why we changed the agenda for today's meeting.  In previous years, you will recall that we used to separate these two sets of issues.  We would give you a strategic update at the spring meeting, and focus on operational issues in the fall.
+ 
+This year, we have combined the two.  I will cover our long-term, strategic business model with you.  Then the leaders of our business units will cover the  executional actions we are taking to improve our performance and address opportunities going forward.
+ 
+So before I turn it over to my colleagues, I'd like to provide some context.  I think it would be helpful in understanding what we've been doing at IBM and why.
+ 
+All of the major moves we've made at IBM over the past three or four years have been based on a small number of strategic choices ...
+ 
+ - 
+                                         
+choices that were made based on our understanding of where technology, client requirements, and global business were headed ...
+ - 
+                                         
+choices designed to maintain IBM's leadership of a rapidly changing industry ...
+ - 
+                                         
+and to continue to generate consistent, high returns on invested capital for our owners.
+ 
+Let me briefly review and comment on the major strategic choices.  There are three.
+ 
+First, we decided that IBM would lead the IT industry shift to the era of on demand business.
+ 
+As we have discussed with you before, on demand business is our way of describing a fundamental industry shift in computing architecture and how it is applied to business.  Others have referred to this as the "organic enterprise" or "adaptive enterprise."
+ 
+Whatever name you choose, it represents a shift in enterprise client buying behavior toward integrated solutions that draw on point products, and a shift toward providing quantifiable business value, not just technology features and functions.  These shifts are well underway.
+ 
+As you know, over many years the IT industry has progressively automated distinct operations and processes within companies  the back office, the factory floor, the desktop, the supply chain.  Now, technology can enable  and our clients' business demands require  a more integrated, end-to-end approach.
+ 
+At the business process level, this means breaking down the silos that segregate one business operation from another, and creating common, optimized, and integrated processes that operate horizontally, across the enterprise.
+This may sound simplistic, but implementing this kind of operating model requires extensive business transformation.  And that, in turn, requires process-specific and industry-specific expertise.
+ 
+The goal:  Fusing advanced technology with business design to create an integrated, more flexible and responsive enterprise.
+ 
+This is a change in how the IT industry engages with enterprise customers and in how it applies technology.  This shift is reflected in market opportunity, which Mark Loughridge will show you in more detail.
+ 
+The bottom line is that these business value opportunities are growing faster than traditional point products, and they give us a much stronger relationship with enterprises.
+ 
+You know what we have done in recent years to strengthen our capability in business process and industry expertise  not just consulting skills, but also software and delivery capability specific to business processes and industry requirements.
+ 
+Enabling these new business designs requires a different computing infrastructure.
+ 
+ - 
+                                         
+Instead of islands of computing distributed throughout the enterprise, it is more integrated.
+ - 
+                                         
+Instead of proprietary architectures, which impede integration and interoperability, it is based on open standards.
+ - 
+                                         
+And it exploits powerful new technologies like self-management and virtualization, which lower the cost of computing, while improving resiliency and security.
+We have made significant investments in the strategic technologies to build out this new computing infrastructure.
+ 
+It is well known that IBM is committed to open standards.  This was recently confirmed when we announced our intent to acquire Gluecode, an open-source software company.
+ 
+We have also substantially strengthened our middleware business, and  after years of R&D  brought to market game-changing technologies.
+ 
+One example is the more than $1 billion we have invested in our Power 4 and 5 architectures.  This has enabled our servers to gain 10 points of share over the last four and a half years.
+ 
+It has also put IBM at the core of future video game consoles, where Power is the technology of choice for the top three players in this market.
+ 
+Steve Mills and Bill Zeitler will expand upon what we've done to strengthen our software and hardware businesses today.
+ 
+At our session with investors last year, I described a substantial growth opportunity stemming from the shift to on demand business.
+ 
+We call it business performance transformation services, or BPTS.  It involves the application of technology to transform a client's business processes and, in some cases, operate those processes for them.
+ 
+Although BPTS draws on the full breadth of IBM's capabilities in services, software and systems, we focus on four specific parts of the portfolio when we report our BPTS revenues  strategy and change consulting, business performance management software,
+engineering and technology services, and business transformation outsourcing.
+ 
+This portfolio already represents a $3 billion business for us.  It grew 45% last year, and another 40% in the first quarter.
+ 
+In BPTS, we work with clients in a variety of ways.
+ 
+ - 
+                                         
+We provide clients the counsel and technologies they need to transform their operations themselves.
+ - 
+                                         
+Our work with the German retailer Metro Group is a good example of this.
+ - 
+                                         
+IBM's strategy consultants redesigned the supply chain and inventory management system for Metro's "future store," a prototype supermarket that integrates IBM's business performance management software with RFID and wireless technologies.
+ 
+ - 
+                                         
+Other clients want to collaborate with us.
+ - 
+                                         
+Yesterday, we signed a strategic agreement with Nortel to establish a joint development center in Research Triangle Park, where IBM will collaborate in the research, design and development of Nortel's "Next Generation Networks" products and services.
+ - 
+                                         
+An initial project will be a new class of blade servers for telecommunications networks.  This project will combine IBM's server technology and software with Nortel's communications expertise.
+ 
+ - 
+                                         
+In some cases, we transform and actually manage the operations for the client.
+ - 
+                                         
+With Nextel, we worked with the client as it transformed its customer care processes, and we now manage that operation for them.  Over the course of this engagement, Nextel's customer satisfaction ratings
+have improved, customer churn has declined, and we are on target to achieve $1 billion in cost savings for Nextel over eight years.
+ - 
+                                         
+With BP, where we recently extended our engagement, we transformed and manage their finance and accounting operations.  We have accelerated BP's ability to integrate new acquisitions and reduced F&A costs by a third.
+ - 
+                                         
+And we are among a group of partners managing the networks and IT infrastructure for Bharti Tele-Ventures, the largest private-sector telecommunications provider in India.
+ 
+As I hope you can see from these examples, we will work with clients in whatever way they want to work with us  assist them, collaborate with them, or manage it for them.
+ 
+Virtually every core process or operation has the potential for this kind of transformation  from supply chain management and customer care, to finance and administration, human resources management and, of course, information technology.
+ 
+So this first strategic choice  to lead the era of on demand business  draws upon and leverages the entire IBM portfolio  services, software, hardware, technology and research.
+ 
+The emphasis is on pulling together the right combinations of our technologies and services into business solutions for clients, which is increasingly how they want to buy and apply IT.
+ 
+The second strategic choice was our decision to be the leader in high-value, innovation-based technologies and services.
+ 
+Again, this is familiar to you.  For several years I've talked about the bifurcation of the industry  between companies that create
+and monetize intellectual capital in all its forms, and those that efficiently market and distribute other people's innovations.
+ 
+The cycle of innovation and commoditization that drives this bifurcation has never been faster or, I would say, more unforgiving than it is today.
+ 
+IBM, as you know, has chosen to lead in the high-value, innovation space.  And the changes in our business mix over the last several years reflect this strategic choice.
+ 
+Through acquisitions and organic investments, we have strengthened our capabilities in software, high-value services and advanced technology.  Since 2002, and through the first quarter of this year, we have acquired 38 companies, primarily in these spaces.
+ 
+At the same time, we have exited low-margin businesses whose differentiating value was declining  hard disk drives, displays, memory chips and, most recently, PCs, through our alliance with Lenovo.
+ 
+But it's important to understand that, while highly visible, acquisitions and divestitures represent only one way that we continuously re-invent the company to stay in the high-value spaces.
+ 
+The primary way we do this is by capitalizing on innovation to constantly move our hardware, software, services and core technology businesses into high growth and more profitable segments.
+ 
+Our efforts in BPTS and integrating middleware to high-performance servers and the expansion of our Power architecture into the home market  are all examples of this.
+It requires constant reinvention of the base business, investments in emerging business opportunities and extending our core franchises into adjacent spaces.
+ 
+Our engineering and technology services business, which is only two and a half years old, is an example of how we've leveraged an important franchise  in this case, our core technologies and engineering tools and expertise  into wholly new spaces.
+ 
+We are working with companies in aerospace, consumer electronics, defense and telecommunications to help them create advanced products.  In many cases, they are using our technologies, such as Power, and open standard software like Linux, which provide compelling economic and speed of deployment advantages to these companies.
+ 
+Engineering & Technology Services demonstrates how we monetize our R&D in ways that extend far beyond patent licensing.
+ 
+I think you'd agree that companies like Honeywell, Lockheed Martin, Cisco and Sony would not simply outsource elements of their engineering and development operations to the lowest bidder.  These are high-value engagements that draw on our recognized innovation capabilities.
+ 
+We have essentially created a new services business around a set of technology assets.  And it is allowing us to move into important adjacent spaces.  Bill Zeitler will build on this.
+ 
+So, we've decided that IBM will lead in identifying, creating and capturing the profit zones of our industry, and that we would differentiate IBM by our ability to give clients value and capability they cannot get from others.
+This has compelled us to make many changes in our businesses.  Some of those changes are already paying off; others are underway.
+ 
+And yes, this strategic shift can lead to short-term performance issues.  But this is what you do if you want to stay ahead of commoditization, and it's what is required to deliver sustainable, high returns on invested capital for our owners.
+ 
+As Mark will discuss with you in a moment, shifts that we have made in the model can have significant impact on our business profile.  As we've pointed out to you before, eliminating the lower-margin PC business improves our profitability by one point.
+ 
+At the same time, we are increasing the investments required for business value and solutions selling.
+ 
+The third strategic choice we have made is to globally integrate the company.
+ 
+This may sound surprising, given that IBM has been an international company since its founding.  There are two aspects to this.
+ 
+First, we are extending our reach into local markets around the world, particularly in high-growth economies such as China, India, Brazil and Russia.  Last year, our business in these four countries grew more than 25%.
+ 
+We are fueling our investments in these high-growth markets by reallocating resources from slower-growing, maturing markets.  Over the past two years, we have increased our investment in these high-growth, developing markets by 40%, and expanded our work force by 30%.
+ 
+This is a phenomenon that goes beyond cyclical economics.
+ 
+We're all aware that populations in western Europe and Japan are shrinking and also aging.  Last week I heard that in 15 years, Italy will have just one worker supporting every retiree.  In Germany and France, the ratio will be fewer than three workers for every retiree by the year 2025.
+ 
+This will radically change the economics of these markets, with investments increasingly going to support the aging populations.
+ 
+Also, consider that over the next five years, emerging parts of Asia, Eastern Europe and Latin America will grow to become more than one-fifth of the global GDP.  This represents an economic gain of $2.5 trillion.  These regions will account for 35% of global GDP growth in this period.
+ 
+IBM's share position in these markets is strong, and we are making the investments to strengthen it.  We are number one in Brazil and China, and number two in India and eastern Europe.
+ 
+The implications of this are clear  IBM is growing as fast or faster than the markets in these emerging nations, and we are reprioritizing our investments to continue to grow with them.
+ 
+You see this in the restructuring of our operations in Europe, which we announced earlier this month.
+ 
+This is freeing up resources that we can reinvest in higher-growth markets.  It will also enable us to reduce overhead, eliminate layers of hierarchy, and deploy more resources out in the field, where they can execute closer to our clients.
+But we are not lowering the center of gravity in Europe only to build it up again in places like China and India.  Rather, we are moving to a new model, which is the second aspect of globally integrating IBM.  Let me explain what I mean.
+ 
+During the first half of the 20th century, IBM was the prototypical international enterprise.  We set up sales offices overseas and exported our products to customers around the world.  We did some customizing for local markets, but by and large our intellectual capital was created and managed in the U.S.
+ 
+In the second half of the century  when Germany, France, the UK, Italy and Japan were in recovery  a new strategy emerged.  To capitalize on the human resources available in those countries, and to make a stronger contribution to rebuilding their economies, we built largely self-contained and self-sufficient IBMs in each national market.
+ 
+IBM Japan, IBM U.K., IBM Germany  each had its own headquarters, its own support operations and, in many cases, its own labs and plants.  The result: a multinational IBM.
+ 
+Today, we are evolving to a new model  the globally integrated company.  It's made possible by the emergence of skills in new parts of the world, high-growth markets in developing nations, the WTO and free trade agreements, and the rise of a global networked infrastructure.
+ 
+We no longer have to replicate IBM from floor to ceiling in every country.  We are optimizing key operations in the right places in the world  eliminating the redundancies and excess overhead  and integrating those operations horizontally and globally.
+ 
+We've been working toward this for several years.
+ - 
+                                         
+We used to process purchase orders in 300 places around the world.  Today, it's three  Shanghai, Bangalore and Budapest.
+ - 
+                                         
+In customer support, we've moved certain functions closest to the client, and others we've consolidated into shared service centers in Malaysia, Slovakia, Spain and Brazil.
+ 
+These moves are not just about lower labor cost.  They're about doing the right tasks, with the right skills, in the right places.
+ 
+ - 
+                                         
+We've centralized strategic sourcing for our procurement BTO practice in Greenock, Scotland ...
+ - 
+                                         
+Consolidated services operations for financial management and accounting in, among other places, Tulsa, Oklahoma ...
+ - 
+                                         
+And created a center of excellence for the shipping industry in Scandinavia and New York City.
+ - 
+                                         
+Our primary software development centers are in Toronto, San Jose, Texas and England.
+ - 
+                                         
+Our research labs are in New York, Austin, Silicon Valley, Switzerland, Israel, Japan, China and India.
+ 
+Why?  Because that's where the right skills and the right business conditions exist.
+ 
+Creating a globally integrated IBM  an "on demand IBM"  will result in a flatter operating model with more resources working with clients in the field.
+ 
+This will drive productivity, as Bob Moffat will discuss.  And importantly, it will improve our ability to execute at the point of contact with the client, which Doug Elix will describe for you.
+As we execute each of these strategies  leading the industry shift we describe as on demand business; reinventing our portfolio to be the innovation, high-value leader, and creating a globally integrated company  there will be bumps along the way.
+ 
+Some will be due to exogenous factors  recessions, market corrections and the like  and some to execution missteps.
+ 
+We hit a bump in the first quarter.  We understand the issues and have taken corrective action.  The issues mostly involve transitions of one type or another.
+ 
+In services, for instance, our revenue mix is shifting away from the large, long-term engagements toward smaller, shorter-term contracts.  In just the last two years, short-term contracts as a share of total signings have grown from 38% to 47%.
+ 
+John Joyce will tell you about the actions he has taken to address this shift, including sales incentives and the deployment of sales resources to go after more of this opportunity.
+ 
+Another transition reflects the changing interplay of customized and standardized capabilities.  Traditionally in our services business, standardized capabilities referred to infrastructure assets  data centers, parts inventories, tools and the like.
+ 
+Through increased automation techniques, we are able to manage these types of assets with fewer people.  As a result, a greater share of our people are now focused on strategic consulting and business transformation.
+ 
+Many of our top minds in IBM Research are collaborating with business consulting teams through our On Demand Innovation Services practice and the Center for Business Optimization, the
+ 
+unit that deploys all of the deep, mathematical and analytic capability of IBM to solve some of our clients' hardest problems.
+ 
+Of course, not every client needs a high-end, custom-built solution.  So we are translating more of our intellectual capital into replicable, software-based designs that are scalable to multiple clients, faster to deploy, and deliver faster time to value for the client.
+ 
+For example, we have documented our methodology and standardized many of the processes and technologies involved in building wireless broadband infrastructures  These kinds of services packages are helping us keep ahead of the explosive growth in demand for such technologies as WiFi and RFID.
+.
+ 
+We are also expanding our capabilities to deliver standardized processes and applications as a service to our clients.
+ 
+ - 
+                                         
+Our acquisition of Corio, which we completed in March, gives us a global platform to deliver hosted applications like SAP, Oracle and Siebel to both our SMB and enterprise clients.
+ - 
+                                         
+We are integrating IBM's custom hosted capabilities into Corio's platform for faster deployment of these services.  We can also use this platform to provide related capabilities, such as application deployment and automated application management.
+ 
+Each of these examples represents a shift from custom services to more cost-efficient, scalable offerings.
+ 
+This shift, as well as the steps we have taken to drive down cost in our strategic outsourcing business, will help us to improve our services margins and penetrate new market opportunities.
+The other transitions you will hear about today involve our other two units  systems and software.
+ 
+In systems, Bill will talk about transitions in some key products  specifically in our server and storage lines, where late availability of our some new offerings dampened our first-quarter performance.  But we'll now have the benefit of a full quarter of availability of these products.
+ 
+These kinds of transitions are not unusual, and the effects are often short-lived.  As you may remember, the Regatta and the T-Rex products also went through short, somewhat rocky transition periods before ultimately delivering significant growth.
+ 
+After Bill, Steve Mills will describe to you the progress we've made to re-mix our software portfolio to capture the high-growth middleware opportunity.
+ 
+During the course of the day you will hear  in much greater detail  about all of the issues I just laid out for you.
+ 
+As I said at the beginning, we are talking about two sets of issues here.
+ 
+The first are the long-term, strategic actions we are taking to capitalize on the shifts we see in client demand, technology and global economics.  These areas are the fastest-growing segments in the IT industry.
+ 
+The second set of issues involves the actions we are taking to improve business performance in the near term.  We know what the executional issues are.  We are managing through them.  And we are confident that they will get IBM back on track.
+But I think it's more important to keep the overall game plan in mind.
+ 
+ 
+ 
+ 
+ 
+[O]
+LOG
+ 
+Agenda
+ 
+ 
+ 
+Cer
+tain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the Company's filing with the SEC.  Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations.
+ 
+See IBM's Form 8-K dated May 20, 2005 for reconciliation and other information in connection with certain non-GAAP financial measures in this presentation.
+ 
+ 
+Str
+ategy Overview
+ 
+Sam Palmisano
+Chairman and Chief Executive Officer
+ 
+ 
+ 
+Good morning.  I'd like to welcome you to this briefing for IBM investors.
+ 
+I'm joined today by Mark Loughridge, our CFO, and the senior leaders of our major business units.  Together, we'll provide a perspective on IBM's strategy and operations.
+ 
+This is an important time for the industry and for IBM.  It's also a potentially confusing time for investors.  It's easy to intermix near-term issues with longer-term shifts, cyclical effects with more fundamental change.
+ 
+That's why we changed the agenda for today's meeting.  In previous years, you will recall that we used to separate these two sets of issues.  We would give you a strategic update at the spring meeting, and focus on operational issues in the fall.
+ 
+This year, we have combined the two.  I will cover our long-term, strategic business model with you.  Then the leaders of our business units will cover the  executional actions we are taking to improve our performance and address opportunities going forward.
+ 
+So before I turn it over to my colleagues, I'd like to provide some context.  I think it would be helpful in understanding what we've been doing at IBM and why.
+ 
+All of the major moves we've made at IBM over the past three or four years have been based on a small number of strategic choices ...
+ 
+ - 
+                                         
+choices that were made based on our understanding of where technology, client requirements, and global business were headed ...
+ - 
+                                         
+choices designed to maintain IBM's leadership of a rapidly changing industry ...
+ - 
+                                         
+and to continue to generate consistent, high returns on invested capital for our owners.
+ 
+Let me briefly review and comment on the major strategic choices.  There are three.
+ 
+First, we decided that IBM would lead the IT industry shift to the era of on demand business.
+ 
+As we have discussed with you before, on demand business is our way of describing a fundamental industry shift in computing architecture and how it is applied to business.  Others have referred to this as the "organic enterprise" or "adaptive enterprise."
+ 
+Whatever name you choose, it represents a shift in enterprise client buying behavior toward integrated solutions that draw on point products, and a shift toward providing quantifiable business value, not just technology features and functions.  These shifts are well underway.
+ 
+As you know, over many years the IT industry has progressively automated distinct operations and processes within companies  the back office, the factory floor, the desktop, the supply chain.  Now, technology can enable  and our clients' business demands require  a more integrated, end-to-end approach.
+ 
+At the business process level, this means breaking down the silos that segregate one business operation from another, and creating common, optimized, and integrated processes that operate horizontally, across the enterprise.
+This may sound simplistic, but implementing this kind of operating model requires extensive business transformation.  And that, in turn, requires process-specific and industry-specific expertise.
+ 
+The goal:  Fusing advanced technology with business design to create an integrated, more flexible and responsive enterprise.
+ 
+This is a change in how the IT industry engages with enterprise customers and in how it applies technology.  This shift is reflected in market opportunity, which Mark Loughridge will show you in more detail.
+ 
+The bottom line is that these business value opportunities are growing faster than traditional point products, and they give us a much stronger relationship with enterprises.
+ 
+You know what we have done in recent years to strengthen our capability in business process and industry expertise  not just consulting skills, but also software and delivery capability specific to business processes and industry requirements.
+ 
+Enabling these new business designs requires a different computing infrastructure.
+ 
+ - 
+                                         
+Instead of islands of computing distributed throughout the enterprise, it is more integrated.
+ - 
+                                         
+Instead of proprietary architectures, which impede integration and interoperability, it is based on open standards.
+ - 
+                                         
+And it exploits powerful new technologies like self-management and virtualization, which lower the cost of computing, while improving resiliency and security.
+We have made significant investments in the strategic technologies to build out this new computing infrastructure.
+ 
+It is well known that IBM is committed to open standards.  This was recently confirmed when we announced our intent to acquire Gluecode, an open-source software company.
+ 
+We have also substantially strengthened our middleware business, and  after years of R&D  brought to market game-changing technologies.
+ 
+One example is the more than $1 billion we have invested in our Power 4 and 5 architectures.  This has enabled our servers to gain 10 points of share over the last four and a half years.
+ 
+It has also put IBM at the core of future video game consoles, where Power is the technology of choice for the top three players in this market.
+ 
+Steve Mills and Bill Zeitler will expand upon what we've done to strengthen our software and hardware businesses today.
+ 
+At our session with investors last year, I described a substantial growth opportunity stemming from the shift to on demand business.
+ 
+We call it business performance transformation services, or BPTS.  It involves the application of technology to transform a client's business processes and, in some cases, operate those processes for them.
+ 
+Although BPTS draws on the full breadth of IBM's capabilities in services, software and systems, we focus on four specific parts of the portfolio when we report our BPTS revenues  strategy and change consulting, business performance management software,
+engineering and technology services, and business transformation outsourcing.
+ 
+This portfolio already represents a $3 billion business for us.  It grew 45% last year, and another 40% in the first quarter.
+ 
+In BPTS, we work with clients in a variety of ways.
+ 
+ - 
+                                         
+We provide clients the counsel and technologies they need to transform their operations themselves.
+ - 
+                                         
+Our work with the German retailer Metro Group is a good example of this.
+ - 
+                                         
+IBM's strategy consultants redesigned the supply chain and inventory management system for Metro's "future store," a prototype supermarket that integrates IBM's business performance management software with RFID and wireless technologies.
+ 
+ - 
+                                         
+Other clients want to collaborate with us.
+ - 
+                                         
+Yesterday, we signed a strategic agreement with Nortel to establish a joint development center in Research Triangle Park, where IBM will collaborate in the research, design and development of Nortel's "Next Generation Networks" products and services.
+ - 
+                                         
+An initial project will be a new class of blade servers for telecommunications networks.  This project will combine IBM's server technology and software with Nortel's communications expertise.
+ 
+ - 
+                                         
+In some cases, we transform and actually manage the operations for the client.
+ - 
+                                         
+With Nextel, we worked with the client as it transformed its customer care processes, and we now manage that operation for them.  Over the course of this engagement, Nextel's customer satisfaction ratings
+have improved, customer churn has declined, and we are on target to achieve $1 billion in cost savings for Nextel over eight years.
+ - 
+                                         
+With BP, where we recently extended our engagement, we transformed and manage their finance and accounting operations.  We have accelerated BP's ability to integrate new acquisitions and reduced F&A costs by a third.
+ - 
+                                         
+And we are among a group of partners managing the networks and IT infrastructure for Bharti Tele-Ventures, the largest private-sector telecommunications provider in India.
+ 
+As I hope you can see from these examples, we will work with clients in whatever way they want to work with us  assist them, collaborate with them, or manage it for them.
+ 
+Virtually every core process or operation has the potential for this kind of transformation  from supply chain management and customer care, to finance and administration, human resources management and, of course, information technology.
+ 
+So this first strategic choice  to lead the era of on demand business  draws upon and leverages the entire IBM portfolio  services, software, hardware, technology and research.
+ 
+The emphasis is on pulling together the right combinations of our technologies and services into business solutions for clients, which is increasingly how they want to buy and apply IT.
+ 
+The second strategic choice was our decision to be the leader in high-value, innovation-based technologies and services.
+ 
+Again, this is familiar to you.  For several years I've talked about the bifurcation of the industry  between companies that create
+and monetize intellectual capital in all its forms, and those that efficiently market and distribute other people's innovations.
+ 
+The cycle of innovation and commoditization that drives this bifurcation has never been faster or, I would say, more unforgiving than it is today.
+ 
+IBM, as you know, has chosen to lead in the high-value, innovation space.  And the changes in our business mix over the last several years reflect this strategic choice.
+ 
+Through acquisitions and organic investments, we have strengthened our capabilities in software, high-value services and advanced technology.  Since 2002, and through the first quarter of this year, we have acquired 38 companies, primarily in these spaces.
+ 
+At the same time, we have exited low-margin businesses whose differentiating value was declining  hard disk drives, displays, memory chips and, most recently, PCs, through our alliance with Lenovo.
+ 
+But it's important to understand that, while highly visible, acquisitions and divestitures represent only one way that we continuously re-invent the company to stay in the high-value spaces.
+ 
+The primary way we do this is by capitalizing on innovation to constantly move our hardware, software, services and core technology businesses into high growth and more profitable segments.
+ 
+Our efforts in BPTS and integrating middleware to high-performance servers and the expansion of our Power architecture into the home market  are all examples of this.
+It requires constant reinvention of the base business, investments in emerging business opportunities and extending our core franchises into adjacent spaces.
+ 
+Our engineering and technology services business, which is only two and a half years old, is an example of how we've leveraged an important franchise  in this case, our core technologies and engineering tools and expertise  into wholly new spaces.
+ 
+We are working with companies in aerospace, consumer electronics, defense and telecommunications to help them create advanced products.  In many cases, they are using our technologies, such as Power, and open standard software like Linux, which provide compelling economic and speed of deployment advantages to these companies.
+ 
+Engineering & Technology Services demonstrates how we monetize our R&D in ways that extend far beyond patent licensing.
+ 
+I think you'd agree that companies like Honeywell, Lockheed Martin, Cisco and Sony would not simply outsource elements of their engineering and development operations to the lowest bidder.  These are high-value engagements that draw on our recognized innovation capabilities.
+ 
+We have essentially created a new services business around a set of technology assets.  And it is allowing us to move into important adjacent spaces.  Bill Zeitler will build on this.
+ 
+So, we've decided that IBM will lead in identifying, creating and capturing the profit zones of our industry, and that we would differentiate IBM by our ability to give clients value and capability they cannot get from others.
+This has compelled us to make many changes in our businesses.  Some of those changes are already paying off; others are underway.
+ 
+And yes, this strategic shift can lead to short-term performance issues.  But this is what you do if you want to stay ahead of commoditization, and it's what is required to deliver sustainable, high returns on invested capital for our owners.
+ 
+As Mark will discuss with you in a moment, shifts that we have made in the model can have significant impact on our business profile.  As we've pointed out to you before, eliminating the lower-margin PC business improves our profitability by one point.
+ 
+At the same time, we are increasing the investments required for business value and solutions selling.
+ 
+The third strategic choice we have made is to globally integrate the company.
+ 
+This may sound surprising, given that IBM has been an international company since its founding.  There are two aspects to this.
+ 
+First, we are extending our reach into local markets around the world, particularly in high-growth economies such as China, India, Brazil and Russia.  Last year, our business in these four countries grew more than 25%.
+ 
+We are fueling our investments in these high-growth markets by reallocating resources from slower-growing, maturing markets.  Over the past two years, we have increased our investment in these high-growth, developing markets by 40%, and expanded our work force by 30%.
+ 
+This is a phenomenon that goes beyond cyclical economics.
+ 
+We're all aware that populations in western Europe and Japan are shrinking and also aging.  Last week I heard that in 15 years, Italy will have just one worker supporting every retiree.  In Germany and France, the ratio will be fewer than three workers for every retiree by the year 2025.
+ 
+This will radically change the economics of these markets, with investments increasingly going to support the aging populations.
+ 
+Also, consider that over the next five years, emerging parts of Asia, Eastern Europe and Latin America will grow to become more than one-fifth of the global GDP.  This represents an economic gain of $2.5 trillion.  These regions will account for 35% of global GDP growth in this period.
+ 
+IBM's share position in these markets is strong, and we are making the investments to strengthen it.  We are number one in Brazil and China, and number two in India and eastern Europe.
+ 
+The implications of this are clear  IBM is growing as fast or faster than the markets in these emerging nations, and we are reprioritizing our investments to continue to grow with them.
+ 
+You see this in the restructuring of our operations in Europe, which we announced earlier this month.
+ 
+This is freeing up resources that we can reinvest in higher-growth markets.  It will also enable us to reduce overhead, eliminate layers of hierarchy, and deploy more resources out in the field, where they can execute closer to our clients.
+But we are not lowering the center of gravity in Europe only to build it up again in places like China and India.  Rather, we are moving to a new model, which is the second aspect of globally integrating IBM.  Let me explain what I mean.
+ 
+During the first half of the 20th century, IBM was the prototypical international enterprise.  We set up sales offices overseas and exported our products to customers around the world.  We did some customizing for local markets, but by and large our intellectual capital was created and managed in the U.S.
+ 
+In the second half of the century  when Germany, France, the UK, Italy and Japan were in recovery  a new strategy emerged.  To capitalize on the human resources available in those countries, and to make a stronger contribution to rebuilding their economies, we built largely self-contained and self-sufficient IBMs in each national market.
+ 
+IBM Japan, IBM U.K., IBM Germany  each had its own headquarters, its own support operations and, in many cases, its own labs and plants.  The result: a multinational IBM.
+ 
+Today, we are evolving to a new model  the globally integrated company.  It's made possible by the emergence of skills in new parts of the world, high-growth markets in developing nations, the WTO and free trade agreements, and the rise of a global networked infrastructure.
+ 
+We no longer have to replicate IBM from floor to ceiling in every country.  We are optimizing key operations in the right places in the world  eliminating the redundancies and excess overhead  and integrating those operations horizontally and globally.
+ 
+We've been working toward this for several years.
+ - 
+                                         
+We used to process purchase orders in 300 places around the world.  Today, it's three  Shanghai, Bangalore and Budapest.
+ - 
+                                         
+In customer support, we've moved certain functions closest to the client, and others we've consolidated into shared service centers in Malaysia, Slovakia, Spain and Brazil.
+ 
+These moves are not just about lower labor cost.  They're about doing the right tasks, with the right skills, in the right places.
+ 
+ - 
+                                         
+We've centralized strategic sourcing for our procurement BTO practice in Greenock, Scotland ...
+ - 
+                                         
+Consolidated services operations for financial management and accounting in, among other places, Tulsa, Oklahoma ...
+ - 
+                                         
+And created a center of excellence for the shipping industry in Scandinavia and New York City.
+ - 
+                                         
+Our primary software development centers are in Toronto, San Jose, Texas and England.
+ - 
+                                         
+Our research labs are in New York, Austin, Silicon Valley, Switzerland, Israel, Japan, China and India.
+ 
+Why?  Because that's where the right skills and the right business conditions exist.
+ 
+Creating a globally integrated IBM  an "on demand IBM"  will result in a flatter operating model with more resources working with clients in the field.
+ 
+This will drive productivity, as Bob Moffat will discuss.  And importantly, it will improve our ability to execute at the point of contact with the client, which Doug Elix will describe for you.
+As we execute each of these strategies  leading the industry shift we describe as on demand business; reinventing our portfolio to be the innovation, high-value leader, and creating a globally integrated company  there will be bumps along the way.
+ 
+Some will be due to exogenous factors  recessions, market corrections and the like  and some to execution missteps.
+ 
+We hit a bump in the first quarter.  We understand the issues and have taken corrective action.  The issues mostly involve transitions of one type or another.
+ 
+In services, for instance, our revenue mix is shifting away from the large, long-term engagements toward smaller, shorter-term contracts.  In just the last two years, short-term contracts as a share of total signings have grown from 38% to 47%.
+ 
+John Joyce will tell you about the actions he has taken to address this shift, including sales incentives and the deployment of sales resources to go after more of this opportunity.
+ 
+Another transition reflects the changing interplay of customized and standardized capabilities.  Traditionally in our services business, standardized capabilities referred to infrastructure assets  data centers, parts inventories, tools and the like.
+ 
+Through increased automation techniques, we are able to manage these types of assets with fewer people.  As a result, a greater share of our people are now focused on strategic consulting and business transformation.
+ 
+Many of our top minds in IBM Research are collaborating with business consulting teams through our On Demand Innovation Services practice and the Center for Business Optimization, the
+ 
+unit that deploys all of the deep, mathematical and analytic capability of IBM to solve some of our clients' hardest problems.
+ 
+Of course, not every client needs a high-end, custom-built solution.  So we are translating more of our intellectual capital into replicable, software-based designs that are scalable to multiple clients, faster to deploy, and deliver faster time to value for the client.
+ 
+For example, we have documented our methodology and standardized many of the processes and technologies involved in building wireless broadband infrastructures  These kinds of services packages are helping us keep ahead of the explosive growth in demand for such technologies as WiFi and RFID.
+.
+ 
+We are also expanding our capabilities to deliver standardized processes and applications as a service to our clients.
+ 
+ - 
+                                         
+Our acquisition of Corio, which we completed in March, gives us a global platform to deliver hosted applications like SAP, Oracle and Siebel to both our SMB and enterprise clients.
+ - 
+                                         
+We are integrating IBM's custom hosted capabilities into Corio's platform for faster deployment of these services.  We can also use this platform to provide related capabilities, such as application deployment and automated application management.
+ 
+Each of these examples represents a shift from custom services to more cost-efficient, scalable offerings.
+ 
+This shift, as well as the steps we have taken to drive down cost in our strategic outsourcing business, will help us to improve our services margins and penetrate new market opportunities.
+The other transitions you will hear about today involve our other two units  systems and software.
+ 
+In systems, Bill will talk about transitions in some key products  specifically in our server and storage lines, where late availability of our some new offerings dampened our first-quarter performance.  But we'll now have the benefit of a full quarter of availability of these products.
+ 
+These kinds of transitions are not unusual, and the effects are often short-lived.  As you may remember, the Regatta and the T-Rex products also went through short, somewhat rocky transition periods before ultimately delivering significant growth.
+ 
+After Bill, Steve Mills will describe to you the progress we've made to re-mix our software portfolio to capture the high-growth middleware opportunity.
+ 
+During the course of the day you will hear  in much greater detail  about all of the issues I just laid out for you.
+ 
+As I said at the beginning, we are talking about two sets of issues here.
+ 
+The first are the long-term, strategic actions we are taking to capitalize on the shifts we see in client demand, technology and global economics.  These areas are the fastest-growing segments in the IT industry.
+ 
+The second set of issues involves the actions we are taking to improve business performance in the near term.  We know what the executional issues are.  We are managing through them.  And we are confident that they will get IBM back on track.
+But I think it's more important to keep the overall game plan in mind.
+ 
+Bus
+iness Model
+ 
+Mark Loughridge
+Senior Vice President and Chief Financial Officer
+IBM Corporation
+ 
+The
+Traditional View of the Technology Sector Opportunity Reflects Moderate Growth
+ 
+ 
+Source: IBM analysis based on Industry Reports / Market Research
+ 
+Wit
+hin the Traditional IT Market Opportunity, Solutions Will Grow Significantly Faster than Point Products
+ 
+ 
+Source:  IBM Market Intelligence
+ 
+Bus
+iness Performance Transformation Provides Market Expansion Opportunity at a High Growth Rate
+ 
+ 
+Source:  IBM Market Intelligence
+ 
+IBM
+'s 1990's Business Model was Weighted Towards Commoditizing Business Lines with Eroding Profit Margins
+ 
+ 
+*  Does not include Equity Compensation; 1995-1996 As Reported; 1997-2000 Continuing Operations
+** Excludes Special Actions
+ 
+IBM
+'s Response:  Divest Low Growth, Low Margin, Commoditizing Product Lines
+ 
+ 
+ 
+ 
+ 
+ Acquire Value Opportunities
+and
+ 
+ 
+ 
+ 
+ 
+ 
+We e Shifted Our Business from Commoditizing Business Lines to Higher Value
+Hav
+ 
+ 
+ 
+* Post PC divestiture
+ 
+We Using Cash from Low-growth Annuity to Fund Investments in Higher Value Solutions
+are
+ 
+ 
+ 
+* Post PC divestiture
+ 
+Thi
+s Shift in the Model Results in Higher Gross Profit Margins While Increasing Investments Required for Higher Value Solution Selling
+ 
+ 
+ 
+ 
+ 
+*
+1995-1996 As Reported; 1997-2004 Continuing Operations; 2001-2005 includes Equity Compensation
+                                        
+**
+Excludes Special Actions
+                                 
+***
+Estimate based on PCs historical performance
+                          
+ 
+Acq
+uisitions are Delivering Results
+ 
+ 
+ 
+ - 
+      Sound acquisition strategy
+ 
+      Strong management focus
+ - 
+ 
+ - 
+      Active pipeline
+ 
+ - 
+      Demonstrated competence in post acquisition integration
+ 
+ 
+Our
+Objective is to Deliver Double-digit EPS Growth Over the Long-term
+ 
+ - 
+                 
+Drive organic revenue growth 1.5X - 2.0X GDP
+ 
+ - 
+                 
+Leverage our portfolio via financially sound acquisitions for additional 1-2 pts of revenue
+ 
+ - 
+                 
+Focus on productivity to improve margin
+ 
+ - 
+                 
+Deploy cash to fund growth and provide shareholder returns via dividend / buybacks
+ 
+2004 enue Grew 8%
+Rev
+(3.4% @ CC)
+ 
+Revenue Growth Drivers
+ 
+ 
+Emerging Countries
+ 
+ 
+New Markets: BPTS
+ 
+ 
+Key Industry Sales Units
+($B)
+ 
+ 
+The
+Productivity Objective is to Drive Margin Improvements through Efficiencies across an $80B Spending Profile
+ 
+ 
+Supply Chain Management
+     
+ - 
+Process automation and redesign
+     
+ - 
+Supplier relationships
+     
+ - 
+Global sourcing
+     
+ - 
+Leverage industry cost takedowns
+ 
+Labor Cost Management
+     
+ - 
+Redesigned equity compensation
+     
+ - 
+Redesigned employee benefits
+     
+ - 
+Productivity based incentives
+     
+ - 
+Leverage subcontractor workforce
+ 
+IBM Productivity Initiatives
+     
+ - 
+Standardized scalable offerings
+     
+ - 
+Coverage model enhancements
+     
+ - 
+Centers of Excellence
+     
+ - 
+Service delivery transformation
+ 
+US sion 
+Pen
+"The Perfect Storm"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wor
+ldwide Retirement-Related Income / (Expense)
+ 
+ - 
+      This forecast is based on Y/E 2004 assumptions
+ 
+ 
+ 
+* Excludes one-time $320M charge for settlement
+ 
+ 
+ 
+Productivity Initiatives
+Centers of Excellence
+ - 
+Coverage Model
+ - 
+Shared Services
+ - 
+ 
+Labor Cost Management
+Equity Compensation
+ - 
+Benefits Redesign
+ - 
+Subcontractors
+ - 
+ 
+ 
+* Excludes one-time $320M charge for settlement
+ 
+ 
+Our
+Model is to Fund Growth and Provide Shareholder Returns via Dividends / Buybacks
+ 
+Cash Flow ($B)
+Sources
+ 
+ 
+* Excludes GF receivables
+ 
+Uses
+ 
+ 
+Portfolio Management
+ 
+ 
+Capital Investments
+ 
+ - 
+                 
+Server & Technology
+ -  
+$1.0 - $2.0B / year @ ~20% ROIC
+ 
+ - 
+                 
+SO & BTO Contracts
+ -  
+$1.5B - $2.0B @ ~20% ROIC
+ 
+ - 
+                 
+IGF Operating Leases
+ -  
+$1.0B @ ~18% IGF ROE
+ 
+Stock Repurchase / Dividend Strategy
+ 
+ - 
+                 
+$4 to $8B Stock Repurchase
+ - 
+   Over $60B in the last 10 years
+ 
+ - 
+      Dividend increased in each of the last 9 years
+ -  
+Funded by earnings growth and strong cash flows
+ 
+ 
+1Q formance was Impacted by Late Quarter Softening in Some Regions and Execution Shortfalls
+Per
+ 
+ - 
+      Performance strong through mid-March
+ 
+ - 
+      Late March impacted by:
+ -      
+Services shortfall in short term signings
+ -      
+Product transition to new Storage Products
+ 
+ -     
+Growth initiatives continue strong performance
+ -      
+Emerging countries
+      
+ - 
+BPTS
+ 
+ 
+ 
+We tinue to Show Progress in Key Growth Initiatives
+Con
+ 
+Revenue Growth Drivers
+ 
+ 
+Emerging Countries
+ 
+ 
+New Markets: BPTS
+ 
+ 
+Key Industry Sales Units
+($B)
+ 
+ 
+We've elerated and expanded actions to drive productivity and efficiency
+acc
+ 
+ - 
+                 
+Improve the speed and execution of our client-facing teams
+ 
+ - 
+                 
+Maintain and enhance our competitiveness  primarily in Services
+ 
+ - 
+                 
+Eliminate 10,000  13,000 positions worldwide
+ 
+ - 
+                 
+Pre-tax charge between $1.3B - - $1.7B in 2Q
+ 
+ - 
+                 
+Estimated yield $300M - $500M spending reductions in second half
+ 
+ - 
+                 
+Estimated yield 2-3X in 2006
+ 
+Sum
+mary
+ 
+ - 
+      Strong financial profile
+ 
+ - 
+      Investments in new products, new offerings and new markets
+ 
+ - 
+      Strategy that maintains leadership
+ 
+ - 
+      Committed to deliver double digit EPS growth over the long-term
+ 
+ 
+Glo
+bal Services
+ 
+John Joyce
+Senior Vice President and Group Executive
+IBM Global Services
+ 
+Glo
+bal Services 1Q05 Performance
+ 
+($B)
+ 
+ 
+ 
+ 
+ 
+ 
+1Q05 engths and Weaknesses
+Str
+ 
+ 
+      Americas Competitiveness
+ - 
+Signings Growth
+ -      
+ 
+      BTO Growth
+ - 
+ 
+      Asia Growth (w/o Japan)
+ - 
+ 
+ 
+      Short-term Signings, Revenue, and Profitability (in March)
+ - 
+ 
+      Europe Performance
+ - 
+ 
+      Japan Performance
+ - 
+ 
+Wha
+t Happened?
+ 
+Problems in Germany, Italy and Japan
+ - 
+                 
+ 
+ 
+ 
+Why?
+ 
+Impacted Short-term Transactions
+ 
+Deal Execution
+ - 
+                 
+ 
+Market Weakness
+ - 
+                 
+ 
+"Fixed" Cost Base in Europe
+ - 
+                 
+ 
+Organizational Changes
+ - 
+                 
+ 
+Com
+petitiveness Actions
+ 
+Resource actions in Europe:  approximately 7K
+ - 
+                 
+ 
+Resource actions in Asia Pacific:  approximately 1K
+ - 
+                 
+ 
+Reorganization to move resources closer to clients
+ - 
+                 
+ 
+Globally integrate service delivery
+ - 
+                 
+ 
+Infrastructure consolidation
+ - 
+                 
+10 data centers
+ - 
+                 
+3 in Nordics
+ - 
+                 
+2 in the U.K.
+ - 
+                 
+2 in Italy
+ - 
+                 
+1 in France
+ - 
+                 
+1 in the U.S.
+ - 
+                 
+1 in Canada
+ - 
+                 
+ 
+50 offices throughout Europe
+ - 
+                 
+9 offices in the U.S.
+ - 
+                 
+ 
+Rapid expansion of resources in emerging markets
+ - 
+                 
+Western to Eastern Europe and India
+ - 
+                 
+ 
+Deployed SWAT teams to underperforming regions
+ - 
+                 
+ 
+Bus
+iness Line Actions
+ 
+Integrated Technology Services & Consulting
+ 
+Coverage
+ - 
+                 
+ 
+Increased coverage and technical sales resources
+ - 
+                 
+ 
+Business Partners:
+ - 
+                 
+Aggressively recruiting smaller, regional IT systems integrators
+ - 
+                 
+Investing $300 million in new programs, consulting and education for Business Partners
+ - 
+                 
+ 
+300+ consultants redeployed to client-facing work
+ - 
+                 
+ 
+Incentives
+ - 
+                 
+Increased incentives on short-term contracts
+ - 
+                 
+ 
+Offerings
+ - 
+                 
+IT infrastructure services:  wireless, security, networking/Voice Over IP, and storage
+ - 
+                 
+New "Express" offerings targeted at fastest-growing segment of SMB
+ - 
+                 
+ 
+Strategic Outsourcing & Business Transformation Outsourcing
+ 
+Added experienced deal makers
+ - 
+                 
+Increased incentives and resources to drive account growth
+ - 
+                 
+Pipeline development initiatives and incentives
+ - 
+                 
+Dedicated global management for BTO
+ - 
+                 
+Sho
+rt-term Impacts
+ 
+        More competitive pricing
+ - 
+ 
+        Improved pipeline
+ - 
+ 
+        Higher win rates
+ - 
+Ser
+vices Market Growth Trends
+ 
+    Ongoing transition
+ - 
+ 
+Source: IBM market analysis
+IT vices Market
+Ser
+ 
+"IBM grew both its IT services revenue and market share during 2004, increasing the gap between itself and its leading competitor, EDS."          Gartner Report, April 2005
+ 
+ 
+ 
+ 
+Acc
+elerating Standardized Asset Strategy in Services
+ 
+      Entire company mobilizing
+ - 
+      Development of intellectual property, including business process frameworks, IT architectures, and thousands of software assets
+ - 
+      Top priority of technical community; standard scalable offerings
+ - 
+      Directing more of our $5.7B R&D investment toward services assets
+ - 
+ 
+      Assets from engagements
+ - 
+ 
+      Strategic acquisitions
+ - 
+ 
+ 
+Benefits
+ - 
+     
+      Clients: decreased time to value, increase quality and predictability of delivery, lower total cost
+ - 
+      IBM: differentiated, higher-value offerings
+ - 
+      Investors: margin improvement, top-line growth
+ - 
+Bus
+iness Performance Transformation Services Market
+ 
+ 
+ 
+Sum
+mary
+ 
+      More competitive pricing
+ - 
+ 
+      Improved pipeline
+ - 
+ 
+      Higher win rates
+ - 
+ 
+ 
+      Market growth
+ - 
+ 
+      Well positioned
+ - 
+ 
+      Will continue to grow
+ - 
+ 
+      Will improve profitability
+ - 
+Goo
+d Start in Second Quarter
+ 
+ 
+Sys
+tems and Technology
+ 
+Bill Zeitler
+Senior Vice President and Group Executive
+IBM Systems and Technology
+Sys
+tems and Technology 1Q05 Performance
+ 
+1Q05 engths and Weaknesses
+Str
+ 
+ - 
+      Strengths
+ - 
+                 
+pSeries share gains
+ - 
+                 
+iSeries return to growth
+ - 
+                 
+Blades 90% growth
+ - 
+                 
+E&TS 56% growth
+ 
+ -     
+Weaknesses
+     
+ - 
+Product transitions
+ - 
+                 
+Competitive response
+ - 
+                 
+Europe
+ 
+ 
+*At constant currency
+ 
+Pro
+duct Focus Area: High Volume
+ 
+ - 
+                 
+Complete X3 rollout
+ 
+[GRAPHIC]
+ 
+ 
+ 
+ 
+ 
+Source: IDC WW FY2004-Q4 Quarterly Server Tracker and STG MI
+Rolling Four Quarter Average
+ - 
+                 
+Com
+plete X3 rollout
+ 
+ - 
+                 
+Leverage BladeCenter
+ 
+ 
+ 
+[GRAPHIC]
+ 
+Open Spec
+ 
+ 
+[LOGO]
+ 
+Source: IDC WW FY2004-Q4 Quarterly Server Tracker and STG MI
+Rolling Four Quarter Average
+Pro
+duct Focus Area: Storage
+ 
+ - 
+                 
+Ramp DS volumes
+ 
+ - 
+                 
+Differentiate with virtualization
+ 
+ - 
+                 
+Extend industry alliances
+ - 
+                 
+NetApp
+ - 
+                 
+Cisco
+ - 
+                 
+Brocade
+ - 
+                 
+LTO
+ 
+[LOGO]
+ 
+[GRAPHIC]
+Sto
+rage Marketplace
+ 
+ - 
+                 
+IBM positioned for growth
+ 
+ - 
+                 
+Technology leadership
+ 
+ - 
+                 
+Client choice
+Openness
+ - 
+                 
+Virtualization
+ - 
+                 
+ 
+ - 
+                 
+End-to-end solutions
+ 
+ - 
+                 
+Alliances
+ 
+ 
+ 
+Source: IDC WW FY2004-Q4 Quarterly Storage Tracker and STG MI Share trend calculations based on 2004 over 2003 WW factory revenue
+Pro
+duct Focus Area: zSeries
+ 
+ - 
+                 
+Security, resilience and integration
+ 
+ - 
+                 
+Drive new workload growth
+ 
+ - 
+                 
+Duplicate Linux success with Java
+ 
+ 
+ 
+ 
++Source: IDC WW FY2004-Q4 Quarterly Server Tracker and STG MI, Rolling Four Quarter Average ++IBM Internal Data
+ 
+ 
+ - 
+                 
+Sec
+urity, resilience and integration
+ 
+ - 
+                 
+Drive new workload growth
+ 
+ - 
+                 
+Duplicate Linux success with Java
+ 
+ 
+ 
+[LOGO]
+ 
+Linux Engines = Integrated Facility for Linux
+ 
+ - 
+                 
+Sec
+urity, resilience and integration
+ 
+ - 
+                 
+Drive new workload growth
+ 
+ - 
+                 
+Duplicate Linux success with Java
+ 
+ 
+[LOGO]
+ 
+Java Engines = zSeries Application Assist Processors
+Opp
+ortunities
+ 
+ - 
+                 
+Innovation Solutions
+ - 
+                 
+STG OEM and Intellectual Property
+ - 
+                 
+Deep Computing
+ - 
+                 
+Engineering & Technology Services
+ - 
+                 
+Technology Assets
+ - 
+                 
+Open Collaboration
+ - 
+                 
+Expertise
+ 
+[LOGO]
+ - 
+                 
+Inn
+ovation Solutions
+ - 
+                 
+STG OEM and Intellectual Property
+ - 
+                 
+Deep Computing
+ - 
+                 
+Engineering & Technology Services
+ 
+ - 
+Infrastructure Solutions
+                 
+ - 
+Linux
+                 
+ - 
+Grid
+                 
+ - 
+Virtualization
+                 
+ 
+ - 
+Technology
+                 
+ 
+[LOGO]
+Ser
+ver Marketplace Momentum
+ 
+ 
+[LOGO]
+ 
+Source: IDC WW FY2004-Q4 Quarterly Server Tracker and STG MI
+Sum
+mary
+ 
+ - 
+                 
+Execution focus
+ 
+ - 
+                 
+Leadership offerings
+ 
+ - 
+                 
+Positioned for growth
+ 
+Sof
+tware
+ 
+Steve Mills
+Senior Vice President and Group Executive
+IBM Software
+Sof
+tware 1Q05 Performance
+ 
+ 
+ 
+ 
+ 
+      Strength in Americas
+ - 
+      Held or gained market share in several key segments
+ - 
+      Announced intention to acquire Ascential
+ - 
+Sof
+tware Revenue
+ 
+ 
+ 
+*Key Middleware classified based on 2004 presentation
+Sof
+tware
+2004 Revenue = $15.1 B
+ 
+ 
+ 
+      Software Services
+ - 
+ 
+ 
+      WebSphere Family
+ - 
+ - 
+Application Server
+                 
+ - 
+Business Integration
+                 
+ - 
+Portal
+                 
+ 
+      Information Management
+ - 
+ - 
+DB2 Family / Tools
+                 
+ - 
+Content Management
+                 
+ - 
+Business Intelligence
+                 
+ - 
+Information Integration
+                 
+ 
+      Lotus Domino & Workplace
+ - 
+ 
+      Tivoli
+ - 
+ - 
+Systems Management
+                 
+ - 
+Security Management
+                 
+ - 
+Storage Management
+                 
+ 
+      Rational
+ - 
+ 
+     
+ - 
+Legacy Host Tools & Compilers
+      Communication Servers
+ - 
+      Printer Software
+ - 
+      Storage Software
+ - 
+ 
+System software for zSeries, pSeries, iSeries, and xSeries servers
+ -     
+ 
+1Q05 engths and Weaknesses
+Str
+ 
+ 
+Americas growth
+ - 
+                 
+ 
+Growth in key products
+ - 
+                 
+ 
+More pronounced mix to small transactions
+ - 
+                 
+ 
+ 
+Country weakness  Germany, France, Italy, Japan
+ - 
+                 
+ 
+Deal slippage
+ - 
+                 
+ 
+Financial Services sector weakness after strong 4Q04
+ - 
+                 
+2005 ions to Drive Sustained Growth
+Act
+ 
+Increased specialist sales teams
+ - 
+                 
+Shifting 700+ sales resources to product specialty roles
+ - 
+                 
+400+ shifted in 1Q05
+ - 
+                 
+ 
+Increased competitive focus teams
+ - 
+                 
+Sales / technical sales / laboratory teams
+ - 
+                 
+ 
+Increased Lab Services teams
+ - 
+                 
+Proofs of concept
+ - 
+                 
+Deployment
+ - 
+                 
+Premium support
+ - 
+                 
+ 
+Refocused telesales teams
+ - 
+                 
+Opportunity identification for cross selling / upselling
+ - 
+                 
+Renewals, emphasizing the value of ongoing development
+ - 
+                 
+roved partner programs / reach
+ - 
+                 
+Imp
+Over 8,000 Business Partners
+ - 
+                 
+Supported by in-country IBM sales resources
+ - 
+                 
+ 
+Increased local marketing spending
+ - 
+                 
+40  50 events per week
+ - 
+                 
+Focused on lead generation, closings
+ - 
+                 
+Joint marketing with Business Partners
+ - 
+                 
+ 
+Improved industry focus
+ - 
+                 
+Industry alignment of solution teams across IBM
+ - 
+                 
+PartnerWorld Industry Networks
+ - 
+                 
+Evo
+lution Towards Middleware
+ 
+IBM
+Ranked #1 or #2 in the Majority of These Growth Segments
+ 
+ 
+ 
+ 
+Source:  IBM analysis based on Industry Reports / Market Research, 5/05
+Str
+ategic Acquisitions to Drive Growth
+ 
+ 
+Lev
+erage Partner Ecosystem
+ 
+      ISVs
+ - 
+      100+ Global ISVs
+ - 
+      2,000+ Regional ISVs
+ - 
+ 
+      System Integrators
+ - 
+      75+ Global SIs
+ - 
+      2,300+ Regional SIs
+ - 
+ 
+      Resellers
+ - 
+      2,500+ Value Added Resellers
+ - 
+      1,000+ Software Resellers
+ - 
+ 
+ 
+ 
+ 
+Sum
+mary
+ 
+      Invest in Development
+ - 
+ 
+      Acquire
+ - 
+ 
+      Invest in Sales and Marketing
+ - 
+ 
+Result
+      Profitable, well protected install base
+ - 
+      Renewal streams accelerating
+ - 
+      New placements continue to drive growth
+ - 
+ 
+ 
+ 
+ 
+ 
+Glo
+bal Integration
+ 
+Bob Moffat
+Senior Vice President, Integrated Supply Chain
+IBM Corporation
+Glo
+bal Integration:  Leveraging Our Multi-national Presence for Operational Advantage
+ 
+Globally integrating operations of our company to:
+ 
+      Capitalize on economies of expertise and scale
+ - 
+ 
+      Achieve greater levels of integration and efficiency
+ - 
+ 
+      Improve responsiveness
+ - 
+Ben
+efits of Global Integration
+ 
+ 
+      Transformed administrative-intensive     value add
+ - 
+ 
+      Optimized sourcing for sustainable competitive advantage
+ - 
+ 
+      Common processes and enabling technologies
+ - 
+ 
+      Leveraging expertise in BTO engagements
+ - 
+ 
+      Consolidated operations worldwide for 10-15% synergies
+ - 
+ 
+      Consolidated administrative and transaction processing in global centers in Malaysia, Slovakia, Spain and Brazil
+ - 
+ 
+      Redirected resources to higher value client support roles that improved sales face-time 38%
+ - 
+ 
+      Common processes and enabling technologies
+ - 
+Sup
+ply Chain as a Key Indicator of Expected Productivity Benefits as We Globally Integrate More of Our Operations
+      Steady state cost reductions; 2/3 of total IBM savings in 2004 from IGS
+ - 
+      Sales force spending 38% more time with clients
+ - 
+      Turning orders 36% faster
+ - 
+ 
+Executed Lenovo (2X) in half the time of Hitachi divestiture
+ -     
+Sta
+rting Now with These Processes to Achieve Productivity Targets; Opportunity 3X the Size of Supply Chain
+Ext
+ending to Global Services
+ 
+ 
+      Reduce cost by optimizing sourcing for sustainable competitive advantage
+ - 
+ 
+      Globally integrate service delivery
+ - 
+ 
+      Optimize managing and deploying resources on a global basis
+ - 
+Glo
+bally Integrating Service Delivery
+ 
+ 
+      Delivery model fosters a direct local relationship with client while leveraging a global skill base
+ - 
+ 
+      Balanced resources in 34 countries; nearly evenly split between low-cost delivery centers and locations close to client
+ - 
+Man
+aging and Deploying Business Consulting Services Resources Faster and More Efficiently
+ 
+ 
+      Full visibility of global talent pool; IBM and network of suppliers
+ - 
+ 
+Dynamic searches based on skill, availability and cost
+ -     
+ 
+      Engagements staffed 20% percent faster
+ - 
+ 
+      Ability to weigh staffing alternatives to improve profitability
+ - 
+Sum
+mary
+ 
+ 
+Globally integrating the company
+ - 
+                 
+ 
+         Demonstrated traction in supply chain
+ - 
+ 
+         Rapidly applying to more processes
+ - 
+ 
+         Extending to delivery in Global Services
+ - 
+ 
+Managing and deploying global capabilities more effectively
+ - 
+                 
+ 
+Creating a flatter operating model with more resources working with clients
+ - 
+                 
+Sal
+es & Distribution
+ 
+Doug Elix
+Senior Vice President and Group Executive
+IBM Sales and Distribution
+IBM
+is Targeting Growth Where Technology Drives the Creation of Business Value
+ 
+      Solutions (Business and Infrastructure)
+ - 
+ 
+Solves a client's business or IT problem through a combination of technology and high-value services with one or more offerings from one or more companies
+ - 
+                 
+ 
+      Business Performance Transformation Services (BPTS)
+ - 
+ 
+Focuses on transforming clients' business processes to drive business performance improvements
+ - 
+                 
+ 
+      Emerging Business Opportunities (EBOs)
+ - 
+ 
+Telecommunications, Retail, Information-Based Medicine
+ - 
+                 
+ 
+      Emerging Countries
+ - 
+ 
+China, India, Brazil, and Russia
+ - 
+                 
+Pur
+suing the Solutions Opportunity
+ 
+Cra
+fting and Delivering Business and Infrastructure Solutions
+ 
+Business Solutions:
+ 
+      45 solutions currently deployed
+ - 
+ 
+      Industry Specific Solutions:
+ - 
+Targeted solely to a specific industry issue
+ -   
+ 
+Multi-Industry Solutions:
+ -     
+that is common to multiple industries
+ -    Issue
+ 
+      ISV Solutions:
+ - 
+Solve a client's issue with a specific ISV solution
+ -   
+ 
+ 
+Infrastructure Solutions:
+ 
+ - 
+      16 infrastructure "scenarios"
+ 
+ - 
+      Solutions for 9 of 16 scenarios now deployed
+ 
+ - 
+      Cross-industry:
+Multiple industries/minimal tailoring
+ -   
+ 
+Address top customer needs:
+Business Resilience, IT Optimization, Information Insights, and Business Flexibility
+ -   
+Bus
+iness and Infrastructure Solutions:
+ 
+      440 business solution specialists deployed
+ - 
+ 
+110 infrastructure solution specialists deployed
+ -     
+ 
+      24,000 delivery professionals
+ - 
+Wit
+h BPTS, We See an Opportunity to Broaden Our Addressable Market by up to $500 Billion
+ 
+ 
+ 
+ 
+ 
+ 
+Sei
+zing Innovation to Grow
+ 
+Telco Initiative:
+ 
+Take advantage of solutions trends in Telco marketplace, particularly around network transformation and order-to-cash
+ - 
+           
+ 
+Deploy resources into emerging countries
+ - 
+           
+ 
+ 
+ 
+Retail EBO:
+ 
+Establish the IBM Store Integration Framework as the leading operating environment in the retail store
+ - 
+           
+ 
+Build ecosystem of Business Partners and establish IBM as the trusted advisor for store-based innovation and transformation
+ - 
+           
+ 
+ 
+Information-based Medicine EBO
+ 
+Advance relationships with research institutions and policymakers shaping new healthcare agenda
+ - 
+           
+ 
+Develop solutions to integrate medical and clinical data
+ - 
+           
+ 
+Build ecosystem with medical imaging manufacturers and clinical information application providers
+ - 
+           
+IBM
+Revenue has Grown More Rapidly in Emerging Countries than in Established Markets and Faster than the Opportunity
+ 
+ 
+ 
+Del
+ivering Value in Emerging Countries
+ 
+ 
+ 
+ 
+Shi
+fting Resources to Capture Growth
+ 
+      Emerging Countries
+ - 
+ 
+      Global Resourcing
+ - 
+ 
+ 
+ 
+      Emerging Business Opportunities
+ - 
+ 
+ 
+ 
+Shi
+fting Resources to Capture Growth
+ 
+ - 
+      Business Performance Transformation Services
+ 
+ 
+ 
+ - 
+      Solutions
+ 
+ 
+New
+Model Moves Critical Resources Closer to the Client, Lowers the IBM Integration Point and Enables Integration Where It Counts
+ 
+Sum
+mary
+ 
+IBM is targeting growth where technology drives the creation of business value
+ - 
+           
+ 
+We have crafted business and infrastructure solutions that differentiate our ability to create value for our clients
+ - 
+           
+ 
+We have heavily invested in new growth opportunities
+ - 
+                 
+ 
+Business and Infrastructure Solutions
+ -   
+ 
+Business Performance Transformation Services
+ -   
+ 
+Emerging Markets
+ -   
+ 
+    Emerging Business Opportunities
+ - 
+ 
+      We have increased our efficiency and effectiveness in how we go to market
+ - 
+Non
+-GAAP Financial Measures
+ 
+In an effort to provide investors with additional information regarding certain financial measures as determined by generally accepted accounting principles (GAAP), the Company also discloses the following non-GAAP information which management believes provides useful information to investors:
+ 
+Management refers to growth rates at constant currency or adjusting for currency so that the business results can be viewed without the impact of changing foreign currency exchange rates, thereby facilitating period-to-period comparisons of the Company's businesses.  Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates.
+ - 
+                 
+ 
+Management's model with respect to cash from operations excludes the effect of Global Financing Receivables.  For a financing business, increasing receivables is the basis for growth.  Receivables are viewed as an investment and an income-producing asset. Therefore, management presents financing receivables as an investing activity, which has the effect of lowering cash from operations.  Management's view is that this presentation gives the investor the best perspective of cash available for investment or for distribution to shareholders.
+ - 
+                 
+agement has presented historical and forecasted retirement related income/expense excluding a one-time charge recorded in 2004 for the partial settlement of certain legal claims related to IBM's pension plan. Given the unique and non-recurring nature of this charge, management believes that presenting such financial items without the charge is useful to investors in better understanding the company's business performance. Management further believes that investors'understanding is enhanced when the year-to-year dynamics associated with pension cost is rendered explicit.  Therefore, while giving appropriate prominence to the GAAP based financial measures, the Company believes it is appropriate and useful to investors to include these non-GAAP measures.
+ - 
+                 
+Man
+agement has presented certain financial results excluding the effects of special actions in 1999 and 2002. Given the unique and non-recurring nature of these items (both gains and losses), management believes that presenting certain financial results without the effects of such actions is more representative of the company's operational performance and year-over-year dynamics.
+ - 
+                 
+Man
+ 
+Additionally, certain financial results have been restated to reflect the company's adoption of expensing of stock based compensation in 2005. However, given certain data limitations, selected financial results (gross margin and expense to revenue ratio) from 1995 2000 have been presented without the effects of equity compensation in those years.
+ - 
+                 
+ 
+Management uses return on invested capital (ROIC) as a measure of how effectively we allocate our capital and measure our profitability. Since ROIC is a measure of return on invested capital, interest expense is excluded to isolate the return earned on capital prior to payment (interest) to the debt holders.
+ - 
+                 
+Rec
+onciliation Of Gross Profit Margin (Gpm) And Expense To Revenue Ratio (E:r), Excluding Special Actions
+ 
+Rec
+onciliation Of Retirement- Related Expense
+ 
+*May not add due to rounding
+
+

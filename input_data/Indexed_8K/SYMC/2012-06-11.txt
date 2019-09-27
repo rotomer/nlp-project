@@ -1,0 +1,385 @@
+FILE:SYMC/SYMC-8K-20120611084900.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement
+On June 7, 2012, Symantec Corporation (the "Company") entered into the First Amendment to Credit Agreement with Wells Fargo Bank, National Association ("Wells Fargo"), and the lenders party thereto (the "First Amendment"). The First Amendment amends the Credit Agreement, dated as of September 8, 2010 (the "Credit Agreement"), by and among the Company, the lenders party thereto and Wells Fargo, as administrative agent, in the following material respects:
+ 
+ 
+ 
+In the ordinary course of their respective businesses, certain of the lenders party and the other parties to the Credit Agreement, as amended by the First Amendment, and their respective affiliates have engaged, and may in the future engage, in commercial banking, investment banking, financial advisory or other services with the Company and its affiliates for which they have in the past and/or may in the future receive customary compensation and expense reimbursement. Further, Citibank, N.A. and Bank of America, N.A., each a Lender, are party to certain convertible note hedge transactions and warrant transactions with the Company.
+The description of the First Amendment contained herein is qualified in its entirety by reference to the First Amendment, a copy of which is filed herewith as Exhibit 10.1 and is incorporated herein by reference.
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+The information set forth under Item 1.01 is incorporated here by reference.
+Item 8.01. Other Events.
+This Current Report on Form 8-K is also being filed for the purpose of updating the description of the risks associated with the business, financial condition, and results of operations of the Company set forth in Part I, Item 1A, of the Company's Annual Report on Form 10-K for the fiscal year ended March 30, 2012 (the "Annual Report") and filing Exhibit 12.01 as an exhibit to the Company's Registration Statement on Form S-3 (No. 333-169330).
+The Company has updated its disclosure regarding the risks associated with the Company's business, financial condition, and results of operations. The revised description of these "risk factors" is filed herewith as Exhibit 99.01 and incorporated herein by reference. The descriptions contained in Exhibit 99.01 include any material changes to and supersede the description of the risks associated with the Company's business, financial condition, and results of operations previously disclosed in "Part I, Item 1A. Risk Factors" of the Annual Report.
+The Company's computation of the ratio of earnings to fixed charges for each of the five fiscal years in the five-year period ended March 30, 2012 is filed as Exhibit 12.01 to this Current Report on Form 8-K.
+Item 9.01. Financial Statements and Exhibits.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 10.01
+, dated as of the 7th day of June, 2012 (this ""), is entered into among Symantec Corporation, a Delaware corporation (the ""), each lender party hereto designated as a "Continuing Lender" on its signature page (collectively, the ""), each lender party hereto designated as an "Exiting Lender" on its signature page (collectively, the ""), each lender party hereto designated as a "New Lender" on its signature page (collectively, the "" and, together with the Continuing Lenders, the ""), and Wells Fargo Bank, National Association, as administrative agent for the Lenders (the "").
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT
+Amendment
+Borrower
+Continuing Lenders
+Exiting Lenders
+New Lenders
+Lenders
+Administrative Agent
+A. The Borrower, the lenders party thereto and the Administrative Agent are parties to that certain Credit Agreement dated as of September 8, 2010 (as amended, restated, supplemented or otherwise modified from time to time, the ""). Capitalized terms used herein without definition shall have the meanings given to them in the Credit Agreement as they may be amended pursuant to this Amendment.
+Credit Agreement
+B. The Borrower, the Administrative Agent, the Exiting Lenders and the Lenders have agreed to make certain amendments to the Credit Agreement on the terms and conditions set forth herein.
+, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+NOW, THEREFORE
+1.1 . The following definitions are hereby added to Section 1.1 of the Credit Agreement in appropriate alphabetical order:
+Amendments to Section 1.1 Consisting of New Definitions
+""Agreement" means this Credit Agreement."
+""Debt Rating" means, as of any date of determination, the rating as determined by either Standard & Poor's Ratings Services or Moody's Investors Service, Inc., of the Borrower's non-credit-enhanced, senior unsecured long-term debt."
+""First Amendment" shall mean the First Amendment to Credit Agreement, dated as of June 7, 2012, among the Borrower, the Lenders party thereto, and the Administrative Agent."
+""First Amendment Effective Date" has the meaning given to such term in Article III of the First Amendment."
+1.2 .
+Amendments to Section 1.1 Consisting of Modifications to Existing Definitions
+ 
+"Applicable Rate" means, for any day, with respect to any Eurodollar Loan, any ABR Loan (including any Swingline Loan) or the facility fees payable hereunder, as the case may be, the applicable rate per annum set forth across from the caption "Applicable Rate for Eurodollar Loans", "Applicable Rate for ABR Loans and Swingline Loans" or "Facility Fee" in the table below, as the case may be, based upon the Debt Rating, as more fully described below; that (i) if the respective Debt Ratings issued by Standard & Poor's Ratings Services and Moody's Investors Service, Inc. differ by one level, then the pricing level for the higher of such Debt Ratings shall apply (with the Debt Rating for pricing level 1 being the highest and the Debt Rating for pricing level 5 being the lowest); (ii) if there is a split in such Debt Ratings of more than one level, then the pricing level that is one level lower than the pricing level of the higher Debt Rating shall apply; (iii) if the Borrower has only one such Debt Rating, the pricing level that is one level lower than that of such Debt Rating shall apply; and (iv) if the Borrower does not have any such Debt Ratings, pricing level 5 shall apply.
+provided
+ 
+Beginning on the First Amendment Effective Date until changed as provided below, the Applicable Rate shall be based upon pricing level 3. Thereafter, each change in the Applicable Rate resulting from a publicly announced change in the Debt Rating shall be effective, in the case of an upgrade, during the period commencing on the date of delivery by the Borrower to the Administrative Agent of notice thereof pursuant to Section 5.1(e) and ending on the date immediately preceding the effective date of the next such change and, in the case of a downgrade, during the period commencing on the date of the public announcement thereof and ending on the date immediately preceding the effective date of the next such change."
+ 
+""FATCA" means Sections 1471 through 1474 of the Code, as of the First Amendment Effective Date (or any amended version that is substantively comparable) and any current or future regulations or official interpretations thereof."
+""Maturity Date" means June 7, 2017."
+ 
+"; provided that, notwithstanding anything herein to the contrary, (x) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith and (y) all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall in each case be deemed to be a "Change in Law," regardless of the date enacted, adopted or issued."
+ 
+ 
+", unless such Lender notifies the Administrative Agent and the Borrower in writing that such failure is the result of such Lender's determination that one or more conditions precedent to funding (each of which conditions precedent, together with any applicable default, shall be specifically identified in such writing) has not been satisfied,"
+ 
+ 
+"(provided that such Lender shall cease to be a Defaulting Lender pursuant to this clause (c) upon receipt of such confirmation by the Administrative Agent and the Borrower)"
+ 
+"(d) any U.S. federal withholding Taxes imposed under FATCA."
+ 
+1.3 .
+Amendments to Section 2.17 (Taxes)
+ 
+"(g) If a payment made to a Lender under any Loan Document would be subject to U.S. federal withholding Tax imposed by FATCA if such Lender were to fail to comply with the applicable reporting requirements of FATCA (including those contained in Section 1471(b) or 1472(b) of the Code, as applicable), such Lender shall deliver to the Borrower and the Administrative Agent at the time or times prescribed by law and at such time or times reasonably requested by the Borrower or the Administrative Agent such documentation prescribed by applicable law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) and such additional documentation reasonably requested by the Borrower or the Administrative Agent as may be necessary for the Borrower and the Administrative Agent to comply with their obligations under FATCA and to determine that such Lender has complied with such Lender's obligations under FATCA or to determine the amount to deduct and withhold from such payment. Solely for purposes of this clause (g), "FATCA" shall include any amendments made to FATCA after the date of this Agreement."
+ 
+"(h) Each Lender shall severally indemnify the Administrative Agent, within 10 days after demand therefor, for (i) any Indemnified Taxes or Other Taxes attributable to such Lender (but only to the extent that the Borrower has not already indemnified the Administrative Agent for such Indemnified Taxes and without limiting the obligation of the Borrower to do so), (ii) any Taxes attributable to such Lender's failure to comply with the provisions of Section 9.4(c) relating to the maintenance of a Participant Register and (iii) any Excluded Taxes attributable to such Lender, in each case, that are payable or paid by the Administrative Agent in connection with any Loan Document, and any reasonable expenses arising therefrom or with respect thereto, whether or not such Taxes were correctly or legally imposed or asserted by the relevant Governmental Authority. A certificate as to the amount of such payment or liability delivered to any Lender by the Administrative Agent shall be conclusive absent manifest error. Each Lender hereby authorizes the Administrative Agent to set off and apply any and all amounts at any time owing to such Lender under any Loan Document or otherwise payable by the Administrative Agent to the Lender from any other source against any amount due to the Administrative Agent under this Section 2.17(h)."
+1.4 . Section 2.20(a) of the Credit Agreement is hereby amended by replacing the period at the end of the section with the following:
+Amendments to Section 2.20 (Increase in the Aggregate Commitments)
+" the aggregate amount of Commitment reductions effected in accordance with Section 2.9."
+minus
+ 
+1.5 . Section 3.4(b) of the Credit Agreement is hereby amended by replacing the date therein with "March 30, 2012".
+Amendments to Section 3.4 (Financial Condition; No Material Adverse Change)
+1.6 . Article III of the Credit Agreement is hereby further amended by inserting the following new Section 3.12 in proper numerical order:
+Insertion of Section 3.12
+"Section 3.12 Margin Regulations. No Loan Party is engaged principally, or as one of its important activities, in the business of extending credit for the purpose of purchasing or carrying margin stock (as defined in Regulation U of the Board of Governors of the Federal Reserve System). No proceeds of the Loans will be used, directly or indirectly, to purchase or carry any margin stock (as defined in Regulation U of the Board of Governors of the Federal Reserve System) or to extend credit for such purpose or for any other purpose that would violate or be inconsistent with Regulations T, U or X of the Board of Governors of the Federal Reserve System or any provision of the Securities Exchange Act of 1934."
+1.7 . Section 5.1 of the Credit Agreement is hereby amended by redesignating clauses (e) and (f) thereof as clauses (f) and (g), respectively, and inserting the following new clause (e):
+Amendments to Section 5.1 (Financial Statements; Ratings Change and Other Information)
+"(e) promptly after (and in any event within five Business Days after) the Borrower obtaining knowledge thereof, written notice of any decrease in or cancellation of any Debt Rating;"
+1.8 .
+Amendments to Section 9.4 (Successors and Assigns)
+ 
+ 
+ 
+", and provided further that the Borrower shall be deemed to have consented to any such assignment unless it shall object thereto by written notice to the Administrative Agent within five Business Days after having received notice thereof;"
+ 
+"or an Affiliate of any such Lender."
+ 
+ 
+"(iii) Each Lender that sells a participation shall, acting solely for this purpose as a non-fiduciary agent of the Borrower, maintain a register on which it enters the name and address of each Participant and the principal amounts (and stated interest) of each Participant's interest in the Loans or other obligations under the Loan Documents (the "Participant Register"); provided that no Lender shall have any obligation to disclose all or any portion of the Participant Register (including the identity of any Participant or any information relating to a Participant's interest in any commitments, loans or its other obligations under any Loan Document) to any Person except to the extent that such disclosure is necessary to establish that such commitment, loan or other obligation is in registered form under Section 5f.103-1(c) of the United States Treasury Regulations. The entries in the Participant Register shall be conclusive absent manifest error, and such Lender shall treat each Person whose name is recorded in the Participant Register as the owner of such participation for all purposes of this Agreement notwithstanding any notice to the contrary. For the avoidance of doubt, the Administrative Agent (in its capacity as Administrative Agent) shall have no responsibility for maintaining a Participant Register."
+1.9 . Schedule 2.1 to the Credit Agreement is hereby amended in its entirety in the form of attached hereto.
+Amendment to Schedule 2.1 (Commitments and Notice Information)
+Schedule 2.1
+2.1 Each of the parties hereto acknowledges and agrees that (i) the Exiting Lenders desire to sell and assign their Commitments to the New Lenders and to certain of the Continuing Lenders and to be relieved of their obligations under the Credit Agreement; (ii) certain of the Continuing Lenders desire to purchase and assume portions of the Commitments of the Exiting Lenders and/or increase their existing Commitments; and (iii) the New Lenders desire to purchase and assume portions of the Commitments of the Exiting Lenders and/or provide new Commitments and to become parties to the Credit Agreement. As an administrative convenience and to avoid the necessity that each Lender enter into separate Assignment and Assumptions, the parties hereto acknowledge and agree that effective as of the First Amendment Effective Date, (A) each Exiting Lender shall be deemed to have sold and assigned to the Continuing Lenders increasing their Commitments (the "") and the New Lenders its Commitment and Loans that are outstanding on the First Amendment Effective Date, (B) the Continuing Lenders decreasing their Commitments (the "") shall be deemed to have sold and assigned to the Increasing Lenders and the New Lenders a portion of their Commitments and Loans that are outstanding on the First Amendment Effective Date and (C) the Increasing Lenders and the New Lenders shall be deemed to have purchased and assumed the Commitments and Loans of the Exiting Lenders and the Decreasing Lenders, in each case in amounts such that the Commitments of the Lenders after giving effect hereto shall be as reflected on attached hereto.
+Increasing Lenders
+Decreasing Lenders
+Schedule 2.1
+ 
+2.2 Effective on the First Amendment Effective Date, (i) each New Lender shall be deemed to be a party to and a "Lender" under the Credit Agreement and shall be bound by all of the terms and provisions applicable to Lenders under the Credit Agreement; (ii) each New Lender shall deliver (by wire transfer) to the Administrative Agent cash in an amount equal to such New Lender's Applicable Percentage of the aggregate Loans outstanding on the First Amendment Effective Date, after giving effect hereto; (iii) each Increasing Lender shall deliver (by wire transfer) to the Administrative Agent cash in an amount sufficient to provide for such Continuing Lender to hold its increased Applicable Percentage of the aggregate Loans outstanding on the First Amendment Effective Date; and (iv) the Administrative Agent shall distribute (by wire transfer) such cash received by it from the New Lenders and the Increasing Lenders to the Exiting Lenders and the Decreasing Lenders, in each case in amounts sufficient to repay fully the principal amount of Loans owing to the Exiting Lenders as of the First Amendment Effective Date and to ensure that each such Lender will hold its Applicable Percentage of the aggregate Loans outstanding on the First Amendment Effective Date.
+2.3 Upon the Administrative Agent's receipt of the interest and facility fees required to be paid by the Borrower on the First Amendment Effective Date, the Administrative Agent shall distribute to each of the Continuing Lenders and Exiting Lenders their respective pro rata shares of such interest and facility fees based on their respective Applicable Percentages prior to giving effect to this Amendment.
+2.4 Each Exiting Lender and Decreasing Lender hereby (i) warrants that it is the legal and beneficial owner of the interest being assigned by it pursuant to free and clear of any adverse claim and that its Commitment, and the outstanding balances of its Loans, in each case without giving effect to assignments thereof that have not become effective, are as set forth on attached hereto; (ii) warrants that it has full power and authority, and has taken all action necessary, to execute and deliver this Amendment and to consummate the transactions contemplated hereby; and (iii) except as set forth in clauses (i) and (ii), makes no representation or warranty and assumes no responsibility with respect to any statements, warranties or representations made in or in connection with the Credit Agreement, or the execution, legality, validity, enforceability, genuineness, sufficiency or value of the Credit Agreement, any other Loan Document or any other instrument or document furnished pursuant thereto, or the financial condition of the Borrower or any Subsidiary or the performance or observance by the Borrower or any Subsidiary of any of its obligations under the Credit Agreement, any other Loan Document or any other instrument or document furnished pursuant thereto.
+Section 2.1
+Schedule 2.4
+2.5 Each New Lender and Increasing Lender (i) represents and warrants that (A) it is legally authorized to enter into this Amendment and to consummate the transactions contemplated by ; (B) it is sophisticated with respect to decisions to acquire assets of the type represented by the Commitments and Loans purchased by it pursuant to and either it or the Person exercising discretion in making its decision to enter into this Amendment and the transactions contemplated by is experienced in acquiring assets of such type; (C) it has received a copy of the Credit Agreement, together with copies of the most recent financial statements referred to in Section 3.4(a) thereof or delivered pursuant to Section 5.1 thereof and such other documents and information as it has deemed appropriate to make it owns credit analysis and decision to enter into this Amendment and the transactions contemplated by ; (D) it has, independently and without reliance upon the Administrative Agent, any
+Section 2.1
+Section 2.1
+Section 2.1
+Section 2.1
+ 
+other Lender or any Exiting Lender and based on such documents and information as it has deemed appropriate, made its own credit analysis and decision to enter into this Amendment and the transactions contemplated by ; and (E) if it is a Foreign Lender, it has previously delivered to the Administrative Agent any documentation required to be delivered by it pursuant to the terms of the Credit Agreement, duly completed and executed; (ii) agrees that (A) it will independently and without reliance upon the Administrative Agent, any other Lender or any Exiting Lender and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Credit Agreement; and (B) it will perform in accordance with their terms all the obligations that by the terms of the Credit Agreement are required to be performed by it as a Lender; and (iii) appoints and authorizes the Administrative Agent to take such action as agent on its behalf and to exercise such powers under the Credit Agreement as delegated to the Administrative Agent, by the terms thereof, together with such powers as are reasonably incidental thereto.
+Section 2.1
+2.6 Notwithstanding anything to the contrary contained in the Credit Agreement, the parties acknowledge and agree that this Article II shall be deemed to satisfy all requirements set forth in Section 9.4 of the Credit Agreement for the assignment and assumption of the Commitments, Loans and related rights and obligations being sold and assigned pursuant hereto, including the requirement that a separate Assignment and Assumption be entered into in connection with each such sale and assignment.
+2.7 Effective on the First Amendment Effective Date, the participations in the Swingline Loans under the Credit Agreement shall be adjusted to give effect to any change in the Applicable Percentage of any Lender as a result of this Amendment.
+2.8 THE PARTIES FURTHER ACKNOWLEDGE AND AGREE THAT THE EXITING LENDERS ARE ENTERING INTO THIS AMENDMENT SOLELY FOR THE PURPOSES OF THIS AND SHALL NOT BE DEEMED TO BE BOUND BY ANY TERM OR PROVISION OF THIS AMENDMENT OTHER THAN THIS .
+ARTICLE II
+ARTICLE II
+This Amendment shall become effective as of the date (such date being referred to as the "") when, and only when, each of the following conditions precedent shall have been satisfied:
+First Amendment Effective Date
+(a) The Administrative Agent (or its counsel) shall have received from each party hereto either (i) a counterpart of this Amendment signed on behalf of such party or (ii) written evidence satisfactory to the Administrative Agent (which may include facsimile or other electronic image scan transmission of a signed signature page of this Amendment) that such party has signed a counterpart of this Amendment.
+(b) The Administrative Agent shall have received a favorable written opinion (addressed to the Administrative Agent and the Lenders and dated the First Amendment Effective Date) of Fenwick & West LLP, counsel for the Borrower, covering such other matters relating to the Borrower, this Amendment, the other Loan Documents or the transactions contemplated by this Amendment and the other Loan Documents as the Administrative Agent or the Lenders shall reasonably request. The Borrower hereby requests such counsel to deliver such opinion.
+ 
+(c) The Administrative Agent shall have received such documents and certificates as the Administrative Agent or its counsel may reasonably request relating to the organization, existence and good standing of the Borrower, the authorization of the transactions contemplated hereby and any other legal matters relating to the Borrower, this Amendment, the other Loan Documents or the transactions contemplated hereby and by the other Loan Documents, all in form and substance satisfactory to the Administrative Agent and its counsel.
+(d) The Administrative Agent shall have received a certificate, dated the First Amendment Effective Date and signed on behalf of the Borrower by the President, a Vice President or a Financial Officer of the Borrower, confirming compliance with the conditions set forth in paragraphs (a) and (b) of Section 4.2 of the Credit Agreement.
+(e) The Administrative Agent shall have received a certificate of each Guarantor, executed on behalf of such Guarantor, certifying to the continuing full force and effect, both immediately before and after the First Amendment Effective Date, of the Guaranty.
+(f) The representations and warranties set forth in shall be true and correct on and as of the First Amendment Effective Date.
+Article IV
+(g) No Default shall have occurred and be continuing both immediately before and after the First Amendment Effective Date.
+(h) The Administrative Agent shall have received (i) all accrued and unpaid interest and fees owing to the Exiting Lenders and Continuing Lenders as of the First Amendment Effective Date and (ii) all fees and other amounts due and payable on or prior to the First Amendment Effective Date, including, to the extent invoiced, reimbursement or payment of all out-of-pocket expenses (including fees, charges and disbursements of counsel) required to be reimbursed or paid by any of the Borrower under the Credit Agreement, under this Amendment or under any other Loan Document.
+(i) The Administrative Agent shall have received such documentation and information as is reasonably requested by any Lender about the Borrower and the Guarantors in respect of applicable "know your customer" and anti-money laundering rules and regulations, including the USA PATRIOT Act.
+The Borrower represents and warrants to the Administrative Agent and the Lenders that (i) each of the representations and warranties contained in the Credit Agreement and the other Loan Documents are true and correct in all material respects on and as of the First Amendment Effective Date, both immediately before and after giving effect to this Amendment (except to the extent any such representation or warranty is expressly stated to have been made as of a specific
+ 
+date, in which case such representation or warranty shall be true and correct in all material respects as of such date, and except that the representations and warranties contained in Section 3.4(a) of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to Section 5.1 thereof), (ii) this Amendment has been duly authorized, executed and delivered by the Borrower and constitutes the legal, valid and binding obligation of the Borrower enforceable against its in accordance with its terms and (iii) no Default shall have occurred and be continuing on the First Amendment Effective Date, both immediately before and after giving effect to this Amendment.
+The Borrower hereby confirms and agrees that after giving effect to this Amendment, the Credit Agreement and the other Loan Documents remain in full force and effect and enforceable against it in accordance with their respective terms and shall not be discharged, diminished, limited or otherwise affected in any respect, and the amendments contained herein shall not, in any manner, be construed to constitute payment of, or impair, limit, cancel or extinguish, or constitute a novation in respect of, the Obligations of the Borrower evidenced by or arising under the Credit Agreement and the other Loan Documents, which shall not in any manner be impaired, limited, terminated, waived or released, but shall continue in full force and effect. The Borrower represents and warrants to the Lenders that it has no knowledge of any claims, counterclaims, offsets, or defenses to or with respect to its obligations under the Loan Documents, or if the Borrower has any such claims, counterclaims, offsets, or defenses to the Loan Documents or any transaction related to the Loan Documents, the same are hereby waived, relinquished, and released in consideration of the execution of this Amendment. This acknowledgment and confirmation by the Borrower is made and delivered to induce the Administrative Agent and the Lenders to enter into this Amendment. The Borrower acknowledges that the Administrative Agent and the Lenders would not enter into this Amendment in the absence of the acknowledgment and confirmation contained herein.
+6.1 . This Amendment shall be governed by and construed and enforced in accordance with the laws of the State of New York.
+Governing Law
+6.2 . Except as expressly amended hereby, the Credit Agreement shall continue in full force and effect in accordance with the provisions thereof on the date hereof. As used in the Credit Agreement, "hereinafter," "hereto," "hereof," and words of similar import shall, unless the context otherwise requires, mean the Credit Agreement after amendment by this Amendment. Any reference to the Credit Agreement or any of the other Loan Documents herein or in any such documents shall refer to the Credit Agreement and Loan Documents as amended hereby. This Amendment is limited as specified and shall not constitute or be deemed to constitute an amendment, modification or waiver of any provision of the Credit Agreement except as expressly set forth herein. This Amendment shall constitute a Loan Document under the terms of the Credit Agreement.
+Full Force and Effect
+ 
+6.3 . The Borrower agrees on demand (i) to pay all reasonable fees and expenses of counsel to the Administrative Agent, and (ii) to reimburse the Administrative Agent for all reasonable out-of-pocket costs and expenses, in each case, in connection with the preparation, negotiation, execution and delivery of this Amendment and the other Loan Documents delivered in connection herewith.
+Expenses
+6.4 . To the extent any provision of this Amendment is prohibited by or invalid under the applicable law of any jurisdiction, such provision shall be ineffective only to the extent of such prohibition or invalidity and only in any such jurisdiction, without prohibiting or invalidating such provision in any other jurisdiction or the remaining provisions of this Amendment in any jurisdiction.
+Severability
+6.5 . This Amendment shall be binding upon, inure to the benefit of and be enforceable by the respective successors and permitted assigns of the parties hereto.
+Successors and Assigns
+6.6 . The headings of the various sections and subsections of this Amendment have been inserted for convenience only and shall not in any way affect the meaning or construction of any of the provisions hereof. The provisions of Section 1.3 of the Credit Agreement are hereby incorporated by reference as if fully set forth herein.
+Construction
+6.7 . This Amendment may be executed in any number of counterparts and by different parties hereto on separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or by electronic mail in a .pdf or similar file shall be effective as delivery of a manually executed counterpart of this Amendment.
+Counterparts
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 12.01
+ 
+ 
+
+Exhibit 99.01
+Risk Factors
+A description of the risk factors associated with our business is set forth below. The list is not exhaustive and you should carefully consider these risks and uncertainties before investing in our common stock.
+Fluctuations in demand for our products and services are driven by many factors, and a decrease in demand for our products could adversely affect our financial results.
+We are subject to fluctuations in demand for our products and services due to a variety of factors, including general economic conditions, competition, product obsolescence, technological change, shifts in buying patterns, financial difficulties and budget constraints of our current and potential customers, levels of broadband usage, awareness of security threats to IT systems, and other factors. While such factors may, in some periods, increase product sales, fluctuations in demand can also negatively impact our product sales. If demand for our products and solutions declines, whether due to general economic conditions or a shift in buying patterns, our revenues and margins would likely be adversely affected.
+If we are unable to develop new and enhanced products and services that achieve widespread market acceptance, or if we are unable to continually improve the performance, features, and reliability of our existing products and services or adapt our business model to keep pace with industry trends, our business and operating results could be adversely affected.
+Our future success depends on our ability to respond to the rapidly changing needs of our customers by developing or introducing new products, product upgrades, and services on a timely basis. We have in the past incurred, and will continue to incur, significant research and development expenses as we strive to remain competitive. New product development and introduction involves a significant commitment of time and resources and is subject to a number of risks and challenges including:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If we are not successful in managing these risks and challenges, or if our new products, product upgrades, and services are not technologically competitive or do not achieve market acceptance, our business and operating results could be adversely affected.
+We operate in a highly competitive environment, and our competitors may gain market share in the markets for our products that could adversely affect our business and cause our revenues to decline.
+We operate in intensely competitive markets that experience rapid technological developments, changes in industry standards, changes in customer requirements, and frequent new product introductions and improvements. If we are unable to anticipate or react to these competitive challenges or if existing or new competitors gain market share in any of our markets, our competitive position could weaken and we could experience a decline in our sales that could adversely affect our business and operating results. To compete successfully, we must maintain an innovative research and development effort to develop new products and services and enhance existing products and services, effectively adapt to changes in the technology or product rights held by our competitors, appropriately respond to competitive strategies, and effectively adapt to technological changes and changes in the ways that our information is accessed, used, and stored within our enterprise and consumer markets. If we are unsuccessful in responding to our competitors or to changing technological and customer demands, our competitive position and our financial results could be adversely affected.
+Our traditional competitors include independent software vendors that offer software products that directly compete with our product offerings. We expect that competition will intensify as a result of future software industry consolidation. In addition to competing with these vendors directly for sales to end-users of our products, we compete with them for the opportunity to have our products bundled with the product offerings of our strategic partners such as computer hardware OEMs and ISPs. Our competitors could gain market share from us if any of these strategic partners replace our products with the products of our competitors or if these partners more actively promote our competitors' products than our products. In addition, software vendors who have bundled our products with theirs may choose to bundle their software with their own or other vendors' software or may limit our access to standard product interfaces and inhibit our ability to develop products for their platform. In the future, further product development by these vendors could cause our software applications and services to become redundant, which could significantly impact our sales and financial results.
+We face growing competition from network equipment, computer hardware manufacturers, large operating system providers and other technology companies. These firms are increasingly developing and incorporating into their products data protection and storage and server management software that competes at some levels with our product offerings. Our competitive position could be adversely affected to the extent that our customers perceive the functionality incorporated into these products as replacing the need for our products.
+Security protection is also offered by some of our competitors at prices lower than our prices or, in some cases is offered free of charge. Some companies offer the lower-priced or free security products within their computer hardware or software products that we believe are inferior to our products and SaaS offerings. Our competitive position could be adversely affected to the extent that our customers perceive these security products as replacing the need for more effective, full featured products and services such as those that we provide. The expansion of these competitive trends could have a significant negative impact on our sales and financial results by causing, among other things, price reductions of our products, reduced profitability and loss of market share.
+Many of our competitors have greater financial, technical, sales, marketing, or other resources than we do and consequently may have the ability to influence customers to purchase their products instead of ours. Further consolidation within our industry or other changes in the competitive environment, such as Intel Corporation's acquisition of McAfee, could result in larger competitors that compete with us on several levels. We also face competition from many smaller companies that specialize in particular segments of the markets in which we compete.
+Our business models present execution and competitive risks.
+In recent years, our SaaS offerings have become increasingly critical in our business. Our competitors are rapidly developing and deploying SaaS offerings for consumers and business customers. Pricing and delivery models are evolving. Devices and form factors influence how users access services in the cloud. We are devoting significant resources to develop and deploy our own SaaS strategies. We cannot assure you that our investments in and development of SaaS offerings will achieve the expected returns for us or that we will be able to compete successfully in the marketplace. In addition to software development costs, we are incurring costs to build and maintain infrastructure to support SaaS offerings. These costs may reduce the operating margins we have previously achieved.
+Whether we are successful in this business model depends on our execution in a number of areas, including:
+ 
+ 
+Our increasing focus on the delivery of products in an appliance form factor creates new business and financial risks.
+During fiscal 2012, we began shipping more products to customers in an appliance form factor, and we expect this trend to continue. The delivery of solutions in the form of appliances creates new business and financial risks, including the following:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We cannot assure you that we will continue to have success in our appliance business.
+Defects or disruptions in our SaaS offerings could reduce demand for our services and subject us to substantial liability.
+Our SaaS offerings may contain errors or defects that users identify after they begin using them that could result in unanticipated service interruptions, which could harm our reputation and our business. Since our customers use our SaaS offerings for mission-critical protection from threats to electronic information, endpoint devices, and computer networks, any errors, defects, disruptions in service or other performance problems with our SaaS offerings could significantly harm our reputation and may damage our customers' businesses. If that occurs, customers could elect not to renew, or delay or withhold payment to us, we could lose future sales or customers may make warranty or other claims against us, which could result in an increase in our provision for doubtful accounts, an increase in collection cycles for accounts receivable or the expense and risk of litigation.
+Risks related to the provision of our SaaS offerings could impair our ability to deliver our services and could expose us to liability, damage our brand and reputation or otherwise negatively impact our business.
+We currently serve our SaaS-based customers from hosting facilities located across the globe. Damage to, or failure of, any significant element of these hosting facilities could result in interruptions in our service, which could harm our customers and expose us to liability. Interruptions or failures in our service delivery could cause customers to terminate their subscriptions with us, could adversely affect our renewal rates, and could harm our ability to attract new customers. Our business would also be harmed if our customers believe that our SaaS offerings are unreliable. As we continue to offer more of our software products in a SaaS-based delivery model, all of these risks could be exacerbated.
+Our SaaS offerings also involve the storage and transmission of large amounts of our customers' proprietary information, including sensitive and personally identifiable information. Breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us or our customers, including the potential loss or disclosure of such information or data as a result of fraud or other forms of deception, could expose us, our customers or the individuals affected to a risk of loss or misuse of this information, result in litigation and potential liability for us, damage our brand and reputation or otherwise negatively impact our business. Despite our precautions and significant ongoing investments to protect against such breaches, our security measures could be breached at any time and could result in unauthorized third parties obtaining access to our, or our customers' data. Any actual or perceived security vulnerabilities in our SaaS offerings could reduce sales, and constrain consumer and business customer adoption of our SaaS offering. In addition, the cost and operational consequences of implementing further security measures could be significant.
+If we fail to manage our sales and distribution channels effectively or if our partners choose not to market and sell our products to their customers, our operating results could be adversely affected.
+We sell our products to customers around the world through multi-tiered sales and distribution networks. Sales through these different channels involve distinct risks, including the following:
+. A significant portion of our revenues from enterprise products is derived from sales by our direct sales force to end-users. Special risks associated with direct sales include:
+Direct Sales
+ 
+ 
+ 
+. A significant portion of our revenues is derived from sales through indirect channels, including distributors that sell our products to end-users and other resellers. This channel involves a number of risks, including:
+Indirect Sales Channels
+ 
+ 
+ 
+ 
+ 
+. A significant portion of our revenues is derived from sales through our OEM partners that incorporate our products into, or bundle our products with, their products. Our reliance on this sales channel involves many risks, including:
+OEM Sales Channels
+ 
+ 
+ 
+ 
+ 
+ 
+If we fail to manage our sales and distribution channels successfully, these channels may conflict with one another or otherwise fail to perform as we anticipate, which could reduce our sales and increase our expenses as well as weaken our competitive position. Some of our distribution partners have experienced financial difficulties in the past, and if our partners suffer financial difficulties in the future because of general economic conditions or for other reasons, these partners may delay paying their obligations to us and we may have reduced sales or increased bad debt expense that could adversely affect our operating results. In addition, reliance on multiple channels subjects us to events that could cause unpredictability in demand, which could increase the risk that we may be unable to plan effectively for the future, and could result in adverse operating results in future periods.
+We are currently planning and designing information systems enhancements, and problems with the design or implementation of these enhancements could interfere with our business and operations.
+We are currently in the process of significantly enhancing our information systems, including planning and designing a new enterprise resource planning system. The implementation of significant enhancements to information systems is frequently disruptive to the underlying business of an enterprise, which may especially be the case for us due to the size and complexity of our businesses. Any disruptions relating to our systems enhancements, particularly any disruptions impacting our operations during the design or implementation periods, could adversely affect our ability to process customer orders, ship products, provide services and support to our customers, bill and track our customers, fulfill contractual obligations, and otherwise run our business. Even if we do not encounter these adverse effects, the planning, designing and implementation may be much more costly than we anticipated. If we are unable to successfully plan, design or implement the information systems enhancements as planned, our financial position, results of operations, and cash flows could be negatively impacted.
+We have grown, and may continue to grow, through acquisitions, which gives rise to risks and challenges that could adversely affect our future financial results.
+We have in the past acquired, and we expect to acquire in the future, other businesses, business units, and technologies. Acquisitions can involve a number of special risks and challenges, including:
+ 
+ 
+ 
+ 
+ 
+ 
+If integration of our acquired businesses is not successful, we may not realize the potential benefits of an acquisition or suffer other adverse effects. To integrate acquired businesses, we must implement our technology systems in the acquired operations and integrate and manage the personnel of the acquired operations. We also must effectively integrate the different cultures of acquired business organizations into our own in a way that aligns various interests, and may need to enter new markets in which we have no or limited experience and where competitors in such markets have stronger market positions.
+Any of the foregoing, and other factors, could harm our ability to achieve anticipated levels of profitability from our acquired businesses or to realize other anticipated benefits of acquisitions.
+Our financial condition and results of operations could be adversely affected if we do not effectively manage our liabilities.
+As a result of the sale of our 1.00% convertible senior notes ("1.00% notes") in June 2006, and 2.75% senior notes ("2.75% notes") and 4.20% senior notes ("4.20% notes"), collectively referred to as the Senior Notes in September 2010, we have notes outstanding in an aggregate principal amount of $2.1 billion that mature at specific dates in calendar years 2013, 2015 and 2020, with approximately half of this indebtedness due in June 2013. In addition, we have entered into a credit facility with a borrowing capacity of $1 billion. From time to time in the future, we may also incur indebtedness in addition to the amount available under our credit facility. The maintenance of our debt levels could adversely affect our flexibility to take advantage of certain corporate opportunities and could adversely affect our financial condition and results of operations. We may be required to use all or a substantial portion of our cash balance to repay these notes on maturity unless we can obtain new financing.
+Adverse global economic events may harm our business, operating results and financial condition.
+Adverse macroeconomic conditions could negatively affect our business, operating results or financial condition under a number of different scenarios. During challenging economic times and periods of high unemployment, current or potential customers may delay or forgo decisions to license new products or additional instances of existing products, upgrade their existing hardware or operating environments (which upgrades are often a catalyst for new purchases of our software), or purchase services. Customers may also have difficulties in obtaining the requisite third-party financing to complete the purchase of our products and services. An adverse macroeconomic environment could also subject us to increased credit risk should customers be unable to pay us, or delay paying us, for previously purchased products and services. Accordingly, reserves for doubtful accounts and write-offs of accounts receivable may increase. In addition, weakness in the market for end users of our products could harm the cash flow of our distributors and resellers who could then delay paying their obligations to us or experience other financial difficulties. This would further increase our credit risk exposure and, potentially, cause delays in our recognition of revenue on sales to these customers.
+In addition, the onset or continuation of adverse economic conditions may make it more difficult either to utilize our existing debt capacity or otherwise obtain financing for our operations, investing activities (including potential acquisitions) or financing activities. Specific economic trends, such as declines in the demand for PCs, servers, and other computing devices, or softness in corporate information technology spending, could have an even more direct, and harmful, impact on our business.
+Our international operations involve risks that could increase our expenses, adversely affect our operating results, and require increased time and attention of our management.
+We derive a substantial portion of our revenues from customers located outside of the U.S. and we have significant operations outside of the U.S., including engineering, sales, customer support, and production. We plan to expand our international operations, but such expansion is contingent upon the financial performance of our existing
+international operations as well as our identification of growth opportunities. Our international operations are subject to risks in addition to those faced by our domestic operations, including:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A significant portion of our transactions outside of the U.S. are denominated in foreign currencies. Accordingly, our revenues and expenses will continue to be subject to fluctuations in foreign currency rates. We expect to be affected by fluctuations in foreign currency rates in the future, especially if international sales continue to grow as a percentage of our total sales or our operations outside the United States continue to increase.
+The level of corporate tax from sales to our non-U.S. customers is generally less than the level of tax from sales to our U.S. customers. This benefit is contingent upon existing tax regulations in the U.S. and in the countries in which our international operations are located. Future changes in domestic or international tax regulations could adversely affect our ability to continue to realize these tax benefits.
+Our products are complex and operate in a wide variety of computer configurations, which could result in errors or product failures.
+Because we offer very complex products, undetected errors, failures, or bugs may occur, especially when products are first introduced or when new versions are released. Our products are often installed and used in large-scale computing environments with different operating systems, system management software, and equipment and
+networking configurations, which may cause errors or failures in our products or may expose undetected errors, failures, or bugs in our products. Our customers' computing environments are often characterized by a wide variety of standard and non-standard configurations that make pre-release testing for programming or compatibility errors very difficult and time-consuming. In addition, despite testing by us and others, errors, failures, or bugs may not be found in new products or releases until after commencement of commercial shipments. In the past, we have discovered software errors, failures, and bugs in certain of our product offerings after their introduction and, in some cases, have experienced delayed or lost revenues as a result of these errors.
+Errors, failures, or bugs in products released by us could result in negative publicity, damage to our brand, product returns, loss of or delay in market acceptance of our products, loss of competitive position, or claims by customers or others. Many of our end-user customers use our products in applications that are critical to their businesses and may have a greater sensitivity to defects in our products than to defects in other, less critical, software products. In addition, if an actual or perceived breach of information integrity or availability occurs in one of our end-user customer's systems, regardless of whether the breach is attributable to our products, the market perception of the effectiveness of our products could be harmed. Alleviating any of these problems could require significant expenditures of our capital and other resources and could cause interruptions, delays, or cessation of our product licensing, which could cause us to lose existing or potential customers and could adversely affect our operating results.
+If we do not protect our proprietary information and prevent third parties from making unauthorized use of our products and technology, our financial results could be harmed.
+Most of our software and underlying technology is proprietary. We seek to protect our proprietary rights through a combination of confidentiality agreements and procedures and through copyright, patent, trademark, and trade secret laws. However, all of these measures afford only limited protection and may be challenged, invalidated, or circumvented by third parties. Third parties may copy all or portions of our products or otherwise obtain, use, distribute, and sell our proprietary information without authorization.
+Third parties may also develop similar or superior technology independently by designing around our patents. Our shrink-wrap license agreements are not signed by licensees and therefore may be unenforceable under the laws of some jurisdictions. Furthermore, the laws of some foreign countries do not offer the same level of protection of our proprietary rights as the laws of the U.S., and we may be subject to unauthorized use of our products in those countries. The unauthorized copying or use of our products or proprietary information could result in reduced sales of our products. Any legal action to protect proprietary information that we may bring or be engaged in with a strategic partner or vendor could adversely affect our ability to access software, operating system, and hardware platforms of such partner or vendor, or cause such partner or vendor to choose not to offer our products to their customers. In addition, any legal action to protect proprietary information that we may bring or be engaged in, alone or through our alliances with the Business Software Alliance ("BSA"), or the Software & Information Industry Association ("SIIA"), could be costly, may distract management from day-to-day operations, and may lead to additional claims against us, which could adversely affect our operating results.
+In January 2012, we became aware of disclosure of the source code for 2006-era versions of certain of our Norton and pcAnywhere products, which we believe was the result of a theft of source code that occurred in 2006. Any unauthorized disclosure of a significant portion of this source code could result in the loss of future trade secret protection for that source code. This could make it easier for third parties to compete with our products by copying functionality, which could adversely affect our revenue, operating margins, results of operations and cash flows, as well as our reputation. Unauthorized disclosure of the source code also could increase the security risks described under "Our software products, SaaS Offerings and website may be subject to intentional disruption that could adversely impact our reputation and future sales" below.
+From time to time we are a party to class action and other lawsuits, which often require significant management time and attention and result in significant legal expenses, and which could, if not determined favorably, negatively impact our business, financial condition, results of operations, and cash flows.
+We have been named as a party to class action lawsuits, and we may be named in additional litigation. The expense of defending such litigation may be costly and divert management's attention from the day-to-day operations of our business, which could adversely affect our business, results of operations, and cash flows. In addition, an
+unfavorable outcome in such litigation could result in significant monetary damages or injunctive relief that could negatively impact our ability to conduct our business, results of operations, and cash flows.
+Third parties claiming that we infringe their proprietary rights could cause us to incur significant legal expenses and prevent us from selling our products.
+From time to time, we receive claims that we have infringed the intellectual property rights of others, including claims regarding patents, copyrights, and trademarks. Because of constant technological change in the segments in which we compete, the extensive patent coverage of existing technologies, and the rapid rate of issuance of new patents, it is possible that the number of these claims may grow. In addition, former employers of our former, current, or future employees may assert claims that such employees have improperly disclosed to us the confidential or proprietary information of these former employers. Any such claim, with or without merit, could result in costly litigation and distract management from day-to-day operations. If we are not successful in defending such claims, we could be required to stop selling, delay shipments of, or redesign our products, pay monetary amounts as damages, enter into royalty or licensing arrangements, or satisfy indemnification obligations that we have with some of our customers. We cannot assure you that any royalty or licensing arrangements that we may seek in such circumstances will be available to us on commercially reasonable terms or at all. We have made and expect to continue making significant expenditures to investigate, defend and settle claims related to the use of technology and intellectual property rights as part of our strategy to manage this risk.
+In addition, we license and use software from third parties in our business. These third party software licenses may not continue to be available to us on acceptable terms or at all, and may expose us to additional liability. This liability, or our inability to use any of this third party software, could result in shipment delays or other disruptions in our business that could materially and adversely affect our operating results.
+Our software products, SaaS Offerings and website may be subject to intentional disruption that could adversely impact our reputation and future sales.
+Despite our precautions and significant ongoing investments to protect against security risks, data protection breaches, cyber-attacks and other intentional disruptions of our products and offerings, we expect to be an ongoing target of attacks specifically designed to impede the performance of our products and offerings and harm our reputation as a company. Similarly, experienced computer programmers may attempt to penetrate our network security or the security of our website and misappropriate proprietary information or cause interruptions of our services. Because the techniques used by such computer programmers to access or sabotage networks change frequently and may not be recognized until launched against a target, we may be unable to anticipate these techniques. The theft or unauthorized use or publication of our trade secrets and other confidential business information as a result of such an event could adversely affect our competitive position, reputation, brand and future sales of our products, and our customers may assert claims against us related to resulting losses of confidential or proprietary information. Our business could be subject to significant disruption, and we could suffer monetary and other losses and reputational harm, in the event of such incidents and claims.
+Fluctuations in our quarterly financial results have affected the price of our common stock in the past and could affect our stock price in the future.
+Our quarterly financial results have fluctuated in the past and are likely to vary significantly in the future due to a number of factors, many of which are outside of our control and which could adversely affect our operations and operating results. If our quarterly financial results or our predictions of future financial results fail to meet our expectations or the expectations of securities analysts and investors, our stock price could be negatively affected. Any volatility in our quarterly financial results may make it more difficult for us to raise capital in the future or pursue acquisitions that involve issuances of our stock. Our operating results for prior periods may not be effective predictors of our future performance.
+Factors associated with our industry, the operation of our business, and the markets for our products may cause our quarterly financial results to fluctuate, including:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Any of the foregoing factors could cause the trading price of our common stock to fluctuate significantly.
+Some of our products contain "open source" software, and any failure to comply with the terms of one or more of these open source licenses could negatively affect our business.
+Certain of our products are distributed with software licensed by its authors or other third parties under so-called "open source" licenses, which may include, by way of example, the GNU General Public License ("GPL"), GNU Lesser General Public License ("LGPL"), the Mozilla Public License, the BSD License, and the Apache License. Some of these licenses contain requirements that we make available source code for modifications or derivative works we create based upon the open source software, and that we license such modifications or derivative works under the terms of a particular open source license or other license granting third parties certain rights of further use. By the terms of certain open source licenses, we could be required to release the source code of our proprietary software if we combine our proprietary software with open source software in a certain manner. In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of third party commercial software, as open source licensors generally do not provide warranties or controls on origin of the software. We have established processes to help alleviate these risks, including a review process for screening requests from our development
+organizations for the use of open source, but we cannot be sure that all open source is submitted for approval prior to use in our products. In addition, many of the risks associated with usage of open source cannot be eliminated, and could, if not properly addressed, negatively affect our business.
+If we are unable to adequately address increased customer demands on our technical support services, our relationships with our customers and our financial results may be adversely affected.
+We offer technical support services with many of our products. We may be unable to respond quickly enough to accommodate short-term increases in customer demand for support services. We also may be unable to modify the format of our support services to compete with changes in support services provided by competitors or successfully integrate support for our customers. Further customer demand for these services, without corresponding revenues, could increase costs and adversely affect our operating results.
+We have outsourced a substantial portion of our worldwide consumer support functions to third party service providers. If these companies experience financial difficulties, do not maintain sufficiently skilled workers and resources to satisfy our contracts, or otherwise fail to perform at a sufficient level under these contracts, the level of support services to our customers may be significantly disrupted, which could materially harm our relationships with these customers.
+Accounting charges may cause fluctuations in our quarterly financial results.
+Our financial results have been in the past, and may continue to be in the future, materially affected by non-cash and other accounting charges, including:
+ 
+ 
+ 
+ 
+ 
+For example, during fiscal 2009, we recorded a non-cash goodwill impairment charge of $7.4 billion, resulting in a significant net loss for the year. Goodwill is evaluated annually for impairment in the fourth quarter of each fiscal year or more frequently if events and circumstances warrant as we determined they did in the third quarter of fiscal 2009, and our evaluation depends to a large degree on estimates and assumptions made by our management. Our assessment of any impairment of goodwill is based on a comparison of the fair value of each of our reporting units to the carrying value of that reporting unit. Our determination of fair value relies on management's assumptions of our future revenues, operating costs, and other relevant factors. If management's estimates of future operating results change, or if there are changes to other key assumptions such as the discount rate applied to future operating results, the estimate of the fair value of our reporting units could change significantly, which could result in a goodwill impairment charge. In addition, we evaluate our other long-lived assets, including intangible assets whenever events or circumstances occur which indicate that the value of these assets might be impaired. If we determine that impairment has occurred, we could incur an impairment charge against the value of these assets.
+The foregoing types of accounting charges may also be incurred in connection with or as a result of other business acquisitions. The price of our common stock could decline to the extent that our financial results are materially affected by the foregoing accounting charges.
+We sell products to the U.S. government under contracts that include special compliance obligations and subject us to audits and reviews by various agencies of the U.S. government. Any failure to meet these obligations, or an adverse outcome in an audit or investigation, could result in civil damages and/or penalties being assessed against us by the government.
+We have sold products through our U.S. General Services Administration Multiple Award Schedule Contract No. GS-35F-0240T effective January 24, 2007 (the "GSA Schedule contract"). Our GSA Schedule contract contains provisions that require us to provide customers purchasing through that contract with negotiated favorable pricing as compared to certain non-federal customers, and requires us to monitor aspects of our commercial sales practices to ensure compliance with that pricing obligation. In the ordinary course of business, sales under our GSA Schedule contract may be subject to audit and/or investigation by the U.S. government. Noncompliance with the provisions of the contract identified as a result of such reviews (as well as noncompliance identified on our own) could subject us to damages and other penalties, which would adversely affect our operating results and financial condition.
+On June 4, 2012, we were advised by the Commercial Litigation Branch of the Department of Justice's Civil Division and the Civil Division of the U.S. Attorney's Office for the District of Columbia that the government is investigating our compliance with certain provisions of our GSA Schedule contract, including provisions relating to pricing, country of origin, accessibility, and the disclosure of commercial sales practices. The Department of Justice has requested that we preserve, among other things, all records relating to GSA Schedule contracting activity. As reported on the GSA's publicly-available database, our total sales under the GSA Schedule contract were approximately $210 million from the period beginning January 2007 and ending December 2011.
+We are cooperating with the investigation and we are unable, at this time, to predict the likely outcome. It is possible that the investigation could lead to claims or findings of violations of the False Claims Act in connection with our GSA contracting activity. Violations of the False Claims Act could result in the imposition of damages, including up to treble damages, plus civil penalties in some cases. To the extent the investigation leads to any such claims or findings, the cost to resolve this matter would adversely affect our operating results and financial condition. Any negative publicity related to our government customer contracts or any proceedings surrounding them, regardless of the outcome of this matter, may also damage our business by affecting our ability to compete for new contracts.
+If we are unable to attract and retain qualified employees, lose key personnel, fail to integrate replacement personnel successfully, or fail to manage our employee base effectively, we may be unable to develop new and enhanced products and services, effectively manage or expand our business, or increase our revenues.
+Our future success depends upon our ability to recruit and retain key management, technical, sales, marketing, finance, and other personnel. Our officers and other key personnel are employees-at-will, and we cannot assure you that we will be able to retain them. Competition for people with the specific skills that we require is significant. In order to attract and retain personnel in a competitive marketplace, we believe that we must provide a competitive compensation package, including cash and equity-based compensation. The volatility in our stock price may from time to time adversely affect our ability to recruit or retain employees. In addition, we may be unable to obtain required stockholder approvals of future increases in the number of shares available for issuance under our equity compensation plans, and accounting rules require us to treat the issuance of equity- based compensation as compensation expense. As a result, we may decide to issue fewer equity-based incentives and may be impaired in our efforts to attract and retain necessary personnel. If we are unable to hire and retain qualified employees, or conversely, if we fail to manage employee performance or reduce staffing levels when required by market conditions, our business and operating results could be adversely affected.
+From time to time, key personnel leave our company. While we strive to reduce the negative impact of such changes, the loss of any key employee could result in significant disruptions to our operations, including adversely affecting the timeliness of product releases, the successful implementation and completion of company initiatives, the effectiveness of our disclosure controls and procedures and our internal control over financial reporting, and the results of our operations. In addition, hiring, training, and successfully integrating replacement sales and other personnel could be time consuming, may cause additional disruptions to our operations, and may be unsuccessful, which could negatively impact future revenues.
+Our effective tax rate may increase, which could increase our income tax expense and reduce (increase) our net income (loss).
+Our effective tax rate could be adversely affected by several factors, many of which are outside of our control, including:
+ 
+ 
+ 
+ 
+The price of our common stock could decline if our financial results are materially affected by an adverse change in our effective tax rate.
+We report our results of operations based on our determination of the aggregate amount of taxes owed in the tax jurisdictions in which we operate. From time to time, we receive notices that a tax authority in a particular jurisdiction has determined that we owe a greater amount of tax than we have reported to such authority. We are regularly engaged in discussions and sometimes disputes with these tax authorities. We are engaged in disputes of this nature at this time. If the ultimate determination of our taxes owed in any of these jurisdictions is for an amount in excess of the tax provision we have recorded or reserved for, our operating results, cash flows, and financial condition could be adversely affected.
+Our stock price may be volatile in the future, and you could lose the value of your investment.
+The market price of our common stock has experienced significant fluctuations in the past and may continue to fluctuate in the future, and as a result you could lose the value of your investment. The market price of our common stock may be affected by a number of factors, including:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The stock market in general, and the market prices of stocks of technology companies in particular, have experienced extreme price volatility that has adversely affected, and may continue to adversely affect, the market price of our common stock for reasons unrelated to our business or operating results.
+
+

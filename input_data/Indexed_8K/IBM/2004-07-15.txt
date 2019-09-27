@@ -1,0 +1,796 @@
+FILE:IBM/IBM-8K-20040715171934.txt.gz
+EVENTS:		Other events
+TEXT:
+ITEM: 
+ITEM: Other events
+ 
+ 
+ 
+ 
+Item 5.        Other Events
+ 
+The registrant's press release dated July 15, 2004, regarding its financial results for the periods ended June 30, 2004, including unaudited consolidated financial statements for the periods ended June 30, 2004, is Attachment I of this Form 8-K. Attachment II is the transcript of IBM's Chief Financial Officer Mark Loughridge's second quarter earnings presentation to securities analysts on Thursday, July 15, 2004.  Attachment III are the charts for such presentation.  Attachment IV is reconciliation information in connection with certain information in Attachments I, II and III.
+ 
+Attachment I  (press release) and Attachment IV (reconciliation information) are hereby filed under this Item 5.  Attachment II (transcript) and Attachment III (charts) are hereby filed under this Item 5 except for the following information in such attachments, which information is furnished pursuant to Item 12:
+ 
+ATTACHMENT II (TRANSCRIPT):
+ 
+The following sentences from Page 2:
+ 
+"This financial strength and management discipline is reflected in our return on invested capital.  Over the last four quarters, our return on invested capital was 28 percent, excluding our Global Financing business.  Twenty eight percent is consistent with first quarter's performance, and significantly above the S&P 500"
+.
+ 
+The following statement from the fourth bullet point on Page 3:  "and our former Technology Group, on a pro-forma basis".
+ 
+The following sentences from Page 14:
+ 
+"On a pro-forma basis our former Technology Group delivered $111 million in second quarter profit, about a $200 million improvement year-to-year and more than a quarter of a billion dollar sequential improvement.  This was helped by the IP deal with AMCC I mentioned earlier."
+ 
+"Based on our first half performance and continued yield improvement, we expect the former Technology Group to be profitable in 2004 on a pro-forma basis."
+ 
+The following sentence from Page 15:
+ 
+"The Systems and Technology Group delivered a Return on Invested Capital of 25 percent, up significantly from last year."
+ 
+ATTACHMENT III (CHARTS):
+ 
+The first two rows on the chart on Page S6 titled "RECONCILIATION OF PRO FORMA TECHNOLOGY GROUP TO SYSTEMS AND TECHNOLOGY GROUP PTI", which rows are entitled "Pro forma Technology Group PTI" and "Pro forma Systems Group PTI and Related Intercompany Eliminations (estimate)*".
+ITEM 12.   RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+ 
+All the information in Attachment II (transcript) and Attachment III (charts) of this Form 8-K that is not filed pursuant to Item 5 is hereby furnished under Item 12.
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ATTACHMENT I
+ 
+ 
+ARMONK, N.Y., July 15, 2004 . . . IBM today announced second-quarter 2004 diluted earnings per common share of $1.16 from continuing
+operations compared with diluted earnings of $.98 per share in the same
+period of 2003, an increase of 18 percent.  Second-quarter income from
+continuing operations was $2.0 billion compared with $1.7 billion a
+year ago, an increase of 15 percent.  Revenues from continuing
+operations for the second quarter were $23.2 billion, up 7 percent
+compared with the second quarter of 2003 revenues of $21.6 billion.
+ 
+Samuel J. Palmisano, IBM chairman and chief executive officer,
+said:  "The IBM team delivered another fine quarter, which demonstrated
+the power of our business model and the advantages of our continued
+focus on serving enterprises and institutions around the world.
+ 
+"We're seeing more and more clients move toward becoming on demand
+businesses.  This is increasing demand for our portfolio of services
+and computing infrastructure products.  It was another strong quarter
+for large-scale systems, led by zSeries enterprise servers.  IBM Global
+Services signed more than $10 billion in new business, and we are off
+to a strong start in the emerging Business Process Transformation
+Services opportunity.  We saw first-half growth of roughly 40 percent
+over last year, and we continue to invest heavily in this growth
+segment.  IBM also grew significantly in emerging geographic markets in
+the first half, with 35 percent combined growth in China, Russia, India
+and Brazil.  Our balance sheet is strong, with $8.2 billion of cash
+available, and we continue to post an excellent return on invested
+capital.
+ 
+"At a time of great change and opportunity in the IT industry, we
+remain focused on strengthening and broadening our client relationships
+through innovation and by delivering business solutions only IBM can
+provide.  We continue to improve the operational effectiveness of the
+company.  We are confident about our prospects going forward."
+ 
+Second-quarter revenue growth of 7 percent (4 percent, adjusting
+for currency) was driven by growth across all geographies.  In the
+Americas, second-quarter revenues from continuing operations were $9.7
+billion, up 2 percent (2 percent, adjusting for currency) from the 2003
+period.  Revenues from Europe/Middle East/Africa were $7.5 billion, an
+increase of 9 percent (2 percent, adjusting for currency).  Asia-Pacific revenues grew 13 percent (6 percent, adjusting for currency) to
+$5.2 billion.  OEM revenues increased 19 percent to $701 million
+compared with the second quarter of 2003.
+ 
+Revenues grew at a solid pace in four of IBM's five industry
+sectors in the second quarter with particularly strong growth from the
+Financial Services sector and Industrial sector, as well as sales to
+Small and Medium Businesses.
+ 
+Revenues from Global Services, including maintenance, increased 7
+percent (2 percent, adjusting for currency) to $11.3 billion in the
+second quarter.  Global Services revenues, excluding maintenance,
+increased 7 percent as well (3 percent, adjusting for currency).  IBM
+signed services contracts totaling more than $10 billion and ended the
+quarter with an estimated services backlog, including Strategic
+Outsourcing, Business Consulting Services, Integrated Technology
+Services and Maintenance, of $118 billion.
+ 
+Hardware revenues from continuing operations increased 12 percent
+(10 percent, adjusting for currency) to $7.4 billion in the second
+quarter versus the second-quarter 2003.  In the current quarter,
+revenues from the Systems and Technology Group totaled $4.2 billion, up
+10 percent due to eServer revenue increases for zSeries servers, which
+had particularly strong results, and xSeries Intel-based servers.  The
+total delivery of zSeries computing power as measured in MIPS (millions
+of instructions per second) increased 75 percent in the quarter
+compared with the second quarter of 2003.  Revenues for the eServer iSeries midrange servers slowed significantly, as did pSeries UNIX servers to a lesser degree, with both results reflecting lower demand partly due to the product transition to POWER5 architecture.  Storage Systems revenues increased due to good demand for external midrange disk and tape products, and revenues from OEM Technology increased. Personal Systems Group revenues increased 16 percent to $3.2 billion, led by strong growth in mobile personal computers.
+ 
+Revenues from Software were $3.5 billion, essentially flat
+compared with the second quarter of 2003 (down 4 percent, adjusting for
+currency).  Revenues from IBM's middleware brands, which include
+WebSphere, DB2, Rational, Tivoli and Lotus products, were $2.7 billion,
+the same as the second quarter of 2003.  Operating systems revenues
+decreased 2 percent to $577 million compared with the second quarter of
+2003.
+ 
+WebSphere software, which facilitates customers' ability to manage
+a wide variety of business processes using open standards to
+interconnect applications, data and operating systems, extended its
+lead in market share by 5 points for full-year 2003, according to an
+industry report.  Revenues for Data Management decreased 3 percent
+including revenues for DB2 database software, which increased 5
+percent.  Revenues from Tivoli software (infrastructure software that
+enables customers to centrally manage networks and storage) decreased 5
+percent, and revenues for Lotus software, which enables customers to
+communicate, collaborate and learn effectively, decreased 2 percent.
+Revenues from Rational (comprehensive software development tools)
+decreased 5 percent compared with the second quarter of 2003.
+ 
+Global Financing revenues declined 3 percent (6 percent, adjusting
+for currency) in the second quarter to $651 million.  Revenues from the
+Enterprise Investments/Other area, which includes industry-specific IT
+solutions such as product life-cycle management software, increased 23
+percent (19 percent, adjusting for currency) to $294 million compared
+with the second quarter of 2003.
+ 
+The company's total gross profit margin from continuing operations
+was 36.8 percent in the 2004 second quarter, compared with 37.0 percent
+in the second quarter of 2003.
+ 
+In the second quarter of 2004, total expense and other income from
+continuing operations of $5.7 billion increased 3 percent over the year-earlier period.  The company's selling, general and administrative
+expense-to-revenue ratio improved to 20.0 percent in the quarter
+compared with 20.6 percent in the second-quarter 2003, while SG&A
+expense increased 4 percent to $4.6 billion.  Research, development and
+engineering expense increased 16 percent to $1.4 billion.  Intellectual
+property and custom development income increased significantly in the
+quarter reflecting an IP transaction with AMCC for $208 million.  Other
+(income) and expense was $23 million of net expense in the second
+quarter of 2004 versus $4 million of net expense in the same period
+last year.
+ 
+IBM's effective tax rate from continuing operations in the second-quarter 2004 was 30.0 percent, the same as the second quarter of 2003.
+ 
+For total operations, net income for the second quarter of 2004,
+including a loss from discontinued operations of $2 million, was $2.0
+billion, or $1.16 per diluted common share.  Net income for the second
+quarter of 2003, including a loss from discontinued operations of $20
+million, was $1.7 billion, or $.97 per diluted share.
+ 
+Share repurchases totaled approximately $1.3 billion in the second
+quarter.  The weighted-average number of diluted common shares
+outstanding in the quarter was 1.71 billion compared with 1.76 billion
+shares in the same period of 2003.  As of June 30, 2004, there were
+1.68 billion basic shares outstanding.
+ 
+Debt, including Global Financing, totaled $21.9 billion, compared
+with $23.6 billion at year-end 2003.  From a management segment view,
+the non-global financing debt-to-capitalization ratio was 2.4 percent
+as of June 30, 2004, and Global Financing debt declined $2.0 billion from year-end 2003 to a total of $21.3 billion, resulting in a debt-to-equity ratio of 6.9 to 1.
+ 
+ 
+Income from continuing operations for the six months ended June
+30, 2004 was $3.6 billion compared with $3.1 billion for the same
+period of 2003, an increase of 15 percent.  Diluted earnings per common
+share from continuing operations was $2.09 compared with $1.77 per
+diluted share for the 2003 period, an increase of 18 percent.  Revenues
+from continuing operations for the six months ended June 30, 2004
+totaled $45.4 billion, up 9 percent (3 percent, adjusting for currency)
+compared with $41.7 billion for the six months of 2003.
+ 
+For total operations, net income for the six months of 2004,
+including a loss from discontinued operations of $3 million, was $3.6
+billion, or $2.08 per diluted common share, compared with the six
+months of 2003 net income of $3.1 billion, or $1.75 per diluted share,
+which included a loss from discontinued operations
+o
+f $
+23 million.
+ 
+Forward-Looking and Cautionary Statements
+ 
+Except for the historical information and discussions contained
+herein, statements contained in this release may constitute "forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995.  These statements involve a number of
+risks, uncertainties and other factors that could cause actual results
+to differ materially, as discussed in the company's filings with the
+Securities and Exchange Commission (SEC).
+ 
+Presentation of Information in this Press Release
+ 
+In an effort to provide investors with additional information
+regarding the company's results as determined by generally accepted
+accounting principles (GAAP), the company has also disclosed in this
+press release the following non-GAAP information which management
+believes provides useful information to investors:
+ 
+ - 
+      return on invested capital
+ - 
+      adjusting for currency
+ 
+The rationale for management's use of non-GAAP measures is
+included as part of the supplementary materials presented within the
+second-quarter earnings materials.  These materials are available on
+the IBM investor relations Web site at www.ibm.com/investor.
+ 
+Conference Call and Webcast
+ 
+IBM's regular quarterly earnings conference call is scheduled to
+begin at 4:30 p.m. EDT, today.  Investors may participate by viewing
+the Webcast at www.ibm.com/investor/2q04.
+ 
+Financial Results Attached
+ 
+ 
+* Does not total due to rounding.
+ 
+ 
+ 
+ 
+* 2003 Technology Group and Systems Group segment results have been reclassified to conform with current reporting structure.
+ 
+ 
+* 2003 Technology Group and Systems Group segment results have been reclassified to conform with current reporting structure.
+ATTACHMENT II
+ 
+INTRODUCTION
+ 
+Thanks and good afternoon.  I am Patricia Murphy, Vice President of Investor Relations for IBM.  Here with me this afternoon is Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer.  Thank you for joining us.
+ 
+At this time, the opening page of the presentation should have automatically loaded, and you should be on Chart 1, the title page.
+ 
+In roughly an hour, you will be able to link to the prepared remarks using a link found at the bottom of the presentation window.
+ 
+And as always, a replay of this webcast will be available on our Investor Relations website by this time tomorrow.
+ 
+This presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.
+ 
+All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K to be filed with the SEC immediately following this call.
+ 
+Now, please click on the NEXT button and move to Chart 2.
+ 
+Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the company's filing with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+ 
+Please click again on the NEXT button for Chart 3.
+ 
+Now, let me turn the call over to Mark Loughridge.
+OPENING REMARKS
+ 
+IBM again delivered solid results, reflecting the flexibility andresponsiveness of our operating model, and the strength and breadth of our businesses.  We are very pleased with these results.
+ 
+For the second quarter we had $23.2 billion in revenue, which is up 7 percent as reported, and 4 percent at constant currency.
+ 
+Our organic growth for the first half, that is, growth without the benefit of currency or acquisitions, was the best we've had in years.
+ 
+Our pretax income was $2.8 billion, up 15 percent, and we delivered $1.16 of earnings per share, which is an 18 percent improvement over the second quarter of last year.
+ 
+Our cash flow performance was strong.  Net Cash from Operations was $3 billion in the second quarter, excluding Global Financing Receivables.
+ 
+Our balance sheet also remains strong, with $8.2 billion of cash on hand, and low debt levels for our non financing business.  We continue to improve our capital efficiency with plant, field and service inventory levels in total below what they were a year ago, and turns improving again. Receivables are also well managed with days sales outstanding better than a year ago.
+ 
+This financial strength and management discipline is reflected in our return on invested capital.  Over the last four quarters, our return on invested capital was 28 percent, excluding our Global Financing business.  Twenty eight percent is consistent with first quarter's performance, and significantly above the S&P 500
+.
+ 
+We continue to see the IT industry growth around 4 to 5 percent, which is the best it has been since 2000.  Customer spending continues to improve, though not uniformly across all segments and regions.  This is nothing new.  Demand is not entirely predictable or consistent, and it evolves with customer requirements.  Our operating model is designed to respond quickly to this changing demand profile.
+ 
+Let me expand on that point.  Over the last couple of years we have strengthened our management system in two relevant areas, opportunity
+management, and supply chain management.  Our opportunity management system gives us visibility into transaction level detail  leads and loads  by brand and by region.  This insight is important, so that we can redirect our sales resources to address the hot opportunities, and remix our supply to meet the changing demand.  The linkage between the opportunity and supply chain, together with the breadth of our businesses, allows us to drive more consistent, predictable results than other technology companies.
+ 
+This model was leveraged in the second quarter to drive strong results in many key areas.
+ 
+zSeries revenue sustained its strong performance, and we also had good growth in xSeries, PC's, OEM, and Strategic Outsourcing revenues.
+ - 
+                                         
+We had strong growth in new and emerging areas.
+ - 
+                                         
+We improved services margins sequentially.
+ - 
+                                         
+All of our major segments were profitable, including Personal Systems Group and our former Technology Group, on a pro-forma basis.
+ - 
+                                         
+And as I said earlier, we had strong cash flow and balance sheet performance.
+ - 
+                                         
+ 
+As you would expect of a company of our size, we also experienced a few challenges.
+ 
+Like many of our pure-play competitors, some of our software transactions didn't close in the quarter.
+ - 
+                                         
+And, a product transition in iSeries and pSeries impacted sales of the predecessor products.
+ - 
+                                         
+ 
+So, we too faced some of the same issues that have been highlighted by our competitors in the last two weeks.  But unlike these pure-play companies, we overcame these challenges through the unique strength of the IBM business model.
+ 
+Based on these results, and a steadily improving environment, we believe that the analysts' average estimates for full-year revenue and earnings per share remain reasonable.
+ 
+Now, if you'll click on the Next button for Chart 4, we'll get into our second quarter results, starting with Revenue.
+REVENUE
+ 
+Total Revenue in the second quarter was up 7 percent as reported, and was up 4 percent at constant currency.
+ 
+Revenue for Global Services, which is half of IBM's revenue, was up
+ 
+7 percent year-to-year as reported.
+ 
+Strategic Outsourcing maintained its steady double-digit growth.
+ 
+And Business Consulting Services and IT services were up.
+ 
+All services lines of business improved their constant currency growth rate from the first quarter.
+ 
+Hardware performance was strong, up 12 percent as reported.
+ 
+zSeries servers once again had the strongest growth, and we had double-digit improvements in xSeries servers and PC's.
+ 
+By the time all companies report earnings, we expect to continue to gain share in servers.
+ 
+Software revenue was essentially flat compared to second quarter last year as reported.
+ 
+Customers deferred purchasing decisions at the end of the quarter  and we had fewer large transactions.
+ 
+Global Financing revenue declined 3 percent as reported.
+ 
+The declining asset base and declining interest rates over the last three years continued to impact revenue performance, but this quarter, financing originations were up.
+ 
+Now please click on the Next button for Chart 5, and we'll discuss our revenue by geography.
+ 
+From a geographic perspective, there was little change to the pattern of the first quarter.  Growth was led by the emerging countries, as they aggressively invest in technology to build out their infrastructures.
+Asia Pacific had the strongest revenue growth year-to-year, based on constant currency.
+ 
+Growth was strongest in China and the ASEAN region.
+ 
+And Japan, which is about 60 percent of Asia Pacific's revenue, was up slightly at constant currency.
+ 
+In the Americas, all three of its major regions grew at constant currency.
+ 
+Latin America, led by Brazil, had the strongest growth.
+ 
+Europe grew, with mixed performance by country:
+ 
+France and Spain were up;
+Germany, Italy and the UK were down;
+And, once again, Eastern Europe had very strong growth.
+ 
+Our OEM revenue, which makes up 3 percent of IBM's revenue, was up 19 percent year-to-year.
+ 
+Our Microelectronics business returned to growth, reflecting operational improvement.  This, together with the hyper-growth in our Engineering and Technology Services business contributed to the strong performance.
+ 
+Now let me give you an additional view of revenue by customer set  Chart 6.
+ 
+This chart reflects our five worldwide industry sectors, as well as our Small and Medium Business customers.  Our OEM business is excluded.
+ 
+This is an important view of the business, because while we report our results by brand and by geography, our go-to-market strategy is based on customer sets.
+ 
+The Financial Services sector performance was strongest, led by banking customers.
+ - 
+                 
+Sales to our Small and Medium Businesses were also up in all geographies, led by Asia.
+ - 
+                 
+ 
+Industrial sector was led by growth in Automotive and Electronics and,
+ - 
+                 
+ 
+Communications sector growth was driven by Telecom customers in the Americas.
+ - 
+                 
+ 
+Now let's turn to Gross Profit  Chart 7.
+ 
+GROSS PROFIT MARGIN
+ 
+Gross profit margin in the secondquarter was 36.8 percent, down 2 tenths of a point from last year's second quarter, but up sequentially.
+ 
+Global Services gross profit margin was down 7 tenths of a point year-to-year, but improved 7 tenths from the first quarter.  Our actions are paying off, with sequential improvements in all services lines of business.
+ 
+Hardware gross profit margin improved 2.3 points year-to-year, due predominantly to an improvement in our microelectronics business.
+ 
+Software gross profit margin improved a tenth of a point year-to-year.
+ 
+And Global Financing gross profit margin improved, though the business is more appropriately measured on Return on Equity.  This quarter, Global Financing's Return on Equity was 26 percent.
+ 
+I'll have more on gross profit when I go into a discussion of the business units.
+ 
+Now, turn to Chart 8, and we'll review expense.
+ 
+EXPENSE SUMMARY
+ 
+Total Expense and Other Income grew 3 percent in the second quarter, as reported.
+Since revenue was up 7 percent, Total Expense-to-Revenue improved by over 1 point.  Underneath this:
+ 
+SG&A expense-to-revenue was down 6 tenths of a point, reflecting an improvement in productivity.
+ 
+RD&E expense-to-revenue was up 5 tenths of a point.  This increase is driven primarily by investments to deliver our leading-edge POWER5 product family.
+ 
+We typically provide a "road map" of specific expense items that can help or hurt earnings in different ways.  This quarter, we had only a couple of items that materially contributed to earnings growth.
+ 
+First, Retirement related plans, both pension and health, were a year-to-year hurt of $184 million, about 7 cents a share.  We expect this level of year-to-year impact to continue throughout the rest of the year.
+ 
+Second, IP income was up $234 million from the second quarter of last year.  The only significant transaction was the deal with AMCC for $208 million dollars, which we told you about in April.  AMCC has licensed several embedded PowerPC designs which will help expand our POWER Everywhere initiative we announced in the first quarter.
+ 
+The other items that we typically discuss in our roadmap had little impact on earnings growth this quarter.
+ 
+Before I move on, let me comment on currency.
+ 
+As you know, we have ongoing hedging programs that are intended to mitigate the volatility of currency on period results. The impact of these hedging programs is principally reflected in Other Income and Expense, as well as cost of goods sold.
+ 
+The supplemental chart at the end of the presentation benchmarks currency's potential future impact on revenue, assuming Wednesday's exchange rates.
+ 
+Now let's turn to Cash Flows  Chart 9.
+CASH FLOW ANALYSIS
+ 
+As I said at the beginning of the call, we had strong cash performance.
+ 
+This Cash Flow Analysis Chart has one primary difference from the FAS 95 format which is included in our supplemental charts.  It considers our Global Financing Receivables as an investment to generate profit, not as Working Capital that should be minimized for efficiency.
+ 
+Net Cash Provided from Operations, excluding the change in Global Financing Receivables, was $3.5 billion for the first half, up $800 million from last year.  There are three main contributors to the improvement:
+ 
+First, growth in our net income;
+ 
+Second, our continued focus on working capital and supply chain management.
+ 
+Our accounts receivable collections continue to improve on a year to year basis.  Our inventory was down more than $175 million year-to-year and our turns have improved, even in a dynamic demand environment.
+ 
+Third, we paid out approximately $300 million less in restructuring payments this year versus last.
+ 
+Turning to our use of cash for investments.
+ 
+Net Capital Expenditures were $1.7 billion, down over $200 million from last year, reflecting lower investments in our microelectronics business, partially offset by increased net investments in our services business.
+ 
+Let me make a subtotal here since many investors look at cash flow after Capital Expenditures.  We had a net source of $1.8 billion, over $1.0 billion better than last year.
+ 
+Next, our Global Financing Receivables, net of changes in Global Financing Debt, was a source of $2.4 billion, due to continued decline in income generating assets
+.
+ 
+inally, acquisitions were $800 millions, down from last year.  In the second quarter, we completed a few acquisitions, including Candle and Trigo, while last year we acquired Rational Software.
+F
+Finally, we returned over $3.6 billion to investors.
+ 
+$3.1 billion of this was through share repurchase.
+ 
+We bought back 32.8 million shares in the first half, and average diluted shares for the half stood at 1.72 billion, down 2.2 percent from a year ago.
+ 
+We have $3.9 billion remaining from our last board authorization.
+ 
+In the first half, we paid out $574 million in dividends.
+ 
+This return to shareholders is an important element of our financial model.  Over the last decade, we've returned over $55 billion to shareholders through stock repurchase.
+ 
+Now, please turn to Chart 10, and we'll discuss the Balance Sheet.
+ 
+BALANCE SHEET
+ 
+At the end of the first half, our cash balance is $8.2 billion, up $2.4 billion from a year ago.
+ 
+Ninety seven percent of our total debt of $21.9 billion was driven by our Global Financing business, and Global Financing was leveraged at an appropriate 6.9 to 1.
+ 
+The remaining non-financing debt level was approximately $600 million, down over $250 million from a year ago.
+ 
+Debt-to-capital was well within acceptable levels at 2.4 percent.
+ 
+Our Balance Sheet remains very strong, and we are well positioned to capitalize on future opportunities.
+ 
+Now, I want to provide some detail on individual businesses, starting with Global Services  Chart 11.
+GLOBAL SERVICES
+ 
+Global Services delivered revenue of $11.3 billion, up 7 percent as reported.  Excluding currency, IGS improved its growth rate for the third straight quarter.
+ 
+Total signings for Services this quarter were $10.1 billion at constant currency or $10.6 billion at spot rates.  We continued to exercise financial discipline in the contracts we signed, as part of our initiative to improve margins.
+ 
+We signed ten deals larger than $100 million.  Key customer signings included Qantas Airlines, Sprint, and the Next Human Network in Korea.
+ 
+Also, we more than doubled our signings year-to-year in Business Transformation Outsourcing, which is one of our initial focus areas in Business Process Transformation Services.  Key deals included Williams Energy, Philips Electronics, Marathon Oil, NTL and the Next Human Network.  We are seeing increased customer acceptance of our offerings in this space.
+ 
+Let me give you an example of the value we're delivering to customers through our Business Process Transformation Services.  BCS Strategy and Change experts redesigned the supply chain process for Metro Group's futuristic supermarket in Germany.  Metro Group can now more dynamically adapt its supply chain to meet customer demand.
+ 
+This type of business transformation is what our customers are requesting, and what we are delivering, across industries and across borders, to other companies such as Nextel, Philips Electronics and International Truck Corporation.
+ 
+I'll have more to say about Business Process Transformation Services later, but, this is what we mean by an "on demand" business.
+ 
+The backlog for Global Services, including Strategic Outsourcing, BCS, IT Services and Maintenance, was estimated at $118 billion at the end of the quarter.  Looking forward, the pipelineof deals is solid for both short and long term contracts, as we enter the second half of 2004.
+IGS gross profit margin at 25.2 percent improved sequentially by 70 basis points.  Every services line of business in IGS contributed to this improvement.  Our resource utilization improved in both BCS and ITS, while our ongoing efficiency initiatives lifted Strategic Outsourcing.
+ 
+We expect gradual, sequential improvement, as well as year-to-year improvement, in our gross margin in the second half of the year.  Across all lines of our services business, we are taking actions to improve productivity. These actions are necessary to show sequential margin improvement in the third quarter, in order to offset the seasonal decline in margins in our labor-based businesses.
+ 
+Now, let's review the three major segments of Global Services.
+ 
+which was about 40 percent of Global Services, was up 12 percent. Helped by lower contract rescopings over the last few quarters and strong signings in the second half of 2003, revenue was up in every geography.
+Strategic Outsourcing
+,
+ 
+ 
+e-Business hosting, which provides web hosting and application management grew 27 percent, with positive profit contribution for the sixth consecutive quarter.
+ 
+including maintenance, which was about 30 percent of Global Services, was up 3 percent.  Business Continuity and Recovery Services and hardware maintenance contributed positively to ITS growth.
+Integrated Technology Services
+,
+ 
+grew 3 percent, improving its year-to-year performance from last quarter on a constant currency basis.
+Business Consulting Services
+ 
+BCS gross margins were the strongest they have been in the last six quarters.  We are executing our plan to sequentially grow margins in the second half of 2004 through several initiatives, specifically, a targeted 4-point improvement in utilization, a 15 percent reduction in overhead costs, and optimization of the labor mix between partner and practitioner.  In the Americas and parts of Europe, growth is accelerating, our billing rates are improving and we are hiring additional skills.
+ 
+So, in summary:
+Our Global Services business improved revenue growth at constant currency, sequentially improved gross profit margin by 70 basis points, and made progress in our Business Process Transformation Services initiatives.
+ 
+We anticipate year-to-year revenue and margin improvement for the second half of the year.
+ 
+Now, click on the Next button to Chart 12, and we'll turn to Hardware.
+ 
+HARDWARE
+ 
+Hardware, at $7.4 billion of revenue, grew 12 percent year-over-year.
+ 
+The Systems & Technology Group had strong year-to-year revenue growth of 10 percent in the second quarter, driven by strong growth in both zSeries and xSeries servers.
+ 
+OurzSeries servers had another very strong quarter, with year-to-year revenue growth of 44 percent on MIPS growth of 75 percent.  This is the fourth consecutive quarter of revenue growth following the z990 introduction last year.
+ 
+We continue to see customers adding new workloads to this platform as they build their on-demand infrastructures, as well as taking advantage of the capabilities of the z990 for server consolidations.
+ 
+the number of these servers compared to our previous mid-range announcement.
+Mid-size customers are also benefiting from the enhanced reliability and reduced Total Cost of Ownership of IBM's zSeries.  In April we marked the 40th anniversary of the mainframe with the announcement of the mid-range z890.  In the first quarter of availability, we shipped more than double
+ 
+Our pSeries UNIX server revenue declined 3 percent year-to-year. A large number of transactions deferred late in the quarter, driven by the impending POWER5 announcements made earlier this week.
+ 
+ 
+We continued to experience strong demand for high-end systems which had double digit revenue growth year-to-year.
+Continuing on our POWER Everywhere strategy, earlier this week we announced the extension of the POWER5 family to our pSerieswith the p5 product line, including two new low-end models and a new midrange system.
+ 
+Performance levels for these new products dominate the competition, as evidenced by the 34 published industry-leading benchmarks.  The p5 demonstrated speeds twice as fast as competitive systems that have four times as many processors and twice the price.  POWER5 technologies will create additional opportunities for IBM to grow share in the UNIX and high performance Linux server markets.
+ 
+POWER5 technology is yet another example of the successful integration of the previous Systems and Technology Groups.
+ 
+iSeries revenue declined 28 percent year-to-year in the second quarter.
+ 
+In the second quarter iSeries introduced POWER5 technology, and the announcement has been well received by the market.  This new server line reduces complexity, simplifies infrastructure and enhances productivity  and it runs multiple operating systems application environments on a single, simplified platform.
+ 
+Sales of the new i5 met our expectations however, sales of our older models were impacted by a quicker-than-expected transition to the new models.  We also had a slowdown in high-end sales as larger customers awaited the high-end server.
+ 
+On July 13 we added the new i5 16-way offering as we drive our POWER5 technology into the high end of the iSeries.
+ 
+Total xSeries server revenue grew 18 percent year-to-year, with strong growth across the product line.
+ 
+Growth in xSeries continues to be driven by IBM leadership in the blade market, revenue from blades more than doubled year-to-year.  The BladeCenter model is expanding our customer base as we see some customers turning to IBM for their Intel solutions for the first time.
+Along with the expansion of BladeCenter in our revenue results, there is an additional opportunity to populate the open slots of these chassis, waiting for additional blades that are simple to plug in and configure with our IBM Director system management software.  This is the ultimate pay as you grow' solution.
+ 
+xSeries is having a significant impact in the Supercomputing space, 30 percent of the Top500 Supercomputers are xSeries Linux clusters, nearly doubling the number from November of 2003.
+ 
+IBM Total Storage grew 5 percent year-to-year, reflecting the strength of the industry's most complete portfolio of information and data management.  Midrange disk grew 7 percent, driven by 36 percent growth in our FastT products.  Our tape business grew 13 percent, the fourth consecutive quarter of double-digit growth.
+ 
+In the second quarter, we delivered virtualization software which simplifies the management of multiple storage area networks.  By providing support for heterogeneous environments, we have liberated customers from being locked in to specific storage vendors.
+ 
+Our OEM Technology business was up 14 percent year-on-year.  Yields continue to improve in our 300 millimeter facility contributing to an improvement in our operational profitability.  Output from the 300 millimeter plant doubled in the second quarter from the first, and it has the potential to double again in the third quarter.
+ 
+Our Engineering and Technology Services business had a strong quarter, more than doubling revenue year over year.
+ 
+On a pro-forma basis our former Technology Group delivered $111 million in second quarter profit, about a $200 million improvement year-to-year and more than a quarter of a billion dollar sequential improvement.  This was helped by the IP deal with AMCC I mentioned earlier.
+ 
+Based on our first half performance and continued yield improvement, we expect the former Technology Group to be profitable in 2004 on a pro-forma basis.
+More importantly, IBM's technology business is fueling our server growth and profitability.  The Systems and Technology Group delivered a Return on Invested Capital of 25 percent, up significantly from last year.  This Group's profit of $600 million is significantly higher both sequentially, and year-to-year.  These results confirm the benefit of integration and value of this newly combined business.
+ 
+Turning to our Personal Systems Group 
+ 
+Revenue from Personal Systems was up 16 percent year-to-year, driven by growth in both ThinkPads and desktops.
+ 
+ThinkPad revenue and units were both up about 30 percent.  We shipped more IBM ThinkPads in the quarter than any other on record.
+ 
+In the second quarter we introduced the ThinkCentre S50 ultra small desktop.  The S50 is a full-function desktop, with ThinkVantage innovations like one-button recovery from viruses, and simplified part replacement, yet it's the size of a phone book and weighs only 13 pounds.
+ 
+Driven again by strong performance in mobile, we believe we will gain share in commercial PCs when the data becomes available.  Our Retail Store Solutions continued to expand their market leadership by again growing revenue nearly 20 percent year-to-year.
+ 
+Our Personal Systems Group delivered $27 million of profit this quarter and is also profitable for the first half.  We expect the profit contribution from this Group to continue to grow throughout the year.
+ 
+Now if you'll move to Chart 13, we'll cover Software.
+ 
+SOFTWARE
+ 
+Our Software business, at $3.5 billion, was flat as reported.  Operating Systems were down 2 percent, while Middleware was flat.
+ 
+Within Middleware, our host platform was up 2 percent.  Growth in the installed base of mainframe MIPS was offset by ongoing software price-per-MIP improvements to our enterprise customers.  Meanwhile, Middleware revenue on our distributed platforms declined 3 percent.
+Consistent with many of our pure-play competitors, we encountered a difficult sales environment.  The number of large deals was down from past quarters, and there were a significant number of deferrals at the end of the quarter.  We believe the majority of these deferred transactions remain opportunities for the third quarter.
+ 
+Despite our overall disappointing software revenue performance, there were a few bright spots.
+ 
+Gartner Dataquest recently reported that WebSphere expanded its lead in commercial application software to 41 percent share, up 5 points in 2003.
+ 
+Our gross profit margins and our software segment PTI improved, driven by both productivity and currency.
+ 
+And, we are continuing to invest in our Software portfolio:
+ 
+We closed two strategic acquisitions, Candle and Trigo.  The integration of both of these acquisitions are proceeding well relative to our expectations.
+ 
+So, overall, our Software business had a challenging quarter, like many of our competitors.  Despite the challenges, we improved margins, sustained our profitable host-based revenue streams, and closed two software acquisitions.
+ 
+As we look forward, assuming improving market conditions, we anticipate modest but positive growth in third quarter.
+ 
+Now please move to Chart 14.
+GROWTH INITIATIVES
+ 
+Before I wrap up, I want to spend a few minutes describing some of IBM's key growth initiatives.
+ 
+In May, Sam Palmisano outlined a new business opportunity, Business Process Transformation Services, or BPTS.
+ 
+BPTS describes a new opportunity in which IT, both infrastructure and expertise, will be applied to transform the world's SG&A spending.  In other words, what clients spend on their business processes.
+ 
+BPTS goes beyond automating an existing process, or outsourcing to a lower-cost provider.
+ 
+It's about transforming enterprises to create new business models.
+ 
+It requires both deep business process expertise, and technology expertise.
+ 
+We believe this opportunity is taking off now for two reasons, the acceptance of standards, and the ubiquity and reliability of the Internet.  Together, they are making it easier and less costly to conduct transactions, withinenterprises, as well as among enterprises.
+ 
+This is a new area, but IBM is already making substantial investments to expand our existing capabilities.  Let me give you a few examples of how these capabilities are used:
+ 
+First, Business Transformation Outsourcing.  This category describes those engagements where we help clients to transform their business processes, applications and IT infrastructure.
+ 
+Second, Engineering and Technology Services.  We're using the advanced technology coming out of IBM labs, and applying it to solve clients' toughest business process problems.
+ 
+The third area is Strategy and Change.  Here, our BCS consultants have developed industry specific "business component models."  This methodology helps our clients assess the competitiveness of their
+business processes at a granular level, to determine which processes are differentiating, and which may be optimized.
+ 
+Fourth, Business Performance Management Software.  This is the cutting edge integration software that enables clients to get the data they need, where it's needed, when it's needed, and in the format that's most useful to the end-user.
+ 
+These four areas represent $1.4 billion of revenue in the first half, and are growing 40 percent year-to-year.  Over time, we'll expand to address a larger portion of the opportunity, as we expand our expertise and scale our business model.
+ 
+Already, we're seeing clients respond to the benefits, in terms of cost savings and top-line growth.
+ 
+One example is Marathon Oil.  IBM will manage all of Marathon's finance and accounting processes.  But this is not just about outsourcing their financial management systems.  It's about working with them over multiple years, to apply best-of-class consulting, innovation, and IT methodologies, such as real-time analytics, to radically transform the way they manage financial data and processes across their enterprise.
+ 
+BPTS will continue to reshape our business, and the IT industry.  It's a logical and natural extension of our on demand strategy where clients transform their business model to become more responsive, flexible and resilient.
+ 
+But BPTS isn't our only growth initiative.  We are investing for growth in other emerging business areas as well.
+ 
+For example, we're making investments in emerging countries, where our solutions strategy enables us to help shape the market.  In China, Russia, India and Brazil, together we're growing 35 percent year-to-year, to generate $1.9 billion of revenue in the first half.
+ 
+Customers in these countries recognize the value of integrated services and technology, based on open standards.  Linux is emerging as an important
+platform, and zSeries is increasingly being utilized to deliver infrastructure transformational services.
+ 
+New business opportunities constantly emerge, and we are investing to address those opportunities that fit within our strategy.  Business Process Transformation Services, and these emerging countries, represent just a subset of the IBM growth initiatives.
+ 
+Now, Click on the NEXT button, and we'll wrap up.
+ 
+Our second quarter performance reflects the strength and uniqueness of the IBM business model.
+ 
+Servers, led by zSeries and xSeries, continued to show good growth.
+ 
+Personal Systems had another strong quarter, resulting in a profitable business for the first half.
+ 
+We've improved our services margins sequentially.
+ 
+We were profitable in all major brand segments.
+ 
+And our new emerging opportunities, including Business Process Transformation Services and emerging countries, are providing a good source of growth.
+ 
+These strengths allowed us to improve revenue and profitability despite a couple of business challenges:
+ 
+A tough software sales environment, and a product transition in iSeries and pSeries.
+ 
+Our strategy is based on helping to transform customers through innovation and integration.  These customers' needs are not always predictable, as we saw this quarter.
+ 
+Our management system allowed us to have headlights for our businesses and redirect our resources, to capitalize on the hot opportunities.  Successful execution also required a world-class supply chain, to be able to remix supply to meet rapidly evolving demand.
+ 
+We've told you what it means to be an on demand business  to be flexible and responsive.  Over the last two years IBM has been building the
+capability to become an on demand business, and this quarter we demonstrated the progress that we've made, with our financial results.
+ 
+As we enter the second half of this year, we remain confident about the strength of our business and strategic model.  As we saw in the second quarter, our business model is unique and extremely flexible.  We are able to use our strengths to quickly offset challenges that arise in certain areas each quarter.
+ 
+So, based on these first half results, together with a steadily improving IT environment, we believe that the analysts' average estimates for full-year revenue and earnings per share remain reasonable.
+ATTACHMENT III
+IBM 2Q 2004
+Earnings Presentation
+ 
+July 2004
+Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the Company's filing with the SEC. Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations.
+ 
+ 
+ 
+May not add due to rounding
+ 
+ 
+May not add due to rounding
+ 
+ 
+* Reclassified to conform with 2004 presentation
+ 
+May not add due to rounding
+ 
+ 
+nm = not meaningful
+May not add due to rounding
+May not add due to rounding
+ 
+* Excluding Cash & Marketable Securities
+ 
+May not add due to rounding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Difficult sales environment
+ - 
+Numerous transaction deferrals
+ - 
+Closed two key software acquisitions
+ - 
+Sustained profitable host revenue streams
+ - 
+ 
+ 
+ 
+ 
+May not add due to rounding
+ 
+In an effort to provide investors with additional information regarding the Company's results as determined by generally accepted accounting principles (GAAP), the Company also discloses the following non-GAAP information which management believes provides useful information to investors:
+ - 
+ 
+Management refers to growth rates at constant currency or adjusting for currency so that the business results can be viewed without the impact of changing foreign currency exchange rates, thereby facilitating period-to-period comparisons of the Company's businesses. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates.
+ - 
+ 
+Management includes a presentation of cash flows that excludes the effect of Global Financing Receivables and subtracts net capital investments from Net Cash from Operations. For a financing business, increasing receivables is the basis for growth. Receivables are viewed as an investment and an income-producing asset. Capital investments are necessary to grow and sustain the business. Therefore, management presents financing receivables as an investing activity and Net Capital Investments as a reduction of Net Cash from Operations. Management's view is that this presentation gives the investor the best perspective of cash available for investment or for distribution to shareholders. Reconciliation to Net Cash from Operations is provided herein.
+ - 
+Management has included a pro forma estimate of PTI of the old Technology Group segment for the first two quarters of 2004. These amounts do not exist in the IBM Financial Systems and therefore are estimated. This data is neither reviewed by IBM management (except for purposes of this disclosure), used to assess performance, nor used to make resource allocation decisions. The presentation was created to provide a directional statement to our investors on the profitability of the Technology Group as it existed in 2003, and also because we believe it provides greater transparency into the new operating segment, Systems and Technology Group.
+ - 
+ 
+Management uses return on invested capital (ROIC) as a measure of how effectively we allocate our capital and our profitability. Management presents ROIC excluding the impact of Global Financing, rather than on a total IBM basis, as it provides a better measure of our mainline businesses and is a more appropriate point for comparison with our industry. Management believes that the leveraged nature of Global Financing makes Company-wide ROIC a less useful metric. Management also presents ROIC of our recently combined Systems and Technology Group because much of the capital to drive the strong profitability of our former Systems Group has been invested in our former Technology Group. See Form 8-K for reconciliations.
+ - 
+ 
+ 
+May not add due to rounding
+ 
+ 
+* Represents the sum of estimated amounts for Systems Group under the 2003 construct and elimination activity between the two units.
+ 
+ATTACHMENT IV
+ 
+Reconciliation of IBM Return on Invested Capital
+ 
+ROIC = Income from continuing operations excluding Interest expense/Invested Capital
+Invested Capital = Long-term debt + Stockholders' equity
+ 
+The reconciliation to the most comparable U.S. GAAP measurements for the numerator and denominator are as follows:
+ 
+ 
+* Calculated using the IBM consolidated effective tax rate for each respective period.
+ 
+Reconciliation of Non-Global Financing Return on Invested Capital
+ 
+ 
+* Calculated using the IBM consolidated effective tax rate for each respective year.
+** Allocated based on ratio of Global Financing debt to total debt.
+Reconciliation of Systems and Technology Group Return on Invested Capital
+ 
+The reconciliation to the most comparable U.S. GAAP measurements for the numerator and denominator are as follows:
+ 
+ 
+*** Calculated using the IBM consolidated tax rate, excluding Global Financing.
+ 
+S&TG Invested Capital is an allocation of IBM Long-Term Debt plus Stockholders' Equity based upon segment assets.
+
+

@@ -1,0 +1,690 @@
+FILE:CSC/CSC-8K-20120412165134.txt.gz
+EVENTS:	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Item 7.01.                      Regulation FD Disclosure
+ 
+On April 11, 2012, Computer Sciences Corporation (the Company) held a teleconference during which the CEO and the CFO discussed a preliminary and unaudited update for the fourth quarter and the fiscal year ended March 30, 2012.  A transcript of the teleconference is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+ 
+The information included in this Current Report on Form 8-K, including the transcript attached as Exhibit 99.1, is incorporated by reference into this Item 7.01 in satisfaction of the public disclosure requirements of Regulation FD. This information is furnished and not filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Securities Exchange Act of 1934 or the Securities Act of 1933 only if and to the extent such subsequent filing specifically references the information incorporated by reference herein.
+ 
+All statements in this report that do not directly and exclusively relate to historical facts constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements represent the Companys intentions, plans, expectations and beliefs, and are subject to risks, uncertainties and other factors, many of which are outside the Companys control. These factors could cause actual results to differ materially from such forward-looking statements. For a written description of these factors, see the section titled Risk Factors in CSCs Form 10-K for the fiscal year ended April 1, 2011 and any updating information in subsequent SEC filings.  The Company disclaims any intention or obligation to update these forward-looking statements whether as a result of subsequent event or otherwise, except as required by law.
+ 
+Item 9.01.                      Financial Statements and Exhibits
+Exhibit
+99.1                      Transcript of the Registrant dated April 11, 2011 (furnished herewith).
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+                                                                        COMPUTER SCIENCES CORPORATION
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+ 
+ 
+Exhibit
+99.1                      Transcript of the Registrant dated April 11, 2012 (furnished herewith).
+ 
+ 
+ 
+
+Transcript of the Registrant
+CSC - Computer Sciences Corporation Preliminary Q4 2012 Earnings Conference Call
+EVENT DATE/TIME: APRIL 11, 2012 / 03:00PM  GMT
+ 
+PARTICIPANTS
+CORPORATE
+ 
+ Bryan Brady
+Computer Sciences Corp - VP of IR
+ 
+ Mike Lawrie
+Computer Sciences Corp - CEO, President
+ 
+ Mike Mancuso
+Computer Sciences Corp - VP and CFO
+ 
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+ David Grossman
+Stifel Nicolaus - Analyst
+ 
+ Darrin Peller
+Barclays Capital - Analyst
+ 
+ Nathan Rozof
+Morgan Stanley - Analyst
+ 
+ Moshe Katri
+Cowen and Company - Analyst
+ 
+ Rod Bourgeois
+Sanford C. Bernstein & Co. - Analyst
+ 
+ Amit Singh
+Jefferies & Co. - Analyst
+ 
+ Bryan Keane
+Deutsche Bank - Analyst
+ 
+ Joseph Foresi
+Janney Montgomery Scott - Analyst
+ 
+ George Price
+BB&T Capital Markets - Analyst
+ 
+ Keith Bachman
+BMO Capital Markets - Analyst
+ 
+ Ashwin Shirvaikar
+Citigroup  Analyst
+ 
+ 
+ 
+ 
+1
+ 
+ PRESENTATION
+ 
+ 
+Operator
+ 
+ Good day, everyone, and welcome to the CSC preliminary update for the fourth quarter results conference call. As a reminder, today's call is being recorded. For opening remarks and introductions, I would like to turn the call over to Mr. Bryan Brady, Vice President of Investor Relations. Please go ahead, sir.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thank you, operator. Good morning, ladies and gentlemen. Welcome to CSC's conference call providing a preliminary update for our fourth quarter and full fiscal year 2012. We issued a press release last night containing a range of our expected results. So hopefully, you have had an opportunity to review them. As usual, this call is being webcast at CSC.com, and reported slides reminding you of the risks associated with any forward-looking statements. And we've also acknowledged our use of certain non-GAAP financial measures, and included a reconciliation of these in our press release which can also be found at CSC.com.
+On the call today are Mike Lawrie, our Chief Executive Officer, and Mike Mancuso, our Chief Financial Officer. Both gentlemen will provide some opening remarks, and we will then hold a brief Q&A session with you. So with that, I am pleased to hand the call over to Mike Lawrie.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Okay, Bryan, thank you. Hello, everyone. This is Mike Lawrie. I want to thank you for joining us today. And as Bryan said, I am joined here by Mike Mancuso. Yesterday, we issued a press release with the preliminary results for full-year '12, and the intent of this call is to provide a little more color around those numbers. In deciding to issue these preliminary results, we really wanted to give you a baseline on our performance from last year. And as you know, we will report our final audited numbers in May.
+But before we get into the numbers, I just wanted to share my perspective on the business a little bit here. I've been here now two or three weeks. I just wanted to share a brief perspective on that time I have been here so far. And during this time, I've had a chance to meet with many of CSC's clients, our partners, a lot of CSC people around the world, and have begun to get a little better handle on our operations and understanding of CSC's business. My plan is also to meet with some of you in person in the coming weeks, as well as many of our top investors. And the goal there, will be to share some of my perspectives, and also to gain your perspective on CSC. And needless to say, our goal here is to be as open and transparent as possible, as we begin to reestablish a trust and credibility with the analysts and community and our investors.
+But before we jump in, I just wanted to state that I clearly don't have all the answers today. Frankly, I don't even have all the questions today. But one thing is clear from my brief time at CSC, and one is that the business is significantly underperforming as evidenced by our results from last year. And the second key observation is that the business can clearly be fixed as we move forward. So let me just share a couple of comments around my initial assessment. The business does have significant challenges. And we should absolutely consider this a pretty significant turnaround effort as we go forward. We have profitability issues driven mostly by underperforming projects, NHS, which has been well chronicled over the last several quarters. And we have some business units that are not performing at the level that they need to perform at.
+There has been some significant shifts in the global technology services marketplace over the last several years. And CSC has not shifted quickly enough to some of these higher value-add services offerings, and as a result, have not been able to avail themselves to the full extent that we should. Internally, the operating model or the organizational model is overly complex, and lacks accountability, and our cost structure does not match the reality of our business today. And while we've made some very important strategic acquisitions over the years, our record of successfully integrating them and achieving value from them has been spotty.
+ 
+2
+ 
+So I think it's fair to say that there is significant work ahead. There will be some restructuring as we begin to align our costs to our revenue. And in the preliminary results, we highlighted a restructuring charge. We're going to implement a leaner, more efficient operating model with clear lines of accountability, so that we can get more lined up to deliver shareholder value. And needless to say, there will be some leadership changes as we move forward as well. We're going to have to fix and/or renegotiate some of our unprofitable contracts, and focus on building new capabilities to expand our offerings into these higher value-add services that I alluded to earlier.
+So these are just some of the highlights of the work we have ahead of us, and the steps we are going to need to take to improve our business. And I think as we take those steps, we will begin to see tangible progress and tangible results. But frankly, that doesn't really totally share with you the full CSC story. I think in my short time here, there are some outstanding assets in this Company, and frankly, the prospects of a turnaround are very good.
+CSC has enormous, some enormously skilled people around the world. Our portfolio contains some very good assets like our public sector capability, our software products and intellectual property associated with those software products, our geographic presence and many differentiated offerings that do add tangible value to our customers. Our global scale offers tremendous potential, to be able to deliver these higher value-add services, and our client base is very, very enviable. And in some of our higher value-add new services, we have a very strong position, as well as a very strong position in some very important industry verticals like financial services and healthcare.
+So with this brief background, and just a very brief perspective in my short time at CSC so far, let me lay out a schedule that you will see from us, as we begin to articulate and add some specificity to the turnaround effort. In May, we will report our final audited numbers for our fiscal year '12. And I will, at that time, share some more detail and insight into our short-term game plan and turnaround actions.
+I am planning to -- and think of this as sort of midsummer to late summer -- I do want to host an Analyst and Investor day where we'll get together, and really detail how we are going to construct the turnaround plan, the metrics by which our investors and the analysts can hold me, and can hold the management team accountable. And as I said, as a general operating principle, I like to be as open and as accessible as possible, so that we can continually update this community on the progress we are making throughout the turnaround program and turnaround efforts.
+So in closing, before I turn it over to Mike, and then we'll do a brief Q&A after Mike, I've tried to provide a candid picture of our business today. I'm not deterred at all. I remain very optimistic about CSC's prospects going forward. I have seen much of this before in other businesses. I haven't seen anything particularly new at CSC. And I'm quite confident that these challenges are surmountable. And that we can, over time, deliver tangible value to our shareholders as well as to our customers.
+As I said, at the outset of this call, the business is clearly fixable. I'm excited about it. I love to do these things. I think the potential for CSC is huge, and our clients and our partners are with us. And the people of CSC have a very strong appetite, and are ready for change. So with that, I will turn over to Mike, who will provide a little more detail on the preliminary fiscal year '12 results we published last night. Mike?
+ 
+3
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Thanks, Mike, and good morning to all. My remarks will be brief. First off, I want to try and set a framework of what level of financial detail we can discuss today, and what we are not in a position to discuss. Our fiscal year ended March 30, roughly 12 days ago. We are in the very early stages of consolidating results from our operating units around the world. We have an overall reasonable handle on the bookings number, and the overall revenue outlook. However, it is more difficult for us to capture operating results by reporting segment this early. And as we said in the press release, these numbers are unaudited. We understand and appreciate your desire for more specific detail, but we are just not in a position to provide it at this time. As Mike Lawrie said, we wanted to give you an early indication at where we are, rather than have you wait another month or so to see FY '12 numbers.
+So with that said, I will now address the numbers in the press release. First, the good news. New business bookings are looking very strong, for both the quarter and year. We expect to be at or about $19 billion when the numbers settles down. This suggests a book-to-bill of 1.2 times, thus adding to our backlog. Revenue from an overall perspective is about flat with last year, at $4.1 billion for the quarter, and $15.9 billion for the year. If you look at, on the bright side, given what's going on with the US federal budget and the economic unrest in Europe, we are somewhat encouraged by these results.
+Profitability for the quarter and year is obviously disappointing. In the quarter, we've experienced further contract performance write-downs in our NPS segment and MSS segment. Lacking an agreement on the NHS program, we expensed all of the NHS costs in the quarter. So no NHS costs went to the balance sheet. As Mike Lawrie indicated, we recorded a restructuring charge in the quarter related to a reduction in workforce, primarily in the Nordics and UK, but also affecting other geographies but to a lesser degree.
+Free cash flow for the quarter looks to be okay, but disappointing for the full-year. Lack of progress on the NHS front did impact free cash flow, when compared to last year. So in summary, some good news, and some not so good news. Speaking for the management team, we welcome Mike Lawrie to CSC, concur with his assessment of where we are, and more importantly, his roadmap for CSC's future. And I will turn it back to Bryan to kick off the Q&A.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay. Thanks, Mike. Well, we are now ready to host a brief Q&A session. So operator, will you please provide instructions to our callers?
+ 
+QUESTION AND ANSWER
+ 
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thank you.
+(Operator Instructions).
+We'll take our first question from David Grossman with Stifel Nicolaus.
+ 
+4
+ 
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ Thanks, good morning, and welcome, Mike Lawrie, and thanks for that -- those comments to get us started. Mike Mancuso, perhaps -- I know you've got limited information, however, can you give us a sense of what the operating margin or profitability was in the quarter -- the tax rate? And I think you said there were some problem contracts that were included in the numbers, but were there any non -- other nonrecurring items, perhaps like adjustments for the ongoing accounting review? And to the extent you can, perhaps quantify what the problem contract number, and any other unusual items if you will, were that impacted the quarter?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ David, I would love to give you a lot of detail, but I'm going to ask your indulgence on that. In a macro sense, let me take the latter point first. There are no significant or material adjustments in our number related to the ongoing SEC investigation. As far as the performance in the business unit that Mike indicated, there was a recurring underperformance in the MSS segment on some problem projects, also in the NPS segment.
+As far as giving you a margin rate, I really don't have one to quote right now by segment. You can assume, though, judging by the bottom line, that the margin rate wasn't very attractive. From a tax standpoint, I can tell you the rate for the quarter was in the low to mid teens for the quarter and significantly low for the year as we have been reporting all along, as a result of some of the settlements we had earlier on our business in Italy. So that's about all the detail I can get into right now, David.
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ Okay, thanks. And if I could just sneak one other item in, can you give us any sense for what the balance sheet and net debt may look like at year-end?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ I can tell you that our cash balance is roughly $1.2 billion. Our debt is unchanged from third quarter. We have no outstanding commercial paper. The only debt we have is the term debt that we carried, have been carrying through the third quarter.
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ Okay, great. Thank you very much.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Operator?
+ 
+5
+ 
+ 
+Operator
+ 
+ Yes, thank you. We will go next to Darrin Peller with Barclays.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ Thanks. Mike -- Mike Lawrie, can you give us a sense of -- versus your prior examples, experiences, you've done a lot of work in the past turning around other stories. And give us a comparative kind of look, in the sense of, is this a lot more challenging? Is this different? Are there other examples you've learned in the past you can really leverage for this? And what do you think of -- (Multiple Speakers).
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Darrin, absolutely. What I've seen here, again, don't -- I haven't been around that long, but what I've seen thus far I've seen before. Fundamentally, this is about trying to decide what you really want to be good at in the marketplace, getting focused around that, getting a strategy to execute, getting an operating model, organizational structure that allows you to get your resources lined up to execute that strategy. Getting the right leadership in place to manage that, and then get appropriate compensation, measurement systems, and a management system to monitor progress and make adjustments.
+So I see -- I see exactly the same issues. CSC is out of alignment on many of those things and when you get out of alignment you get into operational difficulties. And that is, to some extent, what has happened here and I've seen it exactly the same way other places. I think CSC has a lot more assets and capabilities than I've seen in some other places. So I think that's very much a positive. Certainly, the people in CSC have got a lot of skills and capability, and we need to get them lined up so they can execute against that set of capabilities. CSC is obviously big. We're roughly 100,000 employees, and in a partner network, so it, in that sense it's a little more complex from a scale standpoint. But in terms of the fundamentals of what you need to get lined up if you are going to run a successful profitable business and deliver some value, what I'm seeing so far in CSC is not out of line where -- what I've seen other places.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ All right. And then, just thank you for that. That one quick question for Mike Mancuso. We're getting a lot of questions on the free cash flow for the full-year. I know you mentioned NHS. But Mike, can you give us a sense of the lower level? Was it driven mostly by NHS, or any other parts of business? Maybe just a sense of what part came -- what came from what, in terms of the drag on the free cash flow.
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Well, Darrin, without getting into a lot of detail, certainly there's some impact from NHS, the fact that we don't have an agreement. The fact that milestones weren't recorded, the fact that advances weren't forthcoming. But also, look at the underlying operational performance of the Company. The income number, even though several of the charges we've taken were noncash at this point in time, still the general underperformance in income was probably -- at least half of the contributor, if not a little bit more.
+ 
+6
+ 
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ Okay. Okay. That's helpful. Thanks, thank you both.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thank you. Operator?
+ 
+Operator
+ 
+ We'll go next to Nathan Rozof with Morgan Stanley.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Hi. Thanks for taking my question. I wanted to dig a little more into the problem contracts. If you could provide any more insight, in terms of what types -- what is causing the problems in the contracts? And given that the operating margins seem to have taken a step down this quarter, is this something that's newer this quarter? Or are these contracts that have been having issues for an ongoing period of time and there was sort of an adjustment that was made?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Well, many -- this is Mike Lawrie. Many of these contracts have been ongoing. And the root cause is, in many cases, how we priced them, and then how we deliver against them, sometimes an underestimation of the scope or degree of difficulty in delivering against what we commit to. As I said, many of these are ongoing. There are a couple of new ones. We always have a couple of new ones. That's sort of business as usual. They do cut across many of our offerings, so infrastructure offerings as well as other offerings that cut across different industries. So I can't tell you exactly what the root cause is, other than typically we get to a point where we price something, we construct something or architect a solution, then we have difficulty delivering against that architected and price solution.
+So that requires us to either get much better at our delivery capability, or in some instances, it requires going back and renegotiating if there was scope change or other things that were asked of us as part of that solution. So these contracts that are underperforming cut across that whole spectrum of issues. And, Mike, I don't know whether you want to add anything there?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Yes, Nathan, I think Mike hit the nail on the head, but think of it in three flavors, if you will. One is, we have had difficulties in transitioning the start-up activities, where we wind up expensing a larger portion of the transition than we had anticipated. Some of these contracts are percentage of completion. We're struggling to some degree in a development phase of the contract, and where we think we have the solution nailed, testing yields that's not totally effective. So some of it reflects into that category. Again, the NHS is a negative contributor in the quarter, because we're expensing all the effort on the NHS activities until we have an agreement going forward. So to Mike's point, it's a little bit of a lot of things that have been contributing. And some of the problem projects that we've reported in prior quarters, have yet to achieve the turnaround we were looking for.
+ 
+7
+ 
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Thank you. That's helpful. (Multiple Speakers). One quick follow-up for you, if you don't mind. Just in terms of timing, any sense for about roughly how long it will take to renegotiate this book of contracts? And then along the same veins, if there's any sense to when we could expect guidance numbers for fiscal '13? Thank you.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Yes, I think we will again, be able to provide a little more definition when we meet again in May, and certainly, this summer when we get together to go through our turnaround program. I -- when we get to that point, we'll be talking about some targets, and how we are going to set up our financial model, and what can be expected over various time frames. And we'll cover that when we detail the turnaround plan. The renegotiation or fixing of these problem contracts is ongoing. It's something I'm focused on. I review all of them on a very regular basis, and we sort of track every week what progress we're making. So it's ongoing. And by the way, there has been significant improvement in some as well. My experience, again, is these contracts do yield to focus, either getting the right skills in place to fixing the problems or if they are transition or technology or testing issues. And in some instances, they yield to renegotiating some of the pricing, if it entails scope changes or other added capability. So it's an ongoing effort.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thanks, Nathan.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Thank you.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Operator, can we have move on?
+ 
+Operator
+ 
+ We will go next to Moshe Katri with Cowen and Company.
+ 
+ Moshe Katri
+- Cowen and Company - Analyst
+ 
+ Hi, good morning, and thanks for taking my call. Do you feel, Mike Mancuso, do you feel at this point you've taken the maximum amount of expensing, related to some of those troubled contracts? Or do you think we're going to have to go through another phase during the next few quarters with further expenses?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Moshe, we hope that from a financial risk/liability standpoint, that we've captured all the facts, and done all the estimating that to lead us to bookkeeping the right number now, which contemplates what we think we have to spend in the future months, against the revenues that the contract will yield. That having been said, though, if you had asked me this question a quarter ago, I would have probably given you the same answer. These projects are incredibly complex. There is a lot of technical talent surrounding it. Some of it is basic blocking and tackling, but some of is it very technologically challenging. And we make our best assessment of the situation as we close the books, and that's the best I can tell you.
+ 
+8
+ 
+ 
+ Moshe Katri
+- Cowen and Company - Analyst
+ 
+ All right. And then, given some of these issues of these contracts going through, do you feel comfortable that internal -- the right internal controls are in place, whether from a -- looking at this from an accounting perspective, or corporate governance perspective, vis-a-vis some of the new contracts that are coming on board? How comfortable are we that the new book of business that is coming on board is going to be yielding those profitable returns that we're looking for? And we're not going to go into same issues that we've had in the past?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Again, Moshe, we've been -- our performance has driven a significant number of actions, and improvement actions and change of personnel, and all the things that you would expect us to do to get our arms around where these problems exist. In some cases, we've shed the contracts. We've ended agreements with clients in troubled contracts where we can't reach a conclusion, and we're better off parting ways, et cetera. We've wrapped -- we've spent a considerable amount of money on internal controls, early warning systems. We've reengineered the bidding process to give us more comfort that we've got accuracy in our estimates, et cetera, et cetera. So we are doing everything that we can possibly do, to give us all the assurances that future business will not experience the problems that we've seen in the past.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Just to add on to that, Moshe, we've got a very strong contracting process in place now, where we review the pricing and the scope of much of this new work load. That's issue one, or point one. Point two, we also have what I will call a project assurance function that we've put in place where we review the project to make sure that we have the right skills. We understand the technologies that need to be integrated. That is also in place.
+And then the third thing, remember I talked about getting compensation and measurements properly aligned with the task. One of the things we will be doing is introducing profitability as another measure for our executive teams and other teams around the world. So they will not just be measured on revenue or total contract value, but they will be measured on the profitability and how we deliver against those projects as well.
+And then I'm spending, as I said, a lot of time reviewing these troubled projects, and getting the right focus on them, and also encouraging people to accurately forecast what is really happening. So when you add those actions all up, it's a fairly comprehensive set of actions to try to ensure that what we are bidding and delivering going forward is more profitable. And then a focus on fixing some of the contracts that have been with us for some time.
+ 
+ Moshe Katri
+- Cowen and Company - Analyst
+ 
+ Great. And then just a final question. I'm looking at the nice booking numbers that you've had during the quarter, and the numbers look, I would say, better than expected. Can you kind of give us some color on where we -- where the up side came from, the consulting side, the outsourcing piece? Where do you see that -- where do we see the up side coming from?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ It was across the board. We had some fantastic new wins in the infrastructure business. A lot of that book of business was new. I mean, a fair amount was recompete business or renewals, but there was a significant amount of new business. We'll talk about that in more detail in May. But it was across the board. I -- one of the things I said earlier is, I'm encouraged by the demand and our clients' willingness and desire to continue to use our very skilled resources to deliver value to their businesses. So I think that is a very good leading indicator.
+ 
+9
+ 
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay, thanks.
+ 
+ Moshe Katri
+- Cowen and Company - Analyst
+ 
+ Thank you.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Operator?
+ 
+Operator
+ 
+ Yes, we'll go next to Rod Bourgeois with Bernstein. Rod, your line is open. Please go ahead.
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ Okay, great. Thanks for letting me on. After two years of not being able to ask questions on these earnings calls, it's nice to be back in the loop here.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Hi, Rod, welcome to the team. (Multiple Speakers).
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ All right. No, seriously, thanks for letting me back in the loop here. What would be helpful here, Mike, is to find out, and do you feel comfortable now that forensic accountants have been able to thoroughly review at least CSC's top 100 contracts to ensure the accounting on these top deals is now in line with the contracts' actual performance? Or do you feel like you need more time for forensic accountants and operational experts to actually look at those top 100 or 200 deals at CSC? Do you have more -- (Multiple Speakers).
+ 
+ 
+ 
+10
+ 
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ I'll ask Mike to respond to that. Mike?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Rod, again, as I said to Moshe, we have done everything that we believe is humanly possible with our resources, both inside and outside, to review all of the projects that are ongoing, and all the bookkeeping against all of the projects to make sure, and try to make sure that we get it right. So, can I give you absolute certainty? Absolutely not. These are, as I said, highly technical projects. But if there are disappointments going forward, it won't be for lack of effort on our part to get it right. And we've devoted ourselves to that, and will continue to do so.
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ Maybe help with this. With the magnitude of the earnings shortfall, I mean, this is not just a couple of problem contracts in the corner. This is a massive miss. And so you have multiple problem contracts seemingly in each of your business units. Did -- is the surfacing of these problem contracts due to a recent up tick in operational inefficiency? Or is it due to more internal scrutiny on the actual performance of contracts that have been struggling for quite some time?
+It sure seems like the uptick in problem contract -- problem contracts being recognized is more a function of more light being cast on them, rather than just all of a sudden, the operational performance has fallen off of a cliff. So can you provide some perspective on whether it's the shedding light on the contracts that's causing the earnings shortfall, or if it's a recent uptick in operational inefficiencies?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ I don't think it's the latter, Rod. And it's certainly not added certainty, by adding -- shedding more light on the contracts. Look, there's a quantity of contracts. We have a pool of them. I'm not going to quote a number that we would refer to as troubled contracts or projects. We surround those, obviously, every quarter with technical as well as financial resources. A massive miss, yes, the numbers are disappointing.
+But when you factor in the fact in the quarter that there is a -- as we've shared in the press release, a very sizable restructuring charge to size our workforce to our revenue, particularly in the European and UK area. When you consider the fact that we're expensing all the NHS activity in the quarter, so if you reverse engineer the numbers, if you think in terms of our G&A spending being higher than usual as we've said all year, for reasons in supporting the SEC investigation, et cetera, there are a lot of other contributing factors. Nonetheless, not to excuse, our operating performance still is extremely disappointing.
+ 
+11
+ 
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ And Rod, and I'd just add, this is Mike. I would just add that, again I can only speak for the last two or three weeks. But I have encouraged people to get issues and problems out on the table earlier, so that we can look at some of these things. And hopefully put remedial actions in place, rather than waiting to the point where you get into a very difficult position with your clients. So again, I have seen this before, where sometimes some of these contract issues don't come out until very late in the cycle. So we have encouraged, to get these issues out on the table, so that we can begin to address them as we go forward.
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ Got it. And one other technical question. Did you take the opportunity in the March quarter to write-off assets on other troubled contracts besides NHS? Or was the margin issues in the quarter just a function of having heightened expenses relative to your revenues? In other words, did you have some problem contract asset write-offs besides NHS?
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ The answer is yes. I think I alluded to that in the remarks, Rod. (Multiple Speakers).
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ Can you give us a sense? I mean --
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ I'm not going to get into details at this point in time, Rod. When we get to the May time frame, and you see the margins by segment, you will have more insight into where the problems may have occurred.
+ 
+ 
+12
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay, Rod. That's all.
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Co. - Analyst
+ 
+ All right. Thank you.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thanks, Rod. Appreciate it. We will -- operator, could we move on?
+ 
+Operator
+ 
+ Absolutely. We will go next to Jason Kupferberg with Jefferies.
+ 
+ Amit Singh
+- Jefferies & Co. - Analyst
+ 
+ Hi, this is Amit Singh for Jason Kupferberg. First of all, I just wanted to check, you definitely had restructuring charges in this quarter. But as we look at next few quarters, should we expect more restructuring charges related to -- especially related to headcount, et cetera?
+ 
+13
+ 
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ There may be some restructuring as we go forward, yes. We tried to sweep up as much of this as we could into the fourth quarter. But, yes, there could be some incremental, and I use the word incremental as opposed to the same size restructuring, we announced in fourth quarter. But, yes, there could be some incremental restructuring as we go through the turnaround program.
+ 
+ Amit Singh
+- Jefferies & Co. - Analyst
+ 
+ Thanks. And just one quick question. Earlier in fiscal '12, the expectation for the free cash flow to be 90% or so of net income, which is pretty consistent with the recent years. And obviously, there ended up being some unexpected events in the year which caused that figure to come up short. But as we start thinking about fiscal '13, do you believe the business still has the potential to generate free cash flow close to net income levels? And if you could provide more color on that?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ I'm going to defer that question, Amit, until the May time frame. By that time, we will have digested all our budgets. Mike Lawrie will have had an opportunity to weigh in to the forecasting, et cetera, et cetera. And at that time, we'll revisit a discussion around what our cash flows are going to look like.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay, Amit. Thank you very much for dialing in. And operator, could we move on, please, to the next question?
+ 
+Operator
+ 
+ Sure. We'll go next to Bryan Keane with Deutsche Bank.
+ 
+ Bryan Keane
+- Deutsche Bank - Analyst
+ 
+ Hi, good morning. I guess, Mike Mancuso, the release highlights adjusted EPS for fiscal year '12 of $2.45 to $2.49. So if I add the $0.20 or so for fourth quarter to our previous three-quarters of pro forma EPS, that would get us closer to $3.58. So what makes the adjustment down to $2.45 to $2.49?
+ 
+14
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ You're considering the restructuring and iSOFT and those other issues, Bryan, in your analysis?
+ 
+ Bryan Keane
+- Deutsche Bank - Analyst
+ 
+ Yes, well -- I'm just looking at the adjusted number, which excludes all of those charges. It looks like -- now it looks like the -- a baseline number maybe we should start to look at is that $2.45 to $2.49? I assume that excludes all of those charges. And I'm just trying to figure out is that the core number we should look at, when we start to think about growth off of, into fiscal year '13?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Bryan, I think you should wait on FY '13 until, as I said, until we get to a point in a month or so, where all of the elements of what we're looking at, the effects of restructuring, the other actions that Mike Lawrie has initiated, et cetera. We'll be in a much better position to rebaseline you. I wouldn't draw any conclusions off of these results at this time.
+ 
+ Bryan Keane
+- Deutsche Bank - Analyst
+ 
+ But the $2.45 to $2.45 adjusted number for fiscal year '12, that excludes a lot of costs, and that's kind of a core operating number, I would assume. I'm just trying to reconcile the difference between, maybe the accounting has changed, but from the previous three quarters to what that number is indicating.
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Bryan, I'm not trying to be evasive, but when you think of all the moving parts, including the expensing of the NHS activities, the restructuring charges in the various businesses, tax rate which was extremely low this year, there are too many moving parts to give you a simple answer, or to frankly, affirm your supposition on the $2.40-ish kind of number. It -- just, be patient, wait a little while, and I think will you get all the clarity you're looking for.
+ 
+15
+ 
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ I think that would be important to get sort of an operational baseline. I think you're absolutely right, so that we can then begin to understand how we drive value off of that base going forward. And that will be a fundamental part of the turnaround program. And as I said, I want to have metrics in place where the management team is held accountable to those metrics. And you will be able to get a much clearer picture of how the business is performing on a regular ongoing basis.
+ 
+ Bryan Keane
+- Deutsche Bank - Analyst
+ 
+ Okay. Just two quick ones left for me. I guess, Mike Mancuso, is part of the lowering operating margin in the fourth quarter related to the audit committee's look at the American outsourcing business, and maybe POC accounting? And maybe you can just tell us what percentage of POC accounting is total revenue for CSC?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ I don't have that number off the top of my head. I think I've quoted it in the past Bryan, but I just -- whatever I throw out will be a total hip shot. And I would rather wait and give you a more precise answer. We will follow-up with that one.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay, well, thanks, Bryan. If we can move on, as some people want to ask some questions. So operator, could you give us the next caller, please?
+ 
+16
+ 
+ 
+Operator
+ 
+ Absolutely. We'll go next to Joseph Foresi with Janney Montgomery Scott.
+ 
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ 
+ Hi. I wonder if you could talk about how customer retention has tracked recently? And in the bookings number, is it safe to assume that, that the new business is coming in at the higher profitability?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Yes, we hope it's coming in at the higher profitability with some of the programs and disciplines and processes we've put in place. I mean, obviously we see some pressure and headwind in the public sector business, particularly in the United States. And in other areas, we're seeing a reasonable demand, as evidenced by these bookings numbers that we reported today.
+Europe is clearly a little on the soft side. But even within that there are certain clients that are looking at this as an opportunity to improve their productivity, and improve their operating performance, and are looking for partners to help them achieve that operating performance. So that can often drive our business. We saw some very good bookings in the United States in the commercial sector, and we saw some good bookings in Asia as well. So I would say, it's somewhat spotty by geography. And other than the headwinds that we're seeing in the public sector business in the United States, frankly, the demand is reasonable.
+ 
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ 
+ Okay. And I will stay away from the numbers question, but Mike, in your experience, what stage are we in, just if you could frame expectations for investors? Are we still in the early stages, and it's going to get harder before it gets better? Or when you think about the turnaround, have we already gotten the first stage out of the way, where you're kind of doing the restructuring, and are we moving forward from there?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Yes, I think we're in the stage where I would refer to as, sort of get fit, which is, get yourself in position to go begin to really grow. And not only grow, but grow profitably. Are we in the early stage of that? Yes. Will there be some other pain ahead of us? Yes, I think there will be. But what I can clearly tell you is we have a fair amount of work to do to get this organization lined up to the realities of the marketplace, get our cost structure lined up to the realities of the marketplace. And we are in the early stages of making that set of adjustments.
+ 
+17
+ 
+ 
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ 
+ Okay, thank you.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thanks, Joe. Operator?
+ 
+Operator
+ 
+ We'll go to George Price with BB&T Capital Markets.
+ 
+ George Price
+- BB&T Capital Markets - Analyst
+ 
+ Hi. Thanks very much for taking my question. One of the changes, Michael Lawrie, you alluded to -- was around management? And I can certainly understand where you probably don't want to be too specific around this at this point. But maybe you can discuss to some extent, how extensive you are willing to be or willing to think in that regard? And being familiar with CSC for a number of years, culturally it's been a relatively insular Company or tended to be way. So how much of an emphasis, perhaps, maybe on looking outside the Company, as you think about the former question? Thanks.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ I think CSC could definitely benefit from some new outside perspective. That's point one. Point two, as we begin to build an operating model that has more accountability, and much clearer lines of responsibility and decision making, initially we may have people in some of those key leadership positions, that over time are either going to demonstrate the ability to execute in that environment, or will demonstrate their ability not to execute in that environment. So we will make changes as we go forward.
+In terms of my willingness to make changes, I mean, given the performance of this business, we have to make changes. Let me be very clear about that, and that includes leadership changes. And I have a great interest in introducing an outside perspective. But not introducing an outside perspective just for the sake of an outside perspective, to add an outside perspective with the skills necessary to lead this next chapter of accountability and responsibility and performance in the organization.
+ 
+18
+ 
+ 
+ George Price
+- BB&T Capital Markets - Analyst
+ 
+ Okay. And if I could just ask one more quick thing. You mentioned adding profitability as a compensation metric for some of CSC's executives. I believe this is already a metric that the senior officers were held to. Maybe I guess, you're referring to some of the people running business units, and on a geographic basis. And if you can just clarify that, and I guess kind of the simple question is, why hasn't it been a metric before now?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Well, it has been a metric. The issue is the relative weighting of that metric. And I'm going to overweight to that metric in the short term. And then extend that, and deepen the coverage of that into the organization. For example, to our sales executives, to our delivery executives, and make sure that we have a much more even pull and balance between revenue growth and growth in profitability. You need to do both.
+ 
+ George Price
+- BB&T Capital Markets - Analyst
+ 
+ Great. Thank you very much.
+ 
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thanks, George. Operator, we've just got time for two quick questions here.
+ 
+Operator
+ 
+ Sure. We'll go next to Keith Bachman with Bank of Montreal.
+ 
+ 
+ 
+19
+ 
+ Keith Bachman
+- BMO Capital Markets - Analyst
+ 
+ Hi, thanks very much. For you Mike, I am wondering if you could give us your thoughts on investment mode. You talked about some cost cutting that's going to go on. But in order to drive revenues, I think you would also have to have some investments. And if you could give us some characterization of what those might be? And as importantly, as we're thinking about the operating margins for the Company, what's the time period for that investment mode, if there is such a thing? And then the second thing I will throw at you, is there a scenario that you see, whereby the NHS contract is not part of CSC's book of business?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ In terms of the NHS, no, I'm optimistic that that will continue to be a part. And we've taken a lot of pain and taken our medicine if you will, and now we hope to reap some of the benefits going forward, of some of that hard work and disappointment that as we've delivered to our investors. It is not -- the Company certainly doesn't revolve around NHS. We made that relatively clear last week, when Guy announced where we were with the NHS contract, and what percent of our total revenue within a range NHS represents.
+In terms of investment, yes. As we go forward and we begin to restructure the business, some of that -- my philosophy is to obviously return some of that to our shareholders in the form of improved margins, and improved profitability. But then also to use some of that to plow back into the business, and make some of the investments that we need to make in people, in skills. And in some cases, some of the offerings that we need to develop and to architect and test and deliver to the marketplace.
+And when we get together certainly this summer and go through the financial model going forward, I will be able to give some indication of how we are planning margin growth over the shorter term, mid term, longer term, and some idea of how we will reinvest some of that in the business, as I've just described.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Okay. Thanks a lot, Keith. And operator, the final one?
+ 
+ 
+Operator
+ 
+ Yes. And our final question will be from Ashwin Shirvaikar with Citi.
+ 
+ 
+20
+ 
+ Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+ Thanks. So specific to the bookings this quarter and last, our checks show you winning in a number of competitive vendor consolidation type situations, against particularly HP. Given your -- I guess my question is, when will the changes in the bidding and onboarding processes made, were they made in time, so that the new sort of contract is, is sort of maybe vetted properly?
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Mike, any thoughts?
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Well, obviously, we had a significant booking of new business in the fourth quarter. Just to pick one at, in the forefront, $6 billion of new business, a portion of that being recompetes, a portion of that being new business. Obviously, given our financial performance in the past on some of these projects, we took all the extra steps necessary to make sure that, that which we are winning, we are in fact, winning profitably. That it's priced properly, et cetera, Ashwin.
+So, throughout the year as we learn from our misfortune and disappointments and failings, we've tried all along to bolster the process. Nobody is more sensitive than this management team on the risks associated with winning new business that is poorly priced. So I can't give you absolute certainty. But I can tell you that the effort involved by the management team to ensure that it is priced properly, has increased the -- the intensity has increased. And we'll wait and see, obviously.
+ 
+ Ashwin Shirvaikar
+- Citigroup - Analyst
+ 
+ Okay. Do you feel you need to permanently increase the level of G&A as a percent of revenues, so that these kind of problems don't recur? I mean, part of the issue has been that you've been poorly staffed in all the wrong places.
+ 
+ Mike Mancuso
+- Computer Sciences Corp - VP and CFO
+ 
+ Well, some of it is oversight staff and finance and auditing, which would be in G&A. But a good piece of it is in operations, both in the estimating side of the business, and the selling side of the business. So it's not just in G&A. And I wouldn't look to G&A as a figure of merit that has to be measured kind of thing. Our G&A is something less than 2% of revenue. It has been. It spiked this year because of the investigatory expenditures we've had. We don't anticipate that level of spending in the future. But it's not just G&A costs, when you think about improving the bid process, and the insurance, if you will, around the certainty of making sure you've got things priced right.
+ 
+ 
+ 
+21
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Ashwin, thanks a lot for calling in.
+ 
+ Mike Lawrie
+- Computer Sciences Corp - CEO, President
+ 
+ Okay, yes, Mike, thank you. Just a quick comment here, and then we'll conclude. Again, thank you for taking the time today, and the interest in our business. And I've said, we've tried to provide a reasonably candid glimpse as to where the business is in an effort to set a baseline.
+And as I started this call, I'm excited about this, remain completely optimistic about our prospects, and have seen many of these challenges before. And I certainly look forward to meeting many of you in person. And we'll certainly talk again in May, and then later in the summer, as we develop a cadence around our communications concerning our turnaround plan. So again, thank you.
+ 
+ Bryan Brady
+- Computer Sciences Corp - VP of IR
+ 
+ Thank you very much, everyone. Thanks, operator.
+ 
+Operator
+ 
+ Thank you. Ladies and gentlemen, thank you for your participation. This will conclude today's conference call.
+
+

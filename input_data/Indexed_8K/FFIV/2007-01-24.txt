@@ -1,0 +1,53 @@
+FILE:FFIV/FFIV-8K-20070124161552.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+      Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+      Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+      Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+      Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+ 
+Item 2.02 Results of Operations and Financial Condition
+On January 24, 2007, F5 Networks, Inc. issued a press release regarding its financial results for the first quarter ended December 31, 2006. The press release is attached hereto as Exhibit 99.1. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits:
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+ 
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+For the first quarter of fiscal 2007, F5 Networks announced revenue of $120.0 million, up 7 percent from $111.7 million in the prior quarter and 36 percent from $88.1 million in the first quarter of fiscal 2006. Net income was $22.4 million ($0.53 per diluted share), compared to $17.8 million ($0.43 per diluted share) in the prior quarter and $15.2 million ($0.37 per diluted share) in the first quarter a year ago.
+SEATTLE, WAJanuary 24, 2007
+According to F5 president and chief executive officer John McAdam, the company's revenue growth during the quarter was driven primarily by strong enterprise sales in North America. "Including Central and South America, revenue for the Americas grew 13 percent sequentially and 39 percent year over year. Growth in Europe was solid while Asia-Pacific revenue was down slightly from the prior quarter. Japan revenue was also down sequentially, but was consistent with the seasonal pattern we've seen there during the past three years.
+"In addition to solid growth in our core business, which accounted for 90% of total revenue, security and WAN optimization revenue grew sequentially. As FirePass and WANJet become available on TMOS at the end of fiscal 2007, we believe the integration of these products will add further impetus to sales of our core products," McAdam said.
+"With respect to our core products, I'm happy to report that we have completed beta testing of the BIG-IP 8800, equipped with TMOS-based BIG-IP version 9.4 software, and that it will be generally available this quarter. The 8800 platform allows customers to apply more value to applications as they flow across the network by delivering the fastest decision-per-second performance in the industry at the application layer  where it matters most."
+In comparison to the BIG-IP 8400, currently the performance leader in application delivery networking, the BIG-IP 8800 delivers a 50% increase in Layer 7 throughput and doubles SSL and compression throughput. Based on published reports, the BIG-IP 8800 is more than twice as fast as the nearest competing product in all three areas.
+ 
+"Combined with the advanced capabilities of BIG-IP 9.4, the BIG-IP 8800 reduces total cost of ownership while delivering performance and broad functionality to meet the most demanding needs of enterprise customers and internet service providers. Feedback from extended beta-tests with more than two dozen customers has been very positive, and we are confident the BIG-IP 8800 will enable us to penetrate new accounts and quickly become the new high-end standard for many of our existing customers," McAdam said.
+Along with its solid gains in revenue and income, F5 continued to strengthen its balance sheet during the first quarter. Reflecting the strong growth of its services business, deferred revenue increased 14% to $68.7 million at quarter end. Cash flow from operations was $46.8 million, and the company ended the quarter with $545 million in cash and investments.
+For the current quarter, ending March 31, 2007, McAdam said management has set a target range of $124 million to $126 million in revenue with an earnings target of $0.44 to $0.46 per diluted share.
+F5 Networks is the global leader in Application Delivery Networking. F5 provides solutions that make applications secure, fast and available for everyone, helping organizations get the most out of their investment. By adding intelligence and manageability into the network to offload applications, F5 optimizes applications and allows them to work faster and consume fewer resources. F5's extensible architecture intelligently integrates application optimization, protects the application and the network, and delivers application reliability  all on one universal platform. Over 10,000 organizations and service providers worldwide trust F5 to keep their applications running. The company is headquartered in Seattle, Washington with offices worldwide. For more information, go to .
+About F5 Networks
+www.f5.com
+Statements in this press release concerning the continuing strength of F5's business, sequential growth, the target revenue and earnings range, demand for application delivery networking and other statements that are not historical facts are forward-looking statements. Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others: customer acceptance of our new traffic management, security, application delivery and WAN optimization offerings; the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive pricing pressures; increased sales discounts; F5's ability to sustain, develop and effectively utilize distribution relationships; F5's ability to attract, train and retain qualified product
+Forward Looking Statements
+ 
+development, marketing, sales, professional services and customer support personnel; F5's ability to expand in international markets; and the unpredictability of F5's sales cycle.
+F5 has no duty to update any matters discussed in this press release. More information about potential risk factors that could affect F5's business and financial results is included in the company's annual report on Form 10-K for the fiscal year ended September 30, 2006, and other public filings with the Securities and Exchange Commission.
+ 
+ 
+
+

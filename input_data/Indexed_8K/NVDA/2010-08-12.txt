@@ -1,0 +1,213 @@
+FILE:NVDA/NVDA-8K-20100812162458.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+ 
+SECTION 2 - Financial Information
+ 
+Item 2.02 Results of Operations and Financial Condition.
+On August 12, NVIDIA Corporation issued a press release announcing its results for the three months and six months ended August 1,  2010. The press release is attached as Exhibit 99.1 and is incorporated herein by reference.
+, 2010
+Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by David L. White, Executive Vice President and Chief Financial Officer of NVIDIA, regarding results of the quarter ended August 1, 2010, or the CFO Commentary.  The CFO Commentary will be posted to www.nvidia.com/ir immediately after the filing of this Current Report.
+ 
+The press release and CFO Commentary are furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by NVIDIA Corporation, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+ 
+SECTION 9 - Financial Statements and Exhibits
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+(d) Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+FOR IMMEDIATE RELEASE:
+ 
+ 
+ 
+ 
+ 
+ 
+NVIDIA (Nasdaq: NVDA) today reported revenue of $811.2 million for the second quarter of fiscal 2011 ended Aug. 1, 2010, down 19.0 percent from the prior quarter and up 4.5 percent from $776.5 million from the same period a year earlier.
+SANTA CLARA, Calif.Aug. 12, 2010
+ 
+On a GAAP basis, the company recorded a net loss of $141.0 million, or $0.25 per share, compared with net income of $137.6 million, or $0.23 per diluted share, in the previous quarter and a net loss of $105.3 million, or $0.19 per share, in the same period a year earlier.   GAAP gross margin was 16.6 percent compared with 45.6 percent in the previous quarter and 20.2 percent in the same period a year earlier.
+ 
+ 
+Results were impacted by a large inventory write-down and a charge related to a weak die/packaging material set.
+ 
+The inventory write-down was a consequence of weakened demand for consumer graphics processing units (GPUs) as higher memory prices and economic weakness in Europe and China led to a greater-than-expected shift to lower-priced GPUs and PCs with integrated graphics.
+ 
+The weak die/packaging material set was used in certain versions of previous generation MCP (chipset) and GPU products shipped before July 2008 and used in notebook configurations.  The charge, of $193.9 million, includes additional remediation costs as well as the estimated costs of a pending settlement of a class action lawsuit consolidated in the District Court for the Northern District of California in April 2009 related to this same matter.  The settlement is subject to certain approvals, including final approval by the court.  Excluding this die/packaging material charge and the associated tax impact, non-GAAP net income was $20.1 million, or $0.03 per diluted share.
+ 
+ Rapidly changing market conditions made for a challenging quarter, said Jen-Hsun Huang, NVIDIA's CEO and president. We delivered excellent results in Quadro professional graphics, Tesla GPU computing, and our Tegra system-on-a-chip business.  But our GeForce consumer business fell significantly short of expectations amid weak PC demand in Europe and China.  Although demand among end-users remains uncertain, we expect to drive revenue and grow market share with new products that are gaining momentum in each of our businesses.
+ 
+Outlook
+ 
+The outlook for the third quarter of fiscal 2011 is as follows:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second Quarter Fiscal 2011 Highlights:
+ 
+ 
+ 
+ 
+CFO Commentary
+ 
+Commentary on the quarter by David White, NVIDIA chief financial officer and executive vice president, is available at www.nvidia.com/investor.
+ 
+Conference Call and Web Cast Information
+ 
+NVIDIA will conduct a conference call with analysts and investors to discuss its second quarter fiscal 2011 financial results and current financial prospects today at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time).  To listen to the call, please dial (212) 231-2900.  A live Web cast (listen-only mode) of the conference call will be accessible at the NVIDIA investor relations Web site and at .  The Web cast will be recorded and available for replay until the company's conference call to discuss its financial results for its third quarter fiscal 2011.
+www.nvidia.com/ir
+www.streetevents.com
+ 
+Non-GAAP Measures
+ 
+To supplement NVIDIAs Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance.  These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP net income, non-GAAP net income per share and free cash flow.  In order for NVIDIAs investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude a charge related to the weak die/packaging material set that was used in certain versions of NVIDIAs previous gene ration MCP and GPU products, net of insurance reimbursements, a non-recurring charge related to a tender offer purchase, and the associated tax impact of these items, where applicable.  Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets.  NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the companys historical financial performance. The presentation of the companys non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the companys financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+ 
+ 
+ 
+ 
+About NVIDIA
+ 
+NVIDIA (Nasdaq: NVDA) awakened the world to the power of computer graphics when it invented the GPU in 1999. Since then, it has consistently set new standards in visual computing with breathtaking, interactive graphics available on devices ranging from tablets and portable media players to notebooks and workstations. NVIDIAs expertise in programmable GPUs has led to breakthroughs in parallel processing which make supercomputing inexpensive and widely accessible. The company holds more than 1,100 U.S. patents, including ones covering designs and insights which are fundamental to modern computing. For more information, see www.nvidia.com.
+ 
+Certain statements in this press release including, but not limited to, statements as to: the companys financial outlook for the third quarter of fiscal 2011; the companys growth; the companys reach in supercomputing; the benefit of the companys products and technologies; and the pending settlement of the class action lawsuit; are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations.  Important factors that could cause actual results to differ materially include: our reliance on third parties to manufacture, assemble, package and test our products; global economic conditions; development of faster or more efficient technology; the impact of technological development and competition; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports  NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended May 2, 2010.  Copies of reports filed with the SEC are posted on the companys website and are available from NVIDIA without charge.  These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+Copyright  2010.  All rights reserved.  NVIDIA, the NVIDIA logo, GeForce, Tesla, Quadro, NVIDIA, Tegra, and Fermi are trademarks or registered trademarks of NVIDIA Corporation in the United States and other countries around the world.  Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+ 
+ 
+For further information, contact:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+The following information has been prepared on a GAAP basis except where noted.
+Summary Results
+Revenue for the second quarter of fiscal 2011 was $811.2 million, down 19.0 percent from $1.0 billion in the prior quarter.  Revenue was up 4.5 percent from that of a year ago.
+Reflected in the second quarter results is a net charge of $193.9 million related to a previously disclosed weak die/packaging material set.  The second quarter results also include a large inventory write-down.  Each of these items is discussed in more detail below.  
+GAAP gross margin for the quarter was 16.6 percent, which was down 29.0 percentage points from the prior quarters gross margin of 45.6 percent.
+GAAP net loss for the quarter was $141.0 million, or $0.25 per share, compared with GAAP net income of $137.6 million, or $0.23 per diluted share, in the prior quarter.
+Excluding the charge for the weak die/packaging material set and the associated tax impact, non-GAAP net income for the quarter was $20.1 million, or $0.03 per diluted share.
+Revenue
+Business conditions in the second quarter rapidly changed in our key segments and regions.  As we entered the second quarter, rising memory costs and the weakness of the Euro increased end market prices of graphics add-in cards.  In addition, the growing economic concerns in Europe and China began to create pressure on discretionary spending.  As a result, the market moved towards lower-cost GPUs and PCs with integrated graphics.   These issues disproportionately affected NVIDIA for two reasons.  Firstly, our product strategy is oriented more towards the higher-end of the market.  Secondly, our discrete GPU attach rates in Europe and China are the highest in the world, and our share in both those regions is very high.  As a result, we inevitably lost some s hare and missed our original revenue outlook.
+In July, we launched our GeForce GTX 460 into the $199 to $249 segment.  It has sold well and continues to gain share.  The GeForce GTX 470 and GeForce GTX 480 continue to do well at the high-end.
+Revenue for our Professional Solutions business, which includes workstation graphics and computing, represented 26.5 percent of total company revenue and was up 13.4 percent over the prior quarter.   Quadro professional graphics was up slightly and our computing business was up significantly, again setting a new record.
+Our Consumer Products business, which includes smartphone and tablet products, as well as embedded entertainment, represented 5.6 percent of total revenue and was up 46.5 percent over the prior quarter.  Substantially all of this increase was attributable to Tegra, our mobile system on chip targeted for todays low power mobile applications.
+Special Charge:
+During the second quarter we recorded an additional net charge of $193.9 million related to a weak die/packaging material set that was used in certain versions of our previous generation MCP and GPU products shipped before July 2008 and used in notebook configurations.  The charge includes additional remediation costs as well as the estimated costs of a pending settlement of a class action lawsuit related to this matter.  Together with the $282.0 million of net charges we announced previously related to this same issue, this brings the total net charge to $475.9 million.
+ 
+ 
+ 
+The extra remediation costs are primarily due to additional platforms from late failing systems that we had not previously considered to be at risk and, to a lesser extent, higher remediation costs per unit.  No new types of chips are involved.
+ 
+Analysis of the anticipated costs is subject to many uncertainties but, two years after we shipped the last affected chip, data from customers indicates that the failure rates of most systems are decreasing.  Furthermore, we now test explicitly for this failure mode and have not seen any issues with the newer material sets.
+Also during the second quarter, NVIDIA reached a settlement with the plaintiffs of a class action lawsuit, consolidated in the District Court for the Northern District of California in April 2009, related to this same matter.  Part of the charge we took relates to the cost of implementing this settlement.  The settlement is subject to certain approvals, including final approval by the court.
+Of the $193.9 million charge, $181.2 million was charged to cost of revenue and $12.7 million to SG&A.
+Gross Margin
+GAAP gross margin of 16.6 percent for the second quarter was unfavorably impacted by two significant events.  Firstly, GAAP gross profit was impacted by the aforementioned charge.    Secondly, the unexpected consumer PC market weakness resulted in excess inventory of certain, primarily older generation, products.  As a consequence, our second quarter results include charges for a large inventory write-down.
+Excluding each of these items, gross margins would have exceeded our outlook.
+Expenses and Other
+GAAP operating expenses for the second quarter were $309.5 million.  However, this figure includes $12.7 million related to the weak die/packaging material charge.  Excluding this amount, non-GAAP operating expenses were $296.8 million, down $12.2 million over the prior quarter.  The underlying decrease was the result of cost reduction initiatives across the business rather than one single item.
+Our tax provision for the quarter was a benefit of $28.1 million as a result of the reported GAAP net loss.
+Balance Sheet
+Accounts receivable at the end of the quarter were $395.9 million, down $133.7 million sequentially.  Most of this decrease was the result of the decrease in revenue compared to the prior quarter and strong collections performance.  Our DSO at quarter-end was 44 days, down 4 days relative to the prior quarter.
+Inventories at the end of the quarter were $434.2 million, up 11.9 percent over the prior quarter.  Notwithstanding the inventory write-downs, inventory was up as a result of lower actual revenue than was planned early in the first quarter when we made wafer start commitments.  Our manufacturing cycle time is approximately four months.  We made appropriate adjustments to our build plans over the course of the second quarter, but we do not expect these corrections to meaningful impact our inventory levels until the fourth quarter.  Net of the inventory write-downs we took in the second quarter, we believe the inventory mix in our current pipeline is aligned with current market demand.
+On a related note, channel inventory was down quarter-over-quarter.
+Depreciation and amortization expense for the second quarter amounted to $46.6 million.  Stock-based compensation was $24.6 million.  Capital expenditures were $37.6 million.
+Cash flow provided by operating activities was $34.3 million during the second quarter.  Free cash flow used in the second quarter was slightly negative at $3.3 million with the principle contributors being strong collections offset by added inventory.
+Cash, cash equivalents and marketable securities at the end of the quarter were $1.77 billion, modestly up over the prior quarter.
+ 
+ 
+ 
+Third Quarter Outlook
+Our outlook for the third quarter of fiscal 2011 is as follows:
+We estimate depreciation and amortization to be modestly up when compared to the second quarter.  Capital expenditures are expected to be approximately $100 million, primarily related to engineering software license renewals.
+Diluted shares for the third quarter are expected to be approximately 586million.
+ 
+ 
+For further information, contact:
+ 
+ 
+ 
+Non-GAAP Measures
+To supplement NVIDIAs Condensed Consolidated Statements of Operations presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP net income, non-GAAP net income per share and free cash flow. In order for NVIDIAs investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude a charge related to the weak die/packaging material set that was used in certain versions of NVIDIAs previous generation MCP and GPU products, net of insurance reimbursements, a non-recurr ing charge related to a tender offer purchase, and the associated tax impact of these items, where applicable.  Free cash flow is calculated as GAAP net cash provided by or used in operating activities, less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the companys historical financial performance. The presentation of the companys non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the companys financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+ 
+Certain statements in this CFO Commentary including, but not limited to, statements as to: the companys financial outlook for the third quarter of fiscal 2011 and the pending settlement of the class action lawsuit; are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations.  Important factors that could cause actual results to differ materially include: our reliance on third parties to manufacture, assemble, package and test our products; global economic conditions; development of faster or more efficient technology; the impact of technological development and competition; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of perform ance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports  NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended May 2, 2010.  Copies of reports filed with the SEC are posted on the companys website and are available from NVIDIA without charge.  These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+ 2010 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, Fermi, Quadro and Tegra
+ 
+are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S.
+ 
+and other countries.  Other company and product names may be trademarks of the
+ 
+respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

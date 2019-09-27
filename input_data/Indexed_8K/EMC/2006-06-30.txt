@@ -1,0 +1,472 @@
+FILE:EMC/EMC-8K-20060630160503.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15 (D) OF THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+June 30, 2006
+ 
+EMC CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+176 South Street
+Hopkinton, MA 01748
+(Address and zip code of principal executive offices)
+ 
+Registrant's telephone number, including area code:
+(508) 435-1000
+ 
+ 
+N/A
+(Former Name or Former Address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ITEM 8.01 OTHER EVENTS
+EMC is filing as Exhibit 99.1 and Exhibit 99.2 to this Current Report on Form 8-K (i) a transcript of a call and webcast with investors on June 29, 2006 and (ii) slides from a call and webcast with investors on June 29, 2006. This communication may be deemed to be solicitation material in respect of the proposed acquisition of RSA Security Inc. by EMC Corporation.
+In connection with the proposed acquisition, EMC Corporation and RSA Security Inc. intend to file relevant materials with the SEC, including RSA Security Inc.'s proxy statement on Schedule 14A.
+STOCKHOLDERS OF RSA SECURITY INC. ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH THE SEC, INCLUDING RSA SECURITY INC.'S PROXY STATEMENT, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION.
+Investors and security holders will be able to obtain the documents free of charge at the SEC's web site, http://www.sec.gov, and RSA Security Inc. stockholders will receive information at an appropriate time on how to obtain transaction-related documents free of charge from RSA Security Inc. Such documents are not currently available.
+EMC Corporation and its directors and executive officers, and RSA Security Inc. and its directors and executive officers, may be deemed to be participants in the solicitation of proxies from the holders of RSA Security Inc. common stock in respect of the proposed transaction. Information about the directors and executive officers of EMC Corporation is set forth in the proxy statement for EMC Corporation's 2006 Annual Meeting of Stockholders, which was filed with the SEC on May 4, 2006. Information about the directors and executive officers of RSA Security Inc. is set forth in the proxy statement for RSA Security Inc.'s 2006 Annual Meeting of Stockholders, which was filed with the SEC on May 25, 2006. Investors may obtain additional information regarding the interest of such participants by reading the proxy statement regarding the acquisition when it becomes available.
+ 
+ITEM 9.01 FINANCIAL STATEMENTS AND EXHIBITS
+(c) Exhibits:
+ 
+ 
+2
+ 
+ 
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: June 30, 2006
+ 
+3
+ 
+ 
+ 
+EXHIBIT INDEX
+ 
+Exhibit
+ 
+ 
+ 
+ 
+4
+ 
+ 
+ 
+
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Thomas StreetEvents Conference Call Transscript EMC - EMC Acquires RSA Security Event Date/Time: June 29, 2006/5:30PM ET 1
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security CORPORATE PARTICIPANTS Tony Takazawa EMC - VP Global Investor Relations Joe Tucci EMC - Chairman, President, and CEO Dennis Hoffman EMC - VP Information Security Art Coviello RSA Security - President and CEO Bill Teuber EMC - Vice Chairman and CFO CONFERENCE CALL PARTICIPANTS Keith Bachman Banc of America - Analyst Aaron Rakers A.G. Edwards - Analyst Kevin Hunt Thomas Weisel - Analyst Brian Freed Morgan Keegan - Analyst Rebecca Runkle Morgan Stanley - Analyst Ben Reitzes UBS - Analyst Andrew Neff Bear Stearns - Analyst Frank Timms Robert W. Baird - Analyst Chris Whitmore Deutsche Bank - Analyst Erita Clemon Lehman Brothers - Analyst Brent Bracelin Pacific Crest Securities - Analyst PRESENTATION - ------------------------------------------------------------------------------- Operator Welcome and thank you for standing by. At this time all participants are in a listen-only mode until the question-and-answer period. [OPERATOR INSTRUCTIONS] I would like to introduce the host for today's conference, Mr. Tony Takazawa, Vice President of Global Investor Relations. Sir, you may begin. - ------------------------------------------------------------------------------- 2
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security Tony Takazawa - EMC - VP Global Investor Relations Thank you, Jennifer, good afternoon. Welcome to today's call to discuss EMC's recently announced acquisition of RSA Security. On today's call we have Joe Tucci, EMC's Chairman, President, and CEO to discuss the strategic rationale behind this transaction. Following Joe, Dennis Hoffman, EMC's Vice President of Information Security will provide a bit more detail around EMC's view of information security and the benefits this transaction will bring to customers. We will then be joined by Art Coviello, President and CEO of RSA Security. Art will discuss the strategic rationale from an RSA perspective. Finally, Bill Teuber, EMC's Vice Chairman and CFO, will then provide you with the financial details of the transaction. After the prepared remarks, we will open up the lines to take your questions. We will be making references to our slides today, so we encourage you to view them on EMC's website at www.emc.com/announcement. An archive of the audio and slide presentation will also be available following the call. Finally, I do want to note that the call this morning will contain forward-looking statements and information concerning factor that could cause actual results to differ can be found in EMC's filings with the U.S. Securities and Exchange Commission. With that, it is now pleasure to introduce Joe Tucci. Joe? - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Thanks, Tony, and welcome and thank all of you for joining us on today's call. It's an exciting day for us, and I'd like to first officially welcome RSA. We are incredibly pleased to have announced this integration with RSA, and we think it's going to be a tremendous asset to EMC, going forward. Let me put this in a little perspective for you -- over the last several meetings we've had with analysts and investors and, most notably, I'm pointing to our Analyst Day this past June 7th in New York City, we talked about EMC's evolution from a storage company to a storage and information management company, to where we're classifying ourselves today as an information infrastructure company. And, indeed, the vast majority of this transformation from a storage company to an information infrastructure company actually happened over the last three years. We talked about EMC's stack of technology and focused on our information lifecycle management offerings of hardware and software starting with our tiered storage, our protection software that goes from backup and tape to more efficient and effective disk backup and disk replication. We talked about how we have data mobility storage and how storage virtualization, our Invista product was going to revolutionize that layer of information software. We talked about our leadership position in archiving software and how we're going to unify that with a common archive and retrieval system. We talked about how most of information, more than 70%, is unstructured and how that's being managed with our content management software; putting this information into repositories and then making sure we manage that properly with checkin/checkout version control and digital rights management, et cetera. And then, of course, we talked about the coming, which we'll have at the end of this year, our intelligent information management software layer, which will feature data classification; we'll build out a metadata engine and around that we'll be able to set and automate management policies around this information. We talked about how to manage the information lifecycle management stack in conjunction with other assets in your infrastructure, what we were doing in resource management; we talked about how virtualization was basically game-changing and wrapping that around with services is how we have now categorized our information infrastructure strategy. We talked about how the EMC storage business is strong and growing; we talked about our plan over the next several years to sustain double-digit growth, and we talked about EMC's goal to grow five businesses -- five business areas into the $1 billion mark over the next several years. I mentioned these business areas were VMware infrastructure, which, obviously, would have VMware as a foundation. I've talked about content management, which would actually have Documentum and Captiva and several other acquisitions as the foundation. We talked about resource management being one of those $1 billion goals, which would have Smarts and the SRM Control Center family as a base foundation. We talked about storage virtualization being another one of these $1 billion opportunities for us with Invista and Rainfinity as the foundation. We also talked about our goal for information security and, of course, at that time the EMC, I was honest, had a small amount of revenue in that space and, of course, now as we talk through this, you can see how with RSA Security joining the EMC family, we will have the opportunity to grow that fact on a kind of a little bit of a pro forma basis, so to speak. We would expect this business in 2007 to start out at about a $500 million run rate, which would be the RSA business plus growth plus some of the EMC pieces that we also have in the security area. 3
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security So you can see, we are well underway. All these businesses are at least $500 million in size, larger, they are growing at substantial double-digit rates and, hopefully, you can see now, as the strategy is fleshed out, we have this opportunity of building these five new $1 billion businesses more relevant than ever. When you think of security of information, we have mentioned many times that as you look at IT surveys done by almost every single surveyor out there, security always makes the top of the list. As a matter of fact, security and storage usually dominate the top of this list and, again, being -- having a strong position in both of those, we think will bode well for us in the future. I want to talk about -- we talked about acquisitions in the past, and I've always said we have a disciplined, focused, acquisition strategy. I've categorized our strategy as a bit of a string of pearls. These are, as you see, from a 2006 size, the expectation from the market is that RSA would be about $375 million in size. It is a leader in what it does, and I think you can see that's a continuation of my pledge that I'd rather do something larger, a merger of equal is totally game-changing to continue to move our strategy forward with a very disciplined string-of-pearls approach. You know that we're kind of famous for detailed plans on exactly how we're going to bring whoever we acquire into the EMC family and make sure we maintain the talent that we bring in and make sure that we create the leverage to this. I've also told you that EMC, if we pull off the two strategies I talked about earlier -- one, of continuing to grow our core storage business in double digits as well as build these five new $1 billion businesses over the next several years -- that would mean over the next several years we'd have a growth rate in the mid-teens. I also said it was my kind of druthers and certainly my drive to buy a business that was growing faster than the mid-teens. And, if you look at RSA as according to some of the analysts out there, even a stand-alone, the expectation is to have a CAGR over the next three years of over 20%, and we absolutely believe that inside the EMC family with the leverage we create and talk to you about today, that will go up from there. Obviously, any acquisition we do -- we need to have strategic to be core to our storage and our information infrastructure focus, and here, to me, the mandate is clear by our customers and the technology itself. We need to make sure that the information itself is protected; we need to make sure it can be encrypted; we need to be able to encrypt the rest in flight, online, on disk, on tape, across networks -- in other words, wherever digital information lives. We need to do that. We need centralized key management software, and we have to provide identity management and control and authorize access to that information. These are the things that RSA brings to EMC. In short, we fundamentally and deeply believe that the technology company that seamlessly integrates information storage with information management, with information protection, with information security, and centrally manages and orchestrates this information infrastructure will be a huge winner in the technology marketplace, and the technology that's going to do that is EMC. EMC is where information lives and tomorrow you will see that it will be where information lives securely. With that, let me hand it over to Dennis Hoffman, and he'll put a little more meat on the bones and then, of course, I hope Art puts a little more meat on the bones after that, and then Bill will talk about some of the financing aspects. Dennis? - ------------------------------------------------------------------------------- Dennis Hoffman - EMC - VP Information Security Thanks, Joe. The simple truth of information security is that no one really thinks their data is safe. The focus and the threat has clearly shifted, and the financial legal implications of data loss and data theft are enormous. The reasons are twofold. First, today's information security solutions are insufficient to address this shifting threat. They protect resources like networks, servers, and laptops. They protect proxies for information not the information itself, and they attempt to establish perimeters. Second, information lives, and it moves. It's in constant motion through its lifecycle, whether that's in the form of an e-mail, a backup tape, or a laptop walking out the door every night. In short, information leaves the perimeter, and when it does it leaves its security behind. So the approach to securing information needs to change fundamentally. It's clear that information security is becoming an information management problem. It's changing from network-focused and perimeter-centric to data-focused and information-centric, and organizations of all sizes are realizing they simply can't secure what they don't manage. The strategy, which we've previously articulated, is aimed at addressing this very challenge, comprised of four integrated elements. First, assessing the security of information; second, securing the information infrastructure that holds it; third, moving beyond the security of the infrastructure to actually, more directly protecting the confidentiality and integrity of data itself. 4
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security And, finally, closing the loop on this process by assuring policy compliance in a way that doesn't kill organizations with regulation compliance. The foundation of this strategy is securing the information infrastructure and protecting the data. To secure the information, you have to secure the data itself, you must secure the user's access to it. That requires authentication, authorization, and encryption seamlessly integrated with the infrastructure that stores and manages the information. Every interaction, transaction, or communication starts with a trusted identity or all the rest of the security measures are wasted and all information is ultimately stored and managed over its lifecycle, or its value is diminished drastically. That's why EMC and RSA are coming together. To tell you more about that, I'd like to introduce Art Coviello, President and CEO, RSA Security. Art? - ------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO Thanks, Dennis. First, I'd like to say on behalf of all RSA employees that we're thrilled to become part of EMC. We'll be able to fulfill our vision of protecting online identities and digital assets while leveraging the financial strength of EMC but, more important, EMC's solution and expertise information lifecycle management. You know, security has evolved as an independent industry because security was not designed in as IT infrastructure and the Internet were developed. It has become increasingly clear to us due to the changing nature of security threats as well as the evolution of the Web and ubiquitous access to information that security has to be part of the information infrastructure. The combination of EMC and RSA will be of tremendous value to our joint customers because, together, we are the only company with the people, technology, and solutions to be able to achieve this vision. I'm enormously proud of our record of innovation and accomplishments over our 20-year history. Our record annual revenue of $310 million in '05 was followed in Q1 of '06 with a 30% year-over-year growth in orders netting better than 20% growth in revenue. Picking up on Dennis's comments -- securing information is about managing the relationship between people and data. Managing access to data, the people side, requires that we authenticate users, establish and manage their identity, authorize what they can and can't do, and maintain a record of what they have done -- audit. In addition, we need to secure data wherever it resides as it moves throughout its lifecycle. To do this, we need to encrypt the data and manage the encryption keys used to encrypt that data. RSA provides the technology to meet both of these needs and support the core parts of EMC's information-centric security strategy. How do we accomplish this? In short, we bring the industry's leading solutions for enterprise security, consumer protection, and data protection. I am now going to take you briefly through each of those solution groups beginning with enterprise solutions. Our enterprise solutions focus on protecting and leveraging trusted identities. In this day and age, as Dennis mentioned, a digital identity is the starting point for communication, interaction, and transactions that take place electronically. RSA's focus is in making sure that all those digital identities can be trusted. RSA's Secure ID is the industry-leading one-time password authentication in multiple form factors including tokens, USB devices as well as capability on PDAs and cell phones offering organizations and their users a wide range of options depending on the level of convenience and security desired. Our RSA Secure ID solutions ensure the authenticity of the users as they access data and take part in transactions. On the back end, we offer truly differentiated authentication management that can support large-scale deployments across organizations of any size. But what value does a trust identity have in isolation? Absolutely none. It needs to interact with the world around it. It needs to access corporate data; it needs to get e-mail; it needs to transact online; it needs to be leveraged or, better yet, the identity needs to be empowered to do useful things and here we have a broad range of solutions for our customers including our access manager to enable single sign-on and access management for Web apps, RSA sign-on manager for single sign-on within the enterprise, and RSA federated identity manager for across domain, single sign-on in the form of Identity Federation. There are obvious synergies with EMC in this area. Quite simply, RSA is able to offer EMC customers the ability to ensure that only authorized users gain access to corporate information, and RSA solutions can make access to this information even easier without compromising security. In addition to our enterprise solutions, we offer the industry's leading authentication solutions for consumer-facing companies to protect online transactions and the identities of the people behind those transactions. These RSA consumer solutions guard against identity fraud and theft, phishing, spam attacks by online fraudsters, sophisticated pharming scams and malware, and eroding consumer confidence that results from these online crimes. RSA offers flexible, layered authentication solutions to address varying needs of the consumer market including risk-based site-to-user and one-time password authentication. 5
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security In addition, we have an extensive fraud-monitoring network. Our fraud network is a single repository of fraud patterns that are identified during processing online transactions at 50 of the world's largest financial institutions as well as thousands of smaller ones worldwide. When we spot a fraud attempt, we share the identity of the fraudster across the network thereby preventing cyber criminals from launching the same attack against other businesses. Under EMC, RSA will continue to build and invest in this business as both companies believe that the protection of online consumer identity is a burgeoning business that is just beginning to take off. Finally, our RSA data protection solutions are designed to provide a robust framework for protecting an organization's sensitive data anyplace where data resides, whether it is at rest or in transit. Historically, our data protection solutions have supported traditional commercial software providers as well as embedded security for brand-name hardware providers, and this continues to be a growing business. Additionally, we are increasingly supporting the enterprise data protection needs of some of the largest companies in the world. According to Gartner Group, protecting consumer data is much less expensive than dealing with a security breach in which records are exposed and potentially misused. In addition to protecting data through encryption, customers need to be able to manage the keys, which is arguably the hardest part. At RSA we have the industry's leading key management solutions. So EMC and RSA Security are a natural team to lead the industry in data protection solutions as well. Together, we can enable customers to take a more proactive stance on protecting their information assets and, at the same time, provide them with what they need to comply with the recent regional and vertical mandates such as the U.S., state, breach notification laws, the European Union's Data Privacy Directive; Japan's Personal Information Protection Act, and the payment card industry standard. To summarize, it's time security becomes an integrated part of the information infrastructure. EMC and RSA are the companies best-positioned to accomplish this. Bill? - ------------------------------------------------------------------------------- Bill Teuber - EMC - Vice Chairman and CFO Thanks, Art. I'll be walking through a brief summary of the transaction details, our financial expectations, and the organizational structure of EMC's new information security division. First, the transaction summary. It will be an all cash transaction. The current enterprise value of the deal, which is net of RSA's cash of $230 million is slightly less than $2.1 billion, or $28 a share. Pending the appropriate approvals, we expect this transaction to close late Q3 or early of Q4 2006. Turning to our financial expectations, 2007, on a GAAP basis, we anticipate the RSA acquisition to be dilutive to EMC's earnings per share by $0.03. This is primarily due to the foregone interest income on EMC cash, which we'll use to complete the acquisition. We are taking some of the cash we have on our balance sheet and investing it in the business to drive much greater long-term returns for EMC. On a non-GAAP basis, excluding intangible amortization and stock option expense, the RSA acquisition will be neutral to earnings. In 2008 we anticipate the acquisition to be neutral to GAAP EPS and accretive by $0.03 per share on a non-GAAP basis. Once the acquisition is finalized, RSA will operate as EMC's new Information Security Division. Art Coviello will become and Executive Vice President of EMC and the President of the Information Security Division. Going forward, any future security activities and acquisitions will become part of this Information Security Division. Now I'm going to turn the call over to Tony to answer Q&A. - ------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Thanks, Bill. Before we open up the lines for your questions, I'd ask you to limit yourself to one question including clarification. There are a lot of callers on the line including investors and analysts covering each of our companies. We want to be able to answer as many questions as possible from as many stakeholders as possible. Thank you all for your cooperation in this matter. Jennifer, can we please open up the lines for questions? 6
+QUESTION AND ANSWER FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security - ------------------------------------------------------------------------------- Operator Thank you, sir. [OPERATOR INSTRUCTIONS] Keith Bachman, Banc of America. - ------------------------------------------------------------------------------- Keith Bachman - Banc of America - Analyst The words don't seem to match what is suggested by the economics, and I'm not sure how investors can conclude this is a good deal for EMC. You're taking on additional risk by buying a company and their assets. You're getting -- if I use the higher level, it's neutral in '07 and accretive in '08 by a cumulative $0.03. If you took that same [TAS] that you're using to buy back stock, you'd add $0.06, roughly, per year. How is this a good deal for EMC shareholders? The economic realities don't seem to match in any way the strategy that you've outlined. - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Well, Keith, first of all, we're going to do both, right? We are still committed, and I think when you see, as we announced the amount of buyback we've done, to date, I think you'll be pleased. So we're going to definitely continue to step up and very committed to buying back our shares. Secondly, we are absolutely convinced that to propel our business into the future and grow, and which would say that if we do this right, I absolutely, positively believe there is upside. But the way information, as I said before, is stored and to integrate protection around that, security around that, is going to be a mandatory, and if you can't do this, your core business will fall off, and to do it right and have a stock that's a lot more powerful, more valuable than our competitors, it's us that will benefit, and their little pieces or slices of technology that will fall off faster. So all that is kind of upside. So the whole name of the game here how do you build continued value for the long shot? So what we're basically saying at this juncture, since, you know, there's still a lot of work to do is let's come in at a what we believe is a conservative case, but as we operate, I think that's how we're going to do it, and we still have plenty of cash flow, plenty of financing capability, to make sure that the buybacks get stepped up. So it wasn't once or no. This was a missing piece in an information infrastructure puzzle, and right now we're focusing. I assure you, we're not in or out. We don't have anything else of size in our sights. There will be, obviously, some little tuck-in acquisitions, put a little bit of technology here and there, but this is something, if we do right, we can distance ourselves. And individual competitive products are not going to win. You need a stock of technology, and the companies that filled out these solid technology stocks are going to be the big winner, and that is the potential, and so the one answer would be and to your point -- all of that opportunity, if we do this correctly, is not built into the models yet. - -------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - -------------------------------------------------------------------------------- Operator Aaron Rakers, A.G. Edwards. - -------------------------------------------------------------------------------- Aaron Rakers - A.G. Edwards - Analyst Just to build on Keith's comments there, you know, looking at the financials or the valuation of the acquisition, I just want to get a better understanding of the meaningful premium paid for RSA. It looks like about five times estimated revenues, looking out into calendar 2007 -- definitely at the high end, if not above the high end of the range that the company's traded at over the last year. I just want to -- was there a bidding war here that, you know, why such a hefty premium on this name and why at this point? - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO 7
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security This piece -- this company and this space is incredibly hot. I pointed out, and those of you that could see the slides -- I showed you the pick list on CIO's minds of where they're going to spend money. As you could see, this kind of technology is at the top and I think, of course, this technology integrated would be at the top top. So integrate into our information infrastructure stock. So obviously there are other companies that noticed this, and to answer your question directly, as I usually do, yes, this was a very competitive situation. - ------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Question please? - ------------------------------------------------------------------------------- Unidentified Participant Yes, EMC is doing an acquisition. - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO What? - ------------------------------------------------------------------------------- Operator Kevin Hunt, Thomas Weisel. - ------------------------------------------------------------------------------- Kevin Hunt - Thomas Weisel - Analyst I just want to clarify a couple of things that you had said at your Analyst Day a few weeks ago. First of all, you said the main focus for the company would be on smaller acquisitions. You said you wouldn't do anything above $300 million. Now three weeks later you're doing something well over $300 million for a seemingly very high price. So the first thing I want to have clarified is what's changed, I guess, in three weeks on that. Secondly, in terms of the strategy, the outline on security, you indicated it would be security added in at the various layers of EMC's existing technology. Maybe we just don't know about RSA, but it seems like most of what they do is really in no way integrating with any of EMC's technology. So maybe you could help clarify those two things. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO First of all, Kevin, I think that's not what I said, I mean, I know that's not what I said. What I pointed out, as I said, I wasn't going to do something the merger of equals, game-changing. I said that in the past, and I prefer "string of pearls." I said that in the past the biggest acquisition that EMC did was -- in revenue terms, was Legato at $315 million in the year we bought it, that was their revenue. So I said at that time we did that, our revenues were approximately $6 billion. So at $6 billion we bought a $300 million company. I said now as an $11 billion company, I said, I certainly believe that -- I still want to do something that is not massive in size. I said certainly you could expect this. I hardly think that 375 jumped from 315 when are revenues are up 80% from the time we did Legato is going -- changing my word or the reality or the specificity of my word at all, okay? The other thing is the answer here is some and some, right, in terms of this, and I want to turn it over to Art in a second, but what we're doing on the authentication side and the encryption side, for instance, are directly integrations and, of course, the identity management is a bit of a tag on that when you think of businesses we have in content management and e-room and repository -- I mean -- there's a lot of connectivity right there, but, Art, you can do this better than I can. - ------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO Yeah, no, I think there's a tremendous amount of value. The fact of the matter is, the nature of threats on the Internet and against companies have evolved to direct attacks on data, whether that's identity data, intellectual property, or other information that is designed to achieve some type of 8
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security criminal gain. That means the market is headed our way, because we have the best answer against those types of threats. And because these are attacks on data, it's critically important that where the information lives is tied closely to the security, and that's what this combination will do. You need to secure information itself as well as secure access to the information. You can only do that through authentication and access control and encryption, and those are the technologies and solutions that we bring to EMC. - ------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - ------------------------------------------------------------------------------- Operator Brian Freed, Morgan Keegan. - ------------------------------------------------------------------------------- Brian Freed - Morgan Keegan - Analyst Your detractors are going to say that you made a big acquisition to very weak underlying trends in your core business. Can you talk about trends in your core business and what you see there? And also can you talk a little bit about the DOJ options -- timing and how you've hedged that in your acquisition? - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Sure. I don't know, Brian, I mean, we've been very specific on what we wanted to do with the information infrastructure. We've been very specific that tiered storage is important and how strong we are there. We were very specific that protection is and how we're the leader there and how important that is. Data mobility software -- how storage virtualization would [unintelligible] and Rainfinity is going to revolutionize that. What we're doing in archiving and content management and what we will do by the end of the year in information management software. We talked about how the management of resources, instead of domain by domain but more collectively was powerful for us and, of course, what we're doing in virtualization is unparalleled. Basically everything we do has to embed in it a significant piece of information security. We basically said, and I continue to say the core business will grow in double digits for the long term. So there is nothing here that's trying to protect the core business. What we're trying to do is create an information technology stock, which is somewhat expensive but is much more deep and collective. I really believe that, say, just take the storage part of your business -- if you can't have these options for encrypting, so some companies are going to want to encrypt only when it, say, goes to tape, and they're going to wheel it out to Iron Mountain or something. Some companies are going to want encrypted data itself right on the drives, and you can do that with appliances, you can do that - -- we could do that with directors right on the storage, we could do that with software -- all these techniques are going to happen, and all these techniques are going to be necessary and doable and, again, you need technology, and we think the best encryption technology in the industry is with RSA. To do that is really difficult, really difficult to do centralized key management. Again, we believe the best key management on the planet is us. So if we can do that in combination and just pick our storage business, that should -- which is the thing we don't have built in here, right, and that's the opportunity for the future. If I'm right, and I believe I'm right, this will also not only give us the growing RSA business, which we're showing you here, and how that impacts our P&L but it should make our storage business, at the expense of others, grow faster, and I could give you the same thing what's going to happen in protection and data mobility and everything we're doing with content management and resource management and other areas of our technology stock. So it's all about getting stronger, grading your own technology stock and distancing yourself from the competitors that play maybe stronger or only on one line. Art, do you want to add to that? - ------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO I think that, again, if you're going to have the kind of value stack that you're talking about, you're going to need to have a tremendous component not just of encryption and key management but access control. Access control is critical in our own key management solutions; it will be critical in things like content management. So there's tremendous leverage not only from the encryption side of our business but the access control. And at the front end of access control is making sure that you identify whoever it is in the first place that's getting access to the information. 9
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Tell me if I'm wrong -- you were asking about the last part, and you kind of asked it nicely and in code, but let's talk prose here. You wanted to know about the -- inquire about the stock option expensing on our side, was that what you were getting at? Hello? Let's assume that's right so maybe -- - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO I'll take that, Joe. So, first of all, we have an SEC inquiry and a DOJ subpoena essentially looking for the same level of information. So right now it's an inquiry and a request for information. I'm comfortable that we've always had strong corporate governance practices. We've applied them consistently, we've strengthened them over the years in conjunction with evolution of law and standards, but I can also tell you that this has not been the least of a management distraction to us, and we're complying fully with the investigation. - -------------------------------------------------------------------------------- Bill Teuber - EMC - Vice Chairman and CFO This is Bill. Obviously, we looked at this issue and feel comfortable with RSA's response. Next question, please. - -------------------------------------------------------------------------------- Operator Rebecca Runkle, Morgan Stanley. - -------------------------------------------------------------------------------- Rebecca Runkle - Morgan Stanley - Analyst Joe, if you could address what you consider the biggest holes in the security platform are, post the RSA acquisition, and then, secondly, just clarify whether or not the deal requires shareholder approval. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO It would obviously -- it's going to require shareholder approval on the RSA side, for sure, and I don't believe -- - -------------------------------------------------------------------------------- Rebecca Runkle - Morgan Stanley - Analyst But not EMC? - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Not on the EMC side, on the RSA side. - -------------------------------------------------------------------------------- Bill Teuber - EMC - Vice Chairman and CFO The biggest holes post that -- I mean, I think we've got a pretty complete story. There are elements of the strategy we have yet to execute on, but as I mentioned in my comments that the foundation of the strategy was enhancing the security of the information infrastructure that we sell today, and RSA helps us dramatically across the board with their offering there. And in better protecting data directly, and we've talked at some length about encryption and key management, the one area that we didn't talk about was the EMC common security platform. Underlying the business unit mandate here at EMC to build -- to maximize the inherent security, the products we sell in compliance with a product security policy, we have built, underlying that, a common security platform, which is a single, unified platform to deliver fundamentally a consistent set of security services around authentication, authorization, encryption, and so on. 10
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security RSA's identity management system, or IMS, effort to unify their products on a common architecture will significantly accelerate our ability to do that, and that's another area of integration for us. So with the exception, as Joe mentioned, a couple of developments and possibly a tuck-in here or there, we feel like our strategy is pretty well moving at this point. - ------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - ------------------------------------------------------------------------------- Operator Ben Reitzes, UBS. - ------------------------------------------------------------------------------- Ben Reitzes - UBS - Analyst I want to expand on a question asked earlier. There's obviously significant concerns in the marketplace about Legato execution in Asia Pacific, even the strength of your new Clarion cycle, and decelerating revenue growth. So now, tomorrow, we are going to be talking about a new deal, a whole new direction, really, even though you've talked about it before. I just want to hear again that you feel confident in your underlying core business, Joe, that we're not going to be surprised by anything short term and long term, and that we should assume that you have the ability to make this deal -- integrate this deal, another deal, seamlessly and go in this direction, create another direction for EMC with everything -- you feel good about where you are? - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Let me just take one part of your question, which is near term. It sounds like you're asking us to talk about the quarter. I'm not going to talk about the quarter. As a matter of fact, policy, during the quiet period, not to talk about the quarter, but please join us on July 20th, and we'll fill you in. I do feel that our business is on a good track. We said that last time we got together for our earnings call that we had a couple of areas -- uncharacteristically, we didn't execute well on. We told you the fixes. Some of those fixes are short term; none of those fixes are long term. Some of those fixes might take us beyond one quarter, but we have all those actions in place, and I do believe that we can very seamlessly and quickly do what we want to do and integrate the RSA family into EMC products, and I really don't -- again, I've got to take exception to this -- this is not a totally new [indiscernible] direction. This is -- the vast majority of this is going to be right down the line of what we do, and I think this whole thing is about leverage. The access to the corporate customers in banking and telcos, other financial services, institutions like life and property and casualty insurance companies - -- I mean, these are places where we have great footprints. All these are going to be big, big opportunities for the ID management businesses. And creating this leverage, I mean, I think there is a ton, a ton, of opportunity here for us to create even more upside leverage. So, obviously, we're going to go after the cost side of this with a vengeance, and most of our cost side is in what you might call infrastructure and back office functions, you know, on the sales development. Those are all opportunities for us to create top-line leverage, and that's exactly what we want to do. The most important one -- most important point is customers are going beyond asking us, they are demanding we do this. And they want the security built in not continually bolted on. It's driving them crazy, and that's what's motivating us to do this. You can't take this year or two months' view of this business. I mean, point blank, I mean, I've got to tell you, you will be very pleased, I'm sure, as we report the level of stock purchases, EMC stock purchases that we've done this quarter. I think you'll be pleased with how we're going to continue that in the future and, I've got to tell you, I love our stock at this place, and you're going to see we have enough capital bandwidth and cash flow generation in this company to do both things -- to set ourselves up for the future and make sure that we cut back those numbers of shares outstanding and drive those EPS points back up. And Bill and I and others have, as you know, have based our future compensation on being able to do that, and we will do that. 11
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO I can confirm what Joe said about the leverage. You know, we've always done a good job at the chief security officer level, but increasingly, again because of the nature of the threats and because of our expanding product and solutions portfolio, we've been becoming more and more strategic to enterprises. As a result of that, we have a requirement more and more to call at the CIO level, to be able to have our sales team leverage the EMC major accounts team is an opportunity that I know our field is going to relish, and we're really looking forward to that. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Without trying to be defensive, you picked out a few points that were less than robust last quarter. We have a broad portfolio of products, okay? And we show you basically how we do in that portfolio. As you know, with a portfolio, you have ups and downs, but people get way too focused on some of the downs and not focused at all in the areas that we really had core strength. You didn't mention SIM, you didn't mention content management, you didn't mention VMware, you didn't mention how did in Smarts. We have a great deal of things going well for us. At the same time, you run into bumps in the road every once in a while, and that's not unusual in any business. We just happened to show you where the bumps in the road are, and we're working hard to fix them. - -------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - -------------------------------------------------------------------------------- Operator Andrew Neff, Bear Stearns. - -------------------------------------------------------------------------------- Andrew Neff - Bear Stearns - Analyst I would just like to understand the approach you take in terms of all cash. I mean, just for RSA, you know, doing an all cash deal, I guess the concern is how do you tie these people into the success of EMC? - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Obviously, we have to make sure that we have incentives in place for the good people. Part of the deal that we did is we think -- and I'll let Art comment in a second -- that -- I can tell you that Art and his team is incredibly excited about being with us. I'll let Art comment on -- I think we've put enough and appropriate, and we're working on this together, to make sure that we create excitement for the future for, a, individuals like to be part of a successful organization. Together, we can create more success. They want to see their products succeed in the marketplace. We think we can accelerate that and I personally think EMC is not getting recognized for what we can do. I mean, we're saying publicly, and I said it again today, that over the next several years we will and can grow this company in the mid-teens, and we can and will have significant leverage between that growth and the bottom-line growth. So whenever we get believers there, and that will happen as we perform, there will be at some point a great pop in the stock, and that will make everybody thrilled. Why don't you comment, Art? - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO I certainly will. I said at the outset that we're very excited and thrilled about the opportunity, and part of it is the way EMC goes about their acquisitions, the ability to continue to pursue our vision with not only the financial leverage but also the information lifecycle management capability and the strategic entrA(C)e that gives us into the enterprise. That's just going to be a tremendous boon to our sales organization. 12
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security So there's significant retention in terms of the stock options that will be assumed. I do have an excited management team. We're on a roll. We've had a hell of a last six months. We know the market's turning our way, and now we get to take full advantage of it. And let me be so bold as to suggest, and I think Joe is alluding to it -- I think, over time, not just with RSA but the collection of all of the technologies and solutions that EMC has been accumulating, you create more value, you create more strategic value to all of your customers and, as a result, each and every product is strengthened, and I think that's the leverage, over time, the string-of-pearl strategy is going to deliver to EMC. I think it makes absolute sense. - ------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - ------------------------------------------------------------------------------- Operator Dan Renouard, Robert W. Baird. - ------------------------------------------------------------------------------- Frank Timms - Robert W. Baird - Analyst Actually, this is [Frank Timms] for Dan. Just curious, and you can look at the VMware acquisition and by keeping it kind of a separate entity, you've seen the success there. I'm just curious whether or not you'd consider doing something like that with the RSA acquisition and your thoughts around bringing it in house versus making it a little bit more separate. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO What we're going to do here is not what we did with VMware. You've got to remember, with VMware, as I keep saying, some of our largest and most fierce competitors are some of VMware's biggest partners. We had the opportunity with VMware to create a new layer of technology in the Hypervisor and advanced storage services around that -- software services around that Hypervisor, and, you know, to do that we're doing something very special, which is working exceedingly well. But all I say, like Documentum, first of all, I would say security is probably the best brand in security. So we're definitely not going to throw away that brand. It will be EMC's dedicated, if you will, security business unit. It certainly will have sales capability. It will have a tremendous amount of presales capability. It will have some support capability and, obviously, obviously, development capability. But we're going to make sure that we leverage aggressively the EMC sales force. We're going to make sure that we leverage our infrastructure, whether it's real estate, whether it's IT, whether it's back office functions, finance, et cetera, et cetera. So we are absolutely going to go after -- and Art is as passionate about this as I am -- we're going to go after every dime of cost savings there are, and we've got some targets on the wall, which we will meet, indeed, and then we have what I think are not as aggressive as we need, and we will fix that over time, but I have long learned that it is better to under-promise and over-deliver, and as we get more comfortable, we will give you, hopefully, those revenue synergies which I think are huge, because we will leverage our massive 7,000-person-plus sales force out there, which are calling on exactly the same customers, because these are banks, which need to buy, say, identity management for customers that use online banking. These are medical companies, which need to secure medical information, and so these sales are going to go together. These are two disparately different people. Even in all our sales now, the chief security officer is getting involved. There's mandates that we getting for our -- so by putting -- so this is going to be much more -- much, much, much more integrated and really an integral part of our stock, and VMware is going to be -- you know, continue to run very arm's length like we're doing it. Why? Because it's working fantastic, but that's not the plan here. Art, you got -- - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO It would be crazy not to take advantage of the leverage. And at the risk of being a little bit repetitious, we're saying that the security protection for the information infrastructure is getting to be a strategic and critical item at the CIO level. And EMC's strength in similar verticals to ours, whether it's the telco industry, financial services industry, go on and on, will give us tremendous leverage points and, again, at the risk of repeating a little bit, you know, you don't win in technology spending all of your money buying back shares. It can be a great thing to do opportunistically if you think your shares are undervalued, but you only win in technology by growing, and I think we'll be able to add to that growth rate and, again, create more synergy in conjunction with some of the acquisitions that EMC has done. 13
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security - -------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Can we move to the next question, please? - -------------------------------------------------------------------------------- Operator Chris Whitmore, Deutsche Bank. - ------------------------------------------------------------------------------- Chris Whitmore - Deutsche Bank - Analyst Two brief questions -- first, can you quantify any of the synergy benefits you see from either a top-line standpoint or a cost structure standpoint. And, secondly, can you remind us what your internal IRR or ROI target is for acquisitions, and tell us what needs to happen for this deal to meet that criteria? Thanks. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Chris, from a synergy standpoint we have, obviously, baked in both top line and expense synergies. I'm not going to say what is which but clearly we expect more top-line synergies, and we think we'll get out of the overall cost base, and we think that there is tremendous top-line synergies here for EMC. We haven't disclosed our internal IRR metrics in the past, and we're not going to do that right now, but we think this is incredibly important and a good acquisition for EMC. - -------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Next question, please. - -------------------------------------------------------------------------------- Operator Harry Blount, Lehman Brothers. - -------------------------------------------------------------------------------- Erita Clemon - Lehman Brothers - Analyst Hi, this is [Erita Clemon] for Harry. I just wanted to ask if you could talk a little bit about what you'll be getting from the acquisition that you wouldn't from just partnering with RSA. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO RSA wasn't going to be around, that's what we're getting. - -------------------------------------------------------------------------------- Tony Takazawa - EMC - VP Global Investor Relations Okay, next question please. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO I'm not being facetious. I mean, if there's anything that I do wrong that some of you tell me in private is that I'm kind of too blunt and too straight, but that's kind of the way I was built. And, I'm telling you, this is critical technology, critical, and if you think we're the only ones that 14
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security saw that, you're not listening to me, okay? This was very competitive, and this is not -- and then there's a limited number of places you can get this kind of technology, and not having it would put us at a severe disadvantage and, I assure you, others that might have bought this would not want to share it with us. - -------------------------------------------------------------------------------- Operator Brent Bracelin, Pacific Crest Securities. - -------------------------------------------------------------------------------- Brent Bracelin - Pacific Crest Securities - Analyst Hi, Joe, I certainly appreciate you being straightforward here. I know you touched on this before, but I kind of wanted to follow-up and dig a little deeper on the product overlap and then the sales coverage overlap today. More specifically, how often is RSA directly sold or bundled with storage today, if at all? And then, if not bundled, how long do you think it will take to integrate these technologies and sell this through your sales force as an integrated solution? - ------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO Let me give that to Art. He's been getting -- from the other side, he sees this better, plus he sees others besides us. And I'll add a little color after that. - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO I think Dennis touched on the common security platform from a technology standpoint. We've been developing our identity management system, IMS, now, for two or three years. So we give EMC a substantial leg up. The first iteration of that product should be out the latter part of this year, and that will be our authentication manager. Essentially what the platform does is it enables us to incorporate all of our server products onto one platform with a common user interface, common GUI, common administrative services, and we can leverage that throughout EMC's product line. So we've got obvious development work to get all of our own products on that. By the way, that will include the key management product as well as our access manager and sign-on manager products. So, certainly, that technology integration that will go on over the next couple of years internally with RSA and then across with EMC's products. Again, I think there's more and more of a demand from CIOs to combine technologies to buy from a single vendor, and as the attacks, as I mentioned earlier, continue to evolve to ones that are specifically against data, then the synergy between the two companies will become increasingly apparent. - ------------------------------------------------------------------------------- Brent Bracelin - Pacific Crest Securities - Analyst Can you just be clear? It sounds like today do you actually bundle the technology with storage or this authentication management product is something that you would, in the future, bundle with storage? - -------------------------------------------------------------------------------- Art Coviello - RSA Security - President and CEO Well, the initial discussion we had were about potentially OEMing the technology, and I think EMC's basically just in tune with their own strategy would look at this as the technology they need to own. - -------------------------------------------------------------------------------- Joe Tucci - EMC - Chairman, President, and CEO If we don't have centralized key management, if we don't have strong encryption, if we don't, you know, a number of our businesses get much closer and provide identity management to the information directly. We will put ourselves in a [troubled] position. Having the best technology, we can put ourselves in a market advantage, because we don't believe anybody is going to beat us to the punch here, if we do this properly. And this is what you need to monitor -- how are we doing on this? If we do this properly, which is what our challenge is, and integrate this quickly and properly and get the leverage out of our sales force, it's going to be a phenomenal story, and that's the upside leverage that's not built in. 15
+FINAL TRANSCRIPT - ------------------------------------------------------------------------------- Jun. 29, 2006/5:50PM, ET, EMC - EMC Acquires RSA Security You know, remember, and it was kind of touched on before, and we talked about it at Analyst Day, those of you that were there, and I think most everybody on the phone here was, you know, that we -- and there's pluses and minuses thrown around about it, and we said from the stage that we put -- our board put a three-year EPS goal in front of us for our compensation, and there was debate whether that was -- EPS was good or not. Obviously, when we do something like this on the short term we're hurting ourselves, right? The best thing I could have done is just do a bunch of buybacks and really play it. But what we're doing is, we're putting this company in the right spot for the long haul, obviously doing this right, there is opportunity to make these results significantly better and have a much longer and much more powerful, competitive company out there. So, again, we are acting in the best -- I believe, since I am a big shareholder, and I have a lot at stake, I am acting in the best interest of the shareholders in doing this because we think this is going to really make us competitive. And, if you think about it, right, we started out this year with 7.4 billion in cash, no debt. They used 2 billion of cash for this. That leaves us with 7.4, but we're going to generate about 2 billion this year. So we're kind of back where we were in the beginning, very committed to being a buyback. It gives us a lot more firepower to do additional buybacks, and we haven't even touched -- haven't even touched the financing opportunities to do more. So basically we're going to play all these things together to continue to drive EPS because I want to make sure that we do both. So I want to position the company properly and drive EPS, and I've got two shots on goal here with RSA -- one is to get that leverage on the top line, make sure those we get those synergies quickly, get that leverage on the top line, and I've achieved what we're showing you here today and, number two, is obviously if we continue to have non-believers, you know, they just continue to go -- buy the hell back out of this stock because -- and we've got plenty of financial leverage to do it. So I didn't see, like, this is a trade-off. And, again, I'm exactly where you want me to be for my motives. I am doing the best thing for this company's shareholders. Great. I think we've said enough. I really appreciate it. I'm sure there's going to be a lot of interest, and we'll be around talking to you in groups, and thank you for your interest, and we will not let you down. - -------------------------------------------------------------------------------- DISCLAIMER Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies mayindicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. (C) 2005, Thomson StreetEvents All Rights Reserved. 16
+
+Tony Takazawa
+Vice President, Global Investor Relations
+June 29, 2006
+Welcome
+ 
+Forward-Looking Statements and GAAP Reconciliation
+This presentation contains "forward-looking statements" as defined under the Federal Securities Laws. Actual results could differ materially from those projected in the forward- looking statements as a result of certain risk factors, including but not limited to: (i) risks associated with acquisitions and investments, including the challenges and costs of closing, integration, restructuring and achieving anticipated synergies associated with the acquisition; (ii) adverse changes in general economic or market conditions; (iii) delays or reductions in information technology spending; (iv) competitive factors, including but not limited to pricing pressures and new product introductions; (v) the relative and varying rates of product price and component cost declines and the volume and mixture of product and services revenues; (vi) component and product quality and availability; (vii) the transition to new products, the uncertainty of customer acceptance of new product offerings and rapid technological and market change; (viii) insufficient, excess or obsolete inventory; (ix) war or acts of terrorism; (x) the ability to attract and retain highly qualified employees; (xi) fluctuating currency exchange rates; and (xii) other one-time events and other important factors disclosed previously and from time to time in EMC's and RSA Security's filings with the U.S. Securities and Exchange Commission. EMC and RSA Security disclaim any obligation to update any such forward- looking statements after the date of this presentation.
+This presentation contains non-GAAP financial measures.
+A reconciliation to GAAP is included in these slides and can be found on
+www.EMC.com
+.
+2
+ 
+Agenda
+EMC Corporate Direction
+Joe Tucci, EMC Chairman, President and CEO
+EMC Strategic Rationale
+Dennis Hoffman, EMC Vice President Information Security
+RSA Security Strategic Rationale
+Art Coviello, RSA Security President and CEO
+Transaction Summary
+Bill Teuber, EMC Vice Chairman and Chief Financial Officer
+Summary and Q&A
+3
+ 
+EMC has Evolved into a Trusted Information Infrastructure Provider
+4
+ 
+Intelligent Information Mgmt Software
+Archiving Software
+Data Mobility Software
+Protection Software
+Tiered Storage
+Content Management Software
+Information Lifecycle Management
+Info Centric Security
+EMC's Evolving Information Infrastructure
+Services
+5
+ 
+EMC's Storage Business is Strong and Growing!
+Our plan is for our storage business to sustain double-digit growth over the next several years.
+And, it is EMC's goal to grow five of our business areas to the billion-dollar mark over the next
+several years.
+6
+ 
+EMC's Billion-Dollar Business Opportunities
+Technolo
+gy/
+Business
+                  
+Goal
+                 
+Foundation
+VMware Infrastructure
+                               
+  $1B
+                                    
+   VMware
+                                       
+Content
+Management
+                                    
+  $1B           Documentum +
+Resource
+Management
+                           
+  $1B    Smarts, ControlCenter
+Storage
+Virtualization
+                                  
+  $1B        Invista, Rainfinity
+Information Security
+                                        
+  $1B           RSA Security
+7
+ 
+Source: Morgan Stanley November CIO Survey, Jan. 3, 2006
+1.
+   
+Security (Software)
+            
+2.
+   
+Security (HW & Services)
+3.
+   
+Storage Area Networks
+4.
+   
+Wireless LAN
+5.
+   
+Storage Software
+6.
+   
+Portal Software
+7.
+   
+VOIP Infrastructure
+8.
+   
+IT Education and Training
+9.
+   
+Storage Hardware
+10.
+Business Intelligence Software
+The Security of Information Drives Security to the Top
+Compliance-driven Security Priorities
+1.
+   
+Identity and access management
+2.
+   
+Information leakage prevention
+     
+3.
+   
+Strong authentication
+        
+4.
+   
+Policy compliance software
+                  
+5.
+   
+Encryption
+              
+Source: Merrill Lynch CISO Survey, June 2006
+Overall IT Priorities
+8
+ 
+9
+ 
+10
+ 
+Agenda
+EMC Corporate Direction
+Joe Tucci, EMC Chairman, President and CEO
+EMC Strategic Rationale
+Dennis Hoffman, EMC Vice President Information Security
+RSA Security Strategic Rationale
+Art Coviello, RSA Security President and CEO
+Transaction Summary
+Bill Teuber, EMC Vice Chairman and Chief Financial Officer
+Summary and Q&A
+11
+ 
+The Problem: Digital Information Simply Isn't Secure
+Source: Enterprise Strategy Group March 2006
+18%
+82%
+Data
+confidentiality and integrity
+are the top-of-mind security concerns
+Fear of data loss/privacy breach
+Protecting sensitive data from unauthorized access and use
+Significant financial implications
+Fear of audit and non-compliance
+Compliance with internal and external mandates on data protection
+Significant legal implications
+ fewer than one in five companies feel all their data is adequately protected
+Despite significant of investment in security technology and services
+12
+ 
+Today's Information Security Solutions are Insufficient
+Most information security products don't actually secure information
+They protect networks, laptops, and servers
+They do little to protect the confidentiality and integrity of information
+13
+ 
+Today's Information Security Solutions are Insufficient
+Information is in constant motion throughout its lifecycle  making it difficult to lock down
+Perimeters and resources are constantly being traversed
+14
+ 
+A New Approach is Needed
+Secure information throughout its lifecycle
+Information Security is an Information Management problem
+From: network-focused, perimeter-centric
+To: data-focused, information-centric
+Capture
+Create
+Collaborate
+Version
+Manage
+Publish
+Archive
+Retire
+Re-archive
+Query
+The Lifecycle of Enterprise Information
+15
+ 
+EMC's Strategy: Information-Centric Security
+4
+3
+2
+16
+ 
+The Essence of Information-centric Security
+3
+2
+Protect
+Data
+Directly
+Secure
+Information
+Infrastructure
+Data
+People
+Management via Policy, Process and Technology
+17
+ 
+Agenda
+EMC Corporate Direction
+Joe Tucci, EMC Chairman, President and CEO
+EMC Strategic Rationale
+Dennis Hoffman, EMC Vice President Information Security
+RSA Security Strategic Rationale
+Art Coviello, RSA Security President and CEO
+Transaction Summary
+Bill Teuber, EMC Vice Chairman and Chief Financial Officer
+Summary and Q&A
+18
+ 
+Who We Are
+RSA Security is the leader in protecting online identities and digital assets
+RSA Security invented core security technologies for the Internet and continues to build on a 20 year history of innovation
+2005 Annual revenue of $310 million
+Cash balance as of 3/31/06 of $208 million, approximately $2.90 per share
+Headquarters in Bedford, Mass., with offices around the world
+19
+ 
+Technical Foundation of Information-centric Security
+3
+2
+Protect
+Data
+Directly
+Secure
+Information
+Infrastructure
+Data
+People
+Management via Policy, Process and Technology
+Identity and Access Management
+Encryption and Key Management
+Manage Keys
+Encrypt
+Authenticate
+Authorize
+Audit
+20
+ 
+RSA Security Provides a Security Services Platform
+3
+2
+Protect
+Data
+Directly
+Secure
+Information
+Infrastructure
+Data
+People
+Management via Policy, Process and Technology
+Identity and Access Management
+Encryption and Key Management
+Manage Keys
+Encrypt
+Authenticate
+Authorize
+Audit
+RSA
+SECURITY
+21
+ 
+Market-leading OTP
+Tokens, USBs, smart cards,                                     on PDAs, cell phones
+Certificate & smart chip- based solutions
+Enterprise Solutions
+Protecting and Empowering Trusted Identities
+Leverage: Identity Empowerment
+Web SSO and Access Management:
+Enterprise  SSO:
+Cross-Domain SSO (Federation)
+Backend Infrastructure
+Administrative tools & workflow
+Data repository integration
+Scalable, reliable real-time performance
+Trusted
+Identity
+22
+ 
+Within Transaction Protection
+At Entry Authentication
+Outside Threats Management
+Stop Phishing & Pharming
+User-to-Site & Site- to-User
+Authentication
+Fraud & Risk Management
+RSA eFraudNetwork
+Consumer-Facing Solutions
+Protecting Digital Identities in the Online Marketplace
+23
+ 
+Data Protection Solutions:
+Protection for Data in Transit and Data at Rest
+Government Software solutions
+Software and Device OEMS
+Embedded Suite
+Crypto "Kernel"
+Code Signing
+FIPS 140 Support
+Suite B Support
+Porting Services
+Enterprise/B2B
+Applications
+Key Management
+App Security
+Database Security
+24
+ 
+Agenda
+EMC Corporate Direction
+Joe Tucci, EMC Chairman, President and CEO
+EMC Strategic Rationale
+Dennis Hoffman, EMC Vice President Information Security
+RSA Security Strategic Rationale
+Art Coviello, RSA Security President and CEO
+Transaction Summary
+Bill Teuber, EMC Vice Chairman and Chief Financial Officer
+Summary and Q&A
+25
+ 
+Transaction Summary
+1
+Enterprise value equals equity value of $2.3 Billion net of RSA's cash of $230 Million
+26
+Deal Structure:
+All cash transaction
+Current Value :
+$28.00 per share
+Expected Closing :
+Late Q3 /early Q4 2006
+Slightly less than $2.1 Billion
+1
+of enterprise value
+ 
+Financial Highlights
+GAAP EPS dilutive by $0.03
+Due primarily to foregone interest income on cash
+Non-GAAP
+EPS neutral
+GAAP EPS neutral
+Non-GAAP
+EPS accretive by $0.03
+2007
+2008
+ Excludes intangible amortization and stock option expense
+27
+ 
+Organization
+RSA will operate as EMC's new Information Security Division
+Art Coviello will become an Executive Vice President of EMC and President of the Information Security Division
+Future security activities and acquisitions will become part of the Information Security Division
+28
+ 
+Agenda
+EMC Corporate Direction
+Joe Tucci, EMC Chairman, President and CEO
+EMC Strategic Rationale
+Dennis Hoffman, EMC Vice President Information Security
+RSA Security Strategic Rationale
+Art Coviello, RSA Security President and CEO
+Transaction Summary
+Bill Teuber, EMC Vice Chairman and Chief Financial Officer
+Summary and Q&A
+29
+ 
+30
+
+

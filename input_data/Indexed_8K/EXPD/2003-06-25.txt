@@ -1,0 +1,227 @@
+FILE:EXPD/EXPD-8K-20030625173655.txt.gz
+EVENTS:	Regulation FD Disclosure
+TEXT:
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+ 
+ 
+N/A
+ 
+Item 9.  Regulation FD Disclosure.
+ 
+The following information is included in this document as a result of Expeditors' policy regarding public disclosure of corporate information.   Answers to additional inquiries, if any, that comply with this policy are scheduled to become available on or about July 21, 2003.
+ 
+SAFE HARBOR FOR FORWARD-LOOKING STATEMENTS UNDER SECURITIES LITIGATION REFORM ACT OF 1995; CERTAIN CAUTIONARY STATEMENTS
+ 
+Certain portions of this document including the answers to questions 3, 6, 7, 8, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 and 30 contain forward-looking statements which are based on certain assumptions and expectations of future events that are subject to risks and uncertainties.  Actual future results and trends may differ materially from historical results or those projected in any forward-looking statements depending on a variety of factors including, but not limited to, changes in customer demand for Expeditors' services caused by a general economic slow-down, inventory build-up, decreased consumer confidence, volatility in equity markets, energy prices, political changes, or the unpredictable acts of competitors.
+ 
+SELECTED INQUIRIES RECEIVED THROUGH JUNE 15, 2003
+ 
+1.             I am having a hard time figuring out the calculation in Footnote 1(I) of your 2002 annual report, where you disclose the diluted and basic EPS if the company expensed its stock-based employee compensation according to the "fair value method".  Perhaps I don't understand the way the figures are derived, but if I divide the 2002 earnings after stock option expenses ($93,656,000) by your weighted average diluted shares outstanding of 108,881,369, the figure I get for diluted earnings per share  pro forma is $0.86 per share rather than the $0.89 per share that appears in your footnote.  For 2001, when I perform the same calculation, I come up with diluted earnings per share after stock-based compensation expense of $0.76, vs. the $0.78 that appears in the same footnote. For 2000, my number is $0.67 vs. your figure of $0.69.  Perhaps I don't understand the way this calculation is supposed to be made.  I'm wondering if maybe companies are supposed to use a different diluted shares outstanding figure for purposes of this footnote than they would use in your GAAP income statement? Or is there some other explanation?  I realize that you don't think of options as an expense, but I would still like to understand why my figures are different than the ones that appear in the footnote, as I have not encountered this discrepancy in the other companies I follow.
+ 
+When we make the same calculations that you did, we get the same numbers.  So we agree with your math, but the arena of accounting theory is where we part company.
+ 
+The simple answer to your question, at least as it pertains to Expeditors, is that the mechanics of calculating diluted weighted average shares outstanding is different.  Same name, different calculation.  We don't write the rules; we just try to do the right thing.
+ 
+So far we know that the same concept, diluted shares outstanding, gets two different results depending upon whether APB 25 or FASB 123 is driving the calculation.  Why and how this difference exists is far beyond the scope of this response, but we can say that it has something to do with whether the options are considered anti-dilutive and the unamortized "value" assigned to options under FASB 123 that makes these more anti-dilutive than the same options are when the calculation is made under APB 25.
+ 
+It is enough for our purpose here to say that a difference exists and why should that be surprising considering the drastic change that expensing stock options brings to the world of accountancy.   After all, once you allow yourself to descend "down the rabbit hole" into accounting wonderland where procedures are promulgated at the expense of principles, why shouldn't things just get "curiouser and curiouser" and indeed they have.
+At this point, it is fair to say that we have answered your question as best we can, but we need to go on in order to blow off a little steam as we try to point out how silly this stock option expensing medicine really is.
+ 
+Recording an expense for stock options requires a certain amount of twisting, bending and molding of traditional accounting theory to distill a set of accounting entries that make sense. In the case of stock options, we want to record an expense on the books of the company to record a transaction that in essence is a transfer of value between the shareholders and employees (potential or actual shareholders) - an item for which there is no guarantee that any consideration will, in fact, ever change hands.
+ 
+Also, not to be forgotten is the fact that for the period in which expense must be recognized in the income statement, an offsetting credit must go somewhere in order to leave the books balanced.  Since we are still doing double entry bookkeeping, debits (expense for employee stock options in this case) must always equal credits.  Where can we put that tricky rascal as we record this expense for stock options?  Putting it on the income statement would undo the expense so we know that can't be the answer.  That only leaves the balance sheet.
+ 
+In all the uproar over the need to expense employee stock options, the ridiculous accounting acts that must be committed on the balance sheet have been glossed over by those who are knowledgeable in accounting matters.  They have likely been misunderstood, misinterpreted or otherwise not comprehended by those who aren't.  But, let us explain.
+ 
+Two paragraphs ago, we established that every debit needs a corresponding credit and that if we are to expense options, we have to put the credit on the balance sheet otherwise nothing happens.  Now, ignoring stuff like contra-assets (accumulated depreciation for example), the balance sheet can be said to be made of assets, liabilities and equity.  The asset side is the home of debits while the liabilities and equity generally carry credit balances.  Trust us when we say that the credit we get with stock option expensing isn't a liability so we need to shove this puppy into the equity section.
+ 
+In the name of the perceived greater good (stomping out exorbitant stock option grants to a small group of overcompensated management in a select group of firms), the expensing of stock options has made a complete and total mess out of the equity section of the balance sheet.  Grossing up the stockholders equity section of the balance sheet (that is what that rascal credit does after all) in order to record an expense for stock options on the income statement (the debit we all seem to want) completes our journey down this accounting rabbit hole and it is about time for tea.  Just as grossing up stockholders equity may make no sense, there was little rhyme or reason in Wonderland, tea was at 6:00 and according to the Mad Hatter, it was perpetually 6:00 for no other reason than the Mad Hatter said it was.  At the Mad Hatter's party, only one person got a clean cup, but that is a story for another day.
+ 
+Finally, we suspect that the reason things seem to work differently at the other companies you studied, has to do with the success of Expeditors and the fact that our unamortized option value is therefore fairly large according to Black Scholes.  The more successful the company, the larger the likely unamortized value.  The larger the unamortized value, the more options are initially excluded as anti-dilutive.  "I want a clean cup," interrupted the Hatter: "let's all move one place on."
+ 
+2.             I have just started studying your business and was wondering why your margins in the Far East are so much better than the margins in your other regions.  I suspect it might have something to do with your scale in the Far East / US trade lanes, geographic revenue / expense allocation, the fact that you have older more profitable / more fully depreciated offices in the Far East, and maybe that you can amortize your transaction execution costs over a larger revenue base for each transaction (please note that I am making the assumption that revenue would be higher for a shipment from the Far East to Boston than for a
+shipment from Europe to Boston, but the costs of setting up the transactions would be the same).  Can you please indicate whether these assumptions are correct, and if I missed any critical ones?  Also, which one(s) of these factors is the primary contributor(s) to the higher margins?
+ 
+You are wrong.  If you ask us, you should have stopped after the simple question in your first sentence.  By rambling on with guesses and speculation, you have reduced your question into a muddled mess.
+ 
+In our view, none of the things that you assumed are actually factors.  The actual reason is much more subtle.  Our Far East offices, along with that trade lane in general, are predominantly export oriented.  Exports are more profitable on a per unit basis; the shipments are bigger, in general; and finally labor costs in this region are substantially lower than elsewhere.  This combination works to create the higher margin you noted before your question went out of control.
+ 
+3.             According to page 24 in your Form 10-K, Expeditors had unconditional purchase obligations of $185 million during 2002. Can you elaborate on the nature of this obligation?  How much of this obligation remained outstanding at the end of the first quarter of 2003 (or as of a later date, if you will disclose it)?
+ 
+This is a new annual SEC disclosure requirement.
+ 
+The obligations we quantified were the remaining purchase commitments for space under ocean freight contracts (these generally run from May 1 to April 30 of the following year) and a much smaller commitment for airfreight ex-Asia.
+ 
+Most of the obligations disclosed at December 31, 2002 had been completely satisfied in the ordinary course of business by the end of the first quarter of 2003.
+ 
+4.             Do you offer a drip program for outsiders to buy Expeditors directly in monthly auto deductions from a checking or savings account?
+ 
+No, we don't.  We've addressed this question in a prior response (see Question 5 in the Form 8-K dated June 19, 2002 where the answer was also no).
+ 
+5.             I am a graduate student at XXXXX University. I am working on a class project conducting a financial analysis of Expeditors. I need your help. I am currently doing a research about investment in IT at freight forwarding industry. I was wondering if you would provide me with detailed historical data about capital investment in IT (any software/hardware) at Expeditors.
+ 
+Our first problem with this question is that we aren't sure that we actually understand exactly what you are asking. If it helps, we develop our own software for operations and financial accounting.  We purchase all our hardware and personal computer software.  We don't provide extensive historical data about stuff we don't disclose so we fear you may have to do your own homework.
+ 
+6.             Has Expeditors been impacted by Evergreen work stoppages at any of the East Coast ports?
+ 
+We have been affected, but not impacted, as it were.  We seem to be working through this with the help of both Evergreen and our customers on the East Coast.
+ 
+7.             Compare airfreight capacity going into peak shipping season versus recent peak shipping seasons.
+ 
+While we recognize this is not a composition class, we think the operative word here might better be expressed with "contrast" as opposed to "compare," but what the heck, at least you wrote this command yourself.
+ 
+As of mid-June 2003, there is sufficient airfreight capacity to meet market needat least in the part of the market that we're seeing every day.  Because of aircraft re-deployments in response to SARS
+and a weakened economy, air cargo particularly has taken on increased importance to many carriers working into and out of the Far East. This has resulted in air carriers moving very quickly to provide air cargo service capabilities whenever real opportunities arise and in this respect things are about normal.
+ 
+8.             Has Expeditors successfully passed along the recent wave of ocean carrier rate increases to all of its customers?  What is the timing for passing along such substantial rate increases?
+ 
+Yes, we have.  As to timing, we pass price changes as soon as is legally, commercially and practically possible.
+ 
+9.             How are ocean freight volumes feeling after the rush to beat the May 2003 ocean carrier rate increases?
+ 
+Container counts in May 2003 were strongly ahead of May 2002  up nearly 18%.  While that is less of a percentage increase than we experienced during the first quarter of 2003, it is noteworthy because in early May, ocean freight trickled to a virtual stop for nearly a week.
+ 
+10.           Have year-over-year Asia to US export volumes for technology customers begun to improve, or is it your impression that US demand remains soft?
+ 
+It would be our opinion that through mid-June 2003 demand is increasing on a year-over-year basis, but that on a relative basis the technology market has quite a ways to go to match the levels that sector of the economy saw back in 1999.
+ 
+11.          What are your thoughts on the state of the U.S. economy?  Does it appear to be modestly improving, treading water, or modestly declining?
+ 
+Please do not take offense at this response to your multiple choice question, but our initial reaction was that anxiety over the economy must have descended to a new low in order for anybody to care what freight forwarders think about a question that Mr. Greenspan might not be able to answer.
+ 
+This is a difficult question from a macro perspective, since we live in a micro world.  After all, its been said that the difference between a recession and a depression is a question of perspective.  A recession occurs when your neighbor loses his/her job.  A depression occurs when you lose yours.
+ 
+From our perspective, there seems to be some small amount of improvement, but that is only based on watching and listening to our customers.  It is therefore impossible to quantify any improvement in the macro economy based solely on our experience.  Taken as a whole, our customers seem to still be doing well and we continue to take market share.  If this were a confidence survey instead of a test, we would say that, subjectively, things do feel a little better than they felt a year ago.
+ 
+12.          In a past Form 8-K, you indicated that your net revenue exposure to Korea is less than 2%.  What percentage of your Asia import/export volumes pass through Korea?
+ 
+Approximately 5%.
+ 
+13.          Has the recent technology disruption at the UK ports caused shipment delays that could not be circumvented by using alternative routes? If Expeditors incurs additional costs due to such delays, must you absorb the costs or are you typically able to pass them through to your customers?
+ 
+There has been some mild disruptions which we have managed through.  As far as who bears the cost of delays, the answer would depend on the sort of cost and on the circumstances.  It is difficult to craft a general response that would be meaningful for you.
+14.          With employee bonuses driven by month-to-month profitability, how do you ensure that branches invest for longer-term growth and profitability?
+ 
+A good manager knows that month-to-month profits (bonuses) are only sustainable if they are built upon sound, long-term business decisions. Our system reinforces this.  No one likes a one shot bonus when they know that this is possible only by sacrificing long-term profitability.  If large to unlimited bonuses are possible, even encouraged, on a monthly basis, only a fool wants to be a one-month wonder.  In any branch where there is no long-term profitability, there will most likely be a management change.
+ 
+15.          You mentioned in the June 17, 2002 8-K that salespeople are compensated from commissions based on net revenue, while incentives for operations employees in the branches are based on operating income.  What controls are in place to make sure that commission-driven salespeople book profitable business?
+ 
+Oddly enough, the entire answer to your question is in your first sentence. Operations employees, of whom the District Manager is the most important, are compensated on operating income and they are the control to make sure that commission-driven salespeople bring profitable business.
+ 
+That having been said, it is important to realize that the sales and the operations people in an ideal setting work together to sell and service business.  Both groups need each other, but at the end of the day, the District Manager is the key individual in the branch and it is his or her job to see that the sales efforts within the office are reflected in the sustained profitability of his or her branch.  A commission-driven salesperson who puts individual commission and compensation issues ahead of overall branch and corporate profitability does not last at Expeditors any more than a District Manager who fails to sustain growth and profitability.
+ 
+16.          From 1996-2002 operating profit per employee increased 9% per year while Salaries and Related Costs per employee increased 3% per year.  What factors explain this performance, and is there any reason that the trend would change in the future?
+ 
+We'll have to take your word for the computational accuracy of the percentages in your question.  While the fact that profit per desk was increasing faster than Salaries and Related Costs per person was not any surprise, we have not bothered to calculate the relationship.  We believe that this "trend" is the result of more efficient operations and a focus on productivity and process improvements.
+ 
+17.          Could you please describe your primary lines of business within Customs Brokerage and Import Services, and if possible give an idea of the relative size of each?
+ 
+Traditional customs brokerage makes up approximately 70% of the total net revenue reported under the "Customs Brokerage and Import Services" category.  Value added warehouse and distribution services account for another 25% of net revenue.
+ 
+18.          Have more complicated security requirements helped Expeditors add new business since 9/11?  If so, has this been true across the air, ocean and customs brokerage segments?  Do you believe that Expeditors has a meaningful advantage over competitors in handling more complex security requirements, and why?
+ 
+We're not sure that increased security requirements can be said to have been a significant contributor to the new business we have gained.  We do know that we have a demonstrated ability to reduce complexity by innovative uses of technology and the increased security requirements are a source of complexity.  While many talk about the value of bringing technology to process, we deliver in a value added and customized manner.
+Satchel Paige once said, "Don't look back.  Something might be gaining on you."  And this admonition to not waste effort or get distracted from the goal certainly holds true in meeting security requirements.  Our "competition" in this sense, is not the efforts of others in our industry and is not governmental regulations, rather it is our ability to meet the challenges posed by those who prose a threat to our customer's global supply chain.
+ 
+We don't think that we have to take a back seat to anyone on the technology front and feel very comfortable that we can meet whatever changes will be thrown at us.
+ 
+19.          Growth in the customs brokerage segment has slightly lagged the company's overall net revenue growth in each year since 1999.  What explains this difference and is there any reason to expect the pattern to change?
+ 
+Several factors contribute to the difference in the rate of growth between customs brokerage and the company as a whole.  The first is market pressure on brokerage fees in a competitive market, particularly where Expeditors is responsible for providing transportation services and customs clearance.  The second distinct reason is the increase in door-to-door business - where customs clearance is performed as a bundled part of a single service offering provided to the customer.  As we have noted in our 10-K, the amount of customs brokerage revenue in a door-to-door movement is somewhat subjective and may therefore be declining.
+ 
+There is no need to think that this "trend" will not continue in the future.  However, we would also note that there is no reason to expect growth in brokerage to move in lock step with growth in our transportation products.  It is a fact that we provide transportation services for a great deal of freight that we do not clear through customs and we are brokers for a great deal of freight that we do not move on our paper.  While it would certainly be symmetrical if the brokerage services grew at the same rate as transportation, we don't think anybody should be overly concerned when it doesn't.
+ 
+20.          In November 2000 you provided a breakdown of import vs. export net revenues by region.  Could you update this breakdown?
+ 
+We could, but it probably hasn't changed all that much in the past three years.
+ 
+21.          What percent of revenues is derived either from exports from the U.S. or imports to the U.S.?
+ 
+We will expand your question to include all of North America (Canada, Mexico and the U.S.) and tell you that the answer to this question is approximately 60-70% as of the middle of 2003.
+ 
+22.          Has Expeditors' growth helped the company negotiate more favorable freight rates with carriers?
+ 
+Yes.
+ 
+23.          A competitor of yours recently spoke of increasing weakness coming out of European and Asian markets with the former being more of a weak economy and the latter being SARS-related. Have you seen similar trends over the past month? In the past you opined that SARS has not had a major effect on business. Has your opinion changed?
+ 
+Europe and Asia through May 2003 have done pretty well for us, all things considered. While there may be weakness in those markets overall, to date in the second quarter, any such overall weakness didn't seem to be a big issue for us.   Of course, we will admit that it is difficult to ascertain whether or not you've noticed a weakness when things are pretty much in line with your expectations.
+ 
+So far, for the first two months of this quarter anyway, we've not seen SARS as having had a pronounced impact on our business.  We continue to believe that this was moderately to completely overblown by the media.
+24.          It appears that capacity in both ocean and air has continued to tighten in the last month. Do you believe this to be the case? If yes, will it be detrimental to your net revenue margins?
+ 
+We can't help thinking that if you were so certain about the appearance of capacity, why would you bother asking us?
+ 
+We do agree with you to the extent that there does seem to be some tightness in capacity and we are not sure yet how this will play out in our second quarter 2003 net revenue margins.
+ 
+We are, however, not concerned about whatever direction the margins may move, as long as we can maximize our net revenue opportunities without having to add head count.  Too much emphasis on margins, however, would put you in a position where you won't see the forest for the trees.
+ 
+25.          Is the company in general sized right for the kind of growth you expect in future years or is there the need to build up to some higher level.  What I am driving at is how much further can you drive down salaries and related costs as a percent of net revenues?
+ 
+We would hope that we could always say that we are "right sized."  The way our system works, over time, there is a natural equilibrium that occurs at the branch level.
+ 
+There have been quarters in the past where we had more work than we had anticipated, but we all try not to let that happen.  While it is good for short-term profits, it is tough on the employees and the long-term cost is seldom worth the short-term windfallsuch as it was.
+ 
+There are two problems asking us "how much further" we can drive down "Salaries and related costs."  The first is that the answer would require a projection or a prediction.  Either way, we don't do these.  The second problem is the faulty assumption that we are looking to "drive" numbers down by managing personnel costs.  To the extent that we are reducing these costs, the gains come from productivity enhancements and ongoing process improvements.  We aren't the company that drives costs using furloughs, mandatory vacations, 50% cash discounts on unused leisure time and similar devices.
+ 
+26.          With the recent tax legislation that reduces the maximum individual tax rate on dividend income from 40% to 15%, can we expect something like a special one-time dividend and if not, why not?
+ 
+Dividends are created by action of the full Board of Directors and not in response to questions submitted for consideration in this forum.  Anything we say here would be at most the opinion of a few and not the official action of the many.  We do not presume to speak for the full Board of Directors.
+ 
+Further, we can report that the topic of a jumbo, special, one-time bust the bank, extraordinary dividend has not received much attention to this point.  If you were to ask our opinion about what the full Board of Directors might do if faced with your question, we would have to say we doubt very much that they would declare some kind of a "Katy [or Katie], bar the door" one-time dividend.
+ 
+The simple reason for the "why not" is that we guess that such a proposal would not garner a majority of the directors.  If you want us now to speculate on the motivations of the several hypothetical no votes, we decline.  What is the point of an answer or of the one-time dividend proposal for that matter?  It certainly provides no sustained value to the stock; it would certainly deplete funds that could be otherwise deployed in the business and it would likely create expectations for future actions that might not be realized.
+ 
+We believe that consensus on an extraordinary dividend is as likely as general agreement on the source of the expression "Katy, bar the door."
+27.          As an investor in this company I am concerned at the recent drop in stock prices. I also noted that there have been a number of stock sales by some of the major execs since last February and until recently. I'm nervous about the stability of this company.  What information can you give me to help me understand whether or not I should continue to expect a turn around in stock prices and when you think that might occur?
+ 
+We do not, and have not ever, given our opinions as to the direction or magnitude of future stock price movements.    The primary reason we follow this policy is that we actually do not know what the future will bring.
+ 
+As "insiders" our responsibility to you isn't to try and predict the future.  Our job as we see it is to create and sustain an environment where everyone working at Expeditors has a vested incentive to do the best that they can, all the time.
+ 
+We think that the track record established by Expeditors' employees is in and of itself proof of the strength of our system.  Those shareholders who have invested in Expeditors with a view towards the long-term have very likely done well.  These investors are not people who are disappointed by short-term price movements in the stock.
+ 
+We believe that many of our long-term investors look at Expeditors much as we do.  For example, we believe that if we do good things, good things will happen - good things like taking care of the employees, who in turn are responsible for taking care of the customers.  Taking care of the customers ought to be good enough for Wall Street, but each investor must make his or her own choice.  The summation of all those choices accounts for the movement of the stock price and it is something we can't predict so we don't give it much thought.
+ 
+As for your concern about certain executives selling stock recentlywell that kind of thing does happen on occasion.  It has happened in the past and it will happen in the future.
+ 
+As we have tried to explain before, the last time we tackled this issue in this forum was Question 12 in the 8-K filed June 19, 2002 and before that it was Question 1 in the 8-K filed on or about March 15, 2001; there are varied and sundry reasons why an "insider" may choose to sell stock.  Most of these are personal to them and their individual circumstances.
+ 
+To once again paraphrase Freud, "sometimes a stock sale is only a stock sale."  It doesn't have to be a nefarious harbinger of trouble ahead.  For example, if we were to point out that each of the individuals you recently read about still had the vast majority of their personal wealth tied up in Expeditors stock, we think we would sound defensive and we have no idea if you would feel better or worse.  After all, as we told you earlier, they have no idea what will happen in the future.
+ 
+We do not want to leave you without any advice, but there is only so much we can say.  We do believe that if you are sincerely concerned about the stability of this company, then you should consider selling whatever shares you own just as quickly as your broker can execute the order.  Somebody else will want to buy them, no doubt whatsoever.
+ 
+28.          I am an analyst at a money management firm.  We are looking at your company as a potential investment. For now, I have just one question.  Who is your main competition?  It is estimated by some sell-side analysts that you have about 2% of the 3PL market, who has the remaining 98%?
+ 
+They say that the first step toward recovery is to admit what you have become.  While we applaud your courage and wish you all the best in your struggles, you really don't need to make a confession like that prior to asking a question in this forum.
+At the most basic service level, the barriers to entry into this business are not that great.  Anyone who provides a logistics service to a customer that we have the capability to perform, but currently don't, is our competitor.
+ 
+Even if we limit our answer to those firms with some level of global reach and information management capabilities, there is still no "main competitor".  Our competitors are vast and varied according to geography and service offering.
+ 
+We might suggest that if you really want an answer to your question that you contact your favorite sell-side analyst who follows this sector and ask for their list of companies in "this space". Some of them have favorites right now that we are sure they would love to discuss with somebody.
+ 
+As for "market share" figures, we have seen the same number you reference and we have no comment.   We can tell you that in our view, measuring market share is a very nebulous exercise particularly in a market as difficult to define as the ones in which we compete.
+ 
+What we know is that there seems to be plenty of business out there and we've never felt that we were being held back by lack of potential business.
+ 
+29.          Have you commented at all on the loss of the XXXXX business?  How important is that relationship to your revenues?  Have you picked up any business that would offset it?
+ 
+It is our general policy not to comment on gains or losses of specific business.  So the answer to your first question is no.
+ 
+We can say that as of May 2003, our top 50 accounts made up slightly more than 30% of our total book of business.  No one account is material to our overall net (or gross for that matter) revenue.
+ 
+We also see no reason to count or report on bids, whether won, lost or pending.  We do not believe that sort of information is helpful to the investor and is very often misleading as the implication is often much greater than the reality.  Besides, bids are often like buses, if you wait a little while another one will come along.
+ 
+30.          Can you describe the tone of business in the third quarter relative to consensus?
+ 
+We will assume that you meant to ask about the second quarter of 2003 rather than the third.  It is a much easier question to handle in mid-June.  For the first two months of the second quarter of 2003, we have seen pretty much what we expected to see.  We feel no need to comment further one way or the other.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+ 
+ 
+
+

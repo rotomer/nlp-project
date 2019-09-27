@@ -1,0 +1,120 @@
+FILE:GOOG/GOOG-8K-20110712165206.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On July 12, 2011, Google Inc. ("Google") entered into an amendment agreement (the "Amendment Agreement") with Morgan Stanley & Co. LLC, Citigroup Global Markets Inc., Credit Suisse Management LLC, Credit Suisse Securities (USA) LLC, UBS AG, London Branch and UBS Securities LLC. The Amendment Agreement amends the agreements relating to Google's transferable employee stock option program to allow for auctions to be processed with respect to transferable stock options for which (a) in the case of market orders, the highest bid by a participating financial institution that would otherwise be a winning bid is not above the intrinsic value of the relevant transferable stock option or (b) in the case of limit orders, both the highest bid by a participating financial institution and the limit price for the relevant transferable stock option are not above the intrinsic value of the relevant transferable stock option.
+The foregoing description of the Amendment Agreement is qualified in its entirety by the terms of such agreement, which is filed hereto as Exhibit 1.01 and incorporated herein by reference.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 1.01
+THIS AMENDMENT AGREEMENT (this "") is made as of this 12th day of July, 2011 among Google Inc. (the ""), Morgan Stanley & Co. LLC (formerly Morgan Stanley & Co. Incorporated) (the ""), Citigroup Global Markets Inc. (""), Credit Suisse Management LLC (""), Credit Suisse Securities (USA) LLC ("), UBS AG, London Branch ("") and UBS Securities LLC ("").
+Amendment Agreement
+Company
+Auction Manager
+CGMI
+CSM
+"CSS
+UBSAG
+UBSS
+WHEREAS, the Company, CGMI, the Auction Manager, CSM and UBSAG are parties to a Warrant Agreement dated as of April 20, 2007, as amended on July 20, 2007 (the "), relating to the Company's transferable employee stock option program;
+"Warrant Agreement
+WHEREAS, the Company, the Auction Manager, CGMI, CSS and UBSS are parties to a Bidding Rules Agreement dated as of April 20, 2007, as amended on July 20, 2007 (the "") relating to the Company's transferable employee stock option program;
+Bidding Rules Agreement
+WHEREAS, the Company, the Auction Manager, CGMI, CSS and UBSS are parties to a Distribution Agreement dated as of April 20, 2007, as amended on July 20, 2007 (the ""), relating to the Company's transferable employee stock option program;
+Distribution Agreement
+WHEREAS, the Company and the Auction Manager are parties to a Development, Hosting and License Agreement dated as of April 20, 2007, as amended on April 16, 2009 (the "" and, together with the Warrant Agreement, the Bidding Rules Agreement and the Distribution Agreement, the ""), relating to the Company's transferable employee stock option program;
+License Agreement
+TSO Agreements
+WHEREAS, the parties wish to amend the TSO Agreements to allow for certain auctions to be processed on the terms and conditions set forth in this Amendment Agreement;
+NOW, THEREFORE, in consideration of their mutual covenants herein contained, the parties hereto agree as follows:
+Section 1. Terms used but not defined herein shall have the respective meanings given to them in the Warrant Agreement or the Bidding Rules Agreement, as the case may be.
+Terms Used But Not Defined Herein.
+Section 2. Notwithstanding any provision in any of the TSO Agreements, including, without limitation, the definition of "Market Order" in Exhibit A to the Bidding Rules Agreement and Section 5(h) of Exhibit A to the Bidding Rules Agreement, if (x) in the case of a Market Order, the highest Bid that would otherwise be a winning Bid is not above the intrinsic value of the relevant Transferable Stock Option, as determined in good faith by the Auction Manager (the ""), or (y) in the case of a Limit Order, both the highest Bid and the Limit Price for the relevant Transferable Stock Option are not above the Intrinsic Value of the relevant Transferable Stock Option, then, in either case, an auction will be processed with respect to such Transferable Stock Option pursuant to the TSO Agreements, except that:
+Amendments to the TSO Agreements.
+Intrinsic Value
+ 
+ 
+Section 3. The Company shall pay to the Auction Manager on a quarterly basis cash in an amount equal to the product of (i) USD 15.00, (ii) the aggregate number of Transferable Stock Options for which an auction was processed under Section 2 of this Amendment Agreement during the relevant calendar quarter, promptly following the Company's receipt of a statement from the Auction Manager setting forth such amount.
+Fees.
+and
+Section 4. This Amendment Agreement shall become effective upon execution by the parties hereto.
+Effectiveness.
+Section 5. This Amendment Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if all of the signatures thereto and hereto were upon the same instrument.
+Counterparts.
+Section 6.
+Governing Law.
+THIS AMENDMENT AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK (WITHOUT REFERENCE TO ITS CHOICE OF LAW DOCTRINE).
+Section 7. Except as amended hereby, all the terms of the TSO Agreements shall remain and continue in full force and effect and are hereby confirmed in all respects.
+Effectiveness of TSO Agreements.
+ 
+IN WITNESS WHEREOF, this Amendment Agreement has been duly executed by the parties hereto as of the day and year first above written.
+ 
+
+Exhibit 5.01
+July 12, 2011
+Google Inc.
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+Google Inc., a Delaware corporation (the ""), has created a Transferable Stock Option ("") program pursuant to which eligible employees of the Company may sell to participating financial institutions certain transferable, vested nonstatutory stock options that were granted to them under the Google Inc. 2004 Stock Plan (the ""). A nonstatutory stock option sold by an employee to a participating financial institution pursuant to the TSO program will be deemed to be issued under the Warrant Agreement dated as of April 20, 2007 among the Company, the warrant agent and the warrantholders named therein, as amended by Amendment No. 1 thereto dated as of July 20, 2007 and by the Amendment Agreement dated as of July 12, 2011 among the Company, the auction manager, and the bidders named therein (the "") (collectively, the "") and will be automatically amended in accordance with the terms of the Warrant Agreement at the time of transfer (the resulting instrument, a ""). Such automatic amendments are described in the two forms of prospectus dated April 16, 2010, as supplemented by the prospectus supplements filed with the Securities and Exchange Commission (the "") pursuant to Rule 424(b) under the Securities Act of 1933, as amended (the ""), on July 19, 2010 and July 12, 2011, respectively (collectively, the "").
+Company
+TSO
+2004 Stock Plan
+Amendment Agreement
+Warrant Agreement
+Warrant
+Commission
+Securities Act
+Prospectuses
+We have acted as counsel to the Company in connection with the offering pursuant to the registration statement on Form S-3 (File No. 333-166137) (the "") and the two forms of prospectus filed with the Commission on July 12, 2011 pursuant to Rule 424(b) under the Securities Act (the ""), of (i) up to an aggregate of 36,985,057 shares of the Company's Class A common stock (the ""), par value $0.001 per share, (x) issuable pursuant to the 2004 Stock Plan and (y) by participating financial institutions in connection with short sales of the Common Stock; and (ii) Warrants resulting from the sale pursuant to the TSO program of nonstatutory stock options currently outstanding or available for grant under the 2004 Stock Plan.
+Registration Statement
+2011 Prospectuses
+Common Stock
+In arriving at the opinions expressed below, we have reviewed the following documents:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In addition, we have reviewed the originals or copies certified or otherwise identified to our satisfaction of such corporate records of the Company and such other documents, and we have made such investigations of law, as we have deemed appropriate as a basis for the opinions expressed below.
+In rendering the opinions expressed below, we have assumed the authenticity of all documents submitted to us as originals and the conformity to the originals of all documents submitted to us as copies. In addition, we have assumed and have not verified the accuracy as to factual matters of each document that we have reviewed.
+Based on the foregoing, and subject to the further assumptions and qualifications set forth below, it is our opinion that:
+1. The shares of Common Stock issuable pursuant to the 2004 Stock Plan have been duly authorized by all necessary corporate action of the Company and, when issued in accordance with the terms of the 2004 Stock Plan, at prices not less than the par value thereof, will be validly issued, fully paid and nonassessable.
+2. The shares of Common Stock to be offered by participating financial institutions in connection with short sales of Common Stock have been duly authorized by all necessary corporate action of the Company and are validly issued, fully paid and nonassessable.
+ 
+3. When issued in accordance with the terms of the Warrant Agreement, the Warrants will be the valid, binding and enforceable obligations of the Company.
+Insofar as the foregoing opinions relate to the validity, binding effect or enforceability of any agreement or obligation of the Company, (x) we have assumed that the Company and each other party to such agreement or obligation has satisfied those legal requirements that are applicable to it to the extent necessary to make such agreement or obligation enforceable against it (except that no such assumption is made as to the Company regarding matters of the law of the State of New York or the General Corporation Law of the State of Delaware that in our experience normally would be applicable to general business entities with respect to such agreement or obligation) and (y) such opinions are subject to applicable bankruptcy, insolvency or similar laws affecting creditors' rights generally and to general principles of equity.
+The foregoing opinions are limited to the law of the State of New York and the General Corporation Law of the State of Delaware (including the applicable provisions of the Delaware Constitution and the reported judicial decisions interpreting the General Corporation Law of the State of Delaware).
+We hereby consent to the use of our name in the 2011 Prospectuses under the heading "Legal Matters," as counsel for the Company who has passed on the validity of the Common Stock and the Warrants and to the use of this opinion as part of the Registration Statement (Exhibit 5.01). In giving such consent, we do not thereby admit that we are within the category of persons whose consent is required under Section 7 of the Securities Act or the rules and regulations of the Commission thereunder. The opinions expressed herein are rendered on and as of the date hereof, and we assume no obligation to advise you or any other person, or to make any investigations, as to any legal developments or factual matters arising subsequent to the date hereof that might affect the opinions expressed herein.
+ 
+ 
+
+

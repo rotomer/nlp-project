@@ -1,0 +1,1436 @@
+FILE:IPG/IPG-8K-20060612165639.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15 (d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+ 
+ 
+Date of report (Date of earliest event reported): June 6, 2006
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On June 6, 2006, the Company entered into a capped call option agreement (together, the "
+Agreements
+") with each of four derivatives dealers (the "
+Banks
+"). Copies of the Agreements are attached hereto as Exhibits 10.1, 10.2, 10.3 and 10.4 and are incorporated by reference in this Item 1.01.
+The Agreements were entered into in connection with a capital markets transaction that will provide the Company with a new source of committed stand-by liquidity and a new letter of credit facility (the "
+ELF Financing
+"). The ELF Financing was priced on June 6, 2006 and is expected to close on June 13, 2006. The Agreements provide that they will be unwound if the closing of the ELF Financing does not occur by June 13, 2006. In the ELF Financing, a special-purpose entity called ELF Special Financing Ltd. has agreed with a group of initial purchasers to sell units consisting of notes linked to the credit of the Company and warrants to purchase common stock of the Company. At closing, ELF will provide the Company with a $750 million revolving stand-by credit facility under which the Company can receive advances and cause letters of credit to be issued.
+As part of the ELF Financing, the Company will issue 38,826,875 uncapped warrants (the "
+Uncapped Warrants
+"), with an exercise price of $11.91 per warrant. (The Company will also issue capped warrants in the ELF Financing, and the Agreements do not relate to these capped warrants.) Each Uncapped Warrant will entitle the holder to receive, following expiration of the warrant on June 15, 2009, an amount in cash, shares of the Company's common stock, or a combination of cash and shares, at the Company's option. The amount will be based, subject to customary adjustments, on the difference between the market price of one share of the Company's common stock (over 30 trading days following expiration) and the stated exercise price of the warrant.
+The Agreements are intended to reduce the potential dilution of the Company's common stock upon the exercise of the Uncapped Warrants.
+Each Agreement gives the Company the right to receive, upon expiration of the options thereunder, an amount in cash, shares of the Company's common stock, or a combination of cash and shares, at the Company's option. The amount will be based, subject to customary adjustments, on the difference between the market price of one share of the Company's common stock (over 30 trading days following expiration) and $11.91, the exercise price of the Uncapped Warrants, with the amount deliverable upon exercise capped so the Company will not receive any amount relating to appreciation of its common stock above $14.38 per share. The four Agreements cover an aggregate notional amount of 38,826,875 shares, equivalent to the full amount of the Uncapped Warrants. The aggregate cost of the four Agreements to the Company will be approximately $29 million, payable upon closing of the ELF Transaction.
+ 
+ 
+Exhibit 10.1. Call Option Agreement dated as of June 6, 2006 between the Company and Citibank, N.A.
+Exhibit 10.2. Call Option Agreement dated as of June 6, 2006 between the Company and JPMorgan Chase Bank, National Association, London Branch.
+Exhibit 10.3. Call Option Agreement dated as of June 6, 2006 between the Company and Morgan Stanley & Co. International Limited.
+Exhibit 10.4. Call Option Agreement dated as of June 6, 2006 between the Company and UBS AG, London Branch.
+Portions of these Exhibits have been omitted pursuant to a request for confidential treatment.
+ 
+ 
+ 
+ 
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+ 
+Opening Transaction  Call
+ 
+Re: Capped Call Transaction
+Reference: Bank to provide.
+Dear Sir/Madam:
+The purpose of this letter agreement (this "
+Confirmation
+") is to confirm the terms and conditions of the Transaction entered into between Citibank, N.A. ("
+Bank
+") and you ("
+Counterparty
+") on the Trade Date specified below (the "
+Transaction
+"). This Confirmation constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below. This Confirmation shall replace any previous letter and serve as the final documentation for this Transaction. The Transaction is subject to early unwind if the closing of the Units offering consisting of Warrants issued by Counterparty and Floating Rate Credit Linked Notes issued by ELF Special Financing Ltd. due June 15, 2009 (the "
+Units
+") is not consummated for any reason, as set forth below in Section 9(i). "
+Warrant Agreement
+" means the Warrant Agreement, to be dated as of the Effective Date, between Counterparty and the Warrant Agent named therein, and shall not reflect any amendment, modification, supplement or waiver thereto following the issuance of the Units. Counterparty shall provide Bank with a copy of the executed Warrant Agreement on the Effective Date. Notwithstanding the foregoing, references herein to provisions of the Warrant Agreement are based on the description of the Warrant Agreement set forth in the Offering Memorandum of Counterparty and ELF Special Financing Ltd., dated as of June 6, 2006, in respect of $712,500,000 in the aggregate of Floating Rate Convertible Series A Units due 2009 and Floating Rate Convertible Series B Units due 2009 (the "
+Offering Memorandum
+"). If any relevant provisions of the Warrant Agreement differ in any material respect from those described in the Offering Memorandum, the parties will amend this Confirmation in good faith to preserve the economic intent of the parties.
+This Confirmation is subject to, and incorporates, the definitions and provisions of the 2000 ISDA Definitions (including the Annex thereto) (the "
+2000 Definitions
+") and the definitions and provisions of the 2002 ISDA Equity Derivatives Definitions (the "
+Equity Definitions
+", and together with the 2000 Definitions, the "
+Definitions
+"), in each case as published by the International Swaps and Derivatives Association, Inc. ("
+ISDA
+"). In the event of any inconsistency between the 2000 Definitions and the Equity Definitions, the Equity Definitions will govern.
+Each party is hereby advised, and each such party acknowledges, that the other party has engaged in, or refrained from engaging in, substantial financial transactions and has taken other material actions in reliance upon the parties' entry into the Transaction to which this Confirmation relates on the terms and conditions set forth below.
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+1.      This Confirmation evidences a complete and binding agreement between Bank and Counterparty as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall be subject to an agreement (the "
+Agreement
+") in the form of the 1992 ISDA Master Agreement (Multicurrency  Cross Border) (the "
+ISDA Form
+") as if Bank and Counterparty had executed an agreement in such form (without any Schedule except for the election of "Second Method" and "Loss" for purposes of Section 6(e) of the Agreement and any other elections set forth in this Confirmation). For the avoidance of doubt, the Transaction shall be the only transaction under the Agreement.
+All provisions contained in, or incorporated by reference to, the Agreement will govern this Confirmation except as expressly modified herein. In the event of any inconsistency between this Confirmation and either the Definitions or the Agreement, this Confirmation shall govern.
+2.      The Transaction constitutes a Share Option Transaction for purposes of the Equity Definitions. The terms of the particular Transaction to which this Confirmation relates are as follows:
+General Terms:
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+* Refers to material omitted pursuant to a request for confidential treatment. This material has been filed separately with the Commission.
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+Counterparty represents and warrants to and for the benefit of, and agrees with, Bank as follows:
+ 
+(a)           Counterparty is not, and after giving effect to the transactions contemplated hereby will not be, an "investment company" as such term is defined in the Investment Company Act of 1940, as amended.
+ 
+(b)           Counterparty is an "eligible contract participant" (as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended (the "
+CEA
+").
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+(c)           On the Trade Date, (A) Counterparty is not aware of any material nonpublic information regarding Counterparty or the Shares and (B) all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act when considered as a whole (with the more recent such reports and documents deemed to amend inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.
+ 
+(d)           Counterparty is an "accredited investor" (as such term is defined in Section 2(a)(15)(ii) of the Securities Act of 1933, as amended (the "
+Securities Act
+")).
+ 
+(e)           Counterparty's financial condition is such that it has no need for liquidity with respect to its investment in the Transaction and no need to dispose of any portion thereof to satisfy any existing or contemplated undertaking or indebtedness.
+ 
+(f)            On the Trade Date (A) the assets of Counterparty at their fair valuation exceed the liabilities of Counterparty, including contingent liabilities, (B) the capital of Counterparty is adequate to conduct the business of Counterparty and (C) Counterparty has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature.
+ 
+(g)           Counterparty's investments in and liabilities in respect of the Transaction, which it understands are not readily marketable, are not disproportionate to its net worth, and it is able to bear any loss in connection with the Transaction, including the loss of its entire investment in the Transaction.
+ 
+(h)           Counterparty hereby agrees and acknowledges that the Transaction has not been registered with the Securities and Exchange Commission or any state securities commission and that the Options are being written by Bank to Counterparty in reliance upon exemptions from any such registration requirements. Counterparty acknowledges that all Options acquired from Bank will be acquired for investment purposes only and not for the purpose of resale or other transfer except in compliance with the requirements of the Securities Act. Counterparty will not sell or otherwise transfer any Option or any interest therein except in compliance with the requirements of the Securities Act and any subsequent offer or sale of the Options will be solely for Counterparty's account and not as part of a distribution that would be in violation of the Securities Act.
+ 
+(i)            Counterparty understands no obligations of Bank to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Bank (other than any Credit Support Provider of Bank) or any governmental agency.
+ 
+(j)            Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that Bank is not making any representations or warranties with respect to the treatment of the Transaction under FASB Statements 133, as amended, or 150, EITF Issue No. 00-19 (or any successor issue statements) or under FASB's Liabilities & Equity Project.
+ 
+9. Other Provisions:
+(a)           
+Opinion
+. Counterparty shall deliver to Bank (i) an opinion of internal counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, with respect to Counterparty's existence and its power and authority to enter into this Transaction and (ii) an opinion of external counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, on such matters as separately agreed between Counterparty and Bank on the Trade Date.
+(b)           
+Repurchase Notices
+. Counterparty shall, on any day on which Counterparty effects any repurchase of Shares, promptly give Bank a written notice of such repurchase (a "
+Repurchase Notice
+") on
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+such day if, following such repurchase, the number of outstanding Shares on such day, subject to any adjustments provided herein, is (i) less than 400,000,000 (in the case of the first such notice) or (ii) thereafter, more than 5,000,000 less than the number of Shares included in the immediately preceding Repurchase Notice.
+(c)           
+Alternative Calculations and Payment on Early Termination and on Certain Extraordinary Events
+. If, subject to Section 9(l) below, Bank shall owe Counterparty any amount pursuant to Section 12.2 or 12.3 of the Equity Definitions and "Consequences of Merger Events" above, or Sections 12.6, 12.7 or 12.9 of the Equity Definitions (except in the event of an Insolvency, a Nationalization, or a Merger Event, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash) or pursuant to Section 6(d)(ii) of the Agreement (except in the event of an Event of Default in which Counterparty is the Defaulting Party or a Termination Event in which Counterparty is the Affected Party, that resulted from an event or events within Counterparty's control) (a "
+Payment Obligation
+"), Counterparty shall have the right, in its sole discretion, to require Bank to satisfy any such Payment Obligation by the Share Termination Alternative (as defined below) by giving irrevocable telephonic notice to Bank, confirmed in writing within one Scheduled Trading Day, between the hours of 9:00 A.M. and 4:00 P.M. New York City time on the Merger Date, Announcement Date or Early Termination Date, as applicable ("
+Notice of Share Termination
+"). Upon such Notice of Share Termination, the following provisions shall apply on the Scheduled Trading Day immediately following the Merger Date, Announcement Date or Early Termination Date, as applicable:
+ 
+ 
+ 
+(d)           
+Regulation M
+. Counterparty was not on the Trade Date engaged in a distribution, as such term is used in Regulation M under the Securities Exchange Act of 1934, as amended (the "
+Exchange Act
+"), of any securities of Counterparty, other than a distribution meeting the requirements of the exception set forth in Rules 101(b)(10) and 102(b)(7) of Regulation M. Counterparty shall not, until the second Scheduled Trading Day immediately following the Trade Date, engage in any such distribution.
+(e)           
+No Manipulation
+. Counterparty is not entering into this Transaction to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares) or otherwise in violation of the Exchange Act.
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+(f)           
+Board Authorization
+. This Transaction was approved by its board of directors and publicly announced, solely for the purposes stated in such board resolution and public disclosure and, prior to any exercise of Options hereunder, Counterparty's board of directors will have duly authorized any repurchase of Shares pursuant to this Transaction. Counterparty further represents that there is no internal policy, whether written or oral, of Counterparty that would prohibit Counterparty from entering into any aspect of this Transaction, including, but not limited to, the purchase of Shares to be made pursuant hereto.
+(g)           
+Transfer or Assignment
+. Bank may transfer or assign its rights and obligations hereunder and under the Agreement, in whole but not in part, to any of its Affiliates with the consent of Counterparty, which consent shall not be unreasonably withheld or delayed if (i) (A) if Bank has a Credit Support Provider, Counterparty shall have received a duly executed full unconditional guarantee by Bank's Credit Support Provider, in favor of Counterparty, of the obligations of such Affiliate substantially in the form of the guarantee provided by Bank's Credit Support Provider hereunder, or (B) if Bank does not have a Credit Support Provider, the creditworthiness of such Affiliate is satisfactory to Counterparty, and (ii) such transfer complies with the Transfer Conditions.
+If (x) the "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and rules promulgated thereunder) of Bank and its Affiliates of Shares beneficially owned in connection with Bank's hedging of this Transaction (the "
+Beneficial Ownership Percentage
+") exceeds 8% of Counterparty's outstanding Shares and (y) in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, Bank reasonably determines that it would be inadvisable for it or its Affiliates to engage in alternative hedging transactions which would enable them to reduce the Beneficial Ownership Percentage other than by transfer, assignment or termination, then Bank, in its discretion, (i) shall have the right to transfer or assign its rights and obligations hereunder and under the Agreement, in whole or in part, to any third party, so long as such third party has a long-term credit rating equal to or better than A1 by Moody's Investors Service, Inc. and A+ by Standard & Poor's Ratings Services or their respective successors (or is guaranteed by a party that satisfies this condition) and such transfer complies with the Transfer Conditions, and (ii) if Bank is unable to effect a transfer or assignment to a third party after its commercially reasonable efforts on pricing terms reasonably acceptable to Bank such that the Beneficial Ownership Percentage is reduced to 8% or less, Bank may designate any Scheduled Trading Day as an Early Termination Date with respect to a portion (the "
+Terminated Portion
+") of the Transaction, such that the Beneficial Ownership Percentage following such partial termination will be approximately equal to 8%. In the event that Bank so designates an Early Termination Date with respect to a portion of the Transaction, a payment or delivery shall be made pursuant to Section 6 of the Agreement as if (i) an Early Termination Date had been designated in respect of a Transaction having terms identical to the Terminated Portion of the Transaction, (ii) Counterparty shall be the sole Affected Party with respect to such partial termination and (iii) such portion of the Transaction shall be the only Terminated Transaction.
+"" means that: (i) Counterparty shall have received a duly executed acceptance and assumption by the transferee of the obligations under this Transaction in a form satisfactory to Counterparty; (ii) Counterparty will not, as a result of the transfer, be required to pay the transferee on any payment date an amount under Section 2(d)(i)(4) of the Agreement greater than an amount in respect of which Counterparty would have been required to pay to Bank in the absence of the transfer and (B) Counterparty will not, as a result of the transfer, receive from the transferee on any payment date an amount (after taking into account any additional amount payable under Section 2(d)(i)(4) of the Agreement) less than the amount which Counterparty would have received from Bank in the absence of such transfer as a result of any deduction or withholding for or on account of any Tax (as such ter m is defined in the Agreement) under Section 2(d)(i); and (iii) an Event of Default, Potential Event of Default or Termination Event will not occur as a result of the transfer.
+Transfer Conditions
+(h)           
+Staggered Settlement
+. Bank may, if Net Share Settlement is applicable, by notice to Counterparty prior to the Settlement Date (the "
+Nominal Settlement Date
+"), elect to deliver the Shares on two or more dates (each, a "
+Staggered Settlement Date
+") or at two or more times on the Nominal Settlement Date as follows:
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+(i)         in such notice, Bank will specify to Counterparty the related Staggered Settlement Dates (each of which will be on or prior to such Nominal Settlement Date) or delivery times and how it will allocate the Shares it is required to deliver under "Net Share Settlement" (above) among the Staggered Settlement Dates or delivery times; and
+(ii)          the aggregate number of Shares that Bank will deliver to Counterparty hereunder on all such Staggered Settlement Dates and delivery times will equal the number of Shares that Bank would otherwise be required to deliver on such Nominal Settlement Date.
+(i)            
+Early Unwind
+. In the event the sale by Counterparty of the Units is not consummated with the initial purchasers pursuant to the Purchase Agreement for any reason by the close of business in New York on June 13, 2006 (or such later date as agreed upon by the parties, which in no event shall be later than the date specified for this purpose in the Purchase Agreement) (June 13, 2006 or such later date being the "
+Early Unwind Date
+"), the Transaction shall automatically terminate (the "
+Early Unwind
+") on the Early Unwind Date and (i) the Transaction and all of the respective rights and obligations of Bank and Counterparty thereunder shall be cancelled and terminated and (ii) if the failure to consummate the sale of the Units results from a breach by Counterparty of any representation of or any undertaking by Counterparty contained in the Purchase Agreement, Counterparty shall pay to Bank an amount in cash equal to the aggregate amount of costs and expenses relating to the unwinding of Bank's reasonable hedging activities in respect of the Transaction (including market losses incurred in reselling any Shares purchased by Bank or its affiliates in connection with such reasonable hedging activities). Following such termination, cancellation and payment, each party shall be released and discharged by the other party from and agrees not to make any claim against the other party with respect to any obligations or liabilities of either party arising out of and to be performed in connection with the Transaction either prior to or after the Early Unwind Date. The amount of any such reimbursement shall be determined by Bank in its reasonable good faith discretion. Bank shall notify the Company of such amount, including, upon Counterparty's request, an explanation of the basis of determination of such amount, and Counterparty shall pay such amount in immediately available funds on the Early Unwind Date. Bank and Counterparty represent and acknowledge to the other that upon an Early Unwind and following the payment referred to above, all obligations with respect to the Transaction shall be deemed fully and finally discharged. For the avoidance of doubt, this Section 9(i) shall become effective as of the Trade Date and shall remain in effect whether or not the Effective Date of the Transaction occurs.
+(j)            
+Designation of Agent
+. Notwithstanding any other provision in this Confirmation to the contrary requiring or allowing the Bank to purchase, sell, receive or deliver any Shares or other securities to or from Counterparty, the Bank may designate any of its affiliates to purchase, sell, receive or deliver such Shares or other securities and otherwise to perform Bank's obligations in respect of this Transaction and any such designee may assume such obligations. The Bank shall be discharged of its obligations to Counterparty to the extent of any such performance.
+(k)           
+Disclosure
+. Effective from the date of commencement of discussions concerning the Transaction, Counterparty and each of its employees, representatives, or other agents may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to Counterparty relating to such tax treatment and tax structure.
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+(l)            
+Setoff
+. Except as provided in this Section 9(l), obligations under this Transaction shall not be set off by Bank against any other obligations of Counterparty, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise. Upon the occurrence of an Early Termination Date, Bank shall have the right to set off any obligation that it may have to Counterparty under this Confirmation, including without limitation any obligation to make any payment of cash or delivery of Shares to Counterparty, against any obligation Counterparty may have to Bank under any other agreement between Bank and Counterparty relating to Shares (each such contract or agreement, a "
+Separate Agreement
+"), including without limitation any obligation to make a payment of cash or a delivery of Shares or any other property or securities. For this purpose, Bank shall be entitled to convert any obligation (or the relevant portion of such obligation) denominated in one currency into another currency at the rate of exchange at which it would be able to purchase the relevant amount of such currency, and to convert any obligation to deliver any non-cash property into an obligation to deliver cash in an amount calculated by reference to the market value of such property as of the Early Termination Date, as determined by the Calculation Agent in its sole discretion;
+provided
+that in the case of a set-off of any obligation to release or deliver assets against any right to receive fungible assets, such obligation and right shall be set off in kind; and
+provided further
+that in determining the value of any obligation to deliver Shares, the value at any time of such obligation shall be determined by reference to the market value of the Shares at such time, as determined in good faith by the Calculation Agent. If an obligation is unascertained at the time of any such set-off, the Calculation Agent may in good faith estimate the amount or value of such obligation, in which case set-off will be effected in respect of that estimate, and the relevant party shall account to the other party at the time such obligation or right is ascertained.
+(m)          
+Securities Contract; Swap Agreement
+. Each of Bank and Counterparty agrees and acknowledges that Bank is a "swap participant" and "financial participant" within the meaning of Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the "
+Bankruptcy Code
+"). The parties hereto further agree and acknowledge (A) that this Confirmation is (i) a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "settlement payment," as such term is defined in Section 741(8) of the Bankruptcy Code, and (ii) a "swap agreement," as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "transfer," as such term is defined in Section 101(54) of the Bankruptcy Code, and (B) that Bank is entitled to the protections afforded by, among other sections, Section 362(b)(6), 362(b)(17), 546(e), 546(g), 555 and 560 of the Bankruptcy Code.
+(n)          
+Governing Law
+. New York law.
+(o)          
+Waiver of Jury Trial
+. Each party waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Transaction. Each party (i) certifies that no representative, agent or attorney of the other party has represented, expressly or otherwise, that such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Transaction, as applicable, by, among other things, the mutual waivers and certifications provided herein.
+(p)           
+Right to Extend
+. Bank may postpone any date of delivery by Bank, with respect to some or all of the Options, if Bank reasonably determines that such extension is reasonably necessary to enable Bank to effect purchases of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that would, if Bank were Counterparty or an affiliated purchaser of Counterparty, be in compliance with applicable legal and regulatory requirements.
+(q)           
+Registration
+. Counterparty hereby agrees that if, in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, the Shares
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+(the "
+Hedge Shares
+") acquired by Bank for the purpose of hedging its obligations pursuant to the Transaction cannot be sold in the U.S. public market by Bank without registration under the Securities Act, Counterparty shall, at its election: (i) in order to allow Bank to sell the Hedge Shares in a registered offering, make available to Bank an effective registration statement under the Securities Act to cover the resale of such Hedge Shares and (A) enter into an agreement, in form and substance satisfactory to Bank, substantially in the form of an underwriting agreement for a registered offering, (B) provide accountant's "comfort" letters in customary form for registered offerings of equity securities, (C) provide disclosure opinions of nationally recognized outside counsel to Counterparty reasonably acceptable to Bank, (D) provide other customary opinions, certificates and closing documents customary in form for registered offerings of equity securities and (E) afford Bank a reasonable opportunity to conduct a "due diligence" investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities;
+provided, however
+, that if Bank, in its reasonable discretion, is not satisfied with access to due diligence materials, the results of its due diligence investigation, or the procedures and documentation for the registered offering referred to above, then clause (ii) or clause (iii) of this Section 9(q) shall apply at the election of Counterparty; (ii) in order to allow Bank to sell the Hedge Shares in a private placement, enter into a private placement agreement substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance satisfactory to Bank, including customary representations, covenants, blue sky and other governmental filings and/or registrations, indemnities to Bank, due diligence rights (for Bank or any designated buyer of the Hedge Shares from Bank), opinions and certificates and such other documentation as is customary for private placements agreements, all reasonably acceptable to Bank (in which case, the Calculation Agent shall make any adjustments to the terms of the Transaction that are necessary, in its reasonable judgment, to compensate Bank for any discount from the public market price of the Shares incurred on the sale of Hedge Shares in a private placement); or (iii) purchase the Hedge Shares from Bank at the VWAP Price on such Exchange Business Days, and in the amounts, reasonably requested by Bank.
+(r)            
+Termination Currency
+. United States Dollars.
+(s)           
+Cancellation and Payment
+. Upon the occurrence of an event described in the second clause of the definition of "Fundamental Change" in the Warrant Agreement (as described in the second bullet point of the definition of "Fundamental Change" in the Offering Memorandum under "Description of the NotesRepurchase at the Option of Noteholders Upon a Fundamental Change") that also constitutes a Merger Event, Counterparty may elect for Cancellation and Payment (Calculation Agent Determination) to apply to all or any part of the Options as of the Merger Date. Notwithstanding anything to the contrary in this Confirmation or Section 12.7(b) of the Equity Definitions, in determining any amount payable in respect of a Cancellation and Payment, the value of this Transaction shall be determined based on the volatility, expected dividend yield and stock loan rate of the Shares assuming that no Fundamental Change had occurred or been announced. If any amount is payable by Bank to Counterparty in connection with such a Cancellation and Payment, Counterparty may elect for such payment to be satisfied by the delivery one Settlement Cycle following the 30 Trading Day referred to in clause (ii) below of a number of Shares equal to (i) the amount payable in connection with the Cancellation and Payment
+th
+divided
+by
+(ii) the sum of the VWAP Prices for the Shares (or, if applicable, the value of the "Units of Reference Property" (as defined in and determined in accordance with the sections of the Warrant Agreement containing the provisions described in the Offering Memorandum under "Description of the WarrantsRecapitalizations, Reclassifications and Changes to IPG Common Stock") on each of the 30 Trading Days following the date of such Cancellation and Payment
+divided
+by
+30.
+(t)            
+Limit on Beneficial Ownership
+. Notwithstanding anything to the contrary in the Agreement or this Confirmation, in no event shall Bank be entitled to receive, or be deemed to receive, any Shares to the extent (but only to the extent) that receipt of such Shares by Bank would result in Bank's "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and the rules promulgated thereunder) being equal to or greater than 9.0% or more of the outstanding Shares. Any purported delivery hereunder shall be void and have no effect to the extent (but only to the extent) that such delivery would result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares. If any delivery owed to Bank hereunder is not made, in whole or in part, as a result of this provision, Counterparty's obligation to make such delivery shall not be extinguished and Counterparty shall make such delivery as promptly as practicable after, but in no event later than one Clearance System Business Day after, Bank gives notice to Counterparty that such delivery would not result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares.
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+                Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Confirmation and returning it by facsimile to the address provided in the Notices section of this Confirmation.
+ 
+ 
+Accepted and confirmed
+as of the Trade Date:
+ 
+The Interpublic Group of Companies, Inc.
+ 
+By:
+/s/ The Interpublic Group of Companies, Inc.
+Authorized Signatory
+Name:
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+Annex A
+ 
+For each Component of the Transaction, the Number of Options and Expiration Date is set forth below.
+ 
+ 
+ 
+ 
+ 
+ 
+18
+
+                     
+ 
+Opening Transaction  Call
+ 
+Re: Capped Call Transaction
+Reference: Bank to provide.
+Dear Sir/Madam:
+The purpose of this letter agreement (this "
+Confirmation
+") is to confirm the terms and conditions of the Transaction entered into between JPMorgan Chase Bank, National Association, London Branch ("
+Bank
+") and you ("
+Counterparty
+") on the Trade Date specified below (the "
+Transaction
+"). This Confirmation constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below. This Confirmation shall replace any previous letter and serve as the final documentation for this Transaction. The Transaction is subject to early unwind if the closing of the Units offering consisting of Warrants issued by Counterparty and Floating Rate Credit Linked Notes issued by ELF Special Financing Ltd. due June 15, 2009 (the "
+Units
+") is not consummated for any reason, as set forth below in Section 9(i). "
+Warrant Agreement
+" means the Warrant Agreement, to be dated as of the Effective Date, between Counterparty and the Warrant Agent named therein, and shall not reflect any amendment, modification, supplement or waiver thereto following the issuance of the Units. Counterparty shall provide Bank with a copy of the executed Warrant Agreement on the Effective Date. Notwithstanding the foregoing, references herein to provisions of the Warrant Agreement are based on the description of the Warrant Agreement set forth in the Offering Memorandum of Counterparty and ELF Special Financing Ltd., dated as of June 6, 2006, in respect of $712,500,000 in the aggregate of Floating Rate Convertible Series A Units due 2009 and Floating Rate Convertible Series B Units due 2009 (the "
+Offering Memorandum
+"). If any relevant provisions of the Warrant Agreement differ in any material respect from those described in the Offering Memorandum, the parties will amend this Confirmation in good faith to preserve the economic intent of the parties.
+ 
+This Confirmation is subject to, and incorporates, the definitions and provisions of the 2000 ISDA Definitions (including the Annex thereto) (the "
+2000 Definitions
+") and the definitions and provisions of the 2002 ISDA Equity Derivatives Definitions (the "
+Equity Definitions
+", and together with the 2000 Definitions, the "
+Definitions
+"), in each case as published by the International Swaps and Derivatives Association, Inc. ("
+ISDA
+"). In the event of any inconsistency between the 2000 Definitions and the Equity Definitions, the Equity Definitions will govern.
+Each party is hereby advised, and each such party acknowledges, that the other party has engaged in, or refrained from engaging in, substantial financial transactions and has taken other material actions in reliance upon the parties' entry into the Transaction to which this Confirmation relates on the terms and conditions set forth below.
+ 
+ 
+A subsidiary of J.P. Morgan Chase & Co.
+Organized as a national bank association with limited liability under the United States National Bank Act.
+Registered in England branch number BR000746. Authorised by the FSA.
+Registered branch address 125 London Wall, London, EC2Y 5AJ.
+Head office 270 Park Avenue, New York, USA.
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+1.      This Confirmation evidences a complete and binding agreement between Bank and Counterparty as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall be subject to an agreement (the "
+Agreement
+") in the form of the 1992 ISDA Master Agreement (Multicurrency  Cross Border) (the "
+ISDA Form
+") as if Bank and Counterparty had executed an agreement in such form (without any Schedule except for the election of "Second Method" and "Loss" for purposes of Section 6(e) of the Agreement and any other elections set forth in this Confirmation). For the avoidance of doubt, the Transaction shall be the only transaction under the Agreement.
+All provisions contained in, or incorporated by reference to, the Agreement will govern this Confirmation except as expressly modified herein. In the event of any inconsistency between this Confirmation and either the Definitions or the Agreement, this Confirmation shall govern.
+2.      The Transaction constitutes a Share Option Transaction for purposes of the Equity Definitions. The terms of the particular Transaction to which this Confirmation relates are as follows:
+General Terms:
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+* Refers to material omitted pursuant to a request for confidential treatment. This material has been filed separately with the Commission.
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+ 
+Counterparty represents and warrants to and for the benefit of, and agrees with, Bank as follows:
+ 
+(a)           Counterparty is not, and after giving effect to the transactions contemplated hereby will not be, an "investment company" as such term is defined in the Investment Company Act of 1940, as amended.
+ 
+(b)           Counterparty is an "eligible contract participant" (as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended (the "
+CEA
+").
+ 
+(c)           On the Trade Date, (A) Counterparty is not aware of any material nonpublic information regarding Counterparty or the Shares and (B) all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act when considered as a whole (with the more recent such reports and documents deemed to amend inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.
+ 
+(d)           Counterparty is an "accredited investor" (as such term is defined in Section 2(a)(15)(ii) of the Securities Act of 1933, as amended (the "
+Securities Act
+")).
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+(e)           Counterparty's financial condition is such that it has no need for liquidity with respect to its investment in the Transaction and no need to dispose of any portion thereof to satisfy any existing or contemplated undertaking or indebtedness.
+ 
+(f)            On the Trade Date (A) the assets of Counterparty at their fair valuation exceed the liabilities of Counterparty, including contingent liabilities, (B) the capital of Counterparty is adequate to conduct the business of Counterparty and (C) Counterparty has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature.
+ 
+(g)           Counterparty's investments in and liabilities in respect of the Transaction, which it understands are not readily marketable, are not disproportionate to its net worth, and it is able to bear any loss in connection with the Transaction, including the loss of its entire investment in the Transaction.
+ 
+(h)           Counterparty hereby agrees and acknowledges that the Transaction has not been registered with the Securities and Exchange Commission or any state securities commission and that the Options are being written by Bank to Counterparty in reliance upon exemptions from any such registration requirements. Counterparty acknowledges that all Options acquired from Bank will be acquired for investment purposes only and not for the purpose of resale or other transfer except in compliance with the requirements of the Securities Act. Counterparty will not sell or otherwise transfer any Option or any interest therein except in compliance with the requirements of the Securities Act and any subsequent offer or sale of the Options will be solely for Counterparty's account and not as part of a distribution that would be in violation of the Securities Act.
+ 
+(i)            Counterparty understands no obligations of Bank to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Bank (other than any Credit Support Provider of Bank) or any governmental agency.
+ 
+(j)            Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that Bank is not making any representations or warranties with respect to the treatment of the Transaction under FASB Statements 133, as amended, or 150, EITF Issue No. 00-19 (or any successor issue statements) or under FASB's Liabilities & Equity Project.
+ 
+9. Other Provisions:
+(a)           
+Opinion
+. Counterparty shall deliver to Bank (i) an opinion of internal counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, with respect to Counterparty's existence and its power and authority to enter into this Transaction and (ii) an opinion of external counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, on such matters as separately agreed between Counterparty and Bank on the Trade Date.
+(b)           
+Repurchase Notices
+. Counterparty shall, on any day on which Counterparty effects any repurchase of Shares, promptly give Bank a written notice of such repurchase (a "
+Repurchase Notice
+") on such day if, following such repurchase, the number of outstanding Shares on such day, subject to any adjustments provided herein, is (i) less than 400,000,000 (in the case of the first such notice) or (ii) thereafter, more than 5,000,000 less than the number of Shares included in the immediately preceding Repurchase Notice.
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+(c)           
+Alternative Calculations and Payment on Early Termination and on Certain Extraordinary Events
+. If, subject to Section 9(l) below, Bank shall owe Counterparty any amount pursuant to Section 12.2 or 12.3 of the Equity Definitions and "Consequences of Merger Events" above, or Sections 12.6, 12.7 or 12.9 of the Equity Definitions (except in the event of an Insolvency, a Nationalization, or a Merger Event, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash) or pursuant to Section 6(d)(ii) of the Agreement (except in the event of an Event of Default in which Counterparty is the Defaulting Party or a Termination Event in which Counterparty is the Affected Party, that resulted from an event or events within Counterparty's control) (a "
+Payment Obligation
+"), Counterparty shall have the right, in its sole discretion, to require Bank to satisfy any such Payment Obligation by the Share Termination Alternative (as defined below) by giving irrevocable telephonic notice to Bank, confirmed in writing within one Scheduled Trading Day, between the hours of 9:00 A.M. and 4:00 P.M. New York City time on the Merger Date, Announcement Date or Early Termination Date, as applicable ("
+Notice of Share Termination
+"). Upon such Notice of Share Termination, the following provisions shall apply on the Scheduled Trading Day immediately following the Merger Date, Announcement Date or Early Termination Date, as applicable:
+ 
+ 
+(d)           
+Regulation M
+. Counterparty was not on the Trade Date engaged in a distribution, as such term is used in Regulation M under the Securities Exchange Act of 1934, as amended (the "
+Exchange Act
+"), of any securities of Counterparty, other than a distribution meeting the requirements of the exception set forth in Rules 101(b)(10) and 102(b)(7) of Regulation M. Counterparty shall not, until the second Scheduled Trading Day immediately following the Trade Date, engage in any such distribution.
+(e)           
+No Manipulation
+. Counterparty is not entering into this Transaction to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares) or otherwise in violation of the Exchange Act.
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+(f)           
+Board Authorization
+. This Transaction was approved by its board of directors and publicly announced, solely for the purposes stated in such board resolution and public disclosure and, prior to any exercise of Options hereunder, Counterparty's board of directors will have duly authorized any repurchase of Shares pursuant to this Transaction. Counterparty further represents that there is no internal policy, whether written or oral, of Counterparty that would prohibit Counterparty from entering into any aspect of this Transaction, including, but not limited to, the purchase of Shares to be made pursuant hereto.
+(g)           
+Transfer or Assignment
+. Bank may transfer or assign its rights and obligations hereunder and under the Agreement, in whole but not in part, to any of its Affiliates with the consent of Counterparty, which consent shall not be unreasonably withheld or delayed if (i) (A) if Bank has a Credit Support Provider, Counterparty shall have received a duly executed full unconditional guarantee by Bank's Credit Support Provider, in favor of Counterparty, of the obligations of such Affiliate substantially in the form of the guarantee provided by Bank's Credit Support Provider hereunder, or (B) if Bank does not have a Credit Support Provider, the creditworthiness of such Affiliate is satisfactory to Counterparty, and (ii) such transfer complies with the Transfer Conditions.
+If (x) the "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and rules promulgated thereunder) of Bank and its Affiliates of Shares beneficially owned in connection with Bank's hedging of this Transaction (the "
+Beneficial Ownership Percentage
+") exceeds 8% of Counterparty's outstanding Shares and (y) in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, Bank reasonably determines that it would be inadvisable for it or its Affiliates to engage in alternative hedging transactions which would enable them to reduce the Beneficial Ownership Percentage other than by transfer, assignment or termination, then Bank, in its discretion, (i) shall have the right to transfer or assign its rights and obligations hereunder and under the Agreement, in whole or in part, to any third party, so long as such third party has a long-term credit rating equal to or better than A1 by Moody's Investors Service, Inc. and A+ by Standard & Poor's Ratings Services or their respective successors (or is guaranteed by a party that satisfies this condition) and such transfer complies with the Transfer Conditions, and (ii) if Bank is unable to effect a transfer or assignment to a third party after its commercially reasonable efforts on pricing terms reasonably acceptable to Bank such that the Beneficial Ownership Percentage is reduced to 8% or less, Bank may designate any Scheduled Trading Day as an Early Termination Date with respect to a portion (the "
+Terminated Portion
+") of the Transaction, such that the Beneficial Ownership Percentage following such partial termination will be approximately equal to 8%. In the event that Bank so designates an Early Termination Date with respect to a portion of the Transaction, a payment or delivery shall be made pursuant to Section 6 of the Agreement as if (i) an Early Termination Date had been designated in respect of a Transaction having terms identical to the Terminated Portion of the Transaction, (ii) Counterparty shall be the sole Affected Party with respect to such partial termination and (iii) such portion of the Transaction shall be the only Terminated Transaction.
+"
+Transfer Conditions
+" means that: (i) Counterparty shall have received a duly executed acceptance and assumption by the transferee of the obligations under this Transaction in a form satisfactory to Counterparty; (ii) Counterparty will not, as a result of the transfer, be required to pay the transferee on any payment date an amount under Section 2(d)(i)(4) of the Agreement greater than an amount in respect of which Counterparty would have been required to pay to Bank in the absence of the transfer and (B) Counterparty will not, as a result of the transfer, receive from the transferee on any payment date an amount (after taking into account any additional amount payable under Section 2(d)(i)(4) of the Agreement) less than the amount which Counterparty would have received from Bank in the absence of such transfer as a result of any deduction or withholding f or or on account of any Tax (as such term is defined in the Agreement) under Section 2(d)(i); and (iii) an Event of Default, Potential Event of Default or Termination Event will not occur as a result of the transfer.
+(h)           
+Staggered Settlement
+. Bank may, if Net Share Settlement is applicable, by notice to Counterparty prior to the Settlement Date (the "
+Nominal Settlement Date
+"), elect to deliver the Shares on two or more dates (each, a "
+Staggered Settlement Date
+") or at two or more times on the Nominal Settlement Date as follows:
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+ 
+(i)         in such notice, Bank will specify to Counterparty the related Staggered Settlement Dates (each of which will be on or prior to such Nominal Settlement Date) or delivery times and how it will allocate the Shares it is required to deliver under "Net Share Settlement" (above) among the Staggered Settlement Dates or delivery times; and
+(ii)          the aggregate number of Shares that Bank will deliver to Counterparty hereunder on all such Staggered Settlement Dates and delivery times will equal the number of Shares that Bank would otherwise be required to deliver on such Nominal Settlement Date.
+(i)            
+Early Unwind
+. In the event the sale by Counterparty of the Units is not consummated with the initial purchasers pursuant to the Purchase Agreement for any reason by the close of business in New York on June 13, 2006 (or such later date as agreed upon by the parties, which in no event shall be later than the date specified for this purpose in the Purchase Agreement) (June 13, 2006 or such later date being the "
+Early Unwind Date
+"), the Transaction shall automatically terminate (the "
+Early Unwind
+") on the Early Unwind Date and (i) the Transaction and all of the respective rights and obligations of Bank and Counterparty thereunder shall be cancelled and terminated and (ii) if the failure to consummate the sale of the Units results from a breach by Counterparty of any representation of or any undertaking by Counterparty contained in the Purchase Agreement, Counterparty shall pay to Bank an amount in cash equal to the aggregate amount of costs and expenses relating to the unwinding of Bank's reasonable hedging activities in respect of the Transaction (including market losses incurred in reselling any Shares purchased by Bank or its affiliates in connection with such reasonable hedging activities). Following such termination, cancellation and payment, each party shall be released and discharged by the other party from and agrees not to make any claim against the other party with respect to any obligations or liabilities of either party arising out of and to be performed in connection with the Transaction either prior to or after the Early Unwind Date. The amount of any such reimbursement shall be determined by Bank in its reasonable good faith discretion. Bank shall notify the Company of such amount, including, upon Counterparty's request, an explanation of the basis of determination of such amount, and Counterparty shall pay such amount in immediately available funds on the Early Unwind Date. Bank and Counterparty represent and acknowledge to the other that upon an Early Unwind and following the payment referred to above, all obligations with respect to the Transaction shall be deemed fully and finally discharged. For the avoidance of doubt, this Section 9(i) shall become effective as of the Trade Date and shall remain in effect whether or not the Effective Date of the Transaction occurs.
+(j)            
+Designation of Agent
+. Notwithstanding any other provision in this Confirmation to the contrary requiring or allowing the Bank to purchase, sell, receive or deliver any Shares or other securities to or from Counterparty, the Bank may designate any of its affiliates to purchase, sell, receive or deliver such Shares or other securities and otherwise to perform Bank's obligations in respect of this Transaction and any such designee may assume such obligations. The Bank shall be discharged of its obligations to Counterparty to the extent of any such performance.
+(k)          
+Disclosure
+. Effective from the date of commencement of discussions concerning the Transaction, Counterparty and each of its employees, representatives, or other agents may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to Counterparty relating to such tax treatment and tax structure.
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+(l)            
+Setoff
+. Except as provided in this Section 9(l), obligations under this Transaction shall not be set off by Bank against any other obligations of Counterparty, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise. Upon the occurrence of an Early Termination Date, Bank shall have the right to set off any obligation that it may have to Counterparty under this Confirmation, including without limitation any obligation to make any payment of cash or delivery of Shares to Counterparty, against any obligation Counterparty may have to Bank under any other agreement between Bank and Counterparty relating to Shares (each such contract or agreement, a "
+Separate Agreement
+"), including without limitation any obligation to make a payment of cash or a delivery of Shares or any other property or securities. For this purpose, Bank shall be entitled to convert any obligation (or the relevant portion of such obligation) denominated in one currency into another currency at the rate of exchange at which it would be able to purchase the relevant amount of such currency, and to convert any obligation to deliver any non-cash property into an obligation to deliver cash in an amount calculated by reference to the market value of such property as of the Early Termination Date, as determined by the Calculation Agent in its sole discretion;
+provided
+that in the case of a set-off of any obligation to release or deliver assets against any right to receive fungible assets, such obligation and right shall be set off in kind; and
+provided further
+that in determining the value of any obligation to deliver Shares, the value at any time of such obligation shall be determined by reference to the market value of the Shares at such time, as determined in good faith by the Calculation Agent. If an obligation is unascertained at the time of any such set-off, the Calculation Agent may in good faith estimate the amount or value of such obligation, in which case set-off will be effected in respect of that estimate, and the relevant party shall account to the other party at the time such obligation or right is ascertained.
+(m)          
+Securities Contract; Swap Agreement
+. Each of Bank and Counterparty agrees and acknowledges that Bank is a "swap participant" and "financial participant" within the meaning of Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the "
+Bankruptcy Code
+"). The parties hereto further agree and acknowledge (A) that this Confirmation is (i) a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "settlement payment," as such term is defined in Section 741(8) of the Bankruptcy Code, and (ii) a "swap agreement," as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "transfer," as such term is defined in Section 101(54) of the Bankruptcy Code, and (B) that Bank is entitled to the protections afforded by, among other sections, Section 362(b)(6), 362(b)(17), 546(e), 546(g), 555 and 560 of the Bankruptcy Code.
+(n)           
+Governing Law
+. New York law.
+(o)           
+Waiver of Jury Trial
+. Each party waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Transaction. Each party (i) certifies that no representative, agent or attorney of the other party has represented, expressly or otherwise, that such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Transaction, as applicable, by, among other things, the mutual waivers and certifications provided herein.
+(p)           
+Right to Extend
+. Bank may postpone any date of delivery by Bank, with respect to some or all of the Options, if Bank reasonably determines that such extension is reasonably necessary to enable Bank to effect purchases of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that would, if Bank were Counterparty or an affiliated purchaser of Counterparty, be in compliance with applicable legal and regulatory requirements.
+(q)           
+Registration
+. Counterparty hereby agrees that if, in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, the Shares (the "
+Hedge Shares
+") acquired by Bank for the purpose of hedging its obligations pursuant to the Transaction cannot be sold in the U.S. public market by Bank without registration under the Securities Act, Counterparty shall, at its election: (i) in order to allow Bank to sell the Hedge Shares in a registered offering, make available to Bank an effective registration statement under the Securities Act to cover the resale of such Hedge Shares and (A) enter into an agreement, in form and substance satisfactory to Bank, substantially in the form of an un derwriting agreement for a registered offering, (B) provide accountant's "comfort" letters in customary form for registered offerings of equity securities, (C) provide disclosure opinions of nationally recognized outside counsel to Counterparty reasonably acceptable to Bank, (D) provide other customary opinions, certificates and closing documents customary in form for registered offerings of equity securities and (E) afford Bank a reasonable opportunity to conduct a "due diligence" investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities;
+provided, however
+, that if Bank, in its reasonable discretion, is not satisfied with access to due diligence materials, the results of its due diligence investigation, or the procedures and documentation for the registered offering referred to above, then clause (ii) or clause (iii) of this Section 9(q) shall apply at the election of Counterparty; (ii ) in order to allow Bank to sell the Hedge Shares in a private placement, enter into a private placement agreement substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance satisfactory to Bank, including customary representations, covenants, blue sky and other governmental filings and/or registrations, indemnities to Bank, due diligence rights (for Bank or any designated buyer of the Hedge Shares from Bank), opinions and certificates and such other documentation as is customary for private placements agreements, all reasonably acceptable to Bank (in which case, the Calculation Agent shall make any adjustments to the terms of the Transaction that are necessary, in its reasonable judgment, to compensate Bank for any discount from the public market price of the Shares incurred on the sale of Hedge Shares in a private placement); or (iii) purchase the Hedge Shares from Bank at the VWAP Price on such Exchange Business Days, and in the amounts, reasonably requested by Bank.
+ 
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+(r)            
+Termination Currency
+. United States Dollars.
+(s)           
+Cancellation and Payment
+. Upon the occurrence of an event described in the second clause of the definition of "Fundamental Change" in the Warrant Agreement (as described in the second bullet point of the definition of "Fundamental Change" in the Offering Memorandum under "Description of the NotesRepurchase at the Option of Noteholders Upon a Fundamental Change") that also constitutes a Merger Event, Counterparty may elect for Cancellation and Payment (Calculation Agent Determination) to apply to all or any part of the Options as of the Merger Date. Notwithstanding anything to the contrary in this Confirmation or Section 12.7(b) of the Equity Definitions, in determining any amount payable in respect of a Cancellation and Payment, the value of this Transaction shall be determined based on the volatility, expected dividend yield and stock loan rate of the Shares assuming that no Fundamental Change had occurred or been announced. If any amount is payable by Bank to Counterparty in connection with such a Cancellation and Payment, Counterparty may elect for such payment to be satisfied by the delivery one Settlement Cycle following the 30 Trading Day referred to in clause (ii) below of a number of Shares equal to (i) the amount payable in connection with the Cancellation and Payment
+th
+divided
+by
+(ii) the sum of the VWAP Prices for the Shares (or, if applicable, the value of the "Units of Reference Property" (as defined in and determined in accordance with the sections of the Warrant Agreement containing the provisions described in the Offering Memorandum under "Description of the WarrantsRecapitalizations, Reclassifications and Changes to IPG Common Stock") on each of the 30 Trading Days following the date of such Cancellation and Payment
+divided
+by
+30.
+(t)            
+Limit on Beneficial Ownership
+. Notwithstanding anything to the contrary in the Agreement or this Confirmation, in no event shall Bank be entitled to receive, or be deemed to receive, any Shares to the extent (but only to the extent) that receipt of such Shares by Bank would result in Bank's "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and the rules promulgated thereunder) being equal to or greater than 9.0% or more of the outstanding Shares. Any purported delivery hereunder shall be void and have no effect to the extent (but only to the extent) that such delivery would result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares. If any delivery owed to Bank hereunder is not made, in whole or in part, as a result of this provision, Counterparty's obligation to make such delivery shall not be extinguished and Counterparty shall make such delivery as promptly as practicable after, but in no event later than one Clearance System Business
+Day after, Bank gives notice to Counterparty that such delivery would not result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares.
+      
+(u)           
+Role of Agent
+. Each party agrees and acknowledges that (i) J.P. Morgan Securities Inc., an affiliate of JPMorgan ("
+JPMSI
+"), has acted solely as agent and not as principal with respect to this Transaction and (ii) JPMSI has no obligation or liability, by way of guaranty, endorsement or otherwise, in any manner in respect of this Transaction (including, if applicable, in respect of the settlement thereof). Each party agrees it will look solely to the other party (or any guarantor in respect thereof) for performance of such other party's obligations under this Transaction.
+ 
+ 
+CONFIDENTIAL TREAMTENT
+ 
+ 
+                Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Confirmation and returning it by facsimile to the address provided in the Notices section of this Confirmation.
+ 
+ 
+Accepted and confirmed
+as of the Trade Date:
+ 
+The Interpublic Group of Companies, Inc.
+ 
+By:
+/s/ The Interpublic Group of Companies, Inc.
+Authorized Signatory
+Name:
+ 
+ 
+ 
+Annex A
+ 
+For each Component of the Transaction, the Number of Options and Expiration Date is set forth below.
+ 
+ 
+ 
+ 
+ 
+
+ 
+Opening Transaction  Call
+ 
+Re: Capped Call Transaction
+Reference: Bank to provide.
+Dear Sir/Madam:
+The purpose of this letter agreement (this 
+Confirmation
+) is to confirm the terms and conditions of the Transaction entered into between
+Morgan Stanley & Co. International Limited
+(
+Bank
+), with Morgan Stanley Bank as its agent (
+Agent
+), and you (
+Counterparty
+) on the Trade Date specified below (the 
+Transaction
+). This Confirmation constitutes a Confirmation as referred to in the ISDA Master Agreement specified below. This Confirmation shall replace any previous letter and serve as the final documentation for this Transaction. The Transaction is subject to early unwind if the closing of the Units offering consisting of Warrants issued by Counterparty and Floating Rate Credit Linked Notes issued by ELF Special Financing Ltd. due June 15, 2009 (the 
+Units
+) is not consummated for any reason, as set forth below in Section 9(i). 
+Warrant Agreement
+ means the Warrant Agreement, to be dated as of the Effective Date, between Counterparty and the Warrant Agent named therein, and shall not reflect any amendment, modification, supplement or waiver thereto following the issuance of the Units. Counterparty shall provide Bank with a copy of the executed Warrant Agreement on the Effective Date. Notwithstanding the foregoing, references herein to provisions of the Warrant Agreement are based on the description of the Warrant Agreement set forth in the Offering Memorandum of Counterparty and ELF Special Financing Ltd., dated as of June 6, 2006, in respect of $712,500,000 in the aggregate of Floating Rate Convertible Series A Units due 2009 and Floating Rate Convertible Series B Units due 2009 (the 
+Offering Memorandum
+). If any relevant provisions of the Warrant Agreement differ in any material respect from those described in the Offering Memorandum, the parties will amend this Confirmation in good faith to preserve the economic intent of the parties.
+This Confirmation is subject to, and incorporates, the definitions and provisions of the 2000 ISDA Definitions (including the Annex thereto) (the 
+2000 Definitions
+) and the definitions and provisions of the 2002 ISDA Equity Derivatives Definitions (the 
+Equity Definitions
+, and together with the 2000 Definitions, the 
+Definitions
+), in each case as published by the International Swaps and Derivatives Association, Inc. (
+ISDA
+). In the event of any inconsistency between the 2000 Definitions and the Equity Definitions, the Equity Definitions will govern.
+Each party is hereby advised, and each such party acknowledges, that the other party has engaged in, or refrained from engaging in, substantial financial transactions and has taken other material actions in reliance upon the parties' entry into the Transaction to which this Confirmation relates on the terms and conditions set forth below.
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+1.      This Confirmation evidences a complete and binding agreement between Bank and Counterparty as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall be subject to an agreement (the 
+Agreement
+) in the form of the 1992 ISDA Master Agreement (Multicurrency  Cross Border) (the 
+ISDA Form
+) as if Bank and Counterparty had executed an agreement in such form (without any Schedule except for the election of Second Method and Loss for purposes of Section 6(e) of the Agreement and any other elections set forth in this Confirmation). For the avoidance of doubt, the Transaction shall be the only transaction under the Agreement.
+All provisions contained in, or incorporated by reference to, the Agreement will govern this Confirmation except as expressly modified herein. In the event of any inconsistency between this Confirmation and either the Definitions or the Agreement, this Confirmation shall govern.
+2.      The Transaction constitutes a Share Option Transaction for purposes of the Equity Definitions. The terms of the particular Transaction to which this Confirmation relates are as follows:
+General Terms:
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+* Refers to material omitted pursuant to a request for confidential treatment. This material has been filed separately with the Commission.
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+Additional Disruption Events:
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+Counterparty represents and warrants to and for the benefit of, and agrees with, Bank as follows:
+ 
+(a)           Counterparty is not, and after giving effect to the transactions contemplated hereby will not be, an investment company as such term is defined in the Investment Company Act of 1940, as amended.
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+(b)           Counterparty is an eligible contract participant (as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended (the 
+CEA
+).
+ 
+(c)           On the Trade Date, (A) Counterparty is not aware of any material nonpublic information regarding Counterparty or the Shares and (B) all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act when considered as a whole (with the more recent such reports and documents deemed to amend inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.
+ 
+(d)           Counterparty is an accredited investor (as such term is defined in Section 2(a)(15)(ii) of the Securities Act of 1933, as amended (the 
+Securities Act
+)).
+ 
+(e)           Counterparty's financial condition is such that it has no need for liquidity with respect to its investment in the Transaction and no need to dispose of any portion thereof to satisfy any existing or contemplated undertaking or indebtedness.
+ 
+(f)            On the Trade Date (A) the assets of Counterparty at their fair valuation exceed the liabilities of Counterparty, including contingent liabilities, (B) the capital of Counterparty is adequate to conduct the business of Counterparty and (C) Counterparty has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature.
+ 
+(g)           Counterparty's investments in and liabilities in respect of the Transaction, which it understands are not readily marketable, are not disproportionate to its net worth, and it is able to bear any loss in connection with the Transaction, including the loss of its entire investment in the Transaction.
+ 
+(h)           Counterparty hereby agrees and acknowledges that the Transaction has not been registered with the Securities and Exchange Commission or any state securities commission and that the Options are being written by Bank to Counterparty in reliance upon exemptions from any such registration requirements. Counterparty acknowledges that all Options acquired from Bank will be acquired for investment purposes only and not for the purpose of resale or other transfer except in compliance with the requirements of the Securities Act. Counterparty will not sell or otherwise transfer any Option or any interest therein except in compliance with the requirements of the Securities Act and any subsequent offer or sale of the Options will be solely for Counterparty's account and not as part of a distribution that would be in violation of the Securities Act.
+ 
+(i)            Counterparty understands no obligations of Bank to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Bank (other than any Credit Support Provider of Bank) or any governmental agency.
+ 
+(j)            Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that Bank is not making any representations or warranties with respect to the treatment of the Transaction under FASB Statements 133, as amended, or 150, EITF Issue No. 00-19 (or any successor issue statements) or under FASB's Liabilities & Equity Project.
+ 
+9. Other Provisions:
+(a)           
+Opinion
+. Counterparty shall deliver to Bank (i) an opinion of internal counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, with respect to Counterparty's existence and its power and authority to enter into this Transaction and (ii) an opinion of external counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, on such matters as separately agreed between Counterparty and Bank on the Trade Date.
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+(b)           
+Repurchase Notices
+. Counterparty shall, on any day on which Counterparty effects any repurchase of Shares, promptly give Bank a written notice of such repurchase (a 
+Repurchase Notice
+) on such day if, following such repurchase, the number of outstanding Shares on such day, subject to any adjustments provided herein, is (i) less than 400,000,000 (in the case of the first such notice) or (ii) thereafter, more than 5,000,000 less than the number of Shares included in the immediately preceding Repurchase Notice.
+(c)           
+Alternative Calculations and Payment on Early Termination and on Certain Extraordinary Events
+. If, subject to Section 9(l) below, Bank shall owe Counterparty any amount pursuant to Section 12.2 or 12.3 of the Equity Definitions and Consequences of Merger Events above, or Sections 12.6, 12.7 or 12.9 of the Equity Definitions (except in the event of an Insolvency, a Nationalization, or a Merger Event, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash) or pursuant to Section 6(d)(ii) of the Agreement (except in the event of an Event of Default in which Counterparty is the Defaulting Party or a Termination Event in which Counterparty is the Affected Party, that resulted from an event or events within Counterparty's control) (a 
+Payment Obligation
+), Counterparty shall have the right, in its sole discretion, to require Bank to satisfy any such Payment Obligation by the Share Termination Alternative (as defined below) by giving irrevocable telephonic notice to Bank, confirmed in writing within one Scheduled Trading Day, between the hours of 9:00 A.M. and 4:00 P.M. New York City time on the Merger Date, Announcement Date or Early Termination Date, as applicable (
+Notice of Share Termination
+). Upon such Notice of Share Termination, the following provisions shall apply on the Scheduled Trading Day immediately following the Merger Date, Announcement Date or Early Termination Date, as applicable:
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+ 
+ 
+(d)           
+Regulation M
+. Counterparty was not on the Trade Date engaged in a distribution, as such term is used in Regulation M under the Securities Exchange Act of 1934, as amended (the 
+Exchange Act
+), of any securities of Counterparty, other than a distribution meeting the requirements of the exception set forth in Rules 101(b)(10) and 102(b)(7) of Regulation M. Counterparty shall not, until the second Scheduled Trading Day immediately following the Trade Date, engage in any such distribution.
+(e)           
+No Manipulation
+. Counterparty is not entering into this Transaction to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares) or otherwise in violation of the Exchange Act.
+(f)           
+Board Authorization
+. This Transaction was approved by its board of directors and publicly announced, solely for the purposes stated in such board resolution and public disclosure and, prior to any exercise of Options hereunder, Counterparty's board of directors will have duly authorized any repurchase of Shares pursuant to this Transaction. Counterparty further represents that there is no internal policy, whether written or oral, of Counterparty that would prohibit Counterparty from entering into any aspect of this Transaction, including, but not limited to, the purchase of Shares to be made pursuant hereto.
+(g)           
+Transfer or Assignment
+. Bank may transfer or assign its rights and obligations hereunder and under the Agreement, in whole but not in part, to any of its Affiliates with the consent of Counterparty, which consent shall not be unreasonably withheld or delayed if (i) (A) if Bank has a Credit Support Provider, Counterparty shall have received a duly executed full unconditional guarantee by Bank's Credit Support Provider, in favor of Counterparty, of the obligations of such Affiliate substantially in the form of the guarantee provided by Bank's Credit Support Provider hereunder, or (B) if Bank does not have a Credit Support Provider, the creditworthiness of such Affiliate is satisfactory to Counterparty, and (ii) such transfer complies with the Transfer Conditions.
+If (x) the beneficial ownership (within the meaning of Section 16 of the Exchange Act and rules promulgated thereunder) of Bank and its Affiliates of Shares beneficially owned in connection with Bank's
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+hedging of this Transaction (the 
+Beneficial Ownership Percentage
+) exceeds 8% of Counterparty's outstanding Shares and (y) in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, Bank reasonably determines that it would be inadvisable for it or its Affiliates to engage in alternative hedging transactions which would enable them to reduce the Beneficial Ownership Percentage other than by transfer, assignment or termination, then Bank, in its discretion, (i) shall have the right to transfer or assign its rights and obligations hereunder and under the Agreement, in whole or in part, to any third party, so long as such third party has a long-term credit rating equal to or better than A1 by Moody's Investors Service, Inc. and A+ by Standard & Poor's Ratings Services or their respective successors (or is guaranteed by a party that satisfies this condition) and such transfer complies with the Transfer Conditions, and (ii) if Bank is unable to effect a transfer or assignment to a third party after its commercially reasonable efforts on pricing terms reasonably acceptable to Bank such that the Beneficial Ownership Percentage is reduced to 8% or less, Bank may designate any Scheduled Trading Day as an Early Termination Date with respect to a portion (the 
+Terminated Portion
+) of the Transaction, such that the Beneficial Ownership Percentage following such partial termination will be approximately equal to 8%. In the event that Bank so designates an Early Termination Date with respect to a portion of the Transaction, a payment or delivery shall be made pursuant to Section 6 of the Agreement as if (i) an Early Termination Date had been designated in respect of a Transaction having terms identical to the Terminated Portion of the Transaction, (ii) Counterparty shall be the sole Affected Party with respect to such partial termination and (iii) such portion of the Transaction shall be the only Terminated Transaction.
+Transfer Conditions
+ means that: (i) Counterparty shall have received a duly executed acceptance and assumption by the transferee of the obligations under this Transaction in a form satisfactory to Counterparty; (ii) Counterparty will not, as a result of the transfer, be required to pay the transferee on any payment date an amount under Section 2(d)(i)(4) of the Agreement greater than an amount in respect of which Counterparty would have been required to pay to Bank in the absence of the transfer and (B) Counterparty will not, as a result of the transfer, receive from the transferee on any payment date an amount (after taking into account any additional amount payable under Section 2(d)(i)(4) of the Agreement) less than the amount which Counterparty would have received from Bank in the absence of such transfer as a result of any deduction or withholding for or on account of any Tax (as such term is defined in the Agreement) under Section 2(d)(i); and (iii) an Event of Default, Potential Event of Default or Termination Event will not occur as a result of the transfer.
+(h)           
+Staggered Settlement
+. Bank may, if Net Share Settlement is applicable, by notice to Counterparty prior to the Settlement Date (the 
+Nominal Settlement Date
+), elect to deliver the Shares on two or more dates (each, a 
+Staggered Settlement Date
+) or at two or more times on the Nominal Settlement Date as follows:
+(i)         in such notice, Bank will specify to Counterparty the related Staggered Settlement Dates (each of which will be on or prior to such Nominal Settlement Date) or delivery times and how it will allocate the Shares it is required to deliver under Net Share Settlement (above) among the Staggered Settlement Dates or delivery times; and
+(ii)          the aggregate number of Shares that Bank will deliver to Counterparty hereunder on all such Staggered Settlement Dates and delivery times will equal the number of Shares that Bank would otherwise be required to deliver on such Nominal Settlement Date.
+(i)            
+Early Unwind
+. In the event the sale by Counterparty of the Units is not consummated with the initial purchasers pursuant to the Purchase Agreement for any reason by the close of business in New York on June 13, 2006 (or such later date as agreed upon by the parties, which in no event shall be later than the date specified for this purpose in the Purchase Agreement) (June 13, 2006 or such later date being the 
+Early Unwind Date
+), the Transaction shall automatically terminate (the 
+Early Unwind
+) on the Early Unwind Date and (i) the Transaction and all of the respective rights and obligations of Bank and Counterparty thereunder shall be cancelled and terminated and (ii) if the failure to consummate the sale of the Units results from a breach by Counterparty of any representation of or any undertaking by Counterparty contained in the Purchase Agreement, Counterparty shall pay to Bank an amount in cash equal to the aggregate amount of costs and expenses relating to the unwinding of Bank's reasonable hedging activities in respect of the Transaction (including market losses incurred in reselling any Shares
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+purchased by Bank or its affiliates in connection with such reasonable hedging activities). Following such termination, cancellation and payment, each party shall be released and discharged by the other party from and agrees not to make any claim against the other party with respect to any obligations or liabilities of either party arising out of and to be performed in connection with the Transaction either prior to or after the Early Unwind Date. The amount of any such reimbursement shall be determined by Bank in its reasonable good faith discretion. Bank shall notify the Company of such amount, including, upon Counterparty's request, an explanation of the basis of determination of such amount, and Counterparty shall pay such amount in immediately available funds on the Early Unwind Date. Bank and Counterparty represent and acknowledge to the other that upon an Early Unwind and following the payment referred to above, all obligations with respect to the Transaction shall be deemed fully and finally discharged. For the avoidance of doubt, this Section 9(i) shall become effective as of the Trade Date and shall remain in effect whether or not the Effective Date of the Transaction occurs.
+(j)            
+Designation of Agent
+. Notwithstanding any other provision in this Confirmation to the contrary requiring or allowing the Bank to purchase, sell, receive or deliver any Shares or other securities to or from Counterparty, the Bank may designate any of its affiliates to purchase, sell, receive or deliver such Shares or other securities and otherwise to perform Bank's obligations in respect of this Transaction and any such designee may assume such obligations. The Bank shall be discharged of its obligations to Counterparty to the extent of any such performance.
+(k)           
+Disclosure
+. Effective from the date of commencement of discussions concerning the Transaction, Counterparty and each of its employees, representatives, or other agents may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to Counterparty relating to such tax treatment and tax structure.
+(l)            
+Setoff
+. Except as provided in this Section 9(l), obligations under this Transaction shall not be set off by Bank against any other obligations of Counterparty, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise. Upon the occurrence of an Early Termination Date, Bank shall have the right to set off any obligation that it may have to Counterparty under this Confirmation, including without limitation any obligation to make any payment of cash or delivery of Shares to Counterparty, against any obligation Counterparty may have to Bank under any other agreement between Bank and Counterparty relating to Shares (each such contract or agreement, a 
+Separate Agreement
+), including without limitation any obligation to make a payment of cash or a delivery of Shares or any other property or securities. For this purpose, Bank shall be entitled to convert any obligation (or the relevant portion of such obligation) denominated in one currency into another currency at the rate of exchange at which it would be able to purchase the relevant amount of such currency, and to convert any obligation to deliver any non-cash property into an obligation to deliver cash in an amount calculated by reference to the market value of such property as of the Early Termination Date, as determined by the Calculation Agent in its sole discretion;
+provided
+that in the case of a set-off of any obligation to release or deliver assets against any right to receive fungible assets, such obligation and right shall be set off in kind; and
+provided further
+that in determining the value of any obligation to deliver Shares, the value at any time of such obligation shall be determined by reference to the market value of the Shares at such time, as determined in good faith by the Calculation Agent. If an obligation is unascertained at the time of any such set-off, the Calculation Agent may in good faith estimate the amount or value of such obligation, in which case set-off will be effected in respect of that estimate, and the relevant party shall account to the other party at the time such obligation or right is ascertained.
+(m)          
+Securities Contract; Swap Agreement
+. Each of Bank and Counterparty agrees and acknowledges that Bank is a swap participant and financial participant within the meaning of Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the 
+Bankruptcy Code
+). The parties hereto further agree and acknowledge (A) that this Confirmation is (i) a securities contract, as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a settlement payment, as such term is defined in Section 741(8) of the Bankruptcy Code, and (ii) a swap agreement, as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a transfer, as such term is defined in
+ 
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+Section 101(54) of the Bankruptcy Code, and (B) that Bank is entitled to the protections afforded by, among other sections, Section 362(b)(6), 362(b)(17), 546(e), 546(g), 555 and 560 of the Bankruptcy Code.
+(n)           
+Governing Law
+. New York law.
+(o)           
+Waiver of Jury Trial
+. Each party waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Transaction. Each party (i) certifies that no representative, agent or attorney of the other party has represented, expressly or otherwise, that such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Transaction, as applicable, by, among other things, the mutual waivers and certifications provided herein.
+(p)           
+Right to Extend
+. Bank may postpone any date of delivery by Bank, with respect to some or all of the Options, if Bank reasonably determines that such extension is reasonably necessary to enable Bank to effect purchases of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that would, if Bank were Counterparty or an affiliated purchaser of Counterparty, be in compliance with applicable legal and regulatory requirements.
+(q)           
+Registration
+. Counterparty hereby agrees that if, in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, the Shares (the 
+Hedge Shares
+) acquired by Bank for the purpose of hedging its obligations pursuant to the Transaction cannot be sold in the U.S. public market by Bank without registration under the Securities Act, Counterparty shall, at its election: (i) in order to allow Bank to sell the Hedge Shares in a registered offering, make available to Bank an effective registration statement under the Securities Act to cover the resale of such Hedge Shares and (A) enter into an agreement, in form and substance satisfactory to Bank, substantially in the form of an underwriting agreement for a registered offering, (B) provide accountant's comfort letters in customary form for registered offerings of equity securities, (C) provide disclosure opinions of nationally recognized outside counsel to Counterparty reasonably acceptable to Bank, (D) provide other customary opinions, certificates and closing documents customary in form for registered offerings of equity securities and (E) afford Bank a reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities;
+provided, however
+, that if Bank, in its reasonable discretion, is not satisfied with access to due diligence materials, the results of its due diligence investigation, or the procedures and documentation for the registered offering referred to above, then clause (ii) or clause (iii) of this Section 9(q) shall apply at the election of Counterparty; (ii) in order to allow Bank to sell the Hedge Shares in a private placement, enter into a private placement agreement substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance satisfactory to Bank, including customary representations, covenants, blue sky and other governmental filings and/or registrations, indemnities to Bank, due diligence rights (for Bank or any designated buyer of the Hedge Shares from Bank), opinions and certificates and such other documentation as is customary for private placements agreements, all reasonably acceptable to Bank (in which case, the Calculation Agent shall make any adjustments to the terms of the Transaction that are necessary, in its reasonable judgment, to compensate Bank for any discount from the public market price of the Shares incurred on the sale of Hedge Shares in a private placement); or (iii) purchase the Hedge Shares from Bank at the VWAP Price on such Exchange Business Days, and in the amounts, reasonably requested by Bank.
+(r)            
+Termination Currency
+. United States Dollars.
+(s)           
+Cancellation and Payment
+. Upon the occurrence of an event described in the second clause of the definition of Fundamental Change in the Warrant Agreement (as described in the second bullet point of the definition of Fundamental Change in the Offering Memorandum under Description of the NotesRepurchase at the Option of Noteholders Upon a Fundamental Change) that also constitutes a Merger Event, Counterparty may elect for Cancellation and Payment (Calculation Agent Determination) to apply to all or any part of the Options as of the Merger Date. Notwithstanding anything to the contrary in this Confirmation or Section 12.7(b) of the Equity Definitions, in determining any amount payable in respect of a Cancellation and Payment, the value of this Transaction shall be determined based on the
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+volatility, expected dividend yield and stock loan rate of the Shares assuming that no Fundamental Change had occurred or been announced. If any amount is payable by Bank to Counterparty in connection with such a Cancellation and Payment, Counterparty may elect for such payment to be satisfied by the delivery one Settlement Cycle following the 30 Trading Day referred to in clause (ii) below of a number of Shares equal to (i) the amount payable in connection with the Cancellation and Payment
+th
+divided
+by
+(ii) the sum of the VWAP Prices for the Shares (or, if applicable, the value of the Units of Reference Property (as defined in and determined in accordance with the sections of the Warrant Agreement containing the provisions described in the Offering Memorandum under Description of the WarrantsRecapitalizations, Reclassifications and Changes to IPG Common Stock) on each of the 30 Trading Days following the date of such Cancellation and Payment
+divided
+by
+30.
+(t)            
+Credit Support Document
+. Bank agrees to provide Counterparty on or promptly following the Trade Date of this Transaction a guarantee in form and substance satisfactory to Counterparty (a 
+Guarantee
+) by Morgan Stanley (the 
+Guarantor
+) of Bank's obligations hereunder with such Guarantee being a Credit Support Document and such Guarantor being a Credit Support Provider with respect to Bank.
+(u)           
+Limit on Beneficial Ownership
+. Notwithstanding anything to the contrary in the Agreement or this Confirmation, in no event shall Bank be entitled to receive, or be deemed to receive, any Shares to the extent (but only to the extent) that receipt of such Shares by Bank would result in Bank's beneficial ownership (within the meaning of Section 16 of the Exchange Act and the rules promulgated thereunder) being equal to or greater than 9.0% or more of the outstanding Shares. Any purported delivery hereunder shall be void and have no effect to the extent (but only to the extent) that such delivery would result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares. If any delivery owed to Bank hereunder is not made, in whole or in part, as a result of this provision, Counterparty's obligation to make such delivery shall not be extinguished and Counterparty shall make such delivery as promptly as practicable after, but in no event later than one Clearance System Business Day after, Bank gives notice to Counterparty that such delivery would not result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares.
+                 
+(v)           
+Role of Agent
+. Agent is acting as agent for both parties but does not guarantee the performance of either party and neither Bank nor Counterparty shall contact the other with respect to any matter relating to the Transaction without the direct involvement of Agent; (ii) Bank is not a member of the Securities Investor Protection Corporation; (iii) Agent, Bank and Counterparty each hereby acknowledges that any transactions by Bank or Agent in the Shares will be undertaken by Bank as principal for its own account; and (iv) all of the actions to be taken by Bank and Agent in connection with the Transaction, including but not limited to any exercise of any rights with respect to the Options, shall be taken by Bank or Agent independently and without any advance or subsequent consultation with Counterparty; and (v) Agent is hereby authorized to act as agent for Counterparty only to the extent required to satisfy the requirements of Rule 15a-6 under the Exchange Act in respect of the Options described hereunder.
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+                Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Confirmation and returning it by facsimile to the address provided in the Notices section of this Confirmation.
+ 
+ 
+Accepted and confirmed
+as of the Trade Date:
+ 
+The Interpublic Group of Companies, Inc.
+ 
+By:
+/s/ The Interpublic Group of Companies, Inc.
+Authorized Signatory
+Name:
+ 
+ 
+ 
+CONFIDENTIAL TREATMENT
+ 
+ 
+Annex A
+ 
+For each Component of the Transaction, the Number of Options and Expiration Date is set forth below.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Opening Transaction  Call
+ 
+Re: Capped Call Transaction
+Reference: Bank to provide.
+Dear Sir/Madam:
+The purpose of this letter agreement (this "
+Confirmation
+") is to confirm the terms and conditions of the Transaction entered into between UBS AG, London Branch ("
+Bank
+"), with UBS Securities LLC as its agent ("
+Agent
+"), and you ("
+Counterparty
+") on the Trade Date specified below (the "
+Transaction
+"). This Confirmation constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below. This Confirmation shall replace any previous letter and serve as the final documentation for this Transaction. The Transaction is subject to early unwind if the closing of the Units offering consisting of Warrants issued by Counterparty and Floating Rate Credit Linked Notes issued by ELF Special Financing Ltd. due June 15, 2009 (the "
+Units
+") is not consummated for any reason, as set forth below in Section 9(i). "
+Warrant Agreement
+" means the Warrant Agreement, to be dated as of the Effective Date, between Counterparty and the Warrant Agent named therein, and shall not reflect any amendment, modification, supplement or waiver thereto following the issuance of the Units. Counterparty shall provide Bank with a copy of the executed Warrant Agreement on the Effective Date. Notwithstanding the foregoing, references herein to provisions of the Warrant Agreement are based on the description of the Warrant Agreement set forth in the Offering Memorandum of Counterparty and ELF Special Financing Ltd., dated as of June 6, 2006, in respect of $712,500,000 in the aggregate of Floating Rate Convertible Series A Units due 2009 and Floating Rate Convertible Series B Units due 2009 (the "
+Offering Memorandum
+"). If any relevant provisions of the Warrant Agreement differ in any material respect from those described in the Offering Memorandum, the parties will amend this Confirmation in good faith to preserve the economic intent of the parties.
+This Confirmation is subject to, and incorporates, the definitions and provisions of the 2000 ISDA Definitions (including the Annex thereto) (the "
+2000 Definitions
+") and the definitions and provisions of the 2002 ISDA Equity Derivatives Definitions (the "
+Equity Definitions
+", and together with the 2000 Definitions, the "
+Definitions
+"), in each case as published by the International Swaps and Derivatives Association, Inc. ("
+ISDA
+"). In the event of any inconsistency between the 2000 Definitions and the Equity Definitions, the Equity Definitions will govern.
+Each party is hereby advised, and each such party acknowledges, that the other party has engaged in, or refrained from engaging in, substantial financial transactions and has taken other material actions in reliance upon the parties' entry into the Transaction to which this Confirmation relates on the terms and conditions set forth below.
+ 
+ 
+ 
+ 
+ 
+ 
+1.      This Confirmation evidences a complete and binding agreement between Bank and Counterparty as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall be subject to an agreement (the "
+Agreement
+") in the form of the 1992 ISDA Master Agreement (Multicurrency  Cross Border) (the "
+ISDA Form
+") as if Bank and Counterparty had executed an agreement in such form (without any Schedule except for the election of "Second Method" and "Loss" for purposes of Section 6(e) of the Agreement and any other elections set forth in this Confirmation). For the avoidance of doubt, the Transaction shall be the only transaction under the Agreement.
+All provisions contained in, or incorporated by reference to, the Agreement will govern this Confirmation except as expressly modified herein. In the event of any inconsistency between this Confirmation and either the Definitions or the Agreement, this Confirmation shall govern.
+ 
+2
+.      The Transaction constitutes a Share Option Transaction for purposes of the Equity Definitions. The terms of the particular Transaction to which this Confirmation relates are as follows:
+General Terms:
+ 
+ 
+* Refers to material omitted pursuant to a request for confidential treatment. This material has been filed separately with the Commission.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Counterparty represents and warrants to and for the benefit of, and agrees with, Bank as follows:
+ 
+(a)
+          
+Counterparty is not, and after giving effect to the transactions contemplated hereby will not be, an "investment company" as such term is defined in the Investment Company Act of 1940, as amended.
+ 
+(b)
+          
+Counterparty is an "eligible contract participant" (as such term is defined in Section 1a(12) of the Commodity Exchange Act, as amended (the "
+CEA
+").
+ 
+ 
+ 
+ 
+ 
+ 
+(c)
+          
+On the Trade Date, (A) Counterparty is not aware of any material nonpublic information regarding Counterparty or the Shares and (B) all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act when considered as a whole (with the more recent such reports and documents deemed to amend inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.
+ 
+(d)
+          
+Counterparty is an "accredited investor" (as such term is defined in Section 2(a)(15)(ii) of the Securities Act of 1933, as amended (the "
+Securities Act
+")).
+ 
+(e)
+          
+Counterparty's financial condition is such that it has no need for liquidity with respect to its investment in the Transaction and no need to dispose of any portion thereof to satisfy any existing or contemplated undertaking or indebtedness.
+ 
+(f)
+           
+On the Trade Date (A) the assets of Counterparty at their fair valuation exceed the liabilities of Counterparty, including contingent liabilities, (B) the capital of Counterparty is adequate to conduct the business of Counterparty and (C) Counterparty has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature.
+ 
+(g)
+          
+Counterparty's investments in and liabilities in respect of the Transaction, which it understands are not readily marketable, are not disproportionate to its net worth, and it is able to bear any loss in connection with the Transaction, including the loss of its entire investment in the Transaction.
+ 
+(h)
+          
+Counterparty hereby agrees and acknowledges that the Transaction has not been registered with the Securities and Exchange Commission or any state securities commission and that the Options are being written by Bank to Counterparty in reliance upon exemptions from any such registration requirements. Counterparty acknowledges that all Options acquired from Bank will be acquired for investment purposes only and not for the purpose of resale or other transfer except in compliance with the requirements of the Securities Act. Counterparty will not sell or otherwise transfer any Option or any interest therein except in compliance with the requirements of the Securities Act and any subsequent offer or sale of the Options will be solely for Counterparty's account and not as part of a distribution that would be in violation of the Securities Act.
+ 
+(i)
+           
+Counterparty understands no obligations of Bank to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Bank (other than any Credit Support Provider of Bank) or any governmental agency.
+ 
+(j)
+           
+Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that Bank is not making any representations or warranties with respect to the treatment of the Transaction under FASB Statements 133, as amended, or 150,
+ 
+ 
+ 
+ 
+ 
+EITF Issue No. 00-19 (or any successor issue statements) or under FASB's Liabilities & Equity Project.
+ 
+9. Other Provisions:
+(a)
+          
+Opinion
+. Counterparty shall deliver to Bank (i) an opinion of internal counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, with respect to Counterparty's existence and its power and authority to enter into this Transaction and (ii) an opinion of external counsel, dated as of the Effective Date and reasonably acceptable to Bank in form and substance, on such matters as separately agreed between Counterparty and Bank on the Trade Date.
+(b)
+          
+Repurchase Notices
+. Counterparty shall, on any day on which Counterparty effects any repurchase of Shares, promptly give Bank a written notice of such repurchase (a "
+Repurchase Notice
+") on such day if, following such repurchase, the number of outstanding Shares on such day, subject to any adjustments provided herein, is (i) less than 400,000,000 (in the case of the first such notice) or (ii) thereafter, more than 5,000,000 less than the number of Shares included in the immediately preceding Repurchase Notice.
+(c)           
+Alternative Calculations and Payment on Early Termination and on Certain Extraordinary Events
+. If, subject to Section 9(l) below, Bank shall owe Counterparty any amount pursuant to Section 12.2 or 12.3 of the Equity Definitions and "Consequences of Merger Events" above, or Sections 12.6, 12.7 or 12.9 of the Equity Definitions (except in the event of an Insolvency, a Nationalization, or a Merger Event, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash) or pursuant to Section 6(d)(ii) of the Agreement (except in the event of an Event of Default in which Counterparty is the Defaulting Party or a Termination Event in which Counterparty is the Affected Party, that resulted from an event or events within Counterparty's control) (a "
+Payment Obligation
+"), Counterparty shall have the right, in its sole discretion, to require Bank to satisfy any such Payment Obligation by the Share Termination Alternative (as defined below) by giving irrevocable telephonic notice to Bank, confirmed in writing within one Scheduled Trading Day, between the hours of 9:00 A.M. and 4:00 P.M. New York City time on the Merger Date, Announcement Date or Early Termination Date, as applicable ("
+Notice of Share Termination
+"). Upon such Notice of Share Termination, the following provisions shall apply on the Scheduled Trading Day immediately following the Merger Date, Announcement Date or Early Termination Date, as applicable:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d)           
+Regulation M
+. Counterparty was not on the Trade Date engaged in a distribution, as such term is used in Regulation M under the Securities Exchange Act of 1934, as amended (the "
+Exchange Act
+"), of any securities of Counterparty, other than a distribution meeting the requirements of the exception set forth in Rules 101(b)(10) and 102(b)(7) of Regulation M. Counterparty shall not, until the second Scheduled Trading Day immediately following the Trade Date, engage in any such distribution.
+(e)           
+No Manipulation
+. Counterparty is not entering into this Transaction to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares) or otherwise in violation of the Exchange Act.
+(f)           
+Board Authorization
+. This Transaction was approved by its board of directors and publicly announced, solely for the purposes stated in such board resolution and public disclosure and, prior to any exercise of Options hereunder, Counterparty's board of directors will have duly authorized any repurchase of Shares pursuant to this Transaction. Counterparty further represents that there is no internal policy, whether written or oral, of Counterparty that would prohibit Counterparty from entering into any aspect of this Transaction, including, but not limited to, the purchase of Shares to be made pursuant hereto.
+(g)           
+Transfer or Assignment
+. Bank may transfer or assign its rights and obligations hereunder and under the Agreement, in whole but not in part, to any of its Affiliates with the consent of Counterparty, which consent shall not be unreasonably withheld or delayed if (i) (A) if Bank has a Credit Support Provider, Counterparty shall have received a duly executed full unconditional guarantee by Bank's Credit Support Provider, in favor of Counterparty, of the obligations of such Affiliate substantially in the form of the guarantee provided by Bank's Credit Support Provider hereunder, or (B) if Bank does not have a Credit Support Provider, the creditworthiness of such Affiliate is satisfactory to Counterparty, and (ii) such transfer complies with the Transfer Conditions.
+If (x) the "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and rules promulgated thereunder) of Bank and its Affiliates of Shares beneficially owned in connection with Bank's hedging of this Transaction (the "
+Beneficial Ownership Percentage
+") exceeds 8% of Counterparty's outstanding Shares and (y) in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, Bank reasonably determines that it would be inadvisable for it or its Affiliates to engage in alternative hedging transactions which would enable them to reduce the Beneficial Ownership Percentage other than by transfer, assignment or termination, then Bank, in its discretion, (i) shall have the right to transfer or assign its rights and obligations hereunder and under the Agreement, in whole or in part, to any third party, so long as such third party has a long-term credit rating equal to or better than A1 by Moody's Investors Service, Inc. and A+ by
+ 
+ 
+ 
+ 
+ 
+Standard & Poor's Ratings Services or their respective successors (or is guaranteed by a party that satisfies this condition) and such transfer complies with the Transfer Conditions, and (ii) if Bank is unable to effect a transfer or assignment to a third party after its commercially reasonable efforts on pricing terms reasonably acceptable to Bank such that the Beneficial Ownership Percentage is reduced to 8% or less, Bank may designate any Scheduled Trading Day as an Early Termination Date with respect to a portion (the "
+Terminated Portion
+") of the Transaction, such that the Beneficial Ownership Percentage following such partial termination will be approximately equal to 8%. In the event that Bank so designates an Early Termination Date with respect to a portion of the Transaction, a payment or delivery shall be made pursuant to Section 6 of the Agreement as if (i) an Early Termination Date had been designated in respect of a Transaction having terms identical to the Terminated Portion of the Transaction, (ii) Counterparty shall be the sole Affected Party with respect to such partial termination and (iii) such portion of the Transaction shall be the only Terminated Transaction.
+"
+Transfer Conditions
+" means that: (i) Counterparty shall have received a duly executed acceptance and assumption by the transferee of the obligations under this Transaction in a form satisfactory to Counterparty; (ii) Counterparty will not, as a result of the transfer, be required to pay the transferee on any payment date an amount under Section 2(d)(i)(4) of the Agreement greater than an amount in respect of which Counterparty would have been required to pay to Bank in the absence of the transfer and (B) Counterparty will not, as a result of the transfer, receive from the transferee on any payment date an amount (after taking into account any additional amount payable under Section 2(d)(i)(4) of the Agreement) less than the amount which Counterparty would have received from Bank in the absence of such transfer as a result of any deduction or withholding for or on account of any Tax (as such term is defined in the Agreement) under Section 2(d)(i); and (iii) an Event of Default, Potential Event of Default or Termination Event will not occur as a result of the transfer.
+(h)           
+Staggered Settlement
+. Bank may, if Net Share Settlement is applicable, by notice to Counterparty prior to the Settlement Date (the "
+Nominal Settlement Date
+"), elect to deliver the Shares on two or more dates (each, a "
+Staggered Settlement Date
+") or at two or more times on the Nominal Settlement Date as follows:
+(i)
+       
+in such notice, Bank will specify to Counterparty the related Staggered Settlement Dates (each of which will be on or prior to such Nominal Settlement Date) or delivery times and how it will allocate the Shares it is required to deliver under "Net Share Settlement" (above) among the Staggered Settlement Dates or delivery times; and
+(ii)
+      
+the aggregate number of Shares that Bank will deliver to Counterparty hereunder on all such Staggered Settlement Dates and delivery times will equal the number of Shares that Bank would otherwise be required to deliver on such Nominal Settlement Date.
+(i)            
+Early Unwind
+. In the event the sale by Counterparty of the Units is not consummated with the initial purchasers pursuant to the Purchase Agreement for any reason by the close of business in New York on June 13, 2006 (or such later date as agreed upon by the parties, which in no event shall be later than the date specified for this purpose in the Purchase Agreement) (June 13, 2006 or such later date being the "
+Early Unwind Date
+"), the Transaction shall automatically terminate (the "
+Early Unwind
+") on the Early Unwind Date and (i) the Transaction and all of the respective rights and obligations of Bank and Counterparty thereunder shall be cancelled and terminated and (ii) if the failure to consummate the sale of the Units results from a breach by Counterparty of any representation of or any undertaking by Counterparty contained in the Purchase Agreement, Counterparty shall pay to Bank an amount in cash equal to the aggregate amount of costs and expenses relating to the unwinding of Bank's reasonable hedging activities in respect of the Transaction (including market losses incurred in reselling any Shares purchased by Bank or its affiliates in connection with such reasonable hedging activities). Following such termination, cancellation and payment, each party shall be released and discharged by the other party from and agrees not to make any claim against the other party with respect to any obligations or liabilities of either party arising out of and to be performed in connection with the Transaction either prior to or after the Early Unwind Date. The amount of any such reimbursement shall be determined by Bank in its reasonable good faith discretion. Bank shall notify the Company of such amount, including, upon Counterparty's request, an explanation of the basis of determination of such amount, and Counterparty shall pay such amount in immediately available funds on the Early Unwind Date. Bank and Counterparty represent and acknowledge to the other that upon an Early Unwind and following the payment referred to above, all obligations with respect to the Transaction shall be deemed fully and
+ 
+ 
+ 
+ 
+ 
+finally discharged. For the avoidance of doubt, this Section 9(i) shall become effective as of the Trade Date and shall remain in effect whether or not the Effective Date of the Transaction occurs.
+(j)            
+Designation of Agent
+. Notwithstanding any other provision in this Confirmation to the contrary requiring or allowing the Bank to purchase, sell, receive or deliver any Shares or other securities to or from Counterparty, the Bank may designate any of its affiliates to purchase, sell, receive or deliver such Shares or other securities and otherwise to perform Bank's obligations in respect of this Transaction and any such designee may assume such obligations. The Bank shall be discharged of its obligations to Counterparty to the extent of any such performance.
+(k)           
+Disclosure
+. Effective from the date of commencement of discussions concerning the Transaction, Counterparty and each of its employees, representatives, or other agents may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to Counterparty relating to such tax treatment and tax structure.
+(l)            
+Setoff
+. Except as provided in this Section 9(l), obligations under this Transaction shall not be set off by Bank against any other obligations of Counterparty, whether arising under the Agreement, this Confirmation, under any other agreement between the parties hereto, by operation of law or otherwise. Upon the occurrence of an Early Termination Date, Bank shall have the right to set off any obligation that it may have to Counterparty under this Confirmation, including without limitation any obligation to make any payment of cash or delivery of Shares to Counterparty, against any obligation Counterparty may have to Bank under any other agreement between Bank and Counterparty relating to Shares (each such contract or agreement, a "
+Separate Agreement
+"), including without limitation any obligation to make a payment of cash or a delivery of Shares or any other property or securities. For this purpose, Bank shall be entitled to convert any obligation (or the relevant portion of such obligation) denominated in one currency into another currency at the rate of exchange at which it would be able to purchase the relevant amount of such currency, and to convert any obligation to deliver any non-cash property into an obligation to deliver cash in an amount calculated by reference to the market value of such property as of the Early Termination Date, as determined by the Calculation Agent in its sole discretion;
+provided
+that in the case of a set-off of any obligation to release or deliver assets against any right to receive fungible assets, such obligation and right shall be set off in kind; and
+provided further
+that in determining the value of any obligation to deliver Shares, the value at any time of such obligation shall be determined by reference to the market value of the Shares at such time, as determined in good faith by the Calculation Agent. If an obligation is unascertained at the time of any such set-off, the Calculation Agent may in good faith estimate the amount or value of such obligation, in which case set-off will be effected in respect of that estimate, and the relevant party shall account to the other party at the time such obligation or right is ascertained.
+(m)          
+Securities Contract; Swap Agreement
+. Each of Bank and Counterparty agrees and acknowledges that Bank is a "swap participant" and "financial participant" within the meaning of Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the "
+Bankruptcy Code
+"). The parties hereto further agree and acknowledge (A) that this Confirmation is (i) a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "settlement payment," as such term is defined in Section 741(8) of the Bankruptcy Code, and (ii) a "swap agreement," as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each payment and delivery hereunder is a "transfer," as such term is defined in Section 101(54) of the Bankruptcy Code, and (B) that Bank is entitled to the protections afforded by, among other sections, Section 362(b)(6), 362(b)(17), 546(e), 546(g), 555 and 560 of the Bankruptcy Code.
+(n)           
+Governing Law
+. New York law.
+(o)           
+Waiver of Jury Trial
+. Each party waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Transaction. Each party (i) certifies that no representative, agent or attorney of the other party has represented, expressly or otherwise, that such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Transaction, as applicable, by, among other things, the mutual waivers and certifications provided herein.
+(p)           
+Right to Extend
+. Bank may postpone any date of delivery by Bank, with respect to some or all of the Options, if Bank reasonably determines that such extension is reasonably necessary to enable Bank to effect purchases of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that
+ 
+ 
+ 
+ 
+ 
+would, if Bank were Counterparty or an affiliated purchaser of Counterparty, be in compliance with applicable legal and regulatory requirements.
+(q)           
+Registration
+. Counterparty hereby agrees that if, in the good faith, reasonable judgment of Bank based upon advice of counsel and as a result of events occurring after the Trade Date, the Shares (the "
+Hedge Shares
+") acquired by Bank for the purpose of hedging its obligations pursuant to the Transaction cannot be sold in the U.S. public market by Bank without registration under the Securities Act, Counterparty shall, at its election: (i) in order to allow Bank to sell the Hedge Shares in a registered offering, make available to Bank an effective registration statement under the Securities Act to cover the resale of such Hedge Shares and (A) enter into an agreement, in form and substance satisfactory to Bank, substantially in the form of an underwriting agreement for a registered offering, (B) provide accountant's "comfort" letters in customary form for registered offerings of equity securities, (C) provide disclosure opinions of nationally recognized outside counsel to Counterparty reasonably acceptable to Bank, (D) provide other customary opinions, certificates and closing documents customary in form for registered offerings of equity securities and (E) afford Bank a reasonable opportunity to conduct a "due diligence" investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities;
+provided, however
+, that if Bank, in its reasonable discretion, is not satisfied with access to due diligence materials, the results of its due diligence investigation, or the procedures and documentation for the registered offering referred to above, then clause (ii) or clause (iii) of this Section 9(q) shall apply at the election of Counterparty; (ii) in order to allow Bank to sell the Hedge Shares in a private placement, enter into a private placement agreement substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance satisfactory to Bank, including customary representations, covenants, blue sky and other governmental filings and/or registrations, indemnities to Bank, due diligence rights (for Bank or any designated buyer of the Hedge Shares from Bank), opinions and certificates and such other documentation as is customary for private placements agreements, all reasonably acceptable to Bank (in which case, the Calculation Agent shall make any adjustments to the terms of the Transaction that are necessary, in its reasonable judgment, to compensate Bank for any discount from the public market price of the Shares incurred on the sale of Hedge Shares in a private placement); or (iii) purchase the Hedge Shares from Bank at the VWAP Price on such Exchange Business Days, and in the amounts, reasonably requested by Bank.
+(r)            
+Termination Currency
+. United States Dollars.
+(s)           
+Cancellation and Payment
+. Upon the occurrence of an event described in the second clause of the definition of "Fundamental Change" in the Warrant Agreement (as described in the second bullet point of the definition of "Fundamental Change" in the Offering Memorandum under "Description of the NotesRepurchase at the Option of Noteholders Upon a Fundamental Change") that also constitutes a Merger Event, Counterparty may elect for Cancellation and Payment (Calculation Agent Determination) to apply to all or any part of the Options as of the Merger Date. Notwithstanding anything to the contrary in this Confirmation or Section 12.7(b) of the Equity Definitions, in determining any amount payable in respect of a Cancellation and Payment, the value of this Transaction shall be determined based on the volatility, expected dividend yield and stock loan rate of the Shares assuming that no Fundamental Change had occurred or been announced. If any amount is payable by Bank to Counterparty in connection with such a Cancellation and Payment, Counterparty may elect for such payment to be satisfied by the delivery one Settlement Cycle following the 30 Trading Day referred to in clause (ii) below of a number of Shares equal to (i) the amount payable in connection with the Cancellation and Payment
+th
+divided
+by
+(ii) the sum of the VWAP Prices for the Shares (or, if applicable, the value of the "Units of Reference Property" (as defined in and determined in accordance with the sections of the Warrant Agreement containing the provisions described in the Offering Memorandum under "Description of the WarrantsRecapitalizations, Reclassifications and Changes to IPG Common Stock") on each of the 30 Trading Days following the date of such Cancellation and Payment
+divided
+by
+30.
+(t)            
+Limit on Beneficial Ownership
+. Notwithstanding anything to the contrary in the Agreement or this Confirmation, in no event shall Bank be entitled to receive, or be deemed to receive, any Shares to the extent (but only to the extent) that receipt of such Shares by Bank would result in Bank's "beneficial ownership" (within the meaning of Section 16 of the Exchange Act and the rules promulgated thereunder) being equal to or greater than 9.0% or more of the outstanding Shares. Any purported delivery hereunder shall be void and have no effect to the extent (but only to the extent) that such delivery would result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares. If any delivery owed to Bank hereunder is not made, in whole or in part, as a result of this provision, Counterparty's obligation to make such delivery shall not be extinguished and Counterparty shall make such delivery as promptly as practicable after, but in no event later than one Clearance
+ 
+ 
+ 
+ 
+ 
+System Business Day after, Bank gives notice to Counterparty that such delivery would not result in Bank directly or indirectly so beneficially owning in excess of 9.0% of the outstanding Shares.
+                    
+(u)
+          
+Role of Agent
+. Agent shall act as "agent" for Bank and Counterparty within the meaning of Rule 15a-6 under the Exchange Act. Agent is not a principal to this Agreement and shall have no responsibility or liability (including, without limitation, by way of guarantee, endorsement or otherwise) to Bank or Counterparty in respect of this Agreement, including, without limitation, in respect of the failure of Bank or Counterparty to pay or perform under this Agreement. Each of Bank and Counterparty agrees to proceed solely against the other to collect or recover any securities or money owing to it in connection with or as a result of this Agreement. Agent shall otherwise have no liability in respect of this Agreement, except for its gross negligence or willful misconduct in performing its duties as Agent hereunder. As a broker-dealer registered with the Securities and Exchange Commission, Agent will be responsible for (i) effecting the transaction contemplated in this Agreement, (ii) issuing all required notices, confirmations and statements to Bank and Counterparty and (iii) maintaining books and records relating to this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Confirmation and returning it by facsimile to the address provided in the Notices section of this Confirmation.
+ 
+ 
+ 
+Accepted and confirmed
+as of the Trade Date:
+ 
+The Interpublic Group of Companies, Inc.
+ 
+By:
+/s/ The Interpublic Group of Companies, Inc.
+Authorized Signatory
+Name:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex A
+ 
+For each Component of the Transaction, the Number of Options and Expiration Date is set forth below.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,69 @@
+FILE:VRSN/VRSN-8K-20110228165031.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item  2.02. Results of Operations and Financial Condition.
+On February 28, 2011, VeriSign, Inc. ("VeriSign" or the "Company") announced certain information regarding its results of operations for the fiscal quarter ended December 31, 2010 and certain other information. A copy of this press release is attached hereto as Exhibit 99.1.
+The information in this Form 8-K and the Exhibit attached hereto shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+Exhibit 99.1
+The global base of Internet domain names grew by nearly 3.5 million in the fourth quarter of 2010, according to the latest Domain Name Industry Brief, published by (NASDAQ: VRSN), the trusted provider of Internet infrastructure services for the networked world.
+DULLES, VA  February 28, 2011 
+VeriSign, Inc.
+The fourth quarter of 2010 closed with a base of 205.3 million domain name registrations across all Top Level Domains (TLDs), or a 1.7 percent increase over the third quarter. Registrations have grown by 12.1 million, or 6.3 percent year over year.
+Verisign's combined base of .com and .net domain names ended the quarter with approximately 105.2 million. New .com and .net registrations totaled 7.6 million during the fourth quarter, an increase of 4 percent from a year ago. The .com/.net renewal rate for the fourth quarter was 72.7 percent, down from 72.8 percent for the third quarter.
+1
+The base of Country Code Top Level Domains (ccTLDs) was 80.1 million domain names, a 0.3 percent increase from a year ago.
+Verisign's average daily Domain Name System (DNS) query load during fourth quarter 2010 was 61 billion, with a peak of 72 billion. Compared to the same timeframe in 2009, the daily query average and the peak both grew by 17 percent.
+The Dawn of the IPv6 Era
+The Domain Name Industry Brief also highlighted two major changes to the Internet's addressing system - the introduction of new generic top-level domains and the ramp up to IPv6.
+The launch of the process that will introduce potentially hundreds of new generic top-level domains (gTLDs) to the naming system is incredibly significant. Although the precise date of the launch remains uncertain, the Internet Corporation for Assigned Names and Numbers (ICANN) is nearing completion of its gTLD launch plan, and could start reviewing applications by summer. Within months of the launch  perhaps by early 2012  Internet users may very well have their choice of an unprecedented array of top-level domains, from consumer domains like .shop and .bank to geographic ones like .nyc and .london.
+The second change will be less visible to ordinary Internet users, but has the potential to be every bit as profound. Throughout the Internet, access and infrastructure providers, service operators and content providers are ramping up preparedness for the deployment of Internet Protocol Version 6 (IPv6). IPv6 is designed to replace the longstanding Internet Protocol Version 4 (IPv4). Internet stakeholders must clear the way for that process by preparing for the transitional coexistence of both protocols on their networks and systems.
+Technologists have been working on the protocol that would become IPv6 for nearly two decades. Well before the standard for IPv6 was published in 1998, infrastructure operators knew that the clock was ticking on IPv4, since its 32-bit addressing technology would be insufficient to accommodate continuing, exponential Internet expansion.
+This year, though, the clock has finally reached zero, with the last available IPv4 addresses within the Internet Assigned Numbers Authority (IANA) pool being allocated in February, effectively exhausting the master pool of "new" IPv4 addresses. While the Regional Internet Registries (RIR s) that provide IP addresses to ISPs still have IPv4 addresses in their inventory (an inventory that, in some cases, could last for a couple more years) no "new" IPv4 addresses can be created.
+For Verisign, that means ensuring that the critical Internet infrastructure under its stewardship is fully prepared for rapid wide scale IPv6 adoption, to include all aspects of full feature and capability parity with IPv4, and expected coexistence with IPv4 into the foreseeable future. To that end Verisign has invested heavily to ensure that its network is ready to support IPv6. Verisign has been capable of servicing IPv6 queries at the network layer, and supporting IPv6 extensions in the DNS itself, for several years now and is committed to continually expanding its IPv6 capacity and capabilities to meet and exceed the global need. Verisign now looks to share that experience with other infrastructure operators as they ready their networks for IPv6. Working together, 2011 will be a historic year for ensuring the stability, security and growth of the Internet.
+Verisign publishes the Domain Name Industry Brief to provide Internet users throughout the world with significant statistical and analytical research and data on the domain name industry and the Internet as a whole. Copies of the 2010 fourth quarter Domain Name Industry Brief, as well as previous reports, can be obtained at: http://www.verisigninc.com/en_US/why-verisign/research-trends/domain-name-industry-brief/index.xhtml
+About Verisign
+VeriSign, Inc. (NASDAQ: VRSN) is the trusted provider of Internet infrastructure services for the networked world. Billions of times each day, VeriSign helps companies and consumers all over the world to connect online with confidence. Additional news and information about the company is available at www.verisigninc.com.
+Contacts
+Deana Alvy, , 703-948-4179
+dalvy@verisign.com
+Investor Relations: Nancy Fazioli, nfazioli@verisign.com, 650-316-6569
+Editor's Note
+ 
+Statements in this announcement other than historical data and information constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. These statements involve risks and uncertainties that could cause Verisign's actual results to differ materially from those stated or implied by such forward-looking statements. The potential risks and uncertainties include, among others, the uncertainty of future revenue and profitability and potential fluctuations in quarterly operating results due to such factors as increasing competition, pricing pressure from competing services offered at prices below our prices and changes in marketing practices including those of third-party registrars; the sluggish economic recovery; challenges to ongoing privatization of Internet administration; the outcome of legal or other challenges resulting from our activities or the activities of registrars or registrants; new or existing governmental laws and regulations; changes in customer behavior, Internet platforms and web-browsing patterns; the inability of Verisign to successfully develop and market new services; the uncertainty of whether our new services will achieve market acceptance or result in any revenues; system interruptions; security breaches; attacks on the Internet by hackers, viruses, or intentional acts of vandalism; the uncertainty of the expense and duration of transition services and requests for indemnification relating to completed divestitures; and the uncertainty of whether Project Apollo will achieve its stated objectives. More information about potential factors that could affect the company's business and financial results is included in Verisign's filings with the Securities and Exchange Commission, including in the Company's Annual Report on Form 10-K for the year ended December 31, 2010, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Verisign undertakes no obligation to update any of the forward-looking statements after the date of this announcement.
+2011 VeriSign, Inc. All rights reserved. VeriSign, VeriSign Trust, and other related trademarks, service marks, and designs are registered or unregistered trademarks of VeriSign, Inc., or its affiliates or subsidiaries in the United States and other countries. All other trademarks are property of their respective owners.
+
+

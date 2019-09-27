@@ -1,0 +1,85 @@
+FILE:MS/MS-8K-20021002103832.txt.gz
+EVENTS:	Financial statements and exhibits	
+TEXT:
+ITEM: Financial statements and exhibits
+ITEM: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The information in this Current Report on Form 8-K, including the exhibits, is furnished pursuant to Item 9 and shall not be deemed "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities under that Section. Furthermore, the information in this Current Report on Form 8-K, including the exhibits, shall not be deemed to be incorporated by reference into the filings of Morgan Stanley under the Securities Act of 1933.
+ 
+Item 7.    Financial Statements, Pro Forma Financial Information and Exhibits
+ 
+(c)    Exhibits
+ 
+The following exhibit is furnished as part of this report.
+ 
+99.1    Certain financial statements of Morgan Stanley in eXtensible Business Reporting Language ("XBRL
+") format.
+ 
+Item 9.    Regulation FD Disclosure
+ 
+Attached as an exhibit to this report are certain financial statements of Morgan Stanley for the third quarter ended August 31, 2002 from its previous Current Report on Form 8-K filed on September 19, 2002 (the "Report") formatted in XBRL
+(eXtensible Business Reporting Language). XBRL
+is a trademark of XBRL International, Inc. These documents are presented for illustration purposes and these are not the official publicly filed financial statements of Morgan Stanley. No representation is made that the information presented is accurate or complete and they are not to be used for investment purposes.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.
+ 
+MORGAN STANLEY
+(Registrant)
+ 
+By:    
+/s/    Martin M. Cohen
+          Martin M. Cohen
+          Assistant Secretary
+ 
+Date:    October 2, 2002
+ 
+ 
+
+Exhibit 99.1
+ 
+ 
+ 
+This exhibit contains certain financial statements of Morgan Stanley for the third quarter ended August 31, 2002 from its previous Current Report on Form 8-K filed on September 19, 2002 (the "Report") formatted in eXtensible Business Reporting Language format (" XBRL
+"). XBRL is a trademark of XBRL
+International, Inc.
+ 
+These documents are presented for illustration purposes only and these are not the official publicly filed financial statements of Morgan Stanley. No representation is made that the information presented is accurate or complete and they are not to be used for investment purposes.
+ 
+Overview of Providing XBRL Financial Statements
+ 
+The XBRL Financial Statements are provided in this alternative format to provide global business information users with a more structured expression of the financial statements. XBRL is an XML-based schema created and maintained by XBRL International that allows business reporting to be represented in a "digital language". XBRL streamlines the way companies report and publish their financial data, and how analysts and investors can review that information. With XBRL, financial data is tagged in a consistent format that allows the data to be easily transported and analyzed (by XBRL-aware applications). As more companies provide their financial statements in XBRL, it is expected that this will enhance the ability to more quickly understand the contents of financial statements (and business information in general).
+ 
+Overview of XBRL International
+ 
+XBRL International is a consortium of over 170 organizations originally formed by the American Institute of Certified Public Accountants in 1999. The initial goal of XBRL is to provide an XML-based framework that global business information users will use to create, exchange, and analyze financial reporting information. Morgan Stanley has actively participated in XBRL International since joining the organization in 1999.
+ 
+Morgan Stanley Financial Reporting in XBRL
+ 
+The key to creating XBRL versions of financial information is the use of XBRL taxonomies or dictionaries. For this filing, Morgan Stanley has used a draft version of the forthcoming US GAAP taxonomy structure in version 2.0. XBRL taxonomies are collections of terms and mathematical and presentation relationships of financial reporting concepts. In addition to the draft of the US GAAP taxonomy, Morgan Stanley also created an extension taxonomy for global financial services firms using the appropriate terms from the US GAAP taxonomy. All of these taxonomies are contained in this filing, and more information can be found in the "Instructions" section below.
+ 
+The present EDGAR system does not allow the receipt of XBRL/XML files unless it is in an altered form. The XBRL specification requires use of tags that are not permitted in an EDGAR filing. Therefore, Morgan Stanley has embedded all of the required XBRL documents as either .JPG or .GIF files to conform to the present EDGAR system. Please see the "Instructions" below for extracting the XBRL files for your review and use.
+ 
+Instructions
+ 
+In order to submit the XBRL documents as part of Form 8-K, the following changes have been made to the original Morgan Stanley XBRL XML files:
+ 
+1.)    Files that originally had a .XML file extension now use a .JPG file extension.
+ 
+2.)    Files that originally had a .XSD file extension now use a .GIF file extension.
+ 
+The following is a complete listing of all files attached to this Form 8-K:
+ 
+
+

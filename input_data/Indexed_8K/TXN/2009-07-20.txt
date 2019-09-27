@@ -1,0 +1,153 @@
+FILE:TXN/TXN-8K-20090720164711.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITEM 2.02.  Results of Operations and Financial Condition
+The Registrant's news release dated July 20, 2009, regarding its second quarter 2009 results of operations and financial condition is attached hereto as Exhibit 99 and is incorporated by reference herein.
+ 
+ 
+ 
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995: This report includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management believes, expects, anticipates, foresees, forecasts, estimates or other words or phrases of similar import. Similarly, statements in this report that describe the Companys business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements.  All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or its management:
+Market demand for semiconductors, particularly in key markets such as communications, entertainment electronics and computing;
+TIs ability to maintain or improve profit margins, including its ability to utilize its manufacturing facilities at sufficient levels to cover its fixed operating costs, in an intensely competitive and cyclical industry;
+TIs ability to develop, manufacture and market innovative products in a rapidly changing technological environment;
+TIs ability to compete in products and prices in an intensely competitive industry;
+TIs ability to maintain and enforce a strong intellectual property portfolio and obtain needed licenses from third parties;
+Expiration of license agreements between TI and its patent licensees, and market conditions reducing royalty payments to TI;
+Economic, social and political conditions in the countries in which TI, its customers or its suppliers operate, including security risks, health conditions, possible disruptions in transportation networks and fluctuations in foreign currency exchange rates;
+Natural events such as severe weather and earthquakes in the locations in which TI, its customers or its suppliers operate;
+Availability and cost of raw materials, utilities, manufacturing equipment, third-party manufacturing services and manufacturing technology;
+Changes in the tax rate applicable to TI as the result of changes in tax law, the jurisdictions in which profits are determined to be earned and taxed, the outcome of tax audits and the ability to realize deferred tax assets;
+Losses or curtailments of purchases from key customers and the timing and amount of distributor and other customer inventory adjustments;
+Customer demand that differs from our forecasts;
+The financial impact of inadequate or excess TI inventory that results from demand that differs from projections;
+The ability of TI and its customers and suppliers to access their bank accounts and lines of credit or otherwise access the capital markets;
+Product liability or warranty claims, claims based on epidemic or delivery failure or recalls by TI customers for a product containing a TI part;
+TIs ability to recruit and retain skilled personnel; and
+mely implementation of new manufacturing technologies, installation of manufacturing equipment and the ability to obtain needed third-party foundry and assembly/test subcontract services.
+Ti
+For a more detailed discussion of these factors, see Item 1A, Risk Factors in the Companys most recently filed Form 10-K.  The forward-looking statements included in this report on Form 8-K are made only as of the date of this report, and the Company undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 99
+ 
+ 
+DALLAS (July 20, 2009)  Texas Instruments Incorporated (TI) (NYSE: TXN) today announced second-quarter revenue of $2.46 billion, net income of $260 million and earnings per share (EPS) of $0.20.
+After sharp inventory corrections in our markets during the prior two quarters, our revenue levels are beginning to more closely reflect end demand, said TI Chairman, President and CEO Rich Templeton.  As it will likely take some time before the economy strengthens, we have aligned our operations and expenses to be consistent with the weak environment.  As a result, we are seeing healthy trends in our profitability.
+Analog was the biggest driver of sequential growth this quarter with all three major businesses contributing.  Of particular note, our high-volume analog & logic business is now showing early signs of progress from our efforts over the past couple of years to reinvigorate growth.
+Operationally, TI performed well.  Despite low visibility at the start of the quarter, our factories were able to respond to a surge in demand resulting in 18 percent sequential growth in revenue.  At the same time, TI inventory again declined, and by working with our distributors we were able to further reduce channel inventory by about 10 percent.
+Looking ahead, we expect solid sequential growth in the third quarter.  As end demand trends remain uncertain, we will keep our operations flexible so we can quickly respond to our customers needs.
+In the meantime, we continue to focus on strengthening our core businesses of Analog and Embedded Processing.  In the quarter, we acquired Luminary Micro, which expanded TIs Embedded Processing portfolio by more than 140 advanced, 32-bit microcontroller products.  Many of our 2,000 field sales representatives and applications engineers already are working with these products to help customers solve a wide variety of system needs.
+2Q09 financial summary
+Amounts are in millions of dollars, except per-share amounts.
+TIs revenue declined 27 percent compared with the second quarter of 2008 and increased 18 percent compared with the first quarter of 2009.  The decline from a year ago was the result of broad-based declines across all segments.  The increase from the prior quarter was primarily due to strength in TIs Analog segment as well as a seasonal increase in calculators.  Revenue was up sequentially in all segments.
+TIs operating profit declined $490 million compared with the year-ago quarter and grew $333 million compared with the first quarter.  The decline from a year ago was due to lower revenue and the associated lower gross profit, as well as the negative impact of underutilized manufacturing assets and restructuring charges.  Collectively, these more than offset lower operating expenses and manufacturing cost reductions.  The increase from the prior quarter was due to higher revenue in all segments and the associated higher gross profit, combined with the positive effect of higher utilization of the companys manufacturing assets.
+Excluding restructuring charges of $85 million, TIs operating profit was $428 million in the second quarter, or 17.4 percent of revenue, and EPS was $0.25.  (See reconciliation table at the end of this release.)
+2Q09 segment results
+ 
+ 
+ 
+The product categories in each segment are as follows:
+ &
+Analog:  high-volume analog
+logic, high-performance analog (includes data converters, amplifiers and interface products) and power management
+Embedded Processing:  DSPs and microcontrollers used in catalog, communications infrastructure and automotive applications
+Wireless:  DSPs and analog used in basebands for handsets, OMAP applications processors and
+connectivity products for wireless applications
+Other:  includes DLP products, calculators, ASIC products, RISC microprocessors and royalties
+Operating profit declined in all segments from a year ago primarily because of lower revenue.  Compared with the prior quarter, operating profit increased in the Analog, Embedded Processing and Other segments primarily due to higher revenue.  Operating profit increased in the Wireless segment primarily due to the combination of higher revenue and cost reductions.
+Restructuring charges were as follows:
+2Q09 additional financial information
+Outlook
+For the third quarter of 2009, TI expects:
+ 
+The EPS estimate includes a negative impact of $0.01 per share resulting from restructuring charges.
+TI will update its third-quarter outlook on September 9, 2009.
+For the full year of 2009, TI expects approximately the following:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certain amounts in prior periods financial statements have been reclassified to conform to the current presentation.
+ 
+ 
+ 
+The following describes TIs results excluding the impact of restructuring charges.  Management believes this presentation provides investors additional insight into the underlying business conditions and results.
+ 
+ 
+ 
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995:
+ 
+ 
+This release includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management believes, expects, anticipates, foresees, forecasts, estimates or other words or phrases of similar import. Similarly, statements herein that describe the Company's business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+ 
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or its management:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For a more detailed discussion of these factors, see the Risk Factors discussion in Item 1A of the Company's most recent Form 10-K.  The forward-looking statements included in this release are made only as of the date of this release, and the Company undertakes no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+ 
+About Texas Instruments
+Texas Instruments (NYSE: TXN) helps customers solve problems and develop new electronics that make the world smarter, healthier, safer, greener and more fun.  A global semiconductor company, TI innovates through design, sales and manufacturing operations in more than 30 countries.  For more information, go to www.ti.com.
+TI trademarks:
+   OMAP
+   DLP
+Other trademarks are the property of their respective owners.
+ 
+ 
+ 
+
+

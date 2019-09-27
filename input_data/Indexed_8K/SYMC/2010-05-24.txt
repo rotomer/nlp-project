@@ -1,0 +1,74 @@
+FILE:SYMC/SYMC-8K-20100524172045.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+     Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+      Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+      Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+      Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+      Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement
+On May 19, 2010, Symantec Corporation, a Delaware corporation (the "Company"), entered into an Acquisition Agreement (the "Agreement") with VeriSign, Inc., a Delaware corporation ( "Seller"), pursuant to which the Company will acquire specific assets from Seller and its subsidiaries relating to Seller's identity and authentication business (the "Business"), including Seller's majority stake in VeriSign Japan, for a purchase price of approximately $1.28 billion in cash, subject to a post-closing working capital adjustment. The acquisition is scheduled to close upon the expiration of applicable waiting periods under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 and certain other antitrust and trade regulation laws, and subject to other customary closing conditions.
+The Agreement contains customary representations, warranties and covenants. Each party has agreed to indemnify the other party for certain losses, subject to certain limitations. In connection with the transaction, Seller has agreed to license to the Company certain rights to use the VeriSign name in connection with the Business for a period of four years, subject to certain exceptions, following the closing of the transaction (the "Closing"), and the Company acquired perpetual rights to the VeriSign checkmark circle design, as well as other trademarks associated with the Business. Additionally, pursuant to the terms of the Agreement, Seller has agreed not to compete with the Business, and the Company has agreed not to compete with Seller's naming services business, for a period of four years following the Closing. The Agreement also contains customary termination rights.
+On May 19, 2010, the Company issued a press release announcing the entry into the Agreement, a copy of which is furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+Item 9.01. Financial Statements and Exhibits
+(d) Exhibits
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+Exhibit 99.01
+News Release
+FOR IMMEDIATE RELEASE
+Symantec Corp. (Nasdaq: SYMC) today announced that it has signed a definitive agreement to acquire VeriSign's (Nasdaq: VRSN) identity and authentication business, which includes the Secure Sockets Layer (SSL) Certificate Services, the Public Key Infrastructure (PKI) Services, the VeriSign Trust Services and the VeriSign Identity Protection (VIP) Authentication Service. The combination of VeriSign's security products, services and recognition as the most trusted brand online and Symantec's leading security solutions and widespread distribution will enable Symantec to deliver on its vision of a world where people have simple and secure access to their information from anywhere.
+MOUNTAIN VIEW, Calif.  May 19, 2010 
+"With the anonymity of the Internet and the evolving threat landscape, people and organizations are struggling to maintain confidence in the security of their interactions, information and identities online. At the same time, people's personal and professional lives have converged and they want to use their various digital devices to access information wherever they are without jeopardizing their privacy," said Enrique Salem, president and CEO, Symantec. "IT is faced with the challenge of giving users the appropriate access, while ensuring that corporate data is not at risk. We believe the solution to this dilemma lies in the ubiquity of identity-based security. With the combined products and reach from Symantec and VeriSign, we are poised to drive the adoption of identity security as the means to provide simple and secure access to anything from anywhere, to prevent identity fraud and to make online experiences more user-friendly and hassle-free."
+Under the terms of the agreement, Symantec will purchase the specific assets from VeriSign, including the majority stake in VeriSign Japan, for a purchase price of approximately $1.28 billion in cash. Symantec expects the transaction to be 9 cents dilutive to non-GAAP earnings per share in fiscal year 2011, due to the purchase price accounting write down of deferred revenue, and accretive to non-GAAP earnings per share in the September 2011 quarter. The agreement is subject to customary closing conditions, including regulatory approvals, and is expected to close in the September quarter.
+ 
+Symantec to Acquire VeriSign's Security Business Solidifying Its Position as the World's Most Trusted Source for Protecting Information and Identities Online Page 2 of 4
+Enabling a New Vision of Computing
+Through this acquisition, Symantec can help businesses incorporate identity security into a comprehensive framework so that IT can confidently and securely adopt new computing models, from cloud computing to social networking and mobile computing to user-owned devices, that promise operational efficiencies and freedom of choice for their employees and customers. That framework is based on five imperatives that Symantec is enabling as part of its new vision of computing and includes:
+Ease-of-use, speed-of-delivery and user-driven preferences are the new imperatives in today's workplace. People whose personal and professional lives have converged onto their digital devices increasingly expect the freedom to work from anywhere using their own devices, to use any application and to collaborate with anybody in their social network to effectively get their jobs done and simultaneously live their network-enriched lives.
+IT departments struggle to meet user expectations with simple, secure and cost-effective solutions. Cloud computing can provide instantaneous scale and delivery of applications and desktops by enabling businesses to leverage services from the cloud instead of deploying applications on premise. Identity-based security gives IT the assurance that as information moves in and out of the cloud it is always protected  across any device and between the network and devices they control and those that they don't. The user's identity drives what information they can access and how it can be used and shared, independent of the device or application.
+Creating Mutually Trusted Interactions Online
+VeriSign's SSL Certificate Services provide users with assurance that the websites they are interacting with are legitimate and secure and that their information will be safe when they share it with that site. The VeriSign check mark signifies the authenticity of the websites that users visit and assures them that any sensitive information they share with that site will be encrypted during online transactions. With more than one million web servers using VeriSign SSL certificates, and an infrastructure that processes more than two billion certificate checks daily, VeriSign has the leading share of the SSL market. The addressable market for the server and user authentication segment is estimated to reach $1.6 billion by 2013.
+ 
+Symantec to Acquire VeriSign's Security Business Solidifying Its Position as the World's Most Trusted Source for Protecting Information and Identities Online Page 3 of 4
+Symantec's current portfolio and along with assets from VeriSign provide the depth and breadth of technologies to make identity-based security of information more universal and part of a comprehensive security solution. By combining VeriSign's SSL Certificate Services with Symantec or , Symantec will help organizations ensure a higher level of security on their web servers as well as verify that security, providing users with the trust and confidence necessary to do business online.
+Critical System Protection
+Protection Suite for Servers
+VeriSign helps organizations validate the identity of users through its VeriSign Identity Protection (VIP) user authentication service that complements the existing capabilities within the Norton products. The cloud-based VIP service helps organizations doing business online confirm the identities of their customers, employees and partners through user-owned digital certificates that reside on a card, token or other device such as a mobile phone, ensuring that they are giving only legitimate users access to their information. VeriSign has already issued more than two million VIP credentials to individuals and has a network of hundreds of merchants.
+Identity Safe
+Through Symantec's worldwide distribution network and footprint on more than one billion systems  including end-user devices such as laptops, desktops and smart devices, as well as servers  Symantec can facilitate the ubiquity of identity security through digital certificates for both individuals and companies. This is critical to creating mutually trusted interactions online. Merchants have added incentive to join the VIP network if user certificates are widely distributed. More merchants in the VIP network means a more secure and convenient experience for customers moving among member sites. Merchants benefit as well from knowing their customers are also trusted and secure.
+Symantec can expand the VIP ecosystem by incorporating user certificates into its Norton-branded consumer products providing a channel through which consumers can easily create secure identities that can be authenticated when they do business online. In addition, the combination of the information classification capabilities of Symantec's and along with VeriSign's identity security services, will allow us to help customers ensure that only authorized users have access to specific information.
+Data Loss Prevention solutions
+Data Insight technology
+Signifying Trust Online
+The VeriSign check mark is the most recognized symbol of trust online with more than 175 million impressions every day on more than 90,000 websites in 160 countries. Symantec's security solutions and the company's Norton-branded suites protect more than one billion systems and users around the world. With the addition of VeriSign's security assets, Symantec will become the leading source of trust online. Following the close of the transaction, Symantec plans to incorporate the VeriSign check mark into a new Symantec logo to convey to users that it is safe to communicate, transact commerce and exchange information online.
+ 
+Symantec to Acquire VeriSign's Security Business Solidifying Its Position as the World's Most Trusted Source for Protecting Information and Identities Online Page 4 of 4
+For more information on how VeriSign's services will augment Symantec's portfolio please visit:
+http://go.symantec.com/verisign.
+Webcast and Conference Call Information
+Symantec will host a conference call and webcast today to discuss the acquisition at 2:30 p.m. PDT/ 5:30 p.m. EDT. The live discussion can be accessed by dialing 888-208-1332 domestic and 913-312-0687 internationally, passcode 8974237. The audio webcast and slide presentation providing an overview of the transaction and strategic rationale and will be available at . Please go to the website at least 15 minutes early to register, download and install any necessary audio software. A replay of the call will be available via webcast.
+http://investor.symantec.com/phoenix.zhtml?c=89422&p=irol-eventnpres
+About Symantec
+Symantec is a global leader in providing security, storage and systems management solutions to help consumers and organizations secure and manage their information-driven world. Our software and services protect against more risks at more points, more completely and efficiently, enabling confidence wherever information is used or stored. More information is available at .
+www.symantec.com
+NOTE TO EDITORS: If you would like additional information on Symantec Corporation and its products, please visit the Symantec News Room at . All prices noted are in U.S. dollars and are valid only in the United States.
+http://www.symantec.com/news
+Symantec and the Symantec Logo are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners.
+FORWARD-LOOKING STATEMENTS: This press release contains forward-looking statements within the meaning of U.S. federal securities laws, including expectations regarding the closing of Symantec's acquisition of the VeriSign authentication business, the integration of its products and technologies into Symantec's products and solutions and the expected customer benefits of such integration, and the expected impact of the acquisition on Symantec's fiscal 2011 and 2012 operating results, that involve known and unknown risks and uncertainties that may cause actual results to differ materially from those expressed or implied in this press release. Such risk factors include, among others, satisfaction of closing conditions to the transaction, including the receipt of required regulatory approvals, our ability to successfully integrate the acquired businesses and technology, and customer demand for the technologies and integrated product offerings. Actual results may differ materially from those contained in the forward-looking statements contained in this press release. Additional information concerning these and other risk factors is contained in the Risk Factors section of Symantec's most recently filed Form 10-K. Symantec assumes no obligation to update any forward-looking statement contained in this press release. The contents of the Symantec website shall not be deemed incorporated by reference into this press release. Any forward-looking indication of plans for products is preliminary and all future release dates are tentative and are subject to change. Any future release of the product or planned modifications to product capability, functionality, or feature are subject to ongoing evaluation by Symantec, and may or may not be implemented and should not be considered firm commitments by Symantec and should not be relied upon in making purchasing decisions.
+
+

@@ -1,0 +1,59 @@
+FILE:ORCL/ORCL-8K-20090507161312.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On May 7, 2009, Oracle issued a transcript of an interview with Larry Ellison, Oracle's Chief Executive Officer, regarding Oracle's proposed acquisition of Sun Microsystems, Inc. A copy of the transacript is furnished as Exhibit 99.1 to this report.
+ 
+(d) Exhibits
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: May 7, 2009
+ 
+ 
+
+Exhibit 99.1
+An Interview with Larry Ellison on the Acquisition of Sun Microsystems: Part I
+May 7, 2009
+Q: Why does Oracle, a company that prides itself on high-margins, want to get into the low-margin hardware business? Are you going to exit the hardware business?
+A: No, we are definitely not going to exit the hardware business. While most hardware businesses are low-margin, companies like Apple and Cisco enjoy very high-margins because they do a good job of designing their hardware and software to work together. If a company designs both hardware and software, it can build much better systems than if they only design the software. That's why Apple's iPhone is so much better than Microsoft phones.
+Q: OK, Apple and Cisco have proven that they can do it, but what experience does Oracle have designing hardware and software to work together?
+A: Oracle started designing hardware and software to work together a few years ago when we began our Exadata database machine development project. Some of our competitors, Teradata and Netezza for example, were delivering preconfigured hardware/software systems, while we were just delivering software. The combination of hardware and software has significant performance advantages for data warehousing applications. We had to respond with our own hardware/software combination, the Exadata database machine. Oracle's Exadata database machine runs data warehousing applications much fasterat least ten-times faster than Oracle software running on conventional hardware. All the hardware and software pieces, database to disk, are included. You just plug it in and gono systems integration required.
+Q: Alright, Oracle's done integrated hardware and software design with the Exadata database machine. But Exadata uses standard Intel chips. Are you going to discontinue the SPARC chip?
+A: No. Once we own Sun we're going to increase the investment in SPARC. We think designing our own chips is very, very important. Even Apple is designing its own chips these days. Right now, SPARC chips do some things better than Intel chips and vice-versa. For example, SPARC is much more energy efficient than Intel while delivering the same performance on a per socket basis. This is not just a green issue, it's an economic issue. Today, database centers are paying as much for electricity to run their computers as they pay to buy their computers. SPARC machines are much less expensive to run than Intel machines.
+ 
+Q: So is that your plan, to use SPARC to compete by lowering a data center's electricity bills?
+A: No, our primary reason for designing our own chips is to build computers with the very best performance, reliability and security available in the market. Some system features work much better if they are implemented in silicon rather than software. Once we own Sun, we'll be able to plan and synchronize new features from silicon to software, just like IBM and the other big system suppliers. We want to work with Fujitsu to design advanced features into the SPARC microprocessor aimed at improving Oracle database performance. In my opinion, this will enable SPARC Solaris open-system mainframes and servers to challenge IBM's dominance in the data center. Sun was very successful for a very long time selling computer systems based on the SPARC chip and the Solaris operating system. Now, with the added power of integrated Oracle software, we think they can be again.
+Q: Your management team has no experience with delivering hardware. There is a lot of risk in going into an unfamiliar business.
+A: Obviously, we want to hold on to Sun's experienced team of first-rate hardware engineers. For years, Sun has led the industry in building and delivering innovative systems. For example, Sun was the first company to deliver systems built on a multi-core processor  what Sun called the Niagara chip  and the industry followed. Oracle has a good track record of retaining the engineering talent from acquired companies; Sun will be no different. In addition, over the last couple of years Oracle gained a lot of experience developing and delivering our first integrated hardware and software system, the Exadata database machine. We have lots of hardware experience inside of Oracle. Hundreds of Oracle's engineers came from systems companies like IBM and HP. Even I started my Silicon Valley career working for a hardware company that worked with Fujitsu to design and build the first IBM compatible mainframe.
+Q: OK, so you have engineers who are experienced at designing hardware as well as software, but Oracle outsourced the manufacturing of the Exadata machine to HP. You have no experience in manufacturing.
+A: Just because we're buying Sun does not mean Oracle is becoming a manufacturer. Sun outsources almost all of its manufacturing to companies like Flextronics and Fujitsu. With one tiny exception, Sun does no manufacturing; neither will we.
+Q: There has been a lot of speculation in the press that Oracle is going to sell some or all of Sun's hardware businesses. From your previous answers it certainly seems like you are keeping SPARC Solaris systems business. Are you keeping the disk storage and tape backup businesses?
+A: Yes, definitely. We believe the best user experience is when all the pieces in the system are engineered to work together. Disk storage and tape backup are critical components in high-performance, high-reliability, high-security database systems. So, we plan to design and deliver those pieces too. Clearly many Sun customers choose disk and tape systems from other vendors. That's what open systems are all about: providing customers with a choice. But Oracle expects to continue competing in both the disk and tape storage businesses after we buy Sun.
+ 
+Q: Is Exadata moving to Sun SPARC Solaris?
+A: Exadata is built by HP using Intel microprocessors. We have no plans for a SPARC Solaris version of Exadata. We have an excellent relationship with HP that we expect to continue. The Exadata database machine delivers record setting database performance at a lower cost than conventional hardware. Customers love the machine. It is the most successful product introduction in Oracle's 30 year history. The Sun acquisition doesn't reduce our commitment to Exadata at all.
+Cautionary Statement Regarding Forward-Looking Statements
+This document contains certain forward-looking statements about Oracle and Sun, including statements that involve risks and uncertainties concerning: Oracle's proposed acquisition of Sun; plans for Sun's hardware businesses (including the SPARC chip) upon completion of the proposed acquisition; estimates of future results of operations; anticipated customer, partner and product plans, advantages and benefits; retention of Sun's engineers; and general business outlook. When used in this document, the words "anticipates", "plans", "estimates", "may", "can", "want", "will", "believes", "expects" or "expected", "projects", "intends", "likely", similar expressions and any other statements that are not historical facts are intended to identify those assertions as forward-looking statements. Any such statement may be influenced by a variety of factors, many of which are beyond the control of Oracle or Sun, that could cause actual outcomes and results to be materially different from those projected, described, expressed or implied in this document due to a number of risks and uncertainties. Potential risks and uncertainties include, among others, the possibility that the transaction will not close or that the closing may be delayed, the anticipated synergies of the combined companies may not be achieved after closing, the combined operations may not be successfully integrated in a timely manner, if at all, general economic conditions in regions in which either company does business, and the possibility that Oracle or Sun may be adversely affected by other economic, business, and/or competitive factors. Accordingly, no assurances can be given that any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do so, what impact they will have on the results of operations or financial condition of Oracle or Sun.
+In addition, please refer to the documents that Oracle and Sun, respectively, file with the Securities and Exchange Commission (the "SEC") on Forms 10-K, 10-Q and 8-K. These filings identify and address other important factors that could cause Oracle's and Sun's respective financial and operational results to differ materially from those contained in the forward-looking statements set forth in this document. You are cautioned to not place undue reliance on forward-looking statements, which speak only as of the date of this document. Neither Oracle nor Sun is under any duty to update any of the information in this document.
+ 
+Additional Information about the Merger and Where to Find It
+In connection with the proposed merger, Sun will file a proxy statement with the SEC. Additionally, Sun and Oracle will file other relevant materials in connection with the proposed acquisition of Sun by Oracle pursuant to the terms of an Agreement and Plan of Merger by and among Oracle, Soda Acquisition Corporation, a wholly-owned subsidiary of Oracle, and Sun. The materials to be filed by Sun with the SEC may be obtained free of charge at the SEC's web site at www.sec.gov. Investors and security holders of Sun are urged to read the proxy statement and the other relevant materials when they become available before making any voting or investment decision with respect to the proposed merger because they will contain important information about the merger and the parties to the merger.
+Oracle, Sun and their respective directors, executive officers and other members of its management and employees, under SEC rules, may be deemed to be participants in the solicitation of proxies of Sun stockholders in connection with the proposed merger. Investors and security holders may obtain more detailed information regarding the names, affiliations and interests of certain of Oracle's executive officers and directors in the solicitation by reading Oracle's most recent Form 10-K and other relevant materials filed with the SEC when they become available. Information concerning the interests of Sun's participants in the solicitation, which may, in some cases, be different than those of Sun's stockholders generally, is set forth in the materials filed with the SEC on Form 10-K and will be set forth in the proxy statement relating to the merger when it becomes available.
+This document is intended for information purposes only and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, and timing of any features or functionality described for Oracle's products remains at the sole discretion of Oracle.
+ 
+
+

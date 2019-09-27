@@ -1,0 +1,693 @@
+FILE:ALTR/ALTR-8K-20110118132440.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 8-K
+ 
+            
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): January 11, 2011
+ 
+            
+ALTERA CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+ 
+Registrant's telephone number, including area code: (408) 544-7000
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.01. Entry into a Material Definitive Agreement.
+On January 11, 2011, Altera Corporation (Altera) entered into a distribution agreement (the Distribution Agreement) with Arrow Electronics, Inc. (Arrow), which replaces the parties' previous distribution agreement effective January 26, 1999.
+ 
+The Distribution Agreement sets forth the terms for Arrow's distribution of Altera's products.
+The description of the Distribution Agreement contained herein is qualified in its entirety by reference to the Distribution Agreement, a copy of which is filed herewith as Exhibit 10.1 and is incorporated herein by reference.
+ 
+Item 9.01 Financial Statements and Exhibits.
+(d)    Exhibits.
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+Dated: January 17, 2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT INDEX
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+DISTRIBUTION AGREEMENT
+(North America)
+ 
+This Distribution Agreement (hereinafter referred to as the Agreement) is made and entered into as of this 11th day of January, 2011 (Effective Date) between Altera Corporation, having its principal place of business at 101 Innovation Drive, San Jose, CA 95134 (hereinafter referred to as Altera) and Arrow Electronics, Inc., having its principal place of business at 50 Marcus Drive, Melville, NY 11747-4210 U.S.A. (hereinafter referred to as Distributor) on behalf of itself and its wholly-owned subsidiaries, Arrow Brasil S/A and ELKO Componentes Electronicos S.A.
+ 
+WITNESSETH:
+ 
+WHEREAS, Altera is the owner, manufacturer, and developer of certain Products defined below; and
+ 
+WHEREAS, Altera and Distributor entered into a previous Distribution Agreement effective February 18, 1999, as amended; and
+ 
+WHEREAS, Distributor wishes to be appointed as a non-exclusive distributor of the Products under the terms and conditions of this Agreement;
+ 
+NOW THEREFORE, the parties agree as follows:
+ 
+1.    
+DEFINITIONS
+ 
+1.1 Development Kits means development boards and related materials offered for sale by Altera in the ordinary course of business.
+ 
+1.2 OEM Customer means an original equipment manufacturer (OEM) that purchases a component made by the OEM's contract manufacturer for use in the OEM's products.
+ 
+1.3 Products or Product means semiconductor components, HardCopy Products, programming hardware, Software Products, Development Kits and related materials offered for sale by Altera in the ordinary course of business, and that have not been excluded from the definition of Products by written notice from Altera to Distributor.
+ 
+1.4 Sale or purchase shall also be understood to mean license.
+ 
+1.5 Software Products means software development tools for programmable logic design and ASICs, simulation, testing, and for programming as offered for license by Altera in the ordinary course of business.
+ 
+1.6 Territory means the following geographic areas, respectively:
+ 
+Arrow Electronics, Inc.: United States and Canada,
+Arrow Brasil S/A: Brazil, and
+ELKO Componentes Electronicos S.A.: Argentina.
+ 
+1.7 Trademarks means (i) both the name Altera and the corresponding stylized mark and logotype; and (ii) the trademarks, tradenames, and service marks of the Products and the respective stylized marks and logotypes for such trademarks, tradenames, and service marks.
+ 
+2.    
+APPOINTMENT
+ 
+Altera hereby appoints Distributor and Distributor hereby accepts the appointment, as a non-exclusive Distributor of the Products within the Territory.
+ 
+3.    
+DISTRIBUTOR RESPONSIBILITIES
+ 
+3.1
+Promotion and Sales Efforts
+. Distributor shall use its best efforts to:
+(a) Promote the sale of the Products (including through securing design wins and selling Products) within the Territory. Distributor shall not solicit design wins or sales of Products outside the Territory.
+ 
+ 
+(b) Obtain directly from Altera and authorized Altera distributors one hundred percent (100%) of its requirements of Altera products.
+(c) Make full use of all promotional material supplied by Altera.
+(d) Maintain total inventories of Products at Distributor in an amount mutually agreed upon by both parties.
+(e) Maintain inventories of newly introduced Products, sufficient to satisfy the needs of customers in a timely manner as mutually agreed by the parties.
+(f) Provide and maintain adequate sales facilities and sales, FAE and support personnel in accordance with reasonable standards that from time to time are established by Altera and agreed to by Distributor.
+(g) Provide and maintain Product programming facilities, equipment, and personnel in accordance with reasonable standards that from time to time are established by Altera and agreed to by Distributor.
+(h) Make available sales, engineering, and support personnel to attend Altera-sponsored training.
+(i) Keep Altera informed of industry trends and competitive conditions that may affect the sale of Altera Products.
+(j) Adhere to operational policies and procedures that Altera will publish (and revise from time to time) in order to fulfill the provisions of this Agreement, to facilitate Altera's business with Distributors, and promote sales to customers. In the event of any inconsistency between such published operational policies and the provisions of this Agreement, the provisions of this Agreement shall govern.
+(k) Perform such other express or implied duties as are called for by this Agreement or consistent with the purposes hereof.
+ 
+3.2
+Reporting Responsibilities
+. Distributor shall provide a daily report to Altera, including the following informational headings: Daily POS, Daily Inventory, Daily Distributor Backlog, Daily DPA Claims and Weekly Forecast. Distributor shall also provide at least a weekly report to Altera concerning customer backlog on Distributor of Altera Products, including the following informational headings: Altera valid part number, quantity, resale price, requested delivery date, end customer, ship-to location and ship-to company. Altera may also request at its sole discretion any other information that is reasonable in the normal course of business. Altera will provide details, format, timing and other requirements. The reporting format is to be via electronic data interchange (EDI) transaction or another acceptable reporting method, if agreed to by Altera.
+ 
+3.3
+Covenants
+.
+ 
+(a) Both parties agree to conduct business in a manner that reflects favorably at all times on the Products and the good name, goodwill and reputation of the other party.
+ 
+(b) Neither party shall engage in deceptive, misleading, or unethical practices that are or might be detrimental to the other party, the Products, or the public, including, but not limited to, disparagement of the other party or the Products and use of misleading advertising.
+ 
+(c) Neither party shall make false or misleading representations with regard to the other party and will make no representations to customers or to the trade with respect to the specifications, features or capabilities of the Products that are inconsistent with the literature distributed by Altera.
+ 
+(d) Both parties will maintain the confidentiality of the other party's proprietary information, pursuant to the terms of the Mutual Non-Disclosure Agreement attached hereto as
+Attachment I
+and executed concurrently with this Agreement.
+ 
+(e) Distributor will not make shipments to customers located out of Territory unless authorized to do so by Altera.
+ 
+(f) In cases where below list pricing is granted to a particular OEM or CM, Distributor will claim debits solely against Products shipped to an OEM Customer or such OEM Customer's designated contract manufacturers in order to meet the volume requirements of said OEM Customer.
+ 
+ 
+ 
+3.4
+Distributor's Financial Condition
+. Distributor is in satisfactory financial condition, solvent and has the financial ability to continue as a going concern and will be able to perform under the terms of this Agreement. Altera will have the right to establish credit limits and other financial requirements as a condition of Distributor's right to place orders with Altera and shall also have the right to change such credit limits and financial requirements at any time. In connection with any decision by Altera to establish a credit limit for Distributor, Distributor will furnish such financial reports and other financial data as Altera may reasonably request as necessary to determine Distributor's financial condition.
+ 
+3.5
+Compliance With Law
+. Distributor will comply with all applicable international, transnational, national, regional, and local laws and regulations in performing its duties under this Agreement and in any dealings with respect to Products. This includes but is not limited to compliance with (i) securities laws governing trading in securities of Altera and other companies, (ii) anti-trust and competition laws and regulations, and (iii) anti-bribery and corruption laws and regulations. Distributor may not use bribes or kickbacks in conducting business under this Agreement. Distributor shall include in its standard terms and conditions of sale a requirement for its customers to comply with U.S and non-U.S. export control laws and regulations.
+ 
+3.6
+Compliance With Export Control Laws
+. In recognition of U.S. and non-U.S. export control laws and regulations, Distributor agrees to obtain any necessary export license or other documentation prior to export, deemed export or re-export of any Product or technical data acquired from Altera under this Agreement. Accordingly, Distributor shall not knowingly sell, export, re-export, transfer, divert or otherwise dispose of any such Product or technical data directly or indirectly to any person, firm or entity, or country or countries, prohibited by the laws or regulations of the United States or any other country. Further, Distributor shall notify any person, firm or entity obtaining such products or technical data from Distributor of the need to comply with such laws and regulations. Altera will provide (in a mechanized format mutually agreed to by the parties) accurate export control classification numbers and harmonized tariff codes for all Products.
+ 
+3.7
+Records; Audit
+. Distributor will maintain accurate and complete records reflecting its performance under this Agreement.  During normal business hours, no more than twice in any twelve (12) month period, and upon not less than ten (10) business days prior notice, Altera or its authorized representatives may (i) conduct a physical inventory of Products in any stocking location (or, in automated facilities, observe cycle counts and related methodology), or (ii) with regard to the transactions occurring in the twelve months immediately preceding the audit, review, inspect, audit and copy all books and records relating specifically to or pertaining to this Agreement, kept by or under control of Distributor, including but not limited to those kept by Distributor and its employees.  Upon Altera's request, Distributor shall use reasonable efforts to make such books and records available at its corporate headquarters.
+ 
+4.    
+ALTERA'S RESPONSIBILITY
+ 
+Altera will furnish Distributor without charge a reasonable supply of Altera's current list of published suggested prices, sales literature, books, catalogs, etc. as Altera may prepare for distribution, and shall also provide Distributor with such technical and sales assistance as may be necessary to assist Distributor in effectively carrying out its obligations under this Agreement. Altera reserves the right to sell directly to any and all customers.
+ 
+5.     
+ORDER PROCEDURE
+5.1
+Orders
+. Distributor will place individual orders for the Products from time to time during the term of this Agreement by EDI, or for Software Products, as otherwise instructed by Altera, and such orders will contain all reasonably required information, as determined by Altera. This Agreement shall govern to the extent that any terms in this Agreement are inconsistent with the terms of any agreement between Altera and Distributor relating to EDI or other data interchange.
+ 
+5.2
+Acceptance by Altera
+. All orders for the Products by Distributor shall be subject to acceptance by Altera and shall not be binding until the earlier of such acceptance or shipment, and, in the case of acceptance by shipment, only as to the portion of the order actually shipped. Altera has the right to refuse to accept, for any reason, any order placed by Distributor. Any Distributor order not rejected by Altera within ten (10) days of issuance by Distributor will be deemed accepted.
+ 
+5.3
+Controlling Terms
+. The terms of this Agreement will apply to each order accepted or shipped by Altera under this Agreement. In the event that any terms or conditions of sale contained in any communication between Distributor and Altera contradict or are inconsistent with anything contained in this Agreement, the terms and conditions of this Agreement shall prevail. Altera's acceptance of any order from Distributor under this Agreement is conditioned on Distributor agreeing that the terms of this Agreement shall prevail over any additional or inconsistent terms communicated by Distributor to Altera in any form whatsoever.
+ 
+ 
+ 
+5.4
+Changes and Cancellation by Distributor
+.
+(a)
+Standard Products
+: All orders submitted by Distributor and accepted by Altera are firm commitments by Distributor to buy Altera Products. Distributor will notify Altera in writing in a timely manner of its desire to change or cancel any order. Altera shall have the right to deny any change or cancellation request submitted by Distributor within ninety (90) days of the current factory scheduled shipment date. However, within the period from thirty (30) to ninety (90) days of the current factory scheduled shipment date, Altera will use reasonable efforts to accommodate reasonable requests for changes or cancellations. Within the period from zero (0) to thirty (30) days of current factory scheduled shipment date, Altera will accept change orders only in extraordinary circumstances, which shall be determined by Altera in its sole judgment. Altera's acceptance of any change or cancellation shall not obligate Altera to accept any future change or cancellation requests. It is the responsibility of Distributor to reconcile its own records of orders on Altera with Altera's records of order backlog and manage accordingly.
+(b)
+HardCopy Products
+: Distributor may place orders on Altera for HardCopy Products in accordance with the terms of the Master HardCopy Development and Sale Agreement agreed to by the parties as of June 19, 2007.
+(c)
+Non-Standard Products
+: From time to time, Distributor may place orders on Altera for Non-Standard Product other than HardCopy. For purposes of this Agreement, Non-Standard Product is defined as any Product other than HardCopy that is not listed in Altera's published distributor price list, or that requires special processing by Altera. Once accepted by Altera, orders for Non-Standard Product may not be changed in any way without prior approval of Altera. As a pre-condition to approving a request to change or cancel an order for Non-Standard Product, Altera may require Distributor to compensate Altera for any costs incurred by Altera as a result of the change or cancellation. Certain Non-Standard Product specified by Altera shall be non-cancelable and non-refundable.
+ 
+5.6
+Cancellation by Altera
+. Altera reserves the right to cancel any orders placed by Distributor and accepted by Altera as set forth above, or to refuse or delay shipment thereof, if:
+ 
+(a) Distributor fails to make any payment as provided in this Agreement or under the terms of payment set forth in any invoice or otherwise agreed to by Altera and Distributor;
+ 
+(b) Distributor fails to meet reasonable credit or financial requirements established by Altera, including any limitations on allowable credit;
+ 
+(c) Distributor otherwise fails to comply with the terms and conditions of this Agreement;
+ 
+(d) this Agreement is terminated and the scheduled delivery would take place after the Agreement's termination date; or
+(e) circumstances beyond Altera's control prevent it from shipping any order by the requested delivery date.
+ 
+Altera also reserves the right to discontinue the manufacture or distribution of any or all of the Products at any time, and to cancel any orders for such discontinued Products, and, except as set forth in this subparagraph 5.6(e), without liability of any kind to Distributor or to any other person. No such cancellation, refusal or delay will be deemed a termination (unless Altera so advises Distributor) or breach of this Agreement by Altera. Altera will attempt, but is not required, to provide Distributor with at least sixty (60) days advance written notice of Product discontinuances in the same manner as is provided to customers in general. Distributor may, in its discretion, within sixty (60) days of its receipt of such notice, notify Altera in writing of its intention to return any or all such Products which remain in its inventory for a credit equal to the net price paid by Distributor for such Products. The Products will be returned within sixty (60) days of the date of Distributor's receipt of Altera's return authorization. Altera will pay all freight and shipping charges in connection with any such returns.
+ 
+6.    
+PAYMENT
+ 
+6.1
+Terms and Interest
+. Payment shall be made
+according to the terms specified in writing by Altera and agreed to by Arrow. Interest shall be payable at the rate of one-and-one-half percent (1.5%) per month or at the maximum rate permitted by law, whichever is less, on all overdue and unpaid invoices. Altera has the right to invoice Distributor for any unauthorized discounts or deductions taken by Distributor, and Distributor shall make payment on such invoices net thirty (30) days. Altera will not accept and Distributor will not make bulk payments; all transactions, including remittances, must include the appropriate Altera reference number from EDI. Distributor will not take and Altera will not accept deductions
+ 
+ 
+of credits before they are sent via EDI.
+ 
+6.2
+Method of Payment
+. Distributor shall make payment in US Dollars or in such method as agreed to by the parties in writing.
+ 
+6.3
+Taxes, Tariffs, and Fees
+. Unless otherwise agreed in writing by Altera, all prices quoted by Altera for the Products do not include any national, state, or local sales, use, value added or other taxes, customs duties, or similar tariffs and fees. Distributor shall be responsible and liable for the payment of any taxes, customs duties, or other government fees and tariffs applicable to the Products, except for taxes based on Altera's net income, unless Distributor has provided Altera with an exemption resale certificate in the appropriate form for the jurisdiction to which the Products are to be directly shipped. Distributor agrees to indemnify Altera for any claim for taxes, customs duties, or other government fees and tariffs applicable to the Products that may be levied on Altera.
+ 
+6.4
+Set-Off
+. Altera will have the right to setoff against any payment obligation owed to Distributor any amounts due to Altera or to Altera's affiliates or subsidiaries.
+ 
+7.     
+SHIPMENT AND RISK OF LOSS:
+ 
+7.1
+Shipment
+. Orders issued by the Distributor will specify requested shipment dates. Distributor will select the mode of shipment and the carrier. Altera will pay for packing costs. Distributor will be responsible for and pay all shipping, freight, and insurance charges, which charges Altera may require Distributor to pay in advance.
+ 
+7.2
+Delays in Shipment
+. Altera will use commercially reasonable efforts to ship products to arrive by any requested delivery dates quoted or acknowledged. However, Altera will not be liable for any delay in shipment or delay in performance under this Agreement due to unforeseen circumstances or due to causes beyond its control including but not limited to, acts of nature, acts of government, labor disputes, delays in transportation, and delays in delivery or inability to deliver by Altera's suppliers.
+ 
+7.3
+Right to Ship Ahead
+. Altera reserves the right to ship up to three (3) days in advance of the calculated ship date necessary to meet Distributor's requested dock date. Distributor will accept delivery of such shipments.    
+ 
+7.4
+Risk of Loss
+. Title and risk of loss or damage to the Products shall pass to Distributor, or to such financing institution or other party or parties as may have been designated to Altera by Distributor: (i) when Altera releases the Products to the carrier at Altera's shipping point if Altera ships from Altera or warehousing facilities located within one country to a destination within the same country; (ii) when the Products arrive at Distributor's shipping destination if Altera ships the Products from Altera's facilities in the United States to a destination in Mexico or Canada; and (iii) when the Products arrive at a place one mile following the Products' departure from  the territorial boundaries of the jurisdiction in which the shipping origin is located, in all cases not covered by (i) or (ii).  Upon passage of title and risk of loss or damage, Altera advises Distributor to insure Products for the full purchase price paid by Distributor to Altera.
+ 
+8.     
+PRICES
+ 
+8.1
+Altera's Prices
+. Distributor shall purchase products at Altera's prices as are in effect at the time the order is received from the Distributor.
+ 
+8.2
+Price Changes
+: From time to time, Altera may decide to change the prices for the Products.
+ 
+(a)    
+Price decreases
+: In the event of a price decrease by Altera, Altera will invoice Distributor at the lower price for all orders placed by Distributor that have not been delivered as of the effective date of the price decrease.
+(b)    
+Price increases
+: In the event of a price increase, Altera will announce to Distributor its intention to raise prices at least thirty (30) days before the effective date of such a price increase. Distributor shall have the right to cancel (within ten (10) days of the announcement of a price increase) any orders for Product for which Altera has announced a price increase.
+ 
+8.3
+Credit for Inventory Invoiced at Higher Price
+. In the event of a price decrease, Altera shall issue a credit to Distributor in the amount of the price decrease for all unsold Products then stocked by the Distributor provided that Distributor satisfies the terms and conditions specified in subparagraphs 8.4 and 8.5(b) and (c).
+ 
+ 
+ 
+8.4
+Record Keeping for Price Decrease Credits
+. As a condition of Altera issuing Distributor a credit pursuant to subparagraph 8.3, Altera must receive an inventory report from Distributor no later than thirty (30) days after the effective date of the price decrease. No credit will be due Distributor if Distributor fails to furnish such inventory report within the thirty (30) day period. Altera shall have the right to audit the information provided in this report against the previous inventory reports and subsequent resale reports. Altera may conduct such audit in accordance with the provisions of subparagraph 3.7 of this Agreement. Upon verification of Distributor's claim for credit, Altera shall issue a credit to Distributor's account.
+ 
+8.5
+Procedure for Submitting Claims for Credit
+.
+ 
+(a) Distributor must submit its claims for the following types of credits within sixty (60) days of the following:
+ 
+(i)
+Price Discrepancies
+: the date of any invoice that contains a price discrepancy; or
+ 
+(ii)
+SSD (ship from stock debit)
+: sales out date.
+ 
+Altera will not honor any claims for credit submitted after the sixty (60) day period.
+ 
+(b) All claims for credit must specify the invoice number(s) to which the claim applies.
+ 
+(c) If Altera provided Distributor with a discount on its regular prices at the time that Altera invoiced Distributor for the Products that are the subject of a claim for credit, Altera shall subtract from the credit the proportional amount of the prior discount.
+ 
+9.    
+STOCK ROTATION AND RETURNS
+ 
+9.1
+Return of Products
+. If Altera determines in accordance with its Stock Rotation Policy that Distributor's inventory is overstocked with certain Products, Distributor may return such Products to Altera pursuant to subparagraph 9.2. Products that are obsolete or discontinued may only be returned pursuant to subparagraph 9.3 of this Agreement. Returns of Products that are permitted in connection with the termination of this Agreement are subject to paragraph 14. All returns require a Return Material Authorization (RMA) and must follow Altera return policies.
+ 
+Distributor shall bear all freight costs and risk of loss or damage during shipment of returned Products and shall ship returned Products in accordance with Altera's reasonable instructions.
+ 
+Distributor's account will be credited by Altera in the amount paid by Distributor for the returned Products after Altera receives the Products and verifies their quantity and quality. All returned Products must be unused, undamaged, and in Altera factory-sealed bags or Altera factory-shipped boxes. Distributor may not take any deductions from payments due to Altera before Altera has issued a credit to Distributor; Altera will charge interest at the rate of one-and-one-half percent (1.5%) per month or at the maximum rate permitted by law, whichever is less, from the date that Distributor makes any unauthorized deductions.
+9.2
+Procedure for Stock Rotations
+. Each Altera fiscal semi-annual (i.e. six-month) period, Altera will accept one (1) Stock Rotation return from Distributor for the purpose of clearing Distributor's inventory of Product that in Distributor's reasonable judgment is unlikely to be sold. If Distributor does not initiate a Stock Rotation return before the end of the applicable Altera fiscal semi-annual period, that period's allowance will be forfeited. Under this provision, Distributor may return to Altera Product valued at up to five percent (5%) of Altera's net billings to Distributor for the Altera fiscal semi-annual period prior to the Stock Rotation. A portion of such approved stock rotation total dollar level, not to exceed five percent (5%) thereof, may be eligible to be scrapped under the Altera scrap policies. As a precondition for accepting a Stock Rotation, Altera may require that Distributor take delivery from Altera of Product of value equal to or less than the value of the Product returned.
+9.3
+Obsolete and Discontinued Products
+. Altera may render obsolete or discontinue the manufacture and/or sale of any Product (Discontinued Product) and shall notify Distributor of any Discontinued Product. Distributor shall have the right to return Discontinued Product to Altera to the extent purchased from Altera within the twenty-four (24) months prior to the date of Product discontinuation notice. Within thirty (30) days of the last order date, Distributor shall notify Altera of Distributor's intention to return any Discontinued Product in its inventory which was purchased by Distributor from Altera. Such notification shall include the Last Time Ship date for such Discontinued Product. Distributor's account will be credited by Altera in the amount paid by Distributor for the returned Products after Altera receives the Products and
+ 
+ 
+verifies their quantity and quality. Debit claims for Discontinued Product will be honored for six (6) months after the Last Time Ship date.
+9.4
+Administrative Procedures for Returns
+. Product returns to Altera pursuant to subparagraphs 9.2, 9.3, and 14.5(c) as well as any other Product returns to Altera are subject to the following provisions:
+(a) Distributor must request and receive from Altera a Return Material Authorization number for each return prior to shipping Product to Altera. Altera will not unreasonably withhold Return Material Authorizations.
+(b) Altera retains the right to review all line items prior to return and approve or deny any item requested for return by Distributor. Altera will establish and publish reasonable requirements for the approval of return line items, and for the handling and packaging of Product to be returned, in order to protect the quality of Altera Products and minimize the administrative expenses associated with returns.
+(c) Return Material Authorization numbers are valid for sixty (60) days from the date of issuance to Distributor. If Distributor fails to return the Products within that sixty (60) day period, Altera shall not be obligated to accept the Products or to credit Distributor's account for the Products.
+ 
+9.5
+Defective Products
+. Defective or non-conforming Products shall be subject to the warranty provisions of paragraph 10 of this Agreement.
+ 
+10.  
+WARRANTIES
+ 
+10.1
+Altera's Warranties to Distributor
+.
+ 
+(a)
+Semiconductor Products and Other Hardware Products
+. Altera warrants that the Products (other than Software Products and Development Kits) (hereinafter Semiconductor Products and Other Hardware Products) covered by this Agreement shall be free from defects in materials and workmanship and shall materially conform to Altera's published specifications (if any) under normal use for a period of one (1) year from the date of invoice to Distributor's customer, but in no event more than two (2) years from the date of invoice to Distributor. The foregoing warranty does not apply to any Semiconductor Products and Other Hardware Products that have been subject to misuse (including static discharge), improper installation, programming (unless the programming reveals the defect) or repair, mishandling, neglect, accident or modification or which have been soldered or altered and are not capable of being tested by Altera under its normal test conditions, or whose identifying information has been removed, obscured, altered or augmented. Altera's sole obligation to Distributor for Semiconductor Products and Other Hardware Products failing to meet this warranty shall be to replace the defective or non-conforming Semiconductor Products and Other Hardware Products or refund the applicable payments made by the Distributor. This obligation is conditioned on all of the following: (1) Distributor providing Altera with written notice of any nonconformity or defect within the applicable warranty period, and (2) Distributor returning the non-conforming or defective Semiconductor Products and Other Hardware Products to Altera within thirty (30) days of receiving Altera's written notification to do so, and (3) Altera determining that the Semiconductor Product or Other Hardware Product is non-conforming or defective and that such nonconformity or defect is not a result of improper installation, repair or other misuse by Distributor. Any replacement of Semiconductor Product or Other Hardware Product by Altera shall carry only the unexpired term of the original warranty. This warranty is limited to Distributor and is not transferable.
+ 
+(b)
+Software Products.
+ 
+Altera warrants that Software Products covered by this Agreement, when properly installed and used, will perform substantially in accordance with Altera's current Software Products documentation for a period of ninety (90) days from the date of delivery to Distributor's customer. Altera warrants the DVD on which Software Products are furnished to be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of delivery to Distributor's customer. The foregoing warranty does not apply to any Software Products which have been damaged as a result of accident, abuse, misuse, neglect, or modification. This warranty is limited to Distributor and is not transferable.
+ 
+During the ninety (90) day warranty period, (1) Altera will replace any Software Product or DVD not meeting the foregoing warranty and which is returned to Altera; or (2) if Altera is unable to deliver a replacement Software Product which performs substantially in accordance with current Software Product documentation or a DVD which is free of defects in materials or workmanship, Distributor may return the Software Product for a credit in the amount paid by Distributor. Any replacement Programs or DVD will be warranted for the remainder of the original warranty period or
+ 
+ 
+thirty (30) days, whichever is longer.
+ 
+(c)
+Development Kits.
+ 
+Altera warrants that Development Kits covered by this Agreement shall be free from defects in materials and workmanship and shall materially conform to Altera's published specifications (if any) under normal use for a period of ninety (90) days from the date of invoice to Distributor's customer, but in no event longer than one year from the delivery to Distributor. The foregoing warranty does not apply to any Development Kits that have been subject to misuse (including static discharge), improper installation, programming or repair, mishandling, neglect, accident or modification or which have been soldered or altered and are not capable of being tested by Altera under its normal test conditions, or whose identifying information has been removed, obscured, altered or augmented. Altera's sole obligation to Distributor for Development Kits failing to meet this warranty shall be to replace the defective or non-conforming Development Kits or refund the applicable payments made by the Distributor. This obligation is conditioned on all of the following: (1) Distributor providing Altera with written notice of any nonconformity or defect within the applicable warranty period, and (2) Distributor returning the non-conforming or defective Development Kits to Altera within thirty (30) days of receiving Altera's written notification to do so, and (3) Altera determining that the Development Kit is non-conforming or defective and that such nonconformity or defect is not a result of improper installation, repair or other misuse by Distributor. Any replacement of a Development Kit by Altera shall carry only the unexpired term of the original warranty. This warranty is limited to Distributor and is not transferable.
+ 
+(d)
+THE WARRANTIES CONTAINED IN PARAGRAPH 10 OF THIS AGREEMENT ARE THE ONLY WARRANTIES MADE BY ALTERA WITH RESPECT TO THE PRODUCTS. EXCEPT AS PROVIDED IN PARAGRAPH 10, ALTERA MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF QUALITY,
+ 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT. THE WARRANTIES PROVIDED IN PARAGRAPH 10 MAY BE MODIFIED OR AMENDED BY ALTERA ONLY BY WRITTEN INSTRUMENT SIGNED BY A DULY AUTHORIZED AGENT OF ALTERA.
+ 
+10.2
+Distributor Shall Make No Warranties
+. Distributor shall make no representation, guarantee or warranty on Altera's behalf to Distributor's customers with respect to the Products.
+ 
+11.  
+ALTERA'S INTELLECTUAL PROPERTY RIGHTS
+ 
+11.1
+Trademark Use During Agreement
+. During the term of this Agreement, Distributor is authorized by Altera to use the Trademarks in connection with Distributor's advertisement, promotion, and distribution of the Products. Altera reserves the right to review and reject Distributor's use of Trademarks. Distributor shall not use the Trademarks, or any part thereof, separately or in combination, as a part of or in connection with its firm, trade, or corporate name. Distributor's use of the Trademarks will be in accordance with Altera's policies in effect from time to time, including but not limited to trademark usage and co-operative advertising policies.
+ 
+11.2
+Copyright, Patent, and Trademark Notices
+. As both a covenant by Distributor and a condition of Altera's sale or license of the Products to Distributor, Distributor will include on each copy of the Products that it distributes, and on all containers and storage media, all copyright, patent, trademark, and other notices of proprietary rights included by Altera on the Products. Distributor agrees not to alter, erase, deface, or overprint any such notice on anything provided by Altera.
+ 
+11.3
+No Distributor Rights in Altera Intellectual Property Rights
+. Distributor has paid no consideration for the use of Altera's copyrights, patents, trademarks, or trade secrets and nothing contained in this Agreement shall give Distributor any interest in any of them. Distributor acknowledges that Altera owns or holds a license to all copyrights, patents, trademarks, or trade secrets related to the Products and agrees that it will not knowingly at any time during or after this Agreement assert or claim any interest in or do anything that may adversely affect the validity or enforceability of any copyrights, patents, trademarks, or trade secrets owned by or licensed to Altera (including, without limitation, any act, or assistance to act, which may infringe or lead to the infringement of any copyrights, patents, trademarks, or trade secrets related to the Products). Nothing in this subparagraph shall prevent Distributor from challenging the validity of any trademark, copyright, or patent. Distributor agrees not to attach any additional trademarks, logos, or trade names to any Product. Distributor further agrees not to affix any of the Trademarks to any product not manufactured or sold by Altera.
+ 
+11.4
+No Continuing Rights in Trademarks
+. Upon expiration or termination of this Agreement, Distributor will immediately cease all display, advertising and use of all Trademarks and will not thereafter use, advertise, or display any name, mark or
+ 
+ 
+logo which is, or any part of which is, similar to, or confusing with, any Trademark or other name, mark, logo or designation associated with any Product.
+ 
+11.5
+Obligation to Protect Proprietary Information
+. Altera and Distributor have entered into or shall in the future enter into a non-disclosure agreement that shall set forth the parties' obligations to protect proprietary information.
+ 
+11.6
+Notification of Suspected Infringement
+. Distributor agrees to notify Altera of any known or suspected infringement of Altera's trademark, trade secret, copyright, and patent rights that comes to Distributor's attention. Distributor also agrees not to induce, encourage, contribute to, or support the infringement of Altera's trademark, trade secret, copyright, and patent rights or the breach of the Altera Program License Agreement by Distributor's customers or other third parties.
+ 
+11.7
+Patent Indemnity
+.
+ 
+(a) Altera shall defend any suit, proceeding, or claim of infringement asserted against Distributor insofar as such suit, proceeding, or claim of infringement alleges that any Product manufactured and supplied by Altera to Distributor infringes any duly issued patent, and Altera shall pay all damages and costs finally awarded therein against Distributor, provided that Altera promptly is informed and furnished a copy of each communication, notice or other action relating to the alleged infringement and is given authority, information, and assistance (at Altera's expense) necessary to defend or settle said suit or proceeding. Altera shall have the absolute right to control the defense and settlement of any infringement suit or proceeding for which Distributor seeks indemnification under this subparagraph. Altera shall not be obligated to defend or be liable for costs and damages if the infringement arises out of (1) Products that are manufactured by Altera in accordance with Distributor's specifications, or (2) the Products being combined with or added to another product, or (3) the Products being modified after delivery to Distributor by Altera, or (4) from use of the Products, or any part thereof, in the practice of a process. Altera's obligations hereunder shall not apply to any infringement occurring after Distributor has received notice of such suit or proceeding alleging the infringement unless Altera has given written permission for such use by Distributor.
+ 
+(b) If any Products manufactured and supplied by Altera to Distributor shall be held to infringe any United States patent and Distributor shall be enjoined from using the same, Altera will at its option and at its expense (1) procure for Distributor the right to use such Products free of any liability for patent infringement, or (2) replace such Products with non-infringing substitute Products, or (3) refund the purchase price of such Products.
+ 
+(c) If the infringement by Distributor is alleged prior to Altera's completion of delivery of the Products, Altera may decline to make further shipments without being in breach of this Agreement.
+ 
+(d) If any suit, proceeding, or claim of infringement is asserted against Altera based on a claim that the goods manufactured by Altera in compliance with Distributor's specifications and supplied to Distributor directly infringe any duly issued United States patent, then Distributor shall indemnify Altera to the same extent as specified in subparagraph 11.7(a) of this Agreement. However, Distributor shall not be obligated to indemnify Altera for specifications developed solely by Distributor's end customer.
+ 
+(e)
+THE FOREGOING STATES THE SOLE AND EXCLUSIVE LIABILITY OF THE PARTIES HERETO FOR PATENT INFRINGEMENT AND IS IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, IN REGARD THERETO.
+ 
+12.  
+SOFTWARE LICENSE.
+Altera grants and Distributor accepts a non-exclusive license to use and sublicense Altera Software Products and other copyrighted materials, including but not limited to printed materials, on the following terms (the License):
+ 
+12.1 The Software Products covered by this Agreement are confidential and proprietary to Altera and its licensors, and Altera and its licensors retain all title, copyright, patent and other proprietary rights to the Software Products and all copies thereof.
+ 
+12.2 Distributor may sublicense Altera Software Products to its customers for use according to the terms of Altera's end user license agreement, which is included with the Software Products. Any sublicense granted to Distributor's customers must be made subject to the terms of the Altera Program License Agreement. Any attempt by Distributor to sublicense Altera Software Products in contravention of this Agreement shall be null and void.
+ 
+12.3 Distributor may use Altera Software Products to perform demonstrations of the use of Altera Products, or to train sales people in the use of Altera Products, or to train customers in the use of Altera Products.
+ 
+ 
+ 
+12.4 Distributor may use Altera Software Products to program other Altera Products for Distributor's customers. Distributor may not use Altera Software Products to program non-Altera Products.
+ 
+12.5 Distributor may use a single copy of any Software Product only on a single computer or on a single network of workstations.
+ 
+12.6 Distributor may make one copy of any Software Product that it has installed on a single computer or single network of workstations at Distributor's place of business in any computer-
+readable or printed form for back-up or archival purposes only and subject to the terms of this Paragraph 12.
+ 
+12.7 Distributor agrees not to disassemble, decompile, or otherwise reverse engineer any Altera Software Product, nor may it make any copy thereof or apply any techniques to derive the trade secrets embodied therein, except as explicitly permitted by the national legislation implementing the EC Council Directive of 14 May 1991 on the legal protection of computer programs. In particular, Distributor agrees that it shall not be entitled for any purpose to transmit any Software Product or to display any Software Product's object code on any computer screen or to make any hard copy memory dumps of any Software Product's object code. If Distributor believes it requires information related to the interoperability of any of Altera Software Products with other programs, Distributor shall not decompile or otherwise reverse engineer any of Altera Software Products to obtain such information, and Distributor agrees to request such information from Altera. Upon receiving such a request from Distributor, Altera shall reasonably determine whether Distributor requires such information for a legitimate purpose, and if so, Altera will provide such information to Distributor within a reasonable time and on reasonable conditions. Other than as explicitly permitted above, Distributor agrees that it will not apply any techniques to ascertain trade secret information about any of the Products. Distributor shall make any sublicense to Distributor's customers subject to this subparagraph.
+ 
+12.8 Distributor agrees that it will not open any sealed Altera Software Products that are intended for sublicensing, nor will it sublicense any unsealed Altera Software Products. Distributor will not transfer, sublicense, or give away any copy of an Altera Software Product that was previously installed on any computer or single network of workstations at Distributor's place of business.
+ 
+12.9 The terms of this License shall govern with respect to Distributor's use of Altera Software products in the event that any such terms are inconsistent with or omitted from the Altera Program License Agreement.
+ 
+13.  
+ASSIGNMENT
+    
+This Agreement shall not be assignable by either party without the prior written approval of the other party. Except in the case of a corporate reorganization, a change in the persons or entities who control fifty percent (50%) or more of the equity securities or voting interest of a party shall be considered an assignment of rights.
+ 
+14.  
+TERM AND TERMINATION
+ 
+14.1
+Term
+. This Agreement shall be in force until terminated in accordance with subparagraph 14.2 or 14.3 of this Agreement.
+ 
+14.2
+Termination With Notice
+. At any time, either party may terminate this Agreement without cause upon providing the other party with ninety (90) days prior written notice.
+ 
+14.3
+Termination For Cause
+. The Agreement may be terminated without notice under the following circumstances:
+        
+(a) If either party is or becomes insolvent or admits its inability to pay its debts as they become due, or makes an assignment for the benefit of creditors, or if there are initiated by or against either party proceedings in bankruptcy or under insolvency laws or for reorganization, receivership or dissolution, or if either party ceases to conduct its operations in the normal course of business, the other party shall have the right to terminate this Agreement effective immediately upon giving notice.
+ 
+(b) Except in the case of a public offering of the equity securities of either party, if a party shall have a greater than fifty percent (50%) change in ownership, the other party shall have the right to terminate this Agreement with thirty (30) days notice.
+ 
+ 
+ 
+(c) If either party is in breach hereof and does not cure same within thirty (30) days of notice hereof.
+ 
+14.4
+Waiver of Damages in Event of Termination
+. The right of termination, as provided herein, is absolute. Both Altera and Distributor have considered the possibility of expenditures necessary in preparing for performance of this Agreement and the possible losses and damage incident to each in the event of termination, and it is understood that neither party shall be liable to the other for damages in any form by reason of the termination of this Agreement at any time, other than as expressively provided in this Agreement.
+ 
+14.5
+Procedures Upon Termination
+.
+ 
+(a)
+Unfilled Orders
+. Upon termination of this Agreement, Altera may, at its option, cancel any or all unfilled orders that were previously accepted by Altera pursuant to subparagraph 5.2. Except in those circumstances governed by subparagraph 5.6 of the Agreement, Altera agrees not to cancel orders which are for Products intended for resale pursuant to firm orders (1) that have been placed by a specific customer with Distributor and are scheduled for delivery within ninety (90) days of the date
+that notice of termination is given and (2) that Distributor, from among its locations, does not have inventory stock to complete. Distributor shall notify Altera in writing of such firm orders within thirty (30) days of the date that notice of termination is given.
+ 
+(b)
+Promotion
+. Upon termination of this Agreement, Distributor agrees to discontinue immediately all activities as an Altera Distributor including, without limitation, all use of the Trademarks and all advertising of or reference to Altera Products, except as permitted pursuant to the disposition of inventory of Products pursuant to subparagraph 14.5(c).
+ 
+(c)
+Disposition of Inventory
+. In the event Altera terminates this Agreement without cause pursuant to subparagraph 14.2 or Distributor terminates on the grounds that Altera has breached the Agreement, Altera will repurchase from Distributor at Distributor's option any or all unsold non-discontinued and non-obsolete Products in Distributor's inventory at the price paid by Distributor. Products returned under this provision are subject to subparagraph 9.1. In the event Distributor terminates this Agreement without cause or Altera terminates with cause pursuant to subparagraph 14.3 above, Altera may, at its option, repurchase from Distributor any or all unsold Altera Products in Distributor's inventory at the same price as set forth in the sentence immediately preceding. The party terminating this Agreement shall pay all transportation charges for Products returned to Altera.
+ 
+15.  
+LIMITATION OF LIABILITY AND INDEMNIFICATION
+ 
+In no event shall either party be liable to the other party for indirect, special, incidental, or consequential damages as a result of any claim or liability relating to or arising out of this Agreement. Each party shall indemnify the other party for any claims asserted by any third party arising out of or relating to the indemnifying party's breach of this Agreement, negligence, or wrongful conduct.
+    
+16.  
+RELATIONSHIP OF THE PARTIES
+ 
+It is expressly understood and agreed that the relationship between Altera and Distributor under this Agreement is solely that of seller and buyer. Distributor is an independent contractor and is in no way Altera's legal representative or agent. Distributor has no authority to assume or create any obligation on behalf of Altera, express or implied, with respect to Products or otherwise. Nothing contained in this Agreement shall be construed as a limitation or restriction upon Altera in the sale or other disposition of any Product to any person, firm or corporation or in any territory or country.
+ 
+17.  
+WAIVER OF JURY TRIAL AND GOVERNING LAW
+ 
+17.1
+Waiver of Jury Trial
+: Each party also hereby irrevocably waives, and agrees not to seek, any right to a jury trial in any action arising out of or otherwise relating to this Agreement.
+ 
+17.2
+Governing Law & Forum
+: All disputes, controversies, and claims shall be decided under the laws of the State of California, USA (including the substantive and procedural laws of the State of California), as those laws are applied to agreements entered into and to be performed entirely within California by California residents, excluding any choice of law rules. Any action or proceeding arising out of or relating to this Agreement shall be brought in the United States District Court for the Northern District of California (or, if such court lacks jurisdiction, the courts of the State of California, Santa Clara County) and each party hereby submits to the exclusive jurisdiction and venue of any such court in any such action or proceeding.
+ 
+ 
+ 
+18.  
+WAIVER
+ 
+Either party's failure to enforce at any time any of the provisions of this Agreement, or any right with respect thereto, or to exercise any option herein provided, shall in no way be construed to be a waiver of such provisions, rights or options or in any way affect the validity of this Agreement. Either party's exercise of any of its rights hereunder or of any options hereunder under the terms or covenants herein shall not preclude or prejudice either party from thereafter exercising the same or any other right it may have under this Agreement, irrespective of any previous action or proceeding taken by either party.
+ 
+19.  
+NOTICE
+ 
+All notices required by this Agreement shall be sufficiently given and effective upon receipt. Notices should be addressed to the attention of the Distributor at its principal place of business, as listed above, to the attention of General Counsel, with a concurrent copy to SVP, Marketing & Asset Management, 7459 S. Lima St., Building 2, Englewood, CO 80112, or to Altera Corporation, attention Sr. VP of WW Sales, 101 Innovation Drive, San Jose, California 95134, with a concurrent copy to Attn: General Counsel, at the same address, or to such other place or places as the parties hereto may designate in writing. If notice is given in any other manner, it shall be effective when received.
+ 
+20.  
+CAPTIONS
+ 
+The captions of the paragraphs herein are intended for convenience only, and the same shall not be determined to be interpretive of the content of such paragraph.
+ 
+21.  
+SEVERABLITY
+ 
+If any provision, or part of a provision of this Agreement is invalidated by operation of law or otherwise, the provision or part will to that extent be deemed omitted and the remainder of this Agreement will remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby are not affected in any manner adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the fullest extent possible.
+ 
+22.  
+FORCE MAJEURE
+ 
+If the performance or observance of this Agreement or of any obligation herein is prevented or delayed by reason of an act of God, civil commotion, storm, fire, riots, strikes, legal moratorium, war, revolution or action by government, the party so affected shall, upon prompt notice of such cause being given to the other party, be excused from such performance or observance to the extent of such prevention or during the period of such delay, provided that the party so affected shall use its reasonable efforts to avoid or remove the cause or causes of non-performance and observance.
+ 
+23.  
+COMPLETE AGREEMENT
+ 
+This Agreement supersedes and cancels any previous understanding or agreements, whether written or oral, between the parties relating to the subject matter hereof. It expresses the complete and final understanding with respect to the subject matter hereof and may not be changed in any way except by an instrument in writing signed by authorized representatives of both parties.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Signatures Follow]
+ 
+    
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives and to become effective as of the day and year first written above.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

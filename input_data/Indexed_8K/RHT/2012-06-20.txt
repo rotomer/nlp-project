@@ -1,0 +1,80 @@
+FILE:RHT/RHT-8K-20120620160524.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of report (Date of earliest event reported): June 20, 2012
+(State or Other Jurisdiction of Incorporation)
+Red Hat, Inc.
+(Exact Name of Registrant as Specified in Its Charter)
+Delaware
+(919) 754-3700
+(
+Registrants Telephone Number, Including Area Code)
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see
+ General Instruction A.2. below):
+ - 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ - 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ - 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ - 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02.          Results of Operations and Financial Condition
+         On June 20, 2012, Red Hat, Inc. announced the financial results for its first fiscal quarter ended May 31, 2012. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K.  We disclosed non-GAAP financial information in the press release for the three months ended May 31, 2012 and May 31, 2011. These non-GAAP disclosures include a reconciliation of GAAP net income to non-GAAP adjusted net income based on:
+  the impact of non-cash share-based compensation expense under FASB ASC Section 718 Compensation-Stock Compensation (formerly referenced as Statement of Financial Accounting Standards No. 123 (Revised 2004), Share-Based Payment) ("ASC 718");
+  the impact of expense associated with the amortization of intangible assets primarily related to business combinations; and
+  the impact of a charge recorded in connection with subleasing and exiting one of the Companys facilities located in Raleigh, NC (the Facility Exit) .
+These non-GAAP disclosures should not be used as a substitute for our GAAP results, but rather read in conjunction with our GAAP results. The non-GAAP financial measures we disclosed and the methods we used to calculate non-GAAP results are not in accordance with GAAP and may be materially different from the non-GAAP measures and methods used by other companies.
+             We excluded GAAP share-based compensation expense for the purpose of calculating non-GAAP adjusted net income and non-GAAP adjusted net income per share because it is a non-cash expense that may vary from period to period due to changes in the price of our common stock that may not be directly related to our operating performance during the period in which the expense is recognized, and management believes that by excluding such expense we provide an alternative and useful measure of operating performance.  Management also believes that non-GAAP measures of profitability that exclude share-based compensation expense are used by a number of financial analysts in the software industry to compare current performance to prior periods and to forecast future performance.  Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP non-cash, share-based compensation expense of $22.2 million and $16.2 million for the three months ended May 31, 2012, and May 31, 2011, respectively, versus the non-GAAP exclusion of such expense.
+Amortization expense related to intangible assets results primarily from business combinations.  These costs are fixed in connection with an acquisition, are then amortized over a number of years after the acquisition and generally cannot be changed or influenced by management after the acquisition.  Accordingly, management generally does not consider such costs for the purpose of evaluating the performance of the business or its managers or when making decisions to allocate resources.  Management also believes that non-GAAP measures of profitability that exclude amortization expense related to intangible assets are used by a number of  financial analysts in the software industry to compare current performance to prior periods and to forecast future performance.  Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP non-cash amortization expense of $4.8 million and $4.9 million for the three months ended May 31, 2012, and May 31, 2011, respectively, versus the non-GAAP exclusion of such expense.
+We also excluded GAAP expense relating to a charge we recorded in connection with the Facility Exit.  Our reconciliation of GAAP net income to non-GAAP adjusted net income includes GAAP expense of $3.1 million for the three months ended May 31, 2012.
+Management believes that these adjusted non-GAAP results, when read in conjunction with the GAAP results, offer a useful view of our business performance in that they provide a more consistent means of comparing performance to prior periods in light of potential variations in the amount of expense for share-based awards recognized from period to period due to changes in the price of our common stock,  the irregularity with which management acquires intangible assets and the non-recurring nature of the expense we recognized in connection with the Facility Exit. Management also uses non-GAAP measures as a component of its regular internal reporting to evaluate performance of the business and compare it to prior performance, to make operating decisions, including internal budgeting and the calculation of incentive compensation, and to forecast future performance. Our disclosure of non-GAAP financial measures allows investors to evaluate the Company's performance using information used by management.
+         The information furnished pursuant to Item 2.02 of this Form 8-K, including Exhibit 99.1 referenced herein, shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act") or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing.
+Item 9.01.          Financial Statements and Exhibits
+           (d)      Exhibits
+                     99.1     Press Release dated June 20, 2012
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+EXHIBIT INDEX
+
+Exhibit 99.1
+Red Hat Reports First Quarter Results
+First quarter revenue of $315 million, up 19% year-over-year
+First quarter GAAP EPS of $0.19, up 12% year-over-year; non-GAAP EPS of $0.30, up 25% year-over-year
+First quarter operating cash flow of $124 million, up 38% year-over-year
+RALEIGH, N.C.--(BUSINESS WIRE)--June 20, 2012--Red Hat, Inc. (NYSE: RHT), the world's leading provider of open source solutions, today announced financial results for its fiscal year 2013 first quarter ended May 31, 2012.
+Total revenue for the quarter was $314.7 million, an increase of 19% from the year ago quarter. Subscription revenue for the quarter was $272.6 million, up 21% year-over-year.
+Our first quarter results represented a strong start to our fiscal 2013. Red Hats compelling value proposition and innovative, open source technologies continued to drive our financial success and market share gains. stated Jim Whitehurst, President and Chief Executive Officer of Red Hat.
+GAAP operating income for the first quarter was $50.9 million, or 16.2% operating margin. After adjusting for stock compensation, amortization expenses and certain facility exit costs, as detailed in the tables below, non-GAAP operating income for the first quarter was $81.1 million, up 22% year-over-year. Non-GAAP operating margin was 25.8%, up 70 basis points from the year ago quarter.
+Net income for the quarter was $37.5 million, or $0.19 per diluted share, compared with $32.5 million, or $0.17 per diluted share, in the year ago quarter. After adjusting for stock compensation, amortization expenses and certain facility exit costs, as detailed in the tables below, non-GAAP net income for the quarter was $58.0 million, or $0.30 per diluted share, as compared to $47.0 million, or $0.24 per diluted share, in the year ago quarter.
+Operating cash flow was $124.4 million for the first quarter, as compared to $90.2 million in the year ago quarter. At quarter end, the companys total deferred revenue balance was $913.3 million, an increase of 16% on a year-over-year basis. Total cash, cash equivalents and investments as of May 31, 2012 was $1.3 billion after repurchasing approximately $30 million, or approximately 550,000 shares, of common stock in the first quarter.
+Red Hat continues to display an attractive combination of scale, revenue growth, profitability and cash flow. This type of performance has led to Red Hats inclusion among the highest growth technology companies in the 2012 , stated Charlie Peters, Executive Vice President and Chief Financial Officer of Red Hat. In Q1, we delivered non-GAAP operating income growth of 22% while continuing to invest in important growth initiatives in markets such as virtualization, cloud computing and storage.
+Forbes Fast Tech 25
+Additional information on Red Hat's reported results, including a reconciliation of the non-GAAP adjusted results, are included in the financial tables below. A live webcast of Red Hat's results will begin at 5:00 pm ET today and can be accessed by the general public at Red Hat's investor relations website at . A replay of the webcast will be available shortly after the live event has ended.
+http://investors.redhat.com
+About Red Hat, Inc.
+Red Hat is the world's leading provider of open source software solutions, taking a community-powered approach to reliable and high-performing cloud, Linux, middleware, storage and virtualization technologies. Red Hat also offers award-winning support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT. Learn more at .
+http://www.redhat.com
+Forward-Looking Statements
+Certain statements contained in this press release may constitute "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: risks related to delays or reductions in information technology spending; the effects of industry consolidation; the ability of the Company to compete effectively; uncertainty and adverse results in litigation and related settlements; the integration of acquisitions and the ability to market successfully acquired technologies and products; the inability to adequately protect Company intellectual property and the potential for infringement or breach of license claims of or relating to third party intellectual property; the ability to deliver and stimulate demand for new products and technological innovations on a timely basis; risks related to data and information security vulnerabilities; ineffective management of, and control over, the Company's growth and international operations; fluctuations in exchange rates; and changes in and a dependence on key personnel, as well as other factors contained in our most recent Annual Report on Form 10-K (copies of which may be accessed through the Securities and Exchange Commission's website at ), including those found therein under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations". In addition to these factors, actual future performance, outcomes, and results may differ materially because of more general factors including (without limitation) general industry and market conditions and growth rates, economic and political conditions, governmental and public policy changes and the impact of natural disasters such as earthquakes and floods. The forward-looking statements included in this press release represent the Company's views as of the date of this press release and these views could change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date of this press release.
+http://www.sec.gov
+Red Hat and JBoss are trademarks of Red Hat, Inc., registered in the U.S. and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other countries
+CONTACT: SpeakerBox John Terrill, 703-287-7825 or Red Hat Inc. Tom McCallum, 919-754-4630
+Media Contact:
+Jterrill@speakerboxpr.com
+Investor Relations:
+tmccallum@redhat.com
+
+

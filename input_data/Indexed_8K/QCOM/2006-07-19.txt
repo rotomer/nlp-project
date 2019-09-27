@@ -1,0 +1,135 @@
+FILE:QCOM/QCOM-8K-20060719160853.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+ 
+Item 2.02. Results of Operations and Financial Condition
+     On July 19, 2006, QUALCOMM Incorporated (the "Company") issued a press release regarding the Company's financial results for its third quarter ended June 25, 2006. The full text of the Company's press release is attached hereto as Exhibit 99.1.
+     The attached press release presents pro forma financial information that is used by management (i) to evaluate, assess and benchmark the Company's operating results on a consistent and comparable basis, (ii) to measure the performance and efficiency of the Company's ongoing core operating businesses, including the QUALCOMM CDMA Technologies, QUALCOMM Technology Licensing and QUALCOMM Wireless & Internet segments, and (iii) to compare the performance and efficiency of these segments against each other and against competitors outside the Company. Pro forma measurements of the following financial data are used by the Company's management: revenues, R&D expenses, SG&A expenses, total operating expenses, operating income, net investment income, income before income taxes, effective tax rate, net income, diluted earnings per share, operating cash flow and free cash flow.
+     The attached press release presents pro forma information used by management excluding the QUALCOMM Strategic Initiatives (QSI) segment, estimated share-based compensation, certain tax benefits related to prior years and acquired in-process R&D expense. The QSI segment is excluded because the Company expects to exit its strategic investments at various times and the effects of fluctuations in the value of such investments are viewed by management as unrelated to the Company's operational performance. Estimated share-based compensation is excluded because management views the valuation of options and other share-based compensation as theoretical and unrelated to the Company's operational performance as it is affected by factors that are subject to change on each grant date including the Company's stock price, stock market volatility, expected option life, risk-free interest rates and expected dividend payouts in future years. Moreover, it is not an expense that requires or will require cash payment by the Company. Certain tax benefits related to prior years are excluded in order to provide a clearer understanding of the Company's ongoing tax rate and after tax earnings. Acquired in-process R&D expense in fiscal 2006 is excluded because such expense is incurred infrequently and is viewed by management as unrelated to the operating activities of the Company's ongoing core businesses.
+     Management is able to assess what it believes is a more meaningful and comparable set of financial performance measures for the Company and its business segments by eliminating the episodic impact of strategic investments in QSI and items such as acquired in-process R&D, as well as the inherent, non-operational volatility of share-based compensation. As a result, management compensation decisions and the review of executive compensation by the Compensation Committee of the Board of Directors focus primarily on pro forma financial measures applicable to the Company and its business segments.
+     The attached press release presents pro forma cash flow information including marketable securities. The Company's management uses pro forma cash flow information including marketable securities to analyze increases and decreases in certain of its liquid assets, comprised of cash, cash equivalents and marketable securities. Management views certain marketable securities as liquid assets available on short notice to fund operations, acquisitions, strategic initiatives, stock repurchases and dividends even though these marketable securities do not meet the definition of cash equivalents in accordance with Statement of Financial Accounting Standards No. 95, "Statement of Cash Flows." The statements of cash flows reported under Generally Accepted Accounting Principles (GAAP) present the purchases and sales of marketable securities as inflows and outflows. For internal analysis of the Company's cash position, management does not view these transactions as inflows and outflows from the business, but as cash management transactions. The Company believes that this non-GAAP presentation is a helpful and practical measure of the Company's liquidity.
+ 
+     The attached press release presents free cash flow, defined as net cash provided by operating activities less capital expenditures. The Company's management uses free cash flow to facilitate an understanding of the amount of cash flow generated that is available to grow its business and to create long-term shareholder value. The Company believes that this presentation is useful in evaluating its operating performance and financial strength. In addition, management uses this measure to value the Company and to compare its operating performance with other companies in the industry.
+     The non-GAAP pro forma financial information presented in the attached press release should be considered in addition to, not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. In addition, pro forma is not a term defined by GAAP, and, as a result, the Company's measure of pro forma results might be different than similarly titled measures used by other companies. Reconciliations between total QUALCOMM (GAAP) results and QUALCOMM pro forma results and total QUALCOMM (GAAP) cash flow and QUALCOMM pro forma changes in cash, cash equivalents and marketable securities are presented in the attached press release.
+Item 9.01. Exhibits.
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+ 
+EXHIBIT 99.1
+FOR IMMEDIATE RELEASE
+QUALCOMM Contact: Bill Davidson Vice President, Investor Relations 1-(858) 658-4813 (ph) 1-(858)651-9303(fax) e-mail:
+ir@qualcomm.com
+SAN DIEGO  July 19, 2006  QUALCOMM Incorporated (NASDAQ: QCOM) today announced results for the third fiscal quarter ended June 25, 2006.
+Total QUALCOMM (GAAP) Third Quarter Results:
+Total QUALCOMM results are reported in accordance with Generally Accepted Accounting Principles (GAAP).
+QUALCOMM Pro Forma Third Quarter Results:
+Pro forma results exclude the QUALCOMM Strategic Initiatives (QSI) segment, estimated share-based compensation, tax benefits related to prior years and acquired in-process research and development (R&D) expense.
+ 
+Detailed reconciliations between total QUALCOMM (GAAP) results and QUALCOMM pro forma results and cash flows are included at the end of this news release. Prior period reconciliations are presented on our Investor Relations web page at
+www.qualcomm.com.
+"Our results this quarter were driven by continued customer demand for our broadly segmented chipsets with particular strength in 1xEV-DO and WCDMA," said Dr. Paul E. Jacobs, chief executive officer of QUALCOMM. "WCDMA handset shipments continue to increase and WCDMA Mobile Station Modem (MSM) unit shipments increased 24 percent from the March quarter."
+"We shipped a record number of cell site modem voice-equivalent channel elements in the quarter, which was primarily driven by demand for our EV-DO Rev A CSM6800 solution. Several operators, including KDDI, Sprint Nextel, Telecom New Zealand and Verizon have announced plans to upgrade their CDMA networks to EV-DO Rev A technology as early as this calendar year. CDMA subscribers and enterprise customers worldwide will soon benefit from the unmatched broadband performance of EV-DO Rev A. In addition, voice over internet protocol (VoIP) on EV-DO Rev A will enable in-band migration to fully packet-based networks and ultimately to much higher data rates via EV-DO Rev B multi-carrier operation. We are currently developing VoIP capabilities and data rate enhancement techniques for WCDMA/HSPA networks as well."
+"This quarter also demonstrated QUALCOMM's continued focus on enhancing stockholder value. Our balance sheet strength and unique business model provide significant financial flexibility to increase cash dividends and repurchase shares while we continue to grow our R&D investments for the many business opportunities we see ahead."
+ 
+Cash and Marketable Securities
+QUALCOMM's cash, cash equivalents and marketable securities totaled approximately $9.5 billion at the end of the third quarter of fiscal 2006, compared to $10.2 billion at the end of the prior quarter and $7.9 billion a year ago. The decrease from the prior quarter was primarily attributable to stock repurchases in the third quarter. We also sold four put options in connection with our stock repurchase program which, if exercised, will require us to repurchase an additional 4 million shares of our common stock for $182 million, net of premiums received. On July 7, 2006, we announced a cash dividend of $0.12 per common share payable on September 22, 2006 to stockholders of record at the close of business on August 25, 2006.
+Estimated Share-Based Compensation
+In the first quarter of fiscal 2006, we adopted the revised Statement of Financial Accounting Standards No. 123, Share-Based Payment (FAS 123R), which requires that share-based compensation be recorded in our financial statements. We implemented FAS 123R using the modified prospective method. Under this method, prior periods are not revised for comparative purposes. Estimated share-based compensation is included in operating expenses, however, it is not allocated to business segments or included in pro forma results because we do not consider it relevant when evaluating the operating performance of our business. Total QUALCOMM (GAAP) net income for the third quarter of fiscal 2006 included estimated share-based compensation of $83 million, net of tax, or $0.05 per share.
+Research and Development
+Pro forma R&D expenses increased 31 percent year-over-year, primarily due to additional engineering resources for the development of integrated circuit products and other initiatives to support low-cost phones, multimedia applications, high-speed wireless Internet access and multimode, multiband, multinetwork products and technologies, including CDMA2000, 1xEV-DO, EV-DO Rev. A, WCDMA (including GSM/GPRS/EDGE), HSDPA, HSUPA and OFDMA, and the development of our iMoD display products using MEMS technology. QSI R&D expenses increased year-over-year primarily due to increased R&D activities related to MediaFLO USA.
+ 
+Selling, General and Administrative
+Pro forma selling, general and administrative (SG&A) expenses increased 42 percent year-over-year, largely attributable to increases in employee related expenses to support our growing worldwide customer base and professional fees related to legal activities. The year-over-year increase in QSI SG&A expenses is primarily related to MediaFLO USA and the effect of other income in the prior year's quarter.
+Effective Income Tax Rate
+Our fiscal 2006 estimated annual effective income tax rates and our third quarter effective income tax rates are approximately 22 percent for total QUALCOMM (GAAP) and 26 percent for QUALCOMM pro forma.
+QUALCOMM Strategic Initiatives
+The QSI segment includes our strategic investments, including our MediaFLO USA subsidiary, and related income and expenses. Total QUALCOMM (GAAP) results for the third quarter of fiscal 2006 included break-even results for the QSI segment compared to $0.05 diluted earnings per share in the third quarter of fiscal 2005. The third quarter of fiscal 2006 QSI results included $36 million in operating expenses, primarily related to MediaFLO USA, and $4 million in other-than-temporary losses on other investments, partially offset by $12 million in realized gains on investments. In addition to the tax benefit applicable to its loss before tax, the QSI segment includes the tax benefit resulting from an increase in the forecast of our ability to use capital loss carryforwards.
+ 
+Business Outlook
+The following statements are forward-looking and actual results may differ materially. Please see "Note Regarding Forward-Looking Statements" at the end of this news release for a description of certain risk factors and QUALCOMM's annual and quarterly reports on file with the Securities and Exchange Commission (SEC) for a more complete description of risks. Due to their nature, certain income and expense items, such as realized investment gains or losses in QSI, gains and losses on certain derivative instruments or asset impairments, cannot be accurately forecast. Accordingly, the Company excludes forecasts of such items from its business outlook, and actual results may vary materially from the business outlook if the Company incurs any such income or expense items.
+The following table summarizes total QUALCOMM (GAAP) and QUALCOMM pro forma guidance for the fourth quarter of fiscal 2006 based on the current business outlook. Total QUALCOMM (GAAP) guidance for the fourth fiscal quarter of 2006 includes approximately $0.05 diluted loss per share related to estimated share-based compensation. Estimated share-based compensation in future periods may vary materially from the business outlook as the methodology used to calculate this estimate is dependent on a variety of assumptions which are subject to market fluctuations and other factors. A pro forma business outlook is provided below consistent with the presentation of pro forma results provided elsewhere herein.
+ 
+The following estimates are approximations and are based on the current business outlook:
+FOURTH QUARTER
+FISCAL YEAR
+CALENDAR YEAR Handset Estimates
+Sums may not equal totals due to rounding
+ 
+(in millions, except per share data):
+Results of Business Segments
+Third Quarter  Fiscal Year 2006
+Second Quarter  Fiscal Year 2006
+Third Quarter  Fiscal Year 2005
+Fourth Quarter  Fiscal Year 2005
+Twelve Months  Fiscal Year 2005
+Nine Months  Fiscal Year 2006
+Nine Months  Fiscal Year 2005
+ 
+N/M  Not Meaningful
+Sums may not equal totals due to rounding.
+Business Segment Information
+QUALCOMM CDMA Technologies (QCT)
+ 
+QUALCOMM Technology Licensing (QTL)
+QUALCOMM Wireless & Internet Group (QWI)
+QUALCOMM Internet Services (QIS)
+ 
+QUALCOMM Wireless Business Solutions
+(QWBS)
+QUALCOMM Strategic Initiatives (QSI)
+Other
+ 
+Flarion Technologies, Inc., of which $197 million was recorded as goodwill with the remainder expected to be recorded as share-based compensation over the vesting periods of the related options.
+Conference Call
+QUALCOMM's third quarter fiscal 2006 earnings conference call will be broadcast live on July 19, 2006 beginning at 1:45 p.m. Pacific Daylight Time on the Company's web site at: This conference call may contain forward-looking financial information. The conference call will include a discussion of "non-GAAP financial measures" as that term is defined in Regulation G. The most directly comparable GAAP financial measures and information reconciling these non-GAAP financial measures to the Company's financial results prepared in accordance with GAAP, as well as the other material financial and statistical information to be discussed in the conference call, will be posted on the Company's Investor Relations web site at immediately prior to commencement of the call. A taped audio replay will be available via telephone on July 19, 2006 beginning at approximately 5:30 p.m. (PDT) through August 2, 2006 at 5:30 p.m. (PDT). To listen to the replay, U.S. callers may dial (800) 642-1687 and international callers may dial (706) 645-9291. U.S. and international callers should use reservation number 7439642. An audio replay of the conference call will be available on the Company's web site at for two weeks following the live call.
+www.qualcomm.com.
+www.qualcomm.com
+www.qualcomm.com
+Editor's Note: If you would like additional information on QUALCOMM, please view the QUALCOMM press room at .
+http://www.qualcomm.com/press/index.html
+QUALCOMM Incorporated () is a leader in developing and delivering innovative digital wireless communications products and services based on CDMA and other advanced technologies. Headquartered in San Diego, Calif., QUALCOMM is included in the S&P 500 Index and is a 2006 FORTUNE 500 company traded on The Nasdaq Stock Market under the ticker symbol QCOM.
+www.qualcomm.com
+Note Regarding Use of Non-GAAP Financial Measures
+The Company presents pro forma financial information that is used by management (i) to evaluate, assess and benchmark the Company's operating results on a consistent and comparable basis, (ii)
+ 
+to measure the performance and efficiency of the Company's ongoing core operating businesses, including the QUALCOMM CDMA Technologies, QUALCOMM Technology Licensing and QUALCOMM Wireless & Internet segments, and (iii) to compare the performance and efficiency of these segments against each other and against competitors outside the Company. Pro forma measurements of the following financial data are used by the Company's management: revenues, R&D expenses, SG&A expenses, total operating expenses, operating income, net investment income, income before income taxes, effective tax rate, net income, diluted earnings per share, operating cash flow and free cash flow.
+Pro forma information used by management excludes the QUALCOMM Strategic Initiatives (QSI) segment, estimated share-based compensation, certain tax benefits related to prior years and acquired in-process R&D expense. The QSI segment is excluded because the Company expects to exit its strategic investments at various times and the effects of fluctuations in the value of such investments are viewed by management as unrelated to the Company's operational performance. Estimated share-based compensation is excluded because management views the valuation of options and other share-based compensation as theoretical and unrelated to the Company's operational performance as it is affected by factors that are subject to change on each grant date including the Company's stock price, stock market volatility, expected option life, risk-free interest rates and expected dividend payouts in future years. Moreover, it is not an expense that requires or will require cash payment by the Company. Certain tax benefits related to prior years are excluded in order to provide a clearer understanding of the Company's ongoing tax rate and after tax earnings. Acquired in-process R&D expense in fiscal 2006 is excluded because such expense is incurred infrequently and is viewed by management as unrelated to the operating activities of the Company's ongoing core businesses.
+Management is able to assess what it believes is a more meaningful and comparable set of financial performance measures for the Company and its business segments by eliminating the episodic impact of strategic investments in QSI and items such as acquired in-process R&D, as well as the inherent, non-operational volatility of share-based compensation. As a result, management compensation decisions and the review of executive compensation by the Compensation Committee of the Board of Directors focus primarily on pro forma financial measures applicable to the Company and its business segments.
+ 
+The Company's management uses pro forma cash flow information including marketable securities to analyze increases and decreases in certain of its liquid assets, comprised of cash, cash equivalents and marketable securities. Management views certain marketable securities as liquid assets available on short notice to fund operations, acquisitions, strategic initiatives, stock repurchases and dividends even though these marketable securities do not meet the definition of cash equivalents in accordance with Statement of Financial Accounting Standards No. 95, "Statement of Cash Flows." The GAAP statements of cash flows present the purchases and sales of marketable securities as inflows and outflows. For internal analysis of the Company's cash position, management does not view these transactions as inflows and outflows from the business, but as cash management transactions. The Company believes that this non-GAAP presentation is a helpful and practical measure of the Company's liquidity.
+The Company presents free cash flow, defined as net cash provided by operating activities less capital expenditures, to facilitate an understanding of the amount of cash flow generated that is available to grow its business and to create long-term shareholder value. The Company believes that this presentation is useful in evaluating its operating performance and financial strength. In addition, management uses this measure to value the Company and to compare its operating performance with other companies in the industry.
+The non-GAAP pro forma financial information presented herein should be considered in addition to, not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. In addition, pro forma is not a term defined by GAAP, and, as a result, the Company's measure of pro forma results might be different than similarly titled measures used by other companies. Reconciliations between total QUALCOMM (GAAP) results and QUALCOMM pro forma results and total QUALCOMM (GAAP) cash flow and QUALCOMM pro forma changes in cash, cash equivalents and marketable securities are presented herein.
+Note Regarding Forward-Looking Statements
+In addition to the historical information contained herein, this news release contains forward-looking statements that are subject to risks and uncertainties. Actual results may differ substantially from those referred to herein due to a number of factors, including but not limited to risks associated with: the rate of development, deployment and commercial acceptance of CDMA-
+ 
+based networks and CDMA-based technology, including CDMA2000 1X, 1xEV-DO, WCDMA and HSDPA both domestically and internationally; our dependence on major customers and licensees; fluctuations in the demand for CDMA-based products, services or applications; foreign currency fluctuations; strategic loans, investments and transactions the Company has or may pursue; our dependence on third party manufacturers and suppliers; our ability to maintain and improve operational efficiencies and profitability; developments in current and future litigation; the development, deployment and commercial acceptance of the MediaFLO USA network and FLO technology; as well as the other risks detailed from time-to-time in the Company's SEC reports.
+ 2006 QUALCOMM Incorporated. All rights reserved. QUALCOMM is a registered trademark of QUALCOMM Incorporated. CDMA2000 is a registered trademark of the Telecommunications Industry Association. All other trademarks are the property of their respective owners.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

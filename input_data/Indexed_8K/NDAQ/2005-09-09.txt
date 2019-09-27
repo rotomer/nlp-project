@@ -1,0 +1,892 @@
+FILE:NDAQ/NDAQ-8K-20050909164149.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[  ]    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[  ]    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[  ]    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[  ]    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Table of Contents
+ 
+Table of Contents
+Item 1.01. Entry into a Material Definitive Agreement.
+ 
+On September 2, 2005, we executed the OTCBB and OTC Equities Revocation of Delegation and Asset Transfer and Services Agreement (the "Agreement") with the National Association of Securities Dealers, Inc. ("NASD") related to the OTC Bulletin Board, an electronic screen-based quotation service for securities that, among other things, are not listed on The Nasdaq Stock Market or any U.S. national securities exchange. Under the Agreement, Nasdaq will transfer responsibility for the OTC Bulletin Board back to NASD. This transfer, effective October 1, 2005, is designed to address concerns expressed by the Securities and Exchange Commission (the "SEC") regarding our continuing to operate the OTC Bulletin Board after our registration as a national securities exchange. Pursuant to the Agreement, we sold all assets of the OTC Bulletin Board solely related to its operations to NASD in consideration for NASD's agreement to outsource the operation of the OTC Bulletin Board to us for an initial two year period, subject to one year renewals upon mutual consent, and the waiver by NASD of certain regulatory fees related to our operation of the OTC Bulletin Board prior to the transfer. NASD will pay us $14.2 million in the first year and $14.7 million in the second year for our services under the Agreement, with payments in any subsequent periods to be subject to agreement among the parties. The obligations of the parties under the Agreement are contingent upon SEC approval of the Agreement. The transfer of the OTC Bulletin Board to NASD is not expected to have a material impact on our operations or the operations of the OTC Bulletin Board.
+ 
+Nasdaq is a subsidiary of NASD. A copy of the Agreement is filed as an exhibit to this Form 8-K and is incorporated herein by reference.
+ 
+ 
+Item 9.01. Financial Statements and Exhibits.
+ 
+(c) Exhibits.
+ 
+ 
+ 
+Table of Contents
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 1.01
+ 
+ 
+() is effective as of October 1
+THIS OTCBB and OTC EQUITIES TRANSFER AND SERVICES AGREEMENT
+Agreement
+st
+, 2005, ("Effective Date")(subject to Section 48 hereunder), by and between National Association of Securities Dealers, Inc. ("NASD"), a Delaware corporation having its principal place of business located at 1735 K Street, N.W., Washington, D.C. 20006, and The Nasdaq Stock Market, Inc. ("Nasdaq"), a Delaware corporation having its principal place of business located at One Liberty Plaza, New York, New York, 10006. Nasdaq and NASD may hereafter be referred to collectively as the "Parties."
+ 
+ 
+pursuant to the Plan Of Allocation and Delegation Of Functions by NASD to Subsidiaries ("Delegation Plan"), NASD previously delegated to Nasdaq the responsibility of operating the Over The Counter Bulletin Board ("OTCBB") and Over The Counter Equities ("OTC Equities") businesses (collectively the "Businesses" ); and
+WHEREAS,
+ 
+upon execution of this Agreement, the Parties will revoke the delegation of responsibility for operating the Businesses under the Delegation Plan and transfer certain assets of the Businesses as described in this Agreement; and
+WHEREAS,
+ 
+the Parties intend for NASD to outsource to Nasdaq the operation of the Businesses as they exist as of September 30, 2004, was executed or as further modified by Enhancements or mutual agreement of the parties, upon the terms set forth in this Agreement and
+WHEREAS,
+ 
+, the Parties further intend to provide for the ability of NASD or its designated agent to continue to operate the Businesses after expiration or termination of any outsourcing arrangements between the Parties related to the Businesses.
+WHEREAS
+ 
+the parties desire to set forth in writing the terms and conditions of their understanding and agreement of their respective responsibilities for the operation of the Businesses and the provision of other, related services.
+NOW, THEREFORE,
+ 
+ 
+In consideration of the mutual covenants and conditions set forth in this Agreement and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties agree as follows:
+ 
+The following initially capitalized words or phrases shall have the meanings set forth below when used in this Agreement:
+Section 1. Definitions.
+"Acceptance Testing" shall mean a series of tests to be conducted by NASD and Nasdaq or their agents of changes to the OTC Systems, including without limitation, Enhancements, new releases, modifications and Other Services agreed to by the parties to be performed by Nasdaq to evaluate whether the Enhancements, new releases, modifications and Other Services satisfy the functional, operational, and performance requirements set forth in the BRD or this Agreement. Acceptance Testing shall be performed within the time frames set forth in the applicable Project Plan as defined in the Statement of Procedures () attached hereto as Exhibit 1.a. A description of Acceptance Testing is contained in the SOP.
+Section 1.a. Acceptance Testing.
+"SOP"
+ 
+A "Build" shall mean a fully testable configuration of components that provides defined functionality for one specific portion of a computer application as mutually agreed upon by the parties. Enhancements, modifications, releases and Other Services as agreed by the parties will be developed through a series of interrelated Builds.
+Section 1.b. Build.
+ 
+The "Business Continuity Plan" ("BCP") is a document, which identifies procedures relating to an emergency or significant business disruption. Such procedures must be reasonably designed to enable the NASD to meet its obligations to customers, vendors, members or others and shall be developed in accordance with SEC guidance on BCPs. The BCP must, at a minimum, address: (1) data back-up and recovery (hard copy and electronic); (2) all mission critical systems; (3) financial and operational assessments; (4) alternate communications between employees, NASD, customers, vendors, members, others and the Businesses; (5) alternate communications among those employees of the Businesses (both Nasdaq's and NASD's if applicable) necessary to operate the BCP in accordance with the SEC guidance; (6) alternate physical location of Businesses' employees necessary to operate the Businesses in accordance with the BCP; (7) regulatory reporting; and (8) communications with regulators. A copy of the current version of the BCP is attached hereto at Exhibit 1.c.
+Section 1.c.
+Business Continuity Plan.
+ 
+The term "Business Requirements" shall mean the defined business purposes (including without limitation, functional, performance and operational elements) that the development and operation of the OTC Systems is meant to satisfy. A copy of the current Business Requirements are contained in the Business Requirements Documents ("") copies of which are attached hereto as Exhibit 1.d.
+Section 1.d. Business Requirements.
+BRD
+ 
+"Business Subsystems" shall mean those Systems, which are a subset of the OTC Systems, which relate to operation of the Businesses and which do not relate to the operation of other businesses or applications of Nasdaq. Business Subsystems along with any derivatives thereof or modifications thereto shall be owned by NASD.
+Section 1.e. Business Subsystems.
+"Change Procedures" shall have the meaning given to it in Exhibit 6.b.
+Section 1.f. Change Procedures.
+ 
+"Combined OTC Software" shall mean the Software (object and source code) licensed or developed by Nasdaq (or a contracted service provider) for functions related to the Businesses and which satisfies functionality for other Nasdaq businesses which is set forth in Exhibit 1.z., and which is also included in the BRD. Combined OTC Software shall be owned by Nasdaq.
+Section 1.g. Combined OTC Software.
+ 
+. "Commercially Reasonable" shall mean that a party will make such efforts as are reasonable in the light of the standards of the industry and of the other party's reasonable expectations, that meeting the standard of commercially reasonable does not and will not require a party to disregard its own interests. Meeting a standard of commercially reasonable may require a party to incur minor losses for the other party's sake but in no event will it require the party to imperil its own existence or to make a total effort to fulfill the obligation irrespective of all other considerations.
+Section 1.h. Commercially Reasonable
+provided, however,
+ 
+"Confidential Information" shall have the meaning given to it in Section 18.
+Section 1.i. Confidential Information.
+ 
+"Core Services" shall have the meaning given to it in Section 6.a.
+Section 1.j. Core Services.
+ 
+"Cure Period" shall have the meaning given to it in Section 15.a.
+Section 1.k. Cure Period.
+ 
+"Data" shall mean information that is collected, processed, distributed or stored by the OTC Systems pursuant or related to the operation of the Businesses either now or in the future including without limitation, all security and archival procedures associated with the storage, communication and protection of such information. Data shall also include databases that are used solely to support the Businesses and are not shared with other Nasdaq Systems. At the time of execution of this Agreement the following are examples of Data:
+Section 1.l. Data.
+ 
+ 
+ 
+ 
+ 
+ 
+"Delegation Plan" shall have the meaning set forth in the recitals of this Agreement. A copy of the Delegation Plan as amended for the purposes of this transaction is attached hereto at Exhibit 1.m.
+Section 1.m. Delegation Plan.
+ 
+"Development Testing" shall mean the series of development tests conducted by Nasdaq as set forth in detail in the SOP.
+Section 1.n. Development Testing.
+ 
+"Disaster Recovery Plan" or "DRP" shall mean that plan of contingency for the seamless failover of the operation of the Businesses to an alternative site or step-by-step procedures to get the Businesses up and operational at a backup site within a designated time in the event of a failure of the OTC Systems or the Business Subsystems. Currently the BCP attached at Exhibit 1.c. contains the DRP.
+Section 1.o. Disaster Recovery Plan.
+ 
+"Due Date" shall have the meaning given to it in Section 12.a.
+Section 1.p. Due Date.
+ 
+"Enhancements" shall mean any improvement, enhancement, addition or modification to and of the OTC Systems or any component(s) thereof, excluding those related solely to the maintenance of the OTC Systems which do not affect functionality.
+Section 1.q. Enhancements.
+ 
+"Fully Operational" shall mean the condition of the OTC Systems when performing all of their designated functions as more fully set forth in this Agreement, the TDD, OPM and the BRD and in accordance with the Minimum System Performance and Minimum Operational Standards.
+Section 1.r. Fully Operational.
+ 
+"Historical Data" shall mean information that was collected, processed, distributed or stored by or pursuant to the operation of the OTC Systems, or any predecessor thereof, pursuant to the operation of the Businesses prior to the Effective Date of this Agreement, including without limitation, all databases, security and archival procedures associated with the storage, communication, and protection of such information. At the time of execution of this Agreement the following are examples of Historical Data :
+Section 1.s. Historical Data.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Independent OTC Software" shall mean the Software (object and source code) licensed by NASD or developed by
+Section 1.t. Independent OTC Software.
+Nasdaq or NASD (or their contracted service provider) for functions related to the OTC System or in conjunction with the OTC Systems as set out in the BRD, paid for by NASD, which is not NASD OTC Software, Nasdaq OTC Software or Combined OTC Software. All rights title and interest in and to the Independent OTC Software along with any derivatives thereof and modifications thereto shall belong to NASD. A listing of Independent OTC Software is attached hereto at Exhibit 1.z.
+ 
+"Minimum Operational Standards" shall mean the lowest level at which the OTC Systems can operate and still be Fully Operational. The Minimum Operational Standards shall be those operational standards which existed on September 30, 2004, and are set forth in further detail in the SOP.
+Section 1.u. Minimum Operational Standards.
+ 
+"Minimum Performance Standards" shall mean the lowest level at which the Services can be performed while ensuring that the OTC Systems remain Fully Operational. The Minimum Performance Standards shall be those system performance standards which existed on September 30, 2004, and are set forth in further detail in the OPM.
+Section 1.v. Minimum Performance Standards.
+ 
+"Nasdaq's OTCBB/OTC Equities Product Manager" shall mean the individual so designated by Nasdaq as NASD's primary point of contact for all technical/operational questions and information requests related to Nasdaq's provision of services hereunder and to oversee that the operations procedures are followed to ensure the accuracy of the Businesses processing, in accordance with the SEC and NASD rules, guidelines and best practices. Nasdaq shall notify NASD promptly following a change to the identity of Nasdaq's OTCBB/OTC Equities Product Manager.
+Section 1.w. Nasdaq's OTCBB/OTC Equities Product Manager.
+ 
+"Nasdaq Systems" shall mean all of the applications that Nasdaq, or a Nasdaq affiliate, or any agent on behalf of Nasdaq or any Nasdaq affiliate, operates in the performance of Nasdaq's business. For the purposes of clarification, unless specifically set forth in the Change Order document, Nasdaq Systems shall not include Business Subsystems or Independent OTC Software. Nasdaq Systems and all derivatives thereof and modifications thereto are owned by Nasdaq.
+Section 1.x. Nasdaq Systems.
+ 
+"Nasdaq OTC Software" shall mean the Software (object and source code) other than NASD OTC Software and Independent Software which is set forth in Exhibit 1.z and which is licensed or developed by Nasdaq (or a contracted service provider), is used to operate the Businesses, and has the functionality set forth in the BRD. Nasdaq OTC Software and all derivatives thereof and modifications thereto shall be owned by Nasdaq.
+Section 1.y. Nasdaq OTC Software.
+ 
+"NASD OTC Software" shall mean the Software (object and source code) licensed by NASD or developed by Nasdaq or NASD (or their contracted service provider) for functions solely related the Businesses or Independent OTC Software and which are also included in the BRD. NASD OTC Software and all derivatives thereof and modifications thereto shall be owned by NASD. NASD OTC Software is specifically set forth in Exhibit 1.z.
+Section 1.z. NASD OTC Software.
+"NASD's OTCBB/OTC Equities Product Manager" shall mean the individual so designated by NASD as Nasdaq's primary point of contact for all technical/operational questions and information requests related to Nasdaq's provision of services hereunder.NASD shall notify Nasdaq promptly following a change to the identity of NASD's OTCBB/OTC Equities Product Manager.
+Section 1.aa. NASD's OTCBB/OTC Equities Product Manager.
+ 
+NASD's OTCBB/OTC Equities Operations Manager" shall mean the individual designated by NASD to set up and direct the operations policies and procedures that support the Businesses in accordance with the OPM, SEC and NASD rules, guidelines and industry best practices.
+Section 1.bb. NASD's OTCBB/OTC Equities Operations Manager.
+ 
+"OTCBB and OTC Equities Business" means all activities of or related to operating the business of the OTCBB and the OTC Equities including without limitation, trade reporting, comparison, quote collection and dissemination of over-the-counter securities quoted on either the OTCBB or OTC Equities (including Pink Sheets), and Technology and OTC Operations Services related to or in support of trade reporting, comparison, quote collection and dissemination services related to the trading of over-the-counter securities as defined in Section 1.x.
+Section 1.cc. OTCBB and OTC Equities Business.
+ 
+"OTCBB Eligible Securities" shall have the meaning given to it in NASD Rule 6530 as such rule may be amended from time-to-time. A current copy of NASD Rule 6530 is attached hereto at Exhibit 1.dd.
+Section 1.dd. OTCBB Eligible Securities.
+ 
+. "OTC Equity Security" shall have the meaning given to it in NASD Rule 6610 as such rule may be amended from time-to-time. A current copy of NASD 6610 is attached hereto at Exhibit 1.ee. The definition of OTC Equity Security shall also include non-Nasdaq securities as defined in NASD Rule 6710(c) to the extent such securities are not included in the Nasdaq Stock Market nor traded on any national securities exchange nor included in a Transaction Reporting Plan pursuant to SEC Rule 240.11Aa3-1 or SEC Rule 242.601 and direct participation programs as defined in NASD Rule 6910(c) that are subject to the provisions of the NASD Rule 6900 series.
+Section 1.ee. OTC Equity Security
+. "OTC Operations Services" shall mean responsibilities for Listing Qualification Services, User Services and Subscriber Services (as such terms are described below), including without limitation, the following as they relate to the Businesses:
+Section 1.ff. OTC Operations Services
+ 
+(i) automated (A) handling of quotations, transaction reports, and comparisons of transactions, (B) trade reporting services described in the OTC Operations Procedures Manual ("OPM") attached hereto as Exhibit 1.ff., and (C) dissemination of trade and quote data;
+ 
+(ii) collecting, processing, consolidating, and providing to NASD Regulation, Inc. (or otherwise as designated by NASD) the information requisite to operation of the surveillance audit trail related to subsection (i)(A), as set forth in the OPM;
+ 
+(iii) OTC Data integrity functions as set forth in the OPM;
+ 
+(iv) services provided by Nasdaq under this Agreement of or relating to the quoting requirements and quoting of securities on the Businesses, including without limitation, quoting requirements, actions to assure OTC Data integrity, billing and customer support functions ("Listing Qualification Services"). The Listing Qualification Services that Nasdaq shall provide to NASD under this Agreement are set out in the OPM;
+ 
+(v) services provided by Nasdaq of or relating to the facilitation of the use of the OTC Systems by approved individuals and entities, including without limitation, trading operations, MarketWatch, assistance with necessary Interfaces, customer support and billing ("User Services"). The User Services that Nasdaq shall provide to NASD under this Agreement are set out in the OPM;
+ 
+(vi) services provided by Nasdaq of or relating to the facilitation of the use of the Data of the Businesses, including without limitation, OTC Operations, assistance with necessary Interfaces, billing, OTC data audits and customer support ("Subscriber Services"). The Subscriber Services that Nasdaq shall provide to NASD under this Agreement are set out in the OPM; and
+ 
+(vii) all other day to day operational support as set forth in the OPM.
+ 
+"OTC Systems" shall mean the systems comprised of Nasdaq OTC Software, NASD OTC Software, Combined OTC Software, Independent OTC Software, and certain third party Software that have the functionality as set forth in the most recent version of the BRD and the TDD. The most current versions of the BRD and TDD are attached hereto as Exhibits 1.d. and 1.rr. respectively.
+Section 1.gg. OTC Systems.
+ 
+"Preventative Maintenance" shall mean the resources required by Nasdaq to undertake activities designed to forestall the OTC Systems not being Fully Operational.
+Section 1.hh. Preventative Maintenance.
+ 
+"Regulatory Fees" shall mean the NASD fees associated with the regulation of OTCBB and OTC Equities securities that accrued prior to the Effective Date.
+Section 1.ii. Regulatory Fees.
+. "Remedial Maintenance" shall mean the resources required by Nasdaq to keep the OTC Systems Fully Operational as soon as commercially reasonable after a problem is detected and in accordance with the Emergency Procedures attached hereto at Exhibit 13.a.
+Section 1.jj. Remedial Maintenance
+ 
+"Revised Operational Support Fee" shall have the meaning given to it in Section 10.c.
+Section 1.kk. Revised Operational Support Fee.
+ 
+"Services" shall mean the Core Services, Enhancements, Other Services, Transition Support and additional services Nasdaq shall provide NASD in accordance with Section 6 and as agreed to by the parties.
+Section 1.ll. Services.
+ 
+. "Significant Business Interruption" shall be defined by way of example and without limitation, data center outage, OTC Systems or Business Subsystems component failure, network outage or degradation that makes the OTC Systems or Business Subsystems unable to perform at or above the Minimum Performance Standards, inability to perform Core Services at or above the Minimum Performance Standards or inaccessibility of support site to key support personnel of NASD or Nasdaq.
+Section 1.mm. Significant Business Interruption
+ 
+"Software" shall mean the object and source code (excluding Nasdaq OTC Software and Combined OTC Software which shall include the object code, only, with regard to licensing of the same to NASD either during or following the Term of this Agreement) versions of any applications programs, operating system software, computer software languages, utilities, other computer programs and Related Documentation, in whatever form or media, including the tangible media upon which such applications programs, operating systems software, computer software languages, utilities, other computer programs and Related Documentation are recorded or printed.
+Section 1. nn. Software.
+ 
+A "Subsystem" shall mean a computer system or systems that are organized into significant functional elements that comprise distinct performance and operation objectives. The OTC Systems is made up of Subsystems including without limitation Business Subsystems.
+Section 1.oo. Subsystem.
+ 
+"System Testing" shall mean the series of tests described in the SOP to determine whether all of the portions of a completed software program work together to satisfy its stated Business Requirements and Technical Specifications as set out in the BRD.
+Section 1.pp. System Testing.
+ 
+"Technological Services" shall mean those services necessary to ensure that the OTC System and Business Subsystems remain Fully Operational, including without limitation project support, engineering and development services, Telecommunication, Network Services, technical support inclusive of system Interfaces, Preventive and Remedial Maintenance, Enhancements, error correction and bug fixes, Acceptance Testing, BRD updates, Development Testing, Performance Analysis, System Testing, User Testing, capacity planning, Disaster Recovery, and Business Continuity.
+Section 1.qq. Technological Services.
+"Technical Design Document" or "TDD" is a detailed description of the Technical Specifications which define the specific requirements each component of the overall system must meet in order for the overall business requirements of the system to be met, including, without limitation, types of hardware or software, communications, systems interfaces, data management and information flows within the program, and the Minimum Performance Standards for each Subsystem. The parties acknowledge that they have been provided with a copy of the current version of the TDD entitled "Nasdaq Automated Confirmation Transaction Design Specification" which was last revised on July 18, 2005, prior to execution of this Agreement.
+Section 1.rr. Technical Design Document.
+ 
+. "Technical Specifications" shall mean detailed descriptions of the parts and configuration of each piece of a computer system which comprise the OTC Systems and the Business Subsystems including, without limitation, types of hardware or software, communications, systems interfaces, data management and information flows within the program. Technical Specifications define the specific requirements each component must meet in order for the overall Business Requirements of the system to be met. Unless otherwise set forth herein, Technical Specifications shall be maintained by Nasdaq and shall be maintained and updated to reflect the then current Business Requirements contained in the BRD.
+Section 1.ss. Technical Specifications
+ 
+Absent any qualification to the contrary herein, "Term" shall mean the Initial Term, plus any Renewal Term plus any Transition Period. "Initial Term" and "Renewal Term" shall have the meanings given to them in Section 14.
+Section 1.tt. Term.
+ 
+"Transition Period" shall have the meaning given to it in Section 7.
+Section 1.uu. Transition Period.
+ 
+"Transition Support" shall consist of the provision of Core Services, Other Services and Enhancements in accordance with this Agreement.
+Section 1.vv. Transition Support.
+ 
+"Users" shall mean NASD, Businesses' participants, NASD vendors and NASD subscribers in connection with the Businesses and NASD internal staff.
+Section 1.ww. Users.
+ 
+"Website" shall mean any domain name, trade dress, trademark, service mark, hardware used to run any website of the Businesses' website, object code and source code of any software that is used to run and maintain the website (other than interfaces between Nasdaq Systems and the website), all data which is used on the website or from which the data on the website derived, and all reports and records generated on, by or through the Businesses' website.
+Section 1.xx. Website.
+Section 2 . Transfer and Sale of Businesses
+ 
+The Parties hereby revoke the portion of the Delegation Plan delegating responsibility from NASD to Nasdaq for conducting the Businesses and hereby transfer the assets of the Businesses to NASD, subject to the terms and conditions of this Agreement.
+Section 2.a.i. Transfer.
+ 
+Nasdaq hereby represents and warrants that it has the legal right and title to, and does in fact transfer to NASD all rights, title and interest in and to all of the assets of the Businesses, tangible or intangible, including without limitation NASD OTC Software, that exists as of the Effective Date, Websites, Data, Historical Data, the BRD, and the Assets listed in Exhibit 2.a. In addition, Nasdaq transfers to NASD all rights, title and interest in and to documentation relating to and regarding the Businesses Subsystems (including without limitation all internal and external management reports and economic analysis reports), all revenue streams generated by the Businesses, any business opportunities, or portions thereof, related to the Businesses (regardless of whether those business opportunities have been exercised), and all consideration generated from the Businesses and goodwill associated with each asset and existing in the Business and any residual value of the Businesses not otherwise addressed in this Agreement, in such percentage as the foregoing are attributable to the Businesses. Further, in the event the SEC determines that markets can own symbols assigned to companies, as between NASD and Nasdaq, NASD will own any symbols assigned to companies that trade in the over-the-counter markets and are not listed on The Nasdaq Stock Market or an exchange. All assets described in this section shall collectively be referred to as the "Businesses' Assets". Exhibit 2.a. list specifically enumerated Business Assets transferred pursuant to this Agreement. In the event the parties discover additional assets that should have been considered to be the Businesses' Assets but are not listed in this Agreement or Exhibit 2.a., the parties shall reform Exhibit 2.a. to reflect the transfer and sale of such additional asset(s) under this Agreement. Nasdaq will assign to NASD all third party agreements necessary to effectuate the purposes of this Section 2.a. ii. including without limitation agreements related to the operation of the Websites to the extent each relevant vendor consents to such assignment. In addition, to the extent that the Businesses have ownership rights in any names, trademarks, trade names, trade dress, service marks, domain names or copyrights (other than copyrights in source or object code) that relate solely to the Businesses and do not contain a word, phrase, design or mark that is used by Nasdaq in any other context in an ordinary non-source identifying capacity, Nasdaq hereby transfers to NASD such assets AS IS with no warranty of any kind. By way of example and not limitation, in the event there were to be a mark that was identified as "Nasdaq OTCBB", Nasdaq would retain use of the trademark "Nasdaq"; NASD would retain use of the term "OTCBB"; and neither party would be permited to use the mark "Nasdaq OTCBB" without the other's permission. In the event the parties cannot reach agreement as to whether additional assets are Businesses' Assets, they will use the Dispute Resolution procedures set out in Section 30 herein to so determine.
+Section 2.a.ii. Sale.
+quid pro quo
+Nasdaq and NASD shall use commercially reasonable efforts to cooperate with each other either to assign specified portions of Nasdaq's Workstation II Agreements as well as their Distributor Agreements, or to give NASD third party beneficiary rights under those agreements. In the event the parties agree that Nasdaq will assign portions of the agreements to NASD and a claim arises directly under the portion of the agreement which was assigned by Nasdaq under this Section 2.a.iii. and a competent legal authority with jurisdiction over the matter determines that Nasdaq can no longer enforce its rights under the portion of the agreement that was assigned to NASD, NASD will, as part of the assignments, agree to indemnify Nasdaq up to and to the extent of protection that Nasdaq would have had if a portion of the portion of the agreement had not been assigned to NASD.
+Section 2.a.iii. Assignment of Agreements.
+ 
+Upon execution of this Agreement, all right, title and interest in and to the intellectual property listed in Exhibit 2.a. will be transferred by Nasdaq to NASD. Nasdaq agrees to use commercially reasonable efforts to give NASD and any persons designated by NASD any assistance reasonably required in order to perfect any of the intellectual property rights assigned within five (5) business days following a request by NASD.
+Section 2.b.
+ 
+The parties hereto acknowledge and agree that NASD's agreement to outsource the operation of the Business to Nasdaq, in accordance with this Agreement, the waiver of Regulatory Fees from NASD to Nasdaq, the receipt and sufficiency of which is acknowledged by Nasdaq, as well as NASD's assumption of the responsibility for the operation of the Businesses shall serve as adequate and fair consideration for the transfer of the Businesses' Assets. As further consideration for the transfer of certain assets in the Businesses from Nasdaq to NASD, NASD agrees that it will waive any fee incurred by Nasdaq for the regulation of the Businesses but not billed prior to the Effective Date.
+Section 2.c. Consideration for Transfer of Businesses.
+ 
+Section 3. Protocols and Interface Use; Symbol Assignment Procedures; License to use NASD OTC Enhancements and Historical Data.
+ 
+3.a. Protocols and Interface Use.
+ 
+During the Term of this Agreement, Nasdaq shall provide protocols and interfaces and related services (collectively "Interfaces") necessary for operating the Businesses directly to authorized users of the Businesses ("User or Users") on terms and conditions determined solely and exclusively by Nasdaq, however, in no event shall Nasdaq charge Users more for these Interfaces than it charges its own customers for the same or similar Interfaces. A current listing of the Interfaces is attached hereto at Exhibit 3.a. Exhibit 3.a. shall be updated as new Interfaces are developed and implemented. Fees for the Interfaces shall be determined solely and exclusively by Nasdaq. All revenue generated from the provision of Interfaces to Users by Nasdaq shall belong to Nasdaq. Nasdaq reserves the right to terminate access to the Interfaces to Users who fail to pay any of the fees owed for the provision of Interfaces to the Businesses to Nasdaq. Ten (10) business days prior to withdrawing access to the
+3.a.i.
+Interfaces from a User, Nasdaq shall provide NASD with written notice of its intent to withdraw access to the Interfaces. If such User, or NASD, pays Nasdaq all amounts due on User's account, including without limitation all amounts that accrue during the ten day notice period and all amounts relating to the provision of Interfaces for the Businesses, Nasdaq shall not withdraw access to the Interfaces from said User. NASD assumes no liability for the quality or implementation of the Interfaces and Nasdaq hereby agrees to indemnify, defend and hold NASD harmless from third party claims based upon the quality or implementation of the Interfaces.
+ 
+Nasdaq hereby grants a perpetual, royalty-free, world-wide license and right to use, during the Term, all of the formats of the protocols and the Interfaces listed on Exhibit 3.b. to support the Businesses (""). Nasdaq hereby grants to NASD a perpetual, royalty-free, world-wide license and right to NASD to use and sublicense the formats of the Interfaces and Protocols listed on Exhibit 3.a. and 3.b. at the expiration or termination of the Term, in support of the Businesses. Exhibit 3.b. is a current list of the Protocol Licenses. Exhibit 3.b. shall be amended and updated from time to time by Nasdaq with nine (9) months' notice to NASD to reflect the retirement and/or substitution of any protocol(s) or Interface(s). All changes to Interfaces or Protocols shall follow the Enhancement process set out in Section 6. Nasdaq shall support all Protocols during the Term. In the event NASD agrees to any changes proposed by Nasdaq to any of the Protocols or Interfaces listed in Exhibit 3.a. or 3.b., Nasdaq shall pay all costs incurred by a user associated with any user acceptance testing necessary as a result of the change..
+3.a.ii.
+Protocol License
+ 
+The Parties shall coordinate the assignment of symbols to securities, counterparties and participants to ensure uniqueness in the market place and to avoid conflicts that could effect the operations of the Nasdaq System or the OTC Systems and subsystems. Nasdaq shall not issue a symbol in either the Businesses or any other business area in which Nasdaq operates which conflicts with symbols already issued in the Businesses or with any symbol which has previously been issued by NASD. In the event a Nasdaq listed entity wishes to use a symbol which is already in use by the Businesses or which has already been issued by NASD, Nasdaq and NASD will work together to reach a solution.
+3.b. Symbol Assignment Procedures.
+ 
+NASD hereby grants to Nasdaq a royalty-free, world-wide license and right to use, during the Term, the NASD OTC Software, Data, Historical Data, the BRD, and any and all other of the Businesses' Assets for use in meeting Nasdaq's obligations under this Agreement.
+3.c.
+ 
+Nasdaq hereby grants to NASD a perpetual, royalty-free, world-wide license and right to use, and sublicense the TDD and OPM for use in the Businesses.
+3.d.
+ 
+. Commencing on the Effective Date and continuing until such time as NASD collects such revenue directly, on the first of each month during the Term, Nasdaq will pass through to NASD the revenue streams collected for the prior month as described on Exhibit 4 that are generated by the
+Section 4
+Collection and Pass Through of Revenue.
+Businesses and actually collected by Nasdaq subsequent to the Effective Date ("NASD Revenues"). NASD Revenues includes OTCBB.com historical report fees, OTCBB position fees, OTC/OTCBB ACT fees (Compare/Accept fees, T+1/T+N transactions Locked-in/QSR fees, Internalized Trade Reporting fees, Cancel/Correct fees, Autolock Automated Give Up (AGU) fees), and OTCBB/OTC data feed fees (6.25% of Level One Data Feed fees). Nasdaq shall use commercially reasonable efforts to collect such pass through revenue, but in any event, not less than the level of effort that it uses to collect its own revenue. Nasdaq will not be responsible to NASD for any revenue that is generated by the Businesses but not actually collected by Nasdaq, unless such failure to collect and/or pass through is a result of the negligence of Nasdaq. In the event Nasdaq fails to collect any revenue that is generated by the Businesses as a result of Nasdaq's negligence, the Core Services Fees shall be offset by such amount which was not collected as a result of Nasdaq's negligence. The parties agree that in the event that Nasdaq receives a preference claim in bankruptcy that seeks return of any revenue passed through to NASD hereunder, Nasdaq will have sole discretion as to any settlement or defense of such claim. Upon final resolution of such claim by settlement or court order, NASD will promptly refund to Nasdaq an amount equal to the amount of such settlement multiplied by the percentage of revenue passed through to NASD under which such claim is based (i.e. Nasdaq settles a preference claim for $100.00 of which they had passed through revenue of $15. NASD's obligation is to pay $15 to Nasdaq).
+ 
+Commencing on the first of each month starting the month after the Effective Date, and continuing through the Term, Nasdaq shall send NASD all NASD Revenues collected during the previous month along with a monthly accounting reflecting NASD Revenues (both collected and uncollected) for that month (). If NASD disputes any of the NASD Revenues or Nasdaq's collection thereof, it will notify Nasdaq of its dispute within ten (10) business days of its receipt of the NASD Revenues. Nasdaq's OTCBB/OTC Equities Product Manager(s) and NASD's OTCBB/OTC Equities Product Manager will then attempt to resolve such discrepancies. If the parties are unable to resolve any such dispute within twenty (20) business days of NASD's receipt of such NASD Revenues, then the parties will then resolve any remaining disagreements through the procedures set forth in Section 30 herein. All NASD Revenues may be paid by electronic funds transfer
+4.a. Monthly Accounting.
+Revenue Report
+ 
+Nasdaq shall pay a late fee charge equal to one half of one percent (1/2%) per month from the date such revenues were due on any NASD Revenues collected or which should have been collected but were not due to Nasdaq's negligence, and which were not remitted to NASD (i) in accordance with Section 12 or (ii) following the resolution of the dispute pursuant to the procedures set forth in Section 30, as appropriate.
+4.b. Late Fees.
+ 
+Nasdaq will maintain the billing tax application for NASD. All tax decisions will be made by NASD, communicated in writing to Nasdaq, and entered into the billing tax system by Nasdaq. Nasdaq will prepare and send to NASD, and NASD will review a monthly report showing billing tax information. NASD will have five (5) business days following transmission of the report to notify
+4.c. Billing Tax System.
+Nasdaq of any errors. If NASD does not respond within such 5 days the report shall be deemed to be accurate as is. Nasdaq shall not have any liability for a data entry error that was shown on the report and which was not brought to Nasdaq's attention by NASD. Nasdaq will remain liable for failures to correct data entry errors brought to their attention by NASD and failures to follow NASD's instructions with respect to the correction of initial data entry errors.
+ 
+If, during the Initial Term, NASD implements fees which relate solely to issuers, trade reporting, comparison, quote collection and dissemination of OTCBB Eligible Securities and OTC Equity Securities and which are related to adjustments or modifications to pre-existing fees ("New Fees"), NASD will remit to Nasdaq (if NASD collects fees directly) or Nasdaq shall withhold from passing through to NASD (if Nasdaq collects fees on NASD's behalf) fifteen percent (15%) of the incremental increase in gross revenues driven solely by the new fees during the Initial Term. Nasdaq shall report such additional fees and provide an accounting of any such additional fees in a separate section on the Revenue Report in accordance with Section 4 . In the event NASD decides to implement New Fees and needs Nasdaq to bill for such New Fees, the parties will handle the matter as an Enhancement and as part of the Change Control Procedures.
+Section 5. Sharing of Revenue.
+not
+supra
+ 
+During the Term of this Agreement, Nasdaq shall provide Services to the Businesses via the OTC Systems with a service level that is not less than the service level that it provides to its critical systems such as ACT. In the event NASD believes that Nasdaq fails to meet the standards set out in this Section for the provision of Services, including without limitation Core Services, NASD shall withhold payment of the Core Services fee and the parties shall resort to Dispute Resolution to determine whether Nasdaq is in fact failing to meet the standards. During such time NASD shall pay the Core Services fee to a third party escrow agent agreed to by the parties. If Dispute Resolution results in an agreement or determination that Nasdaq is not failing to meet the standards the third party escrow service shall remit to Nasdaq the Core Services fees. If Dispute Resolution results in a determination that Nasdaq is in fact failing to meet the standards, NASD shall not be liable for the Core Services fee in the month (or any portion thereof) in which Nasdaq did not meet it Service Levels. Nasdaq warrants and represents that the services performed by Nasdaq (and, if relevant, its subcontractors) for NASD will be of good and workman-like quality, but in no event less than generally accepted industry standards good and workman-like quality. Nasdaq shall perform the Services set forth in this Section 6 upon payment and other terms set forth in this Agreement:
+Section 6. Service Levels.
+ 
+The following services under this Section 6.a. shall be defined for the purposes of this Agreement as "Core Services":
+6.a. Core Services.
+ 
+Nasdaq shall provide to NASD and NASD shall accept services and program support described herein and as further set out in the SOP, the OPM, the Change Procedures and the Emergency Procedures. Such services and program support shall be provided via the OTC Systems and shall include adequate resources, including
+6.a.i.
+personnel, to support all aspects of the Businesses, including but not limited to Technological Services, OTC Operations Services, Production, Disaster Recovery, Business Continuity, Remedial Maintenance, Preventative Maintenance, website maintenance and operation, error correction, bug fixes, support as necessary for Interfaces, Subsystems, business continuity, disaster recovery and capacity planning as more fully set forth in this Agreement and the Exhibits; project support; technical support; engineering and development services and other services as agreed to by the parties to the OTC Systems in order to ensure that the Businesses operate in accordance with this Agreement, the OPM and the BRD, up to the Minimum Service Levels agreed to by the parties in the SOP, but in any event, not less than the service level that Nasdaq provides to its critical systems such as ACT and the quoting functionality of SuperMontage and in accordance with the Emergency Procedures.
+ 
+Nasdaq warrants and represents as of the date of execution of this Agreement, the documents that it is obligated to provide to NASD prior to execution of this Agreement including without limitation, the BRD, DRP, BCP and the OPM, are up-to-date, complete and accurate statements of the Business Rules, Technological Services and OTC Operations Services that it currently performs in furtherance of the Businesses.
+6.a.ii.
+Preparation and Delivery of Documents.
+ 
+. Nasdaq has prepared and delivered to NASD a Business Requirements Document ("") for NASD's acceptance for each of the Businesses, broken up in to two sections (i) Business Requirements and (ii) Technical Specifications. NASD has reviewed the BRD for the purposes of ensuring that it captures all of the operational and technical elements of the OTC Systems and the Business Subsystems and contains the necessary information as set out herein. NASD hereby approves the BRD. Nasdaq shall update the BRD and Technical Design Document during the Term as changes are made to the Businesses and prior to any work beginning on any Enhancement.
+6.a.ii.A.
+Business Requirements Document
+BRD
+ 
+In the event NASD elects to take over updating all or any portion of the BRD, Nasdaq shall provide appropriate training, not to exceed 3 days, consulting, data, procedures and documentation for the BRD to NASD or its designated agent in order to allow NASD or its designated agent to take over updating all or any portion of the BRD. Any work beyond the three days will be completed at a time and materials basis at the rate of the Nasdaq group doing the work. In the event NASD does take over updating all or any portion of the BRD, the parties shall meet and negotiate in a commercially reasonable fashion any reduction in the budget for Core Services. In the event the Parties cannot agree to a reduction or an amount for a reduction, the Parties shall resort to the Dispute Resolution procedures.
+6.a.ii.A.1.
+ 
+(a) Nasdaq must create and maintain a written business continuity plan identifying procedures relating to an emergency or significant business disruption. Such procedures must be reasonably designed to enable Nasdaq to provide the Services at or above the Minimum Performance Standards under and in accordance with this Agreement and provide for NASD to meet its obligation to operate the Businesses.
+6.a.ii.B.
+Business Continuity Plan.
+(b) During such time as Services are outsourced to Nasdaq, Nasdaq must update its plan with respect to such outsourced Services in the event of any material change to the Nasdaq's operations, structure, business or location with respect to the delivery of Services under this Agreement. Nasdaq must conduct an annual review of its business continuity plan to determine whether any modifications are necessary in light of changes to its operations, structure, business, or location.
+ 
+(c) If Nasdaq relies on another entity for any one of the specifically enumerated elements of their BCP, or any mission critical system, Nasdaq's business continuity plan must address this relationship.
+ 
+(d) Nasdaq will provide NASD current business continuity plans (BCP) and procedures for the Business Subsystems and the OTC Systems which shall be agreed on by the parties using commercially reasonable discretion on or before the date of execution of this Agreement. NASD will make any necessary modifications and return the updated BCP to Nasdaq who shall incorporate NASD's changes. This procedure shall continue until such time as the parties have, using commercially reasonable discretion, agreed on the BCP. Nasdaq must designate a member of senior management to approve the plan and he or she shall be responsible for conducting the required annual review. The member of senior management must also be an officer.
+ 
+(e) For purposes of this Section, the following terms shall have the meanings specified below:
+ 
+(1) "Mission critical system" means any system that is necessary to ensure that the Services provided by Nasdaq under this Agreement meet or exceed the Minimum Performance Standards.
+ 
+(2) "Financial and operational assessment" means a set of written procedures that allows Nasdaq to identify changes in its operational, financial, and credit risk exposures.
+ 
+Nasdaq will provide NASD with a current copy of the DRP and procedures that support the OTC Systems and the Business Subsystems which shall be agreed to by the parties in the exercise of their mutually commercially reasonable discretion on or before the date of execution of this Agreement. NASD will review the DRP to ensure that it satisfies current SEC criteria and NASD's internal audit requirements for the Businesses. NASD will make any necessary modifications and return the updated Disaster Recovery information to NASDAQ for review. In the event of a significant business disruption, the updated disaster recovery plan will be in effect. If the NASD updates require any operation or system enhancements, they will be done in accordance with the terms and conditions of this agreement. NASD shall not be liable for the cost of any Core Services unless and until such time as the DRP has been delivered by Nasdaq and accepted by NASD.
+6.a.ii.C.
+Disaster Recovery Plan.
+Prior to the date of execution of this Agreement, Nasdaq shall prepare and deliver to NASD an OTC Operations Procedures Manual which shall contain the procedures and policies necessary to perform the OTCBB Operations Services for NASD's acceptance. NASD shall review each department's operational procedures for the purposes of ensuring that it accurately reflects the daily operations performed by each department including but not limited to maintaining appropriate checks and balances at a service level that is not less than the service level that it provides to its critical operations such as ACT and the quoting functionality of SuperMontage. In the event NASD identifies deficiencies in the OPM during its initial review or thereafter, Nasdaq shall use commercially reasonable efforts to remedy such deficiency at no additional cost to NASD. Once approved by NASD, Nasdaq shall update the OPM during the Term as changes are made to the Businesses or at the direction of NASD's Operations Manager. NASD shall not be liable for the cost of any Core Services unless and until such time as the OPM has been delivered by Nasdaq and accepted by NASD.
+6.a.iii.
+Preparation and Delivery of OTC Operations Procedures Manual.
+ 
+Nasdaq will perform all Services and provide all infrastructures necessary to ensure that the OTC Systems will remain Fully Operational during the Term of this Agreement. The infrastructure requirement shall include, but is not limited to, sufficient bandwidth capacity to accommodate a full load from each of the Businesses simultaneously and in conjunction with other Nasdaq applications which share bandwidth with the Businesses' full load.
+6.a.iv. System Operation.
+ 
+Nasdaq will maintain the infrastructure of the OTC Systems at or above a level necessary to accommodate the Businesses in accordance with the operating levels and Minimum Performance Standards set out in this Agreement during the Term (). Infrastructure may include, but is not limited to: (i) the server platform(s) upon which the OTC Systems are launched and operated; (ii) adequate facilities for equipment and staff under normal operating and disaster recovery conditions; (iii) utilities (including backup contingencies); (iv) Network Support; and (v) auxiliary supplies and services necessary to sustain the daily operation of the OTC Systems and any Enhancements thereto, including, without limitation, power generation equipment, batteries, cooling facilities and related items.
+6.a.v. System Infrastructure.
+Infrastructure
+ 
+Nasdaq will furnish all Remedial and Preventative Maintenance services as may be reasonably required to satisfy its obligations hereunder or requested by NASD hereunder and necessary to keep any and all software comprising or relating the OTC Systems or any subsequent Releases, in Fully Operational condition during the Term of this Agreement. Such maintenance shall include, but is not limited to: (i) configuration; capacity management; reliability and performance tuning; (ii) elimination of system anomalies; reasonable changes to accommodate alterations made in third-party operation systems, applications, infrastructure, networks and utilities; (iii) reasonable changes to accommodate alterations in processing volume requirements; (iv) reasonable revisions required to accommodate changing NASD Business Requirements. The parties in good faith will determine if the changes made under sections (iii) and (iv) must be done on a time and material basis and the increase, if any, in the cost of Core Services.
+6.a.vi. Software Maintenance.
+. Nasdaq may, from time to time, create and install Enhancements to the OTC Systems. Nasdaq shall follow the procedures set out in Exhibit 6.b. Section A. when making Enhancements to the OTC Systems. Additionally, NASD may request Enhancements to the OTC Systems in accordance with the process set forth in Exhibit 6.b. (""). Subject to the terms of this Agreement, Nasdaq will perform all Enhancements requested by NASD. NASD shall set the priority for Enhancements. In the absence of NASD setting any such priority, Enhancements shall be done in the following order, SEC Enhancements, NASD Rules Driven Enhancements, and Industry Enhancements. To the extent commercially reasonable, Nasdaq will create Enhancements to the OTC Systems using an open architecture approach. Enhancements funded in full or in part by NASD shall be done on a time and materials basis in accordance with the rates and manner as set out in Section 10.b. Additionally, if NASD requests an Enhancement, Nasdaq shall include the cost for resources and the cost of materials to support the Enhancement and net change in Core Services fees in any estimate that is submitted to NASD under the Change Procedures. If such Change Order is accepted by NASD, any additional cost for resources and cost of materials to support the Enhancement on an ongoing basis shall be added to the annual fee for Core Services. In the event NASD accepts the Change Order, Nasdaq shall amend the BRD (unless the NASD has chosen to do the requirements work) and TDD to reflect the Enhancement prior to commencing work on the Enhancement.
+6.b. Enhancements
+Change Procedures
+ 
+Any Enhancement which is fully funded by NASD other than an Enhancement to NASD OTC Software or Independent OTC Software which shall be owned by NASD and which shall not be used in any manner by Nasdaq unless the parties agree in a separate writing to a license agreement, shall be considered to be a "NASD Enhancement" for the purposes of Section 17 ("Noncompete"). Any Enhancement partially funded by NASD, other than an Enhancement to NASD OTC Software or Independent OTC Software which shall be owned by NASD and which shall not be used in any manner by Nasdaq unless the parties agree in a separate writing to a license agreement, shall be considered a "Partially Funded Enhancement" for the purposes of Section 17 ("Noncompete"). Any Enhancement fully funded by Nasdaq shall be considered a "Nasdaq Enhancement" shall not be subject to the restrictions of Section 17 ("Noncompete"). The parties shall use commercially reasonable efforts to determine the allocation of funding of Enhancements prior to any work being started on the Enhancement. In the event the Parties do not agree to the allocation of funding for an Enhancement the parties agree to use the Dispute Resolution procedures set out in Section 30 herein to determine the allocation of costs. Nasdaq may commence work on any such Enhancement and the allocation of costs shall be as determined under the Dispute Resolution Process. Other than with respect to Businesses Subsystems and Independent OTC Software, NASD shall have a perpetual, world-wide, royalty free, irrevocable right and license to use in support of the Businesses, the business rules and requirements behind any Enhancement which was initiated or fully funded by NASD. In the event Nasdaq elects to use an NASD Enhancement, Nasdaq shall reimburse to NASD fifty percent (50%) of the total development cost associated with such Enhancement.
+6.b.i. Funding and Noncompete Designation.
+If Nasdaq initiates an Enhancement that will or could be used in the operation of the Businesses, it will provide NASD with a detailed description of the Enhancement, including the Business Requirements, net effect on Core Services fees and Technical Specifications. Following such notice, NASD shall notify Nasdaq in writing whether it accepts or rejects such Enhancement. In the event NASD rejects any Nasdaq Initiated Enhancement, NASD shall not be liable for the cost of development of such Enhancement or any incremental cost caused by such Enhancement and Nasdaq shall continue to operate the Businesses as they existed prior to the Enhancement at no additional charge to NASD. In the event NASD accepts such Enhancement, the Parties will negotiate in good faith with regard to funding and timing of the Enhancements. Factors which will be taken into consideration with respect to funding decisions include but are not limited to: (A) the primary purpose for such Enhancement; (B) the percentage of use attributable to the Businesses given the nature and extent of Nasdaq applications using or which could use the Enhancement; (C) the nature of the Enhancement; and (D) whether the Businesses could operate in substantially the same manner and with substantially the same level of effectiveness without the Enhancement. In the event NASD rejects any Nasdaq Initiated Enhancement, NASD shall not be liable for the cost of development of such Enhancement or any incremental cost caused by such Enhancement. All Enhancements to the OTC Systems must be coordinated with NASD thirty (30) days prior to the date upon which work is scheduled to begin. All Enhancements to the OTC Systems must be fully tested in accordance with this Agreement. NASD must approve and accept any Enhancement which causes a User to make a technical or operational change prior to the date upon which work is begun on such Enhancements. Such approval shall not be unreasonably withheld or delayed.
+6.b.ii. Nasdaq Initiated Enhancements.
+ 
+If NASD proposes Enhancements to the OTC Systems which relate to more than the Businesses Subsystems, excluding Independent Software, the parties shall use commercially reasonable efforts to determine the funding of such Enhancements. Work shall not be started on an NASD Initiated Enhancement until such time as the parties have agreed on funding. The Parties will use the Change Procedures set out in Exhibit 6.b. Time frames for delivery of these Enhancements shall be in a commercially reasonable time frame as agreed to by the parties. If such an Enhancement is fully funded by NASD it shall be a "NASD Enhancement" for purposes of Section 17 ().
+6.b.iii. NASD Initiated Enhancements.
+Noncompete
+ 
+If NASD proposes Enhancements that are required as a result of rule changes, Nasdaq shall use commercially reasonable efforts to develop and support such Enhancements within the timeframes established therefore as mutually agreed to by the Parties in the exercise of their commercially reasonable discretion. Time frames for delivery of these Enhancements shall be as set forth in the Rule upon which the Enhancement is based. A NASD Rules Driven Enhancement shall be fully funded by NASD and, to the extent such
+6.b.iii.A. NASD Rules Driven/Required Enhancements.
+Enhancements are not Independent OTC Software and fall outside of the Business Subsystems, such Enhancements shall be a "NASD Enhancement" for purposes of Section 17 (). In the event Nasdaq elects to use Enhancements which were fully funded by NASD, Nasdaq shall reimburse to NASD fifty percent (50%) of the total development cost associated with such Enhancement prior to implementing such Enhancement (either in development, testing or production). Additionally, at such time as Nasdaq implements such Enhancement the parties shall negotiate in good faith with regard to any reduction in Core Services fees associated with such Enhancement. With respect to Enhancements which are owned by NASD and that NASD agrees to allow Nasdaq to use not solely for the Businesses but rather by Nasdaq more generally, the Parties will negotiate in good faith with regard to funding and licensing of such Enhancement. The Parties agree that the final estimate for development of these Enhancements may be modified to provide for additional resources required to meet the time frame if such time frame is accelerated after the Final Estimate of the Change Order is accepted.
+Noncompete
+ 
+If the Securities and Exchange Commission ("SEC") mandates Enhancements, Nasdaq shall use commercially reasonable efforts to develop such Enhancements within the time frame established by the SEC, if any. Time frames for delivery of these Enhancements shall be as set out by the SEC and NASD agrees to keep Nasdaq fully informed of the times frames. SEC Required Enhancements shall be fully funded by NASD and, to the extent such Enhancements are not Enhancements to Independent OTC Software and fall outside of the Business Subsystems, such Enhancements shall be an "NASD Enhancement" for purposes of Section 17 (). In the event Nasdaq elects to use Enhancements which were fully funded by NASD, Nasdaq shall reimburse to NASD fifty percent (50%) of the total development cost associated with such Enhancement prior to implementing such Enhancement (either in development, testing or production). Additionally, at such time as Nasdaq implements such Enhancement the parties shall negotiate in good faith with regard to any reduction in Core Services fees associated with such Enhancement. With respect to Enhancements which are owned by NASD and that NASD agrees to allow Nasdaq to use not solely for the Businesses but rather by Nasdaq more generally, the Parties will negotiate in good faith with regard to funding and licensing of such Enhancement. The parties further agree that the final estimate for development of these Enhancements may be modified to provide for additional resources required to meet the time frame if such time frame is accelerated after the Final Estimate of the Change Order is accepted.
+6.b.iii.B. SEC Required Enhancements.
+Noncompete
+ 
+. Industry Driven Enhancements are Enhancements that are required as a result of actions not under the control of NASD and are done at the behest of an industry utility or an OTC data vendor. Time frames for these Enhancements shall be determined in accordance with industry needs or, in the absence of specific time frames, as agreed in the exercise of commercially reasonable judgment by the parties. An Industry Driven Enhancement shall be fully funded by NASD and, to the extent such Enhancements are not Enhancements to Independent OTC Software and fall outside of the Business
+6.b.iii.C. Industry Driven Enhancements
+Subsystems, such Enhancements shall be an "NASD Enhancement" for purposes of Section 17 (). ). In the event Nasdaq elects to use Enhancements which were fully funded by NASD, Nasdaq shall reimburse to NASD fifty percent (50%) of the total development cost associated with such Enhancement prior to implementing such Enhancement (either in development, quality control or production). Additionally, at such time as Nasdaq implements such Enhancement the parties shall negotiate in good faith with regard to any reduction in Core Services fees associated with such Enhancement. With respect to Enhancements which are owned by NASD and that NASD agrees to allow Nasdaq to use not solely for the Businesses but rather by Nasdaq more generally, the Parties will negotiate in good faith with regard to funding and licensing of such Enhancement. The Parties further agree that the final estimate for development of these Enhancements may be modified to provide for additional resources required to meet the time frame if such time frame is accelerated after the Final Estimate of the Change Order is accepted.
+Noncompete
+ 
+. In addition to the Services set out above, the following services (shall be provided by Nasdaq to NASD at time and materials rates:
+6.c.
+Other Services
+"Other Services")
+ 
+Additional support services as may be requested by NASD, in the exercise of commercially reasonable discretion, in order to provide for the successful development and operation of the Businesses;
+6.c.i.
+ 
+Training and documentation as may be mutually agreed to by the parties for industry and NASD users; and
+6.c.ii.
+ 
+Such facilities and computer hardware as are reasonably required to support the then current BRD. Unless otherwise agreed to by the parties using commercially reasonable discretion, all new or replacement hardware or software that at the time acquired is specifically and exclusively for the Business Subsystems ("OTCBB/OTC Equities Specific Hardware") will be paid for directly and owned and/or leased by NASD. Nasdaq shall be named as agent on all related hardware maintenance contracts. In the event NASD agrees to allow Nasdaq to use OTCBB/OTC Equities Specific Hardware for other Nasdaq Systems or any other purpose other than to perform its obligation to NASD as set out in this Agreement, Nasdaq and NASD will negotiate in good faith as to an amount that Nasdaq will pay to NASD for using the OTCBB/OTC Equities Specific Hardware for such non-related functions. Unless otherwise agreed to by the parties, Nasdaq will purchase any hardware that at the time of purchase is intended to be used by the OTC Systems and any other Nasdaq products. NASD shall not be liable for any excess capacity not related to the Businesses on shared Nasdaq infrastructure.
+6.c.iii.
+ 
+Nasdaq shall ensure that NASD has operational view access to all functionality of the OTC Systems including without limitation the Business Subsystems as further set forth in the BRD. If the parties agree to transfer a function to NASD, Nasdaq shall ensure that NASD has update access. Access will be provided at time and materials rates.
+6.c.iv.
+Nasdaq shall host third party hardware as reasonably requested by NASD. The cost for hosting such third party hardware shall be as set out in Section 10.d herein. NASD will ensure that Nasdaq has all necessary rights to host, access and use such hardware.
+6.c.v.
+ 
+Nasdaq shall use the following methodologies for providing the Services. All activities under this Section, other than those relating to Enhancements or Other Services under Section 6.c. above, shall be included under the fee for Core Services set out in Section 10.a. . Nasdaq shall not charge NASD, participants, clients or internal staff ("Users") for testing made necessary as a result of a Nasdaq Initiated Enhancement.
+6.d. Development Methodology for Services.
+infra
+ 
+Nasdaq will develop the Business Requirements and Technical Specifications relative to any change in the OTC Systems into the BRD and submit such changes to NASD for its approval. NASD shall have the right to approve the changes and NASD's review of the changes will comply with the Change Procedures. Nasdaq will use commercially reasonable efforts to render the source code for such Enhancements portable and capable of being integrated into production environments, including but not limited to, that environment which is currently in use at NASD or that is specifically approved by NASD when enhancing the software and hardware for the OTC Systems.
+6.d.i. Maintaining and Updating the BRD
+.
+ 
+Nasdaq will edit the OPM relative to any change in the OTC Systems operations or infrastructure and submit such changes to NASD for its approval. NASD shall have the right to approve the changes and NASD's review of the changes will comply with the Change Procedures.
+6.d.ii. Maintaining and Updating the OPM.
+ 
+Once NASD has approved the design and technical specifications for the BRD and the TDD, for the Enhancements, modifications, Releases and other Services, Nasdaq will commence work on the necessary software and configurations. The source code for these Enhancements, modifications, Releases and other Services may be composed of original Build modules developed by Nasdaq and commercial software packages modified to satisfy the Technical Specifications. Nasdaq will develop Enhancements, modifications, Releases and other Services through a series of Builds. Each successive Build will add more of the functions contained in that subsystem until the final Build incorporates all of the functions required for the completed subsystem. The specific Business Requirements and Technical Specifications for each Build will be agreed upon by Nasdaq's and NASD's OTCBB/OTC Equities Product Manager prior to Nasdaq commencing construction work for it and in accordance with the Change Procedures. Nasdaq will notify NASD when it has completed coding and begun development testing of each Build.
+6.d.iii. Development Approach.
+ 
+In order to ensure adequate performance of the OTC Systems, Nasdaq will undertake such Performance Analysis simulations, studies, and analyses quarterly and upon every installment of a new Release
+6.d.iv. Performance Analysis.
+as further set forth the SOP. The scope of these evaluations may include, but is not limited to: (i) determining whether the planned Subsystems and OTC Systems have the capacity to meet performance and storage requirements of the Businesses; (ii) evaluating the performance, based upon then current usage of the subsystems and the systems by the requirements of the OTC Systems; (ii) determining the flow and timing of data feeds into and out of the OTC Systems and the sensitivity of the OTC Systems performance to those flows; (iii) predicting system loading factors from peak day's Production data with a simulated 20% increase in peak messages per second and total volume, to be performed quarterly; (iv) determining the performance requirements for MDS to meet the OTC Systems' overall throughput requirements; and (v) determining compatibility with industry users' interface capabilities. Nasdaq shall provide NASD a hard copy report on the results of any or all of its performance evaluations () and store the results on file for a period of five (5) years to satisfy SEC requirements.
+Performance Reports
+ 
+Nasdaq acknowledges and agrees that Services, including without limitation, Enhancements, modifications, Releases, bug fixes, error corrections, changes to or modifications of the Interfaces and Other Services agreed to by the parties and affecting the OTC Systems ("OTC Changes") will be subject to Acceptance Testing in the event such Enhancements, modifications, Releases, bug fixes, error corrections, changes to or modifications of the Interfaces and Other Services alters the manner in which Users interact with the OTC Systems or the output of the OTC Systems. In the event OTC Changes result in additional costs to OTC System Users, Nasdaq shall pay all reasonable costs, including User Acceptance Testing, incurred by Users as a result of OTC Changes.
+6.d.v. Acceptance Testing.
+ 
+Nasdaq shall conduct testing of future Releases of the OTC Systems and Enhancements as set forth in the SOP. Such testing shall include all Acceptance Testing, Development Testing, System Testing, and customer system testing as set forth in the SOP.
+6.d.vi.
+Testing of Future Releases of the OTC Systems, Business Subsystems and Enhancements.
+ 
+. Nasdaq shall partner with NASD on the technology design, architecture, testing and implementation of all aspects of the operation of the Businesses as it relates to general maintenance and support as well as operational issues. Additionally, Nasdaq shall provide for NASD's input into all build versus buy decision on all OTC System enhancements and components which affect the Businesses and NASD shall make the final determination on all such decisions that relate solely to the Businesses with input from Nasdaq. Nasdaq shall have the right to veto any final decision in the event such decision is not technologically feasible. Such veto right must be exercised in a commercially reasonable manner.
+6.e Partnering on Technology Issues
+ 
+At any time during the Term NASD may elect to transition non-system functions of the Businesses. In the event NASD elects to take over any of the non-system functions of the Businesses, Nasdaq shall provide appropriate training, not to exceed two (2) days, consulting, data, procedures and documentation in each of the OTC Operations Service (Listing
+6.f. Transitioning of Non-System Functions to NASD.
+Qualification Services, User Services, and Subscriber Services) to NASD or its designated agent in order to allow NASD or its designated agent to take over the non-system functions and operations of the Businesses on either the existing systems, its own systems or those of its agents. Any additional training, consulting, data, procedures and documentation to NASD or its designated agent shall be at the time and material rates for the Nasdaq department doing the work. If Nasdaq does not have written procedures which allow NASD or its designated agent to take over the non-system functions of the Businesses, Nasdaq shall provide an additional two (2) days of training, consulting, data, procedures and documentation in each of the OTC Operations Service at Nasdaq's sole cost and expense. In the event NASD does take over any of the non-system functions of the Businesses the parties shall meet and negotiate in a commercially reasonable fashion any reduction in the budget for Core Services. In the event the Parties cannot agree to a reduction or an amount for a reduction, the Parties shall resort to the Dispute Resolution procedures.
+ 
+At any time during the Term, NASD may transition system functions of the Businesses in the event such system functions relate solely to the Businesses Subsystems, NASD OTC Software or Independent OTC Software. After the expiration of the Initial Term or during any Transition Period, NASD may elect to take over any system functions of the Businesses. In the event NASD elects to take over any of the system functions of the Businesses, Nasdaq shall provide appropriate training, not to exceed two (2) days, consulting, data, procedures and documentation in each of the service being transitioned to NASD or its designated agent in order to allow NASD or its designated agent to take over the system functions and operations of the Businesses on either the existing systems, its own systems or those of its agents. Any additional training, consulting, data, procedures and documentation to NASD or its designated agent shall be at the time and material rates for the Nasdaq department doing the work. If Nasdaq does not have written procedures which allow NASD or its designated agent to take over the system functions of the Businesses, Nasdaq shall provide an additional two (2) days of training, consulting, data, procedures and documentation in each of the services being transitioned at Nasdaq's sole cost and expense. In the event NASD takes over any of the system functions of the Businesses the parties shall meet and negotiate in a commercially reasonable fashion any reduction in the budget for Core Services. In the event the Parties cannot agree to a reduction or an amount for a reduction, the Parties shall resort to the Dispute Resolution procedures.
+6.g. Transitioning of System Functions to NASD.
+ 
+With respect to any training days that are available under this Agreement but not used by NASD (for example, if NASD utilizes only one training day in a particular service rather than the available two days), such unused day may instead be used by NASD for training in a different service.
+6.h. Training Day Credits.
+ 
+If the Parties do not mutually agree to renew this Agreement, or either party for any reason terminates this Agreement, Nasdaq shall thereafter provide Transition Support to NASD which shall include, as appropriate, providing training, data and documentation to NASD or its
+Section 7. Transition Support and Extension of Agreement.
+designated agent in order to allow NASD or its designated agent to maintain the Businesses on its own systems without use of the OTC Systems and without assistance from Nasdaq. Nasdaq will apply time and material rates. Nasdaq shall provide other services as agreed to by the Parties. Nasdaq will review these requests on a case by case basis to determine if time and material rates apply. During the transitioning of the operation, maintenance and development of the Businesses from Nasdaq to NASD or its designated agent, Nasdaq shall establish a knowledge transfer plan ("") that is acceptable to both Nasdaq and NASD and such Plan shall contain the schedule for any training necessary for such transfer. Transition Support shall be provided until NASD is able to transition to a replacement provider ("Transition Period"). During the first eighteen (18) months of the Transition Period, NASD agrees to pay Nasdaq at the rates set forth in Section 10 of this Agreement (including any rate increases allowed for under this Agreement during and for the Term in which the parties went into the Transition Period). Thereafter, NASD agrees to pay Nasdaq at a rate that shall not increase more than the Cost of Living Adjustment ("") year-over-year. If this Agreement is terminated by Nasdaq due to NASD's failure to make all required payments, NASD will be required to make all such due and owing payments and to prepay the cost of Core Services for Transition Support every three (3) months to an agreed upon escrow agent, prior to Nasdaq providing any Transition Support. NASD will use commercially reasonable efforts to get all necessary SEC approvals to transition away from Nasdaq within the Transition Period. In the event the SEC does not approve or is withholding approval of any replacement provider, NASD shall confirm such in writing to Nasdaq and shall provide sufficient detail of the reasons for such withholding of approval or disapproval by the SEC (as allowed and as they may be known by NASD) to Nasdaq. Unless otherwise set out in this Agreement, upon fulfilling its obligations to provide Transition Support, Nasdaq shall have no continuing obligation to NASD or any third party regarding the maintenance, operation, or development of the Businesses, unless agreed to otherwise by Nasdaq and NASD in writing. Transition Support will include a perpetual, limited, royalty free license to use solely in support of the Businesses Nasdaq intellectual property necessary to support the Businesses, including without limitation the OTC Systems. At the conclusion of any Transition Period or such time as NASD or its designated agent takes over the operation of the Businesses the Parties shall enter into an agreement whereby Nasdaq shall grant to NASD free of charge, a royalty-free, perpetual, limited license to use, sublicense and to make derivative works of all intellectual property (including without limitation, patents, patent applications, copyrights, trade secrets, trademarks, inventions and software) necessary to support the Businesses, if any, solely in support of the Businesses. In the event this Agreement is terminated for Nasdaq's material breach, the rates for Services shall remain at the levels at such time as the breach occurred. This remedy is in addition to and not in lieu of any other remedy NASD may have under this Agreement or common law.
+Plan
+COLA
+ 
+Section 8. Performance Standards.
+ 
+All Services performed by Nasdaq under the terms of this Agreement are subject to the same quality control procedures and standards that Nasdaq, employs in support of its mission critical applications such as ACT and the quoting functionality of SuperMontage as further amplified by the Minimum Performance Standards set forth herein.
+8.a. Quality Control.
+NASD seeks a high level of overall OTC Systems performance in order to ensure reliability and industry and SEC satisfaction. Nasdaq's efforts in this respect will be at least equal to the level of effort that Nasdaq uses in its mission critical systems such as ACT and the quoting functionality of SuperMontage but in no event shall it be lower than the Minimum Performance Standards. In order to measure performance to ensure such reliability, the parties agree to implement the System Performance standards and procedures as outlined in the SOP ("Stress Testing"). The SOP may be amended from time to time by NASD in accordance with the Change Procedures in order to better achieve previously established and mutually agreed to System Performance goals.
+8.b. System Performance.
+ 
+Nasdaq will appoint a Nasdaq OTCBB/OTC Equities Product Manager who will act as its liaison to NASD. This manager will: (i) make commercially reasonable efforts to attend periodic and ad hoc meetings called by NASD OTCBB/OTC Equities Product Manager or NASD OTCBB/OTC Equities Operations Manager upon reasonable notice; (ii) participate as an active member of the joint Nasdaq and NASD Program team; (iii) attend bi-weekly status meetings; and (iv) attend other impromptu meetings and present such information as may be reasonably necessary to effectively communicate the progress of Nasdaq's performance of this Agreement. NASD will provide Nasdaq's personnel adequate prior notice of all meetings.
+8.c.
+Meetings.
+ 
+Nasdaq shall provide the reports outlined in the SOP and such other information as may reasonably be requested by NASD in order to efficiently monitor the development and operation of Enhancements, modifications, Releases and other Services, system integration of all subsystems of the OTC Systems, and technical support of other aspects of Businesses' activities. NASD shall provide Nasdaq all existing written reports as may be reasonably required by Nasdaq to fulfill its obligations under this Agreement. All of the information contained in these reports shall be considered NASD Confidential Information.
+8.d. Management Reports.
+ 
+Section 9. Non-System Functions/Right of First Refusal.
+ 
+During the Term, NASD shall have the right to undertake on its own behalf, either through itself or its agent, any and all non-system functions of the Businesses.
+9.a. NASD's Assumption of Non-System Functions.
+ 
+During any Transition Period, as between NASD and Nasdaq, NASD shall have a 30-day right of first refusal to offer employment to any consultant or contractor who has been used by Nasdaq to perform any of its obligations under this Agreement.
+9.b. Right of First Refusal.
+ 
+. If NASD elects to exercise its rights under this Section, the Parties shall negotiate in good faith to determine if such action has resulted or will result in a reduction of the costs to Nasdaq to provide the Core Services, and, if so, the manner in which any such reduction shall be passed on to NASD.
+9.c. Reduction in Fees Payable to Nasdaq
+Section 10. Pricing and Payment Terms.
+ 
+In consideration of the Core Services provided hereunder, NASD shall pay to Nasdaq a fixed yearly price for Core Services as set forth below:
+10.a.
+Fee for Core Services (Operational Support Fee).
+ 
+i. For the first year of this two year agreement, (i) $2,700,000 (Two Million Seven Hundred Thousand Dollars) for OTC Equities and (ii) $11,500,000 (Eleven Million Five Hundred Thousand Dollars) for OTCBB; and
+ 
+ii. For the second year of this two year agreement, (i) $2,700,000 (Two Million Seven Hundred Thousand Dollars) for OTC Equities and (ii) $12,000,000 (Twelve Million Dollars) for OTCBB.
+ 
+iii. These charges do not include the cost for developing any Enhancements or for Other Services as described in Section 7. As Enhancement(s) come on line there may be a resultant increase to the Operational Support Fee.
+ 
+Resources will be calculated based on the aggregate of hours spent multiplied by applicable hourly rates charged by each support group. Time shall be charged in
+10.b. Resources Charge.
+ 1
+/
+2
+hour increments with time rounded down to the next  hour increment if less than 30 minutes have been spent and time rounded up to the next
+ 1
+/
+2
+hour if time spent 30 minutes or more. Nasdaq shall submit timesheets with invoices containing charges for hourly rate resources that shall contain a description of the work performed and time spent to perform the work that is sufficiently detailed to allow NASD's OTCBB/OTC Equities Product Manager to evaluate the reasonableness of time spent on a particular task. Hourly rates for each support group are as follows: business requirements $115/hr; technical support services $115/hr; development (coding, design, etc.) $155/hr; software quality management $125/hr; business operations support $125/hr. The technical operations rate will be established by Nasdaq on a case-by-case basis) Resources for support outside of the support groups (e.g. technical operations, specific skill sets such as Microsoft Expert) will be priced on a case-by-case basis, subject to pre approval by NASD. Hourly rates for Resources shall not increase in excess of COLA from year-to-year. Nasdaq shall pass-through the direct costs incurred for denials/removals of listing in OTCBB. Nasdaq shall obtain NASD's written approval prior to incurring hearing costs in excess of those amounts that NASD may charge by rule. In the event Nasdaq fails to get NASD's written consent to exceed the hearing costs that NASD is allowed to charge by rule, NASD shall not be liable for any hearing costs in excess of that which they are allowed to charge by rule.
+ 
+NASD agrees there may be an increase to the Operational Support Fee as a result of proceeding with an NASD or Partially Funded Enhancement ("Revised Operational Support Fee"). A Revised
+10.c. Increase in Operational Support Fee.
+Operational Support Fee, if any, shall be included in the Final estimate of such Enhancement. If the Revised Operational Support Fee is agreed to by NASD, Nasdaq will proceed with developing such Enhancement and the Revised Operational Support Fee will be effective the date the Enhancement is accepted by NASD into a production environment. If NASD disagrees with the Revised Operational Support Fee the parties shall mediate such dispute in accordance with Section 30.
+ 
+NASD shall pay Nasdaq a monthly facilities charge of $98.64/square feet for hosting third party hardware at NASD's request. The facilities charge shall not increase by more than the COLA at the end of any Term.
+10.d. Facilities Charge.
+ 
+The parties hereto agree that the most favorable rate that Nasdaq provides to its customers for services that are substantially similar to the website development, maintenance and operation, hosting and program support, software maintenance and support, software development or modification, telecommunication network, data feed interface support, business operation support and any additional services provided under this Agreement or any amendment hereto shall be used in determining the Fees charged to NASD for substantially similar services ("") during the Term.
+10.e.
+Competitive Rate Pricing.
+Competitive Rates
+ 
+Section 11. Project Staffing and Non-Solicitation.
+ 
+. The Parties agree that they will use commercially reasonable efforts to provide qualified and comparable personnel and allocate the necessary resources to fulfill their obligations under this Agreement. Nasdaq and NASD shall provide personnel, including subcontractors, with the appropriate technical expertise to enable them to perform their duties under this Agreement. Nasdaq shall use commercially reasonable efforts to make those individuals named in Exhibit 11.a available to work under this Agreement, for so long as such individuals are employed by Nasdaq, and further shall task such individuals so that work of or relating to this Agreement is such individual's first priority with respect to the other tasks of that individual. In the event Nasdaq elects to reassign an individual listed on Exhibit 11.a or downsizes any department such that any individual listed on 11.a is no longer assigned to provide services under this Agreement to NASD, Nasdaq shall meet with NASD for discussions and will provide NASD with a knowledge transfer plan. NASD shall have sixty (60) days to review and approve the knowledge transfer plan which approval shall not be unreasonably withheld. If NASD does not approve such knowledge transfer plan, the parties will work together to transition the affected functions(s) over to NASD or within Nasdaq within six (6) months thereafter. Nasdaq shall not take any action on such downsizing or reassignment until NASD has approved the knowledge transfer plan or the parties have effectively transitioned the function(s) to NASD or within Nasdaq. In the event the individual is no longer employed with Nasdaq, NASD shall have no prohibitions or obligations with respect to soliciting and hiring such individual.
+11.a. Project Staffing
+ 
+The Parties agree that they will not, directly or indirectly, solicit for employment any of the other party's personnel used in the
+11.b. Non-Solicitation.
+performance of services hereunder for a period of one (1) year from the end of the Term, absent the employing party's written consent. Notwithstanding the foregoing, this prohibition does not apply where general publication or solicitation of the job position results in hiring of the other party's employee.
+ 
+Section 12. Payment Procedures.
+ 
+Nasdaq shall send NASD a monthly invoice for Nasdaq's time and material charges for milestones reached in the prior billing period. The monthly invoice shall also reflect the monthly flat rate for Core Services (for purposes of clarification, 1/12 of $2,700,000.00 plus $11,500,000 in the first year). Nasdaq shall submit invoices for time and material work based upon milestone completion dates as set out in the Enhancement project plan or other documentation evidencing the request by NASD for such time and material work. NASD will pay all invoices not in dispute within thirty (30) days of its receipt of such invoice ("Due Date"). If NASD disputes any amount, it will pay all amounts not in dispute and will notify Nasdaq of its dispute within ten (10) business days of its receipt of such invoice. Nasdaq's Product Manager(s) and NASD's OTCBB/OTC Equities Product Manager will then attempt to resolve such discrepancies. If the parties are unable to resolve any such dispute within twenty (20) business days of NASD's receipt of such invoice, then the parties will then resolve any remaining disagreements through the procedures set forth in Section 30 herein. All invoices may be paid by electronic funds transfer.
+12.a. Monthly Invoice.
+ 
+NASD shall pay a late fee charge equal to one half of one percent (1/2%) per month of the invoiced amount for any undisputed amounts not paid within 30 days from the Due Date or the resolution of the dispute pursuant to the procedures set forth in Section 30, as appropriate.
+12.b. Late Fees.
+ 
+Section 13. Warranties; Defects.
+ 
+Nasdaq warrants and represents that during the period immediately following acceptance (), Nasdaq will correct, at no additional cost to NASD, any material deficiency solely and directly attributable to Nasdaq's design or construction that prevents the OTC Systems, Business Subsystems or any Enhancement, modification, bug fix and Other Services from remaining Fully Operational (). NASD shall notify Nasdaq in writing of any such Material Deficiency of which it is aware. Nasdaq shall notify NASD of any such Material Deficiency of which it becomes aware. The Warranty Period will continue until the OTC Systems and any Enhancement, Modification, bug fix, subsequent Release and all modifications and Other Services operate for a period of ninety (90) consecutive calendar days without experiencing such a deficiency. Nasdaq will be obligated under this warranty to remedy any Material Deficiency in accordance with the Emergency Procedures set forth in Exhibit 13.a. and with a service level that is not less than the service level that it provides to its own critical systems such as the quoting functionality of SuperMontage or ACT. Nasdaq will make all commercially reasonable efforts to remedy such deficiency in such a manner as will have the minimum adverse impact upon the operation of the Businesses. This warranty is a limited warranty.
+13.a. Nasdaq Warranties.
+"Warranty Period"
+"Material Deficiency"
+As of the Effective Date, Nasdaq knows of no defect in the OTC Systems (including the Enhancements, modifications, other Services and Releases to the Businesses) defects in any security mechanisms, or the presence of any Trojan Horses' (code inserted by a manufacturer or Nasdaq, which is not described in the documentation, whose purpose is to provide a person or computer other than NASD the ability to gain control of all or some of the system on conditions set by or triggered by any event or person other than NASD), viruses (code embedded in the system whose purpose is to halt effective operation or use of the system on conditions set by or triggered by an event or a person other than NASD), trap doors (means by which an unauthorized user may circumvent the security protections of the OTC Systems or gain access without authorization of NASD), and similar devices. Nasdaq will notify NASD of any later discovered (during the Term) defects in its security mechanisms, such as Trojan Horses', viruses, trap doors, or similar devices in the OTC Systems.
+13.b. No Defects.
+ 
+Each party warrants that it will, at its sole expense, comply with all applicable laws, regulations, and requirements, and that its performance of this Agreement will not cause the other party to violate any State, Federal or local laws, including but not limited to any sales or use tax, Americans with Disabilities Act, environmental and toxic waste disposal, immigration, and equal employment laws. Nasdaq and NASD also warrant that: (i) they will cause their respective subcontractors (if any) to comply with the provisions of this Section 13.c.; and (ii) while on-site, its personnel will comply with the sections of NASD's or Nasdaq's Employee Handbook related to Equal Employment Opportunities, Sexual Harassment, and Substance Abuse Policies, as relevant, as if its personnel were employees of the other.
+13.c. Compliance With Applicable Laws.
+ 
+EXCEPT AS EXPLICITLY SET FORTH IN THIS SECTION 13, NASDAQ MAKES NO, AND HEREBY DISCLAIMS ALL, WARRANTIES, CONDITIONS, UNDERTAKINGS, TERMS OR REPRESENTATIONS, EXPRESSED OR IMPLIED BY STATUTE, COMMON LAW OR OTHERWISE, IN RELATION TO THE OTC SYSTEMS OR THE SERVICES TO BE RENDERED HEREUNDER OR ANY PART OR PARTS OF THE SAME OR THE USE THEREOF. NASDAQ SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT. NASDAQ FURTHER DOES NOT WARRANT THAT THE OPERATION OF THE OTC SYSTEMS WILL BE UNINTERRUPTED OR ERROR-FREE.
+13.d.i. Disclaimers/General.
+ 
+. NASDAQ SHALL NOT HAVE ANY LIABILITY FOR A DATA ENTRY ERROR OF WHICH NASD WAS AWARE AND WHICH WAS NOT BROUGHT TO THEIR ATTENTION BY NASD PURSUANT TO SECTION 4.C HEREOF. NASDAQ WILL REMAIN LIABLE FOR FAILURES TO CORRECT DATA ENTRY ERRORS BROUGHT TO THEIR ATTENTION BY NASD AND FAILURES TO FOLLOW NASD'S INSTRUCTIONS WITH RESPECT TO THE CORRECTION OF INITIAL DATA ENTRY ERRORS.
+13.d.ii. Disclaimers/Data Entry Error
+The term of this Agreement will begin as of the Effective Date and, subject to Section 15 below, continue for a two-year term ("Initial Term"). Thereafter, the Term of this Agreement may be extended for additional one-year terms upon the agreement of the parties ("Renewal Term"). The time period from the Effective Date through the Initial Term, any Renewal terms and any Transition Period shall be collectively referred to as the "Term." In the event a party does not wish to renew this Agreement, it must provide the other party with ninety (90) calendar days written notice prior to the end of the then current Initial or Renewal Term.
+Section 14. Term of Agreement.
+ 
+Section 15. Termination
+ 
+Either party may terminate this Agreement due to a material breach by the other party upon thirty (30) day notice that if the breach is capable of being cured there shall be a thirty (30) day opportunity to cure ("Cure Period") which may run concurrently with the notice of termination. The party aggrieved by the breach shall give written notice to the other party that this Agreement shall be terminated not earlier than thirty (30) calendar days from receipt of the notice, and such notice shall state with specificity the grounds for termination. If the breach is curable, the party in breach will have the right to cure such breach, at its own expense, prior to the date stated for termination so long as it uses commercially reasonable efforts in resolving such breach as soon as possible. Should the breach be cured prior to the date stated for termination, such cure shall vacate the notice to terminate. Notwithstanding the above, the Cure Period shall not apply to the Emergency Procedures in Exhibit 13.a., the Specifically Enumerated Material Breaches for Nasdaq set forth in Section 15.b. or in the event of Nasdaq's or NASD's bankruptcy or insolvency or other circumstance as set forth in Section 15.d.
+15.a. Termination for Breach.
+provided
+ 
+The following shall be considered "Specifically Enumerated Material Breaches" by Nasdaq and the Cure Period in Section 15.a. above shall not apply:
+15.b.
+Specifically
+Enumerated Material Breaches for Nasdaq.
+ 
+Regardless of whether Nasdaq has followed the Emergency Procedures set forth in Exhibit 13.a., three (3) OTC Systems outages lasting 2 hours or more in any six (6) month period.
+i.
+ 
+Nasdaq fails to comply with a material procedure set out in the Emergency Procedures set forth in Exhibit 13.a., related to eight (8) OTC Systems outages of thirty (30) minutes or more in any six (6) month period.
+ii.
+ 
+iii. Any OTC Systems outage or failure that results in the SEC citing the NASD for a deficiency related to a statutory obligation or obligation flowing from a statutory obligation.
+NASD shall inform Nasdaq in writing of each OTC Systems outage that it deems covered by this Section 15.b within forty-eight (48) hours of the end of the OTC Systems outage. Notwithstanding NASD's failure to notify Nasdaq of such outage, any such outage shall count under the above reference sections.
+ 
+For avoidance of doubt, nothing in this Agreement shall limit Nasdaq's rights as set forth in Section 34 with respect to a force majeure event. Accordingly, notwithstanding Section 15.a, any OTC Systems outage directly caused by a force majeure event shall not count as a OTC Systems outage for purposes of this Section 15.a. NASD and Nasdaq shall each have the right, at its sole discretion, to exercise any and all remedies provided for in this Agreement in the event of a material breach hereunder.
+15.c. No Limitation on Force Majeure Events.
+ 
+In the event of the bankruptcy or insolvency of either party, or in the event any proceeding is brought against either party and not dismissed within ninety (90) days, whether voluntary or involuntary under the bankruptcy or insolvency laws, the other party shall be entitled to terminate this Agreement for breach upon sixty (60) calendar days prior written notice at any time during the period for filing claims against the estate. The Cure Period set forth in Section 15.a shall not apply in the event either party has a right of termination under this Section 15.d.
+15.d. Bankruptcy or Insolvency.
+ 
+Neither party will be liable to the other for damages up to and to the extent such damage is the result of the delay of the party claiming damages if the party claiming damage had direct knowledge of and approved such delay in writing. Nasdaq and NASD further understand and agree that in the event that NASD: (i) changes the specifications or requirements for the Enhancements, modifications, releases and other services without following the Change Procedures; (ii) fails to undertake required reviews or grant approvals of design or technical specification revisions in a timely manner; or (iii) otherwise causes delays in Nasdaq's performance of its obligations under this Agreement that are attributable to NASD, Nasdaq will not be liable to NASD for damages up to and to the extent that such damages result from such delay.
+15.e. Liability for Delay.
+ 
+15.f. Intentionally Omitted.
+ 
+Notwithstanding the delivery of a notice of default or notice of termination by either party to the other, all obligations to perform hereunder and to make any required payments shall continue in effect and be duly observed and complied with by both parties until the effective date of any termination and up to the expiration of the Transition Period, if any.
+15.g. Performance Until Termination; Payment Obligations Upon Termination.
+ 
+Except with regard to Performance Reports which shall be governed by Section 6.d.4, upon termination of this Agreement for any reason and after the expiration of the Transition Period, if any,
+15.h. Return of Documents and Data.
+Nasdaq shall, without additional cost to or demand from NASD, return to NASD in an orderly and expeditious manner all information, records, documentation, data (in a format which is mutually acceptable to the parties), in its possession that is owned by NASD and is related to this Agreement, and destroy all copies, including backup copies of Data and shall certify in writing that it has done so. Upon termination of this Agreement for any reason, the parties shall, without additional cost to or demand from the other party, return in an orderly and expeditious manner all information, records, documentation, data, and other property in its possession that is owned by the other party and is related to this Agreement and shall certify in writing that it has done so.
+ 
+In the event NASD terminates for Nasdaq's breach, Nasdaq shall pay to NASD Five Million Dollars ($5,000,000) within ten (10) business days of the effective date of termination ("Liquidated Damages"). The parties hereto agree that in the event of a Nasdaq uncured breach of this Agreement, damages would be difficult to ascertain and that the liquidated damages measure associated with Nasdaq's breach and contained herein is a reasonable and proper measure of damages which NASD will sustain for the failure of Nasdaq perform under this Agreement. In no way shall costs for liquidated damages be construed as a penalty on Nasdaq.Liquidated Damages shall be NASD's sole monetary remedy for Nasdaq's breach of this Agreement.
+15.i. Liquidated Damages for Breach.
+ 
+Section 16. Ownership.
+ 
+16.a. Intellectual Property Ownership.
+ 
+Nasdaq shall own all right, title and interest in and to Nasdaq OTC Software, Combined OTC Software and Interfaces listed on Exhibit 3.b.
+16.a.i. Nasdaq Intellectual Property.
+ 
+NASD shall own all right, title and interest in and to Independent OTC Software and all derivatives and modifications thereof and all right title and interest in and to the Businesses' Assets.
+16.a.ii. NASD Intellectual Property.
+ 
+Notwithstanding any language to the contrary in this Agreement, the party which introduces an idea for an Enhancement ("") shall own the Enhancement Idea until such time as the parties can agree on funding for development or the parties agree otherwise, that either party may refute a claim of ownership hereunder through a showing by a contemporaneous writing that it had a substantially similar idea. By way of example and not limitation, e-mails shall be considered to be a type of writing covered by this paragraph.
+16.a.iii. Enhancement Idea.
+Enhancement Idea
+provided, however,
+ 
+NASD shall own or hold the licenses or other user rights applicable to third party commercial software and hardware that is purchased by NASD. Notwithstanding the above, NASD shall ensure that Nasdaq has the rights needed to use such software and hardware as needed to provide
+16.b. Purchased Business Specific Products.
+the Services. NASD shall use commercially reasonable efforts to ensure that Nasdaq is provided the same protections and limitations on liability as NASD in any contract executed to purchase the products referenced in this Section 16. NASD will insure all equipment owned or leased by it and provide Nasdaq with certificates of insurance.
+ 
+. Nasdaq shall own or hold the licenses or other user rights applicable to third party commercial software and hardware that is purchased by Nasdaq and that will be used both by Nasdaq to provide the Services and for its own use. Nasdaq shall use commercially reasonable efforts to ensure that NASD is provided the same protections and limitations on liability as Nasdaq in any contract executed to purchase the products referenced in this Section 16. Nasdaq will insure all equipment owned or leased by it and provide NASD with certificates of insurance.
+16.c. Purchased Products Shared by Nasdaq and NASD
+ 
+Section 17. Noncompete.
+ 
+For purposes of this Section 17, the term "Term" shall apply only to the Initial Term and any Renewal Term(s) and specifically shall not include any Transition PeriodNasdaq agrees to the following:
+17.a.
+.
+ 
+For a period of three (3) years from the date of execution of this Agreement, Nasdaq will not compete against the Businesses.
+i.
+ 
+For a period of five (5) years from the end of the Term, Nasdaq will not use any NASD Enhancements.
+ii.
+ 
+For a period of five (5) years from the end of the Term, Nasdaq will not use any Partially Funded Enhancements in any business that it may conduct which is similar or substantially similar to the Businesses.
+iii.
+ 
+Notwithstanding the foregoing, NASD agrees and understands that nothing in this Section 17 or this Agreement will limit Nasdaq's ability to implement, modify, rescind or change any listing standards in any market or system operated by it, nor will it affect or in any way limit Nasdaq's ability to continue to operate the Nasdaq Small Cap Market.
+17. b.
+ 
+The parties acknowledge and agree that they may each be given access to confidential or proprietary information of the other in performing their obligations under this Agreement ("Confidential Information"). Each party shall use such information only in fulfillment of its obligations under this Agreement; shall hold such information in confidence; and shall not disclose, copy or publish any such information without the prior written approval of the other party. Notes, documents, summaries or reports which either party prepares from Confidential Information, to the extent such specifically refer or relate to Confidential Information are themselves Confidential Information. The obligations of this Section will survive for a period of five (5) years from the completion or termination of this Agreement.
+Section 18. Confidentiality.
+18.a. Accidental Disclosure.
+ 
+Nasdaq acknowledges that it may be given access to areas in which it may observe or acquire private, regulatory or material non-public information about entities listed, employed, or regulated by NASD (including but not limited to information relating to: investigatory matters, personnel matters, regulatory matters, matters involving broker/dealers, issuers, or issues) in performing its obligations under this Agreement. Nasdaq will consider such information to be Confidential Information; and shall not use, disclose, copy, or publish any such information without the prior written approval of NASD unless such information is: (1) lawfully within its possession either prior to this Agreement or via a source other than the disclosing Party; (2) voluntarily disclosed by a third party so long as that party does not breach any obligation not to reveal such information; (3) voluntarily disclosed to the public by NASD; or (4) is generally known to the public.
+i.
+ 
+NASD acknowledges that it may be given access to areas in which it may observe or acquire private, regulatory or material non-public information about Nasdaq in performing its obligations under this Agreement. NASD will consider such information to be Confidential Information; and shall not use, disclose, copy, or publish any such information without the prior written approval of Nasdaq unless such information is: (1) lawfully within its possession prior to this Agreement; (2) voluntarily disclosed by a third party so long as that party does not breach any obligation not to reveal such information; (3) voluntarily disclosed to the public by the Nasdaq; or (4) is generally known to the public.
+ii.
+ 
+The Parties acknowledge the sensitive and secret nature of the Confidential Information they will have access to and agree that they will treat such Confidential Information as strictly confidential and shall exercise the same degree of care in the protection of the Confidential Information as they each exercise with respect to their own proprietary property and trade secrets, but in no event less than a reasonable degree of care given the nature of the Confidential Information.
+18.b. Standard of Care.
+ 
+The parties agree not to disclose Confidential Information to any person or entity, except their employees and subcontractors involved in the performance of this Agreement, or to use the Confidential Information for any purpose other than the performance of this Agreement. Access to Confidential Information will be limited to those subcontractors and employees with a need to know and who are covered by a then effective legal obligation with the recipient party that prohibits the disclosure or unauthorized use of confidential information at least to the same extent as this Section 18. The existence of such an obligation by an employee or subcontractor shall not operate to relieve the party from liability for acts of such employee or subcontractor that result in a breach of this Section 18.
+18.c. Subcontractors.
+ 
+Each party agrees that, other than as specifically set out herein or to effectuate the purpose of this Agreement, all Confidential Information, including any copies, notes and other documents referencing or relating to the Confidential Information, shall be returned to the owner of such
+18.d. Return of Confidential Information.
+Confidential Information or destroyed upon request within ten (10) calendar days of the completion or termination of this Agreement at the sole discretion of the owner of such Confidential Information, that either party may keep one copy of such Confidential Information to the extent necessary to satisfy legal and/or regulatory obligations.
+provided, however,
+ 
+All Intellectual Property Rights associated with the Confidential Information, including without limitation, patent, trademark, copyright, trade secret rights, and moral rights shall remain in the party owning the Confidential Information.
+18.e. Intellectual Property.
+ 
+The obligation of non-disclosure contained in this Section 18 shall not extend to disclosures required by law or a governmental agency with regulatory authority over the discloser.
+18.f. Limitations.
+ 
+Nasdaq and its personnel, in performance of this Agreement, are acting as independent contractors and not as employees or agents of NASD. All individuals assigned by Nasdaq to participate in the performance of this Agreement will be employees or subcontractors of Nasdaq. Nasdaq shall provide all insurance coverage required by applicable laws, regulations, or employment agreements, including, without limitation, medical and workman's compensation. Nasdaq represents and warrants that neither Nasdaq nor any individual employed by or associated with Nasdaq shall be an employee of NASD for any purpose whatsoever. Nasdaq shall be responsible for payment of all costs associated with the hiring and employment of all subcontractors for the amount of time that the subcontractors will be needed and all unemployment, social security and other payroll taxes of all individuals who are engaged in the performance of the Services, except for those individuals employed by NASD and providing services to Nasdaq pursuant to an agreement between the Parties. If, at any time, any liability is asserted against NASD for unemployment, social security or any other payroll tax related to Nasdaq or any individuals or subcontractors employed by or associated with Nasdaq, then Nasdaq shall indemnify and hold harmless NASD from any such liability, including, without limitation, any such taxes, any interest or penalties related thereto, and reasonable attorney's fees and costs.
+Section 19. Independent Contractor.
+ 
+Except as otherwise set forth herein, each party agrees to indemnify and hold harmless the other party against all losses, costs and expenses (including reasonable attorney's fees) that the other party may incur by reason of any third party suit arising from the breach of any terms, provisions, covenants, warranties or representations contained herein and/or in connection with the enforcement of this Agreement or any provision hereof
+Section 20. Indemnification.
+ 
+Except as otherwise set forth herein, Nasdaq will indemnify, defend and hold harmless NASD against any damages, liabilities, costs and expenses (including reasonable attorneys fees) incurred by NASD as a result of any third party claim that the software and services rendered by
+20.a. Intellectual Property Indemnification.
+Nasdaq to NASD under this Agreement, including without limitation, OTC Systems, Enhancements, modifications, bug fixes, error corrections, Other Services or the Core Services, when used within the scope of this Agreement, infringes on any US patent or any copyright, trademark, trade secret or other intellectual property right of any third party. Notwithstanding the foregoing, Nasdaq will not be liable for indemnifying, defending or holding NASD harmless against any damages, liabilities, costs and expenses (including reasonable attorneys fees) for a claim under this section up to and to the extent it results from modification of the Nasdaq Systems by Nasdaq at the request of NASD (unless Nasdaq's project team working on the relevant development knew or should have known such modifications would violate the claiming party's intellectual property rights at issue) or from modification of the Nasdaq Systems by NASD. Nasdaq shall be given prompt notice of such claim and shall be given information, reasonable assistance and sole authority to defend or settle the claim. Notwithstanding the foregoing, NASD has the right to retain separate counsel in any such matter of its own choosing and at its own cost, and Nasdaq agrees to allow NASD's counsel reasonable access to all matters pertaining to the claim which affect NASD.
+ 
+In the defense or settlement of a claim for which it provides indemnification hereunder, Nasdaq will have the right at its sole option and expense to (i) obtain the right to continue using the OTC Systems, Core Services or other services or (ii) replace or modify the OTC Systems, Core Services or other services so that they become non-infringing while giving equivalent performance. If neither option (i) or (ii) is commercially reasonable, Nasdaq may upon reasonable notice to NASD cease using the affected part of the OTC Systems, Core Services or Other Services and NASD shall not be obligated to make further payments under the Core Services or hourly rates relating to such discontinuation and shall be entitled to a refund, on a pro rata basis, of any monies paid by it for an Enhancement that no longer can be used because of such discontinuation along with a reduction of Core Services fees attributable to such discontinued part of the OTC Systems, Core Services or Other Services and return of any prepaid Core Services fees attributable to the discontinued part of the OTC Systems, Core Services or Other Services, if any. In the event such termination of service materially affects Nasdaq's ability to provide the Services hereunder, NASD shall be entitled to terminate this Agreement upon thirty (30) days' notice to Nasdaq, such notice to be delivered within thirty (30) days of receiving Nasdaq's notice as described in the immediately preceding sentence, with no further liability or obligation (other than any obligations arising under the Transition Period). In the event of termination by NASD under this Section 20.a. Nasdaq shall be considered to be in breach solely for purpose of Section 15.i (Liquidated Damages). Indemnification will also extend to claims and losses against NASD as an aider, abetter or contributory infringer.
+20.a.i.
+ 
+Each party shall be solely responsible for any physical injuries, including death, to its own employees and any damage to their own tangible personal or real property occurring on account of or in connection with its performance of this Agreement unless such personal or real property is under the control of one party which does have rightful title to such personal or real property in which case the party with custody over such personal or real property shall be liable for damage
+20.b. Physical Injuries.
+therefore and shall indemnify and hold harmless the other party from any and all loss and liability related thereto, including, but not limited to, liability for the payment of workman's compensation and disability benefits, any and all claims on account of such injuries to persons or physical damage to property, and all costs and expenses in suits (including reasonable attorney's fees and costs) that may be brought against the other party on account of any such injuries to persons or physical damage to property, , , that the indemnifying party shall not be obligated to indemnify and hold harmless the other party from any loss or liability arising out of injuries or damage caused by or resulting from the negligence or willful misconduct of the other party, its agents, employees, officers or subcontractors.
+provided
+however
+ 
+Nasdaq shall retain responsibility for all third party liabilities and third party claims made relating to or arising from the Businesses prior to the Effective Date and shall indemnify, defend and hold harmless NASD, its directors, officers, employees, affiliate, members representatives and agents against any damages, liabilities, costs and expenses (including reasonable attorneys fees) incurred there from by NASD.
+20.c. Prior Claims.
+ 
+Nasdaq hereby agrees that it will indemnify and hold harmless NASD from and against any liability arising from the acts of any subcontractor that Nasdaq uses to provide the services and fulfill its obligations to under the terms of this Agreement. NASD hereby agrees that it will indemnify and hold harmless Nasdaq from and against any liability arising from the acts of any subcontractor that NASD uses to provide services and fulfill its obligations to Nasdaq under the terms of this Agreement. Nasdaq further agrees that it will use commercially reasonable efforts to ensure that each subcontractor that it uses in the performance of this Agreement and that have contracted with Nasdaq after the execution date of this Agreement maintains workers' compensation insurance coverage in an amount not less than the applicable statutory minimum. Notwithstanding the foregoing, Nasdaq shall not be obligated to retroactively ensure that its current and former subcontractors (), as of the execution date of this Agreement, maintain any specific type or level of insurance. In the event that Nasdaq's Prior Subcontractors do not have the type or level of insurance required by this Agreement, Nasdaq hereby agrees to give NASD the full benefit of any insurance carried by such Prior Subcontractor. The indemnification obligations set forth herein shall be subject to the indemnification procedures and limitations set forth in Section 20.e.
+20.d. Subcontractors.
+"Prior Subcontractors"
+ 
+20. e. Procedures.
+ 
+The party claiming indemnification under this Agreement shall promptly notify the other party (and, in the case of any action, suit, arbitration, or judicial or administrative proceeding, shall so notify no later than fifteen (15) calendar days after the party claiming indemnification has received notice thereof or has been served with a complaint or other process) when it has knowledge of circumstances or the occurrence of any events that are likely to result in an indemnification obligation under this Agreement or when any action, suit, arbitration, or judicial or administrative proceeding is pending or threatened and a party is seeking indemnification as provided for in this Agreement.
+i.
+Upon request, and to the extent permitted by applicable law, the indemnifying party shall have the right to defend, settle, or compromise any such suit or proceeding, at its expense, : (A) it demonstrates to the satisfaction of the party claiming indemnification that it is financially able to defend such action and to pay any settlement, award or judgment; (B) counsel retained by it are reasonably satisfactory to the party claiming indemnification; and (C) no settlement shall be made which imposes any obligations on (other than the payment of money which is made by the indemnifying party on behalf of the indemnified party), or is prejudicial to, the party claiming indemnification, without the prior consent of the party claiming indemnification, which consent shall not be unreasonably withheld.
+ii.
+provided that
+ 
+The party claiming indemnification shall reasonably cooperate with the other party in the defense of any such suit or proceeding, and the other party requesting such cooperation shall reimburse the party claiming indemnification for its reasonable expenses with respect thereto. Such cooperation shall include, but not be limited to, the making of statements and affidavits, attendance at hearings and trials, production of documents, assistance in securing and giving evidence and obtaining the attendance of witnesses. The party claiming indemnification shall not be required to waive its attorney-client or other privileges.
+iii.
+ 
+Failure by the party claiming indemnification to promptly notify the other party as required by this subsection shall not invalidate the claim for indemnification, unless such failure has a material adverse effect on the settlement, defense, or compromise of the matter that is the subject of the claim for indemnification. In addition, the party claiming indemnification shall be responsible for any claims or losses that could have been avoided or mitigated by prompt notice as required by this subsection.
+iv.
+ 
+Nothing in this Agreement shall entitle any person or entity to any rights as a third-party beneficiary under this Agreement.
+Section 21. No Third Party Beneficiaries.
+ 
+Section 22. Limitation of Liability.
+NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT OR CONSEQUENTIAL LOSS, NOR FOR LOSS OF PROFITS WHETHER OR NOT EITHER PARTY SHALL HAVE BEEN ADVISED OF OR OTHERWISE MIGHT HAVE ANTICIPATED THE POSSIBILITY OF SUCH DAMAGES. FURTHERMORE EACH PARTY'S LIABILITY FOR DIRECT DAMAGES SHALL NOT EXCEED FIVE MILLION DOLLARS ($5,000,000.00). NOTWITHSTANDING THE FOREGOING, THIS SECTION SHALL NOT APPLY TO EITHER PARTY'S VIOLATION OF THE CONFIDENTIALITY PROVISIONS SET FORTH IN SECTION 18, INTELLECTUAL PROPERTY INDEMNIFICATION, PERSONAL INJURY INCLUDING DEATH, PERSONAL PROPERTY DAMAGE, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, OR THE PARTIES' RESPECTIVE INDEMNIFICATION OBLIGATIONS.
+Each party warrants to the other party that it is not under any contract or obligation, nor will it enter into a contract or assume an obligation during the Term of this Agreement, that would in any manner interfere with its duties and responsibilities under this Agreement or any extension hereof or conflict with the interests of the other party as indicated by the nature of the work performed hereunder.
+Section 23. Conflict of Interest.
+ 
+Each party agrees that it will comply with all applicable export laws and regulations of the United States including, without limitation, regulations: (i) controlling the distribution of sophisticated technology; and (ii) deemed exports. Each party may reasonably request that the other party provide it with a copy of evidence of the right to work in the United States for each person that such party intends to assign to a project prior to that person's commencing work on such project.
+Section 24. Export Compliance.
+ 
+Each party's personnel will be instructed to comply with security regulations pertinent to the other party's location that they enter. A party's personnel, when deemed appropriate by the other party in its sole discretion, will be issued a visitor identification card by the other party. Such cards will be surrendered by a party's personnel upon demand by the other party and without further demand upon expiration or termination of this Agreement.
+Section 25. Security.
+ 
+The parties agree that they will not use the Intellectual Property Rights of the other party in any informational or promotional material intended for public distribution without the prior written consent of the party that is the owner of such intellectual property. The parties further agree that they will not use any trademark, service mark, copyright, or patent of the other party, or that party's subsidiaries or affiliates, registered or unregistered, without the prior written consent of the other party. A party may, include the name of other party in reports required by law or regulatory authorities without the other party's prior written consent, that the party disclosing such information will promptly notify the other party of such required disclosure.
+Section 26. Non-Use of Intellectual Property.
+however,
+provided, however,
+ 
+Neither party will be responsible for the payment of any tax assessed on the personal property or net income of the other party. Further, NASD will be responsible for the payment of all personal property or use taxes due with respect to assets owned or leased by NASD and used by Nasdaq for the performance of this Agreement.
+Section 27. Taxes.
+ 
+Each party will keep and maintain at its principal place of business true and accurate books, records, accounts and data (including without limitation, copies of all relevant contracts to which they are a party that specifically relate to the performance obligation in this Agreement) that will accurately reflect the terms and conditions of all payments or disbursements rendered or made, and all expenses, obligations and liabilities incurred or accrued in connection with the performance of this Agreement.
+Section 28. Books and Records.
+The parties and their agents or representatives will have the right to conduct audits of each other's performance of this Agreement in accordance with the terms and conditions of this Section 29. Unless otherwise specified in this section, NASD shall not be charged any audit preparation or audit access fees for audits performed under this section.
+Section 29. Audit Rights.
+ 
+The parties and their representatives and agents will have the right to observe/monitor and audit all services and processes relating to the non-auditing party's obligations and performance of this Agreement. Such audits may occur at reasonable times during business hours, at any of the non-auditing party's facility, and at such times as the non-auditing party may approve at any non-auditing party's facility, where the non-auditing party is engaged in the performance of this Agreement, that no such audits may disrupt or otherwise hinder the non-auditing party's performance of its obligations under this Agreement or the non-auditing party's other business operations. The auditing party must comply with all security procedures at the non-auditing party's facilities. The auditing party will provide the non-auditing party with copies of any reports prepared by the auditing party or its agents that contain the results of such audit. The Parties may perform a technical audit one time per year during the Term of this Agreement and any Renewal Terms or Transition Terms (unless such audit reveals errors in the manner in which Nasdaq carries out its obligations and performances under this Agreement). In the event an audit reveals errors in the manner in which Nasdaq carries out its obligations and performances under this Agreement, Nasdaq shall pay for the costs of all audits under this section and NASD may re-perform such audit until such time as no errors are detected.
+29.a. Technical Audit.
+provided however
+,
+.
+ 
+The auditing party and its representatives and agents will have the right during the non-auditing party's normal business hours, and with reasonable advance notice, to review, copy and perform financial audits solely for the purpose of verifying pass through revenue obligations under Section 4 of this Agreement and any labor charges previously invoiced to the auditing party and in compliance with the Competitive Pricing obligations set forth in this Agreement. Such audits shall not unreasonably interfere with the business of the non-auditing party. In the event that such audits reveal that amounts invoiced to the auditing party exceed the correct charges or revenues under this Agreement by at least ten percent (10%) for charges and one percent (1%) for revenues, the non-auditing party will reimburse the auditing party for the cost of such review and audit in addition to refunding the identified overpayment/underpayment by the auditing party. The non-auditing party will: (i) provide the auditing party with copies of any audit reports produced by the non-auditing party, or a third party retained by non-auditing party, during the Term of this Agreement; and (ii) meet with the auditing party at least quarterly during the Term of this Agreement to: (a) coordinate and plan regularly scheduled and special audits; and (b) ensure that the scope of such audits are acceptable to the parties.
+29.b. Financial Audit.
+ 
+NASD and their representatives and agents will have the right to observe/monitor and audit all services and processes relating to the Nasdaq's performance of OTC Operations Services under this Agreement. Such audits
+29.c. Operational Audit.
+may occur twice during the Term during reasonable times during business hours, at any of Nasdaq's facilities where Nasdaq is engaged in the performance of this Agreement, that no such audits may unreasonably disrupt or otherwise hinder the Nasdaq's performance of its obligations under this Agreement or Nasdaq's other business operations. NASD must comply with all security procedures at Nasdaq's facilities. NASD will provide Nasdaq with copies of any reports prepared by NASD or its agents that contain the results of such audit.
+provided however
+,
+ 
+The parties will conduct a joint audit upon expiration of the Initial Term or termination of this Agreement, whichever occurs first, in order to review for completeness and accuracy the list of the Businesses' Assets, the BRD, the TDD, the OPM, NASD OTC Software, Independent OTC Software, Nasdaq OTC Software and Combined OTC Software. In the event the parties cannot agree on whether an asset should be transferred or the contents of any of the items listed in this section, the parties will go to Dispute Resolution on the issue.
+29.d. Joint IP Audit.
+ 
+Each calendar year Nasdaq shall identify, document and perform testing on controls over the reporting and preparation of OTC data for financial accounting purposes necessary in order for NASD to meet its Sarbanes-Oxley requirements (""). NASD will pay fifty-percent of the fees actually incurred by Nasdaq as a direct result of conducting SOX Testing or Twenty-Five Thousand Dollars ($25,000.00) whichever is less. Within ten (10) business days of completion of its SOX Testing, but in any event not later than October 31
+29.e. Financial Accounting Controls Audit.
+SOX Testing
+st
+of each year, Nasdaq shall provide NASD or its auditors with documentation (including working papers) sufficient for NASD or its auditors to evaluate whether Nasdaq's SOX Testing meets NASD's Sarbanes-Oxley requirements. In the event the documentation reveals that the SOX Testing is insufficient or inadequate due to testing not being appropriately developed or performed ("") or due to the tested controls not functioning properly ("") (either referred to as ""), Nasdaq shall remediate and re-test any control related to such SOX Deficiency. NASD shall not be liable to Nasdaq for its cost to remediate the SOX Deficiency. In the event Nasdaq does not conduct SOX Testing or fails in its first attempt to remedy a SOX Deficiency in a manner sufficient to allow NASD to meet NASD's Sarbanes-Oxley requirements, NASD shall have the option of hiring a third party consultant to remedy the SOX Deficiency and Nasdaq shall be liable for cost of such consultants reasonable fees and expenses. NASD reserves the right to perform testing on the controls that Nasdaq develops for SOX Testing at Nasdaq's site.
+Testing Deficiency
+Control Deficiency
+SOX Deficiency
+ 
+This Section 30 governs any dispute, disagreement, claim or controversy between the parties arising out of or relating to this Agreement, its breach or the arbitration provisions (the ). All Disputed Matters will be submitted to the following dispute resolution process:
+Section 30. Dispute Resolution.
+Disputed Matter
+ 
+First, the Disputed Matter will be considered by NASD's OTCBB/OTC Equities Product Manager and Nasdaq's OTCBB/OTC Equities Product Manager. They will attempt to resolve the
+30.a. First Stage - Product Manager Mediation.
+Disputed Matter within ten (10) business days. Each Disputed Matter that is not settled within such ten (10) day period will be referred to the second stage of this dispute resolution process.
+ 
+Second, the Disputed Matter will be considered by an NASD Officer for Technology Administration and a Nasdaq Officer for Data Administration who will attempt to resolve the Disputed Matter within five (5) business days. Each Disputed Matter that is not settled within such five (5) day period shall be referred to the third stage of this dispute resolution process.
+30.b. Second Stage - Officer Mediation.
+ 
+The Disputed Matter will then be considered by a senior executive of each party. The parties will provide written notification of their executive designated to serve in this capacity within sixty (60) calendar days of the date this Agreement is signed. These executives will meet in an attempt to resolve the Disputed Matter within ten (10) business days of the Officer Mediation. If the Disputed Matter cannot be resolved by such senior executives, the Disputed Matter will then be referred to the fourth stage of this dispute resolution procedure. The OTCBB/OTC Equities Product Manager, Officer Manager, and Executive mediations will have been without prejudice to the legal position of either party, and will be considered settlement discussions under applicable rules of evidence.
+30.c. Third Stage - Executive Mediation.
+ 
+All claims, disputes, controversies and other matters in question between the parties to this Agreement arising out of or relating to this Agreement or the breach thereof that cannot be resolved by the parties shall be settled by binding arbitration in accordance with this Agreement and the following procedure or such other procedures as may be agreed upon by the parties in writing:
+30.d. Fourth Stage - Binding Arbitration.
+ 
+Either party may serve upon the other party, by hand or certified mail, a written demand, specifying in reasonable detail the nature of the matter, that the claim, dispute, or controversy or other matter in question be submitted to arbitration. The demand, which shall be effective upon receipt, shall be made within a reasonable time after the claim, dispute, controversy or other matter in question has arisen. In no event shall the demand for arbitration be made after the date when institution of legal or equitable proceedings, based upon such claim, dispute, controversy or other matter in question, would be barred by the applicable statute of limitations or laches. The parties shall not submit claims for punitive damages, and do hereby waive any right to the same, and the arbitrators shall not be authorized to award punitive damages resulting from, arising out of, or related to the performance of this Agreement.
+i.
+ 
+After service of a demand for arbitration, the parties shall attempt to agree upon a single arbitrator within ten (10) calendar days or such longer period as the parties may agree upon in writing.
+ii.
+ 
+In the event the parties cannot agree upon a single arbitrator within the period established under Section 30.d.ii above, then each party shall appoint one
+iii.
+arbitrator within an additional ten (10) calendar days and notify the other party of such appointment. If either party fails to timely appoint an arbitrator then the arbitrator appointed by the other party shall be the sole arbitrator. If, however, both parties appoint an arbitrator then a third arbitrator shall be selected within ten (10) calendar days thereafter by the first two arbitrators unless otherwise agreed by the parties in writing. If the arbitrators and the parties fail to appoint a third arbitrator, either party may request the American Arbitration Association or any federal or local court of the State of New York to appoint the third arbitrator.
+ 
+Except as otherwise provided herein, any arbitration proceeding shall be conducted in accordance with the Commercial Arbitration Rules and procedures of the American Arbitration Association or such other rules and procedures as are agreed to by the arbitrators or the parties in writing. Nothing contained herein shall be construed as requiring submission of any claim, dispute, controversy or other matter in question to the American Arbitration Association.
+iv.
+ 
+The arbitration proceeding shall be held in the State of New York, unless otherwise agreed by the arbitrators and the parties.
+v.
+ 
+The decision rendered through arbitration shall be final and binding upon the parties hereto and judgment may be entered in accordance with applicable law in any court having jurisdiction thereof. In rendering a decision, the arbitrators shall be governed by the terms of this Agreement.
+vi.
+ 
+Although the parties agree that compulsory and binding arbitration shall be the exclusive means of dispute resolution, judicial review of any arbitration decision or proceeding (other than entry or enforcement of an arbitration award/judgment) or of any matter arising under the terms of this Agreement, whether or not submitted to the binding arbitration process required by this Agreement, shall be brought solely in the federal or local courts of the State of New York.
+vii.
+ 
+The foregoing procedures shall not preclude either party from pursuing all available remedies for infringement of a registered patent, trademark, service mark, or copyright.
+viii.
+ 
+During the Term of this Agreement, each party will keep in full force and effect: (i) professional liability insurance covering the errors and omissions of the party committed in connection with this Agreement in an amount not less than $10,000,000.00; (ii) fidelity and computer crimes insurance in an amount not less than $10,000,000.00; and (iii) workers' compensation insurance coverage in an amount not less than the applicable statutory minimum.
+Section 31. Insurance.
+ 
+Each party shall have an ongoing obligation to use commercially reasonable efforts to maintain and update, in a timely manner, those Exhibits which are under each party's control.
+Section 32. Obligation to Update Exhibits.
+Each party will furnish to the other party certificates of insurance (on Accord forms) evidencing all coverage referenced in this Section 33 herein within thirty (30) days of the other party's reasonable request for such certificate.
+Section 33. Insurance Documentation
+.
+ 
+Except with regard to payment obligations, neither party shall be liable for delay or failure in performance of any of the acts required by this Agreement when such delay or failure arises from circumstances beyond its reasonable control (including, without limitation, acts of God, fire, flood, war, explosion, sabotage, terrorism, embargo, civil commotion, acts or omissions of any government entity, or labor disputes), and without the gross negligence or willful misconduct, of the party. If the period of non-performance exceeds thirty (30) calendar days, then the party to whom the performance is due shall have the right to terminate this Agreement on fifteen (15) calendar days additional written notice. In the event such termination by NASD, Nasdaq shall pay to NASD any amounts it had prepaid but not used, on a pro-rata basis.
+Section 34. Force Majeure
+.
+ 
+The unsuccessful party in any action or proceeding shall pay for all costs, expenses and reasonable attorneys' fees incurred by the prevailing party or its agents or both in enforcing the terms and conditions of this Agreement. The term "prevailing party" as used herein shall mean a party who utilizes legal counsel (in house and/or outside counsel) and brings or defends an action, suit, arbitration, or judicial or administrative proceeding involving an alleged breach or default under this Agreement and, if the plaintiff, obtains the relief sought (whether by award or judgment) or, if the defendant, the plaintiff fails to obtain the relief sought. In the event that neither party can be considered the "prevailing party," the arbitrator or judge shall have the discretion to equitably apportion costs and attorneys' fees and expenses.
+Section 35.
+Prevailing Party.
+ 
+All questions regarding the implementation of this Agreement shall be directed to the persons identified in , as applicable, below. All notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been duly given upon (i) actual receipt by the notified party or (ii) constructive receipt (as of the date marked on the return receipt) if sent by certified or registered mail or overnight delivery service, return receipt requested, to the following addresses:
+Section 36. Liaison and Notices.
+subsections (a) and (b)
+ 
+National Association of Securities Dealers, Inc.
+1735 K Street, N.W.
+Washington, DC 20006
+Attn: Steven Joachim - Executive Vice President
+ 
+With, in the case of notice of breach or default, a required copy to:
+National Association of Securities Dealers, Inc.
+1735 K Street, N.W.
+Washington, DC 20006
+Attn: Office of General Counsel - Contracts Group
+The Nasdaq Stock Market, Inc.
+165 Broadway
+New York, New York, 10006
+Attn: Karen Peterson, Vice President
+ 
+With, in the case of notice of breach or default, a required copy to:
+The Nasdaq Stock Market, Inc.
+9513 Key West Avenue Rockville, MD 20850
+Attn: Office of General Counsel - Contracts Group
+ 
+Neither party may assign this Agreement nor any right or obligation contained herein without the prior written consent of the other party either party may assign this Agreement to an affiliate that owns, is owned by, or is under common control with the assigning party. In the event assignment is permitted the original party to this Agreement shall remain liable for the obligations hereunder and be a guarantor for the assignee's performance hereunder.
+Section 37. Assignment.
+provided, however,
+ 
+This Agreement shall be deemed to have been made in the State of New York and will be construed and enforced in accordance with, and the validity and performance hereof shall be governed by, the laws of the State of New York, without reference to its principles of conflicts of laws. The parties hereby consent to submit to the jurisdiction of the federal or state courts of or for the State of New York in connection with any action or proceeding instituted relating to this Agreement.
+Section 38. Governing Law.
+ 
+This Agreement shall inure to the benefit of and shall be binding upon the parties hereto and their respective permitted successors, or assigns. Nothing in this Agreement, express or implied, is intended to or shall: (a) confer on any person other than the parties hereto, or their respective permitted successors or assigns, any rights to remedies under or by reason of this Agreement; (b) constitute the parties hereto partners or participants in a joint venture; or (c) appoint one party the agent of the other.
+Section 39. Subsequent Parties; Limited Relationship.
+ 
+This Agreement (including the Exhibits hereto) constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all prior negotiations, communications, writings, and understandings. The parties expressly acknowledge and agree that this Agreement will supersede all prior agreements between them. In the event of any conflict between the provisions of this Agreement and any additional provisions contained in other agreements or documents, including any pre-printed language, the provisions of this Agreement shall prevail.
+Section 40. Entire Agreement.
+The terms of this Agreement apply to those rights that survive any cancellation, termination, or rescission, namelyperpetual licenses, transfer of assets, payment obligations, as well as Confidentiality, Non-Use of Intellectual Property, and Indemnification sections of this Agreement, and any warranties.
+Section 41. Survival Of Provisions.
+ 
+This Agreement will not be binding unless executed by authorized officers of NASD and Nasdaq. Nasdaq and NASD and the persons executing this Agreement represent that such persons are duly authorized by all necessary and appropriate corporate or other action to execute this Agreement on behalf of NASD and Nasdaq.
+Section 42. Authorization.
+ 
+Except as otherwise provided herein, no provision of this Agreement may be amended, modified, or waived, unless by an instrument in writing executed by a duly authorized officer of the party against whom enforcement of such amendment, modification, or waiver is sought.
+Section 43. Amendment, Waiver, and Severability.
+ 
+No failure on the part of NASD or Nasdaq to exercise, no delay in exercising, and no course of dealing with respect to any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power, or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under this Agreement.
+43.a. Waiver.
+ 
+If any of the provisions of this Agreement, or application thereof to any person or circumstance, shall to any extent be held invalid or unenforceable, the remainder of this Agreement, or the application of such terms or provisions to persons or circumstances other than those as to which they are held invalid or unenforceable, shall not be affected thereby and each such term and provision of this Agreement shall be valid and enforceable to the fullest extent permitted by law.
+43.b. Severability.
+ 
+The parties will act in good faith in the performance of their respective obligations under this Agreement and, unless otherwise expressly provided, will not unreasonably withhold, and will act as promptly as is reasonably practicable under the circumstances in granting or denying, any consent or approval required hereunder.
+Section 44. Good Faith/Reasonableness.
+ 
+NASD and Nasdaq covenant and agree that, subsequent to the execution and delivery of this Agreement and without any additional consideration, they will each execute and deliver any further legal instruments and perform any acts that are or may become reasonably necessary to effectuate the purposes of this Agreement.
+Section 45. Covenant of Further Assurances.
+The masculine, feminine or neuter gender and the singular or plural number shall be deemed to include the other gender or numbers where the context so indicates or requires. Unless otherwise expressly provided, references to days, months or years are to calendar days, months or years. or includes individuals, partnerships, corporations, government agencies or other entities. Section headings are included for convenience only and are not to be used to construe or interpret this Agreement.
+Section 46. Interpretation.
+Person
+persons
+ 
+This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, and such counterpart together shall constitute but one and the same instrument.
+Section 47. Counterparts.
+ 
+The parties understand and agree that Nasdaq shall have no obligations under this Agreement until and unless its Audit Committee approves the terms of this Agreement. Further, neither party shall have any obligation under this agreement in the event the parties fail to gain any SEC approvals.
+Section 48. Conditions to Effectiveness.
+each party has caused this Agreement to be executed on its behalf by its officer's thereunto duly authorized on the day and year first above written.
+IN WITNESS WHEREOF,
+ 
+
+

@@ -1,0 +1,503 @@
+FILE:CSC/CSC-8K-20100812155329.txt.gz
+EVENTS:	Regulation FD Disclosure
+TEXT:
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+ 
+Item 7.01.                      Regulation FD Disclosure
+On August 11, 2010, Computer Sciences Corporation (the Company) held a teleconference to discuss the Companys first quarter results, a transcript of which is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information included in this Current Report on Form 8-K, including the transcript attached as Exhibit 99.1, is incorporated by reference into this Item 7.01 in satisfaction of the public disclosure requirements of Regulation FD. This information is furnished and not filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Securities Exchange Act of 1934 or the Securities Act of 1933 only if and to the extent such subsequent filing specifically references the information incorporated by reference herein.
+Item 9.01.                      Financial Statements and Exhibits
+Exhibit
+99.1                      Transcript of the Registrant dated August 11, 2010 (furnished herewith).
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit
+99.1                      Transcript of the Registrant dated August 11, 2010 (furnished herewith).
+ 
+ 
+ 
+
+ 
+CORPORATE PARTICIPANTS
+ 
+ Bryan Brady
+ Computer Sciences Corp. - VP IR
+ 
+ Mike Laphen
+ Computer Sciences Corp. - Chairman, President, CEO
+ 
+ Mike Mancuso
+ Computer Sciences Corp. - VP, CFO
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+ Al Gashi
+ Credit Suisse - Analyst
+ 
+ David Grossman
+ Stifel Nicolaus - Analyst
+ 
+ Adam Frisch
+ Morgan Stanley - Analyst
+ 
+ Ed Caso
+ Wells Fargo Securities - Analyst
+ 
+ Karl Keirstead
+ Kaufman Brothers - Analyst
+ 
+ Sri Anantha
+ Oppenheimer & Co. - Analyst
+ 
+ Jason Kupferberg
+ UBS - Analyst
+ 
+ Joseph Foresi
+ Janney Montgomery Scott - Analyst
+ 
+ Tien-Tsin Huang
+ JPMorgan Chase & Co. - Analyst
+ 
+ Al Burgansky
+ 
+ 
+1
+ 
+ 
+ PRESENTATION
+ 
+Operator
+Good day, everyone, and welcome to the CSC fiscal year 2011 first-quarter earnings conference call. Please note today's call is being recorded. For opening remarks and introductions, I will turn the conference over to Mr. Bryan Brady, Vice President of Investor Relations. Please go ahead sir.
+ Bryan Brady
+- Computer Sciences Corp. - VP IR
+ Thank you operator. Good morning, everyone, and a warm welcome to CSC's earnings call for the first quarter of our fiscal year 2011.
+We issued our financial results earlier this morning, so hopefully you've had a good opportunity to review them.
+With me today are Mike Laphen, our Chairman and Chief Executive Officer, and Mike Mancuso, our Chief Financial Officer.
+As usual, this call is being webcast at CSC.com, and we've also posted slides to our website to accompany our discussion.
+On Slide 2, there is a reminder that statements made during this call that are not historical facts may be considered forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to known and unknown risks and uncertainties, which could cause actual results to differ materially. Additional information concerning these risks and uncertainties is contained in the Company's filings with the SEC. The copies of these filings are available from the SEC, from our website, and from our Investor Relations department.
+Slide 3 acknowledges that CSC's presentation includes certain non-GAAP financial measures. In accordance with SEC rules, a reconciliation of these metrics to GAAP metrics is included in the tables of the earnings release and in the appendix to our slides. Both documents are available for your review at the Investor Relations section of the CSC website.
+Finally, I'd like to reminder our listeners that CSC assumes no obligation to update the information presented on this conference call, except of course as required by law.
+Now, if you'll kindly move to Slide 4, I am pleased to turn the call over to Mike Laphen.
+ 
+2
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+Thank you Bryan. Good morning, ladies and gentlemen. Thank you for joining us today as we discuss our first-quarter financial results.
+My remarks this morning will focus on three areas. First, I will share with you my assessment of our first-quarter financial performance. Second, I'll address some topics we believe are on the minds of our investors. Finally, I will provide our overall sense of the broader marketplace and the resulting implications on our business for the remainder of our fiscal year '11. As usual, when I finish, Mike Mancuso will add some color and detail to our numbers, and then we will move on to take your questions.
+On our last call, we reported very strong fiscal year '10 performance and indicated that we were optimistic about our prospects for the new fiscal year. We can now report a solid result for our first quarter and that our optimism for continued improvement this fiscal year remains intact.
+The highlights of our first quarter are shown on Slide 5. In line with our expectations, we continue to see topline improvement this quarter, achieving positive growth year-over-year as reported. Both our North American Public Sector and our Managed Services Sector reported 2.2% increases in revenue. Our Business Solutions & Services sector revenues experienced a slight decline of 2%. However, net of the effects from a disposition, it also grew by 2.5%. So all three lines of businesses demonstrated topline growth.
+ 
+Our long-term profitability program again delivered results. Operating income increased by 5.7% and operating margin rose to 7.1%, a 32 basis point improvement year-over-year.
+With the improved operational performance, EPS grew at a rate greater than revenue and increased to $0.91, up 7% year-over-year. This positive EPS result was achieved despite an effective tax rate increase of some 300 basis points year-over-year.
+Cash performance also improved as we reduce the variability of our quarterly cash flows. While cash flow was negative, as is the norm for our first quarter, free cash flow improved by some $144 million year-over-year. This improvement reflects our continued focus and success in cash management across the corporation.
+On the new business front, bookings were $3.2 billion, down $300 million year-over-year. Continuing delays in the US government's acquisition process were the primary cause of the lower bookings number.
+Some particularly noteworthy bookings included important wins at UBS, the Swiss financial services giant, and at the National Oceanic and Atmospheric Administration, or NOAA. UBS is now one of our largest outsourcing relationships in the banking and capital markets industry. At NOAA, our North American public sector was awarded a prestigious $317 million high-performance computing contract in support of NOAA's environmental modeling program to improve the accuracy of global and regional climate models. These wins, as well as other recent startups, including Zurich, will contribute to our revenue profile in the second half.
+ 
+3
+ 
+ 
+Turning to Slide 6, I would now like to discuss the investor topics I referenced earlier. There have been numerous media reports on the potential affect that growing deficits might have on government spending. In addition, there have been several announced directives related to government contracting in general and some on IT specifically.
+Since the US government is our largest Public Sector customer, I will start there. On the civil side of the federal business, the new OMB, or Office of Management and Budget, directive on IT reforms focuses on several areas, including financial systems and high-risk IT programs.
+Of the 30 financial systems targeted for review, CSC has two modest-sized programs. They are the IRS Integrated Financial System, which is in production and highly regarded, and a new startup with the Department of Agriculture. Both programs are scheduled by government -- scheduled for government review within the next 30 days. Impact, if any, should be minimal and second-half revenues for these two programs combined amount to less than $10 million.
+In regard to high-risk IT programs, we believe there should be improvements in federal IT acquisition and management practices and agree that OMB's efforts to reform these regulations and processes are important. Plans for agency reviews are still being formulated, so the assessment process is still in its early stages of definition.
+As troubled programs are restructured to introduce commercial IT practices, we see potential business opportunities for CSC. We believe CSC's strength in bringing commercial best practices and technology to the federal government over a wide range of successful programs gives us advantages over competitors. We view this as a key differentiator for us in the marketplace.
+Long-awaited government healthcare initiatives are generating opportunity at both the federal and state levels. The Affordable Care Act is now moving into the implantation phase. This is driving an increase in contract activities across many federal civil agencies, including HHS, SSA, and the Treasury. In addition, both the VA and DOD are planning major monetization efforts for their health systems. There will also be significant opportunities at the state level as mandates such as health insurance gateways must be implanted. I would note that CSC developed Health Insurance Gateway for the Commonwealth of Massachusetts, and it's the first of its kind in the country.
+For the next several years, the outlook for the US defense spending, particularly in the key areas of intelligence, logistics systems support, data center consolidation and cyber security, are positive. These are all mission-critical markets in which CSC is well entrenched.
+Having said this, Secretary Gates has announced his goal of reducing DOD spending by $100 billion through increased efficiency and the elimination of unnecessary programs. We've already seen the beginning of reductions in major weapons programs with more likely to come. This particular area of defense spending cutbacks is not anticipated to impact us in a material way. Although we expect further program reductions from Defense Secretary Gates' ongoing efficiency studies, also believe DOD's interest in leveraging commercial practices to improve productivity will place to our play to our strengths.
+ 
+4
+ 
+ 
+With the high level of noise around in US defense spending, it is important to use a filter when assessing the impacts. CSC continues to see the US defense market as healthy and a solid contributor to our business.
+Turning now to Europe, in the UK, the new government is looking to achieve budget efficiencies and value for money while improving the services they deliver to their citizens. Our business with the UK government, exclusive of NHS, is limited to about 2% of CSC revenue. Our UK management team has met with principal government partners, and we have offered a number of innovative proposals that could enable both parties to achieve their objectives. We anticipate these discussions to continue and expect to achieve resolution across our contract base, including the NHS program, in the September timeframe.
+With regard to it NHS specifically, our NHS program has continued to deliver successfully through the first quarter. In primary care, our footprint has expanded with 57 new GP deployments this quarter, giving us a total of 1350 fully operational GP systems. 16 million patient records are now expertly and accurately managed through our primary care solution.
+I am pleased to report that the high-profile deployment at the University of Hospitals Morecambe Bay, the first acute hospital who chose to operate with our Lorenzo Release 1.9 solution, successfully went live at the end of May. The earlier deployment of [buried] Trust has also been updated with this latest incremental functionality.
+We are proceeding with deployment preparations at our final two early adopter trusts during our Q2 and Q3. This will complete the earlier adopter phase for the Lorenzo Release 1.9. We would then anticipate a quickening pace of full-scale deployments.
+Outside of the UK, our business in EMEA, from a macro perspective, is concentrated in the more economically robust countries, including France, Germany, the Nordics and Switzerland. The euro's weakness has aided the exporting economy, especially Germany, and our businesses in France and Switzerland are healthy and growing. Only 1.2% of our business is in southern Europe, mostly in Italy. We have little, if any, exposure to the national markets of Portugal, Spain, Ireland or Greece.
+Across Europe, currency effects will probably produce a topline headwind for us this year. At current spot rate, CSC's fiscal-year revenues will be negatively impacted by about 1%.
+Looking across the broader market and our global commercial businesses, we see some signs of recovery. Pipelines are building constructively. Customers are more actively engaging in exploration of new initiatives, although their decisions are still cautious. We anticipate this activity will translate to topline uplift in our second half.
+Demand for managed services is positive, and we experienced an increase in RFI and RFP activity in Q1. Primary drivers are cost efficiency, globalization and increased privacy and security regulations and concerns. Developments in virtualization and cloud are driving the adaptation of new business models in the forms of technology as a service, which plays to CSC's strengths.
+Demand for applications management was strong. Our revenue in this business was up over 10% year-over-year. Overall, the qualified pipeline of outsourcing opportunities to be awarded in fiscal year '11 stands at $12 billion, up from $11 billion year-over-year.
+ 
+5
+ 
+ 
+Within our federal market, NPS delivered positive first-quarter growth of 2.2%. Importantly, two protests of significant contracts have recently been resolved, which should show benefit -- which should benefit growth in our second half.
+We now have the transition activities on the TSA ITIP contract, a $492 million award we won over a year ago, to begin in early September. The Army's R23G contract is a significant IDIQ vehicle with a $16.4 billion ceiling. Its predecessor contract was one of our largest contract vehicles, and the lack of new task order flow over the last 18 months has been a headwind for the business. Now that this protest has been resolved, we expect task orders to begin to flow again over the next several months.
+Other first -- other key first-quarter wins for NPS include three significant IDIQ contracts from the Department of State, the Missile Defense Agency, and the National Geospatial Intelligence Agency. These vehicles have a combined ceiling of $4 billion. While we do not include TCV estimates for these wins in our new business bookings disclosure, second-half revenues will benefit as task orders from these vehicles start to flow. While the frustrations of a prolonged federal procurement process persist, our federal business pipeline remains strong with some $19 billion awards currently scheduled to be announced by the end of fiscal year '11.
+Turning to Slide 7 and looking forward, complementing our pipeline of new business opportunities is our strong backlog position. CSC's diverse portfolio of public sector and commercial business generates a substantial revenue backlog that provides stability and predictability through our financial results.
+Excluding short-term project revenues, our current backlog stands at approximately $42 billion and represents approximately three years of revenue, essentially evenly split between Commercial and NPS. Additive to this backlog, there is a substantial revenue potential from our broad portfolio of US government IDIQ contracts. Mike Mancuso will provide additional details in his remarks.
+We are reaffirming our guidance for bookings in excess of $18 billion and topline growth of 4% to 7%, an expansion of 25 to 50 basis points for the year in the operating margin, and EPS of $5.30 to $5.40, and free cash flow greater than 90% of net income. Additionally, we are affirming a dividend of $0.15 to our shareholders of record as of September 9, 2010.
+At this point, I'd like to turn the call over to Mike Mancuso for further details on our first-quarter results and our outlook for the remainder of fiscal year '11.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Thanks, Mike. Good morning, ladies and gentlemen.
+If you'll turn to Chart 9, which should look familiar to you since it was Mike Laphen's opening chart, I am using it again because I want to strongly emphasize to all of our shareholders that, as a management team, we are focused on and committed to continuous improvement. Each of the financial metrics referenced on this chart have favorably and not insignificantly improved over last year.
+At the risk of dwelling on the macro economic outlook and the pace of a somewhat uncertain recovery, we are doing everything we can to improve operations and position CSC for accelerated and profitable growth as the global economic recovery accelerates. We are controlling what we can control, competing vigorously, winning a fair share of the (multiple speakers) business that is being awarded, investing in the key growth areas of cloud computing, cyber-security and healthcare, and enhancing our horizontal capability, as evidenced by our recently announced Bass acquisition, which broadens our footprint in the chemical energy and natural resources market.
+ 
+6
+ 
+ 
+To support growth, we need a strong foundation. Mike Laphen, in his opening remarks, mentioned the fact that, at the quarter and, we have a backlog of $42 billion. Up to now, we have not talked about our backlog or offered insight into its composition. So if you will turn to Chart 10, I'll talk about that backlog in the context of our FY '11 revenue guidance.
+The midpoint of our revenue guidance for FY '11 is $17 billion. If you will direct your attention to the blue shaded area at the bottom of the pyramid, including our first-quarter revenue, we see 76% of our FY '11 revenue, or roughly $13 billion, coming from existing backlog.
+Our shorter-term project and consulting work, which is essentially our BSS segment, excluding the NHS contract, which is in backlog, is very predictable, and will produce 18% of our FY '11 revenue, which is another $3 billion. Therefore, the sum of the FY '11 revenue from backlog, plus the short-term consulting project work, gets us $16 billion, meaning that we only need generate another 6%, or $1 billion, in new business. We see this as quite doable, considering our pipeline and our IDIQ portfolio.
+As the top of the chart suggests, we have a new business qualified pipeline of $34 billion of FY '11 potential awards. In addition, we also have qualified for another $5 billion of IDIQ awards, which is not in backlog but that our track record and historical performance suggests will generate a significant number of task orders which will also help fill the FY '11 new business revenue estimate. The message from this chart is that we believe that our FY '11 guidance is achievable, and further, that, between our NPS segment, MSS segment and the NHS contract, we have $42 billion in backlog, which equates to over three years of revenue for those businesses and provides a solid foundation for future revenue growth beyond FY '11.
+Now, moving on, in an attempt to address the inevitable constant currency question, we've introduced Charts 11 and 12. Chart 11 breaks down our last fiscal year's revenue by currency. For the US, at 63%, the British pound at 12%, Europe or the Euroat 9%, Australia 5%, and 11% of all other. This should help frame your thinking with regard to currency exposure. I also want to remind you, most of our currency exposure is translation risk, not cost and revenue in disparate currencies.
+Now, if you'll turn to Chart 12, this now takes FY '11 first-quarter revenue by currency, which closely approximates the FY '10 full-year numbers, and on a weighted basis, using the August 9 spot rate, projects the full-year potential of currency impact to be roughly 1 point of revenue, or about $170 million. The bottom line here is that, if the rates hang where they are now, we don't see a significant currency impact in FY '11.
+Chart 13, revenue by line of business, shows you that NPS and MSS grew by over 2% while BSS, comprised of consulting and project work, declined by 2%. Keep in mind that NHS is in BSS and was relatively revenue-constant year-over-year. The decline in BSS is primarily the result of the divestiture of our Hong Kong RIG fix business, which was sold in the second quarter of last year.
+Chart 14 displays operating income by line of business. Operating income has improved 6% overall, and you can see where the gains occurred.
+Chart 15 is the comparative P&L. The key takeaways are the improvement in operating income and margin rate, lower corporate G&A and interest expense, more than offsetting the higher tax rate. Applying the FY '11 higher tax rate to FY '10 did yield an 11% year-over-year growth in EPS versus the reported 7%.
+ 
+7
+ 
+ 
+Chart 16 displays selected balance sheet items year-over-year. The message here is simple -- more cash, less receivables, less debt, and better ratios.
+Speaking of receivables, if you turn to Chart 17, you can see the downward migration in days receivables continues, a result of lots of hard work with tedious attention to detail. Using a baseball analogy, it's the result of a lot of singles and stolen bases, sacrifice bunts and an occasional squeeze play. However, we are not done, and we think there is still room for further improvement.
+Chart 18 is selected cash flow items. Cash flow from earnings has increased. The year-over-year change in working capital is less severe than in the past, although there is some growth in CapEx. However, before someone asks the question, we do not see CapEx growing this year and we maintain our focus on being less capital-intensive as we grow.
+Free cash flow is much improved over last year as we continue our focus on reducing the seasonality of free cash. We got a very good start toward that goal.
+Chart 19 reiterates our quarterly EPS guidance for the rest of the year, noting that our guidance to you for Q1 was $0.88, which we were able to exceed. But at this point, we think the ranges for the next three quarters are reasonable.
+So in summary, on Chart 20, I think the words speak for themselves. We had a good start to the year. Several improvements have been recorded. Yes, there are more challenges ahead. But from our perspective, optimism abounds, and we look forward to another solid year. So with that said, I'll turn it back to Bryan to begin the Q&A.
+ Bryan Brady
+- Computer Sciences Corp. - VP IR
+ Thanks Mike. That concludes our prepared remarks session. We will now move into the Q&A part. Operator, would you please advise our callers how they may register their questions please?
+ 
+QUESTION AND ANSWER
+ 
+Operator
+ (Operator Instructions). Bryan Keane, Credit Suisse.
+ Al Gashi
+- Credit Suisse - Analyst
+ Hi guys. This is Al Gashi for Bryan Keane. Thanks for the clarity on currency. But just looking at -- can you guys talk a little bit about how that compares to what you guys were expecting in the first quarter? I think the headwinds might be a little lighter now.
+ 
+8
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ That's correct, Al, in that I think we were anticipating a little bit more headwind in the first quarter. I think, as we've all seen, particularly in the British pound for example, it is holding steady if not recovering, if you will, against the dollar. So, you're correct in that supposition. We think it is a little better than we had anticipated.
+ Al Gashi
+- Credit Suisse - Analyst
+ That's great. During the quarter, you guys signed a number of deals and extensions, including a very large one with UBS. Can you talk a little bit about timing of the rollout and possible pricing and margin impact as you look forward?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Well, I'll talk about the timing. The pricing and margin -- it would be proprietary between us and UBS, obviously. But the timing is moving forward into the second half. So the revenue stream associated with UBS you can anticipate to see beginning early in the third quarter and moving aggressively through the remainder of the half.
+ Al Burgansky
+ I guess overall on the pricing structure, any comments there, not for UBS in particular?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ No, as always, these are competitive opportunities. But the transaction was done within our framework and guidelines for returns, so we are very pleased with the deal and expect it to be a good contributor to both the top line and bottom line.
+ Al Burgansky
+ Thanks a lot guys.
+Operator
+ David Grossman, Stifel Nicolaus.
+ 
+9
+ 
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Good morning, thanks. Mike, you gave us a good update on the NHS contract. I think you had said it's tracking about 2% of revenue, flattish year-over-year. Just for the sake of analysis, is it fair to just take the North American Public Services margin and apply it to that 2% to get a sense of what the overall EPS exposure is on that contract? Just really to get a sense for magnitude, if you will, of earnings exposure, given all of the uncertainty over there.
+Then secondly, as you look out into the second half of the year and how you've guided for the fiscal year, are you assuming it stays relatively flat, or are you factoring in some of the cuts, if you will, that were talked about on the last call as well as the updates that have happened over the course of the quarter?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ In terms of our forecast, what we have included in there is our best estimate or projection at this time. As I noted in the discussion, we are in negotiations and discussions with the client, trying to best understand what their needs are, given some of their budgetary constraints as they have been quite public about.
+So all I can tell you is we are using the best information we have right now to go forward with our projection. Could that impact us somewhat?-- Certainly could, somewhat, but right now, we think we have a pretty good projection.
+Relative to the margin, we don't and won't discuss specific margins on any contract, but even more so on this one we are precluded from doing so. So I know that leaves a little bit of variability in the formula, but that's essentially where we are, unfortunately.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Right, so the absence of any specific commentary from you, though, would it be unreasonable to use the North American margin just to get a sense for the magnitude of the exposure on the contract?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ No, I'm just not going to go there.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Then on the North American business, I think you gave some clarity on this in terms of some of your commentary. But the bookings last year, I don't have the number in front of me, but I think they were down and you are still projecting growth this year. Is the reason for that -- actually the growth rate looks like it even decelerated a little bit against an easier comp relative to last quarter, in the first quarter. Is the reason for your optimism around that business the fact that these bookings don't include some of these contracts that could in fact -- the protester contracts as well as the IDIQ contracts --- that don't get factored in but in fact will start contributing in the second half of the year?
+ 
+10
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Yes, I think our optimism is really predicated on a couple of items, pretty much what you touched. Number one is two significant programs that have been tied up in protest for over a year have been freed up, and they will begin to contribute immediately, so that's a positive in and of itself. Incremental to that, I identified several major contracts, including the State Department Missile Defense Agency and the National Geospatial Intelligence Agency, where we don't announce the full value of those contracts because they are IDIQ contracts. But we know there is a considerable backlog and pipeline there within those contracts and expect that to hit fairly quickly. So with the visibility we have, we think there is a good opportunity for some uplift to come in the second half as these combination of contracts come online.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Okay, thanks. Maybe Mike Mancuso, just two quick ones for you. The first is that, in terms of the free cash flow, you're obviously getting good growth just from earnings alone. But as you mentioned, you've got growth coming from working capital. I think you've been getting growth from working capital for several quarters. What happens when that tailwind starts to abate? Can you get into a more normalized spot where you're getting your growth in cash flow primarily from earnings and still hit that 90% target that you've laid out?
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Well, obviously, David, it depends on the future mix of business. If one can assume for the moment that there won't be a violent swing in the mix of business or swings between the three segments which are more or less capital-intense, etc., depending on which business we're talking about, I think -- it's like how high is up? We are going to keep working on the balance sheet, keep grinding. We have still significant room to improve in receivables alone, regardless of business mix.
+So right now, free cash flow has a high correlation with our net earnings. I think, prospectively, as we continue to work the equation, that shouldn't change significantly. We may hit a quarter, for example, where there may be an abnormal free cash flow or an abnormal investment requirement, if you will, CapEx spend or something like that. I can't tell you when that would be, but start up on new outsourcing contracts might cause those kind of perturbations. But over the long haul, I think we can still keep generating 90%-plus and still keep investing where we need to invest, both in capital equipment as well as technology.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Great, thanks guys.
+ 
+11
+ 
+ 
+Operator
+ Adam Frisch, Morgan Stanley.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Thanks, good morning guys. Thanks for all the color on the financials and the numbers.
+I wanted to dig in a little bit more in the details on this. It was covered more broadly I think earlier in the call. But within NPS, DOD revs look a little light, down sequentially, which is fairly unusual in terms of seasonality and compared to last year. So can you talk about what's going on specifically there outside of the general stuff that we're hearing about what the government is doing, and how you expect DOD to track going forward?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Right now, we are holding to our projection on what we see for the NPS for the current fiscal year. That's mid to upper single digits. We see a path to that, to those numbers. We have been fortunate to win a number of excellent opportunities, and we've finally broken through some key programs that were in protest and were expected to contribute significantly to our revenue, although that was delayed again this past quarter. So that's a big part of why the growth number isn't more aggressive than it is.
+Going forward a year out or more, I think we will see some level of incremental pressure. I wouldn't predict at this point, but maybe it will be more towards the midpoint of single digits and the upper and mid single. But we don't have the transparency or the visibility yet into some of the Gates programs to be totally predictable in that. But I think you can assume that there's going to be some downward pressure there.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Adam, this is Mike Mancuso. I want to add something to what Mike said. I think it was in this morning's Journal but it may have been yesterday, where Gates clarified the fact that he intended to reduce spending in certain program areas to the tune of about $100 million, but he also said he wasn't reducing the overall defense budget and he expected to take those savings or the programs that he was operating on and plow those back into other DOD initiatives. So again, we don't have clarity or visibility on where that's going to be, but certainly mission-critical will be part of that.
+ 
+12
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ The other thing I would add is that while we may see some downward pressure on the defense in the long-term, I think, at least under the current administration, we may also see some uplift in the civilian agency areas, particularly in healthcare and so forth. We are extremely well positioned there. So I think we are a bit blessed that we have such a balanced portfolio across all of the government spending.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ That's great color. Continuing with NPS and then I have one question on MSS for a second. But just on NPS, could you give us an idea of what's going on on the ground? Obama is making some pretty strong statements, so is Gates, and then he comes back and qualifies them a little bit. But what kind of projects are being funded or seem to be better positioned to be continued? How -- is it consulting, is it integration, or is it cost control? How should we segment which kinds of projects are going better than others?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Well, I think the first thing that you should consider, Adam, is I think they're going to continue to see a consistent and probably even more aggressive move to the short-term IDIQ contracts, as opposed to the larger scale programs. Quite frankly, that could impact our announced values that you see, because we don't include the task order values until they're specifically announced. Now, that doesn't mean that we still wouldn't be bullish on our future; we would. But it will come in smaller bites.
+I think the other thing we are hearing on the ground, which we are, frankly, quite pleased about, is this administration is much more eager to embrace commercial best practices and commercial ways of doing business. Again, with the way we straddle both commercial and public sector, we are ideally suited for that. We are engaged in a lot of discussions across the administration at numerous levels on how they might best approach that initiative.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Great. At MSS, you might've touched this for a second. I had to get off the call for a minute or two. But business slowed a little bit in Q2; it was down after being up in the fourth quarter which is surprising, giving Zurich and Raytheon wins. What's driving the growth performance within MSS? Are you again as equally confident in MSS as you are in NPS for the year in terms of growth?
+ 
+13
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Yes we are. Let me first tell you it takes a little while to go from contract award to seeing the significant uptick in the revenue stream [even though] there's obviously (multiple speakers).
+ Adam Frisch
+- Morgan Stanley - Analyst
+ It was more of a (multiple speakers) kind of thing or just [normal]?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Yes, exactly. That's why we're pointing to the second half and saying you'll really see the effect of those wins ramping up in the second half.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ My final question and then I'll turn it over is on NHS. I appreciate the fact that you can't say how big it is or the margins on it, but it does come up a lot with investors. Rightly or wrongly, I think the last taste in people's mouths in this sector of a big government contract was at NMCI, not that this is anywhere close to that kind of deal. But if you could just address the two points that are round the NHS contract I think people have the biggest hangup on? If it were to end today, just not that we are expecting it, but if it were to end today, what would be the impact in terms of your recoverability, if that is such a word, in terms of growth and margins going forward? Would you be on the hook for anything, or is it generating positive cash so now, so if it ended today, maybe it would take away from growth but it wouldn't be a huge loss like -- just try to put some borders around what the potential impact could be.
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Obviously, if it was to happen today, the top line would be impacted. I would say, if it happened today which, by the way, I have no indication whatsoever that is the --
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Nor do I. I was just trying to go (multiple speakers)
+ 
+14
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ -- the expectation. I would just say more than likely we would wind up in disputes. Therefore, I don't think either one of us wants that to happen. I think both of us want to make sure that this program goes forward and delivers what we all expect it to deliver.
+So, I am not going to speculate on how disputes will come out or anything like that, but I am sure the government would take one position, we would take another position. But I think we are both working cooperatively to assure that doesn't happen and that we are moving forward within the affordable envelope that the NHS has.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Great, thanks very much.
+Operator
+ Ed Caso, Wells Fargo Securities.
+ Ed Caso
+- Wells Fargo Securities - Analyst
+ Good morning. You reiterated your operating margin improvement assumptions. I'm wondering if you could give us some of the factors, where you expect it to come from, whether it's gross, whether it's G&A, the sales side, or offshore. Just give us a sense what the key factors are.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ The quick answer of course is all of the above. To tick them off, we are driving offshore, if you will, for a significant amount of our commercial work. We are, as you can see from our first-quarter results, operating on the G&A line, what you're looking at as corporate G&A, but we are obviously working hard on the G&A line.
+Frankly, as we control CapEx spending in future quarters, that would translate into lower depreciation and amortization expense in the P&L which, again, is a byproduct and a benefit of the other improvements we are incorporating in the business. So it's a constant and relentless drive across all the elements of cost.
+I've talked in the past about -- we've got a very active program in reducing our facilities footprint. Trimming excess facilities, doing more hoteling kind of an approach with our consulting workforce, renegotiating leases for better terms in the real estate market, presents a significant opportunity. We have a considerable amount of leased office space where landlords are happy to retain us and more than willing to work with us to improve the cost profile for those kinds of things. So long-winded response, it's everywhere.
+ 
+15
+ 
+ 
+ Ed Caso
+- Wells Fargo Securities - Analyst
+ It sounds like most of it is focused on the G&A line. Is there any assumptions on improved pricing and give us a sense maybe what's happening at the gross margin line?
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Obviously as we -- pricing will be, generally speaking, what the marketplace offers and presents in terms of competitiveness and so on and so forth. So it's incumbent upon us to be more efficient in terms of the delivery of our products and services. That's obviously another aspect of what we work on -- improving our delivery process, our performance under our long-term contracts.
+There is an endless drive, obviously, to be more efficient in the execution of our backlog work. We have a huge backlog that presents a significant margin improvement opportunity that is foremost in our minds and on the minds of our operators.
+ Ed Caso
+- Wells Fargo Securities - Analyst
+ Last question, I don't think you mentioned the tax rate guidance of 32%. Does that still hold?
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ At the moment, I would use 32% as tax rates bounce around and our friend at 1600 Pennsylvania Ave. may have different thoughts later in the year but for now, use 32%.
+Operator
+ Karl Keirstead, Kaufman Brothers.
+ Karl Keirstead
+- Kaufman Brothers - Analyst
+ I've got two questions. First, Mike Mancuso, just in terms of our modeling, it certainly sounds -- and you mentioned it many times -- that the revenue guidance is backend-loaded to the second half. But just to set us up for the September quarter, is it fair to assume the revenue growth might be in the low single-digit range before it begins accelerating into December? Maybe a little help there. Thank you.
+ 
+16
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ I think we see the second quarter looking a lot like the first quarter. Again, the uptick in the second half of the year -- significant growth between second and third. I wouldn't look for anything significant between first and second.
+ Karl Keirstead
+- Kaufman Brothers - Analyst
+ So by that you mean the growth rate should be comparable, not the absolute revenue number, just to be clear?
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ The absolute revenue number should be something like the first quarter.
+ Karl Keirstead
+- Kaufman Brothers - Analyst
+ Great. Then my second question just we haven't really touched much on the BSS unit. It was a little bit soft. Can you give us a little update on what you're seeing in terms of the more discretionary project-based work? Is it starting to pick up? Are larger deal starting to get signed? Or is it still sort of comparable to what it might have been last quarter? Thank you.
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ I would say it's -- we're certainly not seeing the larger projects in any significant way yet, so that turn hasn't been made yet. I would say that the pipeline is looking better and the quality of the pipeline is looking better. So, it leads us to believe that barring, again, macroeconomic considerations or significant changes in the economy coming, that we are going to see a pickup in the second half of this year relative to the projects. There is a lot more activity out there than there has been.
+I don't think people are going to commit to big budgets until they feel that there is less -- until some of the uncertainty is eliminated from the broader picture, including the whole tax picture. I think there's too many uncertainties out there for people to go out with big types of capital spending, including in the capital spending major capital IT projects. So I think they're going to continue to be bite-size, but we are seeing more of the bite-size, more of the medium-sized opportunity building out there, so we do see a build in the pipeline.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ To remind you, BSS is down principally because of the divestiture of the business that I spoke of that occurred in the second quarter of last year. So if you adjust out the impact of the divestiture, BSS is actually up 2.5%. (multiple speakers)
+ 
+17
+ 
+ 
+Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ I would just add that what we do see -- a considerable robust activity is around the whole application space. As I mentioned, that was double-digit for us the first quarter. We expect that to continue in the double-digit area and probably be even more robust. So in the application management space, that's quite buoyant.
+ Karl Keirstead
+- Kaufman Brothers - Analyst
+ Thank you.
+Operator
+ Sri Anantha, Oppenheimer.
+ Sri Anantha
+- Oppenheimer & Co. - Analyst
+ Thank you and good morning. Two questions -- Mike, you gave the pipeline of available opportunity; it currently stands at around $41 billion or so. Could you compare the way that number stands a year ago or six months ago? Historically what has been the conversion rate on this kind of a pipeline number? Thank you.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ We are doing a little research, just wait a second.
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ This is Mike Laphen. Just to clarify, you reference -- the $42, you're referencing backlog, but let me talk to the pipeline. The pipeline sits at $34 billion this fiscal year. That's up from $28 billion year-over-year. So that's up about 21%, I think, actually. So again, I think positive signs there that there is a recovery coming. It's just a lot slower than we would all like it to be.
+ Sri Anantha
+- Oppenheimer & Co. - Analyst
+ Got it. What has been the conversion rate, historically, Mike, on that number?
+ 
+18
+ 
+ 
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ The win rate last year was 70%, including re-competes.
+ Sri Anantha
+- Oppenheimer & Co. - Analyst
+ Great, thanks so much.
+Operator
+ Jason Kupferberg, UBS.
+ Jason Kupferberg
+- UBS - Analyst
+ Good morning guys. I appreciate the new disclosure on the backlog statistics. I wanted to pick up on one of the pieces of commentary there Mike Mancuso I think that you made. You were talking about the short-term revenue run rate piece of the backlog. I think you used the word "predictability" associated with that. It seemed, on the surface at least, somewhat counterintuitive since these are kind of by definition short-term projects potentially subject to delays, cancellations, depending on the macro environment. So I just wanted to make sure we are clear on what degree of predictability truly exists in that piece of the backlog, especially with three quarters still remaining in your fiscal year.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ As the past is prologue, if you look at BSS this quarter and you factor out the effect of the divestiture, BSS was relatively constant to last year. So while growth is suspect in the sense of businesses willing to initiate projects, our standing army, if you will, of capable and qualified folks are well-engaged, and we see enough in front of us that suggests that work is highly probable, in our judgment.
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Let me just add hopefully a little more clarity. On the pyramid charge that Mike used, the one that's identified as 18%, that's predicated upon our actual Q1 run rate.
+ Jason Kupferberg
+- UBS - Analyst
+ Okay. So you're just assuming a steady run rate essentially?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ It just assumes a steady run rate. So that part does not predict an uplift. We expect an uplift to come, but that 18% does not include the uplift.
+ 
+19
+ 
+ 
+ Jason Kupferberg
+- UBS - Analyst
+ Okay. That is helpful. Just to switch to the bookings for a second, any update you can give us sort of through the first half of the second quarter? Obviously, off to a little bit of a slow start, bookings can be very lumpy quarter-to-quarter. But I wanted to get a sense of where you see the biggest boost coming during the remainder of the fiscal year to get to that unchanged full-year target of $18 billion-plus, because it seems like you have given us some good reasons to understand why revenue is going to accelerate based on some of the protests releasing and some of the recent wins. But I wanted to focus on incremental bookings going forward. Is there some big chunky stuff in the pipeline that you've got a good line of sight into as far as closing in the next quarter or two?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Well, we gave the predicted pipeline numbers for the remainder of the fiscal year, I believe. But just to give a little bit more color, for our Managed Services Sector, which is the outsourcing world, first of all, I said the applications management piece that's within that is quite buoyant, and we are excited about that. I would say the whole virtualization area is driving a lot -- virtualization/cloud is driving a lot of activity and interest in our outsourcing opportunities, so we are seeing a significant uptick in outsourcing opportunities that we would hope to close in the second half.
+Then I would bounce back to the NPS side, where we continue to see a very robust pipeline, again, that I think we've already given you the overall numbers on that. But that goes across a pretty broad spectrum for us that I, again, highlighted a number of places during the details.
+ Bryan Brady
+- Computer Sciences Corp. - VP IR
+ Thanks Jason. Operator, we have time for two more questions.
+Operator
+ Joseph Foresi, Janney Montgomery Scott.
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ Hi guys. I wonder if you could talk about what assumptions you've built into the back half of the year on the macro environment, client reaction to that, in just sort of having it being back-end loaded, because obviously there's some uncertainty still out there. Are you expecting the environment to stay stable and clients to continue to react the way they are, or what are you factoring in on that front?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Exactly as you said, we are expecting no significant change, up or down, from the current client environment, so we are assuming what we see is what we get. That's our basis of the prediction and forecast in all of the arenas, all the lines of business.
+ 
+20
+ 
+ 
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ Then one last question from my standpoint. What -- as you kind of look at the guidance right now, what is the biggest swing factor that you're concerned about and potentially built into your numbers or anything? You know, is it the macro environment? Is it potentially any of the factors that you might think might cause an issue on the guidance front?
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ I think it's the macro environment that can swing things significantly one way or the other. If we go into a deflationary period or if we do in fact slip into a double-dip recession or the uncertainty increases even more than it is now and businesses becomes even more nervous than they currently are, I think that's really what's going to impact our top line more than anything else. I think the government reaction -- say the UK, who is actively undertaking their process as we speak, I would say the US government -- I think that will be a much slower process in terms of how that rolls out and how that impacts us. So I think those markets are a little bit different. But yes, really the macro picture is I think the highest uncertainty for us.
+ Bryan Brady
+- Computer Sciences Corp. - VP IR
+ Thanks, Joe.
+Operator
+ Tien-Tsin Huang, J.P. Morgan.
+ Tien-Tsin Huang
+- JPMorgan Chase & Co. - Analyst
+ Thanks so much. Thanks, Bryan, for fitting me in. I had a few quick questions. I really appreciate all of the detail on the backlog and the revenue. Just as a clarification question, the contract backlog equaling three years of revenue, is it safe to assume that the remaining duration of the backlog is also about three years, or is it meaningfully different from that? I'm just trying to better understand how that might roll into revenues over the next several years.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Let me answer it this way. In that backlog are shorter-term projects and of course longer-term projects, like Zurich, which is a ten-year deal, so it's a mix of just about everything.
+ Tien-Tsin Huang
+- JPMorgan Chase & Co. - Analyst
+ Okay, so probably a little bit longer, but perhaps not terribly different than the three years?
+ 
+21
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ No. Look, it's still -- there is a healthy piece of that backlog that will roll out in the next three years, so it's not so thin that it stretches out for a long period of time. There's a pretty healthy backlog and foundation for the next three years.
+ Tien-Tsin Huang
+- JPMorgan Chase & Co. - Analyst
+ Good. Then just on the earnings upside this quarter, versus our numbers, it was obviously on a margin side. I'm curious from your side what drove the EPS surprise to the upside in the quarter.
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ We weren't surprised.
+ Tien-Tsin Huang
+- JPMorgan Chase & Co. - Analyst
+ Okay, so -- because it did come in a little bit ahead of your guidance. [That's why I ask.]
+ Mike Mancuso
+- Computer Sciences Corp. - VP, CFO
+ Nobody wants to stick their neck out too far and predict the timing of cost reductions and the effect thereof and so on and so forth, as well as contract mix coming in and out of the quarter. So my $0.88 back then was based on the visibility we had, and obviously we -- things fell better for us, if you will, but still within our broad range of overall annual guidance. So it's a pleasant upside, but within our range.
+ Tien-Tsin Huang
+- JPMorgan Chase & Co. - Analyst
+ Good stuff. I appreciate that.
+ Bryan Brady
+- Computer Sciences Corp. - VP IR
+ Operator, I think we are done.
+ Mike Laphen
+- Computer Sciences Corp. - Chairman, President, CEO
+ Again, I'd like to thank everybody for joining us today. Hopefully, we have again provided more transparency and greater insight into our business. We look forward to talking to you again next quarter. Thank you very much.
+Operator
+ This does conclude our conference. We thank you all for your participation.
+ 
+ 
+22
+ 
+ 
+ 
+23
+ 
+ 
+
+

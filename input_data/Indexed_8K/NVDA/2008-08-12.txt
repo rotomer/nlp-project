@@ -1,0 +1,108 @@
+FILE:NVDA/NVDA-8K-20080812164923.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+SECTION 2 - Financial Information
+ 
+Item 2.02 Results of Operations and Financial Condition.
+ 
+On August 12, 2008, NVIDIA Corporation issued a press release announcing its results for the three months and six months ended July 27, 2008. The press release is furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934 (the "Exchange Act"), or subject to the liabilities of that Section. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. The information in this Current Report shall not be incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+ 
+SECTION 9 - Financial Statements and Exhibits
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+(d) Exhibits
+ 
+ 
+ 
+
+ 
+ 
+ 
+FOR IMMEDIATE RELEASE:
+SANTA CLARA, CAAUGUST 12, 2008
+NVIDIA Corporation (Nasdaq: NVDA) today reported financial results for the second quarter of fiscal 2009 ended July 27, 2008.
+ 
+For the second quarter of fiscal 2009, revenue decreased to $892.7 million compared to $935.3 million for the second quarter of fiscal 2008, a decrease of five percent.  For the six months ended July 27, 2008, revenue increased to $2.05 billion compared to $1.78 billion for the six months ended July 29, 2007, an increase of 15 percent.
+ 
+During the second quarter of fiscal 2009, NVIDIA recorded a $196 million charge against cost of revenue to cover anticipated customer warranty, repair, return, replacement and associated costs arising from a weak die/packaging material set in certain versions of our previous generation MCP and GPU products used in notebook systems.
+ 
+NVIDIAs results for the second quarter of fiscal 2009, computed in accordance with U.S. generally accepted accounting principles (GAAP), included a net loss of $120.9 million, or a loss of $0.22 per share.  Non-GAAP net income for the second quarter of fiscal 2009, which excludes stock-based compensation charges, the non-recurring warranty charge against cost of revenue, and the associated tax impact, was $74.5 million, or $0.13 per diluted share.
+ 
+GAAP net income for the six months ended July 27, 2008 was $55.9 million, or $0.09 per diluted share, compared to $305.0 million, or $0.51 per diluted share, for the six months ended July 29, 2007. Non-GAAP net income for the six months ended July 27, 2008, which excludes stock-based compensation charges, the non-recurring warranty charge against cost of revenue, and the associated tax impact, was $286.2 million, or $0.49 per diluted share, compared to $362.5 million, or $0.62 per diluted share, for the six months ended July 29, 2007.
+ 
+Our Q2 financial performance was disappointing.  The desktop PC market around the world weakened during the quarter. And our miscalculation of competitive price position further pressured our desktop GPU business. We have a great product line-up and, having taken the necessary pricing actions, we are strongly positioned again.  Our focus now is to drive cost improvements and to further enhance our competitiveness through the many exciting initiatives we have planned for the rest of the year, said Jen-Hsun Huang, president and CEO of NVIDIA. In contrast, the rest of our businesses did not exhibit the same dynamics as our desktop business.  The notebook GPU, MCP, and Professional Solutions groups grew a combined 27 percent year-over year.
+ 
+Mr. Huang added, Though we approach the near term with caution, we remain very optimistic about the expanding universe of visual computing and the exciting growth opportunities made possible by CUDA, our general purpose parallel computing architecture.
+ 
+NVIDIA also announced an increase of $1 billion to its stock repurchase program under which it may now purchase up to $2.7 billion of its common stock. Through July 27, 2008, NVIDIA has repurchased 68.0 million shares under the stock repurchase program for a total cost of $1.16 billion.
+ 
+The repurchases will be made in the open market, in privately negotiated transactions, or in structured share repurchase programs, and may be made from time to time or in one or more larger repurchases. The program will be conducted in compliance with the Securities and Exchange Commissions Rule 10b-18 and applicable legal requirements and shall be subject to market conditions and other factors.
+ 
+The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be modified or suspended at any time at the Company's discretion. The purchases will be funded from available working capital.
+ 
+Second Quarter Fiscal 2009 Highlights and Recent Developments:
+ 
+ 
+ 
+ 
+NVIDIA will conduct a conference call with analysts and investors to discuss its second quarter fiscal 2009 financial results and current financial prospects today at 2:00 P.M. Pacific Time (5:00 P.M. Eastern Time). To listen to the call, please dial (212) 231-2901. A live Web cast (listen-only mode) of the conference call will be held at the NVIDIA investor relations Web site and at . The Web cast will be recorded and available for replay until the Companys conference call to discuss its financial results for its third quarter fiscal 2009.
+www.nvidia.com/ir
+http://www.streetevents.com
+ 
+Non-GAAP Measures
+To supplement the Companys Condensed Consolidated Statements of Operations presented in accordance with GAAP, we use non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP net income, and non-GAAP diluted net income per share. In order for our investors to be better able to compare our current results with those of previous periods, we have shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation, a non-recurring charge against cost of revenue to cover anticipated customer warranty, repair, return, replacement and associated costs and expenses arising from a weak die/packaging material set in certain versions of our previous generation MCP and GPU products used in notebook systems, and the associated tax impact, where applicable. We believe the presentation of our non-GAAP financial measures enhances the user's overall understanding of our historical financial performance. The presentation of our non-GAAP financial measures is not meant to be considered in isolation or as a substitute for our financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+ 
+About NVIDIA
+NVIDIA is the world leader in visual computing technologies and the inventor of the GPU, a high-performance processor which generates breathtaking, interactive graphics on workstations, personal computers, game consoles, and mobile devices. NVIDIA serves the entertainment and consumer market with its GeForce products, the professional design and visualization market with its Quadro products, and the high-performance computing market with its Tesla products. NVIDIA is headquartered in Santa Clara, California and has offices throughout Asia, Europe, and the Americas. For more information, visit www.nvidia.com.
+ 
+ 
+Certain statements in this press release including, but not limited to, any statements as to: our initiatives; our growth opportunities; the expansion of visual computing; our cost improvements; costs associated with the weak die/packaging material set; enhancement of our competitive position; the timing and extent of any stock repurchases; and uses of our available funds are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: our reliance on third parties to manufacture, assemble and test our products; design, manufacturing or software defects; slower than expected growth of a target market; development of faster or more efficient GPU or CPU technology;  adoption of the CPU instead of the GPU for non-graphical computational tasks; unexpected loss of performance of our products or technologies when integrated into systems; the impact of technological development and competition; fluctuations in the stock market and the price of NVIDIA stock; changes in industry standards and interfaces as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission including its Form 10-Q for the period ended April 27, 2008. Copies of reports filed with the SEC are posted on our Web site and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+ 
+ 
+ 
+Copyright  2008 NVIDIA Corporation.  All rights reserved.  NVIDIA, the NVIDIA logo, GeForce, Quadro, Tesla, Tegra, SLI, PhysX, CUDA, and nForce are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated.
+ 
+The number of processor cores varies by model. GeForce GTX 280 has 240 processor cores. GeForce GTX 260 has 192 processor cores. Weighted average performance improvement is based on a comparison between the GeForce GTX 280 and the GeForce 8800 Ultra in a variety of benchmarks and resolutions.
+i
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

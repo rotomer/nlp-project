@@ -1,0 +1,342 @@
+FILE:DNB/DNB-8K-20080317172254.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The purpose of this filing is to report to you that we have executed an amendment to one of our material agreements with Computer Sciences Corporation which, among other things, decreased our projected annual charges beginning in 2008 by approximately $10 million as compared to 2007 levels, increased certain of the services level agreements that CSC is required to provide under our Technology Services Agreement and added additional security services to be performed by CSC.
+ 
+Item 8.01. Other Events
+In June 2002, we outsourced certain technology functions to Computer Sciences Corporation ("CSC") under a 10 year Technology Services Agreement (the "TSA"), which we may terminate for a fee at any time and under certain conditions. Under the terms of the TSA, CSC is responsible for the data center operations, technology help desk, network management functions and for certain application development and maintenance in the U.S. and the U.K.
+On March 17, 2008, we executed an amendment (the "Amendment") to the TSA which, among other things, decreased our projected annual charges beginning in 2008 by approximately $10 million as compared to 2007 levels, increased certain of the services level agreements that CSC is required to provide under the TSA and added additional security services to be performed by CSC. Our renegotiation of the TSA is one component of our 2008 Financial Flexibility Program and is reflected in our 2008 financial guidance as previously reported on January 30, 2008.
+A copy of the Amendment is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated in this Item 8.01 by reference.
+Item 9.01. Financial Statements and Exhibits.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+DATE: March 17, 2008
+ 
+ 
+The following amended exhibits to Amendment Number 11 have been omitted for purposes of this filing, but will be furnished supplementally to the Securities and Exchange Commission upon request:
+ 
+ 
+
+Exhibit 99.1
+This Amendment Number 11 to Technology Services Agreement ("") is made this 17th day of March, 2008 by and between DUN & BRADSTREET, INC. (""), a Delaware corporation with a place of business located at 103 JFK Parkway, Short Hills, New Jersey 07078 and COMPUTER SCIENCES CORPORATION (""), a Nevada corporation with a place of business located at 2100 East Grand Avenue, El Segundo, California 90245. This Amendment No. 11 shall be effective as of April 1, 2008 (the "   ").
+Amendment No. 11
+D&B
+CSC
+Amendment
+No.
+11
+Effective
+Date
+1. BACKGROUND
+The Parties entered into a Technology Services Agreement dated June 27, 2002, in respect of which the Parties executed 10 amendments (the Technology Services Agreement as modified by Amendments 1 through 10 being the ""). D&B and CSC now desire to further amend the Agreement with this Amendment No. 11 in the manner provided below.
+Agreement
+2. AMENDMENT STRUCTURE
+This Amendment No. 11 consists of this document and restated versions of the following Exhibits to the Agreement (each included in Attachment A to this Amendment 11):
+ 
+3. ORDER OF PRECEDENCE AND INTERPRETATION
+(a) This Amendment No. 11 and the Agreement shall be interpreted so that all of the provisions in such documents are given as full effect as possible. After the Amendment No. 11 Effective Date, if there is a conflict between this Amendment No. 11 and the Agreement, this Amendment No. 11 shall take precedence over the Agreement.
+(b) On the Amendment No. 11 Effective Date, the Exhibits listed in Article 2 above shall replace and supersede the corresponding Exhibits attached to the Agreement in their entirety.
+ 
+(c) Except as expressly stated in Section 8 below, all prior amendments to the Agreement shall remain in effect.
+(d) References to an Article, Section, Schedule or Exhibit in this Amendment No. 11 are references to the most recent version of such Article, Section, Schedule or Exhibit (e.g., references to Schedule C are generally to the amended and restated version of Schedule C attached to Amendment No. 2).
+(e) Certain capitalized terms used in this Amendment No. 11 are defined in the context in which they are used. Other capitalized terms that are used but not defined in this Amendment No. 11 shall have the meanings given them in the Agreement.
+4. AMENDED TERMS IN MAIN BODY OF AGREEMENT
+The main body of the Agreement is amended as follows:
+(a) The following is added as a new Section 10.13:
+"
+10.13
+New Governance Process
+In the ninety (90) days following the Amendment No. 11 Effective Date, the Parties shall work in good faith to develop an enhanced governance organization and process for managing operational and contractual changes under this Agreement, including governance of Projects and New Services (" "). The Parties intend for the New Governance Process to provide guidelines, examples, process flows, and additional detail about day-to-day governance of this Agreement, but not to amend this Agreement. In the event of a conflict between the provisions of this Agreement and any materials created by the New Governance Process, the provisions of this Agreement shall control; provided, however, this sentence is not intended to affect the enforceability of New Service proposals, Project proposals, or other written modifications or amendments to this Agreement made pursuant to the terms of this Agreement."
+New
+Governance
+Process
+(b) The following language shall replace Section 13.6 in its entirety:
+"
+13.6
+New Services
+Services that are materially different from, and in addition to, the Services shall be considered "." The Parties' obligations with respect to New Services shall be as follows:
+New Services
+(a) If the performance of the additional functions can be reflected in a change in the volume of chargeable resource usage, and the net change in the resources and expenses required to perform the additional functions would not be disproportionately different from the corresponding change in the volume or composition of such chargeable resource usage from performing such additional functions, then the charge, if any, for such additional functions shall be determined pursuant to Schedule C and the other Sections of this Agreement relating to New Services (including Amendment No. 6). The additional functions shall then be considered "" and shall be subject to the provisions of this Agreement.
+Services
+ 
+(b) If the net change in the resources and expenses required to perform the additional functions would be disproportionately different from the corresponding change in the volume or composition of chargeable resource usage from performing such additional functions, then such additional functions shall be considered New Services. The charges for such New Services, and any other additional functions the Parties designate in writing as New Services in accordance with the New Governance Process, shall be determined as follows:
+(i) CSC shall quote to D&B a charge (which may be variable) for such additional functions that is no more than the charge CSC provides to customers similar to D&B for similar services under similar circumstances. Such charges shall be determined in accordance with Section 5 of Amendment No. 6 to the Agreement; and
+(ii) upon receipt of such quote, D&B may then elect to have CSC perform the additional functions, and the Charges under this Agreement shall be adjusted, if appropriate, to reflect such functions. If D&B so elects, such services shall be subject to the provisions of this Agreement.
+(c) If the Parties cannot agree upon the proper application of the pricing methodology provided in Section 5 of Amendment No. 6 to the Agreement to such New Services, and D&B nonetheless desires CSC to perform them, and as the incumbent service provider CSC has a competitive advantage over third parties in providing such New Services, then upon D&B's instruction to proceed CSC shall promptly begin performance of such New Services, while the pricing dispute is escalated to the dispute resolution process described in Section 20.1 or as contemplated by the New Governance Process contemplated in Section 10.13 (as added through this Amendment No. 11) for resolution.
+(d) D&B may in its discretion elect to solicit and receive bids from, or otherwise enter into agreements with, third parties to perform or to perform itself such additional functions. If D&B so elects, CSC shall cooperate with D&B and the third parties with respect to the provision of such services. Any material additional cost borne by CSC as a result of such an election that is not recovered in the unit charges identified in Schedule C shall be reimbursed by D&B as an Out-of-Pocket Expense. CSC shall notify D&B if the performance of activities requested by D&B under this requirement would adversely affect CSC's ability to meet the Service Levels. After receiving such notice, D&B may either alter its request or temporarily waive the Service Levels that would be adversely affected.
+(e) Evolution, supplements, modifications, enhancements and replacements of the Services over time to keep pace with technological advancements and improvements in the methods of delivering services shall not be deemed to be functions materially different from and in addition to the Services."
+ 
+(c) The following language shall replace the last sentence in Section 13.8:
+"CSC will provide an annual certification of its compliance with this Section executed by an officer of CSC each year on March 1. In addition to this certification, CSC shall provide market data for each of the ASC and ARC Rates provided in Exhibits C-3 and C-4 of Schedule C in support of such certification. CSC shall disclose the source of the market data it provides and either (i) propose adjustments to the Charges in Schedule C necessary to comply with its obligations under this Section 13.8 or (ii) explain the basis for any variance between the Charges in Schedule C and such market data."
+5. SCHEDULE A
+5.1
+Background
+The Parties are entering into a New Service agreement for managed security services contemporaneously with the execution of this Amendment No. 11. The New Services agreement incorporates certain terms from Schedule A, which are removed from Schedule A by this Amendment 11 as stated below in Section 5.2.
+5.2
+Amended Terms
+(a) The following Sections are removed from Schedule A, to the extent they are covered by the scope of Managed Security Services in NS-497:
+(i) Section 3.1(o);
+(ii) Sections 4.2(i) and (r);
+(iii) Section 5.1(g) and 7.2(b), but only with respect to patch management functions covered in the Managed Security Services described in NS-497; and
+(iv) Section 11.1, except for Sections 11.1(e)(iv), 11.1(l) and 11.1(r) which shall remain in effect.
+(b) Section 7.1(e)(i)(B) is replaced with the following:
+"(B) all Midrange Equipment in accordance with Section 7.1(e)(iii) below;".
+(c) Section 7.1(e)(iii) is replaced with the following:
+"(iii) Midrange Equipment.
+(A) CSC shall be responsible for refreshing a minimum of 15% and a maximum of 25% of the installed midrange server Equipment in each of Contract Years 7 through 10. CSC shall perform such refresh activities in accordance with an annual refresh plan to be developed pursuant to paragraph (B) below.
+(B) CSC shall propose a refresh plan for each new Contract Year sixty (60) days prior to the beginning of each such new Contract Year (the first plan for Contract Year 7 will be provided by June 1, 2008). At D&B's request, CSC
+ 
+shall include any midrange server Equipment that is thirty-six (36) months old at the start of a Contract Year (or will be thirty-six (36) months old by the middle of such Contract Year) in the refresh plan for such Contract Year. The Parties will then work collaboratively to refine and finalize the plan prior to the start of the new Contract Year and meet as often as required to track progress and apply change management.
+(C) With respect to Midrange Equipment that CSC is required to refresh under this Section 7.1(e)(iii), CSC shall refresh such Equipment with (1) the appropriate class of Server (e.g., physical or virtual) pursuant to the annual refresh planning process referenced in paragraph (B) above (i.e., refreshes will not always be for like-for-like classes); and (2) with new Equipment that is at the then-current Midrange Standard Server Configuration for such class of Server."
+6. AMENDED TERMS IN SCHEDULE B
+6.1
+Background
+The following amended terms (and restated Exhibits to Schedule B attached as Attachment A to this Amendment 11) are intended to reflect improvements to existing Service Levels, to provide CSC with the opportunity to "Earn-Back" certain Service Level Credits, and to provide a framework for the Parties to create a new IT operational excellence governance structure.
+6.2
+Amended Terms
+Schedule B is amended as follows:
+(a) The words "(or other applicable measurement period)" are inserted in the following places:
+(i) after the word "month" in two instances in the last sentence of Section 3.1(a); and
+(ii) after the word "month" in each instance in Sections 4.2(a) and 4.2(b).
+(b) The words "in excess of the Baseline Project Amount" are deleted from Section 4.2(a)(ii).
+(c) Section 4.2(c) is replaced with the following:
+"D&B will have the right from time to time to change, in its sole discretion, the Service Level Credit Percentage for any Critical Service Level upon written notice to CSC; provided, however, that (i) the sum of all Service Level Credit Percentages at any given time shall not exceed two-hundred and fifty (250) percentage points; (ii) no more than twenty (20) percentage points may be allocated to any single Critical Service Level; and (iii) D&B shall provide CSC with ninety (90) days notice of any change that increases the Service Level Credit Percentage allocation to a particular Critical Service Level to ten (10) or more percentage points."
+ 
+(d) The words "and expiration of the applicable Earn-Back Period (if applicable)" are added to the end of the first sentence in Section 4.2(f).
+(e) The following is added as a new Section 4.3:
+"4.3 Service Level Credit Earn-Back
+The following describes circumstances in which CSC may earn-back Service Level Credits payable under Section 4.2 above:
+(a) If CSC fails to meet a Critical Service Level in a measurement period, and subsequently meets or exceeds the same Critical Service Level in the three (3) subsequent consecutive measurement periods (the " "), then CSC will be excused from paying the Service Level Credit otherwise payable under Section 4.2 for the initial failure (each excuse, an ""), subject to the following:
+Earn-Back
+Period
+Earn-Back
+(i) If CSC's performance varies from the required Service Level by more than one percentage point (1.00%), then it may not Earn-Back the associated Service Level Credit. For example, if a Service Level requires 99.75% Availability and actual Availability is 98.70%, CSC would not be eligible for an Earn-Back.
+(ii) If CSC fails to meet a Critical Service Level during an applicable Earn-Back Period, it shall pay a Service Level Credit for the first failure, and a new Earn-Back Period shall be established for the second failure, subject to any other applicable limitations in this Section 4.3(a).
+(iii) If CSC fails to meet any individual Critical Service Level more than two (2) times in a rolling 12-month period, it will not be eligible for an Earn-Back for the third or any subsequent failure in such 12-month period. Accordingly, each time CSC fails to meet a Critical Service Level, the Parties will determine how many times CSC failed to meet the same Critical Service Level in the 12-month period ending in the month of the current failure. If CSC failed to meet the same Critical Service Level more than two (2) times during such 12-month period (including the current failure), then CSC shall not be eligible to Earn Back the Service Level Credit for the current failure. For example, if CSC misses a Service Level in January 2009, March 2009, October 2009, and April 2010, (A) CSC would pay the January Service Level Credit because it missed the same Service Level during the applicable Earn Back Period (in March); (B) CSC would Earn-Back the March Service Level Credit because it achieved the Service Level in the following three months (April, May and June); (C) CSC would not be eligible to Earn Back the October Service Level Credit because it failed to meet the same Service Level more than two times in the 12-month period ending in October (in January, March, and October); and (D) CSC would be eligible to Earn Back the April 2010 Service Level Credit because CSC only failed to meet the Service Level one (1) time in the 12-month period ending in April (in October).
+(iv) Critical Service Level failures occurring prior to April 1, 2008 shall not be eligible for Earn-Back and shall not limit CSC's eligibility to Earn-Back Service Level Credits for subsequent failures.
+ 
+(v) If there are multiple Critical Service Level failures in a month due to a single triggering event or causally-related series of triggering events, then only the single failure for which D&B is eligible to receive a Service Level Credit pursuant to Section 4.2(b) shall count as a "failure" for purposes of applying the limitation in Section 4.3(a)(iii) or measuring CSC's performance during an Earn-Back Period.
+(b) This Earn-Back provision will be reviewed by the Parties prior to the start of Contract Year 8 (i.e., August 1, 2009), and any mutually agreed changes will be documented in an amendment."
+(f) The percentages in the last sentence of Section 6.3 are changed from "twelve percent (12%)" to "ten percent (10%)".
+(g) The following is added as a new Section 6.4:
+"
+6.4 Continuous Improvement
+Without limiting Section 6.3, the Parties will conduct a review of the Service Levels prior to the start of each even-numbered Contract Year, and document any mutually agreed changes to the Service Levels in an amendment executed pursuant to the terms of the Agreement to reflect improved capabilities, technology, or other terms negotiated by the Parties."
+(h) The following is added as a new Section 7:
+"7 IT OPERATIONAL EXCELLENCE
+7.1 Background
+(a) The Parties agree to define a process for annually establishing IT Operational Excellence ("") goals and targets for the following year, and to reinforce those goals and targets by placing a portion of CSC Charges at-risk for achieving those goals and targets. Examples of goals and targets the Parties may establish include (or relate to):
+ITOE
+(i) Capacity management;
+(ii) Monitoring;
+(iii) Compliance with refresh standards specified in the Agreement;
+(iv) Reporting tools and dashboard views; Back-up and restore strategy; and
+(v) CSC production integration.
+ 
+7.2 Approach and Method
+(a) .
+Service Level Credits
+(i) Once the process, applicable goals and targets, and applicable measurement periods and criteria are established, D&B shall have the right to allocate up to twenty-five (25) percentage points of the 250 Service Level Credit Percentage points available for allocation among the Critical Service Levels under Section 4.2 to such goals and targets.
+(ii) If CSC fails to meet a particular goal or target to which D&B has allocated Service Level Credit Percentage points, then D&B may elect to receive a Service Level Credit in the following month. The Service Level Credit will be calculated using the formula and Amount At-Risk defined in Section 4.2. For example, if a goal or target has an annual measurement period and a Service Level Credit Percentage weighting of five (5) percentage points, then Service Level Credits for that goal or target would be calculated by multiplying the aggregate charges for the year by 15% to determine the applicable Amount at Risk, and then multiplying the Amount at Risk by the five (5) percentage point allocation.
+(iii) Goals and targets will generally be measured on a annual basis. Annual milestones will be established and measured for projects and initiatives that span multiple years.
+(iv) Service Level Credits payable under this Section 7.2(a) shall not be subject to Earn-Back.
+(b) . CSC will work with D&B to establish annual goals and targets for each calendar year by November 15 of the prior year, and to confirm such goals and targets by the end of February of the following year. At a minimum these goals and targets will include:
+Annual Goal Development
+(i) Incorporation of outputs and information from strategic direction and technology planning processes into ITOE initiatives and goals;
+(ii) Documentation of all assumptions and CSC and D&B responsibilities for future activities; and
+(iii) Defining specific measures of success for each goal and target (e.g., numbers, percentages), and allocating some or all of the twenty-five Service Level Credit Percentage Points available for allocation under Section 7.2(a) above.
+(c) . The Parties shall address ITOE issues at each of the following meetings:
+ITOE Governance
+(i) At monthly governance meetings, the Parties shall define (A) assumptions and responsibilities for ITOE initiatives; and (B) report and assess progress against specific ITOE initiatives as agreed under 7.2(a) above.
+ 
+(ii) Progress against each goal and target will be reported to senior management at each quarterly Steering Committee meeting.
+(iii) An annual assessment of ITOE goals and objectives will be conducted in February (covering the prior twelve (12) months). Performance against each goal and target (and assessment of Service Level Credits payable under Section 7.2(a) shall be calculated).
+(d) . Changes to the goals and respective Service Level Credit Percentage allocations may be adjusted annually by mutual agreement of the Parties.
+Goal Changes
+7. SCHEDULE C
+7.1
+Background
+The following amended terms (and restated Exhibits to Schedule C referenced above and attached as Attachment A to this Amendment 11) are intended to reflect the following:
+(a) reductions in the ASC and ARC/RRC Rates to reflect the complete phase out of the Annual Credit and elimination of the Baseline Project Amount provided in the Agreement by December 31, 2008. The portion of the rate reduction attributable to elimination of the Baseline Project Amount was valued at $3,221,688;
+(b) reductions in the ASC and ARC/RRC Rates to reflect additional net annual savings of approximately $10,000,000 based on D&B Resource Unit consumption in December 2007, and additional reductions in the Charges in Contract Years 7 through 10; and
+(c) additional terms and amendments mutually agreed upon by the Parties.
+7.2
+Amended Terms
+Schedule C is amended as follows:
+(a) Section 5.10 (Annual Credit) of Schedule C is replaced with the following:
+"5.10 Credit
+CSC shall provide D&B with a fixed, non-refundable credit of $3,796,783 (in addition to the pricing reductions included in Exhibit C-3) to provide D&B with savings in 2008 of approximately $10,000,000. The Credit will be applied in equal monthly amounts of $421,865 in April 2008 through December 2008."
+ 
+(b) The text of Section 6 (Projects) of Schedule C is replaced with the following:
+"6. PROJECTS
+6.1 Project Defined
+(a) A "" is a minimum of forty (40) Project Hours of work that is: (a) deemed to be a Project in the Agreement, or (b) a discrete unit of non-recurring work that generally requires startup, planning, execution, and completion. Some types of project work are included in the ASC and ARC Rates in Schedule C; other types are "Projects" that are separately chargeable in the manner described in this Section 6. The Parties intend to work through the New Governance Process to classify work into non-chargeable project and chargeable "Project" categories, subject to the following: The Parties agree that work required for CSC to (i) add and remove capacity, Equipment, Software, or other materials covered by a Resource Unit or other charging mechanism in Schedule C; or (ii) meet other contractual obligations set forth in this Agreement (e.g., comply with refresh obligations, meet Service Levels, perform governance functions) shall be classified as project work covered by the ASC and ARC Rates that is not separately chargeable; provided, to the extent D&B requests unusual requirements that require CSC to add resources in excess of those typically required to meet CSC's contractual obligations (e.g., simultaneous roll-out of a large number of servers; completion of a large refresh project not contemplated by the annual refresh schedule developed pursuant to Section 7.1(e) of Schedule A), then such additional resources will be deemed chargeable "Project" resources provided they are approved by D&B pursuant to Section 6.3 below.
+Project
+(b) A "" means a productive hour of work for D&B, as appropriately recorded under CSC's labor tracking system, exclusive of nonproductive time, such as holidays, vacation time, sick leave or other personal time off, education, training, general travel, administrative and management time (e.g., CSC internal meetings, internal reporting, expense accounting), internal CSC process implementation work, and idle time between projects. Hours spent for transition labor (i.e., skilled personnel brought in by CSC to mentor CSC Personnel) shall not be counted as Project Hours.
+Project Hour
+6.2 General Intent and Governance
+(a) The Parties have agreed to eliminate the Baseline Project Amount provided in the Agreement beginning on January 1, 2009, and to price Projects previously covered by the Baseline Project Amount in accordance with Section 6.4 below.
+(b) As indicated in Section 10.13 of the Agreement (as amended by this Amendment 11), the Parties shall create a New Governance Process to manage and monitor CSC's performance of Projects. At a minimum, the New Governance Process shall provide for the following:
+(i) The Parties will establish quarterly forecasts of Project activity. CSC shall provide monthly reports tracking consumption of Project Hours against the aggregate Project forecast and by individual Project. The Parties shall review the forecast and monthly reports at least quarterly.
+ 
+(ii) Projects will continue to be approved in the manner provided in Section 6.3 below.
+(iii) The Parties shall cooperate to prioritize Projects to mitigate any adverse impact on either Party with respect to use of Project Hours in a particular month.
+6.3 Project Proposals
+Either Party may propose a Project. For all Projects proposed or requested by D&B, CSC shall develop a Project plan, including projections for the required Project Hours and other resources to perform such Project (a " "). If CSC proposes or requests a Project, and D&B agrees that the proposed work properly constitutes a Project in accordance with the definition provided above, CSC shall develop a Project plan and Resource Estimate for the proposed Project. The cost of developing initial Project plans and Resource Estimates pursuant to this Section is included in the ASC and will not be separately chargeable. No work will be considered a Project unless and until D&B approves the Project plan and Resource Estimate, in writing.
+Resource
+Estimate
+6.4 Project Charges
+(a) . There shall be no Charge for CSC labor for projects designated as non-chargeable (i.e., projects included in the ASC and ARC Rates) pursuant to Section 6.1.
+Non-Chargeable Projects
+(b) .
+Project Charges in 2008
+(i) The Parties have established an annual pool of 31,000 Project Hours for calendar year 2008 (" "). CSC shall perform Projects in 2008 at no additional charge for CSC labor so long as the Project Hours to perform such Projects do not exceed the 2008 Baseline Project Amount. There are no limits on the number of Project Hours D&B may require in a month, except requests for Project Hours from the 2008 Baseline Project Amount in excess of 3,100 in a calendar month shall be fulfilled subject to availability of On-Account Resources and the obligation of the Parties to manage resource utilization and prioritize Projects in order to mitigate adverse impacts on either Party with respect to the use of Project Hours above such 3,100 hour threshold in a particular month. There shall be no carry-over after December 31, 2008 nor credit provided for unused Project Hours (e.g., if D&B uses 30,000 Project Hours in 2008, it will not receive a monetary credit in 2008 for the 1,000 unused Project Hours nor carry-over of the 1,000 unused Project Hours into 2009).
+2008 Baseline
+Project Amount
+(ii) If at D&B's request CSC performs Projects in 2008 in excess of the 2008 Baseline Project Amount, the CSC Project Hours which exceed the 2008 Baseline Project Amount shall be separately chargeable at the T&M Rates set forth in Exhibit C-5. D&B and CSC shall each use Commercially Reasonable Efforts to manage and coordinate Projects so that additional Charges incurred by D&B are minimized.
+ 
+(c) .
+Project Charges After 2008
+(i) After 2008, charges for Projects for which D&B approves a Resource Estimate and Project plan pursuant to Section 6.3 above shall be determined using the T&M Rates provided in Exhibit C-5.
+(ii) The Parties assumed the majority of Project Hours would be performed at the long term T&M Rates in Exhibit C-5 (i.e., by On-Account Resources or off-account resources working longer than six (6) months) when they liquidated the Baseline Project Amount in connection with execution of Amendment No. 11. The Parties' intent is to manage Project work, resource plans, and CSC staffing to maintain a ratio of work charged at a long-term vs. short-term rate that is substantially similar to the ratio used to liquidate the Baseline Project Amount. To this end, the Parties shall meet on a quarterly basis to develop and document forecasts, budgets and resource plans to address D&B's expected demand for Project work in the subsequent twelve (12) months. The Parties shall work together at these quarterly meetings to identify the optimal mix of On-Account Resources and long-term and short-term personnel. The Parties acknowledge that significant increases in D&B's demand for "off-account" skillsets or volume of Project Hours may require an increase in the use of short-term personnel.
+6.5 Termination of Projects
+By providing CSC at least five (5) Business Days' notice, D&B may terminate CSC's performance of any particular Project. In such event D&B shall be liable to CSC for CSC's reasonable costs of terminating any third party services and commitments used or made in support of such Project (including facilities, leases, subcontracts, licenses and purchases) previously approved by D&B; provided, however, that no expenses shall be reimbursed for periods of time beyond the then currently anticipated completion date of the Project.
+6.6 Preexisting Projects
+The portion of the in-flight work listed in Exhibit A-3 of Schedule A that the Parties agree is Project work are ongoing as of the Effective Date.
+6.7 Project Management
+(a) Effective August 1, 2008, CSC shall implement and utilize industry standard project management methodologies and processes for all projects (chargeable and non-chargeable) commensurate with the duration, scope and criticality of the project to successfully complete the project. The Parties shall develop a "" (as part of the overall New Governance Process described in Amendment No. 11) that includes specific processes and documentation for projects, including processes and documentation requiring or addressing the following: project definitions, project approvals, project plans (including milestones, dependencies and deliverables), project meetings (including agendas, minutes and action items), project scope changes, weekly project status reporting and escalation processes, and project acceptance and closure documents.
+Project Governance Process
+ 
+(b) Utilization of project managers and project management processes required as part of a chargeable Project shall be chargeable in connection with such Project at the rates provided in Exhibit C-5.
+(c) Utilization of project managers and project management processes required by the Project Governance Process shall be non-chargeable when related to non-chargeable project work. If D&B requests a level of project management for a non-chargeable project in excess of that required by the Project Governance Process, then the additional project management hours required to meet D&B's request would be separately chargeable at the rates provided in Exhibit C-5."
+(c) The Parties intend to apply the cost of living adjustment provision in Section 7.1 as if the first adjustment to the Adjustable Charges was to be made on January 1, 2009. Accordingly, the text of Sections 1 and 7.1 (Cost of Living Adjustment) of Schedule C is revised as follows:
+(i) All references to "2002" in Section 7.1 shall be changed to "2007";
+(ii) All references to "2003" in Section 7.1 shall be changed to "2008";
+(iii) All references to "2004" in Sections 1 and 7.1 shall be changed to "2009"; and
+(iv) The words "Annual Credit" are deleted in Section 7.1(a).
+(d) The words "(net of the Annual Credit)" are deleted from Section 7.4.
+(e) Section 2 (MIDRANGE SERVICES) of Exhibit C-1 shall be replaced with the following:
+"
+2. MIDRANGE SERVICES
+The Resource Categories applicable to Midrange Services, and the RU definitions corresponding to such Resource Categories, are set forth in this Section.
+2.1 Midrange Standard Server Configurations
+(a) Exhibit C-22 contains standard hardware and Software configurations for Unix, Non-Unix and Linux Servers and VMWare Servers that D&B may request (" "). The Parties shall review the Midrange Standard Server Configurations on an annual basis and update Exhibit C-22 with any mutually agreed revisions.
+Midrange
+Standard
+Server
+Configurations
+(b) If D&B requests a change in the Midrange Standard Server Configuration for a particular Server during the annual reviews contemplated by 2.1(a) above or otherwise, the ARC/RRC Rates affected by the change shall be increased or decreased, as applicable, to reflect increases or decreases in the Out-of-Pocket
+ 
+Expenses CSC will incur as a result of the change. For example, if a Server provider includes new features and functionality in its Servers without increasing its prices, those new features and functionality will be added to the Midrange Standard Server Configurations without adjusting the ARC/RRC Rates if requested by D&B. In contrast, if adding those new features and functionality to the Midrange Standard Server Configurations will increase CSC's Out-of-Pocket Expenses, the ARC/RRC Rates may be increased according to the provisions of Section 13.6 of the Agreement.
+2.2 Midrange Boxes
+(a) Midrange Boxes shall be a Resource Category. Resource usage in this category will be measured on a per-Midrange Box basis. " " means a D&B Server that is provided and supported by CSC. Remote Servers (as defined in Section 5.3 of this Exhibit C-1 and amended by Amendment No. 6), Development Servers and AS-400 Servers (as defined in Amendment No. 2), VMWare Servers (as defined in Section 2.5(a) of this Exhibit C-1 and further described in NS-225 and NS-304), and Servers that are In-Flight Project Equipment (as defined in Section 5.11 of Schedule C) are not Midrange Boxes.
+Midrange
+Box
+(b) Each Midrange Box will be classified and priced separately according to its "." The Midrange Box Classes are set forth in Exhibit C-12.
+Class
+(c) One (1) Midrange Box of a certain Class in service on the last day of a month for which D&B has authorized CSC to provide Midrange Services equals one (1) RU within the Resource Category corresponding to such Class.
+(d) The Charges for installation and de-installation of Midrange Boxes are included in the Midrange Box ASC and ARC/RRC Rates.
+2.3 Allocated Midrange Storage (Internal and External)
+(a) Internal Allocated Midrange Storage shall be a Resource Category applicable to Midrange Boxes (Unix, Non-Unix, and Linux Servers). Resource usage in this category will be measured as the number of gigabytes of internal storage that is directly attached to a specific Midrange Box requested by D&B to support D&B's midrange computing requirements each month (" "). The number of Internal Midrange Gb-months for each month shall be equal to the number of gigabytes in service on the last day of a month that were requested by D&B for that month, excluding allocation of storage attributable to (i) CSC's errors; (ii) system software packs and page packs, and their related data sets, supporting CSC activities; (iii) logical volume configuration overhead; (iv) lost storage capacity used to provide redundancy required by RAID; and (v) any other System Overhead. One (1) Internal Midrange Gb-month equals one (1) RU.
+Internal
+Midrange
+Gb-month
+(b) External Allocated Midrange Storage shall be a Resource Category. Resource usage in this category will be measured as the number of gigabytes of external storage with SAN connectivity and hardware requested by D&B to support D&B's midrange computing requirements each month (each such gigabyte an " "). The number of External Midrange Gb-months for each month shall be equal to the number of External Allocated Midrange Storage
+External
+Midrange
+Gb-month
+ 
+gigabytes in service on the last day of a month that were requested by D&B for that month, excluding allocation of storage attributable to (i) CSC's errors; (ii) system software packs and page packs, and their related data sets, supporting CSC activities; (iii) logical volume configuration overhead; (iv) lost storage capacity used to provide redundancy required by RAID; and (v) any other System Overhead. One (1) External Midrange Gb-month equals one (1) RU.
+(c) D&B may request, and CSC will provide, additional Internal and External Allocated Midrange Storage in single gigabyte increments.
+2.4 Linux Servers
+Servers running the Red Hat Linux Operating System have been added to the Midrange Box classifications in Exhibit C-12, and shall be priced based on such classifications and the terms in 2.2 above. CSC shall refresh the Linux operating system for such Servers to remain at the "n-1" version provided that all other D&B dependent software is compatible and that it has been certified by the specific software vendor to run on the then existing version of Linux. D&B shall have the option to remain at less than n-1 of the then current version Linux operating system, provided that in doing so there are no incremental vendor costs to CSC.
+2.5 VMWare Servers and VMWare Instances
+(a) " " shall be a Resource Category. A VMWare Server shall consist of one physical non-UNIX Server that concurrently runs more than one (1) instance of an operating system, with enough local (non-billable) DASD to host the VMWare ESX operating system and any System Overhead and related files or data. One (1) VMWare Server equals one (1) RU.
+VMWare
+Servers
+(b) " " shall be a Resource Category. A VMWare Instance shall consist of virtual instance of a single operating system on a VMWare Server, with enough non-billable storage to host the VMWare Instance operating system and any System Overhead and related files or data. VMWare Instances provide a dedicated virtual "slice" of non-dedicated physical computing resources, and the appropriate Operating System and Virtualization software. One (1) VMWare Instance equals one (1) RU.
+VMWare
+Instances
+(c) Additional terms governing VMWare Servers in NS-225 and NS-304 shall continue to apply, subject to the following:
+(i) The Resource Unit definitions and configurations above and in Exhibit C-22 shall take precedence over any definitions and configurations in NS-225 or NS-304; and
+(ii) Sections 4.4 of NS-304 and 4.4 and 4.5 of NS-225 are deleted. All charges for VMWare Servers and VMWare Instances are included in the current ASC and ARC Rates.
+ 
+8. AMENDMENTS 1-10
+Amendments 1-10 to the Agreement are revised as follows:
+8.1
+Amendment No. 4
+The following amendments are made to Amendment No. 4:
+(a) Exhibit A to Amendment 4 is deleted. All references to the Service Levels in Exhibit A shall be deemed references to Section 11 of the restated version of Exhibit B-1 attached to this Amendment No. 11 (as it may be later amended by the Parties).
+(b) Exhibit B to Amendment 4 is deleted. All references to the ASC (or Exhibit C-3A) or ARC/RRC Rates (or Exhibit C-4A) shall be deemed references to the ASC and ARC/RRC Rates in the restated versions of Exhibits C-3 and C-4 attached to this Amendment No. 11 (as they may be later amended by the Parties).
+(c) Section 4.3(a) is deleted.
+(d) Section 4.4 is deleted.
+8.2
+Amendment No. 5
+The following amendments are made to Amendment No. 5:
+(a) Sections 3.1 through 3.6 are deleted.
+(b) Sections 5.1(a) and 5.1(b) are deleted.
+(c) Sections 5.2 is deleted.
+(d) Section 5.3 is deleted.
+(e) Attachment A is deleted. All references to the standard configurations in Attachment A shall be deemed references to the Midrange Standard Server Configurations in the restated version of Exhibit C-22 attached to this Amendment No. 11 (as it may be later amended by the Parties).
+(f) Attachment B is deleted. All references to ARC/RRC Rates or Exhibit C-4A in Attachment B shall be deemed references to the ARC/RRC Rates in the restated version of Exhibit C-4 attached to this Amendment No. 11 (as it may be later amended by the Parties).
+8.3
+Amendment No. 6
+The following amendments are made to Amendment No. 6:
+(a) Section 3.3 is deleted.
+(b) Section 4 is deleted.
+(c) Section 7 and Exhibit B (T&M Rates) are deleted.
+ 
+8.4
+Amendment No. 7
+The following amendments are made to Amendment No. 7:
+(a) The references to "January 1, 2007" in Section II.D. are changed to January 1, 2009.
+(b) The references to "Amendment #2, Schedule C, Section 7.1(b)" in Section II.D. refer to Section 7.1(b) as amended by this Amendment No. 11.
+(c) Section II.D.2 is further amended as follows:
+(i) The reference to January 1, 2008 is changed to January 1, 2009.
+(ii) The reference to a base year of "August 1, 2006" shall be changed to "August 1, 2007", and the references to "2008", "2006", and "2007" shall be changed to "2009", "2007", and "2008" respectively.
+(d) Section IV is deleted. References to Resource Baselines (or Exhibit C-2A), Annual Service Charges (or Exhibit C-3A), and ARC/RRC Rates (or Exhibit C-4A) in Amendment 7 shall be deemed references to the restated versions of Exhibits C-2, C-3, and C-4 attached to this Amendment No. 11 (as they may be later amended by the Parties).
+8.5
+Amendment No. 8
+Exhibit C-3A in Amendment 8 is deleted. References to Exhibit C-3A shall be deemed references to the restated version of Exhibit C-3 attached to this Amendment No. 11 (as it may be later amended by the Parties).
+8.6
+Amendment No. 9
+Section 2.1 in Amendment No. 9 and all Attachments to Amendment No. 9 are deleted.
+8.7
+Amendment No. 10
+Amendment No. 10 is deleted in its entirety.
+This Amendment No. 11 may be executed in one or more counterparts, each of which shall be deemed to be an original and all of which shall constitute the same instrument.
+ 
+IN WITNESS WHEREOF, the Parties have each caused this Amendment No. 11 to be signed and delivered by its duly authorized representative, all as of the Amendment No. 11 Effective Date.
+ 
+ 
+
+

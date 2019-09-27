@@ -1,0 +1,245 @@
+FILE:AFL/AFL-8K-20080206121148.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+   Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+   Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+   Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ITEM 1.01 ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+     On February 4, 2008, Aflac Incorporated entered into an agreement for an accelerated share repurchase (ASR) program with an affiliate of Merrill Lynch, Pierce, Fenner & Smith Incorporated (Merrill Lynch). Under the Agreement, Aflac purchased 12.5 million shares of its outstanding common stock at $60.58 per share for a total purchase price of $757 million. The repurchase was funded with internal capital. Aflac is acquiring these shares as a part of previously announced share repurchase authorizations by its board of directors that had 55.6 million shares available for purchase as of February 4, 2008. The shares will be held in treasury.
+     Under the Agreement, Merrill Lynch plans to purchase shares of Aflac common stock in the open market from time to time until it has acquired a number of shares equivalent to the number of shares purchased by Aflac. At the end of this period, Aflac may receive, or may be required to remit, a purchase price adjustment based upon the volume weighted average price of its common shares during the ASR program period. Aflac may elect to receive or pay any settlement amount in cash or shares of its common stock at its option. The completion and settlement of the ASR program is expected to occur during the second quarter of 2008 although the settlement may occur before the second quarter at Merrill Lynch's option.
+     The foregoing description of the ASR program is qualified in its entirety by reference to the Master Confirmation of OTC ASAP Minus (VWAP Pricing) and the Form of Supplemental Confirmation of OTC ASAP Minus (VWAP Pricing) (collectively, the Confirmation) for the transaction, copies of which are attached hereto as Exhibit 10.1 and incorporated herein by reference. The Confirmation contains other terms governing the transactions, including, but not limited to, the mechanism used to determine the final settlement of the program, the settlement method, the circumstances under which Merrill Lynch is permitted to make adjustments to valuation periods, the circumstances under which the program may be terminated early, and various acknowledgements, representations and warranties made by Aflac and Merrill Lynch.
+     Merrill Lynch and certain of its affiliates have engaged, and may in the future engage, in financial advisory, investment banking and other services for Aflac.
+ITEM 9.01 FINANCIAL STATEMENTS AND EXHIBITS.
+(d) Exhibits.
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+EXHIBIT INDEX:
+
+ 
+EXHIBIT 10.1
+Master Confirmation of OTC ASAP Minus (VWAP Pricing)
+Dear Sir / Madam:
+     The purpose of this letter agreement (the "") and each supplemental confirmation substantially in the form attached hereto as Exhibit A (each, a "" and the Supplemental Confirmations, together with the Master Confirmation, this "") is to confirm the terms and conditions of each of the above-referenced transactions entered into between Counterparty and MLI through its agent Merrill Lynch, Pierce, Fenner & Smith Incorporated ("" or "") on the respective Trade Dates specified in the Supplemental Confirmations (each, a "" and collectively, the ""). This Confirmation constitutes a "Confirmation" both on behalf of MLI, as referred to in the ISDA Master Agreement specified below, and on behalf of MLPF&S, as agent of MLI.
+Master Confirmation
+Supplemental Confirmation
+Confirmation
+MLPF&S
+Agent
+Transaction
+Transactions
+     The definitions and provisions contained in the 2000 ISDA Definitions (the "") and the 2002 ISDA Equity Derivatives Definitions (the "" and, together with the Swap Definitions, the ""), in each case as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between the Swap Definitions and the Equity Definitions, the Equity Definitions will govern, in the event of any inconsistency between the Definitions and the Master Confirmation, the Master Confirmation will govern, and in the event of any inconsistency between the Master Confirmation and any Supplemental Confirmation, the Supplemental Confirmation will govern. References herein to any "Transaction" shall be deemed to be references to a "Share Forward Transaction" for purposes of the Equity Definitions and a "Swap Transaction" for the purposes of the Swap Definitions.
+Swap Definitions
+Equity Definitions
+Definitions
+     This Confirmation evidences a complete binding agreement between you and us as to the terms of the Transactions to which this Confirmation relates. This Confirmation (notwithstanding anything to the contrary herein), shall be subject to an agreement in the 1992 form of the ISDA Master Agreement (Multicurrency Cross Border) (the "" or "") as if we had executed an agreement in such form (but without any Schedule and with elections specified in the "ISDA Master Agreement" Section of the Master Confirmation) on the Trade Date of the first such Transaction between us. In the event of any inconsistency between the provisions of that agreement and this Confirmation, this Confirmation will prevail for the purpose of each Transaction.
+Master Agreement
+Agreement
+     The terms of each Transaction to which the Master Confirmation relates are as follows:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Share Deliveries in Lieu of Cash Payment:
+If Counterparty would be obligated to pay cash to MLI or receive cash from MLI pursuant to the terms of this Agreement for any reason without having had the right (other than pursuant to this paragraph) to elect to deliver Shares or receive Shares, as the case may be, in satisfaction of such payment obligation or right, then Counterparty may elect that Counterparty deliver to MLI or receive from MLI, as the case may be, a number of Shares having an equivalent value (such number of Shares to be delivered to be determined by the Calculation Agent acting in a commercially reasonable manner and taking into account relevant factors, including whether or not the Shares are subject to legal or other restrictions on transfer or acquisition and the costs and expenses associated with disposing of or acquiring such Shares). Settlement relating to any delivery of Shares pursuant to this paragraph shall occur within a reasonable period of time.
+Registration:
+Counterparty hereby agrees that if, in the good faith reasonable judgment of MLI, any Shares (x) acquired by MLI from Counterparty or (y) for the purpose of hedging its obligations pursuant to any Transaction cannot be sold in the public market by MLI without registration under the Securities Act (other than Net Share Settlement Shares delivered pursuant to the second paragraph under (i) of "Net Share Settlement Shares" above), Counterparty shall, in order to allow MLI to sell such Shares in a registered offering, make available to MLI an effective registration statement under the Securities Act and enter into an agreement, in form and substance satisfactory to MLI, substantially in the form of an underwriting agreement for a registered secondary offering; provided, however, that if MLI, in its sole reasonable discretion, is not satisfied with access to due diligence materials, the results of its due diligence investigation, or the procedures and documentation for the registered offering referred to above, then the section "Private Placement" below shall apply at the election of Counterparty with respect to the Shares to be sold (such Shares, as well as the Shares described in the second paragraph under (i) of "Net Share Settlement Shares" above, the "").
+Private Shares
+Private Placement:
+In order to allow MLI to sell Private Shares in a private placement, Counterparty agrees to enter into a private placement agreement substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance satisfactory to MLI (in which case, the Calculation Agent shall, to the extent such adjustments have not yet already been made, make any adjustments to the terms of such Transaction that are necessary, in its reasonable judgment, to compensate MLI for any commercially reasonable discount from the public market price of the Shares incurred on the sale of Shares in a private placement), or purchase such Shares from MLI at the closing price on such Exchange Business Days, and in the amounts, requested by MLI.
+ 
+Additional Agreements, Representations and Covenants of Counterparty, Etc.:
+ 
+ 
+ 
+ISDA Master Agreement
+With respect to the Agreement, MLI and Counterparty each agree as follows:
+Specified Entities:
+(i) in relation to MLI, for the purposes of:
+: not applicable
+Section 5(a)(v)
+: not applicable
+Section 5(a)(vi)
+: not applicable
+Section 5(a)(vii)
+: not applicable
+Section 5(b)(iv)
+and (ii) in relation to Counterparty, for the purposes of:
+: not applicable
+Section 5(a)(v)
+: not applicable
+Section 5(a)(vi)
+: not applicable
+Section 5(a)(vii)
+: not applicable
+Section 5(b)(iv)
+ 
+"" will have the meaning specified in of the Agreement.
+Specified Transaction
+Section 14
+The "" provisions of of the Agreement will not apply to MLI and Counterparty.
+Credit Event Upon Merger
+Section 5(b)(iv)
+The "" provision of of the Agreement will not apply to MLI or to Counterparty.
+Automatic Early Termination
+Section 6(a)
+Payments on Early Termination for the purpose of of the Agreement: (i) Loss shall apply; and (ii) the Second Method shall apply. With respect to any calculation or determination of the fair value of this Transaction to Seller or an amount payable by or to Seller hereunder, any combination of one or more of the following variables may be employed: (i) stock borrow cost of 30 bps, (ii) interest rates of 3.10% per annum, (iii) no changes in expected or actual dividends since the Trade Date, (iv) volatility or volatilities (which, for the avoidance of doubt, shall include the entire volatility surface) at the time of such calculation or determination, (v) changes to all outstanding shares of Common Stock, such as in the case of stock splits, stock dividends and mergers(vi) stock price experience prior to, and at the time of, such calculation or determination (including experience as to liquidity of the Common Stock, and whether based on available market price information, or estimates of trading prices for blocks of shares, or other relevant information as to prevailing market prices) and (vii) any and all variables related to time.
+Section 6(e)
+,
+"" means USD.
+Termination Currency
+Tax Representations:
+: For the purpose of , and of the Agreement, each party agrees to deliver the following documents:
+Delivery Requirements
+Sections 3(d)
+4(a)(i)
+(ii)
+     Tax forms, documents or certificates to be delivered are:
+Each party agrees to complete (accurately and in a manner reasonably satisfactory to the other party), execute, and deliver to the other party, United States Internal Revenue Service Form W-9 or W-8 BEN, or any successor of such form(s): (i) before the first payment date under this agreement; (ii) promptly upon reasonable demand by the other
+ 
+party; and (iii) promptly upon learning that any such form(s) previously provided by the other party has become obsolete or incorrect.
+     Other documents to be delivered:
+For the purpose of Section 12(a) of the Agreement:
+Addresses for Notices:
+Address for notices or communications to MLI:
+(For all purposes)
+Additionally, a copy of all notices pursuant to Sections 5, 6, and 7 as well as any changes to Counterparty's address, telephone number or facsimile number should be sent to:
+Address for notices or communications to Counterparty for all purposes:
+ 
+Process Agent: For the purpose of Section 13(c) of the Agreement, MLI appoints as its process agent:
+. For the purpose of of the Agreement: Neither MLI nor Counterparty is a Multibranch Party.
+Multibranch Party
+Section 10(c)
+. The Calculation Agent is MLI, whose judgments, determinations and calculations in each Transaction and any related hedging transaction between the parties shall be made in good faith and in a commercially reasonable manner.
+Calculation Agent
+Credit Support Document.
+MLI: Guarantee of ML&Co in the form attached hereto as Exhibit B.
+Counterparty: Not Applicable
+Credit Support Provider.
+With respect to MLI: Merrill Lynch and Co. and with respect to Counterparty, Not Applicable.
+. This Confirmation will be governed by, and construed in accordance with, the laws of the State of New York.
+Governing Law
+. The provisions of Section 2(c) of the Agreement shall not be applicable to each Transaction; provided, however, that with respect to this Agreement or any other ISDA Master Agreement between the parties, any Share delivery obligations on any day of Counterparty, on the one hand, and MLI, on the other hand, shall be netted. The resulting Share delivery obligation of a party upon such netting shall be rounded down to the nearest number of whole Shares, such that neither party shall be required to deliver any fractional Shares.
+Netting of Payments
+. of the Agreement is hereby amended by adding in the third line thereof after the word "respect" and before the period the words "or, in the case of audited or unaudited financial statements or balance sheets, a fair presentation of the financial condition of the relevant person."
+Accuracy of Specified Information
+Section 3(d)
+. of the Agreement is hereby amended by the deletion of "and" at the end of ; the substitution of a semicolon for the period at the end of and the addition of , as follows:
+Basic Representations
+Section 3(a)
+Section 3(a)(iv)
+Section 3(a)(v)
+Sections 3(a)(vi)
+. It is an "eligible contract participant" as defined in the Commodity Futures Modernization Act of 2000, and it has entered into this Confirmation and each Transaction in connection with its business or a line of business (including financial intermediation), or the financing of its business.
+Eligible Contract Participant; Line of Business
+. Section 3(a)(iii) of the Agreement is modified to read as follows:
+Amendment of Section 
+3(a)(iii)
+. Such execution, delivery and performance do not materially violate or conflict with any law known by it to be applicable to it, any provision of its constitutional documents, any order or judgment of any court or agency of government applicable to it or any of
+No Violation or Conflict
+ 
+its assets or any material contractual restriction relating to Specified Indebtedness binding on or affecting it or any of its assets.
+. Section 3(a)(iv) of the Agreement is modified by inserting the following at the beginning thereof:
+Amendment of
+Section 
+3(a)(iv)
+"To such party's best knowledge,"
+Additional Representations:
+. As of the date hereof and each Trade Date, Counterparty represents and warrants that it: (i) has such knowledge and experience in financial and business affairs as to be capable of evaluating the merits and risks of entering into each Transaction; (ii) has consulted with its own legal, financial, accounting and tax advisors in connection with each Transaction; and (iii) is entering into each Transaction for a bona fide business purpose to hedge or repurchase Shares.
+Counterparty Representations
+As of the date hereof and each Trade Date, Counterparty represents and warrants that it is not and has not been the subject of any civil proceeding of a judicial or administrative body of competent jurisdiction that could reasonably be expected to impair materially Counterparty's ability to perform its obligations hereunder.
+As of the date hereof and each Trade Date, Counterparty is not insolvent.
+Acknowledgements:
+(1) The parties acknowledge and agree that there are no other representations, agreements or other undertakings of the parties in relation to any Transaction, except as set forth in this Confirmation.
+(2) The parties hereto intend for:
+(a) each Transaction to be a "securities contract" as defined in Section 741(7) of Title 11 of the United States Code (the ""), qualifying for the protections under Section 555 of the Bankruptcy Code;
+Bankruptcy Code
+(b) a party's right to liquidate each Transaction and to exercise any other remedies upon the occurrence of any Event of Default under the Agreement with respect to the other party to constitute a "contractual right" as defined in the Bankruptcy Code;
+(c) all payments for, under or in connection with each Transaction, all payments for the Shares and the transfer of such Shares to constitute "settlement payments" as defined in the Bankruptcy Code.
+. Section 6(d)(ii) of the Agreement is modified by deleting the words "on the day" in the second line thereof and substituting therefor "on the day that is three Local Business Days after the day". is further modified by deleting the words "two Local Business Days" in the fourth line thereof and substituting therefor "three Local Business Days."
+Amendment of
+Section 
+6(d)
+(ii
+)
+Section 6(d)(ii)
+. The definition of "Reference Market-Makers" in is hereby amended by adding in clause (a) after the word "credit" and before the word "and" the words "or to enter into transactions similar in nature to Transactions".
+Amendment of Definition of Reference Market-Makers
+Section 14
+. Each party consents to the recording of the telephone conversations of trading and marketing personnel of the parties and their Affiliates in connection with this Confirmation. To the extent that one party records telephone conversations (the "") and the other party does not (the ""), the Recording Party shall in the event of any dispute, make a complete and unedited copy of such party's tape of the entire day's conversations with the Non-Recording Party's personnel available to the Non-Recording Party. The Recording Party's tapes may be used by either party in any forum in which a dispute is sought to be
+Consent to Recording
+Recording Party
+Non-Recording Party
+ 
+resolved and the Recording Party will retain tapes for a consistent period of time in accordance with the Recording Party's policy unless one party notifies the other that a particular transaction is under review and warrants further retention.
+. Each party hereby acknowledges and agrees that MLI has authorized Counterparty to disclose each Transaction and any related hedging transaction between the parties if and to the extent that Counterparty reasonably determines (after consultation with MLI) that such disclosure is required by law or by the rules of any securities exchange or similar trading platform.
+Disclosure
+. If any term, provision, covenant or condition of this Confirmation, or the application thereof to any party or circumstance, shall be held to be invalid or unenforceable in whole or in part for any reason, the remaining terms, provisions, covenants, and conditions hereof shall continue in full force and effect as if this Confirmation had been executed with the invalid or unenforceable provision eliminated, so long as this Confirmation as so modified continues to express, without material change, the original intentions of the parties as to the subject matter of this Confirmation and the deletion of such portion of this Confirmation will not substantially impair the respective benefits or expectations of parties to this Agreement; , , that this severability provision shall not be applicable if any provision of , , or of the Agreement (or any definition or provision in to the extent that it relates to, or is used in or in connection with any such Section) shall be so held to be invalid or unenforceable.
+Severability
+provided
+however
+Section 2
+5
+6
+13
+Section 14
+. For purposes of of the Agreement, each party shall be deemed to be an Affected Party in connection with Illegality and any Tax Event.
+Affected Parties
+Section 6(e)
+ 
+Please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Master Confirmation enclosed for that purpose and returning it to us.
+Confirmed as of the date first above written:
+Acknowledged and agreed as to matters relating to the Agent:
+MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED,
+solely in its capacity as Agent hereunder
+ 
+EXHIBIT A
+Supplemental Confirmation of ASAP Minus (VWAP Pricing)
+                                                                                                       
+Date:
+ML Ref:
+                                              
+To:
+("")
+Counterparty
+Attention:
+                                                    Merrill Lynch Financial Centre                                2 King Edward Street                                London EC1A 1HQ
+From:
+Merrill Lynch International ("")
+MLI
+ 
+Dear Sir / Madam:
+     Capitalized terms used herein, unless defined herein, have the meanings set forth in the Master Confirmation of OTC ASAP Minus between Counterparty and MLI, dated as of February 4, 2008.
+     The purpose of this Supplemental Confirmation is to confirm the terms and conditions of a Transaction under the Master Confirmation.
+     The terms of the Transaction to which the Supplemental Confirmation relates are as follows:
+Trade Date:
+Initial Share Price:                               $
+Scheduled Valuation Date:
+First Acceleration Date:
+Number of Shares:
+Aggregate Adjustment Amount:
+Ordinary Dividend Amount:
+Scheduled Ex-dividend Date:
+Settlement Price Adjustment Amount:
+Account Details:      Account for payments to Counterparty:
+ 
+      Account for payment to MLI:
+Address for notices or communications to Counterparty for all purposes:
+ 
+Please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Supplemental Confirmation enclosed for that purpose and returning it to us.
+Acknowledged and agreed as to matters relating to the Agent:
+
+

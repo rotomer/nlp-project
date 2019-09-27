@@ -1,0 +1,274 @@
+FILE:IBM/IBM-8K-20070719074433.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Date of Report:  July 18, 2007
+(Date of earliest event reported)
+ 
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+Attachment I of this Form 8-K is the transcript of IBM's Chief Financial Officer Mark Loughridge's second quarter earnings presentation to securities analysts on July 18, 2007.  Certain reconciliation and other information ("Non-GAAP Supplementary Materials") for this presentation was included in Attachment II to the Form 8K that IBM submitted on July 18, 2007, which included IBM's press release dated July 18, 2007.  All of the information in Attachment I is hereby filed except for the information set forth below, which is furnished but not filed:
+The following statements on page 3:
+"Excluding the $81 million gain from the printer sale, expense was up 12 percent."
+"or 8 percent without the printer gain."
+The following statements on page 6 :
+"Without the $81 million printer gain, expense was up 12 percent."
+"If we peel back the 12 percent growth in the second quarter,"
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ 
+Attachment I
+Introduction
+Thank you.  This is Patricia Murphy, Vice President of Investor Relations for IBM.  I'm here with Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer.  Thank you for joining our second quarter earnings presentation.
+By now, the opening page of the presentation should have automatically loaded, and you should be on the title page.  The charts will automatically advance as we move through the presentation.  But, if you prefer to manually control the charts, at any time you can un-check the synchronize button on the left of the presentation.
+The prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.
+Let me remind you that our presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.  All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K submitted to the SEC.
+I'll also remind you that certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.  Those statements involve a number of factors that could cause actual results to differ materially.  Additional information concerning these factors is contained in the company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+Now, I'll turn the call over to Mark Loughridge.
+ 
+ 
+2Q07 Growth Dynamics
+Thanks for joining us today.  Before going into the financials, let me give you an overview of the quarter.  This was a really strong quarter, close to firing on all cylinders.  We saw improving revenue growth, gross margin expansion and successful execution of our ASR, or Accelerated Share Repurchase.
+From a geographic perspective we had broad-based success.  Our performance was led by Asia where we had solid execution, capitalizing on an improving economy, and leveraging the investments we've made in the emerging markets.
+Europe was up 13 percent, while half of this was currency, the other half was solid business performance.
+But really, Americas had the best improvement, led by the U.S.  Last quarter we told you we expected an improvement in the U.S. and this quarter we got it.  Revenue was up 6 percent.
+From a business unit perspective, Software revenue growth was 13 percent, and both Services businesses were up 10 percent.  Systems delivered on their model, though overall Systems and Technology growth was impacted by weakness in Microelectronics, and the sale of our printer business.
+Our EPS grew 19 percent, 15 percent excluding the gain from the printer sale.
+All this contributed to strong cash flow.  In fact Free Cash Flow was up $1.7 billion year to year.
+So now let's turn to the financial summary.
+ 
+2
+ 
+2Q07 Financial Summary
+As you can see, revenue was $23.8 billion, an increase of 9 percent as reported and 6 percent at constant currency.  This is the best constant currency revenue growth we've had in over six years.
+We expanded gross profit margin to 41.8 percent, it was the 12th consecutive quarter of year-to-year improvement.
+Expense was up 11 percent driven by investments in sales resource and acquisitions, and our mix to higher value businesses.  Excluding the $81 million gain from the printer sale, expense was up 12 percent.
+Our net income was up 12 percent, or 8 percent without the printer gain.
+We executed the $12.5 billion ASR.  And in total, bought back 9 percent of our shares outstanding at the end of the first quarter.
+We raised our dividend by 33 percent, and that dividend has now doubled in the last two years.
+Bottom line, we delivered $1.55 of EPS, growth of 19 percent year-to-year.  Excluding the printer gain, earnings per share was $1.50, growth of 15 percent year-to-year.
+Now when I step back, these results demonstrate our intense focus on profit growth and cash generation, while continuing to invest for the future.  As we get into the details, you'll see we've made good progress against our 2010 roadmap discussed at our May investor meeting
+So let's start the discussion with our geographic revenue.
+ 
+3
+ 
+Geographic Revenue
+All three geographies improved their growth rate from the first quarter.
+Americas' revenue grew 5 percent at constant currency.  We told you we expected improvement in the U.S. in the second quarter.   And while economic data suggests the U.S. economy improved in the second quarter, I think more importantly, the team really executed, and the results show it.  The U.S. growth improved to 6 percent.
+Once again we had very powerful results outside the U.S. as well.
+consecutive quarter, benefiting from an improving economy and better sales execution.
+Europe continued to improve, up 13 percent as reported and 6 percent at constant currency.  Most major countries performed well, including Spain, the UK, and Italy - - they were all up.  Germany also grew with solid results for the second
+consecutive quarter at constant currency.
+Asia Pacific again had the best performance with 10 percent growth.  The Asia Pacific economy remains very strong, led by India, ASEAN, and a steady recovery in Japan.  We had solid contribution from all regions.  In fact three regions posted growth of 21 percent, 19 percent, and 16 percent, and Japan grew for the third
+Our strategies to focus on higher growth emerging countries are paying off. In fact, the emerging countries of Brazil, Russia, India and China grew 25 percent at constant currency.  These countries now are 5 percent of IBM's revenue and contributed one point of growth to the IBM total.
+Both China and India are up over 30 percent and we believe we gained share in those countries.  Brazil grew 9 percent and Russia was up a very powerful 52 percent.
+These emerging countries are among the fastest growing IT markets in world  and we're investing to capture growth.  Over the next four years, as we covered in our May analyst meeting, our objective is to double the revenue growth from these countries, and our performance in the first half is a great start towards this goal.
+Now let's turn to the segment results.
+ 
+4
+ 
+Segment Revenue and Gross Margin
+We're going to get into the specifics on revenue in the segment discussions.  But let me focus here on gross margin.
+IBM's gross margin improved 6 tenths of a point year to year.  You know, as I look at it, approximately two-thirds of our improvement is operational efficiencies, the remaining one third is mix shift to higher margin businesses.
+By business unit, three units showed good improvement.
+Global Business Services continued the positive trend, with the improvement driven by better utilization, strong contract management, and improving pricing trends, and these each contributed about a third of that improvement.
+Our Software margin expansion was driven by strong revenue growth with a fixed cost structure.
+Systems and Technology margin improved in each of our server brands as customers consolidate and virtualize workloads on the high-end.
+Global Technology Services was flat again, but up sequentially.  We've taken action to improve our cost profile in the U.S.
+Global Financing declined, and this was a function of narrowing financing spreads and increased interest costs.
+So let's now move on to Expense.
+ 
+5
+ 
+Expense Summary
+Total Expense and Other Income increased 11 percent, consistent with the trend we saw in the last few quarters.  Without the $81 million printer gain, expense was up 12 percent.
+I think one way to look at this increase in expense is that to some degree it's a reflection of the changing mix of our business.  Higher value businesses contribute to higher gross margin, but they also require higher operating expense.
+If we peel back the 12 percent growth in the second quarter, approximately three points of growth was due to currency and we estimate that about five points of the growth is from our acquisitions.
+Of the five remaining points, one point is driven by increase in our interest expense to fund our Accelerated Share Repurchase.  And the remaining four points is from investments in our software and services business, and our emerging markets.
+The returns on these investments are really reflected in momentum in our key middleware brands, and growth in emerging markets, and our improving services signings.
+I'd like to highlight a couple of other items that significantly impacted our profit growth.  First of all, IP Income was up $58 million year-to-year, coming off of a very low base in the second quarter of 2006.  Secondly, over $150 million of workforce rebalancing was incurred in the quarter, and that was up $58 million. Half of this was used to address the cost issues in Global Technology Services, which as you remember was predominantly in Strategic Outsourcing.
+Looking forward, we expect to reduce this rate of expense growth in the second half.
+In fact, even with the $270 million of additional interest expense from increased debt to fund our Accelerated Share Repurchase, we expect total expense growth rate in the second half to be in the range of 7 percent to 9 percent before the impact of any future acquisitions.  This improvement will be skewed more to the fourth quarter and I've got to add that of course, we're always on the hunt for good acquisitions, but I think this gives you a better sense of our operating trends.
+Now let's talk about cash flow.
+ 
+6
+ 
+Cash Flow Analysis
+As you can see we had outstanding cash flow performance.
+In the quarter, Free Cash Flow was $2.7 billion, up $1.7 billion year-to-year, and $2.9 billion quarter-to-quarter.
+Last quarter, we explained that we had some weakness in our accounts receivable performance, so I put in place the action plan to deliver improvements.  As you can see, we executed very well in the second quarter with strong accounts receivable performance across all geographies.  In fact our DSO improved one day year-to-year and a very strong four days on a quarter-to-quarter basis.
+For the first half, Free Cash Flow was $2.5 billion, a $1.8 billion increase from last year.  Year-to-date cash performance was driven by growth in Net Income and strong working capital performance.  Our cash generation was strong in all geographies.
+So let me cover some events that impacted the year-to-year compare.  First, major funding actions for retirement-related plans were $800 million less this year, and second, this quarter nearly $400 million of proceeds from the printer sale went to cash from operations.
+Strong and recurring cash flow enabled us to drive shareholder value through higher dividends and record share repurchases.  Along with this, we maintained investments required for long term growth.
+In the first half we returned an unprecedented $19.2 billion to investors through our share repurchase and dividends.  We bought back 176 million shares at $18 billion.  Average diluted shares were 1.5 billion, down 5.2 percent from a year ago.
+We executed a $12.5 billion Accelerated Share Repurchase.  It was by far the largest ASR ever executed.  We funded the ASR through debt and cash.  We still have $1.8 billion remaining from our Board authorization.
+With the execution of the ASR, we achieved:  first, an immediate share reduction, second, a lower cost of capital and third, good use of our non-U.S. cash.
+In the half we also paid out over $1 billion in dividends and announced a $.10 per share increase or 33 percent increase in the quarterly dividend, with this we have now doubled our dividend over the last two years.
+Now let's turn to the balance sheet where we see the change to our capital structure.
+ 
+7
+ 
+Balance Sheet
+Cash on hand is $10.2 billion.
+As we have executed our strategy, our business has gotten stronger, and our ability to maintain a more leveraged capital structure has increased.
+We funded the ASR with $11.5 billion of short term debt, taking our non-financing debt up to $11.8 billion.  With this, our debt-to-capital ratio was 47 percent.  Over the next few years, we expect our leverage ratio to be in the range of 20 percent to 30 percent debt-to-cap.
+The remaining two-thirds of $34.7 billion of debt is to support our Global Financing business, which is leveraged at an appropriate 7 to 1.  This leverage is relatively unaffected by capital structure changes.
+The balance sheet remains strong, and we're well positioned to support the business over long term.  So now let's turn to the businesses, starting with Services.
+ 
+8
+ 
+Global Services Segments
+Global Services delivered strong performance in the quarter, with $13.1 billion of revenue, up 10 percent as reported and 7 percent at constant currency.  It's the strongest revenue performance in over three years at constant currency.
+We had signings of $11.7 billion, up 22 percent year to year with 11 deals larger than $100 million and a backlog $116 billion, up $1 billion quarter-to-quarter and up $7 billion year-to-year.
+Looking at our recent signings performance, short term signings have been up four consecutive quarters.  Long term signings are up for the year, and are up 23 percent on a trailing 12 month basis
+Looking at Global Business Services, our transformational actions to improve the business are paying off.  We've increased competitiveness of our offerings, expanded capabilities in SOA, and are leveraging global delivery capabilities across our portfolio.  These contributed to continued signings growth, increased revenue growth and strong margin expansion.
+Revenue is up 10 percent as reported and up 8 percent at constant currency, balanced across all three geographies with the strongest growth coming from Asia Pacific.  It was also balanced across the businesses, with Application Management Services and Core Consulting contributing to this improved performance.
+Our pre-tax margin was 10.4 percent, an improvement of nine tenths of a point year-to-year.  And pre-tax profit was up nearly 20 percent.
+This profit expansion is driven by revenue growth and improved utilization, stable to improving pricing trends and strong contract management.  So a very strong performance by our Global Business Services team.
+Total revenue was up 10 percent and 7 percent at constant currency.  We had the best performance in some time, balanced and strong across all geographies.
+Now let's look at Global Technology Services. 
+Our Strategic Outsourcing business showed revenue growth of 8 percent, and signings growth of 22 percent.  This was driven by good signings performance over the past 12 months, continued lower erosion, and selling new business into our existing accounts.  It really demonstrates that the best customer is the one you've already got, and we have a lot of very valuable customers.  In fact, the
+ 
+9
+ 
+focus on customers and service delivery was key to the growth in our base accounts this quarter.  Customers signed up for new scope and short term projects, and this growth helped mitigate some of the dependency on new customer signings.
+Asia was our strongest contributor to revenue, up double-digits.  Our ASEAN/South Asia region was up over 50 percent, led by India.  In fact Strategic Outsourcing in India grew nearly 150 percent.
+Now let me step back for a minute to discuss total IBM services in India, including both GTS and GBS.  Domestic services revenue was up 50 percent or more for seven of our past eight quarters.  We're helping customers build out their infrastructures and position their businesses for rapid growth.
+In fact, we're beating the local competition on their own turf.  I've talked to you in the past about our key services deal with Bharti Telecom, and earlier this year we signed another large telco deal with Idea Cellular.  This quarter, the momentum continued as we signed agreements with the Delhi Airport, the Indian Tax Authority, and additional scope with Idea Cellular.  In fact a recent IDC study ranks IBM Global Services as the largest domestic IT services provider in India.
+business was up 15 percent as reported, with signings up nearly 70 percent year to year.
+Our Business Transformation Outsourcing
+revenue was up 15 percent, and signings here were up 8 percent year to year.  We saw sustained signings growth and continued improvement and progress from the changes we've implemented over the last year.
+Our Integrated Technology Services
+Our IT Security Solutions, as an example, was quite strong.  Internet Security Systems contributes to our capabilities, and we had several wins for our newly announced high-end appliance, which blocks security threats from entering a client's environment.  A good example of a win here is Comerica Bank.
+Our global surveillance services grew significantly, with key wins in the public sector.  At Chicago Transit Authority we are implementing a new surveillance and analytics infrastructure to improve response and remediation for local public safety. And at one of the largest banks in the world, Unicredito, we're rolling out surveillance infrastructure for fraud detection and response to criminal activity, initially in 60 branches.
+Our GTS pre-tax margin was 8.6 percent, down 8 tenths of a point year-to-year, but up 8 tenths sequentially.  Last quarter we told you about the actions we're taking to address our cost base, primarily in U.S.  In the second quarter we
+ 
+10
+ 
+incurred about $90 million in restructuring charges that impacted pre-tax margin growth by about 6 tenths of a point.  Excluding restructuring, pre-tax margin was closer to flat year-to-year.
+we had good signings and profit growth, and with revenue growth up 10 percent, 7 percent at constant currency, we had the strongest performance in years.
+To wrap up Services,
+ 
+11
+ 
+Systems & Technology Segment
+Systems and Technology revenue of $5.1 billion grew 2 percent year-to-year, or flat at constant currency.  But profit grew 77 percent with 2.6 points of improvement in our margin.
+In June we completed the sale of the printer business. This impacted the Systems and Technology revenue growth by about 2 points in the quarter.  Going forward, this results in a loss of approximately $250 million of revenue per quarter.
+Our systems business grew 7 percent, or 4 percent at constant currency.  This is right in line with the long term model that we showed you at the analyst meeting in May.  Though the total business was affected by the technology business which did decline, due to soft demand for game consoles.
+Now turning to the brands, let's talk about System z.
+revenue grew for the fifth consecutive quarter, with another quarter of double-digit growth in Asia Pacific and strong growth in Europe.  MIPS grew 45 percent with strength in both traditional and specialty workloads.  In fact we had the eighth consecutive quarter of MIPS growth, longer than any product cycle since the mid-90s.  MIPS for traditional workloads grew over 20 percent.  Customers leverage this platforms' superior economics, including reduced power and cooling requirements.
+System z
+But if you look at the MIPS on specialty engines they grew over 130 percent, reflecting the mainframe's ability to virtualize and consolidate different workloads.  Linux MIPS grew over 80 percent, Java and Database MIPS each grew over 100 percent.
+Year-to-year gross profit margin improvement was driven primarily by higher margin capacity-on-demand upgrades.
+declined but we'll be bringing POWER6 technology to this platform later this quarter.
+System i
+grew 7 percent and gained share.  System p began to transition to our next generation of POWER technology and you saw the introduction of POWER6 to the midrange.
+System p
+ 
+12
+ 
+revenue grew 16 percent.  We had growth across the portfolio especially in four-way and eight-way servers.  Workload virtualization and consolidation is driving demand for our high-end system x.  In System x Blades we saw growth of 15 percent.
+System x server
+System Storage growth was driven by very strong performance in tape while external disk was flat.  Tape rose 19 percent with double-digit growth in Enterprise and Midrange.
+Microelectronics revenue was down.  Overall demand for our game consoles was simply not as strong as anticipated.  We do have opportunities in other high growth segments, including wired and wireless communications.  But just to put this in perspective, this business accounts for only 1 percent of our gross profit.
+grew as large retailer clients continued to roll-out new point of sale solutions. We are the worldwide industry leader in programmable point of sale devices.
+Our Retail Store Solutions
+Turning to Systems and Technology profit, we had good profit and margin performance.  As discussed at our May analyst meeting, customers are consolidating and virtualizing their workloads.  This is driving demand for profitable high-end products, which contributed to a 2.6 point improvement in our profit margin.
+ 
+13
+ 
+Software Segment
+Our Software business had another very strong quarter.  Software segment revenue of $4.8 billion was up 13 percent year-to-year as reported, and 9 percent at constant currency.  Our key branded middleware was particularly strong, growing approximately twice the market growth rate, and continuing to take share.  In fact over half of our branded middleware growth was organic.
+grew 28 percent.  SOA-related products are in strong demand as evidenced by the double-digit growth we saw in WebSphere Business Integration, Application Servers and Portals.  We expect that we outpaced our major competition which includes Oracle, BEA, Microsoft and Tibco.
+Looking at the brands, WebSphere
+software is increasingly important in today's digital world.  This quarter we grew 21 percent.  Within that, our Information on Demand portfolio grew 17 percent.  Also within Information Management, our Filenet acquisition continues to perform well.  And we enjoyed four consecutive quarters of double-digit growth in Distributed Relational Database.  We believe we gained share in both Information Management and the Distributed Relational Database markets, as well as versus our top competitor.
+Information Management
+The Tivoli software portfolio includes products which help customers manage complex networks and data centers.  The growth was outstanding, fueled primarily by organic performance in our Security, Storage and Systems Management products, while MRO, Vallent and Consul acquisitions bolstered this impressive performance.  In total, Tivoli revenue grew 33 percent, gaining share in all key segments and outpacing our top competitors.
+Our Lotussoftware is well-established as a tool for providing improved workplace collaboration and productivity.  We've had eleven consecutive quarters of growth here, and in June we delivered Lotus Connections, a social networking platform for business.
+software provides tools necessary today to build advanced applications and systems software.  We're investing heavily in Rational with recently refreshed product lines and strategic acquisitions.  In the second quarter we announced our intent to acquire both Watchfire and Telelogic, which will expand our reach into new markets and new customers.  We continued our strong growth and we believe we gained share again this quarter, growing significantly faster than the market.
+Rational
+ 
+14
+ 
+The Operating System and Other Middleware segments of the portfolio include a variety of more mature software products.  This provides a strong source of both profit and cash.
+For total Software, though margins were down as we integrated acquisitions, total profit for the segment grew 8 percent to $1.2 billion.
+ 
+15
+ 
+Software Revenue
+Now I want to step back and comment on our success in software over the last few years.  Our key branded middleware is now 53 percent of total software revenue, up 5 points from a year ago and up 10 points since 2004.  As this faster growing branded middleware becomes a larger portion of the portfolio, it's having a greater impact on our total software growth.
+This software portfolio, you've got to remember, this is the result of more than 30 years of investment.  We didn't just ramp this up yesterday.  It provides much of the foundation for business infrastructure, and this software is found in virtually all aspects of the middleware marketplace, from the common relational database, to transaction processing on the web, to new social networking capabilities for business.
+In recent years our investment in this portfolio has increased and operational execution has improved.  Software is our largest provider of IBM profit and our most stable source of growth.
+ 
+16
+ 
+2007 EPS Analysis
+So to wrap up the quarter, let's discuss the key contributors to our earnings growth
+Let's starts with revenue.  We had the best revenue performance in years.  We had 9 percent growth, and at constant mix and margin, this contributed $0.11 to our EPS growth.
+We expanded our gross margin led by Software, and we had good year-to-year performance in Global Business Services and Systems & Technology.
+primarily driven by investments in sales and services capabilities and our acquisitions.  As I said earlier, we expect this expense growth to moderate in the second half.
+We did have growth in expense,
+We had two additional items that did impact our growth this quarter.  First of all, we funded a higher level of restructuring activity to address our strategic outsourcing business in the U.S.  And secondly, we have additional interest expense associated with the debt to support our Accelerated Share Repurchase.
+bolstered by the ASR, contributed $0.10 to growth for overall quarter.
+Those share repurchases,
+We had a lower tax rate that also contributed.
+erall, we had 15 percentearnings per share growth in the quarter, or 19 percent including the gain from the printer sale.
+But ov
+Turning to the full year, previously we had indicated earnings per share growth of 13 percent to 14 percent for the year.  With these second quarter results, we now expect earnings per share growth for 2007 to be in the range of 14 percent to 15 percent.
+No two ways about it, this was a great quarter.  But our business model success will be measured over the long term, not on any individual quarter or year. The strategies we put in place, the investments we make, and the actions we take are all with an objective of optimizing our long term performance.
+So now let's turn to the last page and discuss our road map to 2010.
+ 
+17
+ 
+2010 Road Map
+At our May investor meeting we talked about strategic decisions, like investing in businesses that contribute high profitability and cash flows to allow us to generate strong earnings and higher shareholder returns.
+We also talked about long term goals, and specific initiatives.  After the first half, let's take a snapshot of how we're doing against our 2010 roadmap.
+accelerated with strength in software and services.  This is supported by progress in our growth initiatives such as emerging countries and SOA, and we're continuing to execute our acquisition strategy.
+First, revenue.  This clearly
+On margin expansion we've expanded our gross margins, led by improving business mix and productivity initiatives, though we had less net margin expansion, as we're investing to drive future growth.
+,
+On share repurchase, we are off to a great start.  This year, we spent over $18 billion, including $12.5 billion on our Accelerate Share Repurchase.
+All of this contributed to 16 percent earnings per share growth in the first half.
+So we've made our first installment toward our $11 per share goal for 2010.  And overall, we feel good about our first half, and how it positions us to deliver on our long term objectives.
+Now Patricia and I will take your questions.
+ 
+18
+ 
+Closing
+Thanks, Mark.
+Before we begin the Q&A let me comment on two items.
+First, we have supplemental charts at the end of the deck that complement Mark's prepared remarks.
+Also, as always, I'd ask you to refrain from multi-part questions  to allow us to take questions from more callers.
+Operator, please open it up for questions.
+ 
+19
+
+

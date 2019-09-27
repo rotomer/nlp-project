@@ -1,0 +1,156 @@
+FILE:INTC/INTC-8K-20110131100806.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 2.02                      Results of Operations and Financial Condition.
+Attached hereto as Exhibit 99.1 and incorporated by reference herein is information as presented in Intel Corporations press release of January 31, 2011 announcing updated fourth quarter 2010 financial information and Business Outlook for the first quarter of 2011 and full-year 2011, to reflect (i) a circuit design issue in recently released Intel 6 Series chipsets, (ii) the completion of the acquisition of the Infineon Technologies AG Wireless Solutions business (Infineon WLS), and (iii) the anticipated completion of the acquisition of McAfee, Inc. before the end of the first quarter of 2011.
+ 
+In addition to disclosing financial results calculated in accordance with United States (U.S.) generally accepted accounting principles (GAAP), this release contains non-GAAP financial measures that we believe are helpful in understanding and comparing our past financial performances and our future results.  The non-GAAP financial measures disclosed by the company exclude certain business combination accounting impacts and expenses related to acquisitions and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and the financial results calculated in accordance with GAAP and reconciliations from these results should be carefully evaluated. Our non-GAAP financial measures reflect adjustments based on the following items, as well as the related income tax effects:
+ 
+ 
+Set forth below are reconciliations of the non-GAAP financial measures to the most directly comparable GAAP financial measures.
+ 
+ 
+ 
+ 
+Item 7.01                      Regulation FD Disclosure.
+The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Attached hereto as Exhibit 99.2 and incorporated by reference herein is a press release of Intel Corporation disclosing that it has completed the transaction to purchase the Infineon WLS business in a cash transaction valued at approximately $1.4 billion.
+Item 9.01                      Financial Statements and Exhibits.
+ 
+(d)           Exhibits.
+ 
+The following exhibit is filed as part of this Report:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+EDITORS NOTE: A conference call hosted by Chief Financial Officer Stacy Smith and Vice President Steve Smith is planned for 8:30 a.m. PST. To
+listen to the call live dial 866-804-6925, passcode 82417500 or
+visit
+http://phx.corporate-ir.net/phoenix.zhtml?p=irol-eventDetails&c=131837&eventID=3711144
+SANTA CLARA, Calif., Jan. 31, 2011  As part of ongoing quality assurance, Intel Corporation has discovered a design issue in a recently released support chip, the Intel 6 Series, code-named Cougar Point, and has implemented a silicon fix. In some cases, the Serial-ATA (SATA) ports within the chipsets may degrade over time, potentially impacting the performance or functionality of SATA-linked devices such as hard disk drives and DVD-drives. The chipset is utilized in PCs with Intels latest Second Generation Intel Core processors, code-named Sandy Bridge.  Intel has stopped shipment of the affected support chip from its factories. Intel has corrected the design issue,
+and has begun manufacturing a new version of the support chip which will resolve the issue. The Sandy Bridge microprocessor is unaffected and no other products are affected by this issue.
+The company expects to begin delivering the updated version of the chipset to customers in late February and expects full volume recovery in April. Intel stands behind its products and is committed to product quality. For computer makers and other Intel customers that have bought potentially affected chipsets or systems, Intel will work with its OEM partners to accept the return of the affected chipsets, and plans to support modifications or replacements needed on motherboards or systems. The systems with the affected support chips have only been shipping since January 9 and the company believes that relatively few consumers are impacted by this issue. The only systems sold to an end customer potentially impacted are Second Generation Core i5 and Core i7 quad core based systems.  Intel believes that consumers can continue to use their systems with confidence, while working with their computer manufacturer for a permanent solution. For further information consumers should contact Intel at on the support page or contact their OEM manufacturer.
+th
+www.intel.com
+ 
+For the first quarter of 2011, Intel expects this issue to reduce revenue by approximately $300 million as the company discontinues production of the current version of the chipset and begins manufacturing the new version.  Full-year revenue is not expected to be materially affected by the issue.   Total cost to repair and replace affected materials and systems in the market is estimated to be $700 million. Since this issue affected some of the chipset units shipped and produced in the fourth quarter of 2010, the company will take a charge against cost of goods sold, which is expected to reduce the fourth quarter gross margin percentage by approximately 4 percentage points from the previously reported 67.5 percent.  The company will also take a charge in the first quarter of 2011which will lower the previously co mmunicated gross margin percentage by 2 percentage points and the full-year gross margin percentage by one percentage point.
+Updated 2011 First Quarter and Full Year Outlook
+ 
+Separately, Intel recently announced that it had completed the acquisition of the Infineon Technologies AG Wireless Solutions business, which will now operate as the Intel Mobile Communications group. The company also expects to complete the acquisition of McAfee by the end of the first quarter.
+The effects of the chipset issue and these transactions are incorporated into the companys revised outlook. The company now expects first-quarter revenue to be $11.7 billion, plus or minus $400 million, compared to the previous expectation of $11.5 billion, plus or minus $400 million.  Gross margin percentage is now expected to be 61 percent, plus or minus a couple percentage points, compared to the previous expectation of 64 percent, plus or minus a couple percentage points.  Spending (R&D plus MG&A) is now expected to be approximately $3.6 billion, compared to the previous expectation of approximately $3.4 billion.
+ 
+The full-year revenue growth percentage is now expected to be in the mid-to high teens, compared to the companys prior expectation of approximately 10 percent.  Full-year gross margin is now expected to be 63 percent, plus or minus a few percentage points, compared to the previous expectation of 65 percent, plus or minus a few percentage points.  Spending (R&D plus MG&A) is now expected to be $15.7 billion, plus or minus $200 million, compared to the companys previous expectation of $13.9 billion, plus or minus $200 million.  Research and development (R&D) spending is now expected to be approximately $8.2 billion, compared to the previous forecast of $7.3 billion.
+ 
+All other expectations for the first-quarter and full-year remain unchanged. With the exception of McAfee, the outlook for the first quarter and full year do not include the effect of any acquisitions, divestitures or similar transactions that may be completed after Jan. 31.  The acquisition of McAfee is subject to customary closing conditions.
+ 
+Excludes the amortization of acquisition-related intangible assets and inventory purchase adjustments arising from acquisition accounting
+Status of Business Outlook
+During the quarter, Intels corporate representatives may reiterate the Business Outlook during private meetings with investors, investment analysts, the media and others. From the close of business on March 4 until publication of the companys first-quarter earnings release, Intel will observe a Quiet Period during which the Business Outlook disclosed in the companys news releases and filings with the SEC should be considered as historical, speaking as of prior to the Quiet Period only and not subject to an update by the company.
+Risk Factors
+The above statements and any others in this document that refer to plans and expectations for the first quarter, the year and the future are forward-looking statements that involve a number of risks and uncertainties. Many factors could affect Intels actual results, and variances from Intels current expectations regarding such factors could cause actual results to differ materially from those expressed in these forward-looking statements.Words such as anticipates, expects, intends, plans, believes, seeks, estimates, may, will, should, and their variations identify forward-looking statements. Statements that refer to or are b ased on projections, uncertain events or assumptions also identify forward-looking statements. Intel presently considers the following to be the important factors that could cause actual results to differ materially from the companys expectations.
+ 
+A detailed discussion of these and other factors that could affect Intels results is included in Intels SEC filings, including the report on Form 10-Q for the fiscal quarter ended Sept. 25, 2010.Intel plans to report its earnings for the first quarter of 2011 on Tuesday, April 19, 2011.  Immediately following the earnings report, the company plans to publish a commentary by Stacy J. Smith, vice president and chief financial officer at .  A public webcast of Intels earnings conference call will follow at 2:30 p.m. PST at www.intc.com.
+www.intc.com/results.cfm
+ 
+Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the worlds computing devices. Additional information about Intel is available at www.intel.com/pressroom and blogs.intel.com.
+ 
+ 30 
+ 
+Intel, the Intel logo, and Intel Atom are trademarks of Intel Corporation in the United States and other countries.
+* Other names and brands may be claimed as the property of others.
+
+Exhibit 99.2
+ 
+SANTA CLARA, Calif., Jan. 31, 2011  Intel Corporation today announced that it has completed the acquisition of the Infineon Technologies AG Wireless Solutions (WLS) business.
+WLS is a leading provider of cellular platforms to top-tier global phone makers, and is part of Intels strategy to accelerate always-connected computing platforms that span a variety of device and market segments, including laptops, cars, smart phones, tablets and smart TVs.
+The business enhances Intels existing communication portfolio with leading wireless mobility and cellular platforms, bringing together Intels strengths in WiFi and 4G WiMAX with WLS leadership in 2G and 3G, and a combined path to accelerate 4G LTE. Collectively these building blocks further support Intels move to serve a broader array of customers and market segments with best-in-class computing solutions founded on energy-efficient performance, Internet connectivity and security.
+As computing spreads across a range of connected devices, including new categories being created almost daily, we must be ready to support the next billion devices across multiple networks with smart, secure and seamless computing experiences, said Dadi Perlmutter, Intel executive vice president and co-general manager of the Intel Architecture Group. The acquisition brings to Intel a world-class wireless portfolio and a proven track record in cellular communications, combined with our existing strength in computing positions us well for future growth.
+ 
+ 
+Intel/Page 2
+ 
+The new wireless business will now be called Intel Mobile Communications (IMC) and will operate as a standalone business entity within Intels Architecture Group to enable continuity of existing customer sales, projects and support, including ARM-based products.
+ 
+With the projected growth of mobile computing and its convergence with wireless device market segments, it is our intent to rapidly apply Intels resources and assets to further grow our wireless business and move Intel Mobile Communications into a leadership position, said Prof. Dr. Hermann Eul, president of Intel Mobile Communications. As we enter an era of multi-communication solutions, IMCs products and technologies will be integral to connecting a breadth of Intel and ARM-based mobile devices. We are truly excited to be a part of this growth.
+ 
+IMC will continue with its current business model of supplying leading-edge wireless and cellular platforms to its customers worldwide, in addition to support of Intel Core and Atom-based application processor platforms. The acquisition will further boost IMCs capabilities as it now gains access to Intels technology investments, R&D, brand and global footprint.
+ 
+Risk Factors
+ 
+The above statements and any others in this document that refer to the future are forward-looking statements that involve a number of risks and uncertainties. Many factors could affect Intels actual results, and variances from Intels current expectations regarding such factors could cause actual results to differ materially from those expressed in these forward-looking statements.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intel/Page 3
+ 
+A detailed discussion of these and other factors that could affect Intels results is included in Intels SEC filings, including the report on Form 10-Q for the fiscal quarter ended Sept. 25, 2010.
+ 
+About Intel
+ 
+Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the worlds computing devices. Additional information about Intel is available at and .
+newsroom.intel.com
+ 
+blogs.intel.com
+ 
+ 
+Intel, Atom, Intel Core and the Intel logo are trademarks of Intel Corporation in the United States and other countries.  * Other names and brands may be claimed as the property of others.
+
+

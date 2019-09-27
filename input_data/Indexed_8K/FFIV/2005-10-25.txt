@@ -1,0 +1,47 @@
+FILE:FFIV/FFIV-8K-20051025160901.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+Registrant's telephone number, including area code                (206) 272-5555
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+Table of Contents
+Item 2.02 Results of Operations and Financial Condition
+On October 25, 2005, F5 Networks, Inc. issued a press release regarding its financial results for the fourth quarter ended September 30, 2005. The press release is attached hereto as Exhibit 99.1. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits:   99.1      Press Release of F5 Networks, Inc. announcing quarterly earnings dated October 25, 2005.
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+SEATTLE, WA  October 25, 2005  F5 Networks, Inc . (NASDAQ: FFIV) today announced revenue of $80.6 million for the fourth quarter of fiscal 2005, up 10 percent from $73.1 million in the prior quarter and 61 percent from $50.2 million in the fourth quarter of fiscal 2004. Fourth quarter net income was $15.7 million ($0.39 per diluted share) compared to net income of $15.8 million ($.43 per diluted share) in the fourth quarter a year ago. For fiscal 2005, the company reported record annual revenue of $281.4 million, up 64 percent from $171.1 million in fiscal 2004. Net income for the year was $51.7 million ($1.34 per diluted share) compared to net income of $32.9 million ($0.92 per diluted share) in fiscal 2004.
+During the fourth quarter of fiscal 2005, the company began expensing stock-based compensation. During the fourth quarter of fiscal 2004, F5 became subject to income taxes on U.S. income and also reversed the valuation allowance on U.S. deferred tax assets. The company is presenting pro forma annual and fourth quarter net income for fiscal years 2004 and 2005 to eliminate the impact of these items and report net income on a comparable basis.
+On a pro forma basis, net income for the fourth quarter of fiscal 2005 was $19.0 million ($0.47 per diluted share) compared to net income of $14.0 million ($0.35 per diluted share) in the third quarter and $7.3 million ($0.20 per diluted share) for the fourth quarter of fiscal 2004, and net income for fiscal 2005 was $55.1 million ($1.42 per diluted share) compared to $18.9 million ($0.52 per diluted share) for fiscal 2004.
+A reconciliation of reported net income to pro forma net income is included on the attached Consolidated Statements of Operations.
+F5 president and chief executive officer John McAdam said the company's second consecutive year of strong revenue growth resulted from growing demand for application delivery networking products that enhance the security, performance and availability of Web-based applications. "In addition, the
+ 
+introduction of our new TMOS-based products in September 2004 has enabled us to leverage this growing demand by delivering integrated application delivery networking solutions that are demonstrably superior in functionality and performance. Both increasing awareness of the F5 brand and accelerating demand for the new products drove our growth throughout the year and propelled the company to a strong finish, with Q4 product revenue up 67 percent year-over-year."
+"With solid sequential revenue growth and gross margin steady at 77 percent, we continued to see further improvements in our operating results during the fourth quarter. Excluding stock-based compensation expense, which we began expensing in Q4, we achieved an operating margin of 31 percent, compared to 27 percent in the prior quarter and 20 percent in the fourth quarter a year ago. On the balance sheet, $32.7 million in cash flow from operations during the quarter helped boost cash and investments to $365 million at year end."
+As a result of the growing demand for application delivery networking solutions, coupled with the strength of the company's current offerings and plans for the delivery and integration of new technology, McAdam said he expects the company's growth to continue in fiscal 2006. "Earlier this month, we completed our acquisition of Swan Labs, rounding out our capabilities in application acceleration and WAN optimization. During the current quarter, we expect Swan's products  Web Accelerator and WANJet  to begin contributing to our top-line growth, and over the next 12 months, we plan to migrate both products to TMOS. Also this month, we announced the availability of TrafficShield, our application firewall, as an application security module on BIG-IP, and early customer response to this tightly integrated solution has been very positive."
+"Moving ahead into the first quarter of fiscal 2006, I believe F5's technology leadership, strong partnerships, channel leverage, and sound business model will further strengthen our competitive position and enable us to deliver continued sequential growth." For the first quarter of fiscal 2006, McAdam said the company's revenue target is $85 million to $87 million. Earnings for the first quarter are expected to be $0.33 to $0.34 per diluted share, including the charge for stock-based compensation. Excluding the compensation charge, the anticipated earnings range would have been $0.44 to $0.45 per diluted share. A reconciliation of the company's expected reported and pro forma earnings is provided in the following table:
+ 
+Analyst/Investor Meeting
+On Tuesday, November 1, F5 Networks will hold a meeting for analysts and investors at the Omni Berkshire Place in New York from 8:00am to noon. To register for this meeting, contact Carolyn Burkhardt (206.272.6590) or send email to . The meeting will also be webcast live and an archived version will be available through Friday, November 18. The link for the live webcast and the archived version is .
+analystmeeting2005@f5.com
+http://www.f5.com/f5/ir/analystswebcast.html
+About F5 Networks
+F5 Networks is the global leader in Application Delivery Networking. F5 provides solutions that make applications secure, fast and available for everyone, helping organizations get the most out of their investment. By adding intelligence and manageability into the network to offload applications, F5 optimizes applications and allows them to work faster and consume fewer resources. F5's extensible architecture intelligently integrates application optimization, protection for the application and the network, and delivers application reliability  all on one universal platform. The company is headquartered in Seattle, Washington, with offices worldwide. For more information go to www.f5.com.
+Forward Looking Statements
+Statements in this press release concerning revenue and earnings targets and expected stock-based compensation expense for the first quarter of fiscal 2006 and other statements that are not historical facts are forward-looking statements. Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others: customer acceptance of our new traffic management, security, application delivery and WAN optimization offerings, the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive pricing pressures; increased sales discounts; F5's ability to sustain, develop and effectively utilize distribution relationships; F5's ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel; F5's ability to expand in international markets; and the unpredictability of F5's sales cycle. F5 has no duty to update any guidance provided or other matters discussed in this press release. More information about potential risk factors that could affect F5's business and financial results is included in the company's annual report on Form 10-K for the fiscal year ended September 30, 2004, and other public filings with the Securities and Exchange Commission.
+ 
+ 
+ 
+
+

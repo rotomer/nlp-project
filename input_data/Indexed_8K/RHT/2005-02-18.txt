@@ -1,0 +1,283 @@
+FILE:RHT/RHT-8K-20050218160214.txt.gz
+EVENTS:	Completion of Acquisition or Disposition of Assets	Financial Statements and Exhibits
+TEXT:
+ITEM: Completion of Acquisition or Disposition of Assets
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+ 
+On December 6, 2004, the Registrant filed a Form 8-K describing its acquisition of certain assets of Netscape Security Solutions (the "NSS Unit") from Netscape Communications Corporation and America Online, Inc. (together, the "Sellers"). The Registrant hereby amends such Form 8-K to provide certain financial statements with respect to the NSS Unit and consolidated pro forma financial information with respect to the acquisition of the NSS Unit.
+ 
+ 
+(a) Financial Statements of Business Acquired
+ 
+Historically, the Sellers operated the NSS Unit as a group of departments and did not separately manage the NSS Unit's operations or maintain separate balance sheet or income statement accounts for the NSS Unit. In addition, Sellers never prepared stand-alone financial statements for the NSS Unit, in accordance with generally accepted accounting principles ("GAAP"), since it did not have a separate legal status or existence. As a result of these and other factors, financial statements for the NSS Unit, in accordance with GAAP, are not readily available and impracticable to provide. Accordingly, permission was sought from the Securities and Exchange Commission, in lieu of providing full GAAP financial statements for the business acquired, to provide the following financial statements: An audited statement of net assets sold as of December 31, 2003, unaudited statement of net assets sold as of September 30, 2004, audited combined statements of revenues and direct expenses for the year ended December 31, 2003 and unaudited combined statements of revenues and direct expenses for the nine months ended September 30, 2003 and September 30, 2004, and the notes related thereto.
+ 
+The financial statements noted above of the NSS Unit are filed as Exhibit 99.1 to this report.
+ 
+(b) Pro Forma Financial Information
+ 
+The Unaudited Pro Forma Consolidated Balance Sheet as of November 30, 2004, and the Unaudited Pro Forma Consolidated Statements of Operations for the year ended February 28, 2004 and the nine months ended November 30, 2004, and the notes related thereto are filed as Exhibit 99.2 to this report.
+ 
+(c) Exhibits
+ 
+23.1 Consent of Ernst & Young LLP
+ 
+99.1 Audited Statement of Net Assets Sold as of December 31, 2003, Unaudited Statement of Net Assets Sold as of September 30, 2004, Audited Combined Statements of Revenues and Direct Expenses for the year ended December 31, 2003 and Unaudited Combined Statements of Revenues and Direct Expenses for the nine months ended September 30, 2003 and September 30, 2004, and the notes related thereto.
+ 
+99.2 Unaudited Pro Forma Consolidated Balance Sheet as of November 30, 2004 and Unaudited Pro Forma Consolidated Statements of Operations for the year ended February 28, 2004 and the nine months ended November 30, 2004, and the notes related thereto.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 23.1
+ 
+ 
+We consent to the incorporation by reference in Registration Statements on Form S-8 (Nos. 333-112557, 333-71912, 333-59306, 333-55968, 333-45980, 333-45042, 333-37884, 333-96163 and 333-88159) and in the Registration Statements on Form S-3 (Nos. 333-12507, 333-106856, 333-113312 and 333-115389) of Red Hat, Inc. of our report dated January 11, 2005, with respect to the Combined Statement of Net Assets Sold of Netscape Security Solutions, a business unit of Netscape Communications Corporation, as of December 31, 2003 and the related Combined Statement of Revenues and Direct Expenses for the year ended December 31, 2003, included in this Current Report on Form 8-K/A of Red Hat, Inc.
+ 
+/s/ E & Y LLP
+RNST
+OUNG
+McLean, Virginia
+February 17, 2005
+ 
+
+Exhibit 99.1
+ 
+ 
+ 
+ 
+ 
+We have audited the accompanying Combined Statement of Net Assets Sold of Netscape Security Solutions (NSS), a business unit of Netscape Communications Corporation, as of December 31, 2003 and the related Combined Statement of Revenues and Direct Expenses for the year ended December 31, 2003. These statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these statements based on our audit.
+ 
+We conducted our audit in accordance with auditing standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the Combined Statement of Net Assets Sold and the Combined Statement of Revenues and Direct Expenses are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the Combined Statement of Net Assets Sold and the Combined Statement of Revenues and Direct Expenses. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the Combined Statement of Net Assets Sold and the Combined Statement of Revenues and Direct Expenses. We believe that our audit provides a reasonable basis for our opinion.
+ 
+As described in Note 1, the statements referred to above have been prepared in accordance with the Asset Purchase Agreement between Netscape Communications Corporation and America Online, Inc., (collectively "Sellers") and Red Hat, Inc. ("Buyer") dated as of September 29, 2004 (the Asset Purchase Agreement) for the sale of certain assets to the Buyer, and is not intended to be a complete presentation of NSS's assets and liabilities and the result of its operations. These financial statements should be read in conjunction with the Asset Purchase Agreement.
+ 
+In our opinion, the statements referred to above present fairly, in all material respects, the net assets sold of NSS at December 31, 2003, and the revenues and direct expenses for the year then ended, pursuant to the Asset Purchase Agreement described in Note 1 and Note 2, in conformity with accounting principles generally accepted in the United States.
+ 
+/s/ E & Y LLP
+RNST
+OUNG
+ 
+McLean, VA
+January 11, 2005
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+1. Business and Asset Purchase Agreement
+ 
+Netscape Security Solutions ("NSS" or the "Business") is a business unit of Netscape Communications Corporation ("Netscape"), a wholly owned subsidiary of America Online, Inc. ("AOL"). AOL is a subsidiary of Time Warner, Inc. NSS develops, markets, and supports a suite of enterprise security solutions, which consists of applications targeted primarily at the security requirements of government and large enterprises. The solutions allow users to share information, manage networks, and securely facilitate electronic commerce. NSS' technology is based on industry-standard protocols that can be deployed across a variety of operating systems, platforms, and databases and interconnected with traditional client/server applications.
+ 
+On September 29, 2004, Red Hat, Inc. (the "Purchaser"), and AOL and Netscape entered into a definitive asset purchase and sale agreement for the Purchaser to acquire certain assets and assume certain liabilities of NSS (the "Asset Purchase Agreement"). The assets to be acquired include Netscape Directory Server, a Light Directory Access Protocol server product that provides greater manageability by centralizing application settings, user profiles, group data, policies and access control information into a network-based registry, and Netscape Certificate Management System, a security framework designed to authenticate the identity of users and ensure privacy of communications. The Purchaser is also acquiring the NSS calendar and messaging assets.
+ 
+2. Basis of Presentation
+ 
+Historically, NSS operated as a group of departments within AOL's Netscape subsidiary and had no separate legal status. Furthermore, financial statements have not previously been prepared for NSS. Accordingly, the combined statements of net assets sold and the combined statements of revenues and direct expenses have been prepared pursuant to the Asset Purchase Agreement and derived from the historical records of AOL, including allocations of certain expenses. As a result, these statements may not be indicative of the financial position or operating results of NSS had the Business been operated as a separate, stand-alone entity. Management of AOL believes the methodologies used to allocate revenues and expenses to NSS are reasonable and represent appropriate methods of determining the revenues and expenses of NSS.
+ 
+Combined Statements of Net Assets Sold
+ 
+The assets and liabilities in the accompanying combined statements of net assets sold include only those assets to be sold and liabilities to be transferred to the Purchaser pursuant to the Asset Purchase Agreement.
+ 
+Combined Statements of Revenues and Direct Expenses
+ 
+The combined statements of revenues and direct expenses include revenues and expenses directly attributable to NSS and allocations of certain expenses attributable to the operations of NSS but incurred by AOL.
+ 
+Directly attributable expenses of NSS include certain payroll and related expenses, consultant costs, and amortization of software development costs that are specifically identifiable with NSS. Other allocated costs are attributable to the operations of NSS, such as divisional management and finance administration costs. These costs have been allocated to NSS using reasonable methodologies, including percentage of relative revenues.
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+Indirectly attributable costs, such as business unit management, product support management, professional services management, sales and marketing management, certain consulting costs, software development engineering costs and maintenance, facilities, employee benefits and other payroll costs and information technology and support services, have been allocated to NSS using reasonable methodologies, including relative employee headcount.
+ 
+The expenses incurred by AOL that are not specifically identifiable with NSS, but that are attributable to the operations of the Business and have been allocated to NSS using the methods described above, are reflected in the following table for the year ended December 31, 2003 and nine-month periods ended September 30, 2003 and 2004, respectively:
+ 
+ 
+Certain other expenses and income, such as AOL corporate overhead, interest income, interest expense, and income taxes, are not included in the accompanying combined statements of revenues and direct expenses, as they are not directly associated with the operations of NSS. Corporate overhead expenses include costs incurred for administrative support such as expenses for legal, treasury, tax and executive management functions. The accompanying combined statements of net assets sold and revenues and direct expenses are not necessarily indicative of the future financial position or results of the operations of NSS due to the change in ownership, and the exclusion of certain assets, liabilities and operating expenses, as described herein.
+ 
+Cash Flows
+ 
+During the year ended December 31, 2003 and nine-month periods ended September 30, 2003 and 2004, NSS' financing requirements were provided by AOL, and cash generated by NSS was transferred to AOL. As NSS has historically been managed as part of the operations of AOL and has not been operated as a stand-alone entity, it is not practical to prepare historical cash flow information regarding NSS' operating, investing, and financing cash flows. As such, the statements of cash flows were not prepared for NSS.
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+3. Summary of Significant Accounting Policies
+ 
+Use of Estimates
+ 
+Preparation of these combined financial statements in conformity with accounting principles generally accepted in the United States requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the dates of the combined statements of net assets sold and the amounts of revenues and direct expenses reported. Actual results could differ from those estimates. Also, as discussed in Note 2, the combined statements of revenues and direct expenses include allocations and estimates that are not necessarily indicative of the revenues, costs and expenses that would have resulted if NSS had been operated as a stand-alone entity.
+ 
+Interim Financial Information
+ 
+The combined financial statements and related notes for the nine-month period ended September 30, 2003 and as of and for the nine-month period ended September 30, 2004 are unaudited and, in the opinion of management, reflect all necessary adjustments for the fair presentation of statements of revenues and direct expenses and the statement of net assets sold for the interim periods presented. All such adjustments are of a normal recurring nature.
+ 
+Revenue Recognition
+ 
+The Business derives revenues from license fees for software products and fees for services related to the software products, including maintenance and certain professional services.
+ 
+The Business recognizes revenues in accordance with the provisions of Statement of Position 97-2, (SOP 97-2), as amended by SOP 98-9, which provides specific revenue recognition guidance and stipulates that the total arrangement fee from software arrangements is to be allocated to each element of the arrangement based on the relative fair values of such elements. Under this guidance, the determination of the fair value of the elements is based on objective evidence that is specific to the vendor. In certain circumstances, revenues are allocated using the residual value method. Under this method, the revenues allocated to the delivered element are determined by subtracting the fair values of the undelivered elements, as indicated by vendor-specific objective evidence, from the total arrangement fee.
+Software Revenue Recognition
+ 
+Revenues from software arrangements are recognized by NSS only when a contract or agreement has been executed with a customer, the software and an authorization code has been delivered to the customer, the fee is fixed and determinable, and management believes collectibility of the fee is probable. Revenues attributable to software licenses in arrangements with extended payment terms are recognized when the payments from the customer become due.
+ 
+License and maintenance revenues also consist of maintenance fees (post-contract customer support, or PCS) which are recognized ratably over the term of the PCS. NSS provides its customers with access to its technical support organization, unspecified product updates/enhancements on a when and if available basis, and general security information. The updates are considered minor enhancements to the software that are not separately marketable or considered a competitive feature or major upgrade.
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+Service revenues include other professional support services, such as training and consulting, which are available under service agreements and billed for separately. These services are generally provided under time and materials contracts and revenue is recognized as the services are performed and when accepted by the customer.
+ 
+Cost of Licenses and Services
+ 
+Cost of licenses and services is comprised of various internally driven allocations (see Note 2) as well as costs directly attributable to the products and services rendered. License costs are comprised of direct employee costs and an allocation of product support costs. Services and maintenance costs are comprised of employee costs and consultant costs. Amortization of software is comprised of current period amortization of acquired and capitalized software development costs.
+ 
+Research and Development Costs
+ 
+Research and development costs include both internally allocated (see Note 2) and external software development engineering costs incurred to develop new products or significant extensions of existing products, prior to the establishment of technological feasibility. Such costs include activities such as concept development, engineering, product design, prototype creation, commercialization, testing and packaging development work. All such costs are expensed as incurred and were $1.1 million for the year ended December 31, 2003 and were $1.1 million and $0.6 million for the nine-month periods ended September 30, 2003 and 2004, respectively.
+ 
+Software Development Costs
+ 
+Costs related to the development of certain software products are capitalized in accordance with Statement of Financial Accounting Standards (SFAS) No. 86, . This guidance requires capitalization to begin when technological feasibility has been established and ends when the software product is available for general release to customers. Software development costs incurred prior to technological feasibility are considered research and development costs and are expensed as incurred. Capitalized software development costs are generally amortized on a straight-line basis over two years.
+Accounting for the Costs of Computer Software to be Sold, Leased, or Otherwise Marketed
+ 
+Income Taxes
+ 
+No provision or benefit for income taxes has been provided in the accompanying financial statements due to the fact that NSS was not operated as a stand-alone unit and no allocation of AOL's income tax provision/benefit has been made to NSS.
+ 
+Pursuant to the Asset Purchase Agreement, no tax-related assets or liabilities will be acquired or assumed by the Purchaser and, accordingly, no tax-related assets or liabilities are reflected in the accompanying combined statements of net assets sold.
+ 
+New Accounting Pronouncements
+ 
+In November 2002, the Financial Accounting Standards Board ("FASB") issued Interpretation No. ("FIN") 45,
+Guarantor's Accounting and Disclosure Requirements for Guarantees, Including Indirect
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+FIN 45 clarifies the requirements of SFAS No. 5, relating to the guarantor's accounting for, and disclosure of, the issuance of certain types of guarantees. For guarantees that fall within the scope of FIN 45, the Interpretation requires that guarantors recognize a liability equal to the fair value of the guarantee upon its issuance. The disclosure provisions of the Interpretation are effective for the financial statements of interim or annual periods that end after December 15, 2002. However, the provisions for initial recognition and measurement are effective on a prospective basis for guarantees that are issued or modified after December 31, 2002, irrespective of a guarantor's year-end. The adoption of FIN 45 did not have an impact on the combined statements of net assets sold and revenues and direct expenses of NSS.
+Guarantees of Indebtedness of Others, an interpretation of FASB Statement No. 5, 57, and 107 and rescission of FASB Interpretation No. 34.
+Accounting for Contingencies
+ 
+In April 2003, the FASB issued SFAS No. 149, . This Statement amends and clarifies financial accounting and reporting for derivative instruments, including certain derivative instruments embedded in other contracts (collectively referred to as derivatives) and for hedging activities under SFAS No. 133, . SFAS No. 149 did not have an impact on the combined statements of net assets sold and revenues and direct expenses of NSS.
+Amendment of Statement No. 133 on Derivative Instruments and Hedging Activities
+Accounting for Derivative Instruments and Hedging Activities
+ 
+In May 2003, the FASB issued SFAS No. 150, . This statement establishes standards for how an issuer classifies and measures certain financial instruments with characteristics of both liabilities and equity. This statement is effective for financial instruments entered into or modified after May 31, 2003 and otherwise is effective at the beginning of the first interim period beginning after June 15, 2003. SFAS No. 150 did not have an impact on the combined statements of net assets sold and revenues and direct expenses of NSS.
+Accounting for Certain Financial Instruments with Characteristics of both Liabilities and Equity
+ 
+In December 2003, the FASB issued FIN 46 (revised), ("FIN 46R"). FIN 46R replaces FIN 46, which was issued in January 2003. The objective of FIN 46R is to improve financial reporting by companies involved with variable interest entities ("VIEs"). FIN 46R changes certain consolidation requirements by requiring a VIE, as defined, to be consolidated by a company if that company is subject to a majority of the risk of loss from the variable interest entity's activities or entitled to receive a majority of the entity's residual returns or both. For any VIEs that must be consolidated under FIN 46R that were created before January 1, 2004, the assets, liabilities and non-controlling interest of the VIE initially would be measured at their carrying amounts, and any difference between the net amount added to the balance sheet and any previously recognized interest would be recorded as a cumulative effect of an accounting change. FIN 46R also requires disclosures about variable interest entities that a company is not required to consolidate but in which it has a significant variable interest. Companies are required to apply FIN 46R to VIEs generally as of March 31, 2004 and to special-purpose entities as of December 31, 2003. FIN 46R did not have an impact on the combined statements of net assets sold and revenues and direct expenses of NSS.
+Consolidation of Variable Interest Entities
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+4. Equipment
+ 
+Equipment consists of:
+ 
+ 
+Depreciation is computed on a straight line basis over the estimated useful lives of the equipment.
+ 
+The estimated useful lives of the Company's equipment are as follows:
+ 
+ 
+5. Capitalized Software Development Costs
+ 
+Capitalized software development costs consist of:
+ 
+ 
+ 
+ 
+ 
+(Information as of September 30, 2004 and for the nine-month periods ended September 30, 2003 and 2004 is unaudited.)
+NOTES TO COMBINED STATEMENTS OF NET ASSETS SOLD AND COMBINED STATEMENTS OF REVENUES AND DIRECT EXPENSES
+ 
+6. Related Party Transactions
+ 
+There are no significant related party assets or liabilities at December 31, 2003 and September 30, 2004.
+ 
+NSS has significant transactions with related parties comprising principally the sale of certain products and services to other AOL and Time Warner businesses and certain costs and expenses incurred on behalf of NSS by other AOL businesses or AOL departments not related to NSS. NSS recognized $227,059 in revenues with related parties in the year ended December 31, 2003. In the nine-month period ended September 30, 2003 NSS recognized $227,059 in revenues with related parties and none in the nine-month period ended September 30, 2004.
+ 
+7. Commitments and Contingencies
+ 
+Litigation
+ 
+The Business is a defendant or plaintiff in various claims and lawsuits arising in the normal course of business. The Business believes that the ultimate outcome of these proceedings will not have a material adverse effect on the NSS Statements; however, there is no certainty as to the ultimate outcome.
+ 
+8. Significant Customers and Concentration of Credit Risk
+ 
+For the year ended December 31, 2003 two customers accounted for 83.0% of revenues. For the nine-month periods ended September 30, 2003 and 2004 two customers accounted for 80.3% and 90.8% of revenues, respectively. One of the significant customers of NSS directly sells software products and related services to an agency of the U.S. government. Sales to this customer represented 34.6% of NSS' revenues for the year ended December 31, 2003 and 33.0% and 58.1% of NSS' revenues for the nine-month periods ended September 30, 2003 and 2004, respectively. At December 31, 2003 one of NSS' significant customers represented 88.0% of NSS' trade receivables. One significant customer represented 47.2% of NSS' trade receivables at September 30, 2004. The Business has no delinquent receivables as of December 31, 2003 and September 30, 2004 and did not recognize any provision for bad debt or receivables write-offs in the year ended December 31, 2003 or nine-month periods ended September 30, 2003 and 2004.
+ 
+9. Subsequent Event (unaudited)
+ 
+The asset purchase agreement transaction closed on December 7, 2004.
+ 
+
+Exhibit 99.2
+ 
+ 
+The Unaudited Pro Forma Consolidated Balance Sheet as of November 30, 2004, and the Unaudited Pro Forma Consolidated Statements of Operations for the year ended February 2004 and the nine months ended November 30, 2004 combine the historical Red Hat and Netscape Security Solutions ("the NSS Unit") balance sheets and statement of operations as if the acquisition of the NSS Unit, which occurred on December 7, 2004, had been completed on November 30, 2004 for purposes of the presentation of the Unaudited Pro Forma Consolidated Balance Sheet, and as of March 1, 2003 for purposes of the presentation of the Unaudited Pro Forma Consolidated Statements of Operations.
+ 
+We completed the purchase of the Netscape Security Solutions unit from Netscape Communications Corporation and America Online, Inc. for a purchase price of $20.5 million in cash. An additional $2.5 is payable by Red Hat contingent on certain future customer orders being placed on or before April 30, 2005. The assets acquired are derived from the Netscape Enterprise Suite and include Netscape Directory Server and Netscape Certificate Management System. The Unaudited Pro Forma Consolidated Financial Statements should be read together with Red Hat's and Netscape's historical consolidated financial statements including the notes to these statements.
+ 
+The pro forma adjustments reflecting the consummation of the acquisition are based on the purchase method of accounting, available financial information, and certain estimates and assumptions set forth in the notes to the Unaudited Pro Forma Consolidated Financial Statements. The Unaudited Pro Forma Consolidated Financial Statements reflect our best estimates based on preliminary information. The final purchase price allocation and the actual financial position and results of operations may differ significantly from the pro forma amounts reflected herein due to various factors, including, without limitation, access to additional financial information and changes in value based on a final purchase price allocation. The valuation resulted in $14.2 million allocated to identifiable intangibles, which will be amortized over an average useful life associated with these assets of between three to five years. The pro forma adjustments do not reflect any operating efficiencies or cost savings that may be achievable with respect to the combined business of Red Hat and the NSS Unit nor do they reflect integration costs that may have been unforeseen at the date of purchase.
+ 
+The Unaudited Pro Forma Consolidated Financial Statements for the year ended February 29, 2004 and as of and for the nine months ended November 30, 2004, do not purport to represent what the actual financial condition or results of operations of the combined business would have been if the acquisition of the NSS Unit had occurred on the dates indicated in these pro forma combined financial statements nor does this information purport to project our results or financial position for any future periods.
+ 
+ 
+ 
+ 
+Basis of Presentation
+ 
+The Unaudited Pro Forma Consolidated Balance Sheet as of November 30, 2004, and the Unaudited Pro Forma Consolidated Statements of Operations for the year ended February 2004 and the nine months ended November 30, 2004 combine the historical Red Hat and Netscape Security Solutions ("the NSS Unit") balance sheets and statement of operations as if the acquisition of the NSS Unit, which occurred on December 7, 2004, had been completed on November 30, 2004 for purposes of the presentation of the Unaudited Pro Forma Consolidated Balance Sheet, and as of March 1, 2003 for purposes of the presentation of the Unaudited Pro Forma Consolidated Statements of Operations. The NSS Unit does not have the same fiscal year end as Red Hat. Therefore, we have combined their results of operations for the year ended December 31, 2003 and the nine months ended September 30, 2004 with our historical annual and interim financial statements. The balance sheet for the NSS Unit as of September 30, 2004 has been combined with Red Hat's interim balance sheet as of November 30, 2004.
+ 
+We completed the purchase of the Netscape Security Solutions unit from Netscape Communications Corporation and America Online, Inc. for a purchase price of $20.5 million in cash. An additional $2.5 is payable by Red Hat contingent on certain future customer orders being placed on or before April 30, 2005. The assets acquired are derived from the Netscape Enterprise Suite and include Netscape Directory Server and Netscape Certificate Management System.
+ 
+Pro Forma Adjustments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

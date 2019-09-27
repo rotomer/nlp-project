@@ -1,0 +1,439 @@
+FILE:RHT/RHT-8K-20070228162615.txt.gz
+EVENTS:	Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers	Financial Statements and Exhibits
+TEXT:
+ITEM: Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) Indemnification Agreements
+On February 22, 2007, Red Hat, Inc. (the "Company") entered into indemnification agreements with each member of its Board of Directors and its executive officers. The Company currently expects that it will enter into indemnification agreements in substantially the same form with any future directors and executive officers.
+In general, the indemnification agreements provide that the Company will, to the fullest extent permitted by law, and subject to certain limitations and exceptions, indemnify the indemnitee against expenses, judgments, fines, penalties and amounts paid in settlement that may be incurred in connection with the defense or settlement of threatened, pending or completed proceedings to which the indemnitee becomes subject in connection with his or her service as director or officer of the Company or in connection with other services performed by him or her at the request of the Company (such as service as a director of a subsidiary of the Company).
+The indemnification agreements provide for indemnification rights regarding both third-party claims and proceedings brought by or in the right of the Company. In addition, the indemnification agreements provide for the advancement of expenses incurred by the indemnitee under certain circumstances. The indemnification agreements are not exclusive of any other rights to indemnification or advancement of expenses to which the indemnitee may be entitled, including any rights arising under the charter or bylaws of the Company, a separate agreement with the Company, or applicable law.
+The foregoing summary of the indemnification agreements is qualified in its entirety by reference to the provisions of the Form of Indemnification Agreement, a copy of which is filed as Exhibit 10.1 hereto and incorporated by reference herein.
+(e) Amendments to Certain Agreements and Change in Control Severance Policy for Executive Officers
+On February 22, 2007, the Compensation Committee of the Company's Board of Directors approved revisions to (i) the form of Restricted Stock Agreement (the "RSA Form") that the Company expects to use for future grants of restricted stock to executive officers under the Red Hat, Inc. 2004 Long-Term Incentive Plan (the "Plan"), (ii) the form of Non-Qualified Stock Option Agreement for Executive Employees (the "SOA Form") that the Company expects to use for future grants of non-qualified stock options to executive officers under the Plan, (iii) a form of amendment (the "Amendment") that the Company expects to use to amend or supersede, as the case may be, existing agreements between the Company and its executive officers relating to restricted stock and stock option awards (the "Existing Award Agreements") and (iv) the Company's Senior Management Change in Control Severance Policy (the "Policy"), under which severance benefits will be provided to eligible executive officers of the Company in the event their employment terminates under certain conditions within one year following a "Change in Control" (as defined in the Policy). The revisions to the RSA Form, the SOA Form, the Existing Award Agreements and the Policy are intended to conform the change in control provisions therein with revised change in control provisions summarized below.
+ 
+Under the revised change in control provisions, if an executive officer's restricted stock or stock option grants are assumed or converted in connection with a "Change in Control," and if the executive officer's business relationship with the Company or its successor is terminated within one year after the Change in Control without "Good Cause" by the Company or its successor or with "Good Reason" by the executive officer, then unvested restricted stock and stock option grants would vest. If an executive officer's restricted stock is not assumed or converted in connection with a Change in Control, then the restricted stock would be treated as vested immediately prior to the Change in Control. If an executive officer's stock option grants are not assumed or converted in connection with a Change in Control, then the executive would receive a lump sum cash payment in an amount based in part on the fair market value of the shares underlying the stock option grant on the day preceding the Change in Control.
+For purposes of the revised change in control provisions, the definitions of certain defined terms are summarized below.
+"Change in Control" means (i) subject to certain exceptions, incumbent directors ceasing to constitute a majority of the members of the Company's Board of Directors, (ii) subject to certain exceptions, a person or entity acquiring beneficial ownership of 35% or more of the Company's voting securities, (iii) the consummation of a business combination such as a merger that meets certain requirements, (iv) stockholder approval of a plan to liquidate the Company or the consummation of a sale of all or substantially all of the Company's assets or (v) the occurrence of any other event that the Company's Board of Directors determines constitutes a Change in Control.
+"Good Cause" means (i) the conviction of the executive officer of, or plea of by the executive officer to, a felony, (ii) willful misconduct by the executive officer resulting in material harm to the Company, (iii) fraud, embezzlement, theft or dishonesty by the executive officer against the Company or any subsidiary or repeated and continuing failure to substantially perform the executive officer's duties with the Company after written notice of such failure to perform, resulting in any case in material harm to the Company or (iv) the executive officer's material breach of any term of confidentiality and/or non-competition agreements with the Company.
+nolo contendere
+"Good Reason" means (i) a reduction by the Company or its successor of more than 10% in the executive officer's rate of annual base salary or annual target bonus opportunity, (ii) a significant and substantial reduction of the executive officer's responsibilities and authority, (iii) a material adverse change in the executive officer's reporting relationship or (iv) any requirement that the executive officer be based anywhere more than fifty (50) miles from the executive officer's primary office location at the time of the Change in Control.
+The foregoing description of the revised change in control provisions, as well as the summary of the Amendment and the revisions to the RSA Form, the SOA Form and the Policy, do not purport to be complete and are qualified in their entirety by the provisions of (i) the Form of Restricted Stock Agreement filed as Exhibit 10.2 hereto and incorporated by reference herein, (ii) the Form of Non-Qualified Stock Option Agreement for Executive Employees filed as Exhibit 10.3 hereto and incorporated by reference herein, (iii) the Form of Amendment to Equity Awards filed as Exhibit 10.4 hereto and incorporated by reference herein and (iv) the terms of the Senior Management Change in Control Severance Policy filed as Exhibit 10.5 hereto and incorporated by reference herein.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+Exhibit 10.1
+This Agreement is made as of the day of 200    , by and between Red Hat, Inc., a Delaware corporation (the "Corporation), and (the "Indemnitee"), a director or officer of the Corporation.
+    
+            
+                    
+WHEREAS, it is essential to the Corporation to retain and attract as directors and officers the most capable persons available, and
+WHEREAS, the substantial increase in corporate litigation subjects directors and officers to expensive litigation risks at the same time that the availability of directors' and officers' liability insurance has been severely limited, and
+WHEREAS, it is now and has always been the express policy of the Corporation to indemnify its directors and officers, and
+WHEREAS, the Indemnitee does not regard the protection available under the Corporation's Certificate of Incorporation and insurance as adequate in the present circumstances, and
+WHEREAS, the Corporation desires the Indemnitee to serve, or continue to serve, as a director or officer of the Corporation.
+NOW THEREFORE, the Corporation and the Indemnitee do hereby agree as follows:
+1. . The Indemnitee agrees to serve or continue to serve as a director or officer of the Corporation for so long as the Indemnitee is duly elected or appointed or until such time as the Indemnitee tenders a resignation in writing.
+Agreement to Serve
+2. . As used in this Agreement:
+Definitions
+(a) The term "Proceeding" shall include any threatened, pending or completed action, suit, arbitration, alternative dispute resolution proceeding, administrative hearing or other proceeding, whether brought by or in the right of the Corporation or otherwise and whether of a civil, criminal, administrative or investigative nature, and any appeal therefrom.
+(b) The term "Corporate Status" shall mean the status of a person who is or was, or has agreed to become, a director or officer of the Corporation, or is or was serving, or has agreed to serve, at the request of the Corporation, as a director, officer, fiduciary, partner, trustee, member, employee or agent of, or in a similar capacity with, another corporation, partnership, joint venture, trust, limited liability company or other enterprise.
+(c) The term "Expenses" shall include, without limitation, attorneys' fees, retainers, court costs, transcript costs, fees and expenses of experts, travel expenses, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees and other
+disbursements or expenses of the types customarily incurred in connection with investigations, judicial or administrative proceedings or appeals, but shall not include the amount of judgments, fines or penalties against Indemnitee or amounts paid in settlement in connection with such matters.
+(d) The term "Change in Control" shall mean the occurrence of any one of the following:
+(i) individuals who, on the date of this Agreement, constitute the Board (the "Incumbent Directors") cease for any reason to constitute at least a majority of the Board, provided that any person becoming a director subsequent to the date of this Agreement whose election or nomination for election was approved by a vote of at least a majority of the Directors then on the Board (either by a specific vote or by approval of the proxy statement of the Corporation in which such person is named as a nominee for director, without written objection to such nomination) shall be an Incumbent Director; provided, however, that no individual initially elected or nominated as a director of the Corporation as a result of an actual or threatened election contest with respect to directors or as a result of any other actual or threatened solicitation of proxies by or on behalf of any person other than the Board shall be deemed to be an Incumbent Director;
+(ii) any "person" (as such term is defined in the Securities Exchange Act of 1934, as amended (the "Exchange Act") and as used in Sections 13(d)(3) and 14(d)(2) of the Exchange Act) is or becomes a "beneficial owner" (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Corporation representing 50% or more of the combined voting power of the Corporation's then outstanding securities eligible to vote for the election of the Board (the "Corporation Voting Securities"); provided, however, that the event described in this paragraph (ii) shall not be deemed to be a Change in Control by virtue of any of the following acquisitions: (A) by the Corporation or any subsidiary, (B) by any employee benefit plan (or related trust) sponsored or maintained by the Corporation or any subsidiary, (C) by any underwriter temporarily holding securities pursuant to an offering of such securities, (D) pursuant to a Non-Qualifying Transaction, as defined in paragraph (iii), or (E) by any person of Voting Securities from the Corporation, if a majority of the Incumbent Board approves in advance the acquisition of beneficial ownership of 50% or more of Corporation Voting Securities by such person;
+(iii) the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction involving the Corporation or any of its subsidiaries that requires the approval of the Corporation's stockholders, whether for such transaction or the issuance of securities in the transaction (a "Business Combination"), unless immediately following such Business Combination: (A) more than 50% of the total voting power of (x) the corporation resulting from such Business Combination (the "Surviving Corporation"), or (y) if applicable, the ultimate parent corporation that directly or indirectly has beneficial ownership of 100% of the voting securities eligible to elect directors of the Surviving Corporation (the "Parent Corporation"), is represented by Corporation Voting Securities that were outstanding immediately prior to such Business Combination (or, if applicable, is represented by shares into which such Corporation Voting Securities were converted pursuant to such Business Combination), and such voting power among the holders thereof is in substantially
+ 
+the same proportion as the voting power of such Corporation Voting Securities among the holders thereof immediately prior to the Business Combination, (B) no person (other than any employee benefit plan (or related trust) sponsored or maintained by the Surviving Corporation or the Parent Corporation), is or becomes the beneficial owner, directly or indirectly, of 25% or more of the total voting power of the outstanding voting securities eligible to elect directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) and (C) at least half of the members of the board of directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) following the consummation of the Business Combination were Incumbent Directors at the time of the Board's approval of the execution of the initial agreement providing for such Business Combination (any Business Combination which satisfies all of the criteria specified in (A), (B) and (C) above shall be deemed to be a "Non-Qualifying Transaction");
+(iv) the stockholders of the Corporation approve a plan of complete liquidation or dissolution of the Corporation or the consummation of a sale of all or substantially all of the Corporation's assets; or
+(v) the occurrence of any other event that the Board determines by a duly approved resolution constitutes a Change in Control.
+(e) The term "Special Independent Counsel" shall mean a law firm, or a member of a law firm, that is experienced in matters of corporation law and neither currently is, nor in the past five years has been, retained to represent: (i) the Corporation or the Indemnitee in any matter material to either such party or (ii) any other party to the Proceeding giving rise to a claim for indemnification hereunder. Notwithstanding the foregoing, the term "Special Independent Counsel" shall not include any person who, under the applicable standards of professional conduct then prevailing, would have a conflict of interest in representing either the Corporation or the Indemnitee in an action to determine the Indemnitee's rights under this Agreement.
+(f) References to "other enterprise" shall include employee benefit plans; references to "fines" shall include any excise tax assessed with respect to any employee benefit plan; references to "serving at the request of the Corporation" shall include any service as a director, officer, employee or agent of the Corporation which imposes duties on, or involves services by, such director, officer, employee, or agent with respect to an employee benefit plan, its participants, or beneficiaries; and a person who acted in good faith and in a manner such person reasonably believed to be in the interests of the participants and beneficiaries of an employee benefit plan shall be deemed to have acted in a manner "not opposed to the best interests of the Corporation" as referred to in this Agreement.
+3. . Subject to Sections 6, 7 and 9, the Corporation shall indemnify the Indemnitee in connection with any Proceeding as to which the Indemnitee is, was or is threatened to be made a party (or is otherwise involved) by reason of the Indemnitee's Corporate Status, to the fullest extent permitted by law (as such may be amended from time to time). In furtherance of the foregoing and without limiting the generality thereof:
+Indemnity of Indemnitee
+ 
+(a) . The Corporation shall indemnify the Indemnitee in accordance with the provisions of this Section 3(a) if the Indemnitee was or is a party to or threatened to be made a party to or otherwise involved in any Proceeding (other than a Proceeding by or in the right of the Corporation to procure a judgment in its favor or a Proceeding referred to in Section 6 below) by reason of the Indemnitee's Corporate Status or by reason of any action alleged to have been taken or omitted in connection therewith, against all Expenses, judgments, fines, penalties and amounts paid in settlement actually and reasonably incurred by or on behalf of the Indemnitee in connection with such Proceeding, if the Indemnitee acted in good faith and in a manner which the Indemnitee reasonably believed to be in, or not opposed to, the best interests of the Corporation and, with respect to any criminal Proceeding, had no reasonable cause to believe that his or her conduct was unlawful.
+Indemnification in Third-Party Proceedings
+(b) . The Corporation shall indemnify the Indemnitee in accordance with the provisions of this Section 3(b) if the Indemnitee was or is a party to or threatened to be made a party to or otherwise involved in any Proceeding by or in the right of the Corporation to procure a judgment in its favor by reason of the Indemnitee's Corporate Status or by reason of any action alleged to have been taken or omitted in connection therewith, against all Expenses and, to the extent permitted by law, amounts paid in settlement actually and reasonably incurred by or on behalf of the Indemnitee in connection with such Proceeding, if the Indemnitee acted in good faith and in a manner which the Indemnitee reasonably believed to be in, or not opposed to, the best interests of the Corporation, except that, if applicable law so provides, no indemnification shall be made under this Section 3(b) in respect of any claim, issue, or matter as to which the Indemnitee shall have been adjudged to be liable to the Corporation, unless, and only to the extent, that the Court of Chancery of Delaware or the court in which such action or suit was brought shall determine upon application that, despite the adjudication of such liability but in view of all the circumstances of the case, the Indemnitee is fairly and reasonably entitled to indemnity for such Expenses as the Court of Chancery or such other court shall deem proper.
+Indemnification in Proceedings by or in the Right of the Corporation
+4. . Notwithstanding any other provision of this Agreement, to the extent that the Indemnitee has been successful, on the merits or otherwise, in defense of any Proceeding or in defense of any claim, issue or matter therein (other than a Proceeding referred to in Section 6), the Indemnitee shall be indemnified against all Expenses actually and reasonably incurred by or on behalf of the Indemnitee in connection therewith. Without limiting the foregoing, if any Proceeding or any claim, issue or matter therein is disposed of, on the merits or otherwise (including a disposition without prejudice), without (i) the disposition being adverse to the Indemnitee, (ii) an adjudication that the Indemnitee was liable to the Corporation, (iii) a plea of guilty or by the Indemnitee, (iv) an adjudication that the Indemnitee did not act in good faith and in a manner the Indemnitee reasonably believed to be in or not opposed to the best interests of the Corporation, and (v) with respect to any criminal proceeding, an adjudication that the Indemnitee had reasonable cause to believe his or her conduct was unlawful, the Indemnitee shall be considered for the purposes hereof to have been wholly successful with respect thereto.
+Indemnification of Expenses of Successful Party
+nolo
+contendere
+5. . To the extent that the Indemnitee is, by reason of the Indemnitee's Corporate Status, a witness in any Proceeding to which the Indemnitee is not a party, the Indemnitee shall be indemnified against all Expenses actually and reasonably incurred by or on behalf of the Indemnitee in connection therewith.
+Indemnification for Expenses of a Witness
+ 
+6. . Notwithstanding anything to the contrary to this Agreement, except as set forth in Section 10, the Corporation shall not indemnify the Indemnitee under this Agreement in connection with a Proceeding (or part thereof) initiated by the Indemnitee unless (a) the initiation thereof was approved by the Board of Directors of the Corporation or (b) the Proceeding was commenced following a Change in Control. Notwithstanding anything to the contrary in this Agreement, the Corporation shall not indemnify the Indemnitee to the extent the Indemnitee is reimbursed from the proceeds of insurance, and in the event the Corporation makes any indemnification payments to the Indemnitee and the Indemnitee is subsequently reimbursed from the proceeds of insurance, the Indemnitee shall promptly refund such indemnification payments to the Corporation to the extent of such insurance reimbursement.
+Exceptions to Right of Indemnification
+7. . As a condition precedent to the Indemnitee's right to be indemnified, the Indemnitee must notify the Corporation in writing as soon as practicable of any Proceeding for which indemnity will or could be sought. With respect to any Proceeding of which the Corporation is so notified, the Corporation will be entitled to participate therein at its own expense and/or to assume the defense thereof at its own expense, with legal counsel reasonably acceptable to the Indemnitee. After notice from the Corporation to the Indemnitee of its election so to assume such defense, the Corporation shall not be liable to the Indemnitee for any legal or other expenses subsequently incurred by the Indemnitee in connection with such Proceeding, other than as provided below in this Section 7. The Indemnitee shall have the right to employ his or her own counsel in connection with such Proceeding, but the fees and expenses of such counsel incurred after notice from the Corporation of its assumption of the defense thereof shall be at the expense of the Indemnitee unless (i) the employment of counsel by the Indemnitee has been authorized by the Corporation, (ii) counsel to the Indemnitee shall have reasonably determined that there may be a conflict of interest or position on any significant issue between the Corporation and the Indemnitee in the conduct of the defense of such Proceeding or (iii) the Corporation shall not in fact have employed counsel to assume the defense of such Proceeding, in each of which cases the fees and expenses of counsel for the Indemnitee shall be at the expense of the Corporation, except as otherwise expressly provided by this Agreement, and provided that Indemnitee's counsel shall cooperate reasonably with the Corporation's counsel to minimize the cost of defending claims against the Corporation and the Indemnitee. The Corporation shall not be entitled, without the consent of the Indemnitee, to assume the defense of any claim brought by or in the right of the Corporation or as to which counsel for the Indemnitee shall have reasonably made the determination provided for in clause (ii) above. The Corporation shall not be required to indemnify the Indemnitee under this Agreement for any amounts paid in settlement of any Proceeding effected without its written consent. The Corporation shall not settle any Proceeding in any manner that would impose any penalty or limitation on the Indemnitee without the Indemnitee's written consent. Neither the Corporation nor the Indemnitee will unreasonably withhold or delay their consent to any proposed settlement.
+Notification and Defense of Claim
+8. . Subject to the provisions of Section 9, in the event that the Corporation does not assume the defense pursuant to Section 7 of any Proceeding of
+Advancement of Expenses
+ 
+which the Corporation receives notice under this Agreement, any Expenses actually and reasonably incurred by or on behalf of the Indemnitee in defending such Proceeding shall be paid by the Corporation in advance of the final disposition of such Proceeding; , , that the payment of such Expenses incurred by or on behalf of the Indemnitee in advance of the final disposition of such Proceeding shall be made only upon receipt of an undertaking by or on behalf of the Indemnitee to repay all amounts so advanced in the event that it shall ultimately be determined that the Indemnitee is not entitled to be indemnified by the Corporation as authorized in this Agreement. Such undertaking shall be accepted without reference to the financial ability of the Indemnitee to make repayment. Any advances and undertakings to repay pursuant to this Section 8 shall be unsecured and interest-free.
+provided
+however
+9. .
+Procedures
+(a) In order to obtain indemnification or advancement of Expenses pursuant to this Agreement, the Indemnitee shall submit to the Corporation a written request, including in such request such documentation and information as is reasonably available to the Indemnitee and is reasonably necessary to determine whether and to what extent the Indemnitee is entitled to indemnification or advancement of Expenses. Any such indemnification or advancement of Expenses shall be made promptly, and in any event within (i) in the case of indemnification under Sections 4, 5 or 9(d) or advancement of Expenses under Section 8, 30 days after receipt by the Corporation of the written request of the Indemnitee, or (ii) in the case of all other indemnification, 60 days after receipt by the Corporation of the written request of the Indemnitee, unless with respect to requests under this clause (ii) the Corporation determines within the applicable 30 or 60-day period referred to above that the Indemnitee did not meet the standard of conduct set forth in Section 3(a) above. Such determination, and any determination that advanced Expenses must be repaid to the Corporation, shall be made as follows:
+(x) if a Change in Control shall have occurred, by Special Independent Counsel in a written opinion to the Board of Directors of the Corporation, a copy of which shall be delivered to the Indemnitee (unless the Indemnitee shall request that such determination be made by the Board of Directors of the Corporation, in which case the determination shall be made in the manner provided below in clauses (y)(1) or (y)(2)).
+(y) in all other cases, in the discretion of the Board of Directors of the Corporation, (1) by a majority vote of the directors of the Corporation consisting of persons who are not at that time parties to the Proceeding ("disinterested directors"), whether or not a quorum, (2) by a committee of disinterested directors designated by a majority vote of disinterested directors, whether or not a quorum, (3) if there are no disinterested directors, or if the disinterested directors so direct, by independent legal counsel in a written opinion to the Board, or (4) by the stockholders of the Corporation.
+(b) In the event that a Change in Control shall have occurred and the determination of entitlement to indemnification is to be made by Special Independent Counsel, the Special Independent Counsel shall be selected as provided in this Section 9(b). The Special Independent Counsel shall be selected by the Indemnitee, unless the Indemnitee shall request that such selection be made by the Board of Directors of the Corporation. The party making the determination shall give written notice to the other party advising it of the identity of the Special
+ 
+Independent Counsel so selected. The party receiving such notice may, within seven days after such written notice of selection shall have been given, deliver to the other party a written objection to such selection. Such objection may be asserted only on the ground that the Special Independent Counsel so selected does not meet the requirements of "Special Independent Counsel" as defined in Section 2, and the objection shall set forth with particularity the factual basis of such assertion. Absent a proper and timely objection, the person so selected shall act as Special Independent Counsel. If a written objection is made, the Special Independent Counsel so selected may not serve as Special Independent Counsel unless and until a court has determined that such objection is without merit. If, within 20 days after submission by the Indemnitee of a written request for indemnification, no Special Independent Counsel shall have been selected or if selected, shall have been objected to, in accordance with this paragraph either the Corporation or the Indemnitee may petition the Court of Chancery of the State of Delaware or other court of competent jurisdiction for resolution of any objection which shall have been made by the Corporation or the Indemnitee to the other's selection of Special Independent Counsel and/or for the appointment as Special Independent Counsel of a person selected by the court or by such other person as the court shall designate, and the person with respect to whom an objection is favorably resolved or the person so appointed shall act as Special Independent Counsel. The Corporation shall pay the reasonable and necessary fees and expenses of Special Independent Counsel incurred in connection with its acting in such capacity. The Corporation shall pay any and all reasonable and necessary fees and expenses incident to the procedures of this paragraph, regardless of the manner in which such Special Independent Counsel was selected or appointed. Upon the due commencement of any judicial proceeding pursuant to Section 10 of this Agreement, any Special Independent Counsel shall be discharged and relieved of any further responsibility in such capacity (subject to the applicable standards of professional conduct then prevailing).
+(c) The termination of any Proceeding by judgment, order, settlement, conviction or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that the Indemnitee did not act in good faith and in a manner that the Indemnitee reasonably believed to be in, or not opposed to, the best interests of the Corporation, and, with respect to any criminal Proceeding, had reasonable cause to believe that his or her conduct was unlawful.
+(d) The Indemnitee shall cooperate with the person, persons or entity making such determination with respect to the Indemnitee's entitlement to indemnification, including providing to such person, persons or entity upon reasonable advance request any documentation or information which is not privileged or otherwise protected from disclosure and which is reasonably available to the Indemnitee and reasonably necessary to such determination. Any Expenses actually and reasonably incurred by the Indemnitee in so cooperating shall be borne by the Corporation (irrespective of the determination as to the Indemnitee's entitlement to indemnification) and the Corporation hereby indemnifies the Indemnitee therefrom.
+10. . The right to indemnification or advancement of Expenses as provided by this Agreement shall be enforceable by the Indemnitee in any court of competent jurisdiction if the Corporation denies such request, in whole or in part, or if no disposition thereof is made within the applicable period referred to in Section 9. Unless otherwise required by law, the burden of proving that indemnification or advancement of Expenses is not appropriate shall be
+Remedies
+ 
+on the Corporation. Neither the failure of the Corporation to have made a determination prior to the commencement of such action that indemnification is proper in the circumstances because the Indemnitee has met the applicable standard of conduct, nor an actual determination by the Corporation that the Indemnitee has not met such applicable standard of conduct, shall be a defense to the action or create a presumption that the Indemnitee has not met the applicable standard of conduct. The Indemnitee's Expenses actually and reasonably incurred in connection with successfully establishing the Indemnitee's right to indemnification, in whole or in part, in any such Proceeding shall also be indemnified by the Corporation. The Corporation shall provide to the Indemnitee such information and documentation as the Indemnitee shall reasonably request in connection with any attempt by the Indemnitee to enforce his or her rights under this Agreement or otherwise in connection with any Proceeding in which the Indemnitee may be involved by reason of his or her Corporate Status.
+11. . If the Indemnitee is entitled under any provision of this Agreement to indemnification by the Corporation for some or a portion of the Expenses, judgments, fines, penalties or amounts paid in settlement actually and reasonably incurred by or on behalf of the Indemnitee in connection with any Proceeding but not, however, for the total amount thereof, the Corporation shall nevertheless indemnify the Indemnitee for the portion of such Expenses, judgments, fines, penalties or amounts paid in settlement to which the Indemnitee is entitled.
+Partial Indemnification
+12. . In the event of any payment under this Agreement, the Corporation shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnitee, who shall execute all papers required and take all action necessary to secure such rights, including execution of such documents as are necessary to enable the Corporation to bring suit to enforce such rights.
+Subrogation
+13. . This Agreement shall continue until and terminate upon the later of (a) six years after the date that the Indemnitee shall have ceased to serve as a director or officer of the Corporation or, at the request of the Corporation, as a director, officer, partner, trustee, member, employee or agent of another corporation, partnership, joint venture, trust, limited liability company or other enterprise or (b) the final termination of all Proceedings pending on the date set forth in clause (a) in respect of which the Indemnitee is granted rights of indemnification or advancement of Expenses hereunder and of any proceeding commenced by the Indemnitee pursuant to Section 10 of this Agreement relating thereto.
+Term of Agreement
+14. . The indemnification and advancement of Expenses provided by this Agreement shall not be deemed exclusive of any other rights to which the Indemnitee may be entitled under the Certification of Incorporation, the By-Laws, any other agreement, any vote of stockholders or disinterested directors, the General Corporation Law of Delaware, any other law (common or statutory), or otherwise, both as to action in the Indemnitee's official capacity and as to action in another capacity while holding office for the Corporation. Nothing contained in this Agreement shall be deemed to prohibit the Corporation from purchasing and maintaining insurance, at its expense, to protect itself or the Indemnitee against any expense, liability or loss incurred by it or the Indemnitee in any such capacity, or arising out of the Indemnitee's status as such, whether or not the Indemnitee would be indemnified against such expense, liability or loss under this Agreement.
+Indemnification Hereunder Not Exclusive
+ 
+15. . Nothing herein shall confer upon the Indemnitee any right to continue to serve as an officer or director of the Corporation for any period of time or at any particular rate of compensation.
+No Special Rights
+16. . If this Agreement or any portion thereof shall be invalidated on any ground by any court of competent jurisdiction, then the Corporation shall nevertheless indemnify the Indemnitee as to Expenses, judgments, fines, penalties and amounts paid in settlement with respect to any Proceeding to the full extent permitted by any applicable portion of this Agreement that shall not have been invalidated and to the fullest extent permitted by applicable law.
+Savings Clause
+17. . This Agreement may be executed in any number of counterparts, each of which shall constitute the original.
+Counterparts
+18. . This Agreement shall be binding upon the Corporation and its successors and assigns and shall inure to the benefit of the estate, heirs, executors, administrators and personal representatives of the Indemnitee.
+Successors and Assigns
+19. . The headings of the paragraphs of this Agreement are inserted for convenience only and shall not be deemed to constitute part of this Agreement or to affect the construction thereof.
+Headings
+20. . This Agreement may be amended from time to time to reflect changes in Delaware law or for other reasons. No supplement, modification or amendment of this Agreement shall be binding unless executed in writing by both of the parties hereto. No waiver of any of the provisions of this Agreement shall be deemed or shall constitute a waiver of any other provision hereof nor shall any such waiver constitute a continuing waiver.
+Modification and Waiver
+21. . All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been given (i) when delivered by hand or (ii) if mailed by certified or registered mail with postage prepaid, on the third day after the date on which it is so mailed:
+Notices
+ 
+or to such other address as may have been furnished to the Indemnitee by the Corporation or to the Corporation by the Indemnitee, as the case may be.
+22. . This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware. The Indemnitee may elect to have the right to indemnification or reimbursement or advancement of Expenses interpreted on
+Applicable Law
+ 
+the basis of the applicable law in effect at the time of the occurrence of the event or events giving rise to the applicable Proceeding, to the extent permitted by law, or on the basis of the applicable law in effect at the time such indemnification or reimbursement or advancement of Expenses is sought. Such election shall be made, by a notice in writing to the Corporation, at the time indemnification or reimbursement or advancement of Expenses is sought; , , that if no such notice is given, and if the General Corporation Law of Delaware is amended, or other Delaware law is enacted, to permit further indemnification of the directors and officers, then the Indemnitee shall be indemnified to the fullest extent permitted under the General Corporation Law, as so amended, or by such other Delaware law, as so enacted.
+provided
+however
+23. . The Corporation expressly confirms and agrees that it has entered into this Agreement in order to induce the Indemnitee to continue to serve as an officer or director of the Corporation, and acknowledges that the Indemnitee is relying upon this Agreement in continuing in such capacity.
+Enforcement
+24. . This Agreement sets forth the entire agreement of the parties hereto in respect of the subject matter contained herein and supercedes all prior agreements, whether oral or written, by any officer, employee or representative of any party hereto in respect of the subject matter contained herein; and any prior agreement of the parties hereto in respect of the subject matter contained herein is hereby terminated and cancelled. For avoidance of doubt, the parties confirm that the foregoing does not apply to or limit the Indemnitee's rights under Delaware law or the Corporation's Certificate of Incorporation or By-Laws.
+Entire Agreement
+25. . In the case of any dispute under or in connection with this Agreement, the Indemnitee may only bring suit against the Corporation in the Court of Chancery of the State of Delaware. The Indemnitee hereby consents to the exclusive jurisdiction and venue of the courts of the State of Delaware, and the Indemnitee hereby waives any claim the Indemnitee may have at any time as to forum non conveniens with respect to such venue. The Corporation shall have the right to institute any legal action arising out of or relating to this Agreement in any court of competent jurisdiction. Any judgment entered against either of the parties in any proceeding hereunder may be entered and enforced by any court of competent jurisdiction.
+Consent to Suit
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+ 
+
+Exhibit 10.2
+Red Hat, Inc., a Delaware corporation, hereby grants as of the date below (the "Grant Date") to the person named below (the "Participant") and the Participant hereby accepts, the number of restricted shares (the "Restricted Stock") listed below of the Company's common stock, $.0001 par value per share, with a vesting start date (the "Vesting Start Date") listed below, such grant to be on the terms and conditions specified in the Red Hat, Inc. 2004 Long-Term Incentive Plan and in the attached .
+Exhibit A
+ 
+IN WITNESS WHEREOF, the Company and the Participant have caused this instrument to be executed as of the Grant Date set forth above.
+ 
+. The Restricted Stock is granted pursuant to and is subject to and governed by the Company's 2004 Long-Term Incentive Plan (the "") and, unless the context otherwise requires, terms used herein shall have the same meaning as in the Plan or shall be defined as on the cover sheet attached hereto. Determinations made in connection with the Restricted Stock pursuant to the Plan shall be governed by the Plan as it exists on the Grant Date.
+1. Grant under Red Hat, Inc. 2004 Long-Term Incentive Plan
+Plan
+. All of the shares of Restricted Stock initially shall be unvested shares. For so long as the Participant maintains continuous service to the Company or its subsidiaries or affiliates as an employee, officer, director or consultant (a "") throughout the period beginning on the Grant Date and ending on the vesting date set forth below, the Restricted Stock shall become vested according to the schedule set forth below, subject to Section 3 hereof:
+2. Vesting if Business Relationship Continues
+Business Relationship
+ 
+ 
+Until the Restricted Stock vests, as provided in this Section and in Section 3, the Participant may not sell, assign, transfer, pledge, or otherwise dispose of the Restricted Stock.
+If the Participant's Business Relationship is terminated for any reason, the shares of Restricted Stock that were not vested on the date of such termination will be forfeited. The shares of Restricted Stock that are forfeited will be cancelled and returned to the Company. For purposes hereof, a Business Relationship shall not be considered as having terminated during any leave of absence if such leave of absence has been approved in writing by the Company; in the event of such leave of absence, vesting of the Restricted Stock shall be suspended (and the period of the leave of absence shall be added to all vesting dates) unless otherwise determined by the Company. The vesting of the Restricted Stock shall not be affected by any change in the type of Business Relationship the Participant has within or among the Company and its Subsidiaries or Affiliates so long as the Participant continuously maintains a Business Relationship.
+.
+3. Termination of Business Relationship
+. Each certificate issued in respect of shares of Restricted Stock under the Agreement shall be registered in the Participant's name and deposited by the Participant, together with a stock power endorsed in blank, with the Company and shall bear the following (or a similar) legend:
+4. Legend
+"The transferability of this certificate and the shares of stock represented hereby are subject to the terms and conditions (including forfeiture) contained in an Agreement entered into between the registered owner and Red Hat, Inc."
+ 
+When the Restricted Stock vests, the Company shall redeliver to the Participant (or the Participant's legal representatives, beneficiaries or heirs) from the shares of Restricted Stock deposited with it the number of shares which have then vested. The Participant agrees that any resale of the shares of Restricted Stock received upon vesting shall be made in compliance with the registration requirements of the Securities Act of 1933 or an applicable exemption therefrom, including without limitation the exemption provided by Rule 144 promulgated thereunder (or any successor rule).
+. Neither the Plan, this Agreement, nor the grant of the Restricted Stock imposes any obligation on the Company, its Subsidiaries or Affiliates to have a Business Relationship with the Participant.
+5. No Obligation to Continue Business Relationship
+. Except for the restrictions on transfer and vesting provisions in this Agreement, the Participant shall have all of the rights of a stockholder of the Company with respect to the Restricted Stock including but not limited to the right to receive dividends paid on the Restricted Stock and the right to vote the Restricted Stock.
+6. Rights as Stockholder
+. The Plan contains provisions covering the treatment of restricted stock in a number of contingencies such as stock split and mergers. Provisions in the Plan for such adjustments are hereby made applicable hereunder and are incorporated herein by reference.
+7. Adjustments for Capital Changes
+. Provisions regarding a Change in Control are set forth on Appendix A.
+8. Change in Control
+. No Restricted Stock will be redelivered pursuant to the vesting thereof unless and until the Participant pays to the Company, or makes satisfactory provision to the Company for payment of, any federal, state or local withholding taxes required by law to be held in respect of this Restricted Stock (the "Tax Amount"). The Participant hereby agrees that the Company may withhold from the Participant's wages or other remuneration the Tax Amount. At the discretion of the Company, the Tax Amount may be withheld in cash from such wages or from other remuneration, or in kind from the
+9. Withholding
+ 
+shares or other property otherwise deliverable to the Participant on vesting of this Restricted Stock. The Participant further agrees that, if the Company does not withhold an amount from the Participant's wages or other remuneration sufficient to satisfy the withholding obligation of the Company, the Participant agrees to indemnify the Company in full for the amount underwithheld and to make reimbursement on demand, in cash, for the amount underwithheld within thirty (30) days after the vesting of the Restricted Stock that gives rise to the withholding obligation. The Participant has reviewed with the Participant's own tax advisors the federal, state, local and foreign tax consequences of this investment and the transactions contemplated by this Agreement.
+The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the Participant (and not the Company) shall be responsible for the Participant's own tax liability that may arise as a result of this investment or the transactions contemplated by this Agreement. The Participant understands that it may be beneficial in many circumstances to elect to be taxed at the time the Restricted Stock is granted rather than when and as the Restricted Stock vests by filing an election under Section 83(b) of the Code with the I.R.S. within 30 days from the date of grant.
+. The Participant agrees that in the event that the Company effects an underwritten public offering of Shares registered under the Securities Act, the Restricted Stock may not be sold, offered for sale or otherwise disposed of, directly or indirectly, without the prior written consent of the managing underwriter(s) of the offering, for such period of time after the execution of an underwriting agreement in connection with such offering that all of the Company's then directors and executive officers agree to be similarly bound.
+10. Lock-up Agreement
+. By executing this Agreement the Participant acknowledges receipt of a copy of this Agreement (including the cover sheet) and a copy of the Plan.
+11. Provision of Documentation to Participant
+ 
+.
+12. Miscellaneous
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding anything contained herein to the contrary, if (i) this grant of Restricted Stock is continued, assumed, converted or substituted for immediately following the Change in Control and (ii) within one year after a Change in Control the Participant's Business Relationship is terminated by the Company or its successor without Good Cause or by the Participant for Good Reason, all of the Restricted Stock shall be vested. Furthermore and notwithstanding anything contained herein to the contrary, if this grant of Restricted Stock is not continued, assumed, converted or substituted for immediately following the Change in Control, all of the Restricted Stock shall be treated as vested immediately prior to the Change in Control. This grant of Restricted Stock shall be considered to be continued, assumed, converted or substituted for:
+ 
+ 
+ 
+ 
+ 
+For purposes of this Agreement:
+"" means the occurrence of any one of the following events:
+Change in Control
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; , if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+provided
+that
+"" means conduct involving one or more of the following:
+Good Cause
+ 
+ 
+ 
+"" means:
+Good Reason
+ 
+ 
+ 
+ 
+
+Exhibit 10.3
+Red Hat, Inc., a Delaware corporation, hereby grants as of the date below (the "Grant Date") to the person named below (the "Optionee") and the Optionee hereby accepts, an option to purchase the number of shares (the "Option Shares") listed below of the Company's common stock, $.0001 par value per share, at the exercise price per share and with a vesting start date (the "Vesting Start Date") listed below, such option to be on the terms and conditions specified in the Red Hat, Inc. 2004 Long-Term Incentive Plan and in the attached .
+Exhibit A
+ 
+IN WITNESS WHEREOF, the Company and the Optionee have caused this instrument to be executed as of the Grant Date set forth above.
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the foregoing, the Committee may, in its discretion, accelerate the date that any installment of this option becomes exercisable; provided that no installment of the option shall vest prior to the Anniversary Date. The foregoing rights are cumulative and (subject to Sections 4 or 5 hereof if the Optionee ceases to have a Business Relationship) may be exercised only before the date (the "Final Exercise Date") which is five years from the Grant Date.
+ 
+ 
+ 
+ 
+(i) the conviction of Optionee of, or plea of by the Optionee to, a felony;
+nolo contendere
+ 
+(ii) the willful misconduct by Optionee resulting in material harm to the Company;
+(iii) fraud, embezzlement, theft or dishonesty by Optionee against the Company or any subsidiary or repeated and continuing failure to substantially perform Participant's duties with the Company after written notice of such failure to perform resulting in any case in material harm to the Company; or
+(iv) the Optionee's material breach of any term of confidentiality and/or non-competition agreements with the Company.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Optionee has reviewed with the Optionee's own tax advisors the federal, state, local and foreign tax consequences of this investment and the transactions contemplated by this Agreement. The Optionee is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Optionee understands that the Optionee (and not the Company) shall be responsible for the Optionee's own tax liability that may arise as a result of this investment or the transactions contemplated by this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding anything contained herein to the contrary, if (i) this option is continued, assumed, converted or substituted for immediately following the Change in Control and (ii) within one year after a Change in Control the Optionee's Business Relationship is terminated by the Company or its successor without Good Cause or by the Optionee for Good Reason, all of the Option Shares shall be vested and this option may be exercised at any time within 12 months following such termination, but not later than the Final Exercise Date. Furthermore and notwithstanding anything contained herein to the contrary, if this option is not continued, assumed, converted or substituted for immediately following the Change in Control, the Optionee shall receive a lump sum cash payment within 30 days after the Change in Control in an amount equal to the result of multiplying the Option Shares which have not been exercised by the difference between (x) the Fair Market Value of one Share on the day immediately preceding the Change in Control and (y) the per share exercise price of the option. This option shall be considered to be continued, assumed, converted or substituted for:
+ 
+ 
+For purposes of this Agreement:
+"" means the occurrence of any one of the following events:
+Change in Control
+(i) individuals who, on the Grant Date, constitute the Board (the "Incumbent Directors") cease for any reason to constitute at least a majority of the Board, provided that any person becoming a director subsequent to the initial public offering whose election or nomination for election was approved by a vote of at least a majority of the Directors then on the Board (either by a specific vote or by approval of the proxy statement of the Company in which such person is named as a nominee for director, without written objection to such nomination) shall be an Incumbent Director; , , that no individual initially elected or nominated as a director of the Company as a result of an actual or threatened election contest with respect to directors or as a result of any other actual or threatened solicitation of proxies by or on behalf of any person other than the Board shall be deemed to be an Incumbent Director;
+provided
+however
+(ii) any "person" (as such term is defined in the Exchange Act and as used in Sections 13(d)(3) and 14(d)(2) of the Exchange Act) is or becomes a "beneficial owner" (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing 35% or more of the combined voting power of the Company's then outstanding securities eligible to vote for the election of the Board (the "Company Voting Securities"); , , that the event described in this paragraph (ii) shall not be deemed to be a Change in Control by virtue of any of the following acquisitions: (A) by the Company or any subsidiary, (B) by any employee benefit plan (or related trust) sponsored or maintained by the Company or any subsidiary, (C) by any underwriter temporarily holding securities pursuant to an offering of such securities, (D) pursuant to a Non-Qualifying Transaction, as defined in paragraph (iii), or (E) by any person of Voting Securities from the Company, if a majority of the Incumbent Board approves in advance the acquisition of beneficial ownership of 35% or more of Company Voting Securities by such person;
+provided
+however
+(iii) the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction involving the Company or any of its subsidiaries that requires the approval of the Company's stockholders, whether for such transaction or the issuance of securities in the transaction (a "Business Combination"), unless immediately following such Business Combination: (A) more than 40% of the total voting power of (x) the corporation resulting
+from such Business Combination (the "Surviving Corporation"), or (y) if applicable, the ultimate parent corporation that directly or indirectly has beneficial ownership of 100% of the voting securities eligible to elect directors of the Surviving Corporation (the "Parent Corporation"), is represented by Company Voting Securities that were outstanding immediately prior to such Business Combination (or, if applicable, is represented by shares into which such Company Voting Securities were converted pursuant to such Business Combination), and such voting power among the holders thereof is in substantially the same proportion as the voting power of such Company Voting Securities among the holders thereof immediately prior to the Business Combination, (B) no person (other than any employee benefit plan (or related trust) sponsored or maintained by the Surviving Corporation or the Parent Corporation), is or becomes the beneficial owner, directly or indirectly, of 35% or more of the total voting power of the outstanding voting securities eligible to elect directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) and (C) at least half of the members of the board of directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) following the consummation of the Business Combination were Incumbent Directors at the time of the Board's approval of the execution of the initial agreement providing for such Business Combination (any Business Combination which satisfies all of the criteria specified in (A), (B) and (C) above shall be deemed to be a "NonQualifying Transaction");
+-
+(iv) the stockholders of the Company approve a plan of complete liquidation or dissolution of the Company or the consummation of a sale of all or substantially all of the Company's assets; or
+(v) the occurrence of any other event that the Board determines by a duly approved resolution constitutes a Change in Control.
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; , if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+provided
+that
+"" is as defined in Section 4(c).
+Good Cause
+"" means:
+Good Reason
+(i) a reduction by the Company or its successor of more than 10% in Optionee's rate of annual base salary as in effect immediately prior to such Change in Control;
+(ii) a reduction by the Company or its successor of more than 10% of the Optionee's individual annual target bonus opportunity;
+(iii) a significant and substantial reduction of the Optionee's responsibilities and authority, as compared with the Optionee's responsibilities and authority in effect immediately prior to the Change in Control, or a material adverse change in Optionee's reporting relationship as compared with the Optionee's reporting relationship in effect immediately prior to the Change in Control; or
+(iv) any requirement of the Company that Optionee be based anywhere more than fifty (50) miles from Optionee's primary office location at the time of the Change in Control and in a new office location that is a greater distance from Optionee's principal residence at the time of the Change in Control than the distance from Optionee's principal residence to the Optionee's primary office location at the time of the Change in Control.
+
+Exhibit 10.4
+Red Hat, Inc. (the "Company") and (the "Executive") hereby enter into this agreement (the "Amendment Agreement") effective as of the last date that each of the parties have signed the Amendment Agreement.
+            
+Attachment A hereto shall be applicable to all restricted stock and stock option award agreements not listed on Attachment B hereto including, but not limited to, the award agreements between the Company and the Executive (the "Equity Award Agreements") with the following dates:
+ 
+Accordingly if the Equity Award Agreement includes an attached Appendix A outlining change in control provisions and defining "Good Cause" and "Good Reason," the Equity Award Agreement is hereby amended by replacing its Appendix A with Attachment A hereto. If the Equity Award Agreement does not include an attached Appendix A outlining change in control provisions and defining "Good Cause" and "Good Reason," then such Equity Award Agreement shall be amended by (1) replacing its provisions regarding change in control with the provisions regarding change in control in Attachment A and (2) replacing its defined terms "Good Cause" and "Good Reason" (or definitions of similar concept) with the definitions for those terms (or concepts) in Attachment A.
+The Amendment Agreement and the provisions and definitions set forth in Attachment A hereto supersede and take precedence over any contrary or different provision or definitions regarding change in control, "Good Cause" or "Good Reason" to the extent they relate to equity compensation, set forth in any prior offer letter, Equity Award Agreement or other employment related agreement between the Company and the Executive, except for those agreements listed on Attachment B.
+For purposes of Attachment A, all capitalized terms not defined therein have the meaning ascribed to them in the Non-Qualified Stock Option Agreement issued pursuant to the Red Hat, Inc. 2004 Long-Term Incentive Plan, dated .
+                    
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment Agreement.
+ 
+Notwithstanding anything contained herein to the contrary, if (i) this option is continued, assumed, converted or substituted for immediately following the Change in Control and (ii) within one year after a Change in Control the Optionee's Business Relationship is terminated by the Company or its successor without Good Cause or by the Optionee for Good Reason, all of the Option Shares shall be vested and this option may be exercised at any time within 12 months following such termination, but not later than the Final Exercise Date. Furthermore and notwithstanding anything contained herein to the contrary, if this option is not continued, assumed, converted or substituted for immediately following the Change in Control, the Optionee shall receive a lump sum cash payment within 30 days after the Change in Control in an amount equal to the result of multiplying the Option Shares which have not been exercised by the difference between (x) the Fair Market Value of one Share on the day immediately preceding the Change in Control and (y) the per share exercise price of the option. This option shall be considered to be continued, assumed, converted or substituted for:
+ 
+ 
+For purposes of this Agreement:
+"" means the occurrence of any one of the following events:
+Change in Control
+(i) individuals who, on the Grant Date, constitute the Board (the "Incumbent Directors") cease for any reason to constitute at least a majority of the Board, provided that any person becoming a director subsequent to the initial public offering whose election or nomination for election was approved by a vote of at least a majority of the Directors then on the Board (either by a specific vote or by approval of the proxy statement of the Company in which such person is named as a nominee for director, without written objection to such nomination) shall be an Incumbent Director; , , that no individual initially elected or nominated as a director of the Company as a result of an actual or threatened election contest with respect to directors or as a result of any other actual or threatened solicitation of proxies by or on behalf of any person other than the Board shall be deemed to be an Incumbent Director;
+provided
+however
+ 
+(ii) any "person" (as such term is defined in the Exchange Act and as used in Sections 13(d)(3) and 14(d)(2) of the Exchange Act) is or becomes a "beneficial owner" (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing 35% or more of the combined voting power of the Company's then outstanding securities eligible to vote for the election of the Board (the "Company Voting Securities"); , , that the event described in this paragraph (ii) shall not be deemed to be a Change in Control by virtue of any of the following acquisitions: (A) by the Company or any subsidiary, (B) by any employee benefit plan (or related trust) sponsored or maintained by the Company or any subsidiary, (C) by any underwriter temporarily holding securities pursuant to an offering of such securities, (D) pursuant to a Non-Qualifying Transaction, as defined in paragraph (iii), or (E) by any person of Voting Securities from the Company, if a majority of the Incumbent Board approves in advance the acquisition of beneficial ownership of 35% or more of Company Voting Securities by such person;
+provided
+however
+(iii) the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction involving the Company or any of its subsidiaries that requires the approval of the Company's stockholders, whether for such transaction or the issuance of securities in the transaction (a "Business Combination"), unless immediately following such Business Combination: (A) more than 40% of the total voting power of (x) the corporation resulting from such Business Combination (the "Surviving Corporation"), or (y) if applicable, the ultimate parent corporation that directly or indirectly has beneficial ownership of 100% of the voting securities eligible to elect directors of the Surviving Corporation (the "Parent Corporation"), is represented by Company Voting Securities that were outstanding immediately prior to such Business Combination (or, if applicable, is represented by shares into which such Company Voting Securities were converted pursuant to such Business Combination), and such voting power among the holders thereof is in substantially the same proportion as the voting power of such Company Voting Securities among the holders thereof immediately prior to the Business Combination, (B) no person (other than any employee benefit plan (or related trust) sponsored or maintained by the Surviving Corporation or the Parent Corporation), is or becomes the beneficial owner, directly or indirectly, of 35% or more of the total voting power of the outstanding voting securities eligible to elect directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) and (C) at least half of the members of the board of directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) following the consummation of the Business Combination were Incumbent Directors at the time of the Board's approval of the execution of the initial agreement providing for such Business Combination (any Business Combination which satisfies all of the criteria specified in (A), (B) and (C) above shall be deemed to be a "NonQualifying Transaction");
+-
+(iv) the stockholders of the Company approve a plan of complete liquidation or dissolution of the Company or the consummation of a sale of all or substantially all of the Company's assets; or
+(v) the occurrence of any other event that the Board determines by a duly approved resolution constitutes a Change in Control.
+ 
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; , if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+provided
+that
+"" means conduct involving one or more of the following:
+Good Cause
+ 
+ 
+ 
+ 
+"" means:
+Good Reason
+ 
+ 
+ 
+ 
+ 
+Notwithstanding anything contained herein to the contrary, if (i) this grant of Restricted Stock is continued, assumed, converted or substituted for immediately following the Change in Control and (ii) within one year after a Change in Control the Participant's Business Relationship is terminated by the Company or its successor without Good Cause or by the Optionee for Good Reason, all of the Restricted Stock shall be vested. Furthermore and notwithstanding anything contained herein to the contrary, if this grant of Restricted Stock is not continued, assumed, converted or substituted for immediately following the Change in Control, all of the Restricted Stock shall be treated as vested immediately prior to the Change in Control. This grant of Restricted Stock shall be considered to be continued, assumed, converted or substituted for:
+ 
+ 
+(1) the number of shares of Restricted Stock is adjusted (x) if the Shares are exchanged solely for the common stock of the Parent Corporation or, if there is no Parent Corporation, the Surviving Corporation (as such terms are defined in Appendix A) in a manner which is not materially less favorable than the adjustments made in such transaction to the other outstanding Shares, or (y) otherwise, based on the ration on the day immediately prior to the date of the Change in Control of the fair market value of one share of common stock of the Parent Corporation, or if there is no Parent Corporation, the Surviving Corporation, to the Fair Market Value of one Share,
+(2) if applicable, the shares of Restricted Stock are converted into the common stock of the Parent Corporation or, if there is no Parent Corporation, the Surviving Corporation (as such terms are defined below) and
+(3) there are no other changes to the terms and conditions of this grant that materially and adversely affect this grant.
+For purposes of this Agreement:
+"" means the occurrence of any one of the following events:
+Change in Control
+(i) individuals who, on the Grant Date, constitute the Board (the "Incumbent Directors") cease for any reason to constitute at least a majority of the Board, provided that any person becoming a director subsequent to the initial public offering whose election or nomination for election was approved by a vote of at least a majority of the Directors then on the Board (either by a specific vote or by approval of the proxy statement of the Company in which such person is
+named as a nominee for director, without written objection to such nomination) shall be an Incumbent Director; , , that no individual initially elected or nominated as a director of the Company as a result of an actual or threatened election contest with respect to directors or as a result of any other actual or threatened solicitation of proxies by or on behalf of any person other than the Board shall be deemed to be an Incumbent Director;
+provided
+however
+(ii) any "person" (as such term is defined in the Exchange Act and as used in Sections 13(d)(3) and 14(d)(2) of the Exchange Act) is or becomes a "beneficial owner" (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing 35% or more of the combined voting power of the Company's then outstanding securities eligible to vote for the election of the Board (the "Company Voting Securities"); , , that the event described in this paragraph (ii) shall not be deemed to be a Change in Control by virtue of any of the following acquisitions: (A) by the Company or any subsidiary, (B) by any employee benefit plan (or related trust) sponsored or maintained by the Company or any subsidiary, (C) by any underwriter temporarily holding securities pursuant to an offering of such securities, (D) pursuant to a Non-Qualifying Transaction, as defined in paragraph (iii), or (E) by any person of Voting Securities from the Company, if a majority of the Incumbent Board approves in advance the acquisition of beneficial ownership of 35% or more of Company Voting Securities by such person;
+provided
+however
+(iii) the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction involving the Company or any of its subsidiaries that requires the approval of the Company's stockholders, whether for such transaction or the issuance of securities in the transaction (a "Business Combination"), unless immediately following such Business Combination: (A) more than 40% of the total voting power of (x) the corporation resulting from such Business Combination (the "Surviving Corporation"), or (y) if applicable, the ultimate parent corporation that directly or indirectly has beneficial ownership of 100% of the voting securities eligible to elect directors of the Surviving Corporation (the "Parent Corporation"), is represented by Company Voting Securities that were outstanding immediately prior to such Business Combination (or, if applicable, is represented by shares into which such Company Voting Securities were converted pursuant to such Business Combination), and such voting power among the holders thereof is in substantially the same proportion as the voting power of such Company Voting Securities among the holders thereof immediately prior to the Business Combination, (B) no person (other than any employee benefit plan (or related trust) sponsored or maintained by the Surviving Corporation or the Parent Corporation), is or becomes the beneficial owner, directly or indirectly, of 35% or more of the total voting power of the outstanding voting securities eligible to elect directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) and (C) at least half of the members of the board of directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) following the consummation of the Business Combination were Incumbent Directors at the time of the Board's approval of the execution of the initial agreement providing for such Business Combination (any Business Combination which satisfies all of the criteria specified in (A), (B) and (C) above shall be deemed to be a "NonQualifying Transaction");
+-
+(iv) the stockholders of the Company approve a plan of complete liquidation or dissolution of the Company or the consummation of a sale of all or substantially all of the Company's assets; or
+ 
+(v) the occurrence of any other event that the Board determines by a duly approved resolution constitutes a Change in Control.
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; , if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+provided
+that
+"" means conduct involving one or more of the following:
+Good Cause
+ 
+ 
+ 
+ 
+"" means:
+Good Reason
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 10.5
+ 
+The purpose of this Senior Management Change in Control Severance Policy (the "Policy") is to diminish the distraction of Covered Executives (as defined below) in the event of a threatened or pending Change in Control (as defined below) and to provide financial assistance to any Covered Executive whose employment with Red Hat, Inc. or any of its subsidiaries (the "Company") is terminated under certain circumstances following such a Change in Control.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For purposes of this Policy, a Change in Control means the occurrence of any one of the following events:
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a
+result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; provided, that if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+ 
+If a Covered Executive's employment by the Company shall be terminated by the Company without Good Cause during the 12-month period following a Change in Control or the Covered Executive voluntarily resigns from the Company for Good Reason during the 12-month period following a Change in Control, the Company shall pay the Covered Executive a lump sum cash payment within thirty (30) days after such termination equal to two times the sum of (i) the Covered Executive's current annual base salary plus (ii) an amount equal to the average of the annual bonuses earned by the Covered Executive during the two previous fiscal years. In addition, the Company shall provide for continuation of the Covered Executive's and his or her eligible dependents' coverage under the Company's welfare benefit plans (group life insurance, and comprehensive health, major medical, dental, disability plans) as in effect on the date of termination (or, in connection with the Company's change in benefit plans applicable to employees generally, any coverage substituted for coverage in which the Covered Executive was enrolled on the date of termination) until the earlier of (a) 24 months following the Covered Executive's date of termination or (b) the date the Covered Executive or his or her eligible dependents become eligible for comparable benefits from another employer. The Covered Executive must continue to contribute the employee share of premiums, as from time to time applicable to employees of the Company generally, in order to continue such coverage. In addition, the Covered Executive shall receive a pro-rata incentive bonus (if any) to which he or she would have been entitled in accordance with the Company's annual bonus plan calculated through the Covered Executive's termination, but based on the targets achieved prior to the Covered Executive's date of termination. To the extent such targets do not lend themselves to an interim fiscal year calculation, such pro-rata payment shall be deemed to be no less than the annual target incentive payment, pro-rated for partial fiscal year employment.
+ 
+ 
+ 
+ 
+In the event that the Excise Tax is later determined by the Accountant or the Internal Revenue Service to exceed the amount taken into account hereunder at the time the Gross-up Payment is made (including by reason of any payment the existence or amount of which cannot be determined at the time of the Gross-up Payment), the Company shall make an additional Gross-up Payment in respect of such excess (plus any interest or penalties payable with respect to such excess) at the time that the amount of such excess is finally determined.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

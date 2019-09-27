@@ -1,0 +1,84 @@
+FILE:CA/CA-8K-20060711132442.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+WASHINGTON, DC 20549
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+FORM 8-K
+CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+(Date of earliest event reported)
+Date of report: July 11, 2006
+(Exact Name of Registrant as Specified in Charter)
+CA, Inc.
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+           
+ 
+ 
+TABLE OF CONTENTS
+ 
+2
+ 
+Item 8.01. Other Events.
+On July 11, 2006, CA, Inc. ("CA") announced that it had completed its acquisition of XOsoft Inc. ("XOsoft") by merger. XOsoft is a leading provider of continuous application availability solutions that minimize application downtime and accelerate time to recovery. A copy of the press release announcing the completion of the acquisition is attached hereto as Exhibit 99.1.
+Item 9.01. Financial Statements and Exhibits.
+(d) 
+Exhibits
+ 
+3
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+4
+
+ 
+Exhibit 99.1
+ISLANDIA, N.Y., July 11, 2006  CA (NYSE: CA) today continued to extend its storage management portfolio with the acquisition of privately-held XOsoft, Inc., a leading provider of continuous application availability solutions that minimize application downtime and accelerate time to recovery. The acquisition enables CA to offer a complete recovery management solution that allows customers to minimize the risk of data loss, reduce the time spent on backups and expedite recovery of critical business services.
+XOsoft's products provide uninterrupted access to all types of file and application serversincluding Windows Servers, Microsoft Exchange, Microsoft SQL, Microsoft IIS and Oracleand allow instantaneous recovery from any type of disaster. CA plans to integrate XOsoft's products with BrightStor ARCserve Backup to deliver a complete solution for protecting and recovering critical applications. Using XOsoft's patented technology, CA also will develop a next-generation information protection platform to unify and simplify recovery operations.
+"IT organizations need to ensure the availability and recoverability of email, database and other business applications across their storage infrastructure," said Bob Davis, senior vice president and general manager of CA's Storage Management business unit. "With this acquisition, CA is meeting customers' requirements for protecting, securing and quickly recovering critical applications and information from any location across the enterprise."
+Businesses today rely extensively on their IT services and systems to support their day-to-day operations. Traditional backup alone can't ensure the continuity and recoverability of these critical business resources. A multi-layered approach is thus required to provide the appropriate level of protection for each resource based on its importance and value to the business. With the addition of XOsoft to its intelligent storage management portfolio, CA is enabling its customers to implement this kind of multi-layered approachincluding traditional backup, offsite vaulting and disaster recovery.
+"Although it will not be found on a balance sheet, information is a valuable business asset that should be managed and protected appropriately. To fulfill their business, IT and compliance requirements, companies must be able to ensure that their critical business information is readily accessible and quickly recoverable, if necessary," said Brian Babineau, analyst with the Enterprise Strategy Group (ESG). "The acquisition of XOsoft provides CA with the capability to deliver the combination of traditional backup and advanced recovery management technologies necessary by offering several data protection options to its enterprise customers."
+5
+ 
+CA intends to market and support XOsoft's complete family of products through its direct sales force and authorized XOsoft and CA partners. The products encompass:
+Data protection via real-time WAN replication of file servers and databases for Windows Servers, Microsoft Exchange, Microsoft SQL, Microsoft IIS and Oracle
+                 
+Continuous data protection that provides instant data recovery in the event of isolated data corruption episodes
+                 
+Application availability via fully automated failover and failback for file servers, Exchange, SQL, IIS and Oracle
+                 
+Disaster recovery site compliance through fully automated, scheduled tests of an organization's disaster recovery system without disrupting the production environment or existing data protection
+                 
+Data distribution and consolidation for centralized remote branch office backup, content delivery and web publishing
+                 
+CA's BrightStor ARCserve Backup provides customers with high-performance disk-to-disk-to-tape, encryption, integrated antivirus protection, media management and snapshot backup and recovery capabilities. XOsoft complements these capabilities by adding continuous protection and quick recovery, significantly reducing backup workloads and slashing backup windows.
+"CA's broad and deep storage technology portfolio, combined with its vast global support and development resources, will be a tremendous benefit to our large and growing customer base," said Leonid Shtilman, CEO and founder of XOsoft, who is joining CA as senior vice president of storage management software. "We look forward to working as part of the CA team to better serve our customers."
+CA did not disclose terms of the transaction, which follows its recent acquisition of MDY Group International, Inc. a leading provider of records management software and services.
+XOsoft serves more than 1,600 customers in 42 countries. The company was founded in 1999 and is headquartered in Waltham, MA with offices in New York, California and Israel. For additional information, please visit .
+http://ca.com/xosoft
+About CA
+CA (NYSE: CA), one of the world's largest information technology (IT) management software companies, unifies and simplifies the management of enterprise-wide IT. Founded in 1976, CA is headquartered in Islandia, N.Y., and serves customers in more than 140 countries. For more information, please visit .
+http://ca.com
+About XOsoft
+XOsoft's continuous application and information availability solutions keep enterprises working. The company's patented software platforms significantly lower
+6
+the risks of decreased productivity and lost revenue by minimizing application downtime and ensuring that the most up-to-date information is available throughout the enterprise. Many of the world's largest corporations and government agencies have chosen XOsoft to ensure uninterrupted access to their most valuable information assets. For more information, please visit .
+www.xosoft.com
+Copyright  2006 CA. All Rights Reserved. One CA Plaza, Islandia, N.Y. 11749. All trademarks, trade names, service marks, and logos referenced herein belong to their respective companies.
+ 
+7
+
+

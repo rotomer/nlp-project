@@ -1,0 +1,75 @@
+FILE:VRSN/VRSN-8K-20120713162237.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On July 13, 2012, VeriSign, Inc. ("VeriSign" or the "Company") announced certain information regarding its results of operations for the fiscal quarter ended March 31, 2012 and certain other information. A copy of this press release is attached hereto as Exhibit 99.1.
+The information in this Form 8-K and the Exhibit attached hereto shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+Exhibit Index
+ 
+ 
+
+Exhibit 99.1
+ 
+More than seven million domain names were added to the Internet in the first quarter of 2012, bringing the total number of registered domain names to more than 233 million worldwide across all domains, according to the latest Domain Name Industry Brief, published by (NASDAQ: VRSN), the trusted provider of Internet infrastructure services for the networked world.
+RESTON, VA  July 13, 2012 
+VeriSign, Inc.
+The increase of 7.5 million domain names equates to a growth rate of 3.3 percent over the fourth quarter of 2011, and marks the fifth straight quarter with greater than two percent growth. Registrations have grown by more than 23 million, or 11 percent, since the first quarter of 2011.
+In the first quarter of 2012, Verisign began tracking the ccTLDs launched by ICANN through the IDN ccTLD Fast Track Process, which enabled countries and territories that use languages based on scripts other than Latin to offer users domain names in non-Latin characters. This additional tracking resulted in an additional 808,967 ccTLD names being reported in the first quarter that were not previously reported in prior periods. For further information on the Domain Name Industry Brief methodology, please refer to page six of the report.
+The .com and .net Top-Level Domains (TLDs) experienced aggregate growth in the first quarter, reaching a combined total of approximately 116.7 million active domain names in the adjusted zone for .com and .net. This represents a 2.5 percent increase in the base over the fourth quarter of 2011 and an 8.1 percent increase over the first quarter of 2011. Additionally, the .com registry grew to more than 100 million domain names during the quarter.
+New .com and .net registrations totaled 8.9 million during the quarter. This is a 7.7 percent increase year-over-year in new registrations. The .com/.net renewal rate for the first quarter of 2012 was 73.9 percent, up from 73.5 percent for the fourth quarter of 2011.
+Verisign's average daily Domain Name System (DNS) query load during the first quarter of 2012 was 66 billion, with a peak of 74 billion. Compared to the previous quarter, the daily average increased 4 percent and the peak decreased 37 percent.
+IPv6 and Security
+The latest issue of the Domain Name Industry Brief highlights key security issues that Internet stakeholders should consider in order to support a smooth transition to IPv6, and identifies steps that organizations should take to protect their systems.
+The benefits of IPv6 have been well documented. As almost all available IPv4 addresses within the Internet Assigned Numbers Authority (IANA) block have been depleted, and Regional Internet Registries (RIRs) will begin to exhaust their IPv4 address pools at varying rates in the near future, this should provide the impetus for widespread adoption of IPv6. Coupled with the continued deployment of DNS Security Extensions (DNSSEC), IPv6 should ultimately provide the stable and secure base for the next generation of Internet evolution.
+Responsibility for making that happen lies among all Internet stakeholders. To support a smooth IPv6 transition, everyone from infrastructure operators and service providers to application developers and users will have to work together to support and develop IPv6 capabilities by debugging issues with new software and applications that are IPv6 only, and refining interworking and transitional co-existence with IPv4. But most importantly, Internet stakeholders should focus on security.
+IPv6 presents an interesting security paradox. The capabilities IPv6 provides will enhance online security, but they may also present risks if not properly managed.
+To ensure a smooth IPv6 transition and eliminate security pitfalls, there are several steps that organizations can take to protect their systems, including:
+ 
+ 
+ 
+ 
+Verisign publishes the Domain Name Industry Brief to provide Internet users throughout the world with significant statistical and analytical research and data on the domain name industry and the Internet as a whole. Copies of the 2012 first quarter Domain Name Industry Brief, as well as previous reports, can be obtained at: .
+www.verisigninc.com/DNIB
+About Verisign
+VeriSign, Inc. (NASDAQ: VRSN) is the trusted provider of Internet infrastructure services for the networked world. Billions of times each day, Verisign helps companies and consumers all over the world connect between the dots. Additional news and information about the company is available at .
+www.VerisignInc.com
+VRSNF
+Statements in this announcement other than historical data and information constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. These statements involve risks and uncertainties that could cause Verisign's actual results to differ materially from those stated or implied by such forward-looking statements. The potential
+risks and uncertainties include, among others, the uncertainty of future revenue and profitability and potential fluctuations in quarterly operating results due to such factors as increasing competition, pricing pressure from competing services offered at prices below our prices and changes in marketing practices including those of third-party registrars; challenging global economic conditions; challenges to ongoing privatization of Internet administration; the outcome of legal or other challenges resulting from our activities or the activities of registrars or registrants, or litigation generally; new or existing governmental laws and regulations; changes in customer behavior, Internet platforms and web-browsing patterns; the uncertainty of whether Verisign will successfully develop and market new services; the uncertainty of whether our new services will achieve market acceptance or result in any revenues; system interruptions; security breaches; attacks on the Internet by hackers, viruses, or intentional acts of vandalism; the uncertainty of the expense and duration of transition services and requests for indemnification relating to completed divestitures; the uncertainty of whether Project Apollo will achieve its stated objectives; the impact of the introduction of new gTLDs and whether our gTLD applications or the applicants' gTLD applications for which we have contracted to provide back-end registry services will be successful; and the uncertainty of whether the .com Registry Agreement renewal will occur on or before November 30, 2012, if at all. More information about potential factors that could affect the Company's business and financial results is included in Verisign's filings with the Securities and Exchange Commission, including in the Company's Annual Report on Form 10-K for the year ended December 31, 2011, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Verisign undertakes no obligation to update any of the forward-looking statements after the date of this announcement.
+Contacts
+Investor Relations: David Atchley, , 703-948-4643
+datchley@verisign.com
+Media Relations: Erin Collins, , 571-455-8512
+ecollins@verisign.com
+2012 VeriSign, Inc. All rights reserved. VERISIGN, the VERISIGN logo, and other trademarks, service marks, and designs are registered or unregistered trademarks of VeriSign, Inc. and its subsidiaries in the United States and in foreign countries. All other trademarks are property of their respective owners.
+
+

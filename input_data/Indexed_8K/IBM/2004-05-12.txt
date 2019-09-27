@@ -1,0 +1,354 @@
+FILE:IBM/IBM-8K-20040512131603.txt.gz
+EVENTS:	Other events
+TEXT:
+ITEM: Other events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 5.  Other Events
+ 
+Attachment I of this Form 8-K contains presentation materials that are being used by John E. Kelly III, Senior Vice President and Group Executive, Systems and Technology Group, during a conference call with IT analysts today.
+ 
+IBM's web site  (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+Date:  May 12, 2004
+ 
+ 
+ 
+Good afternoon in the east; good morning out west
+ - 
+                 
+Thanks for joining
+ - 
+                 
+I'll provide business update; Bernie Meyerson will provide technology update
+ - 
+                 
+Formed STG earlier this year
+ - 
+                 
+We're a systems business with incredible chip making capabilities
+ - 
+                 
+Top priority is to provide leadership technology for IBM servers
+ - 
+                 
+Extremely committed to OEM business:  2/3 external  1/3 internal
+ - 
+                 
+Four major segments:  Power Architecture, ASICs, value added foundry and E&TS
+ - 
+                 
+ 
+Performance improvements will be based more on integration and less on lithography
+ - 
+                 
+Common objectives and incentives
+ - 
+                 
+No coincidence that our upswing was around the time of POWER4 launch
+ - 
+                 
+Now we've had 13 consecutive quarters of server share growth
+ - 
+                 
+Also produced Summit chip set and T-rex
+ - 
+                 
+Begin shipping POWER5 in iSeries this quarter
+ - 
+                 
+POWER5 is a truly incredible microprocessor
+ - 
+                 
+Delivering our third generation of dual-core while others consider their first
+ - 
+                 
+More than a quarter billion transistors on a die smaller than 400 square millimeters
+ - 
+                 
+Our value proposition same for OEMs as it is for IBM
+ - 
+                 
+Provide a combination of assets:  IP, design skills, ASICs, Power Architecture, foundry
+ - 
+                 
+We're able to integrate these offerings
+ - 
+                 
+These technology leaders have chosen to join with IBM at our 300 mm development center in East Fishkill
+ - 
+                 
+Two groups:
+ - 
+                 
+AMD, Sony and Toshiba on SOI
+Chartered, Infineon and Samsung on bulk silicon
+Creating a global technology platform
+ - 
+                 
+Overseas companies have invested more than half a billion dollars and created more than 150 jobs in our NY facility
+ - 
+                 
+Leverage with suppliers and tool makers
+ - 
+                 
+From development, we move into manufacturing
+ - 
+                 
+Our fabs are designed to be flexible
+ - 
+                 
+300 mm designed from 130 nm to 65 nm
+ - 
+                 
+Burlington designed from .25 to .13
+ - 
+                 
+We'll use our partners to supplement our capacity
+ - 
+                 
+ 
+Slide 8
+ 
+Much has been written on our yields recently.  I want to take a minute to let you know where things stand.
+ 
+As our CFO, John Joyce, said when we reported our first quarter earnings, our 200 mm yields are at or above plan while our
+300 mm yields, while improving, are not yet where we want them to be.
+ 
+The next chart illustrates those comments.  As you can see, our 130 nm, 300 mm defect densities  the number of defects in a given section of silicon  are showing rapid improvement.  As you can see, we are getting much closer to where we want to be.
+ 
+It's important to point out here that we are working on extremely complex logic.  At a given lithography node we can provide up to 20 percent higher speeds than our competition, though in some cases these advanced chips are more difficult to yield.   And while the traditional foundries currently have less than 20 percent of their volumes in 130 nm or smaller, about 50 percent of our volumes are 130 nm or below.
+ 
+As John Joyce suggested, we expect to do a better job of meeting customer demand in second quarter
+We are totally and deeply committed to Power Architecture
+ - 
+                 
+World's most scalable architecture
+ - 
+                 
+At high end:  third generation of dual core microprocessors
+ - 
+                 
+970 series used in PowerMacs and Xserve and in IBM blade servers
+ - 
+                 
+Embedded series in wide range of applications including Blue Gene
+ - 
+                 
+Agreement with AMCC expands Power, but we will continue to design and build embedded Power cores as building blocks
+ - 
+                 
+Binary compatibility across lines
+ - 
+                 
+Power Everywhere launched on March 31
+ - 
+                 
+Just last week announced that Power will be used in in car collision avoidance system in United Arab Emirates
+ - 
+                 
+Licensing widely to expand community and ecosystem
+ - 
+                 
+Power Everywhere website has more than 40K hits
+ - 
+                 
+Leader in high end 5 consecutive years
+ - 
+                 
+Differentiated offerings:
+ - 
+                 
+More than 90 percent first time right designs.  Huge advantage for customers
+Unique technologies such as eDRAM
+Higher gate counts
+Lower power
+Less capital intensive
+ - 
+                 
+Strong customer interest
+ - 
+                 
+Profitable every quarter
+ - 
+                 
+Growing strongly
+ - 
+                 
+More than 1000 engineers worldwide
+ - 
+                 
+Customer response validates our strategy
+ - 
+                 
+Customer list is a who's who of technology leaders
+ - 
+                 
+Expecting improved financial results this year
+ - 
+                 
+[O]
+LOG
+ 
+Technology Business Update
+ 
+ 
+John E. Kelly III
+Senior Vice President and Group Executive
+Systems and Technology Group / Technology
+ 
+ 
+ 
+IBM
+Systems and Technology Group
+ 
+Technology Strategy
+ 
+[GRAPHIC]
+ 
+Support IBM systems
+ - 
+                 
+Leadership technology
+ - 
+                 
+Leverage OEM and E&TS businesses for scale
+ - 
+                 
+Ser
+ver Revenue Share
+ 
+[CHART]
+POW
+ER5 Leadership
+ 
+World s most advanced microprocessor
+ - 
+                 
+Third generation dual core
+ - 
+                 
+Simultaneous multithreading
+ - 
+                 
+Dynamic power management
+ - 
+                 
+High level of integration
+ - 
+                 
+ 
+Tec
+hnology Value Proposition
+ 
+ 
+ - 
+                 
+Time to Market
+ - 
+                 
+High Performance
+ - 
+                 
+Customization
+Tec
+hnology Development Partnerships
+ 
+Man
+ufacturing Strategy
+ 
+Imp
+roving Yields
+ 
+ 
+Pow
+er Architecture Investment
+ 
+[CHART]
+Pow
+er Everywhere
+Architecture for Silicon Innovation
+ 
+Launched March 31st
+ - 
+                 
+ 
+New application: UAE University-Telematics
+ - 
+                 
+ 
+New licensees: Sony, AMCC
+ - 
+                 
+ 
+www.ibm.com/power:
+ - 
+                 
+ 
+>40K hits
+ - 
+                 
+>1000 inquiries
+ - 
+                 
+>600 downloads
+ - 
+                 
+ 
+Pro
+ven ASIC Success
+ 
+Gate Count
+ 
+[LOGO]
+ 
+[LOGO]
+ 
+[LOGO]
+ 
+[LOGO]
+ 
+High-end leader / deploying into low power segment
+ - 
+                 
+ 
+Differentiated ASICs
+ - 
+                 
+First Time Right > 90%
+ - 
+                 
+Unique technologies, i.e. eDRAM
+ - 
+                 
+Very high gate count
+ - 
+                 
+Very low power
+ - 
+                 
+Eng
+ineering and Technology Services (E&TS)
+ 
+[CHART]
+ 
+ - 
+                 
+1Q04 double-digit revenue growth both year-to-year and sequentially
+ - 
+                 
+More than 1000 engineers designing chips to systems
+Tec
+hnology Client Perspective
+ 
+
+

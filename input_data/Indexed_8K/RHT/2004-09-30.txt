@@ -1,0 +1,78 @@
+FILE:RHT/RHT-8K-20040930071805.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement
+ 
+On September 29, 2004, Red Hat, Inc., a Delaware company (the "Company") entered into a definitive Asset Purchase Agreement with Netscape Communications Corporation and America Online, Inc. to acquire substantially all of the assets of their former Netscape Security Solutions unit. The products to be acquired are derived from the former Netscape Enterprise Suite and include Netscape Directory Server and Netscape Certificate Management System. Red Hat plans to start marketing these products as part of its Open Source Architecture over the next 6 to 12 months.
+ 
+Red Hat's acquisition of the Netscape Security Solutions assets is expected to be completed in Red Hat's third fiscal quarter of 2004. The aggregate purchase price payable by Red Hat upon completion of the acquisition is $20.5 million in cash. An additional $2.5 million would be payable by Red Hat contingent on certain future customer orders being placed on or before April 30, 2005. The acquisition is subject to customary conditions to closing but is not subject to any further Board or stockholder approvals of any of the parties.
+ 
+A copy of the press release announcing the Asset Purchase Agreement is filed as Exhibit 99.1 to this report and incorporated herein by this reference.
+ 
+Item 9.01 Financial Statements and Exhibits
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+ 
+ 
+Contacts:
+ 
+Leigh Day
+Red Hat, Inc.
+(919)-754-4369
+ 
+ 
+ 
+RALEIGH, NC, Sept. 30 2004 - Red Hat, Inc. (Nasdaq: RHAT), the world's leading provider of open source solutions to the enterprise, today announced that it has entered into a definitive asset purchase agreement with America Online, Inc. to acquire certain assets of Netscape Security Solutions.
+ 
+The products to be acquired are derived from the Netscape Enterprise Suite and include Netscape Directory Server and Netscape Certificate Management System. Red Hat plans to start marketing these products as part of its Open Source Architecture over the next 6 to 12 months. Customers will then benefit from enhanced security, manageability and office productivity as these technologies are optimized for devices and applications across the Open Source Architecture.
+ 
+"Red Hat is committed to building a secure computing environment in the enterprise," said Paul Cormier, Executive Vice President of Engineering at Red Hat. "Directory Server and Certificate Management System will enable the integration of the desktop with a network-wide set of computing services that up until now had only been available from a small set of proprietary vendors."
+ 
+Netscape Directory Server is an LDAP server that provides greater manageability by centralizing application settings, user profiles, group data, policies and access control information into a network-based registry. Directory Server simplifies user management by significantly reducing data redundancy. Security is also improved by enabling administrators to store policies and access control information in the directory for a single authentication source. AOL currently has directory server deployed to manage information throughout its organization.
+ 
+Netscape Certificate Management System provides a security framework designed to authenticate the identity of users and ensure privacy of communications. Unlike passwords, certificates cannot be easily stolen thus they provide a more reliable method of verifying user identity and preventing identity theft. Customers utilizing the Certificate Management System include federal government agencies and AOL.
+"We believe the acquisition of these Netscape assets has tremendous long-term strategic value for the open source industry and Red Hat Enterprise Linux subscribers," said Matthew Szulik, Chairman and CEO at Red Hat. "Directory Server and Certificate Management System have already been widely deployed in the enterprise and are mature pieces of infrastructure software. The technologies will provide a secure switchboard with certificates for all traffic in the open source architecture."
+ 
+Red Hat's acquisition of the Netscape Security Solutions assets is expected to be completed in Red Hat's third fiscal quarter of 2004. The acquisition is subject to customary conditions to closing but is not subject to any further Board or stockholder approvals of any of the parties. For more information on the Directory Server and Certificate Management System visit or call 866-2-REDHAT.
+http://enterprise.netscape.com
+ 
+ 
+About Red Hat, Inc.
+ 
+Red Hat, the world's leading open source and Linux provider, is headquartered in Raleigh, NC with satellite offices spanning the globe. Red Hat is leading Linux and open source solutions into the mainstream by making high quality, low cost technology accessible. Red Hat provides operating system software along with middleware, applications and management solutions. Red Hat also offers support, training and consulting services to its customers worldwide and through top-tier partnerships. Red Hat's Open Source strategy offers customers a long term plan for building infrastructures that are based on and leverage open source technologies with focus on security and ease of management. Learn more: http://www.redhat.com.
+ 
+Forward-Looking Statements
+ 
+Any statements in this press release about future expectations, plans and prospects for the Company, including statements containing the words "believes," "anticipates," "plans," "expects," "will," and similar expressions, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by such forward-looking statements as a result of various important factors, including: the factors discussed in our most recent Quarterly Report on Form 10-Q filed with the SEC (a copy of which may be accessed through the SEC's website at http://www.sec.gov), reliance upon strategic relationships, management of growth, the possibility of undetected software errors, the risks of economic downturns generally, and in Red Hat's industry specifically, the risks associated with competition and competitive pricing pressures and the viability of the Internet. In addition, the forward-looking statements included in this press release represent the Company's views as of the date of this press release and these views could change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing the Company's views as of any date subsequent to the date of the press release.
+
+

@@ -1,0 +1,1391 @@
+FILE:CI/CI-8K-20060512151701.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Item 1.01.
+Entry into a Material Definitive Agreement.
+ 
+On May 11, 2006, CIGNA Corporation entered into the
+Amended and Restated Revolving Credit and
+Letter of Credit Agreement with the lenders named therein, Citibank, N.A.,
+as administrative agent,
+Citigroup Global Markets Inc.,
+Banc of America Securities LLC, and
+J.P. Morgan Securities Inc.,
+as joint lead arrangers and joint book managers,
+Bank of America, N.A.,
+as syndication agent, and
+the Bank of Tokyo-Mitsubishi UFJ, Ltd.,
+New York branch and
+ 
+Deutsche Bank AG New York branch
+,
+as co-documentation agents. Under the Credit Agreement, CIGNA can borrow up to an aggregate principal amount of $1.75 billion, which includes a letter of credit sub-limit facility of up to an aggregate amount of $1.25 billion. The Company entered into the Credit Agreement: (a) for general corporate purposes, including support for the issuance of commercial paper and to obtain statutory reserve credit for certain reinsurance arrangements; and (b) to replace its previous credit agreement.
+Various interest rate options are available under the Credit Agreement. Depending on CIGNAs long-term senior unsecured debt rating, the Company pays: (a) commitment fees on the lenders aggregate commitment under the credit agreement ranging from 0.06% to 0.175%, which are reduced by the aggregate amount of letters of credit issued; and (b) letter of credit commissions ranging from 0.3% to 0.875% on the amount of letters issued and outstanding. At May 11, 2006, the annual rate was 0.1% for the commitment fees and 0.5% for the letter of credit commissions. The Credit Agreement expires May 11, 2011.
+The Credit Agreement contains customary restrictive covenants, including a financial covenant requiring CIGNA to maintain a total debt to capital ratio at or below 0.40 to 1.00. The failure to comply with customary conditions or the occurrence of events of default, customary for agreements of this kind, would: (a) prevent the Company from receiving any advances or having letters of credit issued; and (b) generally require the repayment of any outstanding advances or the provision of collateral for any issued and outstanding letters of credit under the Credit Agreement. CIGNA has not received any advances under the Credit Agreement at this time, nor are there any letters of credit currently issued under the Credit Agreement.
+ 
+The agents and the lenders under the Credit Agreement and their affiliates have provided, and future lenders under the Credit Agreement may provide, various investment banking, other commercial banking and financial advisory services to CIGNA for which they have received, and may in the future receive, customary fees.
+The description above is a summary and is qualified in its entirety by the Credit Agreement, which is filed as Exhibit 10.1 to this report.
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant.
+The information described above under 
+Item 1.01.
+Entry into a Material Definitive Agreement is hereby incorporated by reference.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Exhibit 10.1
+ 
+EXECUTION COPY
+ 
+ 
+ 
+AMENDED AND RESTATED REVOLVING CREDIT AND LETTER OF CREDIT AGREEMENT dated as of May 11, 2006 among CIGNA CORPORATION, a Delaware corporation (together with its successors and assigns, the "
+Company
+"), the financial institutions (together with their respective successors and assigns, each a "
+Bank
+" and, collectively, the "
+Banks
+") listed under the heading "Banks" on the signature pages hereof, and CITIBANK, N.A. ("
+Citibank
+"), as administrative agent (in such capacity, together with its successors in such capacity, the "
+Administrative Agent
+") as herein provided.
+The Company, certain banks and Citibank, N.A., as Administrative Agent are parties to a Revolving Credit and Letter of Credit Agreement dated as of May 27, 2004 (the "
+Existing Agreement
+"). The Company has requested that the Banks amend the Existing Agreement in certain respects and, as so amended, to restate the Existing Agreement, and the parties are prepared to do so on the terms and conditions hereof. Accordingly, effective on the Restatement Effective Date as hereinafter defined, the Existing Agreement is hereby amended and restated to read in its entirety as follows:
+ 
+ 
+SECTION 1.01.
+Certain Defined Terms
+.
+As used in this Agreement, the following terms shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined):
+ 
+"
+Administrative Agent
+" has the meaning set forth in the introduction hereto.
+ 
+"
+Administrative Agent's Account
+" means the account of the Administrative Agent maintained by the Administrative Agent at Citibank at Two Penns Way, Suite 200, New Castle, Delaware 19720, ABA#021000089, Account No. 3685 2248, Account Name: NAIB Agency Medium Term Finance/Reference: CIGNA, Attention:  Dawayne Sims, or such other account as may from time to time be designated by the Administrative Agent to the Company and the Banks in writing.
+ 
+"
+Advance
+" means an advance by a Bank to the Company as part of a Borrowing and refers to a Base Rate Advance or a Eurodollar Rate Advance (each of which shall be a "
+Type
+" of Advance).
+ 
+"
+Affiliate
+" means, as to any Person, any other Person that, directly or indirectly, controls, is controlled by or is under common control with such Person.
+ 
+"
+Applicable Commitment Fee Rate
+" means, for any Rating Level Period, the rate per annum set forth in Schedule 2 opposite the reference to such Rating Level Period under the heading "Applicable Commitment Fee Rate". Each change in the Applicable Commitment Fee Rate resulting from a Rating Level Change shall be effective on the date of such Rating Level Change.
+ 
+"
+Applicable Issuing Office
+" means, with respect to any Bank, such office of such Bank as such Bank may from time to time specify to the Company and the Administrative Agent as the office at which it participates in Letters of Credit.
+"
+Applicable Lending Office
+" means, with respect to any Bank, such Bank's Domestic Lending Office in the case of any Base Rate Advance and such Bank's Eurodollar Lending Office in the case of any Eurodollar Rate Advance.
+"
+Applicable Margin
+" means, with respect to any Eurodollar Rate Advance, for any Rating Level Period, the rate per annum set forth in Schedule 2 opposite the reference to such Rating Level Period under the heading "Applicable Margin". Each change in the Applicable Margin resulting from a Rating Level Change shall be effective on the date of such Rating Level Change.
+"
+Applicable Percentage
+" means, with respect to any Bank, at any time, the ratio, expressed as a percentage, of (i) the aggregate amount of such Bank's Commitment at such time to (ii) the Total Commitments at such time.
+"
+Arbor
+" means Arbor Reinsurance Company, Limited, an indirect subsidiary of the Company organized under the laws of Bermuda.
+ 
+"
+Arbor Letter of Credit
+" means a Letter of Credit (which shall be a Multi-Bank Letter of Credit hereunder) issued hereunder in favor of Connecticut General for the account of Arbor, for the purpose of enabling Connecticut General to obtain statutory reserve credit for cessions to non-admitted reinsurers, in substantially the form of Exhibit A.
+ 
+"
+Assignment and Assumption
+" means an assignment and assumption entered into by a Bank and an Eligible Bank (with the consent of any party whose consent is required by Section 10.06), and accepted by the Administrative Agent, in the form of Exhibit D or any other form approved by the Administrative Agent.
+ 
+"
+Bank
+" and "
+Banks
+" have the meanings set forth in the introduction hereto (and shall include each Issuing Bank unless the context otherwise requires).
+ 
+"
+Base Rate
+" means, for any day, a fluctuating interest rate per annum in effect from time to time, which rate per annum shall at all times be equal to the higher of:
+ 
+(a) the rate of interest announced publicly by Citibank in New York, New York from time to time as Citibank's base rate; and
+ 
+(b) 0.50% per annum above the Federal Funds Rate for such day.
+ 
+"
+Base Rate Advance
+" means an Advance that bears interest as provided in Section 3.06(a).
+ 
+ 
+"
+Beneficiary
+" means the beneficiary of a Letter of Credit.
+ 
+"
+Borrowing
+" means a borrowing consisting of simultaneous Advances of the same Type made by each of the Banks pursuant to Section 3.01.
+ 
+"
+Business Day
+" means a day of the year on which commercial banks are not required or authorized by law to close in New York City and, if the applicable Business Day relates to any Eurodollar Rate Advance, on which dealings in foreign currencies and exchange between banks may be carried out in the London interbank market.
+ 
+"
+Change in Control
+" means any of the following events:
+ 
+(a) the Company is merged, consolidated or reorganized into or with another corporation or other Person, and as a result of such merger, consolidation or reorganization less than a majority of the combined voting power of the then outstanding securities of the corporation or other Person that is the survivor of such merger, consolidation or reorganization immediately after such transaction is held in the aggregate by the holders of Voting Stock immediately prior to such transaction; or
+ 
+(b) the Company sells all or substantially all of its assets to any other corporation or other Person, and less than a majority of the combined voting power of the then outstanding securities of such corporation or other Person immediately after such transaction is held in the aggregate by the holders of Voting Stock immediately prior to such sale; or
+ 
+(c) any "person" or "group" (as such terms are used for purposes of Sections 13(d) and 14(d) of the Exchange Act, whether or not applicable, except that for purposes of this paragraph (c) such person or group shall be deemed to have "beneficial ownership" of all shares that such person or group has the right to acquire, whether such right is exercisable immediately or only after the passage of time) is or becomes the "beneficial owner" (as such term is used in Rule 13d-3 promulgated pursuant to the Exchange Act), directly or indirectly, of more than 30% of the aggregate voting power of all Voting Stock; or
+ 
+(d) during any period of 25 consecutive calendar months, a majority of the Board of Directors of the Company shall no longer be composed of individuals (i) who were members of said Board on the first day of such period, (ii) whose election or nomination to said Board was approved by individuals referred to in clause (i) above constituting at the time of such election or nomination at least a majority of said Board or (iii) whose election or nomination to said Board was approved by individuals referred to in clauses (i) and (ii) above constituting at the time of such election or nomination at least a majority of said Board.
+ 
+"
+Citibank
+" means Citibank, N.A., a national banking association, and its successors and assigns.
+ 
+ 
+"
+Collateral Account
+" has the meaning set forth in Section 2.05(a).
+ 
+"
+Commitment
+" means, at any time, for any Bank, the sum of (i) the amount set forth opposite the name of such Bank on Schedule 1 (or, if such Bank has entered into an Assignment and Assumption, set forth for such Bank in the register maintained by the Administrative Agent pursuant to Section 10.06(b)), subject to the provisions of Sections 3.04(b) relating to reductions of the Commitments.
+ 
+"
+Company
+" has the meaning set forth in the introduction hereto.
+ 
+"
+Confidential Information
+" means information that the Company furnishes to the Administrative Agent or any Bank in a writing designated as confidential, but does not include any such information that is or becomes generally available to the public or that is or becomes rightfully available to the Administrative Agent or such Bank from a source other than the Company.
+ 
+"
+Confirming Bank
+" means, with respect to any Letter of Credit and any Bank, any other bank that has confirmed, by a document acceptable to the Beneficiary, the obligations of such Bank under such Letter of Credit.
+ 
+"
+Connecticut General
+" means Connecticut General Life Insurance Company, a Connecticut life insurance company.
+ 
+"
+Consolidated Subsidiary
+" means, at any time, any Subsidiary or other entity the accounts of which would, in accordance with generally accepted accounting principles, be consolidated with those of the Company in its consolidated financial statements if such statements were prepared as of such date.
+ 
+"
+Continue
+" and "
+Continuation
+" refers to the continuation of Eurodollar Rate Advances from one Interest Period to the next as Eurodollar Rate Advances.
+ 
+"
+Convert
+", "
+Conversion
+" and "
+Converted
+" each refers to a conversion of Advances of one Type into Advances of the other Type pursuant to Section 3.07 or 3.08.
+ 
+"
+Cover
+" has the meaning set forth in Section 2.05(b).
+ 
+"
+Debt
+" of any Person means (a) indebtedness of such Person for borrowed money, (b) obligations of such Person evidenced by bonds, debentures, notes or other similar instruments, (c) obligations of such Person to pay the deferred purchase price of property or services, (d) obligations of such Person as lessee under leases which shall have been or should be, in accordance with generally accepted accounting principles, recorded as capital leases, (e) Debt of others secured by a Lien on the property of such Person, whether or not the respective Debt so secured has been assumed by such Person (but excluding, in the case of this clause (e), involuntary Liens on the property of such Person that are being contested in good faith and by appropriate proceedings and for which adequate reserves with respect thereto are maintained on the books of such Person), and (f) obligations of such Person under direct or indirect guaranties in respect of, and obligations (contingent or otherwise) to purchase or otherwise acquire, or otherwise to assure a creditor against loss in respect of, indebtedness or obligations of others of the kinds referred to in clauses (a) through (e) above (but excluding, in the case of this clause (f), involuntary obligations of such Person that are being contested in good faith and by appropriate proceedings and for which adequate reserves with respect thereto are maintained on the books of such Person in accordance with generally accepted accounting principles);
+provided
+that the term "Debt" shall exclude Non-Recourse Debt.
+ 
+ 
+"
+Default
+" means an event that, with notice or lapse of time or both, would become an Event of Default.
+ 
+"
+Disclosed Litigation
+" means the legal actions or proceedings disclosed in the report of the Company on form 10-K, 10-Q or 8-K most recently filed with the Securities and Exchange Commission prior to the date hereof.
+ 
+"
+Dollars
+" and the sign "
+$
+" mean lawful money in the United States of America.
+ 
+"
+Domestic Lending Office
+" means, with respect to any Bank, the office of such Bank specified as its "Domestic Lending Office" opposite its name on Schedule 1 hereto or in the Assignment and Assumption pursuant to which it became a Bank, or such other office of such Bank as such Bank may from time to time specify to the Company and the Administrative Agent.
+ 
+"
+Eligible Bank
+" means a financial institution that meets the requirements of Connecticut General Statutes Section 38a-87(a), as from time to time amended to be a "qualified United States financial institution", including the requirement that such financial institution be an NAIC Approved Bank (it being understood that neither the Company nor any Affiliate thereof may be an Eligible Bank).
+ 
+"
+ERISA
+" means the Employee Retirement Income Security Act of 1974, as amended from time to time, and the regulations promulgated and rulings issued thereunder.
+ 
+"
+Eurodollar Lending Office
+" means, with respect to any Bank, the office of such Bank specified as its "Eurodollar Lending Office" opposite its name on Schedule 1 hereto or in the Assignment and Assumption pursuant to which it became a Bank (or, if no such office is specified, its Domestic Lending Office), or such other office of such Bank as such Bank may from time to time specify to the Company and the Administrative Agent.
+ 
+"
+Eurodollar Rate
+" means, for any Interest Period for each Eurodollar Rate Advance comprising part of the same Borrowing, an interest rate per annum appearing on Page 3750 of the Telerate Service (or on any successor or substitute page of such Service, or any successor to or substitute for such Service, providing rate quotations comparable to those currently provided on such page of such Service, as determined by the Administrative Agent from time to time for purposes of providing quotations of interest rates applicable to Dollar deposits in the London interbank market) as of approximately 11:00 a.m. (London time) on the date two Business Days before the first day of such Interest Period as the rate for Dollar deposits having a term comparable to such Interest Period, or in the event such offered rate is not available from said Page 3750, the rate determined by the Administrative Agent to be the average (rounded to the nearer whole multiple of 1/16 of 1% per annum, if such average is not such a multiple) of the rates per annum at which deposits in Dollars are offered by the principal office of each of the Reference Banks in London, England to prime banks in the London interbank market at approximately 11:00 a.m. (London time) on the date two Business Days before the first day of such Interest Period in an amount substantially equal to such Reference Bank's Advance comprising part of such Borrowing to be outstanding during such Interest Period and for a period comparable to such Interest Period.
+ 
+ 
+"
+Eurodollar Rate Advance
+" means an Advance that bears interest as provided in Section 3.06(b).
+ 
+"
+Event of Default
+" has the meaning specified in Section 8.01.
+ 
+"
+Exchange Act
+" means the Securities Exchange Act of 1934, as amended.
+ 
+"
+Existing Agreement
+" has the meaning set forth in the introduction hereto.
+ 
+"
+Existing Letter of Credit
+" means each letter of credit described on Schedule 3.
+ 
+"
+Federal Funds Rate
+" means, for any day, the rate per annum (rounded upward, if necessary, to the nearest 1/100th of 1%) equal to the weighted average of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers on such day, as published by the Federal Reserve Bank of New York on the Business Day next succeeding such day,
+provided
+that (i) if such day is not a Business Day, the Federal Funds Rate for such day shall be such rate on such transactions on the next preceding Business Day as so published on the next succeeding Business Day, and (ii) if no such rate is so published on such next succeeding Business Day as provided in clause (i), the Federal Funds Rate for such day shall be the average rate quoted to the Person serving as Administrative Agent on such day on such transactions as determined by the Administrative Agent.
+ 
+"
+Final Maturity Date
+" means the last day of the Revolving Credit Availability Period.
+ 
+"
+Fitch
+" means Fitch, Inc. and any successor thereto.
+ 
+"
+Fitch Rating
+" means, at any time, the rating of the Index Debt then most recently announced by Fitch.
+ 
+"
+Fronted Letter of Credit
+" means (i) any letter of credit issued by an Issuing Bank pursuant to Section 2.01(a)(1)(ii) and (ii) each of the Existing Letters of Credit, and in each case any Replacement Letter of Credit therefor.
+ 
+"
+Index Debt
+" means long-term senior, unsecured, non-credit-enhanced indebtedness of the Company for borrowed money.
+ 
+ 
+"
+Initial Banks
+" means each of the financial institutions and other institutional lenders listed on the signature pages hereof.
+ 
+"
+Insurance Regulatory Authority
+" means, as to any Material Insurance Subsidiary, the insurance department or similar administrative authority or agency located in the state in which such Material Insurance Subsidiary is domiciled.
+ 
+"
+Interest Period
+" means, for each Eurodollar Rate Advance comprising part of the same Borrowing, the period commencing on the date of such Eurodollar Rate Advance or the date of the Conversion of any Base Rate Advance into such Eurodollar Rate Advance and ending on the last day of the period selected by the Company pursuant to the provisions below and thereafter each subsequent period commencing on the last day of the immediately preceding Interest Period and ending on the last day of the period selected by the Company pursuant to the provisions below. The duration of each such Interest Period shall be one, two, three or six months, as the Company may, upon notice received by the Administrative Agent not later than 11:00 a.m. (New York City time) on the third Business Day prior to the first day of such Interest Period, select;
+provided
+,
+however
+, that:
+(1) any Interest Period that would otherwise begin before and end after the Final Maturity Date shall end on the Final Maturity Date;
+(2) Interest Periods commencing on the same date for Eurodollar Rate Advances comprising part of the same Borrowing shall be of the same duration;
+(3) whenever the last day of any Interest Period would otherwise occur on a day other than a Business Day, the last day of such Interest Period shall be extended to fall on the next succeeding Business Day, except that if such extension would cause the last day of such Interest Period to fall in the next following calendar month, the last day of such Interest Period shall fall on the next preceding Business Day; and
+(4) whenever the first day of any Interest Period occurs on a day of an initial calendar month for which there is no numerically corresponding day in the calendar month that succeeds such initial calendar month by the number of months equal to the number of months in such Interest Period, such Interest Period shall end on the last Business Day of such succeeding calendar month.
+"
+Issuing Bank
+" means each Bank designated as an "Issuing Bank" hereunder that has agreed to such designation and has been approved as an "Issuing Bank" by the Administrative Agent and the Company in their reasonable discretion, each in its capacity as the issuer of Fronted Letters of Credit hereunder, and its successors in such capacity as provided in Section 2.06. Each Issuing Bank may, in its discretion, arrange for one or more Fronted Letters of Credit to be issued by Affiliates of such Issuing Bank, in which case the term "Issuing Bank" shall include any such Affiliate with respect to Fronted Letters of Credit issued by such Affiliate. Each Bank identified on Schedule 3 as the Issuing Bank in respect of an Existing Letter of Credit shall be deemed to be an Issuing Bank.
+ 
+"
+LC Disbursement
+" means each payment made by a Bank or an Issuing Bank pursuant to a Letter of Credit.
+ 
+"
+LC Expiry Date
+" means, at any time for any Letter of Credit, the expiry date of such Letter of Credit.
+ 
+"
+LC Exposure
+" means, at any time, for any Bank, the sum of (i) such Bank's Applicable Percentage of the undrawn portion of the Maximum Amount of all Letters of Credit at such time
+plus
+(ii) such Bank's Applicable Percentage of the aggregate amount of any and all LC Disbursements that have not been reimbursed by or on behalf of the Company at such time.
+ 
+"
+LC Reimbursement Obligation
+" means the obligation of the Company under Section 2.02 to reimburse to each Bank the amount of each LC Disbursement by such Bank.
+ 
+"
+LC Sublimit
+" means $1,250,000,000.
+ 
+"
+Letter of Credit
+" means any Multi-Bank Letter of Credit or Fronted Letter of Credit, including any Replacement Letter of Credit.
+ 
+"
+Leverage Ratio
+" means, at any time, the ratio of (i) Total Consolidated Debt to (ii) Total Consolidated Capitalization;
+provided
+that the Leverage Ratio shall be computed without taking into account (x) "Net unrealized appreciation, fixed maturities" as determined in accordance with generally accepted accounting principles in the consolidated balance sheets of the Company or (y) "Minimum pension liability adjustment" as determined in accordance with generally accepted accounting principles in the consolidated balance sheets of the Company.
+ 
+"
+Lien
+" means any lien, security interest or other charge or encumbrance of any kind, or any other type of preferential arrangement, including, without limitation, the lien or retained security title of a conditional vendor.
+ 
+"
+Majority Banks
+" means, at any time, Banks having more than 51% of the sum of the then aggregate amount of the Revolving Credit Exposures and LC Exposures.
+ 
+"
+Margin Stock
+" means margin stock within the meaning of Regulation U of the Board of Governors of the Federal Reserve System, as from time to time amended.
+ 
+"
+Material Adverse Change
+" or "
+Material Adverse Effect
+" means a material adverse change in or a material adverse effect on (i) the business, condition (financial or otherwise), operations, performance or properties of the Company and its Subsidiaries, taken as a whole, or (ii) the legality, validity or enforceability of this Agreement or the Notes.
+ 
+"
+Material Insurance Subsidiary
+" means a Material Subsidiary that is licensed to do a life insurance business.
+ 
+ 
+"
+Material Subsidiary
+" means:
+ 
+(a) Connecticut General; and
+ 
+(b) each other Subsidiary of the Company (i) whose assets constitute 10% or more of the total assets of the Company and its Consolidated Subsidiaries (determined on a consolidated basis without duplication in accordance with generally accepted accounting principles) or (ii) whose revenues constituted 10% or more of the total revenues of the Company and its Consolidated Subsidiaries (determined on a consolidated basis without duplication in accordance with generally accepted accounting principles) during the most recently concluded fiscal year of the Company.
+ 
+"
+Maximum Amount
+" of any Letter of Credit means the amount specified in such Letter of Credit as the maximum aggregate amount that may be drawn thereunder.
+ 
+"
+Moody's
+" means Moody's Investors Service, Inc. and any successor thereto.
+"
+Moody's Rating
+" means, at any time, the rating of the Index Debt then most recently announced by Moody's.
+ 
+"
+Multi-Bank Letter of Credit
+" means any letter of credit issued by the Banks pursuant to Section 2.01(a)(1)(i) (including any Replacement Letter of Credit therefor).
+ 
+"
+NAIC
+" means the National Association of Insurance Commissioners and any successor thereto.
+"
+NAIC Approved Bank
+" means (a) any Bank that is a bank listed on the most current Bank List (the "
+NAIC Bank List
+") of banks determined by the Securities Valuation Office of the NAIC and approved by the NAIC as banks whose letters of credit will be acceptable to the NAIC or (b) any Bank as to which its Confirming Bank is a bank listed on the NAIC Bank List.
+ 
+"
+Non-Recourse Debt
+" means any Debt of the Company, any of the Company's Subsidiaries or any consolidated variable interest entities shown on a separate line of the Company's consolidated balance sheet as "non-recourse obligations" if, and so long as, such Debt meets the requirements of clause (a) or clause (b) below, provided that Debt will not fail to qualify as Non-Recourse Debt or be considered an indirect liability of the company solely because a Company Subsidiary has indemnified any lender in respect of such Debt against damages resulting from exceptions to non-recourse liability in general usage in the relevant industry at the time such Debt is incurred (such as fraud, waste, misapplication of funds, failure to maintain insurance coverage, and environmental liability):
+(a) (i) the instruments governing such Debt limit the recourse (whether direct or indirect) of the holder or holders thereof against the Company and its Subsidiaries for the payment of such Debt to the property securing such Debt and (ii) if such Debt is incurred after the date hereof by the Company or a Subsidiary of the Company which is organized under the laws of the United States or any State thereof, the property securing such Debt is not material to the business, condition (financial or otherwise), operations or properties of the Company and its Subsidiaries, taken as a whole, as determined at the time such Debt is incurred; or
+ 
+ 
+(b) (i) the sole obligors of such Debt are (x) a corporation or other entity (such obligor, a "
+Specified Entity
+") formed solely for the purpose of owning (or owning and operating) property which is (or may be) subject to Lien securing such Debt and (y) other entities that are not Company Subsidiaries or other entities in which the Company or any Company Subsidiary holds a direct or indirect ownership or other beneficial interest, (ii) such Specified Entity owns no other material property, (iii) the sole collateral security provided by the Company and its Subsidiaries with respect to such Debt (if any) consists of property owned by such Specified Entity and/or the capital stock of (or equivalent ownership interests in) such Specified Entity and (iv) neither the Company nor any of its other Subsidiaries has any liability, direct or indirect, in respect of such Debt other than indemnification obligations to any lender in respect of such Debt against damages resulting from exceptions to nonrecourse liability in general usage in the relevant industry at the time such Debt is incurred such as fraud, waste, misapplication of funds, failure to maintain insurance coverage, and environmental liability).
+"
+Note
+" shall have the meaning set forth in Section 3.03.
+ 
+"
+Notice of Borrowing
+" has the meaning specified in Section 3.02(a).
+ 
+"
+Notice of Increase
+" has the meaning set forth in Section 2.01(f).
+ 
+"
+Notice of Issuance
+" has the meaning set forth in Section 2.01(f).
+ 
+"
+Notice of Reduction
+" has the meaning set forth in Section 2.01(f).
+ 
+"
+OECD
+" means the Organization for Economic Cooperation and Development.
+ 
+"
+Other Taxes
+" has the meaning specified in Section 4.05.
+ 
+"
+Outside Expiry Date
+" means the date ten Business Days prior to the Termination Date.
+ 
+"
+Permitted Investments
+" means securities issued or unconditionally guaranteed by the Government of the United States of America or any agency thereof and securities issued or unconditionally guaranteed by the central government of any country that is a member of the OECD, rated AA or better (or the equivalent).
+ 
+"
+Person
+" means an individual, partnership, corporation (including a business trust), limited liability company, joint stock company, trust, unincorporated association, joint venture or other entity, or a government or any political subdivision or agency thereof.
+ 
+ 
+"
+Quarterly Dates
+" means the last Business Day of March, June, September and December in each year, the first of which shall be the first such day after the date hereof.
+ 
+"
+Rating
+" means the Moody's Rating, the S&P Rating or the Fitch Rating, as the case may be.
+"
+Rating Level Change
+" means a change in the Moody's Rating, the S&P Rating, or the Fitch Rating, that results in a change from one Rating Level Period to another, which Rating Level Change shall be deemed to take effect on the date on which the relevant change in rating is first announced by Moody's, S&P or Fitch.
+"
+Rating Level Period
+" means a Rating Level 1 Period, a Rating Level 2 Period, a Rating Level 3 Period, a Rating Level 4 Period, a Rating Level 5 Period or a Rating Level 6 Period;
+provided
+that:
+and
+provided
+,
+further
+, that (a) if the Moody's Rating, the S&P Rating and the Fitch Rating differ by one Rating Level, then the applicable Rating Level shall be the highest of such Ratings and (b) if the Moody's Rating, the S&P Rating and the Fitch Rating differ by more than one Rating Level, then the applicable Rating Level Period shall be the lower Rating Level of the two highest Rating Levels (for purposes of the foregoing, Rating Level 1 is the highest and Rating Level 6 is the lowest); and
+provided
+,
+further
+, that any period during which there is no Rating shall be a Rating Level 6 Period.
+ 
+"
+Reference Banks
+" means Citibank, N.A., Bank of America, N.A. and JPMorgan Chase Bank (and any successors thereof).
+ 
+"
+Replacement Letter of Credit
+" means any letter of credit issued in accordance with the provisions of 10.06(b)(v), in replacement of and in the same form as the relevant replaced Letter of Credit.
+ 
+"
+Responsible Officer
+" of the Company means the Chief Financial Officer, the Treasurer or any Assistant Treasurer of the Company or any Vice President of the Company in the finance department.
+ 
+"
+Restatement Effective Date
+" has the meaning set forth in Section 5.01.
+ 
+"
+Revolving Credit Availability Period
+" means the period from the Restatement Effective Date until the Termination Date.
+ 
+"
+Revolving Credit Commitment
+" means, for any Bank, at any time, (i) such Bank's Commitment,
+minus
+(ii) such Bank's Applicable Percentage of the aggregate Maximum Amount of all outstanding Letters of Credit at such time.
+ 
+"
+Revolving Credit Exposure
+" means, at any time, for any Bank, the sum of (i) the unused amount of such Bank's Revolving Credit Commitment
+plus
+(ii) the aggregate outstanding principal amount of all Advances by such Bank.
+ 
+"
+S&P
+" means Standard & Poor's Rating Services and any successor thereto.
+ 
+"
+S&P Rating
+" means, at any time, the rating of the Index Debt then most recently announced by S&P.
+ 
+"
+Solvent
+" means, with respect to any Person at any time, that (a) the fair value of the property of such Person is greater than the total amount of liabilities (including without limitation contingent liabilities) of such Person, (b) the present fair saleable value of the property of such Person is not less
+than
+the amount that will be required to pay the probable liability of such Person on its debts as they become absolute and matured, (c) such Person does not intend to, and does not believe that it will, incur debts or liabilities beyond such Person's ability to pay as such debts and liabilities mature, and (d) such Person is not engaged in a business and is not about to engage in a business for which such Person's property would constitute an unreasonably small capital.
+ 
+"
+Subsidiary
+" means, with respect to any Person, any corporation, partnership, limited liability company or other entity of which at least a majority of the securities or other ownership interests having by the terms thereof ordinary voting power to elect a majority of the board of directors or other persons performing similar functions of such corporation, partnership, limited liability company or other entity (irrespective of whether or not at the time securities or other ownership interests of any other class or classes of such corporation, partnership or other entity shall have or might have voting power by reason of the happening of any contingency) is at the time directly or indirectly owned or controlled by such Person or one or more Subsidiaries of such Person or by such Person and one or more Subsidiaries of such Person.
+ 
+ 
+"
+Taxes
+" has the meaning specified in Section 4.05.
+"
+Termination Date
+" means the date five years after the Restatement Effective Date;
+provided
+that if such day is not a Business Day the Termination Date shall be the immediately preceding Business Day.
+"
+Total Commitments
+" means $1,750,000,000, as such amount may be reduced pursuant to Section 3.04(b).
+"
+Total Consolidated Capitalization
+" means, at any time, the sum of (i) Total Consolidated Debt
+plus
+(ii) the total amount of shareholder's equity of the Company.
+"
+Total Consolidated Debt
+" means, at any time, the aggregate outstanding principal amount of Debt of the Company and its Consolidated Subsidiaries of the kinds referred to in clause (a), (b) or (d) of the definition of "Debt" in this Section 1.01, or of the kinds referred to in clause (e) or (f) thereof to the extent relating to Debt of the kinds referred to in said clause (a), (b) or (d), all determined on a consolidated basis in accordance with generally accepted accounting principles.
+ 
+"
+Type
+" has the meaning specified in the definition of "Advance."
+ 
+"
+VADBe Hedge
+" means the program implemented by Connecticut General in 2002, as refined and revised from time to time at Connecticut General's sole discretion, to substantially reduce the equity market exposures related to variable annuity death benefit reinsurance contracts.
+ 
+"
+Voting Stock
+" means, at any time, the outstanding securities of the Company entitled to vote generally in an election of directors of the Company.
+ 
+"
+Wholly Owned Subsidiary
+" means, with respect to any Person, any corporation, partnership, limited liability company or other entity of which all of the equity securities or other ownership interests (other than, in the case of a corporation, directors' qualifying shares) are directly or indirectly owned or controlled by such Person or one or more Wholly Owned Subsidiaries of such Person or by such Person and one or more Wholly Owned Subsidiaries of such Person.
+ 
+ 
+SECTION 1.02.
+Computation of Time Periods
+.
+In this Agreement in the computation of periods of time from a specified date to a later specified date, the word "from" means "from and including" and the words "to" and "until" mean "to but excluding".
+SECTION 1.03.
+Accounting Terms
+.
+All accounting terms not specifically defined herein shall be construed in accordance with generally accepted accounting principles consistent with those applied in the preparation of the financial statements referred to in Section 6.01(e).
+ 
+ 
+ 
+SECTION 2.01.
+Letters of Credit
+.
+(a)
+Letters of Credit
+. (1) Subject to the terms and conditions of this Agreement, (i) the Banks severally agree, at the request of the Company, to issue one or more standby letters of credit hereunder on a several liability basis (as from time to time amended, each a "
+Multi-Bank Letter of Credit
+") on any Business Day on or before the Outside Expiry Date, (ii) each Issuing Bank agrees, at the request of the Company, to issue one or more standby Letters of Credit hereunder (as from time to time amended, each a "
+Fronted Letter of Credit
+") on any Business Day on or before the Outside Expiry Date and (iii) the Banks severally agree, in the case of each Multi-Bank Letter of Credit, and each Issuing Bank agrees, in the case of each Fronted Letter of Credit (and the Banks hereby irrevocably authorize such Issuing Bank to agree), to increase the Maximum Amount of any such Letter of Credit from time to time on or before the Outside Expiry Date;
+provided
+that each such issuance of, or increase in the Maximum Amount of, any Letter of Credit shall be subject to the limitations set forth in Section 2.01(a)(4).
+(2) Each Multi-Bank Letter of Credit shall be in form and substance reasonably satisfactory to the Banks and the Company, each Fronted Letter of Credit shall be in form and substance reasonably satisfactory to the Issuing Bank and the Company, and the Arbor Letter of Credit shall be in substantially the form of Exhibit A.
+(3) Each Multi-Bank Letter of Credit shall be issued by all of the Banks as a single multi-bank letter of credit;
+provided
+that the obligation of each Bank thereunder shall be several, and not joint, to the extent of such Bank's Applicable Percentage of the Maximum Amount; and each Fronted Letter of Credit shall be issued by an Issuing Bank as sole issuer, and the Banks shall be deemed to acquire participations therein on the terms and conditions of Section 2.01(b).
+ 
+(4) Anything in this Agreement to the contrary notwithstanding, (i) the sum of (x) the aggregate amount of the LC Exposures of all of the Banks
+plus
+(y) the aggregate amount of the Revolving Credit Exposures of all of the Banks may not at any time exceed the Total Commitments, (ii) the aggregate Maximum Amount of all Letters of Credit may not at any time exceed the LC Sublimit, and (iii) no Letter of Credit may provide for an LC Expiry Date later than the Outside Expiry Date. Subject to clause (iii), any Letter of Credit shall, if requested by the Company, include customary evergreen provisions (including appropriate language allowing the relevant Issuing Bank to exercise non-renewal rights).
+(b)
+Participations in Fronted Letters of Credit
+. (1) Upon the issuance by an Issuing Bank of a Fronted Letter of Credit (and any amendment to a Fronted Letter of Credit increasing the amount thereof) in accordance herewith, and without any further action on the part of such Issuing Bank or any Bank, such Issuing Bank hereby grants to each Bank, and each Bank hereby acquires from such Issuing Bank, a participation in such Fronted Letter of Credit equal to such Bank's Applicable Percentage of the aggregate amount available to be drawn under such Fronted Letter of Credit. Each Bank acknowledges and agrees that its acquisition of participations pursuant to this Section 2.01(b) in respect of each Fronted Letter of Credit shall be automatic, absolute and unconditional irrespective of the occurrence or continuance of any Default, or any reduction or termination of the Commitments, or any other circumstance whatsoever.
+(2) In consideration and in furtherance of the foregoing, each Bank severally agrees to pay to the Administrative Agent, for account of each Issuing Bank, such Bank's Applicable Percentage of each LC Disbursement made by such Issuing Bank under a Fronted Letter of Credit promptly upon the request of such Issuing Bank, through the Administrative Agent, at any time from the time of such LC Disbursement until such LC Disbursement is reimbursed by the Company in full or at any time after any reimbursement payment is required to be refunded to the Company for any reason.
+(3) The obligation of each Bank to make payments under clause (2) shall be absolute and unconditional irrespective of any amendment, renewal or extension of any Fronted Letter of Credit, the occurrence or continuance of any Default, any reduction or termination of the Commitments, any circumstance referred to in Section 2.02(b), or any other circumstance whatsoever. Each such payment shall be made without setoff, counterclaim, abatement, withholding or reduction whatsoever and shall be made in the manner provided in Section 3.02 with respect to Advances made by such Bank, and the Administrative Agent shall promptly pay to such Issuing Bank the amounts so received by it from the Banks. Promptly following receipt by the Administrative Agent of any payment from the Company pursuant to this paragraph, the Administrative Agent shall distribute such payment to the relevant Issuing Bank or, to the extent that the Banks have made payments pursuant to this paragraph to reimburse such Issuing Bank, then to such Banks and such Issuing Bank as their interests may appear. Any payment made by a Bank pursuant to this paragraph to reimburse an Issuing Bank for any LC Disbursement shall not relieve the Company of its obligation to reimburse such LC Disbursement.
+ 
+(c)
+Arbor Letter of Credit
+. The Arbor Letter of Credit shall be a Multi-Bank Letter of Credit. The initial LC Expiry Date of the Arbor Letter of Credit shall be the date one year after the issuance thereof, subject to automatic extension to the extent provided in such Letter of Credit. The Administrative Agent will give the notification of non-extension contemplated by the fifth paragraph of the Arbor Letter of Credit if requested to do so by written notice to the Administrative Agent, received by the Administrative Agent not more than 60 days and not less than 45 days prior to the then effective LC Expiry Date thereof, from (i) the Majority Banks or (ii) the Company or, in the case of the Arbor Letter of Credit, the Company or Arbor;
+provided
+,
+however
+, that the Administrative Agent shall, if requested to do so by any Bank, give such notification of non-extension at such time as is required to assure that the LC Expiry Date does not fall beyond the Outside Expiry Date.
+(d)
+Existing Letters of Credit
+. Effective on the Restatement Effective Date, each Existing Letter of Credit shall be deemed to be a Fronted Letter of Credit issued and outstanding under this Agreement (and without limiting the foregoing, effective from and after the Restatement Effective Date, Section 2.01(b) shall be deemed to apply thereto as if each such Existing Letter of Credit, for this purpose, were issued on the Restatement Effective Date).
+(e)
+Notices of Issuance, Increase, Reduction of Letters of Credit
+. To request the issuance of a Letter of Credit or an increase in the Maximum Amount of a Letter of Credit as provided in Section 2.01(a), the Company shall hand-deliver or telecopy (or transmit by electronic communication, if arrangements for doing so have been approved by the Administrative Agent) to the Administrative Agent (if by hand delivery or telecopy, not later than noon New York City time on the Business Day prior to the requested date of issuance or amendment, and if by approved electronic communication, not later than 10:00 a.m. New York City time on the requested date of issuance or amendment) a notice in substantially the form of Exhibit A-2 (the "
+Notice of Issuance
+") or Exhibit A-3 (a "
+Notice of Increase
+"), as the case may be, identifying the relevant Letter of Credit and specifying, in the case of the Notice of Issuance, the date of issuance and the initial Maximum Amount thereof, and, in the case of a Notice of Increase, the proposed effective date of the amendment effecting the increase in the Maximum Amount thereof and the increased Maximum Amount. In addition, the Company may from time to time, by giving notice to the Administrative Agent in substantially the form of Exhibit A-4 (a "
+Notice of Reduction
+") by the times provided for notices in the preceding sentence, and with the prior written consent of the Beneficiary of the relevant Letter of Credit, elect to reduce the Maximum Amount of such Letter of Credit in increments of $1,000,000 (or, if less, the remaining undrawn amount thereof). The Administrative Agent shall promptly notify the Banks of its receipt of any such notice. The Administrative Agent (in the case of a Multi-Bank Letter of Credit) or the relevant Issuing Bank (in the case of a Fronted Letter of Credit) shall, in the case of any such increase or reduction and subject in the case of a reduction, to its receipt of any required consent from the Beneficiary of such Letter of Credit in form and substance satisfactory to it, promptly execute and deliver an amendment to such Letter of Credit effecting such increase or reduction, and notify the Banks, the Administrative Agent (in the case of a Fronted Letter of Credit) and the Company of such increase or reduction (confirming the effective date thereof). If an Issuing Bank has received, at its office specified herein, written notice from the Company, a Bank or the Administrative Agent at least one Business Day prior to the requested date of issuance or amendment of a Fronted Letter of Credit, that a condition set forth in Section 5.02(a) or (b) to such issuance or amendment has not been satisfied, such Issuing Bank shall not proceed with such issuance or amendment.
+ 
+(f)
+Notices of Non-Extension
+. In the case of any Letter of Credit that contains evergreen provisions (other than the Arbor Letter of Credit, which is provided for in Section 2.01(c)), the Administrative Agent (in the case of any Multi-Bank Letter of Credit) and the Issuing Bank (in the case of any Fronted Letter of Credit) shall comply with the instructions of the Majority Banks given pursuant to any provisions for non-extension of the expiry date thereof.
+(g)
+Representation
+. Each Bank represents and warrants as of the date of issuance of each Multi-Bank Letter of Credit that it is an Eligible Bank (or, if such Bank is not an Eligible Bank at such time, that such Bank's obligations under such Letter of Credit are confirmed, at the expense of such Bank, by a bank that meets the requirements of an Eligible Bank).
+(h)
+Issuance and Administration of Multi-Bank Letters of Credit
+. Any Multi-Bank Letter of Credit, any amendment thereto and any Replacement Letter of Credit for a Multi-Bank Letter of Credit shall be executed and delivered by the Administrative Agent in the name and on behalf of, and as attorney-in-fact for, each of the Banks, and the Administrative Agent shall act under each Multi-Bank Letter of Credit as the agent of each Bank to (i) receive drafts presented by the Beneficiary thereunder, (ii) determine whether such drafts are in compliance with the terms and conditions of such Multi-Bank Letter of Credit, (iii) notify each Bank and the Company that a valid drawing has been made and the date that the related LC Disbursements are to be made, and (iv) receive and implement any request for amendment of such Multi-Bank Letter of Credit as provided herein;
+provided
+that anything herein to the contrary notwithstanding, the Administrative Agent, in its capacity as such, shall have no obligation or liability whatsoever to make any payment under any Multi-Bank Letter of Credit. Each Bank hereby irrevocably appoints and designates the Administrative Agent as its attorney-in-fact, which appointment is irrevocable and coupled with an interest, acting through any duly authorized officer of the Person that is serving as the Administrative Agent, to execute and deliver in the name and on behalf of such Bank any Multi-Bank Letter of Credit, any such amendment thereto and any Replacement Letter of Credit of a Multi-Bank Letter of Credit, in each case in accordance with the terms hereof.
+ 
+SECTION 2.02.
+Reimbursement for LC Disbursements, Cover, Etc.
+(a)
+Reimbursement
+. The Company agrees to reimburse (1) each Bank for the full amount of each LC Disbursement under a Multi-Bank Letter of Credit by such Bank and (2) each Issuing Bank for the full amount of each LC Disbursement under a Fronted Letter of Credit issued by such Issuing Bank, each such reimbursement to be made by paying to the Administrative Agent an amount equal to the amount of such LC Disbursement (i) not later than noon, New York City time, on the Business Day that the Company receives notice of such LC Disbursement if such notice is received by it prior to 10:00 a.m., New York City time, or (ii) not later than the Business Day immediately following the day that the Company receives such notice, if such notice is received by it on a day which is not a Business Day or is not received prior to 10:00 a.m., New York City time, on a Business Day. If the Company fails to make such payment when due with respect to a Fronted Letter of Credit, the Administrative Agent shall notify each Bank of the applicable LC Disbursement under such Fronted Letter of Credit, the payment then due from the Company in respect thereof and such Bank's Applicable Percentage thereof. Reimbursements under this Section 2.02(a) may be made with the Company's funds or, subject to the terms and conditions of this Agreement, with the proceeds of a Borrowing.
+(b)
+LC Reimbursement Obligations Absolute
+.
+(1) The obligation of the Company to reimburse the Banks for LC Disbursements with respect to Multi-Bank Letters of Credit or the Issuing Banks with respect to Fronted Letters of Credit as provided in Section 2.02(a) shall be absolute, unconditional and irrevocable, and shall be performed strictly in accordance with the terms of this Agreement under all circumstances, including the following: (i) any lack of validity or enforceability of any Letter of Credit, or of any term or provision therein, (ii) any draft or other document presented under the relevant Letter of Credit proving to be forged, fraudulent or invalid in any respect or any statement therein being untrue or inaccurate in any respect, or (iii) payment under the relevant Letter of Credit against presentation of a draft or other document that does not comply strictly with the terms of such Letter of Credit.
+(2) The Company shall be obligated to make the reimbursements provided for in this Section 2.02 in respect of each Letter of Credit regardless of the identity of the account party on such Letter of Credit.
+(3) Neither the Administrative Agent nor any Bank nor any Issuing Bank nor any of their respective directors, officers, employees or representatives shall have any liability or responsibility by reason of or in connection with the issuance or transfer of any Letter of Credit or any payment or failure to make any payment thereunder (irrespective of any of the circumstances referred to in the preceding clause), or any error, omission, interruption, loss or delay in transmission or delivery of any draft, notice or other communication under or relating to any Letter of Credit, any error in interpretation of technical terms or any consequence arising from causes beyond their control;
+provided
+that the foregoing shall not be construed to excuse the Administrative Agent or a Bank or an Issuing Bank from liability to the Company to the extent of any direct damages (as opposed to consequential damages, claims in respect of which are hereby waived by the Company to the extent permitted by applicable law) suffered by the Company that are caused by the gross negligence or willful misconduct of the Administrative Agent or such Bank or such Issuing Bank, as the case may be, or in the case of any Bank, its failure to make an LC Disbursement in respect of any drawing made in accordance with the terms and conditions of the relevant Letter of Credit and this Agreement. The parties expressly agree that:
+ 
+(A) the Administrative Agent and each Issuing Bank may accept documents that appear on their face to be in substantial compliance with the terms of the relevant Letter of Credit without responsibility for further investigation, regardless of any notice or information to the contrary, and may make payment upon presentation of documents that appear on their face to be in substantial compliance with the terms of the relevant Letter of Credit;
+(B) the Administrative Agent or an Issuing Bank, as the case may be, shall have the right, in its sole discretion, to decline to accept such documents and to make such payment if such documents are not in strict compliance with the terms of the relevant Letter of Credit; and
+(C) without prejudice to Section 9.02, this sentence shall establish the standard of care to be exercised by the Administrative Agent or an Issuing Bank, as the case may be, when determining whether drafts and other documents presented under any Letter of Credit comply with the terms thereof (and the parties hereto hereby waive, to the extent permitted by applicable law, any standard of care inconsistent with the foregoing).
+SECTION 2.03.
+LC Disbursement Procedures
+. The Administrative Agent and each Issuing Bank shall, within a reasonable time following its receipt thereof, examine any draft submitted by the Beneficiary under a Letter of Credit examine the same and promptly after such examination (i) notify the Company and, in the case of a Multi-Bank Letter of Credit, each Bank by telephone (confirmed by telecopy) of receipt of such draft and (ii) deliver to the Company and each Bank, in the case of a Multi-Bank Letter of Credit, a copy thereof. With respect to any drawing properly made under any Multi-Bank Letter of Credit, each Bank will make an LC Disbursement in an amount equal to its Applicable Percentage of the amount of such drawing, such LC Disbursement to be made to the Administrative Agent's Account not later than 1:00 p.m. (New York City time) on the date specified in such notification from the Administrative Agent (which shall be at least one Business Day after the date of such notification). The Administrative Agent (in the case of a Multi-Bank Letter of Credit) and the Issuing Bank (in the case of a Fronted Letter of Credit) will make the proceeds of each such LC Disbursement available to the relevant Beneficiary by promptly crediting the amounts so received, in like funds, to such account as such Beneficiary shall direct. Promptly following the making of any LC Disbursement, the Administrative Agent will notify the Banks and the Company thereof;
+provided
+that any failure to give or delay in giving such notice shall not relieve such Company of any of its obligations hereunder.
+ 
+SECTION 2.04.
+Interest
+. Without prejudice to the obligations of the Company under Section 2.02, if the Company does not reimburse (a) the Banks for the full amount of an LC Disbursement under a Multi-Bank Letter of Credit or (b) the relevant Issuing Bank for the full amount of an LC Disbursement under a Fronted Letter of Credit on the date such LC Disbursement is made (without regard for when notice thereof is given), the Company agrees to pay interest on the LC Reimbursement Obligation relating to such LC Disbursement, for each day from the date such LC Disbursement is made until the date that the Company reimburses such LC Disbursement in full, at a rate per annum equal to 2% per annum
+plus
+the Base Rate from time to time, such interest to be payable on demand.
+SECTION 2.05.
+Provision of Cover
+.
+(a) If there shall occur an Event of Default and the Company is as a result thereof required pursuant to Section 8.01 to provide cover for the Letters of Credit, the Administrative Agent will forthwith establish a separate collateral account (the "
+Collateral Account
+") at Citibank, which shall be a "securities account" (as defined in Section 8-501 of the UCC) in respect of which the Administrative Agent is the "entitlement holder" (as defined in Section 8-102(a)(7) of the UCC), into which there shall be deposited from time to time the amounts paid to the Administrative Agent as cover.
+(b) As collateral security for the prompt payment in full when due of all LC Reimbursement Obligations (whether now existing or hereafter from time to time arising), all interest thereon, and all other present and future obligations of the Company to the Banks or the Issuing Banks and the Administrative Agent hereunder, the Company hereby grants to the Administrative Agent, for the benefit of the Banks and the Issuing Banks and the Administrative Agent, a security interest in all of its right, title and interest in, to and under the Collateral Account and the balances from time to time in the Collateral Account (including without limitation any and all securities and other financial assets from time to time carried therein) and any and all proceeds thereof (all such collateral being herein collectively called the "
+Cover
+"). The balances from time to time in the Collateral Account shall not constitute payment of any obligation of the Company until applied by the Administrative Agent as provided herein. Anything in this Agreement to the contrary notwithstanding, funds held in the Collateral Account shall be subject to withdrawal only as provided in this Section 2.05.
+ 
+(c) Amounts on deposit in the Collateral Account shall be invested and reinvested by the Administrative Agent in such Permitted Investments as the Administrative Agent shall determine in its sole discretion. All such investments and reinvestments and proceeds shall be held in the name and be under the sole dominion and control of the Administrative Agent and shall be credited to the Collateral Account.
+(d) At any time and from time to time while an Event of Default has occurred and is continuing, the Administrative Agent shall have the rights and remedies of a secured party under the UCC and, without limiting the foregoing, shall, if so instructed by the Majority Banks, liquidate the Cover and credit the proceeds thereof to the Collateral Account and apply or cause to be applied such proceeds and any other balances in the Collateral Account to the payment of the obligations secured thereby.
+(e) When all of the obligations of the Company under this Agreement shall have been paid in full and each Letter of Credit has expired or been terminated and no Commitments remain in effect, the Administrative Agent shall promptly deliver to the Company against receipt, but without recourse, warranty or representation whatsoever, the balances remaining in the Collateral Account.
+(f) The Company recognizes that, by reason of prohibitions contained in the Securities Act of 1933, as amended, and applicable state securities laws, the Administrative Agent may be compelled, with respect to any sale of all or any part of the Cover, to limit purchasers to those who will agree, among other things, to acquire the same for their own account for investment and not with a view to the distribution or resale thereof. The Company acknowledges that any such private sales may be at prices and on terms less favorable to the Administrative Agent than those obtainable through a public sale without such restrictions, and, notwithstanding such circumstances, agrees that any such private sale shall be deemed to the extent permitted by applicable law to have been made in a commercially reasonable manner and that the Administrative Agent shall have no obligation to engage in public sales and no obligation to delay the sale thereof for the period of time necessary to permit the Company to register it for public sale.
+SECTION 2.06.
+Replacement of an Issuing Bank
+. An Issuing Bank may be replaced at any time by written agreement between the Company, the Administrative Agent, the replaced Issuing Bank and the successor Issuing Bank. The Administrative Agent shall notify the Banks of any such replacement of an Issuing Bank. At the time any such replacement shall become effective, the Company shall pay all unpaid fees accrued for account of the replaced Issuing Bank pursuant to Section 4.01(b). From and after the effective date of any such replacement, (i) the successor Issuing Bank shall have all the rights and obligations of the replaced Issuing Bank under this Agreement with respect to Fronted Letters of Credit to be issued by it thereafter and (ii) references herein to the term "Issuing Bank" shall be deemed to include such successor or any previous Issuing Bank, or such successor and all previous Issuing Banks, as the context shall require. After the replacement of an Issuing Bank hereunder, the replaced Issuing Bank shall remain a party hereto and shall continue to have all the rights and obligations of an Issuing Bank under this Agreement with respect to Fronted Letters of Credit issued by it prior to such replacement, but shall not be required to issue additional Fronted Letters of Credit.
+If an Issuing Bank is to be replaced with respect to an outstanding Fronted Letter of Credit that is issued by it, such replacement may be accomplished by (i) cancellation of the relevant outstanding Letter of Credit with the consent of the Beneficiary and simultaneous replacement thereof by the successor Issuing Bank or (ii) making other arrangements satisfactory to the replaced Issuing Bank to effectively assume the obligations of the replaced Issuing Bank with respect to such Fronted Letter of Credit and the replaced Issuing Bank shall to the extent thereof be released from its obligations as Issuing Bank with respect to such Fronted Letter of Credit.
+ 
+ 
+SECTION 3.01.
+The
+Advances
+.
+(a) Each Bank severally agrees, on the terms and conditions hereinafter set forth, to make Advances to the Company from time to time on any Business Day during the Revolving Credit Availability Period in an aggregate amount not to exceed at any one time outstanding such Bank's Revolving Credit Commitment.
+(b) Each Borrowing shall be in an aggregate amount of $10,000,000 or an integral multiple of $1,000,000 in excess thereof (or, if less, the aggregate amount of the unused Revolving Credit Commitments) and shall consist of Advances of the same Type made on the same day by the Banks ratably according to their respective Commitments.
+(c) Within the limits of each Bank's Revolving Credit Commitment, the Company may borrow under this Section 3.01, prepay pursuant to Section 3.09 and reborrow under this Section 3.01.
+(d) Anything in this Agreement to the contrary notwithstanding, the sum of (i) the aggregate amount of the LC Exposures of all Banks
+plus
+(ii) the aggregate amount of the Revolving Credit Exposures of all Banks may not at any time exceed the Total Commitments.
+SECTION 3.02.
+Making the Advances
+.
+(a) Each Borrowing shall be made on notice, given not later than 11:00 a.m. (New York City time) on the third Business Day prior to the date of the proposed Borrowing in the case of a Borrowing consisting of Eurodollar Rate Advances, or the date of the proposed Borrowing in the case of a Borrowing consisting of Base Rate Advances, by the Company to the Administrative Agent, which shall give to each Bank prompt notice thereof by telecopier or telex. Each such notice of a Borrowing (a "
+Notice of Borrowing
+") shall be by telecopier or telex, confirmed promptly in writing, in substantially the form of Exhibit B, specifying therein the requested (i) date of such Borrowing, (ii) Type of Advances comprising such Borrowing, (iii) aggregate amount of such Borrowing and (iv) in the case of a Borrowing consisting of Eurodollar Rate Advances, initial Interest Period for each such Advance. Each Bank shall, before 11:00 a.m. (New York City time), in the case of a Borrowing consisting of Eurodollar Rate Advances, or before 1:00 p.m. (New York City time), in the case of a Borrowing consisting of Base Rate Advances, on the date of such Borrowing, make available for the account of its Applicable Lending Office to the Administrative Agent at the Administrative Agent's Account, in same day funds, such Bank's ratable portion of such Borrowing. After the Administrative Agent's receipt of such funds and upon fulfillment of the applicable conditions set forth in Article III, the Administrative Agent will make such same day funds available to the Company at the Company's account at the Administrative Agent's address referred to in Section 9.02; provided that Advances made to finance an LC Reimbursement Obligation as provided in Section 2.02 shall be remitted by the Administrative Agent to the respective Issuing Bank or the Banks as their interests may appear.
+ 
+(b) Anything in Section 3.02(a) to the contrary notwithstanding, (i) the Company may not select Eurodollar Rate Advances for any Borrowing if the aggregate amount of such Borrowing is less than $10,000,000 or if the obligation of the Banks to make Eurodollar Rate Advances shall then be suspended pursuant to Section 3.07 and (ii) the Eurodollar Rate Advances may not be outstanding as part of more than three separate Borrowings.
+(c) Each Notice of Borrowing shall be irrevocable and binding on the Company.
+(d) Unless the Administrative Agent shall have received notice from a Bank prior to the date of any Borrowing that such Bank will not make available to the Administrative Agent such Bank's ratable portion of such Borrowing, the Administrative Agent may assume that such Bank has made such portion available to the Administrative Agent on the date of such Borrowing in accordance Section 3.02(a) and the Administrative Agent may, in reliance upon such assumption, make available to the Company on such date a corresponding amount. If and to the extent that such Bank shall not have so made such ratable portion available to the Administrative Agent, such Bank and the Company severally agree to repay to the Administrative Agent forthwith on demand such corresponding amount together with interest thereon, for each day from the date such amount is made available to the Company until the date such amount is repaid to the Administrative Agent, at (i) in the case of the Company, the interest rate applicable at the time to Advances comprising such Borrowing and (ii) in the case of such Bank, the Federal Funds Rate. If such Bank shall repay to the Administrative Agent such corresponding amount, such amount so repaid shall constitute such Bank's Advance as part of such Borrowing for purposes of this Agreement and shall be made available in same day funds to the Company's account at the Administrative Agent's address referred to in Section 9.02.
+ 
+(e) The failure of any Bank to make any LC Disbursement or any payment under Section 2.01(b)(2) or the Advance to be made by it as part of any Borrowing shall not relieve any other Bank of its obligation, if any, hereunder to make its LC Disbursement or payment or its Advance, but no Bank shall be responsible for the failure of any other Bank to make such LC Disbursement or payment or the Advance to be made by such other Bank.
+ 
+SECTION 3.03.
+Notes
+.
+Any Bank may request that the Advances made or to be made by it be evidenced by a promissory note of the Company. In such event, the Company shall promptly prepare, execute and deliver to such Bank a promissory note payable to the order of such Bank, in substantially the form of Exhibit C (a "
+Note
+"), in an amount equal to the Commitment of such Bank and dated the date hereof.
+SECTION 3.04.
+Termination or Reduction of the Revolving Credit Commitments
+.
+(a)
+Unless previously terminated, the Commitments shall automatically terminate on the last day of the Revolving Credit Availability Period.
+(b) The Company may at any time terminate, or from time to time reduce ratably in part, the Revolving Credit Commitments; provided that (i) any reduction of the Commitments shall be in the aggregate amount of $10,000,000 or an integral multiple of $5,000,000 in excess thereof and (ii) the Company shall not terminate or reduce the aggregate amount of the Commitments if, after giving effect thereto, the sum of the aggregate LC Exposures
+plus
+the aggregate principal amount of the Advances then outstanding would exceed the aggregate amount of the Commitments. No termination or reduction of any of the Commitments shall in any way reduce or otherwise alter the obligations of any Issuing Bank under an outstanding Letter of Credit or the obligations of any of the Banks under or in connection with any outstanding Letter of Credit.
+(c) The Company shall notify the Administrative Agent of any election to terminate or reduce the Commitments under Section 3.04(b) at least three Business Days prior to the effective date of each such termination or reduction, specifying such election and the effective date thereof. Promptly following receipt of any notice, the Administrative Agent shall advise the Banks of the contents thereof.
+(d) Each termination or reduction of the Commitments shall be permanent.
+ 
+SECTION 3.05.
+Repayment of Advances and Evidence of Indebtedness
+.
+(a) The Company shall repay to the Administrative Agent for the ratable account of the Banks on the Final Maturity Date the aggregate principal amount of the Advances then outstanding.
+(b) Each Bank shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of the Company to such Bank resulting from each Advance made by such Bank, including the amounts of principal and interest payable and paid to such Bank from time to time hereunder. The Administrative Agent shall maintain accounts in which it shall record (i) the amount of each Advance made hereunder, the Type thereof and the Interest Period, if any, applicable thereto, (ii) the amount of any principal or interest due and payable or to become due and payable from the Company to each Bank hereunder and (iii) the amount of any sum received by the Administrative Agent hereunder for the account of the Banks and each Bank's share thereof. The entries made in the accounts maintained pursuant to this Section shall be
+prima
+ 
+facie
+evidence of the existence and amounts of the obligations recorded therein;
+provided
+that the failure of any Bank or the Administrative Agent to maintain such accounts or any error therein shall not in any manner affect the obligation of the Company to repay the Advances in accordance with the terms of this Agreement.
+SECTION 3.06.
+Interest on Advances
+. The Company shall pay interest on the unpaid principal amount of each Advance, from the date of such Advance until such principal amount shall be paid in full, at the following rates per annum:
+(a)
+Base Rate Advances
+. During such periods as such Advance is a Base Rate Advance, a rate per annum equal at all times to the Base Rate in effect from time to time, payable quarterly in arrears on the last day of each March, June, September and December and on the date such Base Rate Advance shall be Converted or paid in full.
+(b)
+Eurodollar Rate Advances
+. During such periods as such Advance is a Eurodollar Rate Advance, a rate per annum equal at all times during each Interest Period for such Advance to the sum of (x) the Eurodollar Rate for such Interest Period for such Advance
+plus
+(y) the Applicable Margin, payable in arrears on the last day of such Interest Period and, if such Interest Period has a duration of more than three months, on each day that occurs during such Interest Period every three months from the first day of such Interest Period and on the date such Advance shall be Converted or paid in full.
+(c)
+Default Interest
+. Notwithstanding Sections 3.06(a) and 3.06(b), upon the occurrence and during the continuance of an Event of Default, the Company shall pay interest on the outstanding principal amount of each Advance, and on the unpaid amount of all interest, fees and other amounts payable by the Company hereunder, such interest to be paid in arrears on the date such amount shall be paid in full and on demand, at a rate per annum equal at all times to (i) in the case of any amount of principal, 2% per annum above the rate per annum required to be paid pursuant to paragraph (a) or (b) above, as the case may be and (ii) in the case of all other amounts, 2% per annum above the Base Rate from time to time.
+ 
+SECTION 3.07.
+Interest Rate Determination
+.
+(a) If the Eurodollar Rate does not appear on Page 3750 of the Telerate Service (or any successor page), each Reference Bank agrees to furnish to the Administrative Agent timely information for the purpose of determining each Eurodollar Rate. If the Eurodollar Rate does not appear on said Page 3750 (or any successor page), and if any one or more of the Reference Banks shall not furnish such timely information to the Administrative Agent for the purpose of determining any such interest rate, the Administrative Agent shall determine such interest rate on the basis of timely information furnished by the remaining Reference Banks. The Administrative Agent shall give prompt notice to the Company and the Banks of the applicable interest rate determined by the Administrative Agent for purposes of Section 3.06(b), and the rate, if any, furnished by each Reference Bank for the purpose of determining the interest rate under Section 3.06(b).
+(b)
+If, with respect to any Eurodollar Rate Advances, the Majority Banks notify the Administrative Agent that the Eurodollar Rate for any Interest Period for such Advances will not adequately reflect the cost to such Majority Banks of making, funding or maintaining their respective Eurodollar Rate Advances for such Interest Period, the Administrative Agent shall forthwith so notify the Company and the Banks, whereupon (i) such Eurodollar Rate Advances will automatically, on the last day of the then existing Interest Period therefor, Convert into Base Rate Advances, and (ii) the obligation of the Banks to make, or to Convert Advances into, Eurodollar Rate Advances shall be suspended until the Administrative Agent shall notify the Company and the Banks that the circumstances causing such suspension no longer exist
+.
+(c) If the Company shall fail to select the
+duration
+of any Interest Period for any Eurodollar Rate Advances in accordance with the provisions contained in the definition of "Interest Period" in Section 1.01, the Administrative Agent will forthwith so notify the Company and the Banks and the Company will be deemed to have selected an Interest Period of one month.
+(d) If the aggregate unpaid principal amount of Eurodollar Rate Advances comprising any Borrowing shall be reduced, by payment or prepayment or otherwise, to less than $10,000,000, such Advances shall automatically Convert into Base Rate Advances on the last day of the Interest Period applicable thereto.
+(e)
+If the Eurodollar Rate does not appear on Page 3750 of the Telerate Service (or any successor page) and fewer than two Reference Banks furnish timely information to the Administrative Agent for determining the Eurodollar Rate for any Eurodollar Rate Advances,
+ 
+SECTION 3.08.
+Optional Conversion of Advances
+. The Company may on any Business Day, upon notice given to the Administrative Agent not later than 11:00 a.m. (New York City time) on the third Business Day prior to the date of the proposed Conversion, Convert all Advances of one Type comprising the same Borrowing into Advances of the other Type or Continue Eurodollar Rate Advances (and in the absence of timely notice of Continuation, such Eurodollar Rate Advances shall Convert to Base Rate Advances on the last day of the then current Interest Period);
+provided
+,
+however
+, that any Conversion of Eurodollar Rate Advances into Base Rate Advances shall be made only on the last day of an Interest Period for such Eurodollar Rate Advances, any Conversion of Base Rate Advances into Eurodollar Rate Advances shall be in an amount not less than the minimum amount specified in Section 3.02(b) and no Conversion of any Advances shall result in more separate Borrowings than permitted under Section 3.02(b). Each such notice of a Conversion shall, within the restrictions specified above, specify (i) the date of such Conversion, (ii) the Advances to be Converted, and (iii) if such Conversion is into Eurodollar Rate Advances, the duration of the initial Interest Period for such Advances. Each notice of Conversion or Continuation shall be irrevocable and binding on the Company.
+SECTION 3.09.
+Optional Prepayments of Advances
+. The Company may, upon same day notice not later than 11:00 a.m. (New York City time), in the case of Base Rate Advances, and upon not less than two Business Days' notice, in the case of Euro dollar Rate Advances, to the Administrative Agent stating the proposed date and aggregate principal amount of the prepayment, and if such notice is given the Company shall, prepay the outstanding principal amount of the Advances comprising part of the same Borrowing in whole or ratably in part, together with accrued interest to the date of such prepayment on the principal amount prepaid;
+provided
+, however, that (x) each partial prepayment shall be in an aggregate principal amount of $10,000,000 or an integral multiple of $1,000,000 in excess thereof and (y) in the event of any such prepayment of a Eurodollar Rate Advance, the Company shall be obligated to reimburse the Banks in respect thereof pursuant to Section 10.04(c).
+SECTION 3.10.
+Use of Proceeds
+. The proceeds of the Advances shall be available (and the Company agrees that such proceeds shall be used) for general corporate purposes of the Company and its Subsidiaries, including commercial paper backstop and including for the payment of LC Reimbursement Obligations.
+ 
+ 
+ 
+SECTION 4.01.
+Fees
+.
+(a)
+Commitment Fee
+. The Company shall pay to the Administrative Agent for account of each Bank a commitment fee at the Applicable Commitment Fee Rate on the daily average unused amount of the Revolving Credit Commitment of such Bank during the period from the date of this Agreement until the last day of the Revolving Credit Availability Period, payable in arrears on each Quarterly Date and on the date of termination of the Revolving Credit Commitments.
+(b)
+Letter of Credit Fees
+. The Company shall pay (i) to the Administrative Agent for account of each Bank a letter of credit commission at a rate per annum equal to the Applicable Margin on the average daily aggregate undrawn amount of each Letter of Credit during the period from the date of issuance thereof until the date on which such Bank ceases to have any LC Exposure, and (ii) directly to each Issuing Bank a fronting fee, which shall accrue at the rate or rates per annum separately agreed upon between the Company and such Issuing Bank, on the average daily amount of the LC Exposure with respect to outstanding Fronted Letters of Credit (excluding any portion thereof attributable to unreimbursed LC Disbursements) during the period from and including the Restatement Effective Date to but excluding the later of termination of the Commitments and the date on which there ceases to be any LC Exposure, as well as such Issuing Bank's standard fees with respect to the issuance, amendment, renewal or extension of any Fronted Letter of Credit or processing of drawings thereunder. Letter of credit commission and fronting fees accrued through and including each Quarterly Date shall be payable on the third Business Day following such Quarterly Date, commencing on the first such date to occur after the Restatement Effective Date;
+provided
+that all such fees shall be payable on the date on which the Commitments terminate and any such fees accruing after the date on which the Commitments terminate shall be payable on demand. Any other fees payable to an Issuing Bank pursuant to this paragraph shall be payable within 10 days after demand. All participation fees and fronting fees shall be computed on the basis of a year of 360 days and shall be payable for the actual number of days elapsed (including the first day but excluding the last day).
+(c)
+Agent's Fee
+. The Company shall pay, on demand, to the Administrative Agent for its own account (i) all commissions, charges and expenses with respect to the issuance, amendment, renewal and extension of any Letter of Credit and drawings and other transactions relating thereto in amounts customarily charged from time to time in like circumstances by the Person that is serving as Administrative Agent and (ii) all fees payable in the amounts and at the times separately agreed upon between the Company and the Administrative Agent with respect to the performance of its agency duties hereunder.
+ 
+(d)
+Payment of Fees
+. All commitment fees and letter of credit commissions payable hereunder shall be paid on the dates due, in immediately available funds, to the Administrative Agent for distribution, in the case of commitment fees and letter of credit commissions, to the Banks entitled thereto. Fees paid hereunder shall not be refundable under any circumstances.
+SECTION 4.02.
+Increased Costs
+.
+(a) If, due to either (i) the introduction of or any change in any law or regulation or in the interpretation or administration of any law or regulation by any governmental authority charged with the interpretation or administration thereof or (ii) the compliance with any guideline or request from any central bank or other governmental authority (whether or not having the force of law), there shall be any increase in the cost to any Bank of agreeing to make or making, funding or maintaining Eurodollar Rate Advances by an amount deemed by such Bank to be material, then the Company shall from time to time, upon demand by such Bank (with a copy of such demand to the Administrative Agent), pay to the Administrative Agent for the account of such Bank additional amounts sufficient to compensate such Bank for such increased cost. A certificate as to the amount of such increased cost submitted to the Company and the Administrative Agent by such Bank shall be conclusive and binding for all purposes, absent manifest error.
+(b) If any Bank determines that compliance with any law or regulation or any guideline or request from any central bank or other governmental authority (whether or not having the force of law) affects or would affect the amount of capital required or expected to be maintained by such Bank or any company controlling such Bank and that the amount of such capital is increased by or based upon the existence of such Bank's Commitment or the Letters of Credit or the Advances, then, upon demand by such Bank (with a copy of such demand to the Administrative Agent), the Company shall immediately pay to the Administrative Agent for the account of such Bank, from time to time as specified by such Bank, additional amounts sufficient to compensate such Bank or such corporation in the light of such circumstances, to the extent that such Bank reasonably determines such increase in capital to be allocable to the existence thereof. A certificate as to such amounts submitted to the Company and the Administrative Agent by such Bank shall be conclusive and binding for all purposes, absent manifest error.
+SECTION 4.03.
+Illegality
+. Notwithstanding any other provision of this Agreement, if any Bank shall notify the Administrative Agent that the introduction of or any change in or in the interpretation of any law or regulation makes it unlawful, or any central bank or other governmental authority asserts that it is unlawful, for such Bank or its Eurodollar Lending Office to perform its obligations hereunder to make Eurodollar Rate Advances or to fund or maintain Eurodollar Rate Advances hereunder, (i) each Eurodollar Rate Advance of such Bank will automatically, upon such demand, Convert into a Base Rate Advance and (ii) the obligation of such Bank to make, or to Convert Advances into, Eurodollar Rate Advances shall be suspended until the Administrative Agent shall notify the Company and such Bank that the circumstances causing such suspension no longer exist and such Bank shall make the Base Rate Advances in the amount and on the dates that it would have been requested to make Eurodollar Rate Advances had no such suspension been in effect.
+ 
+SECTION 4.04.
+Payments and Computations
+.
+(a) The Company shall make each payment required to be made by it hereunder (whether of principal of, or interest on, the Advances, fees, LC Reimbursement Obligations or otherwise) prior to 1:00 p.m. New York City time, on the day when due, in Dollars and immediately available funds, without set-off or counterclaim. Any amounts received after such time on any date may, in the discretion of the Administrative Agent, be deemed to have been received on the next succeeding Business Day for purposes of calculating interest thereon.
+(b) All such payments shall be made to the Administrative Agent at the Administrative Agent's Account, except that payments pursuant to Section 10.04 shall be made directly to the Persons entitled thereto and except payments to be made directly to an Issuing Bank as expressly provided herein. The Administrative Agent shall distribute any such payments received by it for account of any other Person to the appropriate recipient promptly following receipt thereof.
+(c) If any payment hereunder shall be due on a day that is not a Business Day, the date for payment shall be extended to the next succeeding Business Day and, in the case of any payment accruing interest, interest thereon shall be payable for the period of such extension.
+(d) Upon its acceptance of an Assignment and Assumption and recording of the information contained therein in the register maintained by the Administrative Agent pursuant to Section 9.06(b), from and after the effective date specified in such Assignment and Assumption, the Administrative Agent shall make all payments hereunder in respect of the interest assigned thereby to the Bank assignee thereunder, and the parties to such Assignment and Assumption shall make all appropriate adjustments in such payments for periods prior to such effective date directly between themselves.
+(e) If at any time insufficient funds are received by and available to the Administrative Agent to pay fully all amounts then due hereunder, such funds shall be applied (i) first, to pay costs and expenses, if any, of the Administrative Agent required to be reimbursed hereunder, (ii) second, to pay interest and fees then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of interest and fees then due to them, and (iii) third, to pay principal of Advances and unreimbursed LC Disbursements then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of Advances and unreimbursed LC Disbursements, respectively, then due to them.
+ 
+(f) All computations of interest based on the Base Rate shall be made by the Administrative Agent on the basis of a year of 365 or 366 days, as the case may be, and all computations of interest based on the Eurodollar Rate or the Federal Funds Rate and of commitment fees, and of letter of credit commissions shall be made by the Administrative Agent on the basis of a year of 360 days, in each case for the actual number of days (including the first day but excluding the last day) occurring in the period for which such interest or commitment fees, or letter of credit commissions are payable. Each determination by the Administrative Agent of an interest rate hereunder shall be conclusive and binding for all purposes, absent manifest error.
+(g) Except to the extent otherwise provided herein (i) each payment of principal of Advances shall be for the
+pro
+ 
+rata
+account of the Banks in accordance with the amounts of the Advances made by them, (ii) each reimbursement of LC Disbursements shall be for the
+pro
+ 
+rata
+account of the Banks in accordance with the amounts of the LC Disbursements made by them, (iii) each payment of commitment fee and letter of credit commission shall be for the
+pro
+ 
+rata
+account of the Banks, and each increase or reduction of the Maximum Amount or reduction of the amount of the Commitments under Section 3.04 shall be applied
+pro
+ 
+rata
+to the respective obligations of the Banks, according to their respective Applicable Percentages; and (iv) each payment of interest shall be made for the
+pro
+ 
+rata
+account of the Banks in accordance with the amounts of interest then due and payable to them.
+(h) Unless the Administrative Agent shall have received notice from the Company prior to the date on which any payment is due to the Administrative Agent for account of the Banks hereunder that the Company will not make such payment, the Administrative Agent may assume that the Company made such payment on such date in accordance herewith and may, in reliance upon such assumption, distribute to the Banks the amount due. In such event, if the Company has not in fact made such payment, then each of the Banks severally agrees to repay to the Administrative Agent forthwith on demand the amount so distributed to such Bank with interest thereon, for each day from the date such amount is distributed to it to the date of payment to the Administrative Agent, at the Federal Funds Rate.
+SECTION 4.05.
+Taxes
+.
+(a) Any and all payments by the Company hereunder and under the Notes shall be made free and clear of and without deduction for any and all present or future taxes, levies, imposts, deductions, charges or withholdings, and all liabilities with respect thereto,
+excluding
+, in the case of each Bank, each Issuing Bank and the Administrative Agent, taxes imposed on its income, and franchise taxes imposed on it, by the jurisdiction under the laws of which such Bank, such Issuing Bank or the Administrative Agent (as the case may be) is organized or any political subdivision thereof and, in the case of each Bank and each Issuing Bank, taxes imposed on its income, and franchise taxes imposed on it, by the jurisdiction of such Bank's or such Issuing Bank's Applicable Lending Office or any political subdivision thereof (all such non-excluded taxes, levies, imposts, deductions, charges, withholdings and liabilities being hereinafter referred to as "
+Taxes
+"). If the Company shall be required by law to deduct any Taxes from or in respect of any sum payable hereunder or under the Notes to any Bank, any Issuing Bank or the Administrative Agent, (i) the sum payable shall be increased as may be necessary so that after making all required deductions (including deductions applicable to additional sums payable under this Section 4.05) such Bank, such Issuing Bank or the Administrative Agent (as the case may be) receives an amount equal to the sum it would have received had no such deductions been made, (ii) the Company shall make such deductions and (iii) the Company shall pay the full amount deducted to the relevant taxation authority or other authority in accordance with applicable law.
+ 
+(b) In addition, the Company agrees to pay any present or future stamp or documentary taxes or any other excise or property taxes, charges or similar levies which arise from any payment made hereunder or from the execution, delivery or registration of, or otherwise with respect to, this Agreement and the Notes (hereinafter referred to as "Other Taxes").
+(c) The Company will indemnify each Bank, and the Administrative Agent for the full amount of Taxes or Other Taxes (including, without limitation, any Taxes and Other Taxes imposed by any jurisdiction on amounts payable under this Section 4.05) paid by such Bank, or the Administrative Agent (as the case may be) and any liability (including penalties, interest and expenses) arising therefrom or with respect thereto, whether or not such Taxes or Other Taxes were correctly or legally asserted. This indemnification shall be made within 30 days from the date such Bank, or the Administrative Agent (as the case may be) makes written demand therefor. A certificate as to the amount of such Taxes and Other Taxes, submitted to the Company and the Administrative Agent by such Bank shall be conclusive and binding (as between the Company, the Banks and the Administrative Agent) for all purposes, absent manifest error. Nothing herein shall preclude the Company from contesting the applicability of any Taxes or Other Taxes as against any governmental entity, and each Bank and the Administrative Agent agree to cooperate in such manner as the Company may reasonably request in contesting any such Taxes or Other Taxes (
+provided
+that neither any Bank nor the Administrative Agent shall be required to so cooperate with the Company to the extent such Bank or the Administrative Agent believes (in its sole discretion) that (i) such Taxes or Other Taxes have been correctly asserted or (ii) such cooperation would be disadvantageous to it in any way).
+(d) Within 30 days after the date of any payment of Taxes, the Company will furnish to the Administrative Agent, at its address referred to in Section 10.02, the original or a certified copy of a receipt evidencing payment thereof or other proof of payment of such Taxes reasonably satisfactory to the relevant Bank(s). If no Taxes are payable in respect of any payment hereunder upon the request of the Administrative Agent the Company will furnish to the Administrative Agent, at such address, a statement to such effect with respect to each jurisdiction designated by the Administrative Agent.
+ 
+(e) Each Bank organized under the laws of a jurisdiction outside the United States, on or prior to the date of its execution and delivery of this Agreement (in the case of each Initial Bank) and on the date of the Assignment and Assumption pursuant to which it becomes a Bank (in the case of each other Bank), and from time to time thereafter if requested in writing by the Company (but only so long as such Bank remains lawfully able to do so), shall provide the Company with Internal Revenue Service form W-8ECI or W-8BEN, as appropriate, or any successor form prescribed by the Internal Revenue Service, certifying that such Bank is entitled to benefits under an income tax treaty to which the United States is a party which reduces the rate of withholding tax on payments of interest or certifying that the income receivable pursuant to this Agreement is effectively connected with the conduct of a trade or business in the United States. If the form provided by a Bank at the time such Bank first becomes a party to this Agreement indicates a United States interest withholding tax rate in excess of zero, withholding tax at such rate shall be considered excluded from "Taxes" as defined in Section 4.05(a).
+(f) For any period with respect to which a Bank has failed to provide the Company with the appropriate form described in Section 4.05(e) (other than if such failure is due to a change in law occurring subsequent to the date on which a form originally was required to be provided, or if such form otherwise is not required under the first sentence of subsection (e) above), such Bank shall not be entitled to indemnification under Section 4.05(a) with respect to Taxes imposed by the United States; provided, however, that should a Bank become subject to Taxes because of its failure to deliver a form required hereunder, the Company shall take such steps as the Bank shall reasonably request to assist the Bank to recover such Taxes.
+(g) Any Bank claiming any additional amounts payable pursuant to this Section 4.05 shall use reasonable efforts (consistent with its internal policy and legal and regulatory restrictions) to change the jurisdiction of its Applicable Lending Office(s) if the making of such a change would avoid the need for, or reduce the amount of, any such additional amounts that may thereafter accrue and would not, in the reasonable judgment of such Bank, be otherwise disadvantageous to such Bank.
+ 
+ 
+ 
+SECTION 5.01.
+Restatement Effective Date
+.
+The amendment and restatement of the Existing Agreement provided for herein shall become effective on the date (the "
+Restatement Effective Date
+" on which the Administrative Agent notifies the Company that it has received, on or prior to May 12, 2006, the following documents, each dated (except as otherwise provided below) the Restatement Effective Date, in form and substance satisfactory to the Administrative Agent and in sufficient copies for each Bank:
+ 
+(a) Certified copies of (x) the charter and by-laws of the Company, (y) the resolutions of the Board of Directors of the Company authorizing and approving this Agreement and the Notes, and (z) documents evidencing all other necessary corporate action and governmental approvals, if any, with respect to the Company's making and performance of this Agreement.
+(b) A certificate of the Secretary or an Assistant Secretary of the Company certifying the names and true signatures of the officers of the Company authorized to sign this Agreement and the Notes and the other documents to be delivered hereunder.
+(c) A certificate from the Secretary of State of the State of Delaware dated a date reasonably close to the Restatement Effective Date as to the good standing of and charter documents filed by the Company.
+(d) A favorable opinion of Christine Reuther, Esq., Senior Counsel of the Company, in substantially the form of Exhibit E.
+(e) A favorable opinion of Milbank, Tweed, Hadley & McCloy LLP, special New York counsel to the Administrative Agent, in substantially the form of Exhibit F.
+(f) A certificate of a Responsible Officer of the Company certifying that (i) no Default or Event of Default as of the date thereof has occurred and is continuing, and (ii) the representations and warranties contained in Section 6.01 are true and correct on and as of the date thereof as if made on and as of such date.
+(g) Evidence of payment of all fees and other amounts due and payable under or in connection with the Existing Agreement or this Agreement on or prior to the Restatement Effective Date, including without limitation payment in full of all fees and other amounts owing to each "Bank" as defined in the Existing Agreement that is not a Bank hereunder (each a "
+Declining Bank
+"), and including, to the extent invoiced, reimbursement or payment of all out-of-pocket expenses required to be reimbursed or paid by the Company hereunder.
+(h) Such other approvals, opinions and documents relating to this Agreement and the transactions contemplated hereby as the Administrative Agent or any Bank, through the Administrative Agent, may reasonably request.
+The Administrative Agent will promptly notify the Banks of the occurrence of the Restatement Effective Date. Effective on the Restatement Effective Date each Declining Bank shall cease to be a party hereto and to have any rights or obligations hereunder.
+ 
+SECTION 5.02.
+Conditions Precedent to Each Extension of Credit and Each Amendment of each Letter of Credit
+ 
+. The obligation of (i) each Bank (a) to participate in the issuance of any Multi-Bank Letter of Credit, (b) to make an Advance on the occasion of each Borrowing, and (c) to amend any Letter of Credit to increase the Maximum Amount thereof pursuant to Section 2.01 and (ii) each Issuing Bank to issue any Fronted Letter of Credit shall be subject to the conditions precedent that the Restatement Effective Date shall have occurred on or prior to May 12, 2006 and on the date of such issuance, such Borrowing or such increase the following statements shall be true (and each of the giving of the applicable Notice of Issuance, Notice of Borrowing or Notice of Increase and the acceptance by the Company of the proceeds of such Borrowing shall constitute a representation and warranty by the Company that on the date of such issuance, Borrowing or increase, as the case may be, such statements are true):
+(a) the representations and warranties contained in Section 6.01 (other than the last sentence of Section 6.01(e) and other than Section 6.01(f)) shall be true and correct in all material respects on and as of the date of such issuance, Borrowing or increase, before and after giving effect thereto and, in the case of a Borrowing, to the application of the proceeds thereof, as though made on and as of such date,
+(b) no Default or Event of Default shall have occurred and be continuing, or would result from such issuance, Borrowing or increase or, in the case of a Borrowing, from the application of the proceeds thereof, and
+(c) the Administrative Agent shall have received the relevant Notice of Issuance or Notice of Increase in accordance with Section 2.01(f), or the relevant Notice of Borrowing in accordance with Section 3.02(a).
+ 
+ 
+ 
+ 
+SECTION 6.01.
+Representations and Warranties of the Company
+.
+The Company represents and warrants to the Banks and the Administrative Agent as follows:
+(a) The Company (i) is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware, (ii) is duly qualified and in good standing as a foreign corporation in each other jurisdiction in which it owns or leases property or in which the conduct of its business requires it to so qualify or be licensed and where, in each case, failure so to qualify and be in good standing could have a Material Adverse Effect and (iii) has all requisite corporate power and authority to own or lease and operate its property and to carry on its business as now conducted and as proposed to be conducted.
+ 
+(b) The execution, delivery and performance by the Company of this Agreement and the Notes are within the Company's corporate powers, have been duly authorized by all necessary corporate action, and do not (i) contravene the Company's charter or by-laws, (ii) contravene any contractual restriction binding on the Company or (iii) violate any law, rule or regulation (including, without limitation, the Securities Act of 1933 and the Exchange Act and the regulations thereunder and Regulations U and X issued by the Board of Governors of the Federal Reserve System, each as from time to time amended), or order, writ, judgment, injunction, decree, determination or award.
+(c) No authorization or approval or other action by, and no notice to or filing with, any governmental authority or regulatory body is required for the due execution, delivery and performance by the Company of this Agreement and the Notes.
+(d) This Agreement is, and each Note when duly executed and delivered for value will be, the legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms.
+(e) The Company has heretofore furnished to each of the Banks (i) the consolidated balance sheet of the Company and its Subsidiaries as at December 31, 2005, and the related consolidated statements of income and retained earnings of the Company and its Consolidated Subsidiaries for the fiscal year then ended, with the opinion thereon of PricewaterhouseCoopers, LLP and (ii) the unaudited consolidated balance sheet of the Company and its Subsidiaries as at March 31, 2006 and the related statements of consolidated income and retained earnings of the Company and its Consolidated Subsidiaries for the three-month period ended on said date. All such financial statements fairly present the consolidated financial condition of the Company and its Consolidated Subsidiaries as at such dates and the results of the operations of the Company and its Consolidated Subsidiaries for the fiscal year and three-month period ended on such dates (subject, in the case of such financial statements as at March 31, 2006, to normal year-end audit adjustments), all in accordance with generally accepted accounting principles consistently applied. Since December 31, 2005, no Material Adverse Change has occurred, except as may have been disclosed in the Company's form 10-K filed with the Securities and Exchange Commission for the period ending December 31, 2005.
+(f) Except for the Disclosed Litigation, there is no pending or threatened action or proceeding affecting the Company or any of its Material Subsidiaries before any court, governmental agency or arbitrator which (i) is reasonably likely to have a Material Adverse Effect or (ii) purports to affect this Agreement or the transactions contemplated hereby; and since the date of this Agreement there has been no adverse change in the status, or financial effect on the Company or any of its Subsidiaries, with respect to the Disclosed Litigation.
+(g) The Company is not engaged in the business of extending credit for the purpose of buying or carrying Margin Stock, and no part of the proceeds of any Advance hereunder will be used, directly or indirectly, for the purpose, whether immediate, incidental or ultimate, of buying or carrying any Margin Stock.
+ 
+(h) The Company is not an "investment company", or a Person "controlled by" an "investment company", as such terms are defined in the Investment Company Act of 1940, as amended.
+(i) All information that has been made available by the Company or any of its representatives to the Administrative Agent or any Bank in connection with the negotiation of this Agreement was, on or as of the dates on which such information was made available, complete and correct in all material respects and did not contain any untrue statement of a material fact or omit to state a fact necessary to make the statements contained therein not misleading in light of the time and circumstances under which such statements were made. All financial projections that have been prepared by the Company and made available to the Administrative Agent or any Bank in connection with the negotiation of this Agreement have been prepared in good faith based upon reasonable assumptions (it being understood that such projections are subject to significant uncertainties and contingencies, many of which are beyond the Company's control, and that no assurance can be given that such projections will be realized).
+(j) The Company is Solvent.
+(k) Without limiting the foregoing paragraphs (a) through (j), the Company and each of its Subsidiaries is in compliance with all laws, statutes, rules, regulations and orders binding on or applicable to the Company, its Subsidiaries and all of their respective properties, except to the extent failure to so comply could not (either individually or in the aggregate) reasonably be expected to have a Material Adverse Effect.
+ 
+ 
+ 
+ 
+SECTION 7.01.
+Affirmative Covenants
+.
+So long as any Advance shall remain unpaid or any Bank shall have any LC Exposure or Revolving Credit Exposure hereunder, and until payment in full of all other amounts payable by the Company hereunder, the Company covenants and agrees that, unless the Majority Banks shall otherwise consent in writing:
+(a)
+Corporate Existence, Compliance with Laws, Etc.
+The Company will, and will cause each Material Subsidiary to, maintain its corporate existence (
+provided
+that nothing in this sentence shall prohibit any transaction expressly permitted under Section 7.02(c)), and will comply, and will cause each Material Subsidiary to comply, with all applicable laws, statutes, rules, regulations and orders, such compliance to include, without limitation, compliance with ERISA and applicable environmental laws and regulations, except for any non-compliance which could not (either individually or in the aggregate) reasonably be expected to have a Material Adverse Effect.
+ 
+(b)
+Payment of Taxes and other Obligations
+. The Company will, and will cause each of its Material Subsidiaries to, pay and discharge at or before maturity all of their respective material obligations and liabilities (including, without limitation, claims of materialmen, warehousemen and the like which if unpaid might by law give rise to a Lien) and pay and
+discharge
+all taxes, assessments and governmental charges or levies imposed on it or on its income or profits or on any of its property prior to the date on which penalties attach thereto, except for any such tax, assessment, charge or levy the payment of which is being contested in good faith and by proper proceedings and against which adequate reserves are being maintained in accordance with generally accepted accounting principles or where the failure to pay or discharge such tax, assessment, charge or levy could not reasonably be expected to have a Material Adverse Effect.
+(c)
+Maintenance and Inspection of Books and Records
+. The Company will, and will cause each of its Material Subsidiaries to, (i) maintain appropriate books and records in which full, true and correct entries shall be made of all dealings and transactions in relation to its business and activities and (ii) permit representatives of any Bank or the Administrative Agent, during normal business hours and as often as may be desired at their own cost and expense (
+provided
+, that if a Default has occurred and is continuing the Company shall indemnify each Bank and the Administrative Agent for such costs and expenses that are reasonable and, where possible, documented) to examine, copy and make extracts from its books and records, and to discuss its business and affairs with its officers.
+(d)
+Maintenance of Property; Insurance
+. The Company will, and will cause each of its Material Subsidiaries to, (i) maintain all of its property useful and necessary in the business conducted by the Company and its Material Subsidiaries in good working order and condition, ordinary wear and tear excepted, except where failure to do so would not reasonably be expected to have a Material Adverse Effect, and (ii) maintain insurance with creditworthy insurance companies, or self-insure, against such risks and in such amounts as are usually maintained or insured against by other companies of established repute engaged in the same or a similar business; and will furnish to the Banks, upon request from the Administrative Agent, information presented in reasonable detail as to the insurance so maintained.
+(e)
+Ranking
+. The Company will promptly take all actions as may be necessary to ensure that the payment obligations of the Company under this Agreement and the Notes will at all times constitute unconditional and unsubordinated general obligations of the Company ranking at least
+pari
+ 
+passu
+in priority of payment with all other present and future unsecured and unsubordinated Indebtedness of the Company.
+(f)
+Reporting
+Requirements
+. The Company will furnish
+to
+the Banks:
+ 
+(g)
+Change in Nature of Business
+. The Company will remain primarily an insurance and health care holding company.
+(h)
+VADBe Hedge
+. The Company will cause Connecticut General to maintain the VADBe Hedge in effect such that the expected economic exposure over time to stock market fluctuations is immaterial to the Company's financial condition. It is recognized by the Banks that the VADBe Hedge does not address any risks associated with the variable annuity death benefit reinsurance contracts other than those for which the VADBe Hedge was initially implemented. Unhedged risks include mortality, lapse, statutory reserving, volatility, and partial surrenders.
+ 
+SECTION 7.02.
+Negative Covenants
+.
+So long as any Advance shall remain unpaid or any Bank shall have any LC Exposure or Revolving Credit Exposure hereunder, and until payment in full of all other amounts payable by the Company hereunder, the Company covenants and agrees that, without the written consent of the Majority Banks:
+(a)
+Liens
+. The Company will not, and will not permit any of its Material Subsidiaries to, at any time create, assume or suffer to exist any Lien upon or with respect to any of the capital stock of any of its Material Subsidiaries.
+(b)
+Material Subsidiary Stock
+. The Company will not, and will not permit any of its Material Subsidiaries to, convey, transfer or otherwise dispose of (whether by or pursuant to merger, consolidation or any other arrangement) any capital stock of any of its Material Subsidiaries (other than to the Company or to a Wholly Owned Subsidiary of the Company);
+provided
+that nothing in this Section 7.02(b) shall prohibit any transaction expressly permitted under Section 7.02(c).
+(c)
+Mergers, Etc.
+The Company will not, and will not permit any Material Subsidiary to, merge or consolidate with or into, or convey, transfer, lease or otherwise dispose of, whether in one transaction or in a series of transactions, all or substantially all of the property (whether now owned or hereafter acquired) of the Company or such Material Subsidiary to, any Person, except that:
+(d)
+Leverage Ratio
+. The Company will not permit the Leverage Ratio to be at any time greater than 0.400 to 1.00.
+ 
+ 
+ 
+SECTION 8.01.
+Events of Default
+.
+If any of the following events (each an "
+Event of Default
+") shall occur and be continuing:
+(a) The Company shall fail to pay in full when due any principal of any Advance or any LC Reimbursement Obligation; or the Company shall fail to pay any interest on any Advance or LC Reimbursement Obligation, or any commitment fee or letter of credit commission, when due and such failure remains unremedied for three Business Days; or the Company shall fail to pay any other amount payable hereunder when due and such failure remains unremedied for three Business Days after notice thereof shall have been given to the Company by the Administrative Agent or any Bank (through the Administrative Agent); or
+(b) Any representation or warranty made by the Company herein or by the Company (or any of its officers) in connection with this Agreement shall prove to have been incorrect in any material respect when made; or
+(c) (i) The Company shall fail to perform or observe any term, covenant or agreement contained in Section 7.01(c)(ii), 7.01(f)(iii), 7.01(g) or 7.02; or (ii) the Company shall fail to perform or observe any other term or covenant of this Agreement on its part to be performed or observed, and such failure remains unremedied for 30 days after notice thereof shall have been given to the Company by the Administrative Agent or any Bank (through the Administrative Agent); or
+(d) The Company shall fail to pay any principal of any other Debt of the Company which is outstanding in a principal amount of at least $75,000,000 (or its equivalent in other currencies) in the aggregate when the same becomes due and payable (whether at scheduled maturity, by required prepayment, acceleration, demand or otherwise); or any other event shall occur or condition shall exist under any agreement or instrument relating to any such Debt and shall continue after the applicable grace period, if any, specified in such agreement or instrument, if the effect of such event or condition is to accelerate, or to permit the acceleration of, the maturity of such Debt; or any such Debt shall be declared to be due and payable, or required to be prepaid (other than by a regularly scheduled required prepayment), redeemed, purchased or defeased, or an offer to prepay, redeem, purchase or defease such Debt shall be required to be made, in each case prior to the stated maturity thereof; or
+(e) The Company or any of its Material Subsidiaries shall generally not pay its debts as such debts become due, or shall admit in writing its inability to pay its debts generally, or shall make a general assignment for the benefit of creditors; or any proceeding shall be instituted by or against the Company or any of its Material Subsidiaries seeking to adjudicate it a bankrupt or insolvent, or seeking liquidation, winding up, reorganization, arrangement, adjustment, protection, relief, or composition of it or its debts under any law relating to bankruptcy, insolvency or reorganization or relief of debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee, custodian or other similar official for it or for any substantial part of its property and, in the case of any such proceeding instituted against the Company or any of its Material Subsidiaries, such proceeding shall remain undismissed or unstayed for a period of 60 days; or the Company or any of its Material Subsidiaries shall take any corporate action to authorize any of the actions set forth above in this subsection (e); or
+ 
+(f) In connection with the actual or alleged insolvency of any Material Insurance Subsidiary of the Company, any Insurance Regulatory Authority shall appoint a rehabilitator, receiver, custodian, trustee, conservator or liquidator or the like (collectively, a "
+conservator
+") for such Material Insurance Subsidiary, or cause possession of all or any substantial portion of the property of such Material Insurance Subsidiary to be taken by any conservator (or any Insurance Regulatory Authority shall commence any action to effect any of the foregoing); or
+(g) One or more judgments in an aggregate amount in excess of $50,000,000 shall be rendered against the Company or any of its Material Subsidiaries and either (i) enforcement proceedings shall have been commenced by any creditor upon any such judgment or order and such proceedings shall not have been stayed or (ii) there shall be any period of 60 consecutive days during which a stay of enforcement of any such judgment or order, by reason of a pending appeal or otherwise, shall not be in effect; or
+(h) A Change in Control shall occur; or
+(i) the Company shall fail to pay when due an amount or amounts aggregating in excess of $25,000,000 which it shall have become liable to pay under Title IV of ERISA;
+THEN, and in every such event, and at any time thereafter during the continuance of such event, the Administrative Agent shall, if requested by the Majority Banks, by notice to the Company take any or all of the following actions, at the same or different times: (i) terminate the Commitments, whereupon they shall forthwith terminate (without prejudice to the obligations of any Bank (including any Issuing Bank) under any Letter of Credit as then in effect), (ii) demand provision of cover from the Company in an amount equal to the then aggregate amount of LC Exposure of the Banks, whereupon the Company shall forthwith pay such amount in Dollars and immediately available funds to the Collateral Account and (iii) declare that the Advances, all interest thereon, all fees, commissions and other obligations of the Company accrued hereunder to be forthwith due and payable immediately, whereupon they shall forthwith become due and payable without presentment, demand, protest or other notice of any kind, all of which are hereby waived by each Company,
+provided
+that in the case of any of the Events of Default specified in clause (e) or (f) above, without any notice to the Company or any other act by the Administrative Agent or the Banks, the Commitments shall thereupon terminate (without prejudice to the obligations of the Banks under any Letters of Credit as then in effect), and the Advances, all such interest and all such fees, commissions and other obligations of the Company accrued hereunder, including without limitation the obligation to provide cover as aforesaid, shall automatically become due and payable without presentment, demand, protest or notice of any kind, all of which are hereby waived by each Company.
+ 
+ 
+ 
+SECTION 9.01.
+Authorization and Action
+.
+Each Bank hereby appoints and authorizes the Administrative Agent to take such action as administrative agent on its behalf and to exercise such powers under this Agreement as are delegated to the Administrative Agent by the terms hereof, together with such powers as are reasonably incidental thereto. As to any matters not expressly provided for by this Agreement, the Administrative Agent shall not be required to exercise any discretion or take any action, but shall be required to act or to refrain from acting (and shall be fully protected in so acting or refraining from acting) upon the instructions of the Majority Banks, and such instructions shall be binding upon all Banks;
+provided
+,
+however
+, that the Administrative Agent shall not be required to take any action which exposes the Administrative Agent to personal liability or which is contrary to this Agreement or applicable law.
+SECTION 9.02.
+ 
+Administrative Agent's Reliance, Etc.
+Neither the Administrative Agent nor any of its directors, officers, agents or employees shall be liable to the Banks for any action taken or omitted to be taken by it or them under or in connection with this Agreement, except for its or their own gross negligence or willful misconduct. Without limitation of the generality of the foregoing, the Administrative Agent: (i) may consult with legal counsel (including counsel for the Company), independent public accountants and other experts selected by it and shall not be liable to the Banks for any action taken or omitted to be taken in good faith by it in accordance with the advice of such counsel, accountants or experts; (ii) makes no warranty or representation to any Bank and shall not be responsible to any Bank for any statements, warranties or representations (whether written or oral) made in or in connection with this Agreement; (iii) shall not have any duty to ascertain or to inquire as to the performance or observance of any of the terms, covenants or conditions of this Agreement on the part of the Company or to inspect the property (including the books and records) of the Company or any of its Subsidiaries; (iv) shall not be responsible to any Bank for the due execution (other than its own), legality, validity, enforceability, genuineness, sufficiency or value of this Agreement or any related agreement, instrument or document furnished pursuant hereto; and (v) shall incur no liability to the Banks under or in respect of this Agreement by acting upon any notice, consent, certificate or other instrument or writing (which may be by telecopier, telegram, cable or telex) reasonably believed by it to be genuine and signed or sent by the proper party or parties.
+ 
+SECTION 9.03.
+Citibank and Affiliates
+.
+With respect to its Commitments Citibank shall have the same rights and powers under this Agreement as any other Bank and may exercise the same as though it were not the Administrative Agent, and the term "Bank" or "Banks" shall, unless otherwise expressly indicated, include Citibank in its individual capacity. Citibank and its Affiliates may accept deposits from, lend money to, act as trustee under indentures of, and generally engage in any kind of business with, the Company, any of its Subsidiaries and any Person who may do business with or own securities of the Company or any such Subsidiary, all as if Citibank were not the Administrative Agent and without any duty to account therefor to the Banks.
+SECTION 9.04.
+Bank Credit Decision
+.
+Each Bank acknowledges that it has, independently and without reliance upon the Administrative Agent or any other Bank and based on the financial statements referred to in Section 6.01 and such other documents and information as it has deemed appropriate, made its own credit analysis and decision to enter into this Agreement. Each Bank also acknowledges that it will, independently and without reliance upon the Administrative Agent or any other Bank and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under this Agreement.
+SECTION 9.05.
+Indemnification
+.
+The Banks agree to indemnify the Administrative Agent (to the extent not reimbursed by the Company), ratably according to the respective amounts of their Commitments as most recently in effect, from and against any and all liabilities, obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses or disbursements of any kind or nature whatsoever which may be imposed on, incurred by, or asserted against the Administrative Agent in any way relating to or arising out of this Agreement or any action taken or omitted by the Administrative Agent under this Agreement,
+provided
+that no Bank shall be liable for any portion of such liabilities, obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses or disbursements resulting from the Administrative Agent's gross negligence or willful misconduct. Without limiting the foregoing, each Bank agrees to reimburse the Administrative Agent promptly upon demand for its ratable share of any out-of-pocket expenses (including counsel fees) incurred by the Administrative Agent in connection with the preparation, execution, delivery, administration, modification, amendment or enforcement (whether through negotiations, legal proceedings or otherwise) of, or legal advice in respect of rights or responsibilities under, this Agreement, to the extent that the Administrative Agent is not reimbursed for such expenses by the Company.
+SECTION 9.06.
+Successor Administrative Agent
+.
+The Administrative Agent may resign at any time by giving written notice thereof to the Banks and the Company and may be removed at any time with or without cause by the Majority Banks. Upon any such resignation or removal, the Majority Banks shall have the right to appoint a successor Administrative Agent that, unless a Default or Event of Default shall have occurred and then be continuing, is reasonably acceptable to the Company. If no successor Administrative Agent shall have been so appointed by the Majority Banks, and shall have accepted such appointment, within 30 days after the retiring Administrative Agent's giving of notice of resignation or the Majority Banks' removal of the retiring Administrative Agent, then the retiring Administrative Agent may, on behalf of the Banks, appoint a successor Administrative Agent, which shall be a commercial bank organized under the laws of the United States of America or of any State thereof and having total assets of at least $1,000,000,000. Upon the acceptance of any appointment as Administrative Agent hereunder by a successor Administrative Agent, such successor Administrative Agent shall thereupon succeed to and become vested with all the rights, powers, privileges and duties of the retiring Administrative Agent, and the retiring Administrative Agent shall be discharged from its duties and obligations under this Agreement. After any retiring Administrative Agent's resignation or removal hereunder as Administrative Agent, the provisions of this Article VII shall inure to its benefit as to any actions taken or omitted to be taken by it while it was Administrative Agent under this Agreement.
+ 
+SECTION 9.07.
+Joint Lead Arrangers
+. Citigroup Global Markets Inc., Banc of America Securities LLC and J.P. Morgan Securities Inc. in their respective capacities as Joint Lead Arrangers and Joint Book Managers and Bank of America, N.A., in its capacity as Syndication Agent, shall have no obligations or liabilities whatsoever hereunder.
+SECTION 9.08.
+Trust Indenture Act
+. In the event that Citibank or any of its Affiliates shall be or become an indenture trustee under the Trust Indenture Act of 1939, as amended, in respect of any securities issued or guaranteed by the Company, the parties hereto acknowledge and agree that any payment or property received in satisfaction of or in respect of any obligation of the Company hereunder or under any Letter of Credit by or on behalf of Citibank in its capacity as the Administrative Agent for the benefit of the Company hereunder or any Letter of Credit (other than Citibank or an Affiliate of Citibank) and which is applied in accordance herewith shall be deemed to be exempt from the requirements of Section 311 of said Act pursuant to Section 311(b)(3) thereof.
+ 
+ 
+ 
+SECTION 10.01.
+ 
+Amendments, Etc.
+No amendment or waiver of any provision of this Agreement, nor consent to any departure by the Company therefrom, shall in any event be effective unless the same shall be in writing and signed by the Majority Banks and (in the case of an amendment) the Company, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given;
+provided
+that except as otherwise expressly provided in this Agreement, no amendment, waiver or consent shall, unless in writing and signed by all the Banks, do any of the following: (a) waive any of the conditions specified in Section 5.01, (b) increase the Commitment of any Bank, increase the LC Exposure of any Bank or otherwise subject any Bank to any additional obligations, (c) reduce the amount of, or interest on, any LC Reimbursement Obligation of the Company to any Bank or the principal of, or rate of interest on, any Advance or any fees, commissions or other amounts payable by the Company hereunder, (d) postpone the scheduled date for any payment of any LC Reimbursement Obligation (or interest thereon) or any principal of, or interest on, the Advances or any fees, commissions or other amounts payable by the Company hereunder, or change the Outside Expiry Date, (e) alter the manner in which payment of LC Reimbursement Obligations or interest thereon or of principal of, or interest on, the Advances or any fees, commissions or other amounts is to be applied as among the Banks, (f) change the definition of "Majority Banks" or the number or percentage in interest of Banks which shall be required for the Banks or any of them to take any action hereunder, (g) amend this Section 10.01, (h) release any cover (except as expressly provided in this Agreement) or (i) increase the LC Sublimit; and
+provided
+,
+further
+, that no amendment, waiver or consent shall, unless in writing and signed by the Administrative Agent or the Issuing Banks in addition to the Banks required above to take such action, affect the rights or duties of the Administrative Agent or the Issuing Banks, as the case may be, under this Agreement and the Notes. This Agreement and the Notes constitute the entire agreement of the parties with respect to the subject matter hereof.
+ 
+SECTION 10.02.
+Notices, Etc.
+(a) All notices and other communications provided for hereunder shall be in writing (including telecopier) and mailed, telecopied or delivered by hand:
+ 
+ 
+CIGNA Corporation
+Two Liberty Place
+1601 Chestnut Street
+Philadelphia, Pennsylvania 19192-1560
+Attention: Treasurer
+Telephone No.: 215-761-1131
+Telecopier No.: 215-761-5521
+ 
+ 
+CITIBANK, N.A.,
+as Administrative Agent
+Address for Notices:
+Two Penns Way, Suite 200
+New Castle, DE 19720
+Attention: Dawayne Sims
+Telecopier: 212-994-0961
+Telephone: 302-894-6011
+e-mail: dawayne.sims@citigroup.com
+ 
+or, as to the Company or the Administrative Agent, at such other address as shall be designated by such party in a written notice to the other parties and, as to each other party, at such other address as shall be designated by such party in a written notice to the Company and the Administrative Agent. All such notices and communications shall be deemed to have been duly given or made (A) in the case of hand deliveries, when delivered by hand, (B) in the case of mailed notices, upon receipt if sent by certified mail, postage prepaid, and (C) in the case of telecopier or electronic notice, when transmitted and confirmed during normal business hours (or, if delivered after the close of normal business hours, at the beginning of business hours on the next Business Day), except that notices and communications to the Administrative Agent pursuant to Article II, III or V shall not be effective until received by the Administrative Agent.
+(b) The Company hereby agrees that it will provide to the Administrative Agent all information, documents and other materials that it is obligated to furnish to the Administrative Agent pursuant to this Agreement, including, without limitation, all notices, requests, financial statements, financial and other reports, certificates and other information materials, but excluding any such communication that (i) relates to the payment of any LC Reimbursement Obligation or any principal of any Advance or other amount due under this Agreement prior to the scheduled date therefor, (ii) provides notice of any Default or Event of Default under this Agreement or (iii) is required to be delivered to satisfy any condition precedent to the occurrence of the Closing Date and/or any borrowing (all such non-excluded communications being referred to herein collectively as "
+Communications
+"), by transmitting the Communications in an electronic/soft medium in a format reasonably acceptable to the Administrative Agent to oploanswebadmin@citigroup.com. In addition, the Company agrees to continue to provide the Communications to the Administrative Agent in the manner otherwise specified in this Agreement but only to the extent requested by the Administrative Agent.
+(c) The Company further agrees that the Administrative Agent may make the Communications available to the Banks by posting the Communications on Intralinks
+or a substantially similar electronic transmission system
+(the "
+Platform
+"). THE PLATFORM IS PROVIDED "AS IS" AND "AS AVAILABLE". THE AGENT PARTIES (AS DEFINED BELOW) DO NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE COMMUNICATIONS, OR THE ADEQUACY OF THE PLATFORM AND EXPRESSLY DISCLAIM LIABILITY FOR ERRORS OR OMISSIONS IN THE COMMUNICATIONS. NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS OR FREEDOM FROM VIRUSES OR OTHER CODE DEFECTS, IS MADE BY THE AGENT PARTIES IN CONNECTION WITH THE COMMUNICATIONS OR THE PLATFORM. IN NO EVENT SHALL THE ADMINISTRATIVE AGENT OR ANY OF ITS AFFILIATES OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, ADVISORS OR REPRESENTATIVES (COLLECTIVELY, THE "
+AGENT PARTIES
+") HAVE ANY LIABILITY TO THE COMPANY, ANY BANK OR ANY OTHER PERSON OR ENTITY FOR DAMAGES OF ANY KIND
+, INCLUDING, WITHOUT LIMITATION, DIRECT OR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, LOSSES OR EXPENSES
+(WHETHER IN TORT, CONTRACT OR OTHERWISE) ARISING OUT OF THE COMPANY'S OR THE ADMINISTRATIVE AGENT'S TRANSMISSION OF COMMUNICATIONS THROUGH THE INTERNET, EXCEPT TO THE EXTENT THE LIABILITY OF ANY AGENT PARTY IS FOUND IN A FINAL NON-APPEALABLE JUDGMENT BY A COURT OF COMPETENT JURISDICTION TO HAVE RESULTED PRIMARILY FROM SUCH AGENT PARTY'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT.
+ 
+(d) The Administrative Agent agrees that the receipt of the Communications by the Administrative Agent at its e-mail address set forth above shall constitute effective delivery of the Communications to the Administrative Agent for purposes of this Agreement. Each Bank agrees that notice to it (as provided in the next sentence) specifying that the Communications have been posted to the Platform shall constitute effective delivery of the Communications to such Bank for purposes of this Agreement. Each Bank agrees (i) to provide to the Administrative Agent in writing (including by electronic communication), promptly after the date of this Agreement, an e-mail address to which the foregoing notice may be sent by electronic transmission and (ii) that the foregoing notice may be sent to such e-mail address.
+(e) Nothing herein shall prejudice the right of the Administrative Agent or any Bank to give any notice or other communication pursuant to this Agreement in any other manner specified herein.
+SECTION 10.03.
+No Waiver; Remedies
+.
+No failure on the part of any Bank or the Administrative Agent to exercise, and no delay in exercising, any right hereunder shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies provided by law.
+SECTION 10.04.
+Costs, Expenses and Indemnification
+.
+(a) The Company agrees to pay and reimburse on demand all reasonable costs and expenses of the Administrative Agent in connection with the preparation, execution, delivery, administration, modification and amendment of this Agreement and the other documents to be delivered hereunder, including, without limitation, the reasonable fees and out-of-pocket expenses of counsel for the Administrative Agent with respect hereto and with respect to advising the Administrative Agent as to its rights and responsibilities hereunder. The Company further agrees to pay on demand all costs and expenses, if any (including, without limitation, reasonable counsel fees and expenses of the Administrative Agent and each of the Banks), incurred by the Administrative Agent, any Issuing Bank or any Bank in connection with the enforcement (whether through negotiations, legal proceedings or otherwise) of this Agreement including, without limitation, reasonable counsel fees and expenses in connection with the enforcement of rights under this Section 10.04(a). The Company shall not be responsible to reimburse any Bank for the costs of the appointment by such Bank of a Confirming Bank.
+ 
+(b) The Company hereby indemnifies the Administrative Agent, Citigroup Global Markets Inc., Banc of America Securities LLC and J.P. Morgan Securities Inc. as Joint Lead Arrangers and Joint Book Managers, each Bank, each Issuing Bank and each of their respective Affiliates and their respective officers, directors, employees, agents, advisors and representatives (each, an "
+Indemnified Party
+") from and against any and all claims, damages, losses, liabilities and expenses (including, without limitation, fees and disbursements of counsel), joint or several, that may be incurred by or asserted or awarded against any Indemnified Party, in each case arising out of or in connection with or relating to any investigation, litigation or proceeding or the preparation of any defense with respect thereto arising out of or in connection with or relating to this Agreement or the transactions contemplated hereby or thereby, whether or not such investigation, litigation or proceeding is brought by the Company, any of its shareholders or creditors, an Indemnified Party or any other Person, or an Indemnified Party is otherwise a party thereto, and whether or not any of the conditions precedent set forth in Article III are satisfied or the other transactions contemplated by this Agreement are consummated, except to the extent such claim, damage, loss, liability or expense results from such Indemnified Party's gross negligence or willful misconduct. The Company hereby further agrees that no Indemnified Party shall have any liability (whether direct or indirect, in contract, tort or otherwise) to the Company for or in connection with or relating to this Agreement or the transactions contemplated hereby or thereby, except to the extent such liability is found in a final, non-appealable judgment by a court of competent jurisdiction to have resulted from such Indemnified Party's gross negligence or willful misconduct;
+provided
+that nothing in this paragraph shall be deemed to constitute a waiver of any claim the Company may have, or to exculpate any Person from any liability that such Person may have to the Company, for breach by such Person of its obligations under this Agreement. Neither any Bank, any Issuing Bank nor the Administrative Agent shall in any event be liable for any indirect, consequential or punitive damages.
+(c) If (i) the Company makes any payment of principal of any Eurodollar Rate Advance on a day other than the last day of an Interest Period with respect thereto, or (ii) the Company fails to make a Borrowing or a prepayment of Eurodollar Rate Advances after having given notice thereof pursuant to this Agreement, the Company shall reimburse each Bank and each Issuing Bank upon demand for any resulting loss, cost or expense incurred by such Bank, including without limitation any loss incurred in obtaining, liquidating or employing deposits from third parties, but excluding loss of margin, for the period after such payment, failure to borrow or failure to prepay, or certificate of such Bank or such Issuing Bank in reasonable detail as to the amount of such loss, cost or expense to be conclusive and binding on the Company in the absence of manifest error.
+ 
+SECTION 10.05.
+Binding Effect
+.
+This Agreement shall become effective when it shall have been executed by the Company and the Administrative Agent and when the Administrative Agent shall have been notified by each Bank that such Bank has executed it and the Restatement Effective Date has occurred and thereafter shall be binding upon and inure to the benefit of the Company, the Administrative Agent and each Bank and their respective successors and permitted assigns, except that the Company shall not have the right to assign its rights hereunder or any interest herein without the prior written consent of the Banks.
+SECTION 10.06.
+Assignments and Participations
+.
+(a)
+Assignments Generally
+. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted hereby, except that (i) the Company may not assign or otherwise transfer any of its rights or obligations hereunder without the prior written consent of each Bank (and any attempted assignment or transfer by the Company without such consent shall be null and void) and (ii) no Bank may assign or otherwise transfer its rights or obligations hereunder except in accordance with this Section 10.06. Nothing in this Agreement, expressed or implied, shall be construed to confer upon any Person (other than the parties hereto, their respective successors and assigns permitted hereby and, to the extent expressly contemplated hereby, Participants referred to in paragraph (e) below and the directors, officers, employees, attorneys and agents of each of the Administrative Agent, the Issuing Banks and the Banks) any legal or equitable right, remedy or claim under or by reason of this Agreement.
+(b)
+Assignments by Banks
+. Subject to the conditions set forth in clause (c) below, any Bank may assign to one or more assignees all or a portion of its Commitments, its obligations under each Letter of Credit and the Advances owing to it to any Eligible Bank (but not to any other Person), subject to the following requirements:
+ 
+Upon such execution, delivery, acceptance and recording, from and after the effective date specified in each Assignment and Assumption, (x) the assignee thereunder shall be a party hereto and, to the extent that rights and obligations hereunder have been transferred to it pursuant to such Assignment and Assumption, have the rights and obligations of a Bank hereunder and (y) the Bank assignor thereunder shall, to the extent that rights and obligations hereunder have been transferred by it pursuant to such Assignment and Assumption, relinquish its rights and be released from its obligations under this Agreement (and, in the case of an Assignment and Assumption covering all or the remaining portion of an assigning Bank's rights and obligations under this Agreement, such Bank shall cease to be a party hereto).
+ 
+(c) By executing and delivering an Assignment and Assumption, the Bank assignor thereunder and the assignee thereunder confirm to and agree with each other and the other parties hereto as follows: (i) other than as provided in such Assignment and Assumption, such assigning Bank makes no representation or warranty and assumes no responsibility with respect to any statements, warranties or representations made in or in connection with this Agreement or any related agreement, instrument or document or the execution, legality, validity, enforceability, genuineness, sufficiency or value of this Agreement or any other instrument or document furnished pursuant hereto; (ii) such assigning Bank makes no representation or warranty and assumes no responsibility with respect to the financial condition of the Company or the performance or observance by the Company of any of its obligations under this Agreement or any related agreement, instrument or document furnished pursuant hereto; (iii) such assignee confirms that it has received a copy of this Agreement, together with copies of the financial statements referred to in Section 6.01 and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into such Assignment and Assumption; (iv) such assignee will, independently and without reliance upon the Administrative Agent, such assigning Bank or any other Bank and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under this Agreement; (v) such assignee confirms that it is an Eligible Bank (unless otherwise agreed in writing by the Administrative Agent, the Company and the Beneficiaries); (vi) such assignee irrevocably appoints and authorizes the Administrative Agent to take such action as administrative agent on its behalf and to exercise such powers under this Agreement as are delegated to the Administrative Agent by the terms hereof, together with such powers as are reasonably incidental thereto; and (vii) such assignee agrees that it will perform in accordance with their terms all of the obligations which by the terms of this Agreement are required to be performed by it as a Bank.
+(d) Upon its receipt of an Assignment and Assumption executed by an assigning Bank and an assignee representing that it is an Eligible Bank, subject to such assignment, the Administrative Agent shall, if such Assignment and Assumption has been completed (and the Company, the Beneficiaries and the Administrative Agent shall have consented to the relevant assignment) and is in substantially the form of Exhibit E hereto, (i) accept such Assignment and Assumption, (ii) record the information contained therein in the register referred to above and (iii) give prompt notice thereof to the Company.
+(e) Each Bank may sell participations to one or more banks or other entities in or to all or a portion of its rights and/or obligations under this Agreement (including, without limitation, all or a portion of its Commitments and the Advances owing to it);
+provided
+,
+however
+, that (i) such Bank's obligations under this Agreement (including, without limitation, its Commitment) and the Letters of Credit shall remain unchanged, (ii) such Bank shall remain solely responsible to the other parties hereto for the performance of such obligations, (iii) the Company, the Administrative Agent, the Issuing Banks and the other Banks shall continue to deal solely and directly with such Bank in connection with such Bank's rights and obligations under this Agreement, (iv) in any proceeding under the Federal Bankruptcy Code in respect of the Company, such Bank shall remain and be, to the fullest extent permitted by law, the sole representative with respect to the rights and obligations held in the name of such Bank (whether such rights or obligations are for such Bank's own account or for the account of any participant) and (v) no participant under any such participation agreement shall have any right to approve any amendment or waiver of any provision of this Agreement or the Letters of Credit, or to consent to any departure by the Company therefrom, except to the extent that such amendment, waiver or consent would reduce the LC Reimbursement Obligations or principal of, or interest on, the Advances or any fees, commissions or other amounts payable hereunder, in each case to the extent subject to such participation, or postpone any date fixed for any payment of the LC Reimbursement Obligations or of the principal of, or interest on, the Advances or any fees or other amounts payable hereunder, in each case to the extent subject to such participation. No sale by a Bank of any participation shall alter the obligations of such Bank under any Letter of Credit.
+ 
+(f) Any Bank may, in connection with any assignment or participation or proposed assignment or participation pursuant to this Section 10.06, disclose to the assignee or participant or proposed assignee or participant, any information relating to the Company or any of its Subsidiaries furnished to such Bank by or on behalf of the Company.
+(g) Notwithstanding any other provision set forth in this Agreement, any Bank may at any time, without the consent of the Company, create a security interest in all or any portion of its rights under this Agreement in favor of any Federal Reserve Bank in accordance with Regulation A of the Board of Governors of the Federal Reserve System.
+(h) Notwithstanding any other provision set forth in this Agreement, any Bank may at any time, without the consent of the Company, any Beneficiary or the Administrative Agent but with notice to the Company and the Administrative Agent, assign to an Affiliate of such Bank all or any portion of its rights (but not its obligations) under this Agreement.
+SECTION 10.07.
+Governing Law; Submission to Jurisdiction
+.
+This Agreement shall be governed by, and construed in accordance with, the law of the State of New York. The Company hereby submits to the nonexclusive jurisdiction of the United States District Court for the Southern District of New York and of any New York state court sitting in New York City for the purposes of all legal proceedings arising out of or relating to this Agreement or the transactions contemplated hereby. The Company irrevocably waives, to the fullest extent permitted by applicable law, any objection that it may now or hereafter have to the laying of the venue of any such proceeding brought in such a court and any claim that any such proceeding brought in such a court has been brought in an inconvenient forum.
+ 
+SECTION 10.08.
+Severability
+.
+In case any provision in this Agreement shall be held to be invalid, illegal or unenforceable, such provision shall be severable from the rest of this Agreement, and the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+SECTION 10.09.
+Execution in Counterparts
+.
+This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+SECTION 10.10.
+Survival
+.
+The obligations of the Company under Sections 2.02(a), 4.02, 4.05, and 10.04, and the obligations of the Banks under Section 9.05, shall survive the repayment of the LC Reimbursement Obligations, the expiration or termination of the Letters of Credit, the termination of the Commitments and the payment in full of principal, interest and all other amounts payable hereunder. In addition, each representation and warranty made, or deemed to be made by any Notice of Borrowing, Notice of Issuance or Notice of Increase, herein or pursuant hereto shall survive the making of such representation and warranty, and no Bank shall be deemed to have waived, by issuing a Letter of Credit or making an Advance, any Default or Event of Default that may arise by reason of such representation or warranty proving to have been false or misleading, notwithstanding that such Bank, any Issuing Bank or the Administrative Agent may have had notice or knowledge or reason to believe that such representation or warranty was false or misleading at the time such extension of credit was made.
+SECTION 10.11.
+Sharing of Set-Offs, Etc.
+(a) Without limiting any of the rights or obligations of the Administrative Agent or the Banks or the rights or obligations of the Company hereunder, if the Company shall fail to pay when due (whether at stated maturity, by acceleration or otherwise) any amount payable by it hereunder, each Bank is hereby authorized at any time and from time to time, to the fullest extent permitted by law, without prior notice to the Company (which notice is expressly waived by the Company to the fullest extent permitted by applicable law), to set off and appropriate and apply against such amount any and all deposits (general or special, time or demand,
+provisional
+or final, in any currency, matured or unmatured) and any other obligations at any time held or owing by such Bank or any Subsidiary, Affiliate, branch or agency thereof to or for the credit or account of the Company. Such Bank shall promptly provide notice to the Company of such set-off,
+provided
+, that failure by such Bank to provide such notice to the Company shall not give the Company any cause of action or right to damages or affect the validity of such set-off and application. The rights of each Bank under this Section are in addition to any other rights and remedies (including, without limitation, any other rights of set-off) that such Bank may have.
+ 
+(b) Each Bank agrees that if it shall, by exercising any right of set-off or counterclaim or otherwise, receive payment of a proportion of the aggregate LC Reimbursement Obligations or the Advances or interest due with respect thereto in excess of its
+pro
+ 
+rata
+share thereof the Bank receiving such
+proportionately
+greater payment shall purchase such participations from the other Banks, and/or such other adjustments shall be made, as may be required so that all such payments shall be shared by the Banks
+pro
+ 
+rata
+as provided in this Agreement;
+provided
+that nothing in this Section shall impair the right of any Bank to exercise any right of set-off or counterclaim it may have and to apply the amount thereof to the payment of indebtedness of the Company other than its indebtedness under this Agreement.
+The Company agrees, to the fullest extent it may effectively do so under applicable law, that any holder of a participation under this clause may exercise rights of set-off or counterclaim and other rights with respect to such participation as fully as if such holder of a participation were a direct creditor of the Company in the amount of such participation.
+SECTION 10.12.
+Waiver of Jury Trial
+.
+EACH OF THE COMPANY, THE ADMINISTRATIVE AGENT AND THE BANKS HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+SECTION 10.13.
+Confidentiality
+. 
+ 
+Neither the Administrative Agent nor any Bank shall disclose any Confidential Information to any Person without the consent of the Company, other than (a) to the Administrative Agent's or such Bank's Affiliates and their officers, directors, employees, agents and advisors and to actual or prospective assignees and participants, and then only on a confidential basis, (b) to the extent required by any applicable law, rule or regulation or judicial process, (c) to any rating agency when required by it, (d) to any other party hereto, (e) in connection with the exercise of any remedies hereunder, (f) subject to an agreement containing provisions substantially the same as those of this paragraph, to any assignee of or Participant in, or any prospective assignee of or Participant in, any of its rights or obligations under this Agreement and (g) as requested or required by any state, federal or foreign authority or examiner or self-regulatory body regulating banks or banking.
+SECTION 10.14.
+USA PATRIOT Act
+. Each Bank hereby notifies the Company that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the "
+Act
+"), it is required to obtain, verify and record information that identifies the Company, which information includes the name and address of the Company and other information that will allow such Bank to identify the Company in accordance with the Act.
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+\
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,209 @@
+FILE:RHT/RHT-8K-20090629165006.txt.gz
+EVENTS:	Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers	Financial Statements and Exhibits
+TEXT:
+ITEM: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) On June 23, 2009, the Compensation Committee of the Board of Directors (the "Committee") of Red Hat, Inc. (the "Company"):
+ 
+ 
+The FY10 SPP PSU Agreement is intended for use with certain grants of SPP PSUs to executive officers in FY2010, including the grants of SPP PSUs approved by the Committee on June 23, 2009. Each SPP PSU represents the right to receive in the future shares of the Company's common stock, or at the Company's election, the value of such shares, according to a formula specified in, and subject to the terms and conditions of, the FY10 SPP PSU Agreement. Capitalized terms not defined in this summary are defined in the FY10 SPP PSU Agreement.
+Under the FY10 SPP PSU Agreement, an executive will be granted an award for a target number of shares of the Company's common stock ("Target Shares"), and depending on the performance of the Company's common stock over a thirty-six month period beginning on March 26, 2009 (the "Performance Period"), the executive may earn up to 200% of the Target Shares. The number of shares earned, according to the formula specified in the FY10 SPP PSU Agreement, will be determined based on a comparison of the performance of the Company's stock price relative to the performance of the stock price of specified peer companies during the Performance Period. This performance is measured by the change in the average price of common stock calculated over the ninety-day periods ending at both the beginning and the end of the Performance Period.
+The Target Share amounts underlying the SPP PSUs granted to the Company's principal executive officer, principal financial officer and other named executive officers, as approved by the Committee, are set forth on Exhibit 99.2 to this Current Report on Form 8-K.
+The executive will receive a single payout following the end of the Performance Period. Settlement of the SPP PSUs will be made within sixty days following the Committee's certification in writing of the number of SPP PSUs earned, but in no event later than the fifteenth day of the third month of the year following the later of the calendar year or the Company's taxable year, in each case, in which the end of the Performance Period falls. If the Company distributes shares to settle the SPP PSUs that are earned, it may withhold from the award a number of shares equal to the applicable withholding tax.
+If an executive's continuous service to the Company or its affiliates as an employee, consultant or director (a "Business Relationship") ceases for any reason prior to the end of the Performance Period, subject to certain exceptions provided for in the FY10 SPP PSU Agreement and described in more detail below, then all unearned SPP PSUs will be forfeited.
+If an executive's Business Relationship ceases by reason of the executive's death or Disability or by reason of the Company's termination of the executive without Good Cause, then the executive will be entitled to payment of a pro rata portion of the SPP PSUs earned for a shortened Performance Period ending upon the cessation of the Business Relationship.
+Additionally, if a Change in Control occurs, and provided the executive's Business Relationship with the Company or its affiliates has not ceased, the Committee may determine that either (i) all of the shares underlying the SPP PSUs will be treated as earned based on the relative performance of the Company's common stock over a shortened Performance Period, ending on the date that the Change in Control occurs, using the price paid for the Company's common stock in the Change in Control transaction and will be paid out in a single lump sum within thirty days following the Change in Control, or (ii) the FY10 SPP PSU Agreement will be "continued, assumed, converted or substituted for", immediately following the Change in Control, using restricted stock of the Company, Parent Corporation or Surviving Corporation converted, as appropriate, using the price paid for the Company's common stock in the Change in Control transaction. The restricted stock will vest on the basis of time of service by the executive, with 25% of such stock being vested as of the first anniversary of the SPP PSU grant date, 50% as of the second anniversary, and 100% as of the third anniversary (to the extent that the end of the Performance Period has not occurred as of the date of the Change in Control). If the executive's employment with the Company or an affiliate is terminated by the Company without Good Cause, by the executive for Good Reason or by reason of the executive's death or Disability within twelve months following such Change in Control, all of the restricted stock will become fully vested on such termination.
+The foregoing description of the terms of the FY10 SPP PSU Agreement does not purport to be complete and is qualified in its entirety by the provisions of the form of FY10 SPP PSU Agreement filed as Exhibit 99.1 hereto and incorporated by reference herein.
+ 
+See Exhibit Index attached hereto.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+This Agreement evidences the grant by Red Hat, Inc., a Delaware corporation (the "Company"), on the date set forth below (the "Grant Date") to the person named below (the "Participant") of a Performance Share Unit Award (the "Award") of the target number of performance share units listed below ("Target Performance Share Units") up to the maximum number of performance share units listed below ("Maximum Performance Share Units") for the Performance Period listed below (the "Performance Period"). Each unit ultimately earned (a "Performance Share Unit") represents the right to receive one share of the Company's common stock, $.0001 par value per share ("Common Stock"), or the value of such Share. This Award is subject to the terms and conditions specified in the Red Hat, Inc. 2004 Long-Term Incentive Plan, as amended, (the "Plan") and in this Agreement, consisting of this Cover Sheet, the attached and thereto.
+Exhibit A
+Appendix A
+ 
+By accepting this Award, the Participant hereby (i) acknowledges that a copy of the Plan and a copy of the Plan prospectus have been delivered to the Participant and additional copies thereof are available upon request from the Company's Equity Compensation Department and can also be accessed electronically, (ii) acknowledges receipt of a copy of this Cover Sheet, and and thereto (collectively, the "Agreement") and accepts the Award subject to all the terms and conditions of the Plan and the Agreement, (iii) represents that the Participant has read and understands the Plan, the Plan prospectus and the Agreement, and (iv) acknowledges that there are tax consequences related to the Award and that the Participant should consult a tax advisor to determine his or her actual tax consequences.
+Exhibit A
+Appendix A
+The Participant must accept this Award electronically, within thirty (30) days following notification of the grant, pursuant to the online acceptance procedure established by the Company; otherwise, the Company may, in its sole discretion, rescind the Award in its entirety.
+ 
+1. .
+Grant of Performance Share Units
+The Award is granted pursuant to and is subject to and governed by the Plan and the terms of this Agreement. Unless otherwise defined in this Agreement, capitalized terms used herein shall have the same meaning as in the Plan. The shares of Common Stock that are issuable after the Performance Share Units have been earned are referred to in this Agreement as "Shares." The Performance Share Units shall be granted to the Participant without payment of consideration (other than continuing services).
+The Performance Period consists of one performance segment corresponding to the thirty-six month period that begins on the first day of the Performance Period. The Performance Share Units earned during the Performance Period are intended to qualify as performance based compensation for purposes of Section 162(m) of the Internal Revenue Code of 1986, as amended, and the regulations thereunder (the "Code") and this Agreement shall be administered and construed by the Committee in accordance with such intention. The Performance Period will be shortened in the event of an intervening Acquisition or a cessation of employment, as provided for under the terms of this Agreement, including Appendix A.
+2. .
+Range of Earned Performance Share Units
+Depending on the performance of the Company's common stock relative to the Peer Group (as defined below) as provided in Section 3, the Participant may earn up to the Number of Maximum Performance Share Units (between zero and 200% of the Target Performance Share Units). The number of Performance Share Units earned will be determined based on a comparison of the Company's performance during the Performance Period with respect to the performance goal set forth in Section 3 to the performance of the peer group companies (the "Peer Group") designated in Section 3 during that Performance Period with respect to the same performance goal, as further described herein.
+3. .
+Determination of Earned Performance Share Units
+(a) . The performance goal is Relative Share Price Performance. For purposes of this Agreement:
+Performance Goal
+(i) "Acquisition" means an event that constitutes a Change in Control (as defined in ) under clauses B or C of that definition.
+Appendix A
+ 
+(ii) "Acquisition Price" means the per share equivalent on a fully diluted basis, assuming exercise of all outstanding options, of the cash consideration and securities paid or payable to the Company or its equity owners at the closing of an Acquisition, with any securities that are not then publicly traded being valued by the Company's Board.
+(iii) "Average Closing Price" means the average closing price of the Company's common stock on a U.S. national securities exchange on which such stock principally trades for each trading day during the First Measurement Period and the Second Measurement Period (for purposes of this determination, the Average Closing Price shall be rounded to two decimal points), taking into account any adjustment under Section 12.2 of the Plan; , , that if the Company has an Acquisition, the "Average Closing Price" means the Acquisition Price. For purposes of clarity, Average Closing Price is determined separately for each of the First Measurement Period and the Second Measurement Period.
+provided
+however
+(iv) "Entity" means each of (x) a member of the Peer Group and (y) the Company;
+(v) "First Measurement Period" means, for each Entity, the ninety-day period ending on the first day of the Performance Period;
+(vi) "Relative Share Price Performance" for each Entity is determined by dividing (A) the difference between (x) the Average Closing Price during the Second Measurement Period (or, as applicable, the Acquisition Price) and (y) the Average Closing Price during the First Measurement Period by (B) the amount in clause (y); and
+(vii) "Second Measurement Period" means, for each Entity, the ninety-day period ending on the last day of the Performance Period.
+(b) . The Peer Group consists of each of Akamai Technologies, Autodesk, BMC Software, Cadence Design Systems, Citrix Systems, Compuware, Jack Henry & Associates, McAfee, Micros Systems, Novell, Progress Software, Real Networks, Sybase, Tibco Software, Verisign, VMWare, and Wind River Systems. If any member of the Peer Group ceases to be a public company during the Performance Period (whether by acquisition, merger, consolidation, liquidation or otherwise), such Member shall be treated as if it were not a member of the Peer Group for the Performance Period.
+Peer Group
+(c) .
+Earned Performance Share Units
+(i) . Following the end of the Performance Period, the Company's performance with respect to the Performance Goal shall be compared to that of the Peer Group. The Company's percentile rank with respect to the Performance Goal shall be equal to the result of dividing (a) by (b), where (a) is the number corresponding to the Company's numerical rank in the group consisting of the Company and the Peer Group (e.g., if the Company ranks seventh with respect to the
+Determining Company Performance
+ 
+Performance Goal for the Performance Period then the number for this purpose would be 7), and (b) is the number equal to the number of companies in the Peer Group for the Performance Period plus one (e.g., if there are 16 companies in the Peer Group for the Performance Period then the number for this purpose would be 17).
+(ii) . The number of earned Performance Share Units shall be determined under the following table based on the Company's percentile rank for the Performance Period.
+Determining Performance Share Units Earned
+ 
+For purposes of this determination, the percentile rank for the Performance Period shall be rounded to three decimal points. If the percentile rank is between two stated percentages above, the Payout Percentage will be prorated accordingly.
+4. .
+Cessation of Business Relationship
+(a) . The Participant must be employed by the Company or one of its Affiliates as an Employee or Director (a "Business Relationship") on the last day of the Performance Period, unless such Business Relationship ceases (i) due to death, Disability (as defined below) or termination without Good Cause (as defined in ) as provided for in this Section 4, or (ii) within twelve months following a Change in Control as provided for in Appendix A. If the Participant's Business Relationship ceases for any reason prior to the last day of the Performance Period, the Performance Share Units will be forfeited, except as provided in this Section 4 or . The Participant's Business Relationship shall be deemed to have ceased on the last day of active service to the Company or an Affiliate and shall not be extended by any notice of termination period. For purposes hereof, a Business Relationship may not be considered as having ceased during any leave of absence, at the discretion of the Committee, if such leave of absence has been approved in writing by the Company. Any change in the type of Business Relationship the Participant has within or among the Company and its Affiliates shall not result in the forfeiture of the Performance Share Units so long as the Participant continuously maintains a Business Relationship.
+Continuous Service Relationship
+Appendix A
+Appendix A
+(b) . In the event the Participant's Business Relationship ceases by reason of death or Disability, the Participant (or the Participant's Beneficiary in the event of
+Death or Disability
+ 
+the Participant's death) shall be entitled to payment of a pro rata portion of the Performance Share Units for the Performance Period (as shortened by the termination), based on the number of days elapsed in the original 36-month Performance Period prior to the cessation of the Business Relationship and the Company's percentile rank for the Performance Period.
+(c) . In the event the Participant's Business Relationship ceases by reason of the Company's termination of the Participant without Good Cause, the Participant shall be entitled to payment of a pro rata portion of the Performance Share Units for the Performance Period (as shortened by the termination), based on the number of days elapsed in the original 36-month Performance Period prior to the cessation of the Business Relationship and the Company's percentile rank for the Performance Period.
+Cessation without Good Cause
+(d) . For purposes of this Section:
+Definitions
+(i) "Beneficiary" shall mean the last person or persons designated by the Participant as his or her beneficiary in writing prior to the Participant's death. If no such person survives the Participant, the Beneficiary shall be the Participant's estate.
+(ii) "Disability" shall mean that as a result of accidental bodily injury, sickness, mental illness, substance abuse or pregnancy, the Participant is expected for a period of twenty-four (24) months thereafter (i) to be prevented from performing one or more of the essential duties of the Participant's occupation, (ii) to have monthly earnings of less than eighty percent (80%) of the Participant's pre-Disability earnings, and (iii) to be under the regular care of a physician. For purposes of this Agreement a duty is essential if it is substantial, not incidental, is fundamental or inherent to the Participant's occupation and cannot be reasonably omitted or changed; to be at work for the number of hours in the Participant's regularly scheduled work week is also an essential duty. The Committee may require such proof of Disability as the Committee in its sole and absolute discretion deems appropriate and the Committee's determination as to whether the Participant has incurred a Disability shall be final and binding on all parties concerned.
+5. .
+Payment
+(a) Within 60 days following the Committee's certification in writing of the Performance Share Units earned, but in no event later than the 15
+th
+day of the third month of the year following the later of the calendar year or the Company's taxable year, in each case, in which falls the end of the Performance Period, the Company shall distribute to the Participant (or to the Participant's Beneficiary in the event of death) the Shares represented by Performance Share Units (or Restricted Stock as defined in ) that were earned (or vested in the case of Restricted Stock), reduced by the number of Shares (if any) that are withheld from the Award for the payment of Tax-Related Items (as defined in Section 12 hereof) and upon the satisfaction of all other applicable conditions as to the Performance Share Units; provided, however, that the Shares may be distributed following the date contemplated in this Section to the extent permitted under Section 409A of the Code without the payment becoming subject to, and being treated as "nonqualified deferred compensation" within the meaning of Section 409A of the Code (such as where the Company reasonably anticipates that the payment will violate federal securities laws or other applicable laws). Payment of any earned Performance Share
+Appendix A
+ 
+Units (or vested Restricted Stock) shall be made in whole Shares. Earned Performance Share Units (or vested Restricted Stock) shall be rounded down to the nearest whole Share, and the Company shall pay the value of any fractional Shares to the Participant in cash on the basis of the Fair Market Value per share of Common Stock on the date of distribution.
+(b) The Company shall not be obligated to issue Shares to the Participant upon the earning of any Performance Share Units (or vesting of any Restricted Stock or otherwise) unless the issuance and delivery of such Shares shall comply with all relevant provisions of law and other legal requirements including, without limitation, any applicable federal, state or foreign securities laws, any applicable Tax-Related Items and the requirements of any stock exchange upon which Shares may be listed.
+(c) Anything in the foregoing to the contrary notwithstanding, Performance Share Units granted under this Agreement may be suspended, delayed or otherwise deferred for any of the reasons contemplated in Sections 4 and 5 only to the extent such suspension, delay or deferral is permitted under U.S. Treas. Reg. 1.409A-2(b)(7), 1.409A-1(b)(4)(ii) or successor provisions, or as otherwise permitted under Section 409A of the Code.
+6. .
+Option of Company to Deliver Cash
+Notwithstanding any of the other provisions of this Agreement, at the time when the Performance Share Units (or Restricted Stock) are payable pursuant to Sections 5 or 11, the Company may elect, in the sole discretion of the Committee, to deliver to the Participant in lieu of the Shares represented by Performance Share Units (or Restricted Stock) that are then payable an equivalent amount of cash (determined by reference to the closing price of the Shares on the principal exchange on which the Shares trade on the applicable payment date or if such date is not a trading date, on the next preceding trading date). Such payments shall be made no later than the deadline set forth in Section 5(a) hereof. If the Company elects to deliver cash to the Participant, the Company is authorized to retain such amount as is sufficient to satisfy the withholding of Tax-Related Items (as defined in Section 12 hereof).
+7. .
+Restrictions on Transfer
+(a) The Participant shall not sell, assign, transfer, pledge, hypothecate or otherwise encumber or dispose of any Performance Share Units (or Restricted Stock), either voluntarily or by operation of law. Any attempt to dispose of any Performance Share Units (or Restricted Stock) in contravention of the above restriction shall be null and void and without effect.
+(b) The Company shall not be required (i) to transfer on its books any of the Performance Share Units (or Restricted Stock) which have been transferred in violation of any of the provisions set forth herein or (ii) to treat as the owner of such Performance Share Units (or Restricted Stock) any transferee to whom such Performance Share Units have been transferred in violation of any of the provisions contained herein.
+8. . Neither the Plan, this Agreement, nor the grant of the Performance Share Units imposes any obligation on the Company or its Affiliates to have or continue a Business Relationship with the Participant.
+No Obligation to Continue Business Relationship
+ 
+9. . The Performance Share Units represent an unfunded, unsecured promise by the Company to deliver Shares or the value thereof in accordance with the terms of this Agreement. The Participant shall have no rights as a shareholder with respect to the Shares underlying the Performance Share Units. The Participant shall have no right to vote or receive dividends with respect to any Shares underlying the Performance Share Units unless and until such Shares are distributed to the Participant or converted into Restricted Stock as provided in .
+No Rights as Stockholder
+Appendix A
+10. . The Plan contains provisions covering the treatment of Performance Share Units (and Restricted Stock) in a number of contingencies such as stock splits and mergers. Provisions in the Plan for such adjustments are hereby made applicable hereunder and are incorporated herein by reference.
+Adjustments for Capital Changes
+11. .Provisions regarding a Change in Control are set forth in .
+Change in Control
+Appendix A
+12. .
+Withholding Taxes
+(a) Regardless of any action the Company and/or the Affiliate employing the Participant (the "Employer") take with respect to any or all income tax (including U.S. federal, state and local tax and/or non-U.S. tax), social insurance, payroll tax or other tax-related items ("Tax-Related Items"), the Participant hereby acknowledges that the ultimate liability for all Tax-Related Items legally due by the Participant with respect to the Participant's Award of Performance Share Units, earning of the Performance Share Units, or the issuance of Shares (or payment of cash) in settlement of earned Performance Share Units is and remains the Participant's responsibility and that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Performance Share Units, including the award of the Performance Share Units, the earning of the Performance Share Units (or vesting of Restricted Stock), the issuance of Shares (or payment of cash) in settlement of the Performance Share Units, the subsequent sale of Shares acquired at earning and the receipt of any dividends and or Dividend Equivalents; and (ii) do not commit to structure the terms of the Award or any aspect of the Performance Share Units to reduce or eliminate the Participant's liability for Tax-Related Items.
+(b) Prior to the relevant tax withholding event, as applicable, the Participant shall pay or make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all withholding obligations of the Company and/or the Employer with respect to Tax-Related Items. In this regard, the Participant hereby authorizes the Company and/or the Employer, in their sole discretion and without any notice to or authorization by the Participant, to withhold from the Shares being distributed under this Award upon the determination of earned Performance Share Units that number of whole Shares the fair market value of which (determined by reference to the closing price of the Common Stock on the principal exchange on which the Common Stock trades on the date the withholding obligation arises, or if such date is not a trading date, on the next preceding trading date) is equal to the aggregate withholding obligation as determined by the Company and/or Employer with respect to such Award, provided that the Company only withholds the number of Shares necessary to satisfy the minimum withholding obligation amount. If the Company satisfies the withholding obligation for Tax-Related Items by
+ 
+withholding a number of Shares being distributed under the Award as described above, the Participant hereby acknowledges that the Participant is deemed to have been issued the full number of Shares subject to the Award of Performance Share Units (or the Restricted Stock), notwithstanding that a number of the Shares is held back solely for the purpose of paying the Tax-Related Items due as a result of the Award, earning and/or settlement of the Performance Share Units (or vesting of Restricted Stock). In the event the Tax-Related Items withholding obligation would result in a fractional number of Shares to be withheld by the Company, such number of Shares to be withheld shall be rounded up to the next nearest number of whole Shares. If, solely due to rounding of Shares, the value of the number of Shares retained by the Company pursuant to this provision is more than the amount required to be withheld, then the Company may pay such excess amount to the relevant tax authority as additional withholding with respect to the Participant.
+(c) Alternatively, or in addition, the Company may (a) only to the extent and in the manner permitted by all applicable securities laws, including making any necessary securities registration or taking any other necessary actions, instruct the broker whom it has selected for this purpose to sell on the Participant's behalf, the Shares to be issued upon the earning or settlement, as applicable, of the Participant's Performance Share Units (or vesting of Restricted Stock) to meet the withholding obligation for Tax-Related Items, and/or (b) withhold all applicable Tax-Related Items legally payable by Participant from Participant's wages or other cash compensation paid to Participant by the Company and/or the Employer.
+(d) Finally, the Participant hereby acknowledges that the Participant is required to pay to the Employer any amount of Tax-Related Items that the Employer may be required to withhold as a result of the Participant's Award of Performance Share Units, earning of the Performance Share Units (or vesting of Restricted Stock), or the issuance of Shares (or payment of cash) in settlement of earned Performance Share Units (or vested Restricted Stock) that cannot be satisfied by the means previously described. The Participant hereby acknowledges that the Company may refuse to deliver the Shares in settlement of the earned Performance Share Units (or vested Restricted Stock) to the Participant if the Participant fails to comply with the Participant's obligations in connection with the Tax-Related Items as described in this Section. The Participant shall have no further rights with respect to any Shares that are retained by the Company pursuant to this provision, and under no circumstances will the Company be required to issue any fractional Shares.
+(e) The Participant has reviewed and understands the tax withholding and payment obligations as set forth in this Agreement and understands that the Company is not providing any tax advice and that the Participant should consult with Participant's own tax advisors on the U.S. federal, state, foreign and local tax and non-U.S. tax consequences of this investment and the transactions contemplated by this Agreement.
+13. . In accepting the Performance Share Units, Participant acknowledges that: (a) the grant of the Performance Share Units is voluntary and occasional and does not create any contractual or other right to receive future grants of Performance Share Units, or benefits in lieu of Performance Share Units even if Performance Share Units have been granted repeatedly in the past; (b) all decisions with respect to future awards of Performance Share Units, if any, will be at the sole discretion of the Company; (c) the future value of the underlying Shares is
+Nature of Grant
+ 
+unknown and cannot be predicted with certainty; (d) in consideration of the award of Performance Share Units, no claim or entitlement to compensation or damages shall arise from termination of the Performance Share Units or any diminution in value of the Performance Share Units or Shares received when the Performance Share Units are earned resulting from the Participant's termination of employment by the Company or any Affiliate (for any reason whatsoever and whether or not in breach of local employment laws), and Participant irrevocably releases the Company and/or the Affiliate from any such claim that may arise; (e) in the event of involuntary termination of Participant's employment (whether or not in breach of local employment laws), Participant's right to receive Performance Share Units and vesting under the Plan, if any, will terminate effective as of the date that Participant is no longer actively employed and will not be extended by any notice period mandated under local law or contract, and the Company shall have the exclusive discretion to determine when Participant is no longer actively employed for purposes of the Performance Share Units; (f) the Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding Participant's participation in the Plan, or Participant's acquisition or sale of the underlying Shares; and (g) Participant is hereby advised to consult with his or her own personal tax, legal and financial advisors regarding Participant's participation in the Plan before taking any action related to the Plan.
+14. .
+Miscellaneous
+(a) .All notices hereunder shall be in writing and shall be deemed given when sent by certified or registered mail, postage prepaid, return receipt requested, if to the Participant, to the address set forth on the cover sheet or at the most recent address shown on the records of the Company, and if to the Company, to the Company's principal office, attention of the Corporate Secretary.
+Notices
+(b) . This Agreement (including the cover sheet) and the Plan constitutes the entire agreement between the parties relative to the subject matter hereof, and supersedes all other communications between the parties relating to the subject matter of this Agreement. This Agreement may be modified, amended or rescinded by the Committee as it shall deem advisable, subject to any requirement for shareholder approval imposed by applicable law or other applicable rules, including, without limitation, the rules of the stock exchange on which the Shares are listed. If the Committee determines that the Award terms could result in adverse tax consequences to the Participant, the Committee may amend this Agreement without the consent of the Participant in order to minimize or eliminate such tax treatment.
+Entire Agreement; Modification
+(c) . This Agreement is subject to all terms and provisions of the Plan. In the event of a conflict between one or more provisions of this Agreement and one or more provisions of the Plan, the provisions of the Plan will govern.
+Plan Governs
+(d) .The invalidity, illegality or unenforceability of any provision of this Agreement shall in no way affect the validity, legality or enforceability of any other provision.
+Severability
+(e) . This Agreement shall inure to the benefit of and be binding upon the heirs, legatees, distributees, executors and administrators of the Participant and the successors and assigns of the Company.
+Successors and Assigns
+ 
+(f) . The Participant is urged to read this Agreement carefully and to consult with his or her own legal counsel regarding the terms and consequences of this Agreement and the legal and binding effect of this Agreement. By virtue of his or her acceptance of this Agreement, the Participant is deemed to have accepted and agreed to all of the terms and conditions of this Award and the provisions of the Plan, including as binding, conclusive and final all decisions or interpretations of the Committee upon any questions arising under the Plan or this Award.
+Participant's Acceptance
+(g) . This Agreement, the Performance Share Units and payments made pursuant to this Agreement are intended to comply with or qualify for an exemption from the requirements of Section 409A of the Code ("Section 409A") and shall be construed consistently therewith and shall be interpreted in a manner consistent with that intention. Terms defined in the Agreement shall have the meanings given such terms under Section 409A if and to the extent required to comply with Section 409A. Notwithstanding any other provision of this Agreement, the Company reserves the right, to the extent the Company deems necessary or advisable, in its sole discretion, to unilaterally amend the Plan and/or this Agreement to ensure that all Performance Share Units are awarded in a manner that qualifies for exemption from or complies with Section 409A, provided, however, that the Company makes no undertaking to preclude Section 409A from applying to this Award of Performance Share Units. Any payments described in this Section 14(g) that are due within the "short term deferral period" as defined in Section 409A shall not be treated as deferred compensation unless applicable law requires otherwise. If and to the extent any portion of any payment, compensation or other benefit provided to the Participant in connection with his employment termination is determined to constitute "nonqualified deferred compensation" within the meaning of Section 409A and the Participant is a specified employee as defined in Section 409A(2)(B)(i) of the Code, as determined by the Company in accordance with its procedures, by which determination the Participant hereby agrees that he is bound, such portion of the payment, compensation or other benefit shall not be paid before the day that is six months plus one day after the date of separation from service (as determined under Section 409A (the "New Payment Date")), except as Section 409A may then permit. The aggregate of any payments that otherwise would have been paid to the Participant during the period between the date of separation from service and the New Payment Date shall be paid to the Participant in a lump sum on such New Payment Date, and any remaining payments will be paid on their original schedule. Notwithstanding the foregoing, the Company, its Affiliates, Directors, Officers and Agents shall have no liability to a Participant, or any other party, if an Award that is intended to be exempt from, or compliant with, Section 409A is not so exempt or compliant, or for any action taken by the Committee.
+Section 409A
+(h) . This Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware, without giving effect to the principles of the conflicts of laws thereof. For purposes of litigating any dispute that arises directly or indirectly from the relationship of the parties, evidenced by this Award or the Agreement, the parties hereby submit to and consent to the exclusive jurisdiction of the State of North Carolina and agree that such litigation shall be conducted only in the courts of Wake County, North Carolina, or the federal courts for the United States for the Tenth District of North Carolina, and no other courts, where this Award is made and/or to be performed.
+Governing Law/Choice of Venue
+ 
+(i) . The Committee will have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules (including, but not limited to, the determination of whether or not any Performance Share Units (or Restricted Stock) have been earned (or vested in the case of Restricted Stock)). All actions taken and all interpretations and determinations made by the Committee in good faith will be final and binding upon Participant, the Company and all other interested persons.
+Administrator Authority
+ 
+(a) Notwithstanding anything contained herein to the contrary, in the event of a Change in Control and provided the Participant's Business Relationship with the Company or Affiliate has not ceased, either (i) this Agreement will be continued, assumed, converted, or substituted for (consistent with paragraph (c) below) immediately following a Change in Control using restricted stock (the "Restricted Stock") of the Company, Parent Corporation or Surviving Corporation (the latter two terms as defined below), converted, as appropriate, based on the Acquisition Price, and subject to the vesting schedule in paragraph (b) below or (ii) all of the Shares underlying the Performance Share Unit award shall be treated as earned based on Relative Share Price Performance as of the date the Change in Control occurs using the Acquisition Price as the Average Closing Price and shall be paid out in a single lump sum within 30 days following the Change in Control. The Committee shall determine the actions under this paragraph (a).
+(b) The Restricted Stock shall become vested (measuring vesting years from the Grant Date of the Performance Share Units) in accordance with the following schedule if the Participant's Business Relationship continues (to the extent that the end of the applicable year in the Performance Period has not occurred as of the date of the Change in Control):
+ 
+If the Participant's employment with the Company or Affiliate is terminated by the Company without Good Cause, by the Participant for Good Reason, or by reason of the Participant's death or Disability within 12 months following such Change in Control, all of the Restricted Stock shall become fully vested on such termination.
+(c) For purposes of this , this Agreement shall be considered to be continued, assumed, converted or substituted for:
+Appendix A
+(i) if there is no change in the number of outstanding shares of Common Stock of the Company and the Change in Control does not result from the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction, and there are no changes to the terms and conditions of this Agreement that materially and adversely affect this Agreement; or
+(ii) if there is a change in the number of such outstanding shares of Common Stock of the Company and/or the Change in Control does result from the consummation of a merger, consolidation, statutory share exchange, reorganization or similar form of corporate transaction:
+ 
+ 
+ 
+(d) For purposes of this Agreement, the following terms shall have the assigned meanings:
+(i) "" means the occurrence of any one of the following events:
+Change in Control
+ 
+ 
+ 
+ 
+ 
+ 
+Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any person acquires beneficial ownership of more than 35% of the Company Voting Securities as a result of the acquisition of Company Voting Securities by the Company which reduces the number of Company Voting Securities outstanding; , if after such acquisition by the Company such person becomes the beneficial owner of additional Company Voting Securities that increases the percentage of outstanding Company Voting Securities beneficially owned by such person, a Change in Control of the Company shall then occur.
+provided
+that
+(ii) "" means conduct involving one or more of the following:
+Good Cause
+ 
+ 
+ 
+(iii) "" means:
+Good Reason
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 99.2
+Target Share Price Performance Share Units Awarded under the Performance Share Unit Agreement (Fiscal Year 2010  SPP Form)
+ 
+
+

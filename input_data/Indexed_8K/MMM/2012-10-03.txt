@@ -1,0 +1,1427 @@
+FILE:MMM/MMM-8K-20121003123303.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+    
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+    
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+    
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+    
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 1.01
+Entry Into A Material Definitive Agreement
+ 
+On September 28, 2012, 3M Company entered into a $1.5 billion, amended and restated five-year revolving credit agreement (the "Credit Agreement") with J.P. Morgan Securities LLC and Citicorp Global Markets Inc. as joint lead arrangers and joint bookrunners, JPMorgan Chase Bank, N.A. as administrative agent, Citibank, N.A. as syndication agent, Deutsche Bank Securities Inc. as documentation agent, and a syndicate of lenders as defined in the Credit Agreement.  The Credit Agreement amended and restated the $1.5 billion, five-year revolving credit agreement dated as of August 5, 2011 among 3M, the lenders named therein and JPMorgan Chase Bank, N.A. as administrative agent.
+ 
+Under the Credit Agreement, 3M pays a facility fee that varies between 0.045% and 0.100%, depending on our credit rating. Revolving advances denominated in U.S. Dollars carry, at 3M's option, either the "base rate" of interest in effect plus the applicable margin, or the "eurocurrency rate" which is a periodic fixed LIBOR plus the applicable margin.  Borrowings denominated in a currency other than U.S. Dollars carry the "eurocurrency rate." The "base rate" of interest is the highest of (i) JPMorgan Chase Bank, N.A.'s prime rate, (ii) the Federal Funds Rate plus 0.50%, or (iii) one-month LIBOR plus 1.00%.  The applicable margin includes a market rate spread which is a rate per annum equal to the credit default swap mid-rate spread of 3M for the applicable tenor.  This spread varies between 0.100% and 1.125% depending on our credit rating.  The applicable margin for "eurocurrency rate" advances is the market rate spread.  The applicable margin for "base rate" advances is the market rate spread minus 1.00% (but not less than 0%).
+ 
+The Credit Agreement includes a provision under which 3M may request an increase of the total facility up to $2 billion, with the grant of such request at the lenders' discretion.  The Credit Agreement contains customary representations, warranties and covenants, including but not limited to covenants restricting our ability to incur liens, merge or consolidate with another entity. Further, the Credit Agreement contains a covenant requiring us to maintain our EBITDA to Interest Ratio as of the end of each quarter at not less than 3.0 to 1. This is calculated as the ratio of consolidated EBITDA for the four consecutive quarters then ended to interest payable on all funded debt for the same period.
+ 
+The full terms and conditions of the credit facility are set forth in the Credit Agreement. A copy of the Credit Agreement is filed as Exhibit 10.1 hereto and is incorporated by reference herein.
+ 
+Some of the lenders named under the Credit Agreement and their affiliates have various relationships with 3M and its subsidiaries involving the provision of financial services, including cash management, investment banking, foreign exchange and trust services.
+ 
+Item 2.03.
+Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant
+ 
+The information described above under "Item 1.01. Entry into a Material Definitive Agreement" with respect to the Credit Agreement is hereby incorporated by reference.
+ 
+Item 9.01
+Financial Statements and Exhibits
+ 
+(d)           Exhibits:
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+ 
+
+ 
+Exhibit 10.1
+ 
+EXECUTION COPY
+ 
+ 
+ 
+ 
+3M Company, a Delaware corporation, the Banks, as defined below, and JPMorgan Chase Bank, N.A., a national banking association, as Administrative Agent for the Banks, hereby agree as follows:
+ 
+PRELIMINARY STATEMENT.      The Borrower, the lenders party thereto and JPMCB, as administrative agent, are parties to a Five Year Credit Agreement dated as of August 5, 2011 (the "").  Subject to the satisfaction of the conditions set forth in Section 7 hereof, the parties hereto agree to amend and restate the Existing Credit Agreement as herein set forth.
+Existing Credit Agreement
+ 
+1
+.
+                                     
+DEFINITIONS
+ 
+1
+.1
+                              
+Generally.
+ 
+"Additional Bank" means a Bank that becomes a party hereto pursuant to Section 2.6 or 2.7.
+ 
+"Advance" means a Revolving Advance, a Swingline Advance, or a Bid Loan.
+ 
+"Affiliate", as applied to any Person, means any other Person directly or indirectly controlling, controlled by, or under common control with, that Person.  For the purposes of this definition, "control" (including, with correlative meanings, the terms "controlling", "controlled by" and "under common control with"), as applied to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of that Person, whether through the ownership of voting securities or by contract or otherwise.
+ 
+"Agent" means JPMCB, in its capacity as lead arranger and administrative agent for the Banks hereunder (which may act through any of its Affiliates in performance of its duties hereunder.
+ 
+"Agent's Account" means (a) in the case of Advances denominated in Dollars, the account of the Agent maintained by the Agent at JPMCB at its office at 1111 Fannin Street, 10
+th
+ Floor, Houston, Texas 77002, Account No. 9008113381H0305, Attention: Maria Saez, (b) in the case of Advances denominated in any Committed Currency, the account of the Agent designated in writing from time to time by the Agent to the Borrower and the Banks for such purpose and (c) in any such case, such other account of the Agent as is designated in writing from time to time by the Agent to the Borrower and the Banks for such purpose.
+ 
+"Aggregate Commitment Amount" means the sum of each Bank's Commitment.
+ 
+"Aggregate Outstandings" means, at any time, an amount equal to the sum of  (i) the aggregate principal balance of the Revolving Advances then outstanding, (ii) the aggregate principal amount of the Bid Loans then outstanding and (iii) the aggregate principal balance of the Swingline Advances then outstanding.
+ 
+"Agreement" means this Amended and Restated Five Year Credit Agreement.
+ 
+"Applicable Fee Percentage" means, as of any date, a percentage per annum determined by reference to the Public Debt Rating in effect on such date as set forth below:
+ 
+ 
+"Applicable Margin" means (a) (i) for LIBO Rate Advances as of any date, a percentage per annum equal to the Market Rate Spread on the Spread Determination Date in relation to such Advances and (b) for Floating Rate Advances as of any date, a rate per annum that is 100 basis points lower than the rate determined in accordance with clause (a) above; that in no event shall the Applicable Margin for Floating Rate Advances be lower than 0.00%.
+provided
+ 
+"Assignment Certificate" means a certificate, acceptable to the Agent in form and substance, assigning a Bank's rights and obligations under this Agreement or a related document pursuant to Section 11.11.
+ 
+"Bankruptcy Event" means, with respect to any Person, such Person becomes the subject of a bankruptcy or insolvency proceeding, or has had a receiver, conservator, trustee, administrator, custodian, assignee for the benefit of creditors or similar Person charged with the reorganization or liquidation of its business appointed for it, or, in the good faith determination of the Agent, has taken any action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any such proceeding or appointment, provided that a Bankruptcy Event shall not result solely by virtue of any ownership interest, or the acquisition of any ownership interest, in such Person by a governmental authority or instrumentality thereof, provided, further, that such ownership interest does not result in or provide such Person with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment on its assets or permit such Person (or such governmental authority or instrumentality) to reject, repudiate, disavow or disaffirm any contracts or agreements made by such Person.
+ 
+"Banks" means JPMCB, acting on its own behalf and not as Agent; and each other Person (other than the Borrower) that is a party hereto or hereafter becomes a party hereto pursuant to the procedures set forth in Sections 2.6, 2.7 or 11.11.
+ 
+"Base Rate" means a fluctuating interest rate per annum in effect from time to time, which rate per annum shall at all times be equal to the highest of (i) the rate of interest publicly announced by JPMCB, N.A. in New York, New York from time to time as its "prime" rate of interest, (ii) the Federal Funds Rate plus one-half of one percent (.50%) or (iii) the British Bankers Association Interest Settlement Rate applicable to Dollars for a period of one month ("One
+ 
+Month LIBOR") plus 1.00% (for the avoidance of doubt, the One Month LIBOR for any day shall be based on the rate appearing on Reuters LIBOR01 Page (or other commercially available source providing such quotations as designated by the Agent from time to time) at approximately 11:00 a.m. London time on such day).
+ 
+"Bid Borrowing" means a borrowing under Section 2.3 consisting of Bid Loans made to the Borrower at the same time by one or more Banks.  All Bid Loans made pursuant to a single Bid Borrowing Request shall constitute a single Bid Borrowing even if such Bid Borrowing Request requested Bid Loan Quotes covering multiple Interest Periods.
+ 
+"Bid Borrowing Request" has the meaning specified in Section 2.3(a).
+ 
+"Bid Loan" means a loan by a Bank pursuant to Section 2.3.
+ 
+"Bid Loan Quote" means an offer by a Bank to make a Bid Loan in accordance with Section 2.3.
+ 
+"Borrower" means 3M Company, a Delaware corporation.
+ 
+"Borrowing" means a borrowing under Section 2.1 consisting of simultaneous pro rata Advances to the Borrower by each of the Banks severally.
+ 
+"Business Day" means a day other than a Saturday, Sunday, United States national holiday or other day on which banks in New York are permitted or required by law to close.  Whenever the context relates to a LIBO Rate, amounts bearing interest at a LIBO Rate, or a Bid Loan, "Business Day" means a day (i) that meets the foregoing definition, and (ii) on which dealings are carried on in the London interbank market and banks are open for business in London and in the country of issue of the currency of such LIBO Rate Advance (or, in the case of an Advance denominated in Euro, on which the Trans-European Automated Real-Time Gross Settlement Express Transfer (TARGET) System is open).
+ 
+"Committed Currencies" means Sterling, Euros and any other currency that is freely convertible into Dollars and agreed to by all Banks and the Agent.
+ 
+"Commitment" means, with respect to each Bank, (a) the Dollar amount set forth opposite such Bank's name on the signature pages hereof or if such Bank is an Additional Bank or if such Bank has entered into an Assignment Certificate, the Dollar amount set forth for such Bank in the records maintained by the Agent, as such amount may be reduced pursuant to Section 6.4 or increased pursuant to Section 2.6, or (b) the commitment of that Bank to make Advances hereunder, as the context may require.
+ 
+"Commitment Termination Date" means September 28, 2017, subject to the extension thereof pursuant to Section 2.7 or, if earlier, the date on which the Banks' Commitments are terminated pursuant to Section 10 or by agreement of the parties; , , that the Commitment Termination Date of any Bank that is a Non-Consenting Bank to any requested extension pursuant to Section 2.7 shall be the Commitment Termination Date in effect immediately prior to the applicable Extension Date for all purposes of this Agreement.
+provided
+however
+ 
+ 
+"Committed Outstandings" means, at any time with respect to any Bank, an amount equal to the sum of  (i) the aggregate principal balance of that Bank's Revolving Advances then outstanding (based on the Equivalent in Dollars at such time), (ii) that Bank's Percentage of the aggregate principal balance of the Swingline Advances then outstanding.
+ 
+"Credit Exposure" means, with respect to any Bank (i) at any time prior to termination of the Commitments in full, such Bank's Commitment (whether used or unused); that in the case of Section 6.7 when a Defaulting Bank shall exist, "Credit Exposure" shall mean the percentage of the total Commitments (disregarding any Defaulting Bank's Commitment) represented by such Bank's Commitment, or (ii) thereafter, such Bank's Committed Outstandings.
+provided
+ 
+"Default" means an event that, with the giving of notice, the passage of time or both, would constitute an Event of Default.
+ 
+"Defaulting Bank" means any Bank that (a) has failed, within two Business Days of the date required to be funded or paid, to (i) fund any portion of its Advances, (ii) fund any portion of its participations in Swingline Advances or (iii) pay over to the Agent, the Swingline Bank or any other Bank any other amount required to be paid by it hereunder, unless, in the case of clause (i) above, such Bank notifies the Agent in writing that such failure is the result of such Bank's good faith determination that a condition precedent to funding (specifically identified and including the particular default, if any) has not been satisfied, (b) has notified the Borrower, the Agent, the Swingline Bank or any Bank in writing, or has made a public statement to the effect, that it does not intend or expect to comply with any of its funding obligations under this Agreement (unless such writing or public statement indicates that such position is based on such Bank's good faith determination that a condition precedent (specifically identified and including the particular default, if any) to funding a loan under this Agreement cannot be satisfied) or generally under other agreements in which it commits to extend credit, (c) has failed, within three Business Days after request by the Agent or the Swingline Bank, acting in good faith, to provide a certification in writing from an authorized officer of such Bank that it will comply with its obligations (and is financially able to meet such obligations) to fund prospective Advances and participations in then outstanding Swingline Advances under this Agreement, provided that such Bank shall cease to be a Defaulting Bank pursuant to this clause (c) upon the Agent's or the Swingline Bank's receipt of such certification in form and substance satisfactory to it and the Agent, or (d) has become the subject of a Bankruptcy Event.
+ 
+"Dollars" and the "$" sign each means lawful currency of the United States of America.
+ 
+"EBITDA" means, for any period, net income (or net loss) the sum of (a) interest expense, (b) income tax expense, (c) depreciation expense and (d) amortization expense, in each case determined in accordance with GAAP for such period.
+plus
+ 
+"EBITDA to Interest Ratio" means, as of the last day of any Fiscal Quarter, the ratio of (i) consolidated EBITDA of the Borrower and its subsidiaries for the period of four consecutive Fiscal Quarters then ended to (ii) interest payable on, and amortization of debt discount in respect of, all Funded Debt of the Borrower and its subsidiaries during such period of four Fiscal Quarters.
+"Effective Date" means the date on which the conditions precedent set forth in Section 7 have been satisfied, which shall be no later than September 28, 2012.
+ 
+"Eligible Assignee" means (i) any Bank or any Affiliate of any Bank; (ii) a commercial bank organized under the laws of the United States or any state thereof; or (iii) a commercial bank organized under the laws of any other country which is a member of the Organization for Economic Cooperation and Development or a political subdivision of such country;  provided that (x) neither the Borrower nor any Affiliate of the Borrower shall be an Eligible Assignee, (y) any Eligible Assignee or any corporation controlling such Eligible Assignee must also have senior unsecured long-term debt ratings which are rated at least A- (or the equivalent) as publicly announced by S&P or A3 (or the equivalent) as publicly announced by Moody's or Fitch, and (z) any Eligible Assignee or any corporation controlling such Eligible Assignee must have shareholders' equity in an amount not less than $3,000,000,000.
+ 
+"Equivalent" in Dollars of any Committed Currency or in any Committed Currency of Dollars on any date, means the quoted spot rate appearing at
+oanda.com/convert/classic or, if such rate is not available, the rate
+at which the Agent offers, in accordance with normal banking industry practice, to exchange Dollars or such Committed Currency for such Committed Currency or Dollars, as the case may be, in New York, New York prior to 4:00 P.M. (New York time) on such date.
+ 
+"ERISA" means the Employment Retirement Security Act of 1974, as amended from time to time, and the regulations and rulings issued thereunder.
+ 
+"EURIBO Rate" means, for any Interest Period, the rate appearing on Page 248 of the Moneyline Telerate Service (or on any successor or substitute page of such Service, or any successor to or substitute for such Service, providing rate quotations comparable to those currently provided on such page of such Service, as determined by the Agent from time to time for purposes of providing quotations of interest rates applicable to deposits in Euro by reference to the Banking Federation of the European Union Settlement Rates for deposits in Euro) at approximately 10:00 a.m., London time, two Business Days prior to the commencement of such Interest Period, as the rate for deposits in Euro with a maturity comparable to such Interest Period; provided, however, that if such page is no longer available, the EURIBO Rate shall be determined by the Agent on the basis of a substantially comparable source of the Agent's selection and acceptable to the Banks, for the number of days comprised therein and in an amount equal or comparable to the amount of the LIBO Rate Advance of the Agent (in its individual capacity) to be outstanding during such Interest Period.
+ 
+"Euro" means the lawful currency of the European Union as constituted by the Treaty of Rome which established the European Community, as such treaty may be amended from time to time and as referred to in the EMU legislation.
+ 
+"Event of Default" means an event specified in Section 10.1.
+ 
+"Existing Credit Agreement" has the meaning specified in the preliminary statement to this Agreement.
+ 
+"Federal Funds Rate" means, for any period, a fluctuating interest rate per annum equal for each day during such period to the weighted average of the rates on overnight federal funds transactions with members of the Federal Reserve System arranged by federal funds brokers, as published for such day (or, if such day is not a Business Day, for the next preceding Business Day) by the Federal Reserve Bank of New York, or, if such rate is not so published for any day that is a Business Day, the average of the quotations for such day on such transactions received by the Agent from three federal funds brokers of recognized standing selected by it.
+ 
+"Fee Letter" means one or more separate agreements between the Borrower and the Agent, setting forth the terms of certain fees to be paid by the Borrower to the Agent for the benefit of the Banks and/or for the Agent's own behalf, as more fully set forth therein.
+ 
+"Fiscal Quarter" means any of the four periods, each approximately three calendar months in length, comprising the Borrower's fiscal year.
+ 
+"Fitch" means Fitch, Inc.
+ 
+"Floating Rate" means, for any period, a fluctuating interest rate per annum equal for each such day during such period to the sum of the Base Rate for such day, plus the Applicable Margin for such day.
+ 
+"Funded Debt" means the sum of (i) all obligations of the Borrower and its subsidiaries for borrowed money, including but not limited to principal and interest with respect to all indebtedness hereunder and all other senior or subordinated debt for borrowed money, (ii) all purchase money obligations of the Borrower and its subsidiaries, including obligations under any capitalized lease, (iii) the face amount of all letters of credit issued for the account of the Borrower and its subsidiaries, and (iv) all other interest-bearing obligations of the Borrower and its subsidiaries that are required to be listed as a liability on a balance sheet under GAAP. All determinations under this definition shall be made with respect to the Borrower and its subsidiaries on a consolidated basis.
+ 
+"GAAP" has the meaning set forth in Section 12.2.
+ 
+"Interest Period" means (i) with respect to any Bid Borrowing, a period of not more than 30 days, as elected by the Borrower in the applicable Bid Borrowing Request, and (ii) for each LIBO Rate Advance comprising part of the same Borrowing, the period commencing on the date of such LIBO Rate Advance or the date of the Conversion of any Floating Rate Advance into such LIBO Rate Advance and ending on the last day of the period selected by the Borrower pursuant to the provisions of Section 5.2 and, thereafter, with respect to Eurodollar Rate Advances, each subsequent period commencing on the last day of the immediately preceding Interest Period and ending on the last day of the period selected by the Borrower pursuant to the provisions of Section 5.2.  The duration of each such Interest Period shall be one, two, three or six months, and subject to clause (c) of this definition, nine months, as the Borrower may, upon notice received by the Agent (and in the case of a LIBO Rate Advance denominated in a Committed Currency, to the London Sub-Agent) not later than 11:00 a.m. (New York City time) on the third Business Day prior to the first day of such Interest Period, select; , , that:
+provided
+however
+ 
+(a)          the Borrower may not select any Interest Period that ends after the Commitment Termination Date unless, after giving effect to any reduction of the Commitments on such Commitment Termination Date, the aggregate principal amount of Floating Rate Advances and of LIBO Rate Advances having an Interest Period that end on or prior to such Commitment Termination Date shall be at least equal to the aggregate principal amount of Advances due and payable on or prior to such date;
+ 
+(b)          Interest Periods commencing on the same date for LIBO Rate Advances comprising part of the same Borrowing shall be of the same duration;
+ 
+(c)          the Borrower shall not be entitled to select an Interest Period having duration of nine months unless, by 2:00 P.M. (New York City time) on the third Business Day prior to the first day of such Interest Period, each Bank notifies the Agent that such Bank will be providing funding for such Revolving Borrowing with such Interest Period (the failure of any Bank to so respond by such time being deemed for all purposes of this Agreement as an objection by such Bank to the requested duration of such Interest Period); provided that, if any or all of the Banks object to the requested duration of such Interest Period, the duration of the Interest Period for such Borrowing shall be one, two, three or six months, as specified by the Borrower requesting such Revolving Borrowing in the applicable Notice of Borrowing as the desired alternative to an Interest Period of nine months;
+ 
+(d)          whenever the last day of any Interest Period would otherwise occur on a day other than a Business Day, the last day of such Interest Period shall be extended to occur on the next succeeding Business Day, , , that, if such extension would cause the last day of such Interest Period to occur in the next following calendar month, the last day of such Interest Period shall occur on the next preceding Business Day; and
+provided
+however
+ 
+(e)          whenever the first day of any Interest Period occurs on a day of an initial calendar month for which there is no numerically corresponding day in the calendar month that succeeds such initial calendar month by the number of months equal to the number of months in such Interest Period, such Interest Period shall end on the last Business Day of such succeeding calendar month.
+ 
+"JPMCB" means JPMorgan Chase Bank, N.A., a national banking association.
+ 
+"LIBO Base Rate" means, with respect to any Interest Period for each LIBO Rate Advance comprising part of the same Revolving Borrowing, (a) in the case of any Revolving Credit Advance denominated in Dollars or any Committed Currency other than Euro, the rate per annum which appears on
+Reuters Screen LIBOR01 Page 
+(or any successor page) as the London interbank offered rate for deposits in Dollars or the applicable Committed Currency at approximately 11:00 a.m. London time on the date two Business Days before, or, in the case of LIBO Rate Advances denominated in Sterling, on the date of, the commencement of such Interest Period as the rate at which deposits in immediately available funds are offered on the London interbank market for a term substantially equivalent to the applicable Interest Period; provided, however, that if such page is no longer available, the LIBO Base Rate shall be
+ 
+determined by the Agent on the basis of a substantially comparable source of the Agent's selection and acceptable to the Banks, for the number of days comprised therein and in an amount equal or comparable to the amount of the LIBO Rate Advance of the Agent (in its individual capacity) to be outstanding during such Interest Period or (b) in the case of any LIBO Rate Advance denominated in Euros, the EURIBO Rate.
+ 
+"LIBO Rate" means the annual rate equal to the sum of (i) the rate obtained by dividing (a) the applicable LIBO Base Rate, by (b) a percentage equal to 100% minus the Federal Reserve System requirement (expressed as a percentage) applicable to such deposits, and (ii) the Applicable Margin.
+ 
+"Loan Documents" means this Agreement, the Revolving Notes, any Fee Letters and any other document related hereto, together with all amendments, modifications and restatements thereof.
+ 
+"London Sub-Agent" means J.P. Morgan Europe Limited.
+ 
+"Market Rate Spread" means a rate per annum equal to the credit default swap mid-rate spread of the Borrower interpolated from the applicable Spread Determination Date to the latest Termination Date then in effect (or, if the period from such Spread Determination Date to the latest Termination Date then in effect is less than one year, then the one-year credit default swap mid-rate spread of the Borrower
+),
+in each case determined as of the close of business, New York time, on the applicable Spread Determination Date and based on the credit default swap mid-rate spreads specified by Markit Group Ltd. or any successor, subject to a minimum rate and a maximum rate as determined by reference to the Public Debt Rating in effect on such date as set forth  below:
+ 
+ 
+If the Borrower's interpolated credit default swap spread, or one-year credit default swap spread, as the case may be, as specified by Markit Group Ltd. (or any successor) is unavailable, the Borrower and the Banks shall negotiate in good faith (for a period of up to thirty days after such spread becomes unavailable (such thirty-day period, the "")) to agree on an alternative method for establishing the Applicable Margin.  The Applicable Margin at any determination date thereof which falls during the Negotiation Period shall be based upon the then most recently available quote of the Market Rate Spread.  If no such alternative method is agreed upon during the Negotiation Period, the Applicable Margin at any determination date subsequent to the end of the Negotiation Period shall be a rate per annum equal to the maximum rate
+Negotiation Period
+ 
+applicable from time to time as determined in the immediately preceding paragraph.  If the Borrower s interpolated credit default swap spread or one-year credit default swap spread, as the case may be, again becomes available through Markit Group Ltd. (or any successor), then Market Rate Spread shall be determined on the basis of such credit default swap spread as set forth above.
+ 
+"Moody's" means Moody's Investors Service, Inc.
+ 
+"Non-Consenting Bank" has the meaning specified in Section 2.7.
+ 
+"Obligations" means, collectively, the Advances and the Borrower's obligation to repay Bid Loans.
+ 
+"Payment Office" means, for any Committed Currency, such office of JPMCB as shall be from time to time selected by the Agent and notified by the Agent to the Borrower and the Banks.
+ 
+"PBGC" means the Pension Benefit Guaranty Corporation.
+ 
+"Percentage" means, with respect to each Bank, the ratio of (i) that Bank's Credit Exposure, to (ii) the aggregate Credit Exposure of all of the Banks.
+ 
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint stock company, trust, unincorporated organization or government or any agency or political subdivision thereof.
+ 
+"Public Debt Rating" means, as of any date, the rating that has been most recently announced by either S&P or Moody's, as the case may be, for any class of non-credit enhanced long-term senior unsecured debt issued by the Borrower.  For purposes of the foregoing, (a) if only one of S&P and Moody's shall have in effect a Public Debt Rating, the Applicable Margin and the Applicable Fee Percentage shall be determined by reference to the available rating; (b) if neither S&P nor Moody's shall have in effect a Public Debt Rating, the Applicable Margin and the Applicable Fee Percentage will be set in accordance with Level 4 under the definition of "Applicable Margin" or "Applicable Fee Percentage", as the case may be; (c) if the ratings established by S&P and Moody's shall fall within different but adjacent levels, the Applicable Margin shall be based upon the higher rating; (d) if the ratings established by S&P and Moody's shall fall within different levels that are not adjacent, the Applicable Margin shall be determined by the level immediately above the lower rating; (e) if any rating established by S&P or Moody's shall be changed, such change shall be effective as of the date on which such change is first announced publicly by the rating agency making such change; and (f) if S&P or Moody's shall change the basis on which ratings are established, each reference to the Public Debt Rating announced by S&P or Moody's, as the case may be, shall refer to the then equivalent rating by S&P or Moody's, as the case may be.
+ 
+"Required Banks" means one or more Banks having an aggregate Percentage of at least fifty-one percent (51%).
+ 
+"Revolving Advance" means an advance under Section 2.1.
+ 
+"Revolving Borrowing Minimum" means, in respect of Revolving Advances denominated in Dollars, $10,000,000, in respect of Revolving Advances denominated in Sterling, 5,000,000 and, in respect of Revolving Advances denominated in Euros, 10,000,000.
+ 
+"Revolving Note" means a note in substantially the form of Exhibit C hereto with all blanks appropriately completed, together with any modifications and extensions thereof and any note or notes issues in renewal thereof or substitution or replacement therefor.
+ 
+"S&P" means Standard & Poor's Rating Group, a division of The McGraw-Hill Companies, Inc.
+ 
+"Securitization Entity" means a corporation, partnership, trust, limited liability company or other entity that is formed for the purpose of effecting or facilitating a Securitization Transaction and which engages in no business and incurs no indebtedness or other liabilities other than those related to or incidental to a Securitization Transaction.
+ 
+"Securitization Transaction" means a transaction or series of related transactions pursuant to which a corporation, partnership, trust, limited liability company or other entity incurs obligations or issues interests, the proceeds of which are used to finance a discrete pool (which may be fixed or revolving) of receivables or other financial assets.
+ 
+"Spread Determination Date" means, at any time, (a) for any LIBO Rate Advance, (i) the date that is two Business Days before the commencement of the Interest Period applicable to such Advance and (ii) in the case of an Interest Period of more than three months' duration, the date that is the last Business Day of each successive three-month period during such Interest Period, and (b) for any Floating Rate Advance, (i) the Effective Date and (ii) the first day (or if such day is not a Business Day, the immediately preceding Business Day) of each calendar quarter after the Effective Date.
+ 
+"Sterling" means lawful currency of the United Kingdom of Great Britain and Northern Ireland.
+ 
+"Swingline Advance" has the meaning set forth in Section 2.2.
+ 
+"Swingline Bank" means JPMCB, in its capacity as the Bank making Swingline Advances under Section 2.2, and any successor in such capacity.
+ 
+"Swingline Commitment" means the Swingline Bank's obligation to make Swingline Advances pursuant to Section 2.2.
+ 
+"Swingline Commitment Amount" means, at any time, the lesser of (i) $50,000,000, or (ii) the excess, if any, of the Aggregate Commitment Amount over the Aggregate Outstandings at such time.
+ 
+1
+.2
+                              
+Times
+ 
+All references to times of day in this Agreement shall be references to New York, New York time unless otherwise specifically provided.
+ 
+2
+.
+                                     
+LINE OF CREDIT
+ 
+2
+.1
+                              
+Revolving Advances.
+ 
+Each Bank severally agrees, on the terms and conditions hereinafter set forth, to make Advances (each, a "Revolving Advance") to the Borrower from time to time on any Business Day during the period from the Effective Date until the Commitment Termination Date applicable to such Bank in accordance with this Section 2.1; , , that no Bank shall have any obligation to make any Revolving Advance if, after giving effect to such Advance, (i) that Bank's Committed Outstandings (based in respect of any Revolving Advances to be denominated in a Committed Currency by reference to the Equivalent thereof in Dollars determined on the date of delivery of the applicable request for such Revolving Borrowing) would exceed that Bank's Commitment, or (ii) the Aggregate Outstandings (based in respect of any Revolving Credit Advances to be denominated in a Committed Currency by reference to the Equivalent thereof in Dollars determined on the date of delivery of the applicable request for such Revolving Borrowing) would exceed the Aggregate Commitment Amount.  The credit facility established hereby is revolving; subject to the terms and conditions of this Agreement, the Borrower may borrow, prepay pursuant to Section 6.3 and reborrow under this Section 2.1.  The obligations of the Banks hereunder shall be several, but not joint.
+provided
+however
+ 
+2
+.2
+                              
+Swingline Advances.
+ 
+In order to accommodate the Borrower's need for short-term revolving credit, the Swingline Bank agrees to make advances on the terms and subject to the conditions set forth in this Section (each a "Swingline Advance").
+ 
+(a)
+                                
+Swingline Advances shall be available during the period from the date of this Agreement through and including the Commitment Termination Date applicable to the Swingline Bank.  Each Swingline Advance shall be denominated in Dollars.
+ 
+(b)
+                                
+The Swingline Bank shall have no obligation to make any Swingline Advance if, after giving effect to such Swingline Advance, (i) the aggregate amount of Swingline Advances then outstanding would exceed the Swingline Commitment Amount, (ii) the Aggregate Outstandings would exceed the Aggregate Commitment Amount, or (iii) the Aggregate Outstandings would exceed the commitments of the Banks having a Commitment Termination Date that is less than ten Business Days after the date of such Swingline Advance.
+ 
+(c)
+                                 
+Each Swingline Advance shall occur following written or telephonic request to the Swingline Bank from any person purporting to be authorized to request Advances on behalf of the Borrower.  Each such notice or request must be received by the Swingline Bank no later than 1:00 p.m. on the Business Day on which the Swingline Advance is to occur and shall specify (i) that the Borrower is requesting a Swingline Advance, and (ii) the amount thereof.  Prior to the close of business on the day it receives the notice or request, the Swingline Bank shall disburse the Swingline Advance by crediting the same to the Borrower's demand deposit account maintained with the Agent or in such other manner as the
+ 
+Swingline Bank and the Borrower may from time to time agree in writing.  The Swingline Bank shall have no obligation to, and shall not, disburse any Swingline Advance if any condition set forth in Section 2.5 has not been satisfied on the day of the requested Swingline Advance.  Each Swingline Advance shall be in the amount of $10,000,000 or more.
+ 
+(d)
+                                
+Each Swingline Advance shall bear interest at an annual rate equal to the Floating Rate.  Interest on the Swingline Advance shall be payable in arrears on the last day of each March, June, September and December, and on the final Commitment Termination Date.
+ 
+(e)
+                                 
+[Reserved].
+ 
+(f)
+                                  
+The Borrower shall repay the principal of the Swingline Advances in full not less frequently than once every ten Business Days, and upon such repayment in full, shall not request another Swingline Advance for at least one full Business Day.  The Borrower may use the proceeds of an Advance made pursuant to Section 2.1 to repay any Swingline Advance.
+ 
+(g)
+                                 
+The Swingline Bank may at any time and from time to time (whether before or after the occurrence of an Event of Default), by notice to the Agent not later than 1:00 p.m. on any Business Day, request that the Banks make Revolving Advances in an aggregate principal amount equal to the then-outstanding principal amount of the Swingline Advances.  Upon receiving such notice and request, and in any event not later than 2:00 p.m. on the date of the notice and request, the Agent shall notify each Bank of the amount of the requested Borrowing, that the proceeds of the Borrowing are to be used to repay a Swingline Advance and of the amount of each Bank's Advance with respect thereto.  Unless one of the events described in Section 10.1(j) shall have occurred, so long as a Bank receives such notice from the Agent prior to 2:00 p.m. on the date the requested Borrowing is to occur, each Bank shall make its Advance with respect to that Borrowing available to the Agent by wire transfer of immediately available funds to the Agent not later than 3:00 p.m. on the same day.  Prior to the close of business on the same day, the Agent will disburse the Borrowing by crediting the same to the account of the Swingline Bank.  Any Advances made by Banks pursuant to this Section 2.2(g) shall initially bear interest at the Base Rate, but the rate of interest that applies to such Advances may be converted pursuant to Section 5.2, and such Advances shall in all other respects be treated in the same manner as Advances made pursuant to Section 2.1.
+ 
+(h)
+                                
+The Borrower may prepay any Swingline Advance on the Business Day it is made or on any subsequent Business Day; , , that each such partial prepayment shall be in the principal amount of $10,000,000 or more.
+provided
+however
+ 
+(i)
+                                    
+In the event that one of the events of default described in Section 10.1(j) shall have occurred, the Agent shall immediately notify the Swingline Bank and the Banks, and, if any Swingline Advances or interest thereon is outstanding on such
+ 
+day it receives notice, each Bank will purchase from the Swingline Bank an undivided participation interest in the Swingline Advance and interest thereon in an amount equal to its Percentage of such Swingline Advance.  Upon request, each Bank will promptly transfer to the Swingline Bank, in immediately available funds, the amount of its participation and upon receipt thereof the Swingline Bank will deliver to such Bank a loan participation certificate, dated the date of receipt of such funds and in such amount.  Thereafter, the Swingline Bank shall make no further Swingline Advances, any payments received directly by the Swingline Bank with respect to the Swingline Advances shall be treated as excess payments subject to Section 11.4, and all other payments made by the Borrower shall be applied in the manner required by Section 11.2.
+ 
+(j)
+                                   
+Each Bank's obligation to make a Revolving Advance under paragraph (g) or to purchase a participation in a Swingline Advance under paragraph (i) shall be absolute and unconditional, and shall not be affected by any circumstance, including but not limited to (i) any setoff, counterclaim, recoupment, defense or other right that such Bank or any other Person may have against the Swingline Bank, (ii) the occurrence or continuance of a Default or Event of Default or the termination of the Commitments, (iii) any adverse change in the condition (financial or otherwise) of the Borrower or any other Person, (iv) any breach of this Agreement by the Borrower or any other Bank, or (v) any other circumstance, happening or event whatsoever, whether or not similar to the foregoing.
+ 
+(k)
+                                
+Any Swingline Advances that are outstanding on the Commitment Termination Date shall be paid in full on such date, with all accrued interest.
+ 
+2
+.3
+                              
+Bid Borrowings.
+ 
+(a)
+                                
+The Borrower may from time to time deliver to the Agent a request (a "Bid Borrowing Request") that the Agent solicit offers to make Bid Loans denominated in Dollars from the Banks.  Each such request shall be made no later than 10:00 a.m. on the fourth Business Day before the day of the proposed Bid Borrowing.  Each such request shall state (i) the day of the proposed Bid Borrowing (which day shall be a Business Day), (ii) the aggregate amount of the proposed Bid Borrowing, and (iii) the Interest Period or Interest Periods with respect to such Bid Borrowing (and, if more than one Interest Period is to be applicable, the duration of each such Interest Period and the portion of the Bid Borrowing that will be subject to each such Interest Period).  Each Bid Borrowing request shall be in an amount equal to an integral multiple of $10,000,000.  The Borrower may not request any Bid Borrowing hereunder if (i) the Borrower has made such a request within the preceding 5 Business Days, (ii) the making of the proposed Bid Borrowing would cause more than 3 Bid Borrowings to be outstanding at any one time, (iii) the making of the proposed Bid Borrowing would cause the aggregate principal amount of Bid Borrowings to exceed $100,000,000, or (iv) the making of the proposed Bid Borrowing would cause the Aggregate Outstandings to exceed the Aggregate Commitment Amount.
+ 
+(b)
+                                
+Promptly following receipt of any Bid Borrowing Request, the Agent shall notify each Bank of the details thereof by telecopy.
+ 
+(c)
+                                 
+Each Bank may (but shall have no obligation to) deliver to the Agent a Bid Loan Quote with respect to any Bid Borrowing Request.  The Agent may reject any Bid Loan Quote received after 9:00 a.m. on the third Business Day preceding the proposed Bid Borrowing; provided, however, that no Bid Loan Quote by JPMCB, in its capacity as a Bank, shall be effective if delivered to the Agent after 8:45 a.m. on the third Business Day preceding the proposed Bid Borrowing.  Each Bid Loan Quote shall specify the name of the offering Bank, the date of the proposed Bid Loan, the principal amount of the Bid Loan that the offering Bank proposes to make, and the rate of interest per annum (adjusted to the nearest 1/100th of 1%) to be applicable to the proposed Bid Loan.  The Agent shall ignore any Bid Loan Quote that (i) fails to include all of the information required under this paragraph, (ii) contains qualifying, conditional or similar language; (iii) proposes terms other than or in addition to those set forth in the applicable Bid Borrowing Request, or (iv) arrives after the time required above.
+ 
+(d)
+                                
+The Agent shall notify the Borrower of the terms of any Bid Loan Quote submitted by a Bank that meets the requirements set forth above.  Such notice shall include (i) the aggregate principal amount of Bid Loans for which Bid Loan Quotes have been received for each Interest Period specified in the Bid Borrowing Request, (ii) the respective principal amounts and interest rates so offered, and (iii) if applicable, limitations on the aggregate principal amount of Bid Loans for which offers in any single Bid Loan Quote may be accepted.  Such notification shall be delivered (x) on the day of receipt, if the Bid Loan Quote is submitted prior to the third Business Day preceding the proposed Bid Borrowing, or (y) no later than 9:30 a.m. on the day of receipt, if the Bid Loan Quote is submitted on the third Business Day preceding the proposed Bid Borrowing.
+ 
+(e)
+                                 
+Not later than 10:00 a.m. on the third Business Day preceding any Bid Borrowing, the Borrower shall notify the Agent in writing or telephonically of its acceptance or rejection of the Bid Loan Quotes.  If the Borrower fails to notify the Agent by such time, the Borrower shall be deemed to have rejected each of the Bid Loan Quotes.  The Borrower's acceptance of any Bid Loan Quotes shall specify the aggregate principal amount of offers for each Interest Period that the Borrower accepts.  The Borrower may accept any Bid Loan Quote in whole or in part, provided, however, that:
+ 
+(i)
+                                    
+the principal amount of any portion of a Bid Borrowing subject to any given Interest Period may not exceed the corresponding portion specified in the related Bid Borrowing Request;
+ 
+(ii)
+                                 
+the principal amount of each Bid Borrowing (as to all Interest Periods combined) must be equal to an integral multiple of $10,000,000;
+ 
+(iii)
+                              
+acceptance of Bid Loan Quotes may only be made on the basis of ascending interest rates within each Interest Period; and
+ 
+(iv)
+                             
+the Borrower may not accept any Bid Loan Quote that fails to comply with the requirements of this Agreement.
+ 
+(f)
+                                  
+If Bid Loan Quotes with the same interest rates with respect to any given Interest Period are submitted by two or more Banks in an aggregate amount greater than that necessary to satisfy the corresponding Bid Borrowing Request, the principal amount of Bid Loans in respect of which such offers are accepted shall be allocated by the Agent among such Banks as nearly as possible (in such amounts not less than $1,000,000 as the Agent may deem appropriate) in proportion to the aggregate principal amounts of such offers. Absent manifest error, the determination by the Agent of the amount of the Bid Loans accepted with respect to each Bank shall be final.
+ 
+(g)
+                                 
+The Agent shall promptly notify each Bank having submitted a Bid Loan Quote if its offer has been accepted and, if so, of the amount of the Bid Loan or Bid Loans to be made by it on the date of the applicable Bid Borrowing.  Each Bank so notified that its Bid Loan Quote has been accepted shall remit the amount of its accepted Bid Loan Quote to the Agent in immediately available funds no later than 2:00 p.m. on the date of such Bid Borrowing.  Prior to the close of business on the day of the requested Bid Borrowing, the Agent shall disburse such funds by crediting the same to the Borrower's demand deposit account maintained with the Agent or in such other manner as the Agent and the Borrower may from time to time agree.  The Agent shall have no obligation (i) to disburse the requested Bid Borrowing if any condition set forth in Section 2.5 has not been satisfied on the day of the requested Bid Borrowing, or (ii) to disburse any portion of a Bid Borrowing for which the Agent has failed to receive funds from the applicable Bank by the time specified above.
+ 
+(h)
+                                
+The Borrower's obligation to repay each Bid Loan shall be evidenced by one or more accounts or records maintained by the Bank making such Bid Loan in the ordinary course of business.
+ 
+(i)
+                                    
+The Borrower and the Banks shall from time submit to the Agent such information as the Agent may reasonably request regarding outstanding Bid Loans, including the amounts, interest rates, dates of Borrowing and maturities thereof, for the purpose of allocating amounts received from the Borrower with respect thereto.
+ 
+(j)
+                                   
+Nothing hereunder shall obligate any Bank, or the Banks collectively, to submit any Bid Loan Quotes in response to a Bid Borrowing Request, nor shall any provision hereunder obligate the Borrower to accept any one or more Bid Loan Quotes.
+ 
+2
+.4
+                              
+Reserved.
+ 
+2
+.5
+                              
+Conditions Precedent to Each Advance.
+ 
+The obligation of each Bank to make any Advance hereunder shall be subject to the satisfaction of the following conditions precedent (and any request for an Advance shall be deemed a representation and warranty by the Borrower that each of the following conditions precedent have been satisfied):
+ 
+(a)
+                                
+the Borrower has delivered to the Agent and the Banks each of the items required to be delivered pursuant to Section 7;
+ 
+(b)
+                                
+the representations and warranties of the Borrower contained in this Agreement (other than the representations and warranties listed as "Material Adverse Effect", "Litigation" and "Environmental Matters" on Exhibit B) shall be true and correct on the date of such Advance as though made on and as of such date (except to the extent that any such representation or warranty is expressly stated to have been made as of a specific date, then such representation or warranty shall be true and correct as of such specific date); and
+ 
+(c)
+                                 
+no Default or Event of Default exists.
+ 
+2.6
+                              
+Increase of Commitments.
+ 
+(a)
+                                
+So long as no Event of Default has occurred and is continuing, the Borrower may from time to time, upon at least 10 days' written notice to the Agent (who shall promptly provide a copy of such notice to each Bank), propose to increase the Aggregate Commitment Amount by increments of $25,000,000, to an amount not to exceed $2,000,000,000 (the amount of any such increase, the "Additional Commitment Amount").  Each Bank may, not more than 10 Business Days following receipt of such notice, elect by written notice to the Borrower and the Agent to increase its Commitment by a principal amount equal to its Percentage of the Additional Commitment Amount.  No Bank (or any successor thereto) shall have any obligation to increase its Commitment or its other obligations under this Agreement and the other Loan Documents, and any decision by a Bank to increase its Commitment shall be made in its sole discretion independently from any other Bank.  Any Bank that does not respond to a request to increase its Commitment hereunder shall be deemed to have declined such request.
+ 
+(b)
+                                
+If any Bank shall not elect to increase its Commitment pursuant to paragraph (a), the Borrower may designate another bank or other financial institution (which may be, but need not be, one or more of the existing Banks) which at the time agrees to, in the case of any such Person that is an existing Bank, increase its Commitment and in the case of any other such Person (each such Person, and each Person that shall accept an assignment as provided in Section 2.7 is an "Additional Bank"), become a party to this Agreement; , , that any new bank or financial institution must meet the criteria for an Eligible Assignee and must in all other respects be acceptable to the Agent and the
+provided
+however
+ 
+Swingline Bank, which acceptance will not be unreasonably withheld or delayed.  The sum of the increases in the Commitments of the existing Banks pursuant to this paragraph (b) plus the Commitments of the Additional Banks shall not in the aggregate exceed the unsubscribed amount of the Additional Commitment Amount.
+ 
+(c)
+                                 
+An increase in the aggregate amount of the Aggregate Commitment Amount pursuant to this Section 2.6 shall become effective upon the receipt by the Agent of an agreement in form and substance satisfactory to the Agent signed by the Borrower, by each Additional Bank and by each other Bank whose Aggregate Commitment Amount is to be increased, setting forth the new Commitments of such Banks and setting forth the agreement of each Additional Bank to become a party to this Agreement and to be bound by all the terms and provisions hereof, and such evidence of appropriate corporate authorization on the part of the Borrower with respect to the increase in the Commitments and such opinions of counsel for the Borrower with respect to the increase in the Aggregate Commitment Amount as the Agent may reasonably request.
+ 
+(d)
+                                
+Upon the acceptance of any such agreement by the Agent, the Aggregate Commitment Amount shall automatically be increased by the amount of the Commitments added through such agreement.
+ 
+(e)
+                                 
+Upon any increase in the aggregate amount of the Commitments pursuant to this Section 2.6 that is not pro rata among all Banks, within five (5) Business Days, in the case of any Revolving Advances bearing interest at the Floating Rate, and at the end of the then current Interest Period with respect thereto, in the case of any Revolving Advances bearing interest at a LIBO Rate, the Borrower shall prepay such Advances in their entirety and, to the extent the Borrower elect to do so and subject to the conditions specified in Section 2.5, the Borrower shall reborrow Revolving Advances from the Banks in proportion to their respective Commitments after giving effect to such increase, until such time as all outstanding Revolving Advances are held by the Banks in such proportion.
+ 
+2.7
+                              
+Extension of Commitment Termination Date.
+ 
+(a)
+                                
+So long as no Event of Default has occurred and is continuing, the Borrower may, upon at least 45 days and not more than 60 days prior to the first and/or second anniversary of the date hereof, by written notice to the Agent (who shall promptly provide a copy of such notice to each Bank), propose to extend the Commitment Termination Date by one year.  Each Bank may, not more than 30 days nor less than 20 days prior to such anniversary date, elect by written notice to the Borrower and the Agent to extend its Commitment Termination Date by a period of one year.  The Agent will notify the Borrower, in writing of the Banks' decisions no later than 15 days prior to such anniversary date.  No Bank (or any successor thereto) shall have any obligation to extend its Commitment Termination Date, and any decision by a Bank to extend its Commitment Termination Date shall be made in its sole discretion independently from any
+ 
+other Bank.  Any Bank that does not respond to a request to extend the Commitment Termination Date shall be deemed to be a Non-Consenting Bank.
+ 
+(b)
+                                
+If any Bank shall not elect to extend its Commitment Termination Date pursuant to paragraph (a) (each such Bank being a "Non-Consenting Bank"), the Borrower may designate another bank or other financial institution (which may be, but need not be, one or more of the existing Banks) which at the time agrees to accept an assignment of the Commitment of the Non-Consenting Bank in accordance with Section 11.11; , , that (i) any Additional Bank must meet the criteria for an Eligible Assignee and must in all other respects be acceptable to the Agent and the Swingline Bank, which acceptance will not be unreasonably withheld or delayed; (ii) the amount of the Commitment of any such Additional Bank as a result of such substitution shall in no event be less than $5,000,000 unless the amount of the Commitment of such Non-Consenting Bank is less than $5,000,000, in which case such Additional Bank shall assume all of such lesser amount; (iii) any such Non-Consenting Bank shall have been paid (A) the aggregate principal amount of, and any interest accrued and unpaid to the effective date of the assignment on, the outstanding Advances, if any, of such Non-Consenting Bank (B) any accrued but unpaid commitment fees owing to such Non-Consenting Bank as of the effective date of such assignment; (iv) all additional costs reimbursements, expense reimbursements and indemnities payable to such Non-Consenting Bank, and all other accrued and unpaid amounts owing to such Non-Consenting Bank hereunder, as of the effective date of such assignment shall have been paid to such Non-Consenting Bank; and (v) with respect to any such Additional Bank, the applicable processing and recordation fee required under Section 11.11 for such assignment shall have been paid.  To the extent that the Commitment Termination Date is not extended as to any Bank pursuant to this Section 2.7 and the Commitment of such Bank is not assumed in accordance with this subsection (b), the Commitment of such Non-Consenting Bank shall automatically terminate in whole on such unextended Commitment Termination Date without any further notice or other action by the Borrower, such Bank or any other Person; that such Non-Consenting Bank's rights under Sections 4.3, 5.4, 6.5 and 12.10, and its obligations under Section 11.5, shall survive the Commitment Termination Date for such Bank as to matters occurring prior to such date.
+provided
+however
+plus
+provided
+ 
+(c)
+                                 
+If (after giving effect to any assignments pursuant to subsection (b) of this Section 2.7) Banks having Commitments equal to at least 50% of the Commitments in effect immediately prior to the applicable anniversary date consent in writing to a requested extension (whether by execution or delivery of an Assignment Certificate or otherwise) not later than one Business Day prior to such anniversary date, the Agent shall so notify the Borrower, and the Commitment Termination Date then in effect shall be extended for the additional one-year period as described in subsection (a) of this Section 2.7, and all references in this Agreement, and in the Revolving Notes to the "Commitment Termination Date" shall, with respect to each Bank other than a Non-Consenting Bank for such extension, refer to the Commitment Termination Date as so
+ 
+extended.  Promptly following each extension of the Commitment Termination Date, the Agent shall notify the Banks of the extension of the scheduled Commitment Termination Date in effect immediately prior thereto.
+ 
+2.8
+                              
+Evidence of Debt.
+ 
+(a)
+                                
+Each Bank shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of the Borrower to such Bank resulting from each Revolving Advance owing to such Bank from time to time, including the amounts of principal and interest payable and paid to such Bank from time to time hereunder in respect of Revolving Advances.  The Borrower agrees that upon notice by any Bank to the Borrower (with a copy of such notice to the Agent) to the effect that a Revolving Note is required or appropriate in order for such Bank to evidence (whether for purposes of pledge, enforcement or otherwise) the Revolving Advances owing to, or to be made by, such Bank, the Borrower shall promptly execute and deliver to such Bank a Revolving Note payable to the order of such Bank in a principal amount up to the Commitment of such Bank.
+ 
+(b)
+                                
+The Agent shall maintain a control account, and a subsidiary account for each Bank, in which accounts (taken together) shall be recorded (i) the date and amount of each Borrowing made hereunder, the type of Advances comprising such Borrowing and, if appropriate, the Interest Period applicable thereto, (ii) the terms of each Assignment Certificate delivered to and accepted by it, (iii) the amount of any principal or interest due and payable or to become due and payable from the Borrower to each Bank hereunder and (iv) the amount of any sum received by the Agent from the Borrower hereunder and each Bank's share thereof.
+ 
+(c)
+                                 
+Entries made in good faith and in conformity with sound industry standards by the Agent in the control and subsidiary accounts pursuant to subsection (b) above shall be evidence of the amount of principal and interest due and payable or to become due and payable from the Borrower to each Bank under this Agreement, absent manifest error; , , that the Borrower shall have the right to inspect such entries and the failure of the Agent to make an entry, or any finding that an entry is incorrect, in such account or accounts shall not limit or otherwise affect the obligations of the Borrower under this Agreement.
+prima
+facie
+provided
+however
+ 
+3
+.
+                                     
+[Reserved]
+ 
+4
+.
+                                     
+FEES AND EXPENSES
+ 
+4
+.1
+                             
+Commitment Fee.
+ 
+The Borrower will pay each Bank a commitment fee on the aggregate amount of such Bank's unused Commitment from the date of this Agreement through the Commitment Termination Date applicable to such Bank at a rate per annum equal to the Applicable Fee Percentage.  Each
+ 
+Bank's unused Commitment shall be determined by deducting from such Commitment the aggregate principal balance of such Bank's Revolving Advances.  Such fee shall be due and payable quarterly in arrears on the last day of each March, June, September and December and on the final Commitment Termination Date.
+ 
+4
+.2
+                              
+Reserved.
+ 
+4
+.3
+                              
+Expenses.
+ 
+The Borrower shall pay (i) all reasonable attorneys' fees and out-of-pocket expenses of such attorneys incurred by the Agent in connection with the preparation, negotiation, execution and amendment of this Agreement and related documents and (ii) all costs and expenses (including but not limited to reasonable attorneys' fees and out-of-pocket expenses) incurred by the Agent or any of the Banks in connection with the enforcement of this Agreement and related documents (including but not limited to reasonable attorneys' fees and out-of-pocket expenses of the Agent and each Bank, whether paid to outside counsel or allocated to in-house counsel).
+ 
+4
+.4
+                              
+Additional Fees.
+ 
+The Borrower shall pay to the Agent additional fees in the amounts set forth in any Fee Letter strictly pertaining to this Agreement.
+ 
+5
+.
+                                     
+INTEREST
+ 
+5
+.1
+                              
+Floating Rate.
+ 
+The principal balance of the Revolving Advances shall bear interest at the Floating Rate unless the Borrower elects a LIBO Rate pursuant to Section 5.2, subject, however, to imposition of the default rate pursuant to Section 5.3.
+ 
+5
+.2
+                              
+LIBO Rate.
+ 
+The Borrower may from time to time notify the Agent in writing or by telephone that a particular portion of the outstanding principal balance of the Revolving Advances shall bear interest at a LIBO Rate for a particular Interest Period.  The portion of the outstanding balance of the Revolving Advances to which a LIBO Rate is applied (i) must be in an amount not less than the Revolving Borrowing Minimum or a multiple thereof, and (ii) must not bear, or otherwise be scheduled to bear, interest at a LIBO Rate at any time during the applicable Interest Period.  Any LIBO Rate notification shall be irrevocable, must be made pro rata with respect to the Revolving Advances of each Bank, and must be received by the Agent before 11:00 a.m. on the day three Business Days before the Business Day which is the first day of the applicable Interest Period.  Commencing on the first day of the applicable Interest Period and continuing through the last day thereof, the portion of the outstanding principal balance of the Revolving Advances to which the notification related shall bear interest at the applicable LIBO Rate (and the remaining part of the principal balance of the Revolving Advances, if any, shall continue to bear interest at the rate or rates previously applicable to such amounts), subject, however, to imposition of the default rate pursuant to Section 5.3.  At the termination of such Interest Period, unless a new LIBO Rate notification is requested and accepted by the Borrower, the interest rate applicable to the portion
+ 
+of the principal balance of (1) the Revolving Advances denominated in Dollars to which the LIBO Rate was applicable shall revert to the Floating Rate and (2) the Revolving Advances denominated in any Committed Currency shall be exchanged for an Equivalent amount of Dollars determined on such date and revert to the Floating Rate.  Notwithstanding anything to the contrary in this Section, the Borrower's right to have a portion of the Revolving Advances bear interest at a LIBO Rate hereunder shall be suspended (i) at any time that there is a Default or an Event of Default under this Agreement, (ii) during any period in which any Bank, in its sole discretion, determines that deposits in amounts equal to the amount for which a LIBO Rate notification has been given and maturing at the end of the proposed Interest Period are not readily available to that Bank from major banks in the London interbank market, or (iii) during any period in which any Bank shall notify the Agent that the introduction of or any change in or in the interpretation of any law or regulation makes it unlawful, or any governmental authority asserts that it is unlawful, for such Bank to perform its obligations hereunder or to fund or maintain LIBO Rate Advances hereunder, in which case (A) for each Revolving Advance denominated in any Committed Currency, the Borrower shall either (x) prepay such Advances or (y) exchange such Advances into an Equivalent amount of Dollars and such Advances shall revert to the Floating Rate and (B) the obligation of the Bank to make LIBO Rate Advances shall be suspended until the Agent shall notify the Borrower and the Banks that the circumstances causing such suspension no longer exist.  Absent manifest error, the records of the Agent shall be conclusive evidence as to the amount of the Revolving Advances bearing interest at a LIBO Rate, the applicable LIBO Rate and the date on which the Interest Period applicable to such LIBO Rate expires.  LIBO Rate Advances may not be outstanding as more than six separate Interest Periods.
+ 
+5
+.3
+                              
+Default Rate.
+ 
+Upon the occurrence of an Event of Default, and so long as such Event of Default continues without written waiver thereof by the Agent and the Required Banks, in the sole discretion of the Required Banks and without waiving any of their other rights and remedies, the outstanding principal balance of the Advances shall bear interest at an annual rate which shall be equal to two percent (2.00%) over the annual rate or rates that would otherwise be in effect with respect to such Advances had there been no occurrence of such Event of Default.
+ 
+5
+.4
+                              
+Fees on LIBO Rate Advances; Capital Adequacy; Funding Exceptions.
+ 
+In addition to any interest payable on Advances made hereunder and any fees or other amounts payable hereunder, the Borrower agrees:
+ 
+(a)
+                                
+LIBO Rate Advances.
+  If at any time any applicable law, rule or regulation or the interpretation or administration thereof by any governmental authority (including, without limitation, Regulation D of the Federal Reserve Board):
+ 
+(i)
+                                    
+shall subject any Bank to any tax, duty or other charges (including but not limited to any tax designed to discourage the purchase or acquisition of foreign securities or debt instruments by United States nationals) with respect to this Agreement, or shall materially change the basis of taxation of payments to any Bank of the principal of or interest on any portion of
+ 
+the principal balance of any Advances bearing interest at a LIBO Rate (except for the imposition of or changes in respect of the rate of tax on the overall net income of that Bank); or
+ 
+(ii)
+                                 
+shall impose or deem applicable or increase any reserve, special deposit or similar requirement against assets of, deposits with or for the account of, or credit extended by any Bank because of any portion of the principal balance of any Advances bearing interest at a LIBO Rate and the result of any of the foregoing would be to increase the cost to that Bank of making or maintaining any such portion or to reduce any sum received or receivable by that Bank with respect to such portion;
+ 
+then, within 30 days after demand by that Bank the Borrower shall pay that Bank such additional amount or amounts as will compensate that Bank for such increased cost or reduction.  A certificate in reasonable detail of any Bank setting forth the basis for the determination of such additional amount or amounts shall, absent obvious error, be conclusive evidence of such amount or amounts.  The Agent shall endeavor to notify the Borrower of any change in applicable laws, rules, regulations, interpretations or administrative practices that may give rise to liability under this Section, but the Agent shall have no liability to the Borrower for failure to so notify the Borrower, and the failure to give such notification shall not be a defense to the Borrower's obligation to pay any amounts under this paragraph (a).
+ 
+(b)
+                                
+Capital Adequacy
+.  If any Bank determines at any time that its Return has been reduced as a result of any Capital Adequacy Rule Change, that Bank may require the Borrower to pay it the amount necessary to restore that Bank's Return to what it would have been had there been no Capital Adequacy Rule Change.  For purposes of this paragraph (b), the following definitions shall apply:
+ 
+(i)
+                                    
+"Return", for any calendar quarter or shorter period, means the percentage determined by dividing (A) the sum of interest and ongoing fees earned by a Bank under this Agreement during such period by (B) the average capital that Bank is required to maintain during such period as a result of its being a party to this Agreement, as determined by that Bank based upon its total capital requirements and a reasonable attribution formula that takes account of the Capital Adequacy Rules then in effect. Return may be calculated for each calendar quarter and for the shorter period between the end of a calendar quarter and the date of termination in whole of this Agreement.
+ 
+(ii)
+                                 
+"Capital Adequacy Rule" means any law, rule, regulation or guideline regarding capital adequacy that applies to any Bank, or the interpretation thereof by any governmental or regulatory authority including, without limitation, any agency of the European Union or similar monetary or multinational authority.  Capital Adequacy Rules include rules requiring financial institutions to maintain total capital in amounts based upon
+ 
+percentages of outstanding loans, binding loan commitments and letters of credit.
+ 
+(iii)
+                              
+"Capital Adequacy Rule Change" means any change in any Capital Adequacy Rule occurring after the date of this Agreement, but does not include any changes in applicable requirements that at the date hereof are scheduled to take place under the existing Capital Adequacy Rules or any increases in the capital that any Bank is required to maintain to the extent that the increases are required due to a regulatory authority's assessment of that Bank's financial condition.  For the avoidance of doubt, any changes resulting from requests, rules, guidelines or directives concerning capital adequacy (x) issued in connection with the Dodd-Frank Wall Street Reform and Consumer Protection Act or (y) promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall be deemed to occur after the date of this Agreement, regardless of the date enacted, adopted or issued.
+ 
+(iv)
+                             
+"Bank" includes (but is not limited to) the Agent, the Banks, as defined elsewhere in this Agreement, any assignee of any interest of any Bank hereunder, any participant in the loans made hereunder and any holding company of any of the foregoing.
+ 
+The initial notice sent by a Bank shall be sent as promptly as practicable after that Bank learns that its Return has been reduced, shall include a demand for payment of the amount necessary to restore that Bank's Return for the quarter in which the notice is sent, shall state in reasonable detail the cause for the reduction in that Bank's Return and that Bank's calculation of the amount of such reduction, and shall include that Bank's representation that it has made similar demand on one or more other commercial borrowers with revolving or term loans in excess of $500,000.  Thereafter, that Bank may send a new notice during each calendar quarter setting forth the calculation of the reduced Return for that quarter and including a demand for payment of the amount necessary to restore that Bank's Return for that quarter.  A Bank's calculation in any such notice shall be conclusive and binding absent demonstrable error.
+ 
+(c)
+                                 
+Funding Exceptions.
+  The Borrower shall also compensate any Bank, upon written request by that Bank (which request shall set forth the basis for requesting such amounts), for all losses and imputed costs in respect of any interest or other consideration paid by that Bank to lenders of funds borrowed by it or deposited with it to maintain any portion of the principal balance of any Advances at a LIBO Rate which that Bank sustains (i) on account of any failure of the Borrower to borrow at a LIBO Rate on a date specified therefor in a notice provided by the Borrower to the Agent under Section 5.2 of this Agreement or (ii) due to any payment or prepayment (whether pursuant to Section 6.2, 6.3, 9.2(d) or 10.2) of any Advance bearing interest at a LIBO Rate on a date other than the last day of
+ 
+the applicable Interest Period for such Advance.  A certificate as to any such loss or cost (including calculations, in reasonable detail, showing how the applicable Bank computed such loss or cost) shall be promptly submitted by that Bank to the Borrower and shall, in the absence of manifest error, be conclusive and binding as to the amount thereof.  Such loss or cost may be computed as though the applicable Bank acquired deposits in the London interbank market to fund that portion of the principal balance whether or not such Bank actually did so.
+ 
+5
+.5
+                              
+Mitigation of Yield Protection.
+ 
+Each Bank hereby agrees that, commencing as promptly as practicable after it becomes aware of the occurrence of any event giving rise to the operation of Section 5.4 or 6.5 with respect to such Bank, such Bank will give notice thereof through the Agent to the Borrower.  The Borrower may at any time, by notice through the Agent to any Bank, request that such Bank change its lending office as to any Advance or type of Advance or that it specify a new lending office with respect to its Commitment and any Advance held by it or that it rebook any such Advance with a view to avoiding or mitigating the consequences of an occurrence such as described in the preceding sentence, and such Bank will use reasonable efforts to comply with such request unless, in the opinion of such Bank, such change or specification or rebooking is inadvisable or might have an adverse effect, economic or otherwise, upon it, including its reputation.  In addition, each Bank agrees that, except for changes or specifications or rebookings required by law or effected pursuant to the preceding sentence, if the result of any change or change of specification of lending office or rebooking would, but for this sentence, be to impose additional costs or requirements upon the Borrower pursuant to Section 5.4 or Section 6.5 (which would not be imposed absent such change or change of specification or rebooking) by reason of legal or regulatory requirements in effect at the time thereof and of which such Bank is aware at such time, then such costs or requirements shall not be imposed upon the Borrower but shall be borne by such Bank.  All expenses incurred by any Bank in changing a lending office or specifying another lending office of such Bank or rebooking any Advance in response to a request from the Borrower shall be paid by the Borrower.  Nothing in this Section 5.6 (including, without limitation, any failure by a Bank to give any notice contemplated in the first sentence hereof) shall limit, reduce or postpone any obligations of the Borrower under Section 5.4 or Section 6.5, including any obligations payable in respect of any period prior to the date of any change or specification of a new lending office or any rebooking of any Advance.
+ 
+6
+.
+                                     
+DISBURSEMENTS AND PAYMENTS
+ 
+6
+.1
+                              
+Requests for Borrowings.
+ 
+Each Borrowing shall occur on written or telephonic request (confirmed immediately in writing) to the Agent (and in the case of a LIBO Rate Borrowing denominated in a Committed Currency, to the London Sub-Agent) from a person believed by the Agent to be an officer of or other authorized representative for the Borrower.  A request for a Borrowing must be received by the Agent (and in the case of a LIBO Rate Advance denominated in a Committed Currency, to the London Sub-Agent) (i) not later than 11:00 a.m. on the day that such Borrowing is to be made in the case of a Borrowing that is to bear interest initially at the Floating Rate or (ii) not later than 11:00 a.m. on the day three Business Days before the Business Day which is the first day of the
+ 
+applicable Interest Period for such Borrowing in the case of a Borrowing denominated in Dollars that is to bear interest initially (in whole or in part) at a LIBO Rate, (y) 2:00 P.M. (London time) on the day three Business Days before the Business Day which is the first day of the applicable Interest Period for such Borrowing in the case of a Borrowing denominated in any Committed Currency.  Each Revolving Borrowing denominated in any Committed Currency shall bear interest at a LIBO Rate.  Each Borrowing must be in an amount not less than the Revolving Borrowing Minimum or a multiple thereof and shall consist of Revolving Advances in the same currency made on the same day by the Banks ratably according to their respective Commitments.  Each such notice of a Revolving Borrowing shall specify the requested (i) date of such Revolving Borrowing, (ii) whether the Advances comprising such Revolving Borrowing are to be LIBO Rate Advances, (iii) aggregate amount of such Revolving Borrowing, and (iv) in the case of a Revolving Borrowing consisting of LIBO Rate Advances, initial Interest Period and currency for each such Revolving Advance.  Upon receipt of any such request, the Agent shall notify the Banks of the intended Borrowing no later than 12:00 noon on the date such request for such Borrowing is received by the Agent.  At or before 2:00 p.m. on the date the requested Borrowing is to be made, in the case of a Revolving Borrowing consisting of Revolving Advances denominated in Dollars, and before 11:00 A.M. (London time) on the date of such Revolving Borrowing, in the case of a Revolving Borrowing consisting of Revolving Advances denominated in any Committed Currency, each Bank shall remit its Percentage of the requested Borrowing to the Agent at the applicable Agent's Account in immediately available funds.  Prior to the close of business on the day the requested Borrowing is to be made, the Agent shall disburse such funds by crediting the same to the Borrower's demand deposit account maintained with the Agent or in such other manner as the Agent and any officer of the Borrower may agree in writing.  Any Borrowing that is to initially bear interest at a LIBO Rate shall also be subject to all conditions set forth in Section 5.2 hereof.
+ 
+Unless the Agent shall have received notice from a Bank prior to the time of any Borrowing that such Bank will not make available to the Agent such Bank's ratable portion of such Borrowing, the Agent may assume that such Bank has made such portion available to the Agent on the date of such Borrowing in accordance with this Section 6.1 and the Agent may, in reliance upon such assumption, make available to the Borrower on such date a corresponding amount.  If and to the extent that such Bank shall not have so made such ratable portion available to the Agent, such Bank and the Borrower severally agree to repay to the Agent forthwith on demand such corresponding amount together with interest thereon, for each day from the date such amount is made available to the Borrower until the date such amount is repaid to the Agent, at (i) in the case of the Borrower, the interest rate applicable at the time to such Revolving Advances comprising such Borrowing and (ii) in the case of such Bank, (A) the Federal Funds Rate, in the case of Advances denominated in Dollars or (B) the cost of funds incurred by the Agent in respect of such amount in the case of Advances denominated in Committed Currencies. If such Bank shall repay to the Agent such corresponding amount, such amount so repaid shall constitute such Bank's Revolving Advance as part of such Borrowing for purposes of this Agreement.
+ 
+6
+.2
+                              
+Payments.
+ 
+(a)
+                                
+Generally.
+  The Borrower shall initiate all payments, except with respect to principal of, interest on, and other amounts relating to, Advances denominated in a Committed Currency, of principal, interest, fees and other payments due under
+ 
+this Agreement and all prepayments with respect to this Agreement to the Banks by means of payment made by the Borrower to the Agent in Dollars not later than 12:00 noon in same day funds for the account of the Banks.  The Borrower shall initiate each payment with respect to principal of, interest on, and other amounts relating to, Advances denominated in a Committed Currency, not later than 11:00 A.M. (at the Payment Office for such Committed Currency) on the day when due in such Committed Currency to the Agent, by deposit of such funds to the applicable Agent's Account in same day funds.  All such payments shall be made in immediately available funds.  Any payment due on a day on which the Agent is not open for substantially all of its business shall be due on the next day on which the Agent is so open.  Whenever any payment hereunder shall be stated to be due on a day other than a Business Day, such payment shall be made on the next succeeding Business Day, and such extension of time shall in such case be included in the computation of payment of interest or fee or commission, as the case may be; provided, however, that, if such extension would cause payment of interest on or principal of LIBO Rate Advances to be made in the next following calendar month, such payment shall be made on the next preceding Business Day.  Absent obvious error, the records of the Agent will be conclusive evidence of the principal and accrued interest owing with respect to all Obligations.
+ 
+(b)
+                                
+Revolving Advances: Interest Payments.
+  Interest accruing on the Revolving Advances during any month at the Floating Rate shall be payable quarterly in arrears on the last day of each March, June, September and December and at maturity.  Interest accruing on the Revolving Advances at the LIBO Rate shall be payable on the last day of the applicable Interest Period and at maturity and, if the applicable Interest Period has a duration of longer than three months, on the day during such Interest Period that is every three months after the first day of such Interest Period.
+ 
+(c)
+                                 
+Revolving Advances: Principal Payment.
+  The entire principal balance of the Revolving Advances owing to each Bank shall be due and payable in full on the Commitment Termination Date applicable to such Bank.
+ 
+(d)
+                                
+Swingline Advances.
+  Interest and principal on the Swingline Advances shall be due and payable as set forth in Section 2.2.
+ 
+(e)
+                                 
+Bid Loans: Interest.
+  Interest accruing on the principal balance of each Bid Loan shall be due and payable on the last day of the Interest Period applicable thereto.
+ 
+(f)
+                                  
+Bid Loans: Principal.
+  The principal balance of each Bid Loan shall be due and payable in full on the last day of the Interest Period applicable thereto.
+ 
+To the extent that the Agent receives funds for application to the amounts owing by the Borrower under or in respect of this Agreement or any Revolving Note in currencies other than the currency or currencies required to enable the Agent to distribute funds to the Banks in accordance with the terms of this Section 6.2, the Agent shall be entitled to convert or exchange such funds into Dollars or into a Committed Currency or from Dollars to a Committed Currency
+ 
+or from a Committed Currency to Dollars, as the case may be, to the extent necessary to enable the Agent to distribute such funds in accordance with the terms of this Section 6.2; provided that the Borrower and each of the Banks hereby agree that the Agent shall not be liable or responsible for any loss, cost or expense suffered by the Borrower or such Bank as a result of any conversion or exchange of currencies effected pursuant to this Section 6.2 or as a result of the failure of the Agent to effect any such conversion or exchange, except for such loss, cost or expense due to the Agent's negligence, gross negligence or willful misconduct; and provided further that the Borrower agrees to indemnify the Agent and each Bank, and hold the Agent and each Bank harmless, for any and all losses, costs and expenses incurred by the Agent or any Bank for any conversion or exchange of currencies (or the failure to convert or exchange any currencies) in accordance with this Section 6.2 except for such losses, costs or expenses due to the Agent's or Bank's negligence, gross negligence or willful misconduct.
+ 
+6
+.3
+                              
+Prepayments.
+ 
+(a)  .  The Borrower may prepay the Revolving Advances or the Swingline Advances in whole at any time or from time to time in part, without penalty or premium, provided that (i) prepayment of any Bank's Advances must be accompanied by pro rata prepayment of each other Bank's Advances, (ii) any partial prepayment must be in an aggregate amount not less than $10,000,000, (iii) prepayment of any principal bearing interest at a Base Rate may be made only on one Business Day's notice to the Agent, and (iv) any prepayment of Advances, which at the time of such prepayment bear interest at a LIBO Rate, shall be (A) made only on three Business Days' notice to the Agent, (B) in a principal amount equal to that portion of the entire Borrowing to which any given LIBO Rate was applicable, and (C) accompanied by accrued interest on such prepayment through the date of prepayment and additional compensation calculated in accordance with Section 5.4(c) hereof. The Borrower may not prepay any Bid Loan without the consent of the holder thereof.
+Optional
+ 
+(b)  .  If, on any date, the Agent notifies the Borrower that, on any interest payment date, the sum of (i) the aggregate principal amount of all Advances denominated in Dollars then outstanding plus (ii) the Equivalent in Dollars (determined on the third Business Day prior to such interest payment date) of the aggregate principal amount of all Advances denominated in Committed Currencies then outstanding exceeds 105% of the aggregate Commitments of the Banks on such date, the Borrower shall, as soon as practicable and in any event within two Business Days after receipt of such notice, subject to the proviso to this sentence set forth below, prepay the outstanding principal amount of any Advances in an aggregate amount sufficient to reduce such sum to an amount not to exceed 100% of the aggregate Commitments of the Banks on such date together with any interest accrued to the date of such prepayment on the aggregate principal amount of Advances prepaid; provided that if the aggregate principal amount of Floating Rate Advances outstanding at the time of such required prepayment is less than the amount of such required prepayment, the portion of such required prepayment in excess of the aggregate principal amount of Floating Rate Advances then outstanding shall be deferred until the earliest to occur of the last day of the Interest Period of the outstanding LIBO Rate Advances in an amount equal to the excess of such required prepayment.  The Agent shall give prompt notice of any prepayment required under this Section 6.3(b) to the Borrower and the Banks, and shall provide prompt notice to the Borrower of any such notice of required prepayment received by it from any Bank.
+Mandatory
+ 
+ 
+6
+.4
+                              
+Termination or Reduction of the Commitments.
+ 
+The Borrower may from time to time on at least ten calendar days' prior notice received by the Agent (which shall promptly advise each Bank thereof) terminate the Commitments of the Banks in whole or permanently reduce the Commitments of the Banks in part, provided that (i) the Commitments of the Banks may not be terminated in whole at any time that any Advance remains outstanding, (ii) each partial reduction of the Commitments of the Banks shall be in the minimum amount of $10,000,000 or in a multiple of $10,000,000 in excess thereof, (iii) each partial reduction of the Commitments of the Banks shall be pro rata as to all of the Commitments of the Banks on the basis of the respective Percentages of the Banks, and (iv) no partial reduction of the Commitments of the Banks shall reduce the aggregate amount of the Commitments of the Banks to an amount less than the Aggregate Outstandings.
+ 
+6
+.5
+                              
+Taxes.
+ 
+(a)
+                                
+All payments made by the Borrower to the Agent or any Bank (herein any "Payee") under or in connection with this Agreement shall be made without any setoff or other counterclaim, and free and clear of and without deduction for or on account of any present or future taxes now or hereafter imposed by any governmental or other authority, except to the extent that such deduction or withholding is compelled by law.  As used herein, the term "Taxes" shall include all income, excise and other taxes of whatever nature (other than taxes generally assessed on the overall net income of the Payee by the government or other authority of the country, state or political subdivision in which such Payee is incorporated or in which the office through which the Payee is acting is located) as well as all levies, imposts, duties, charges, or fees of whatever nature.  If the Borrower is compelled by law to make any such deductions or withholdings it will:
+ 
+(i)
+                                    
+pay to the relevant authorities the full amount required to be so withheld or deducted;
+ 
+(ii)
+                                 
+except to the extent that such deduction or withholding results from a breach by any Payee of the representations contained in Section 6.5(b), pay such additional amounts (including, without limitation, any penalties, interest or expenses) as may be necessary in order that the net amount received by each Payee after such deductions or withholdings (including any required deduction or withholding on such additional amounts) shall equal the amount such Payee would have received had no such deductions or withholdings been made; and
+ 
+(iii)
+                              
+promptly forward to the Agent (for delivery to such Payee) an official receipt or other documentation satisfactory to the Agent evidencing such payment to such authorities.
+ 
+(b)
+                                
+If any Taxes otherwise payable by the Borrower pursuant to the foregoing paragraph are directly asserted against any Payee, such Payee may pay such
+ 
+Taxes and the Borrower promptly shall reimburse such Payee to the full extent otherwise required by such paragraph.  The obligations of the Borrower under this Section 6.5 shall survive any termination of this Agreement.  Each Bank by its execution of this Agreement does hereby represent (and each additional Bank by its execution of any Assignment Certificate pursuant to Section 11.11 shall be deemed to represent) to each other Bank, the Agent and the Borrower that if such Bank or additional Bank is organized under the laws of any jurisdiction other than the United States or any state thereof, such Bank or additional Bank has furnished to the Agent and the Borrower either U.S. Internal Revenue Service Form W-8BEN, or U.S. Internal Revenue Service Form W-8ECI, as applicable (wherein such Bank claims entitlement to complete exemption from U.S. Federal withholding tax on all interest payments hereunder).
+ 
+(c)
+                                 
+If the Borrower makes an increased tax payment to a Bank under the foregoing clause (a)(ii) and that Bank determines in its absolute discretion that (a) a tax credit is attributable to that tax payment, and (b) that Bank has obtained, utilized and fully retained that tax credit on an affiliated group basis, then such Bank shall pay an amount to the Borrower which that Bank determines in its absolute discretion will leave it (after that payment) in the same after-tax position as it would have been in had the payment under clause (a)(ii) not been required to be made by the Borrower; provided, however, that (i) such Bank shall be the sole judge of the amount of such tax credit and the date on which it is received, (ii) no Bank shall be obliged to disclose information regarding its tax affairs or tax computations, (iii) nothing herein shall interfere with a Bank's right to manage its tax affairs in whatever manner it sees fit, and (iv) if such Bank shall subsequently determine that it has lost the credit of all or a portion of such tax credit, the Borrower shall promptly remit to such Bank the amount certified by such Bank to be the amount necessary to restore such Bank to the position it would have been in if no payment had been made pursuant to this sentence.
+ 
+6
+.6
+                              
+Judgment Currency.
+ 
+If, for the purpose of obtaining judgment in any court, it is necessary to convert a sum due under this Agreement in Dollars or any alternative currency (the "Specified Currency") into another currency (the "Judgment Currency"), the rate of exchange which shall be applied shall be that at which, in accordance with normal banking procedures, the Agent could purchase the Specified Currency with the amount of the Judgment Currency on the Business Day next preceding the day on which such judgment is rendered.  The obligation of the Borrower with respect to any such sum due from it to the Agent or any Bank (each, an "Entitled Person") shall, notwithstanding the rate of exchange actually applied in rendering such judgment, be discharged only to the extent that on the Business Day following receipt by such Entitled Person of any sum adjudged to be due under this Agreement in the Judgment Currency, such Entitled Person may, in accordance with normal banking procedures, purchase and transfer to the required location of payment the Specified Currency with the amount of the Judgment Currency so adjudged to be due; and the Borrower hereby, as a separate obligation and notwithstanding any such judgment, agrees to indemnify such Entitled Person against, and to pay such Entitled Person on demand, in the applicable Specified Currency, any difference between the sum originally due to such Entitled
+ 
+Person in the Specified Currency and the amount of the Specified Currency so purchased and transferred on that Business Day.
+ 
+6.7
+                              
+Defaulting Banks.
+ 
+Notwithstanding any provision of this Agreement to the contrary, if any Bank becomes a Defaulting Bank, then the following provisions shall apply for so long as such Bank is a Defaulting Bank:
+ 
+(a)
+                                
+fees shall cease to accrue on the unfunded portion of the Commitment of such Defaulting Bank pursuant to Section 4.1;
+ 
+(b)
+                                
+the Credit Exposure of such Defaulting Bank shall not be included in determining whether the Required Banks have taken or may take any action hereunder (including any consent to any amendment, waiver or other modification pursuant to Section 12.4); provided, that this clause (b) shall not apply to the vote of a Defaulting Bank in the case of an amendment, waiver or other modification requiring the consent of such Bank or each Bank affected thereby;
+ 
+(c)
+                                 
+if any Swingline Advances are outstanding at the time such Bank becomes a Defaulting Bank then:
+ 
+(i)
+                                    
+all or any part of such Defaulting Bank's participation in Swingline Advances shall be reallocated among the non-Defaulting Banks in accordance with their respective Percentages but only to the extent the sum of all non-Defaulting Banks' Committed Outstandings plus such Defaulting Bank's Percentage of Swingline Advances does not exceed the total of all non-Defaulting Banks' Commitments;
+ 
+(ii)
+                                 
+if the reallocation described in clause (i) above cannot, or can only partially, be effected, the Borrower shall within one Business Day following notice by the Agent prepay such Swingline Advances to the extent not so reallocated; and
+ 
+(d)
+                                
+so long as such Bank is a Defaulting Bank, the Swingline Bank shall not be required to fund any Swingline Advance unless it is satisfied that the related exposure will be 100% covered by the Commitments of the non-Defaulting Banks, and participating interests in any newly made Swingline Advance shall be allocated among non-Defaulting Banks in a manner consistent with Section 6.7(c)(i) (and such Defaulting Bank shall not participate therein).
+ 
+If (i) a Bankruptcy Event with respect to a Parent of any Bank shall occur following the date hereof and for so long as such event shall continue or (ii) the Swingline Bank has a good faith belief that any Bank has defaulted in fulfilling its obligations under one or more other agreements in which such Bank commits to extend credit, the Swingline Bank shall not be required to fund any Swingline Advance unless the Swingline Bank shall have entered into arrangements with the Borrower or such Bank, satisfactory to the Swingline Bank to defease any risk to it in respect of such Bank hereunder.
+ 
+In the event that the Agent, the Borrower and the Swingline Bank each agrees that a Defaulting Bank has adequately remedied all matters that caused such Bank to be a Defaulting Bank, then the participations of the Banks in Swingline Advances shall be readjusted to reflect the inclusion of such Bank's Commitment and on such date such Bank shall purchase at par such of the Advances of the other Banks (other than Bid Loans and Swingline Advances) as the Agent
+ 
+shall determine may be necessary in order for such Bank to hold such Advances in accordance with its Percentage.
+ 
+7
+.
+                                     
+CONDITIONS PRECEDENT
+ 
+On or before the date hereof, the Borrower shall deliver to the Agent the documents detailed in Exhibit A, properly executed and in form and content acceptable to the Agent and the Banks.  For purposes of determining compliance with the conditions of this Section 7, each Bank shall be deemed to have consented to, approved or accepted or to be satisfied with each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to the Banks unless an officer of the Agent responsible for the transactions contemplated by this Agreement shall have received notice from such Bank prior to the date hereof, specifying its objection thereto.
+ 
+8
+.
+                                     
+REPRESENTATIONS AND WARRANTIES
+ 
+To induce the Agent and the Banks to enter into this Agreement, the Borrower makes the representations and warranties contained in Exhibit B.  Each request for a Borrowing under this Agreement, each increase of Commitments in accordance with Section 2.6 and each extension of Commitments in accordance with Section 2.7 constitutes a reaffirmation of these representations and warranties (other than, in the case of any Borrowing or an increase of Commitments in accordance with Section 2.6 the representations and warranties listed as "Material Adverse Effect", "Litigation" and "Environmental Matters" on Exhibit B) as of the date of such Borrowing.
+ 
+9
+.
+                                     
+COVENANTS.
+ 
+From the date hereof through the Commitment Termination Date, and thereafter until the Obligations are paid in full, unless the Required Banks (or the Agent, with the consent of the Required Banks) shall otherwise agree in writing, the Borrower shall do the following:
+ 
+9
+.1
+                              
+Financial Information
+ 
+The Borrower shall deliver to the Agent:
+ 
+(a)
+                                
+Annual Financial Statements
+.  Within 100 days of the Borrower's fiscal year end, the Borrower's consolidated annual financial statements.  The statements must be audited with an unqualified opinion by a certified public accountant acceptable to the Agent.
+ 
+(b)
+                                
+Interim Financial Statements
+.  Within 60 days of each Fiscal Quarter, the Borrower's interim financial statements.  These statements will be prepared on a consolidated basis and in accordance with GAAP.  These statements will include a statement of cash flows.
+ 
+(c)
+                                 
+Compliance Certificate
+.  Concurrent with the financial statements required above, a compliance certificate, in the form of Exhibit E, signed by an officer of the Borrower, attesting to the accuracy of the financial statements, and demonstrating
+ 
+in form acceptable to the Agent that the Borrower remains in compliance with the covenants detailed in this Agreement.
+ 
+(d)
+                                
+Notices
+.  Promptly upon becoming aware of the same, written notice of any Default or Event of Default.
+ 
+(e)
+                                 
+Additional Information
+.  Upon request of the Agent or any of the Banks, such other information as it may reasonably request.
+ 
+The Borrower shall deliver the statements required under paragraphs (a) and (b) to the Agent by e-mail containing either the body of such statements or a hyperlink to the location of such statements on the World Wide Web.  Upon the Agent's receipt of any of the foregoing from the Borrower, the Agent shall promptly deliver a copy of the same to each Bank, transmitted in the manner received by the Agent.
+ 
+9
+.2
+                              
+Covenants
+ 
+The Borrower shall:
+ 
+(a)
+                                
+Negative Pledge
+.  Not create, incur or suffer to exist any pledge, lien, security interest, assignment or transfer upon or of any of the Borrower's accounts receivable or other rights to payment, whether now existing or hereafter created or existing; provided, however, nothing in this Section 9.2(a) shall prohibit the Borrower from (i) assigning or transferring certain of its accounts receivable in connection with a sale of the part of its business from which such accounts receivable have arisen, or (ii) transferring not more than 25% of its accounts receivable (with such percentage determined by face amount of the accounts receivable as of the time immediately before such transfer) to a Securitization Entity in connection with a Securitization Transaction, so long as the Borrower receives reasonably equivalent value on account of such transfer.
+ 
+(b)
+                                
+Taxes
+.  Pay, when due, all taxes, assessments and governmental charges levied or imposed upon the Borrower; provided, however, the Borrower shall not be required to pay any such tax, assessment or governmental charge whose amount, applicability or validity is being contested in good faith by appropriate proceedings and for which adequate reserves have been established by the Borrower in accordance with generally accepted accounting principles.
+ 
+(c)
+                                 
+Insurance
+.  Cause its properties to be adequately insured against loss or damage and to carry such other insurance as is usually carried by persons engaged in the same or similar business.  Such insurance shall either be maintained by the Borrower through self-insurance through captive insurance companies or by insurance issued by reputable and solvent insurance companies.
+ 
+(d)
+                                
+Merger
+.  Refrain from being acquired by any other entity and refrain from transferring all or substantially all of its assets to, or consolidating, merging or otherwise combining with, any other entity where the Borrower is not the surviving entity; provided, however, the Borrower's failure to comply with the
+ 
+requirements of this Section 9.2(d) shall not constitute an Event of Default under Section 10.1(f) of this Agreement, but instead shall give the Required Banks the right, by written notice to the Borrower, to demand payment of unpaid principal, accrued interest and all other amounts payable under this Agreement and to terminate the Commitments, with such demand and termination to be effective thirty calendar days' following such written notice from the Required Banks to the Borrower.
+ 
+(e)
+                                 
+Maintenance of Properties
+.  Make all repairs, renewals or replacements necessary to keep its plant, properties and equipment in good working condition; provided, however, that nothing in this Section 9.2(e) shall prevent the Borrower from discontinuing the operation or maintenance of such plant, properties or equipment if such discontinuance is, in the judgment of the Borrower, desirable in the conduct of its business.
+ 
+(f)
+                                  
+Books and Records
+.  Maintain adequate books and records in accordance with generally accepted accounting principles.
+ 
+(g)
+                                 
+Compliance with Laws
+.  Comply with all material laws and regulations applicable to its business.
+ 
+(h)
+                                
+Preservation of Rights
+.  Maintain and preserve its corporate existence and all material rights, privileges, charters and franchises it now has; provided, however, that the Borrower shall not be required to preserve any such right, privilege, charter or franchise if the Board of Directors of the Borrower shall determine that the preservation thereof is no longer desirable in the conduct of the business of the Borrower.
+ 
+(i)
+                                    
+Inspection
+.  Upon reasonable notice by the Agent to the Borrower, permit the Agent or any Bank to visit and inspect the Borrower's properties and examine its books and records to the extent the Agent or such Bank determines such inspection and examination is necessary for the Agent or such Bank to observe and monitor the Borrower's financial performance and financial condition and to assure the Borrower's compliance with its obligations under this Agreement.
+ 
+(j)
+                                   
+Use of Proceeds
+.  Use the proceeds of the Advances solely for the Borrower's general corporate purposes; provided, however, the proceeds of the Advances shall not be used by the Borrower (i) in connection with any acquisition by the Borrower of other businesses, whether through merger, consolidation, acquisition of assets, acquisition of stock or other ownership interests or otherwise; or (ii) in connection with or preparation for any case or proceeding contemplated by Section 10.1(j) hereof.
+ 
+(k)
+                                
+Foreign Assets Control
+.  Ensure that neither the Borrower nor any subsidiary of the Borrower nor any Person who owns a controlling interest in or otherwise controls the Borrower is or shall be listed on (i) the lists of Specially Designated Nationals and Blocked Persons maintained by the Department of the Treasury's
+ 
+Office of Foreign Assets Control, or (ii) the list of persons whose property or interests in property are blocked or subject to blocking pursuant to section 1 of Executive Order 13224 of September 23, 2001.
+ 
+(l)
+                                    
+Ratio of EBITDA to Interest.
+  Maintain its EBITDA to Interest Ratio as of the end of each fiscal quarter of the Borrower at not less than 3.0 to 1.
+ 
+These covenants were negotiated by the Banks and the Borrower based on information provided to the Banks by the Borrower.  A breach of a covenant is an indication that the risk of the transaction has increased.  In consideration for any waiver or modification of these covenants, the Banks may require: collateral or other credit support; higher fees or interest rates; and/or revised loan documentation or monitoring.  Any covenant waiver or modification will be made in the sole discretion of the Required Banks.  The foregoing in no way limits the rights of the Agent and Banks under Section 10 of this Agreement.
+ 
+10
+.
+                              
+EVENTS OF DEFAULT AND REMEDIES.
+ 
+10
+.1
+                       
+Default
+ 
+As used herein, "Event of Default" means any of the following:
+ 
+(a)
+                                
+Default in the payment when due of any principal due with respect to any of the Obligations and the continuance of such default for one (1) calendar day.
+ 
+(b)
+                                
+Default in the payment when due of any interest, fees, costs, expenses or other payments required to be paid by the Borrower under this Agreement and the continuance of such default for five (5) calendar days.
+ 
+(c)
+                                 
+Default in the payment of unpaid principal, interest and other payments under this Agreement (other than as set forth in subsections (a) and (b) above) following the Borrower's receipt of written notice from the Required Banks demanding payment thereof as permitted in this Agreement and the passage of thirty calendar days following such written notice.
+ 
+(d)
+                                
+Default in the observance or performance of any covenant or agreement contained in Section 9.2(a) or 9.2(l) of this Agreement.
+ 
+(e)
+                                 
+Default in the observance or performance of any covenant or agreement contained in Section 9.1 of this Agreement and continuance of such default for twenty (20) calendar days.
+ 
+(f)
+                                  
+Default in the observance or performance of any covenant or agreement contained in this Agreement or related documents (other than a covenant or agreement a default in whose performance is elsewhere in this Section 10.1 specifically dealt with) and continuance for more than thirty (30) calendar days.
+ 
+(g)
+                                 
+Default in the payment of any indebtedness of the Borrower when due or, if payable on demand, on demand, or any other default by the Borrower in any
+ 
+agreement relating to indebtedness or contingent liabilities that would allow the maturity of such indebtedness to be accelerated, in each case if the outstanding balance (including principal, interest, and any other sums) of all such indebtedness or liabilities in default at any one time exceeds $200,000,000.
+ 
+(h)
+                                
+Any representation or warranty made by the Borrower to the Agent or the Banks proves to be untrue in any material respect.
+ 
+(i)
+                                    
+The rendering against the Borrower of any final judgment, decree or order for the payment of money in excess of $500,000,000 (excluding any portion of such judgment, decree or order which is insured by an unrelated third-party insurer which has not objected to or denied coverage), and the continuance of such judgment, decree or order unsatisfied and in effect for any period of ninety (90) calendar days without a stay of execution.
+ 
+(j)
+                                   
+With or without the Borrower's consent, a custodian, trustee or receiver shall be appointed for the majority of the properties of the Borrower, or a petition shall be filed by or against the Borrower under the United States Bankruptcy Code or any similar comprehensive bankruptcy or insolvency law, whether domestic or foreign.
+ 
+10
+.2
+                       
+Remedies.
+ 
+Upon the occurrence of any one or more Events of Default, or at any time thereafter, the Agent may, with the consent of the Required Banks, and shall, upon request of the Required Banks:
+ 
+(a)
+                                
+terminate the Commitments;
+ 
+(b)
+                                
+declare the unpaid principal, accrued interest and all other amounts payable under this Agreement to be immediately due and payable; and/or
+ 
+(c)
+                                 
+exercise any or all remedies available to the Agent or the Banks under the other Loan Documents or otherwise available by law or agreement.
+ 
+Notwithstanding the foregoing, upon the occurrence of an Event of Default under paragraph 10.1(j), the Commitments shall immediately terminate and the unpaid principal, accrued interest and all other amounts payable under this Agreement will become immediately due and payable.
+ 
+10
+.3
+                       
+Setoff
+ 
+Each Bank may, upon the occurrence of an Event of Default or at any time thereafter, without prior notice to the Borrower, set off and apply any and all deposits held by, and other indebtedness owing by, such Bank to or for the credit or the account of the Borrower against any and all obligations owing to such Bank hereunder, whether now or hereafter existing, whether or not the Agent or such Bank has made demand under this Agreement or any Loan Document and whether such obligations may be contingent or unmatured.  Such right shall be in addition to and not in lieu of any other rights and remedies available to the Agent or the Banks under the other Loan Documents or otherwise available by law or agreement.  Each Bank will endeavor to notify
+ 
+the Borrower and the Agent promptly after any such setoff made by such Bank; provided, however, that the failure to give such notice shall not affect the validity of such setoff or any application of funds realized by such setoff.  Each Bank shall have the obligations, if any, specified in Section 11.4 with respect to any amounts obtained pursuant to this Section 10.3.
+ 
+11
+.
+                              
+AGENCY
+ 
+11
+.1
+                       
+Authorization.
+ 
+Each Bank irrevocably appoints and authorizes the Agent to act on behalf of such Bank to the extent provided herein or in any document or instrument delivered hereunder or in connection herewith, and to take such other action as may be reasonably incidental thereto.  As to any matters not expressly provided for by this Agreement or the other Loan Documents, the Agent shall not be required to exercise any discretion or take any action, but shall be required to act or to refrain from acting (and shall be fully protected in so acting or refraining from acting) upon the instructions of the Required Banks, and such instruments shall be binding upon all Banks.
+ 
+11
+.2
+                       
+Distribution of Payments and Proceeds.
+ 
+(a)
+                                
+After deduction of any costs of collection as hereinafter provided in Section 11.3, any fees specified herein or in any Fee Letter, and any servicing fee provided in any agreement between the Agent and the applicable Bank, the Agent shall remit to each Bank that Bank's Percentage of all payments of principal, interest, fees and other payments that are received by the Agent under the Loan Documents.  Each Bank's interest in the Loan Documents shall be payable solely from payments, collections and proceeds actually received by the Agent under the Loan Documents; and the Agent's only liability to the Banks hereunder shall be to account for each Bank's Percentage of such payments, collections and proceeds in accordance with this Agreement.  If the Agent is ever required for any reason to refund any such payments, collections or proceeds, each Bank will refund to the Agent, upon demand, its Percentage of such payments, collections or proceeds, together with its Percentage of interest or penalties, if any, payable by the Agent in connection with such refund.  The Agent may, in its sole discretion, make payment to the Banks in anticipation of receipt of payment from the Borrower.  If the Agent fails to receive any such anticipated payment from the Borrower, each Bank shall promptly refund to the Agent, upon demand, any such payment made to it in anticipation of payment from the Borrower, together with interest for each day on such amount until so refunded at a rate equal to (A) the Federal Funds Rate, in the case of Advances denominated in Dollars or (B) the cost of funds incurred by the Agent in respect of such amount in the case of Advances denominated in Committed Currencies, for each such date.
+ 
+(b)
+                                
+Notwithstanding the foregoing, if any Bank has wrongfully refused to fund its Percentage of any Borrowing or other advance as required hereunder, or if the principal balance of any Bank's Advances is for any other reason less than its Percentage of the aggregate principal balances of the Advances, the Agent may remit all payments received by it to the other Banks until such payments have
+ 
+reduced the aggregate amounts owed by the Borrower to the extent that the aggregate amount owing to such Bank hereunder is equal to its Percentage of the aggregate amount owing to all of the Banks hereunder.  The provisions of this paragraph are intended only to set forth certain rules for the application of payments, proceeds and collections in the event that a Bank has breached its obligations hereunder and shall not be deemed to excuse any Bank from such obligations.
+ 
+(c)
+                                 
+Notwithstanding the foregoing, payments designated by the Borrower as pertaining to any Bid Loan shall be paid by the Agent (after deduction of costs of collection as hereinafter provided) to the applicable Bank holding such Bid Loan, without regard to such Bank's Percentage.
+ 
+11
+.3
+                       
+Expenses.
+ 
+All payments, collections and proceeds received or effected by the Agent may be applied, first, to pay or reimburse the Agent for all reasonable costs, expenses, damages and liabilities at any time incurred by or imposed upon the Agent in connection with this Agreement or any other Loan Document (including but not limited to all reasonable attorney's fees, foreclosure expenses and advances made to protect the security of any collateral), except to the extent that the Agent shall have previously received reimbursement of such costs, expenses, damages or liabilities from the Borrower.  If the Agent does not receive payments, collections or proceeds sufficient to cover any such costs, expenses, damages or liabilities within five (5) calendar days after their incurrence or imposition, each Bank shall, upon demand, remit to the Agent its Percentage of the difference between (i) such costs, expenses, damages and liabilities, and (ii) such payments, collections and proceeds; provided, however, that no Bank shall be liable for any portion of such costs, expenses, damages and liabilities resulting from the gross negligence or willful misconduct of the Agent.
+ 
+11
+.4
+                       
+Payments Received Directly by Banks.
+ 
+If any Bank shall obtain any payment or other recovery (whether voluntary, involuntary, by application of offset or otherwise) on account of principal of or interest on any Revolving Advances other than through distributions made in accordance with Section 11.2, such Bank shall promptly give notice of such fact to the Agent and shall purchase from the other Banks such participations in the Revolving Advances as shall be necessary to cause the purchasing Bank to share the excess payment or other recovery ratably with each of them; provided, however, that if all or any portion of the excess payment or other recovery is thereafter recovered from such purchasing Bank, the purchase shall be rescinded and the purchasing Bank restored to the extent of such recovery (but without interest thereon).  The Borrower agrees that any Bank so purchasing a participation from another Bank pursuant to this Section 11.4 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of set-off) with respect to such participation as fully as if such Bank were the direct creditor of the Borrower in the amount of such participation.
+ 
+11
+.5
+                       
+Indemnification.
+ 
+Each Bank severally (but not jointly) hereby agrees to indemnify and hold harmless the Agent, as well as the Agent's agents, employees, officers and directors, ratably according to the respective Percentages of each of the Banks from and against any and all losses, liabilities (including liabilities for penalties), actions, suits, judgments, demands, damages, costs, disbursements, or expenses (including reasonable attorneys' fees and expenses) of any kind or nature whatsoever, which are imposed on, incurred by, or asserted against the Agent or its agents, employees, officers or directors in any way relating to or arising out of this Agreement or the other Loan Documents, or as a result of any action taken or omitted to be taken by the Agent; provided, however, that no Bank shall be liable for any portion of any such losses, liabilities (including liabilities for penalties), actions, suits, judgments, demands, damages, costs, disbursements, or expenses resulting from the gross negligence or willful misconduct of the Agent.  Notwithstanding any other provisions of this Agreement or the other Loan Documents, the Agent shall in all cases be fully justified in failing or refusing to act hereunder unless it shall be indemnified to its satisfaction by the Banks against any and all liability and expense that may be incurred by it by reason of taking or continuing to take any such action.
+ 
+11
+.6
+                       
+Limitations on Agent's Power.
+ 
+Notwithstanding any other provision of this Agreement, the Agent shall not have the power, without the written consent of all of the Banks, to (i) forgive any indebtedness of the Borrower arising under this Agreement, (ii) agree to reduce the rate of interest or fees charged under this Agreement except as expressly provided in this Agreement, (iii) agree to extend the due date for payment of principal, interest, fees or any other amount due under this Agreement, (iv) extend the Commitment Termination Date or increase the amount of any of the Commitments except as provided in Sections 2.6 and 2.7, (v) amend the definition of "Required Banks," (vi) amend this Section 11.6, Section 12.4 or Section 12.5 of this Agreement, or any provision herein providing for consent or other action by all Banks, (vii) amend any provision for the pro rata treatment of the Banks with respect to the sharing of payments of principal or interest or the making of Advances, or (viii) release the Borrower from personal liability on account of its obligations hereunder.
+ 
+11
+.7
+                       
+Exculpation of the Agent by the Banks.
+ 
+The Agent shall be entitled to rely upon advice of counsel concerning legal matters, and upon any writing which it believes to be genuine or to have been presented by a proper person.  Neither the Agent nor any of its directors, officers, employees or agents shall (a) be responsible to any of the Banks for any recitals, representations or warranties contained in, or for the execution, validity, genuineness, effectiveness or enforceability of this Agreement, any Loan Document, or any other instrument or document delivered hereunder or in connection herewith, (b) be responsible to any of the Banks for the validity, genuineness, perfection, effectiveness, enforceability, existence, value or enforcement of any collateral security, (c) be under any duty to any of the Banks to inquire into or pass upon any of the foregoing matters, or to make any inquiry concerning the performance by the Borrower or any other obligor of its obligations, or (d) in any event, be liable to any of the Banks for any action taken or omitted by it or them, except for its or their own gross negligence or willful misconduct.
+ 
+11
+.8
+                       
+Agent and Affiliates.
+ 
+The Agent shall have the same rights, powers and obligations hereunder in its individual capacity as any other Bank, and may exercise or refrain from exercising the same as though it were not the Agent, and the Agent and its affiliates may accept deposits from and generally engage in any kind of business with the Borrower as fully as if the Agent were not the Agent hereunder.
+ 
+11
+.9
+                       
+Credit Investigation.
+ 
+Each Bank acknowledges that it has made such inquiries and taken such care on its own behalf as would have been the case had its Commitment been granted and the Advances made directly by such Bank to the Borrower without the intervention of the Agent or any other Bank.  Each Bank agrees and acknowledges that the Agent makes no representations or warranties about the creditworthiness of the Borrower or any other party to this Agreement or with respect to the legality, validity, sufficiency or enforceability of this Agreement, any Loan Document, or any other instrument or document delivered hereunder or in connection herewith.
+ 
+11
+.10
+                
+Resignation.
+ 
+The Agent may resign as such at any time upon at least 30 days' prior notice to the Borrower and the Banks.  In the event of any resignation of the Agent, the Required Banks shall as promptly as practicable appoint a successor Agent.  If no such successor Agent shall have been so appointed by the Required Banks and shall have accepted such appointment within 30 days after the resigning Agent's giving of notice of resignation, then the resigning Agent may, on behalf of the Banks, appoint a successor Agent, which shall be a commercial bank organized under the laws of the United States of America or of any State thereof.  Upon the acceptance of any appointment as Agent hereunder by a successor Agent, such successor Agent shall thereupon be entitled to receive from the prior Agent such documents of transfer and assignment as such successor Agent may reasonably request and the resigning Agent shall be discharged from its duties and obligations under this Agreement.  After any resignation pursuant to this Section, the provisions of this Section shall inure to the benefit of the successor Agent as to any actions taken or omitted to be taken by it while it is an Agent hereunder and to the retiring Agent as to any actions taken or omitted to be taken by it while it was an Agent hereunder.
+ 
+11
+.11
+                
+Assignments and Participations.
+ 
+(a)
+                                
+Participations.
+  Any Bank may, at its option, sell one or more participations in that Bank's Advances; provided, however, (i) no such participation shall relieve any Bank of its obligations under this Agreement and the other Loan Documents, including, without limitation, its obligation to make Advances hereunder on the terms and subject to the conditions set forth herein, (ii) the Borrower, the Agent and the other Banks shall continue to deal solely and directly with such Bank granting any such participation in connection with such Bank's rights and obligations under this Agreement and the other Loan Documents, and (iii) no such participant under any such participation shall have any right to approve any amendment or waiver of any provision of this Agreement or the other Loan Documents, or to consent to any departure by the Borrower therefrom, except to
+ 
+the extent that such amendment, waiver or consent would reduce the principal of, or interest on, the Advances in which such participant has such participation, or any fees or other amounts payable hereunder if such participant participates therein, or would postpone any date fixed for any payment of principal of, or interest on, the Advances in which such participant has such participation, or any fees or other amounts payable hereunder if such participant participates therein.  Except as set forth in (iii) above, no holder of any such participation shall be entitled to require the Bank granting such participation to take or omit to take any action hereunder.
+ 
+(b)
+                                
+Assignments.
+ 
+(i)
+                                    
+Generally.
+  Subject to the limitations set forth in subsection (ii) below, any Bank may, at its option, assign to another Person all or a part of its Commitment, Advances and other rights and obligations under this Agreement, but only pursuant to an Assignment Certificate.  From and after the effective date of any such assignment, the assignee thereunder shall, to the extent that rights and obligations hereunder have been assigned to it pursuant to such assignment, have the rights and obligations so assigned to it, and the assigning Bank shall, to the extent that rights and obligations have been assigned by it pursuant to such assignment, relinquish its rights and be released from its obligations under this Agreement.  Any Bank making an assignment under this Section shall pay the Agent a transfer fee in the amount of $3,500 concurrent with such assignment.
+ 
+(ii)
+                                 
+Limitations.
+  Notwithstanding paragraph (i):
+ 
+(A)
+                              
+Any assignment under paragraph (i) may be made only with the prior written consent of the Agent, the Swingline Bank and the Borrower, which consent shall not be unreasonably withheld; provided that the Borrower shall be deemed to have consented to any such assignment unless it shall object thereto by written notice to the Agent within ten Business Days after having received notice thereof.
+ 
+(B)
+                              
+Unless the Agent, the Swingline Bank and the Borrower otherwise consent in writing, which consent shall not be unreasonably withheld, no assignment may be made to any Person that is not an Eligible Assignee.
+ 
+(C)
+                              
+U
+nless the Agent and the Borrower otherwise consent in writing, which consent shall not be unreasonably withheld, the aggregate Credit Exposure assigned by any Bank shall not exceed 60% of its original Commitment hereunder, as such Commitment may have been reduced from time to time pursuant to Section 6.4.
+ 
+(D)
+                              
+U
+nless the Agent and the Borrower otherwise consent in writing, which consent shall not be unreasonably withheld, any assignment of a part of a Bank's Commitment, Advances and other rights and obligations must be in a minimum amount of $10,000,000.
+ 
+No consent of the Borrower that would otherwise be required under this subsection (ii) shall be required during any period in which an Event of Default exists.  No consent of the Agent or the Borrower that would otherwise be required under this subsection (ii) shall be required in connection with an assignment by any Bank to any Affiliate of that Bank or to another Bank.
+ 
+(c)
+                                 
+Information.
+  The Borrower authorizes the Agent and each Bank to disclose to its affiliates and any participant or assignee and any prospective participant or assignee any and all financial and other information in the possession of the Agent or that Bank concerning the Borrower.
+ 
+(d)
+                                
+Assignment to Federal Reserve Bank.
+  Nothing herein shall prohibit any Bank from pledging or assigning any Revolving Note to any Federal Reserve Bank in accordance with applicable law.
+ 
+11
+.12
+                
+Syndication Agent and Documentation Agent.
+ 
+The Banks identified on the title page as "Syndication Agent" and "Documentation Agent" shall have no right, power, obligation or liability under this Agreement or any other Loan Document other than those applicable to all Banks as such.  Each Bank acknowledges that it has not relied, and will not rely, on any Bank so identified in deciding to enter into this Agreement or in taking or omitting any action hereunder.
+ 
+11
+.13
+                
+Delegation of Duties.
+ 
+The Agent may perform any and all of its duties and exercise its rights and powers hereunder or under any other Loan Document by or through any one or more sub-agents appointed by the Agent, including the London Sub-Agent.  The exculpatory provisions of this Article shall apply to any such sub-agent.
+ 
+12
+.
+                              
+MISCELLANEOUS.
+ 
+12
+.1
+                       
+365-Day Year.
+ 
+All interest on Advances subject to the Floating Rate, LIBO Rate in the case of Advances denominated in Sterling and all fees due under this Agreement will be calculated based on the actual days elapsed in a 365-day year.  All interest on Advances subject to a LIBO Rate or the Federal Funds Rate and all fees will be calculated based on the actual days elapsed in a 360-day year.
+ 
+12
+.2
+                       
+GAAP.
+ 
+Except as otherwise stated in this Agreement, all financial information provided to the Agent or the Banks and all calculations for compliance with financial covenants will be made using generally accepted accounting principles consistently applied ("GAAP").
+ 
+12
+.3
+                       
+No Waiver; Cumulative Remedies.
+ 
+No failure or delay by the Agent or any Bank in exercising any rights under this Agreement shall be deemed a waiver of those rights.  The remedies provided for in the Agreement are cumulative and not exclusive of any remedies provided by law.
+ 
+12
+.4
+                       
+Amendments, Etc.
+ 
+Any amendment, modification, termination, or waiver of any provision of this Agreement must be in writing and signed by the Agent with the approval of the Required Banks (or such other number of Banks, if any, as may be required hereunder for such amendment, modification, termination or waiver).  Notwithstanding the foregoing, any modification of the type described in the first sentence of Section 11.6 shall be effective only if signed by each Bank.
+ 
+12
+.5
+                       
+Binding Effect: Assignment.
+ 
+This Agreement is binding on the Borrower, the Agent and the Banks and their successors and assigns.  The Borrower may not assign its rights hereunder without the prior written consent of all of the Banks.
+ 
+12
+.6
+                       
+New York Law.
+ 
+This Agreement is governed by the substantive laws of the State of New York.
+ 
+12.7
+                       
+Severability of Provisions.
+ 
+If any part of this Agreement is unenforceable, the rest of the Agreement may still be enforced.
+ 
+12.8
+                       
+Integration.
+ 
+This Agreement contains the entire understanding between the parties and supersedes all other oral or written agreements between the Borrower and the Agent or any Bank.
+ 
+12
+.9
+                       
+Notice.
+ 
+(a)
+                                
+Except as otherwise specified herein, all notices and other communications hereunder shall be in writing and shall be (i) personally delivered, (ii) sent by registered mail, postage prepaid, or (iii) transmitted by telecopy, in each case addressed to the party to whom notice is being given at its address set forth by its signature below or if telecopied, transmitted to that party at its telecopier number set forth by its signature below; or, as to each party, at such other address or telecopier number as may hereafter be designated in a notice by that party to the other party complying with the terms of this Section.  All such notices or other communications shall
+be deemed to have been given on (i) the date received if delivered personally, (ii) the date of posting if delivered by mail, or (iii) the date of transmission if delivered by telecopy.  All communications required hereunder to be delivered by e-mail shall be transmitted to the e-mail address set forth by the applicable party's signature below, or, as to each party, at such other e-mail address as may hereafter be designated in a notice by that party to the other party complying with the terms of this Section.
+ 
+(b)
+                                
+So long as JPMCB or any of its Affiliates is the Agent, materials required to be delivered pursuant to Section 9.1(a) and (b) shall be delivered to the Agent in an electronic medium in a format acceptable to the Agent and the Banks.  The Borrower agrees that the Agent may make such materials, as well as any other written information, documents, instruments and other material relating to the Borrower, any of its subsidiaries or any other materials or matters relating to this Agreement, the Revolving Notes or any of the transactions contemplated hereby (collectively, the "") available to the Banks by posting such notices on Intralinks or a substantially similar electronic system (the "").  The Borrower acknowledges that (i) the distribution of material through an electronic medium is not necessarily secure and that there are confidentiality and other risks associated with such distribution, (ii) the Platform is provided "as is" and "as available" and (iii) neither the Agent nor any of its affiliates warrants the accuracy, adequacy or completeness of the Communications or the Platform and each expressly disclaims liability for errors or omissions in the Communications or the Platform.  No warranty of any kind, express, implied or statutory, including, without limitation, any warranty of merchantability, fitness for a particular purpose, non-infringement of third party rights or freedom from viruses or other code defects, is made by the Agent or any of its Affiliates in connection with the Platform.
+Communications
+Platform
+ 
+(c)
+                                 
+Each Bank agrees that notice to it (as provided in the next sentence) (a "") specifying that any Communications have been posted to the Platform shall constitute effective delivery of such information, documents or other materials to such Bank for purposes of this Agreement; that if requested by any Bank the Agent shall deliver a copy of the Communications to such Bank by email or telecopier.  Each Bank agrees (i) to notify the Agent in writing of such Bank's e-mail address to which a Notice may be sent by electronic transmission (including by electronic communication) on or before the date such Bank becomes a party to this Agreement (and from time to time thereafter to ensure that the Agent has on record an effective e-mail address for such Bank) and (ii) that any Notice may be sent to such e-mail address.
+Notice
+provided
+ 
+12
+.10
+                
+Indemnification by the Borrower.
+ 
+The Borrower hereby agrees to indemnify and hold harmless the Agent and each Bank, as well as their agents, employees, officers and directors (collectively, the "Indemnified Parties" and individually an "Indemnified Party") from and against any and all losses, liabilities (including liabilities for penalties), actions, suits, judgments, demands, damages, costs, disbursements, or expenses (including reasonable attorneys' fees and expenses) of any kind or nature whatsoever, which are imposed on, incurred by, or asserted against an Indemnified Party in any way relating to or arising out of this Agreement or the other Loan Documents; provided, however, that the Borrower shall not be liable for any portion of any such losses, liabilities (including liabilities for penalties), actions, suits, judgments, demands, damages, costs,
+ 
+disbursements, or expenses to the extent resulting from (i) an Indemnified Party's failure to perform its obligations under this Agreement, or (ii) any negligence, gross negligence or willful misconduct of an Indemnified Party.  In the case of an investigation, litigation or other proceeding to which the indemnity in this paragraph applies, such indemnity shall be effective whether or not such investigation, litigation or proceeding is brought by the Borrower, any of its directors, security holders or creditors, an Indemnified Party or any other person or an Indemnified Party is otherwise a party thereto and whether or not the transactions contemplated hereby are consummated.
+ 
+No Indemnified Party shall have any liability (whether in contract, tort or otherwise) to the Borrower or any of its security holders or creditors for or in connection with the transactions contemplated hereby, except to the extent such liability is determined in a final non-appealable judgment by a court of competent jurisdiction to have resulted from such Indemnified Party's negligence, gross negligence or willful misconduct.  In no event, however, shall any Indemnified Party be liable on any theory of liability for any special, indirect, consequential or punitive damages (including, without limitation, any loss of profits, business or anticipated savings).
+ 
+12
+.11
+                
+Customer Identification - USA Patriot Act Notice.
+ 
+Each Bank and the Agent (for itself and not on behalf of any other party) hereby notifies the Borrower that, pursuant to the requirements of the USA Patriot Act, Title III of Pub. L. 107-56, signed into law October 26, 2001 (the "Act"), it is required to obtain, verify and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow such Bank or the Agent, as applicable, to identify the Borrower in accordance with the Act.  The Borrower agrees to promptly provide such information upon request.
+ 
+12
+.12
+                
+Execution in Counterparts.
+ 
+This Agreement and the other Loan Documents may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which counterparts of this Agreement or such other Loan Document, as the case may be, taken together, shall constitute but one and the same instrument.
+ 
+12
+.13
+                
+Waiver of Jury Trial.
+ 
+THE BORROWER, THE AGENT AND THE BANKS HEREBY WAIVE TRIAL BY JURY IN ANY JUDICIAL PROCEEDING INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER (WHETHER SOUNDING IN TORT, CONTRACT OR OTHERWISE) IN ANY WAY ARISING OUT OF, RELATED TO, OR CONNECTED WITH THIS AGREEMENT, THE REVOLVING NOTES AND ANY OTHER LOAN DOCUMENT OR THE RELATIONSHIPS ESTABLISHED HEREUNDER.
+ 
+12
+.14
+                
+Jurisdiction.
+ 
+The Borrower hereby irrevocably and unconditionally submits to the nonexclusive jurisdiction of any New York State court or federal court of the United States of America sitting in New York City, and any appellate court from any thereof, in any action or proceeding arising out of or
+ 
+relating to this Agreement or any of the other Loan Documents, and the Borrower hereby irrevocably and unconditionally agrees that all claims in respect of such action or proceeding may be heard and determined in such state or federal court.  The Borrower hereby irrevocably waives, to the fullest extent it may effectively do so, the defense of an inconvenient forum to the maintenance of such action or proceeding.  The Borrower irrevocably consents to the service of copies of the summons and complaint and any other process which may be served in any such action or proceeding by the mailing of copies of such process to the Borrower at its address referred to in Section 12.9.  The Borrower agrees that a final judgment in any such action or proceeding may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law.  Nothing in this Section 12.14 shall affect the right of the Agent or any Bank to serve legal process in any other manner permitted by law or affect the right of the Agent or any Bank to bring any action or proceeding against the Borrower or its property in the courts of other jurisdictions.
+ 
+12
+.15
+                
+Substitution of Currency.
+ 
+If a change in any Committed Currency occurs pursuant to any applicable law, rule or regulation of any governmental, monetary or multi-national authority, this Agreement (including, without limitation, the definitions of LIBO Base Rate) will be amended to the extent determined by the Agent (acting reasonably and in consultation with the Borrower) to be necessary to reflect the change in currency and to put the Banks and the Borrower in the same position, so far as possible, that they would have been in if no change in such Committed Currency had occurred.
+ 
+12.16 No Fiduciary Relationship.
+ 
+The Borrower acknowledges that the Banks have no fiduciary relationship with, or fiduciary duty to, the Borrower arising out of or in connection with
+this Agreement or the other Loan Documents, and the relationship between each Bank and the Borrower is solely that of creditor and debtor.  This Agreement and the other Loan Documents do not create a joint venture among the parties hereto.
+ 
+12.17
+Waiver of Prior Notice under Existing Credit Agreement
+.
+ 
+Each of the Borrower and the Banks that are parties to the Existing Credit Agreement, which Banks constitute the "Required Banks " under and as defined in the Existing Credit Agreement, hereby waive any requirement that notice of the termination of the commitments and prepayment in full of the amounts owing thereunder be delivered in advance of such termination or prepayment and agree that, on the Effective Date, the Existing Credit Agreement shall be amended and restated in full as set forth herein.
+ 
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the day and year first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit A
+ 
+1.             A Revolving Note to the order of the Banks to the extent requested by any Bank pursuant to Section 2.8.
+ 
+2.             Authorization
+ 
+(a)
+                                
+A certified copy of resolutions of the Borrower's board of directors authorizing the execution of this Agreement and all related documents.
+ 
+(b)
+                                
+A certificate of the Borrower's corporate secretary as to the incumbency and signatures of the officers of the Borrower signing this Agreement.
+ 
+3.             Organization
+ 
+(a)
+                                
+A certified copy of the Borrower's Articles of Incorporation and By-Laws.
+ 
+(b)
+                                
+A Certificate of Good Standing issued by the Secretary of the State of the state of the Borrower's incorporation dated not more than 30 days prior to the date hereof.
+ 
+4.
+                                     
+An opinion of counsel to the Borrower, opining as to the due authorization, execution, delivery and enforceability of the Loan Documents and such other matters as the Agent may require.
+ 
+Exhibit B
+ 
+Corporate Status
+.  The Borrower is a corporation duly formed and in good standing under the laws of the jurisdiction of its organization.
+ 
+Authorization.
+  The execution, delivery and performance of this Agreement are within the Borrower's powers, have been duly authorized, and do not conflict with the articles or bylaws of the Borrower, any agreement by which the Borrower is bound or any court, administrative or other ruling by which the Borrower is bound.
+ 
+Financial Reports
+.  The Borrower has provided the Banks with its annual audited financial statement as of December 31, 2011 and its quarterly unaudited financial statement as of June 30, 2012.  These statements fairly represent the financial condition of the Borrower as of their respective dates and were prepared in accordance with GAAP.  There has been no material adverse change in the consolidated financial condition of the Borrower after the date of those statements.
+ 
+Material Adverse Change
+.  Since December 31, 2011, except as disclosed in the quarterly unaudited financial statement as of June 30, 2012, there has been occurred no event or circumstance that would individually or in the aggregate have a material adverse effect on the consolidated financial condition or operations of the Borrower.
+ 
+Litigation
+.  Except as disclosed in the Borrower's Annual Report on Form 10-K for the year ended December 31, 2011 and in the Borrower's Quarterly Report on Form 10-Q for the period ended June 30, 2012, each as filed with the Securities and Exchange Commission ("SEC"), there are no legal or governmental proceedings pending or, to the best of the Borrower's knowledge, threatened by governmental authorities or others, by which the Borrower is or may be bound, which, if determined adversely to the Borrower, would individually or in the aggregate have a material adverse effect on the consolidated financial condition or operations of the Borrower.
+ 
+Taxes
+.  The Borrower has filed when due all federal, state and local tax returns and paid all amounts shown as due thereon, except for such amounts which are being contested in good faith by appropriate proceedings.
+ 
+No Default
+.  There is no Default or Event of Default under this Agreement.
+ 
+ERISA.
+  The Borrower is in compliance in all material respects with ERISA and has received no notice to the contrary from the PBGC or other governmental area.
+ 
+Environmental Matters
+.  Except as disclosed in the Borrower's Annual Report on Form 10-K for the year ended December 31, 2011 and in the Borrower's Quarterly Report on Form 10-Q for the period ended June 30, 2012, each as filed with the SEC, to the best of the Borrower's knowledge, the Borrower has not incurred, directly or indirectly, any material contingent liability in
+ 
+connection with (i) the release of any toxic or hazardous waste or substance into the environment or (ii) noncompliance with applicable environmental, health and safety statutes and regulations.
+ 
+Insurance
+.  The Borrower is maintaining the insurance required by Section 9.2(c).
+ 
+Legal Agreements
+.  This Agreement and the other Loan Documents constitute the legal, valid and binding obligations and agreements of the Borrower, enforceable against the Borrower in accordance with their respective terms, including against claims of usury, except to the extent that enforcement thereof may be limited by any applicable bankruptcy, insolvency or similar laws now or hereafter in effect affecting creditors' rights generally.
+ 
+Regulation U. 
+The Borrower is not engaged in the business of extending credit for the purpose of purchasing or carrying margin stock (within the meaning of Regulation U of the Board of Governors of the Federal Reserve System), and no part of the proceeds of any Advance will be used to purchase or carry any margin stock or to extend credit to others for the purpose of purchasing or carrying any margin stock.  After application of the proceeds of each Advance, not more than 25 percent of the value (as determined by any reasonable method) of the assets of the Borrower subject to any provision of this Agreement under which the sale, pledge or disposition of assets is restricted will consist of margin stock.
+ 
+ 
+Exhibit C
+ 
+$____________________
+ 
+_______________, 20_____
+ 
+FOR VALUE RECEIVED, 3M Company, a Delaware corporation (the "Borrower"), promises to pay to the order of ______________________________ (the "Bank"), at such place as Agent under the Credit Agreement defined below may from time to time designate in writing, the principal sum of ______________________________ Dollars ($_______________), or, if less, the aggregate unpaid principal amount of all advances made by the Bank to the Borrower pursuant to Section 2.1 of the Amended and Restated Five Year Credit Agreement dated September 28, 2012 among the Borrower, JPMorgan Chase Bank, N.A., as Agent (in such capacity, the "Agent"), and various Banks, including the Bank (the "Credit Agreement"), and to pay interest on the principal balance of this Note outstanding from time to time at the rate or rates determined pursuant to the Credit Agreement.
+ 
+This Note is issued pursuant to, and is subject to, the Credit Agreement, which provides (among other things) for the amount and date of payments of principal and interest hereunder, for the acceleration of this Note upon an Event of Default, for the determination of the Dollar Equivalent of Revolving Advances denominated in Committed Currencies and for the voluntary prepayment of this Note.  This Note is a "Revolving Note," as defined in the Credit Agreement.
+ 
+The Borrower shall pay all costs of collection, including reasonable attorneys' fees and legal expenses, if this Note is not paid when due, whether or not legal proceedings are commenced.
+ 
+Presentment or other demand for payment, notice of dishonor and protest are expressly waived.
+ 
+ 
+ 
+Exhibit D
+ 
+ 
+Exhibit E
+ 
+In accordance with the Amended and Restated Five Year Credit Agreement dated as of September 28, 2012, by and among JPMorgan Chase Bank, N.A., as agent for the Banks, 3M Company (the "Borrower") and the Banks, as such Credit Agreement has been or may hereafter be amended from time to time, attached are the consolidated financial statements for the Borrower for the period ending _______________, 20_____ (the "Effective Date").
+ 
+I certify that the financial statements have been prepared in accordance with generally accepted accounting principles applied on a basis consistent with those applied in the annual financial statements.  I also certify that as of the Effective Date, the Borrower is in compliance with the covenants stated in the Credit Agreement.
+ 
+I further certify that the Borrower's EBITDA to Interest Ratio, as defined in the Credit Agreement, as of the Effective Date is as set forth below:
+ 
+ 
+Furthermore, I have no knowledge of the occurrence of an Event of Default under the Credit Agreement or of any event which with notice of lapse of time would constitute an Event of Default, except those specifically stated below.
+ 
+
+

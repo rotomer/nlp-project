@@ -1,0 +1,371 @@
+FILE:SNDK/SNDK-8K-20080616211236.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provision (General Instruction A.2. below):
+see
+ 
+ 
+ 
+Table of Contents
+Item 1.01 Entry into a Material Definitive Agreement
+On June 13, 2008, SanDisk Corporation (the "Registrant") entered into an agreement with Toshiba Corporation ("Toshiba") to collaborate on the development of certain types of rewriteable 3D memory (the "3D Collaboration"). Both the registrant and Toshiba will contribute and cross license technology related to the 3D Collaboration and will jointly perform research and development to further the 3D Collaboration.  As part of the licensing of its intellectual property, the Registrant will receive certain licensing payments from Toshiba.
+The Registrant and Toshiba currently collaborate in the development and manufacture of NAND-flash memory products using equipment owned or leased by three joint ventures in each of which the Registrant owns a 49.9% interest and Toshiba owns a 50.1% interest.
+Item 9.01 Financial Statements and Exhibits
+     (c) Exhibits
+Table of Contents
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: June 16, 2008
+Table of Contents
+
+EXHIBIT 10.1 FOIA Confidential Treatment Requested Execution Version
+This 3D COLLABORATION AGREEMENT, dated as of June ___, 2008, ("") is made and entered into by and between Toshiba Corporation, a Japanese corporation with a principal place of business at 1-1, Shibaura 1-chome, Minato-ku, Tokyo 105-8001, Japan ("") and SanDisk Corporation, a Delaware corporation, with a principal place of business at 601 McCarthy Boulevard, Milpitas, CA 95035, U. S. A. (""). Toshiba and SanDisk are each referred to as a "" and collectively as the "".
+Effective Date
+Toshiba
+SanDisk
+Party
+Parties
+WHEREAS, Toshiba, SanDisk and SanDisk (Ireland) Limited have entered into the Flash Alliance Master Agreement, dated as of July 7, 2006 ("," and together with the agreements contemplated thereby, the "");
+FA Master Agreement
+FA Agreements
+WHEREAS, pursuant to the FA Agreements, the Parties have an existing collaboration with respect to, among other things, the manufacturing of NAND Flash Memory Products;
+WHEREAS, the Parties have entered into a memorandum of understanding dated as of February 19, 2008, to expand such collaboration through the construction by Toshiba of a new semiconductor fabrication facility in Japan ("") at which [***] ("");
+Fab 5 Facility
+*
+Fab 5 MOU
+WHEREAS, the Parties intend to enter into various agreements implementing the terms of the Fab 5 MOU (""), including a Fab 5 Master Agreement ("");
+Fab 5 Agreements
+Fab 5 Master Agreement
+[***]*
+WHEREAS, the Parties desire to further expand their collaboration through a project for the joint development of and other technical collaboration on 3D Memory (as defined below) technology ("");
+3D Project
+NOW, THEREFORE, the Parties agree as follows:
+Article 1. DEFINITIONS
+               Unless otherwise indicated, capitalized terms used in this Agreement without definition have the meanings given to them in the [***]* or in the [***]*.
+          1.1 "" shall mean [***]*.
+3D CMOS
+          1.2 "" shall mean all research and development related to 3D Memory.
+3D Development
+          1.3 "" shall mean a memory technology [***]*.
+3D Memory
+ 
+ 
+          1.4 "" shall mean: [***]. All 3D Memory Products are governed by this Agreement, unless otherwise mutually agreed in writing by the Parties.
+3D Memory Products
+*
+          1.5 "" shall mean the joint development of 3D Memory technology related to R/W (as defined below).
+3D R/W Project
+          1.6 "" shall mean this 3D Collaboration Agreement together with any Exhibits, Schedules, Appendices and Attachments hereto.
+Agreement
+          1.7 "" is defined in Section 10.3.
+Authorized Recipients
+          1.8 "" shall mean all unit process steps that are not 3D Memory specific including, but not limited to, resist ashing, wet clean, metal depositions, photo lithography steps, oxide depositions or any other unit process step that can be adapted for use by or with 3D Memory Products.
+Basic Process Technology
+          1.9 "" shall mean [***]*, as discussed and mutually agreed, in writing, by the Parties as part of the 3D Project.
+CMOS Logic
+          1.10 "" is defined in Section 10.1.
+Confidential Information
+          1.11 "" is defined in Section 10.2.
+Disclosing Party
+          1.12 "" is defined in Section 2.6.
+Excluded Memory Product
+          1.13 "" is defined in .
+First Anniversary Date
+Exhibit A
+          1.14 "" is defined in Section 12.6.
+ICC
+          1.15 "" shall mean inventions jointly made by the employees of Toshiba and SanDisk or their respective Subsidiaries during the performance of joint research and development relating to the 3D Project.
+Jointly Developed Inventions
+          1.16 "" shall mean Patents (excluding design patents) that arise out of the Jointly Developed Inventions.
+Jointly Developed Patents
+          1.17 "" shall mean [***]*.
+Memory Integrated Circuit
+          1.18 "" shall mean
+Net Sales Price
+               (a) For sales or transfers of 3D Memory Products to any person or entity that is [***]*; or
+               (b) For sales or transfers of 3D Memory Products to any person or entity that is [***]*.
+          1.19 "" shall mean [***]*.
+[***]* Intellectual Property Rights
+          1.20 "" shall mean [***]*.
+OTP
+ 
+ 
+          1.21 "" means all worldwide patents and patent applications, including all continuations, continuations-in-part, divisions, reexaminations, and reissues thereof, that claim priority to one or more common patent applications.
+Patent Family
+          1.22 "" shall mean all U.S. and foreign rights in and to all patents, patent applications and utility models, including all divisions, substitutions, continuations, continuation-in-part applications, and reissues, re-examinations and extensions thereof.
+Patents
+          1.23 "" shall mean a 3D Memory Product on which data can be written, erased and rewritten.
+R/W
+          1.24 "" is defined in Section 6.1(c).
+R/W Termination Option
+          1.25 "" is defined in Section 10.2.
+Receiving Party
+          1.26 "" shall mean that Confidential Information which may be unintentionally retained in the memories of personnel of either Party who have been assigned by such Party to the 3D Project and who have had rightful access to the other Party's confidential information including ideas, concepts, know-how or techniques contained therein.
+Residuals
+          1.27 "" is defined in Section 3.2.
+SanDisk Background IP
+          1.28 "" is defined in Section 2.1.
+SanDisk Contributions
+          1.29 "" shall mean inventions made solely by the employees of either Party or such Party's Subsidiaries during the performance of joint research and development among the Parties relating to the 3D Project.
+Solely Developed Inventions
+          1.30 "" shall mean any corporation, company or other entity (other than any joint venture formed by the Parties so long as such entity remains a joint venture):
+Subsidiaries
+               (a) more than fifty percent (50%) of whose outstanding shares or stocks entitled to vote for the election of directors (other than any shares or stocks whose voting rights are subject to restriction) is now or hereafter owned or controlled by SanDisk or Toshiba, as applicable, directly or indirectly, but such corporation, company or other entity shall be deemed to be a Subsidiary only so long as such ownership or control exists; or
+               (b) which does not have outstanding shares or securities, as may be the case in a partnership, joint venture or unincorporated association, but more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, company or other entity is now or hereafter, owned or controlled, directly or indirectly, by SanDisk or Toshiba, as applicable , but such corporation, company or other entity shall be deemed to be a Subsidiary only so long as such ownership or control exists. SanDisk 3D LLC, a Delaware limited liability company, with a principal place of business at 601 McCarthy Boulevard, Milpitas, CA 95035, U.S.A., which owns or controls all intellectual property rights that had been owned or controlled by Matrix Semiconductor, Inc., as of the date of its acquisition by SanDisk, shall be considered SanDisk's Subsidiary.
+          1.31 "" is defined in Section 3.1.
+Toshiba Background IP
+ 
+          1.32 "" is defined in Section 2.2.
+Toshiba Contributions
+Article 2. CONTRIBUTIONS, DEVELOPMENT & PRODUCTION
+          2.1 . SanDisk will disclose all of its existing and future (subject to Section 2.3 below) knowledge, know how and research (to the extent permitted under applicable contracts) related to 3D Memory, 3D Memory Products and 3D CMOS for use by the Parties in the Parties' applicable joint venture(s) or other facilities as permitted according to [***] and the 3D Project (collectively, "") part of which details are described in attached hereto.
+SanDisk Contributions
+*
+SanDisk Contributions
+Exhibit B
+          2.2 . Toshiba will disclose all of its existing and future (subject to Section 2.3 below) knowledge, know how and research (to the extent permitted under applicable contracts) related to 3D Memory, 3D Memory Products and 3D CMOS, including, but not limited to, Basic Process Technology, for use by the Parties in the Parties' applicable joint venture(s) or other facilities as permitted according to [***]* and in the 3D Project (collectively, ""). If mutually agreed by the Parties, Toshiba will further contribute CMOS Logic to [***]* in order for the Parties to make such CMOS Logic available to [***]*, , however, that compensation to Toshiba for such contribution shall be subject to mutual agreement between the Parties to be made at the time of its contribution, [***]*. At the time of such disclosure of the CMOS Logic by Toshiba, any such contribution shall be deemed to be a Toshiba Contribution.
+Toshiba Contributions
+Toshiba Contributions
+provided
+          2.3 . Each Party will disclose all knowledge, know how and research (to the extent permitted under applicable contracts) related to 3D Memory Products for use by the Parties [***]* and in the 3D Project even if such knowledge, know how and research was developed without the other Party, , however, [***]*.
+Separately Developed Contributions
+provided
+          2.4 .
+Development of 3D Memory and 3D Memory Products
+               (a) The Parties agree that equal partnership is important and the Parties will form teams and begin work on the development of 3D Memory and 3D Memory Products (except for OTP) immediately in accordance with the guidelines set forth in the [***]*. [***]* the roadmap of the 3D Project and will be responsible for the Parties' implementation and execution of such roadmap.
+               (b) The [***]* to start immediately in accordance with the guidelines set forth [***]*.
+               (c) The Parties will establish an optimized 3D CMOS technology in the [***]*, as mutually agreed by the Parties.
+               (d) Unless otherwise mutually agreed by the Parties, all development work performed to exclusively benefit [***]* product with a [***]* will each be done by SanDisk [***]*. SanDisk will use reasonable efforts not to interfere with the standard operation of the other production lines at the [***]* and Toshiba will reasonably assist with the above, with process and module integration, and with supply of Basic Process
+ 
+ 
+Technology that will be applied to 3D Memory and 3D Memory Products and will use commercially reasonable efforts to support [***].
+*
+          2.5 .
+Non-3D Memory
+               (a) With respect to 3D memory technology not within the definition of 3D Memory, each Party shall offer such technology to the Parties' joint ventures, that any compensation to the other Party shall be subject to mutual agreement between the Parties.
+provided
+               (b) When one Party offers any specific 3D Memory for joint development and the other Party declines such offer after good faith discussion, then such 3D Memory shall no longer be deemed 3D Memory, and products based thereon shall not be deemed a 3D Memory Product.
+          2.6 . The Parties agree that all [***]* or other SanDisk facilities, [***]*, except as otherwise mutually agreed by the Parties); , however, that [***]*. The first priority for production of these products (except for OTP) shall be on an equal basis. If one Party is not willing to support production of such products on an equal basis within the joint ventures, then the other Party [***]* unless otherwise provided for in the [***]*; , that if the Parties after good faith discussion decide to not jointly manufacture any specific 3D Memory Products (an ""), the [***]* will set forth further detailed provisions which will include any applicable terms and conditions regarding the production of such Excluded Memory Product, including, but not limited to, provisions relating [***]*, each as applicable.
+Production of 3D Memory Products
+provided
+provided
+Excluded Memory Product
+Article 3. OWNERSHIP
+          3.1 . During and after the term of this Agreement, Toshiba will exclusively retain all right, title and interest in and to all intellectual property rights created, conceived, owned or developed by or for Toshiba and its Subsidiaries: (a) on or before the Effective Date, (b) which result from activities that are independent from but concurrent with the 3D Project during the term of the Agreement, or (c) which result from Toshiba's Solely Developed Inventions (collectively, "").
+Toshiba Background IP
+Toshiba Background IP
+          3.2 . During and after the term of this Agreement, SanDisk will exclusively retain all right, title and interest in and to all intellectual property rights created, conceived, owned or developed by or for SanDisk and its Subsidiaries: (a) on or before the Effective Date, (b) which result from activities that are independent from but concurrent with the 3D Project during the term of the Agreement, or (c) which result from SanDisk's Solely Developed Inventions (collectively, "").
+SanDisk Background IP
+SanDisk Background IP
+          3.3 .
+Jointly Developed IP
+               (a) Any right, title and interest in, to and under Jointly Developed Inventions and Jointly Developed Patents shall be jointly owned by Toshiba and SanDisk. Both Parties shall promptly agree on which of them shall file and prosecute the first patent application and in which countries corresponding applications shall be filed and by whom. All expenses incurred in obtaining and maintaining such patents shall be equally shared by
+ 
+ 
+the Parties; that if one Party elects not to seek or maintain such patents in any particular country or not to share equally in the expense thereof, the other Party shall have the right to seek or maintain such patents in said country at its own expense and shall have full control over the prosecution and maintenance thereof even though title to any patent issuing thereon shall be joint. The Party electing not to seek or maintain such patents shall give the other Party any necessary assistance required for the preparation and prosecution of such patents filed or maintained by the other Party.
+provided
+               (b) Each Party shall be free to use such Jointly Developed Inventions and Jointly Developed Patents for any purpose and, each Party shall have the right to grant non-exclusive licenses to any [***]; and, provided further, that [***]*.
+*
+Article 4. LICENSES
+          4.1 . Toshiba hereby grants to SanDisk and its Subsidiaries a non-exclusive, non-sublicensable, non-transferable, world wide, [***]* license, under the [***]* Intellectual Property Rights of Toshiba and its Subsidiaries, to use Toshiba's Contributions to develop, have developed, make, have made, use, sell, offer for sale, import and otherwise dispose of any of SanDisk's 3D Memory Products, any other SanDisk semiconductor products and SanDisk integrated circuit memory system containing 3D Memory Products.
+Toshiba 3D License
+          4.2 . Subject to Toshiba's payment as set forth in Article 6 herein, SanDisk hereby grants to Toshiba and its Subsidiaries a non-exclusive, non-sublicensable, non-transferable, world wide, [***]* (except as otherwise set forth herein) license, under the [***]* Intellectual Property Rights of SanDisk and its Subsidiaries, to use SanDisk's Contributions to develop, have developed, make, have made, use, sell, offer for sale, import and otherwise dispose of any of Toshiba's 3D Memory Products, any other Toshiba semiconductor products and Toshiba integrated circuit memory system containing 3D Memory Products.
+SanDisk 3D License
+          4.3 Notwithstanding anything to the contrary in Section 4.1 and 4.2, neither Party shall disclose the other Party's contributions described in Sections 2.1 and 2.2, respectively, to any third party without the consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, and neither Party shall disclose [***]* Intellectual Property Rights to any third party without the consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, , however, that such latter prohibition shall not apply to SanDisk if Toshiba exercises its R/W Termination Option hereunder.
+provided
+          4.4 Subject to each Party's obligations under the provisions of Articles 3, 8, 9 and 12, each Party shall be free to use, improve or modify without additional compensation to the other Party, the Residuals, including the use, improvement or modification of such Residuals in the development and manufacture of such Party's products; that this Section, by itself, shall not be deemed to grant to such Party any rights or licenses under any Patents of the other Party nor shall this Section operate to waive such Party's confidentiality obligations under Article 10. In no event shall such either Party or its Personnel publish or disseminate said Residuals to any third party.
+provided
+ 
+ 
+          4.5 .
+License Restrictions
+               (a) Notwithstanding anything to the contrary herein, no license [***] granted hereunder includes the right for [***]* to have developed, make, have made, use, sell, offer for sale, import or otherwise exploit any:
+*
+                    (i) [***]*
+                    (ii) [***]*.
+Article 5. IP LITIGATION
+          5.1 . If one Party is sued, but not the other, in litigation relating to a claim by a third party that 3D Memory infringes or 3D Memory Products infringe any patent owned by such third party, the Party that is the defendant in the litigation shall take the lead on the defense and the Party not sued shall reasonably assist such Party named as the defendant.
+General
+          5.2 . Toshiba and SanDisk will jointly defend against claims for infringement of third party patents to the extent arising from Jointly Developed Inventions that each Party shall have a responsibility to resolve the issue at its own discretion, subject to the consent of the other, which consent shall not be unreasonably withheld, conditioned or delayed. The Parties shall discuss in good faith the respective role of each Party for such joint defense (including who would take the lead on defense) on a case-by-case basis considering various factors such as jurisdiction where litigation has been filed.
+Jointly Developed IP; Defense
+provided
+          5.3 . [***]*.  In the event that either party desires to litigate such infringement and the other party refuses or fails to do so, [***]*, the party desiring litigation may in his or its sole discretion, and at his or its sole cost and expense (including reimbursement of unavoidable expenses of the other party), bring and proceed [***]*. For the avoidance of doubt, a license under a Jointly Developed Patent as result of such suit shall be subject to the limitation set forth in Article 3.3 (b).
+Jointly Developed IP; Enforcement
+Article 6. PAYMENT
+          6.1 . In consideration of SanDisk Contributions and the license granted to Toshiba hereunder, Toshiba shall pay SanDisk [***]* on the following schedule:
+License Fee
+               (a) The first [***]* shall be paid in [***]* installments in accordance with the schedule set forth in attached hereto; and
+Exhibit A
+               (b) The remaining [***]* shall be paid in the amount of [***]*, each in [***]* installments in accordance with the schedule set forth in attached hereto.
+Exhibit A
+               (c) Notwithstanding the foregoing, on the [***]* year anniversary of the Effective Date, or as otherwise mutually agreed in writing by the Parties, Toshiba has a one-time option [***]* to terminate its participation in the 3D R/W Project and any further
+ 
+ 
+payment obligation under Section 6.1(b) ("); however that Toshiba must pay SanDisk [***] under Section 6.1, with any shortfall (between the [***]* and actual payments made) to be paid to SanDisk according to the original schedule described in attached hereto. In the event that [***]* provided, however, such period shall not exceed [***]* months with the following ramp-down manner:
+"
+R/W Termination Option
+provided,
+,
+*
+Exhibit A
+                    (i) During the [***]* following the exercise of the R/W Termination Option: [***]* of Toshiba's R/W production existing at the time of the exercise of the R/W Termination Option (the "") of its 3D Memory Products;
+Production
+                    (ii) During the [***]* through the [***]* following the exercise of the R/W Termination Option: [***]* of the Production;
+                    (iii) During the [***]* through the [***]* following the exercise of the R/W Termination Option: [***]* the Production; and
+                    (iv) After the [***]* following the exercise of the R/W Termination Option: [***]* of the Production.
+          6.2 . Upon execution of this Agreement, Toshiba shall pay SanDisk ongoing fees as set forth below:
+Ongoing Compensation Related to [***]*
+               (a) [***]*.
+               (b) [***]*.
+          6.3 All payments provided for in this Article 6 shall be made without deduction of taxes; , however, that in the event any withholding income tax is imposed by Japanese tax authorities on any amount payable to SanDisk hereunder, Toshiba may withhold such income tax from such amount. Toshiba shall without undue delay obtain and send to SanDisk tax certificates evidencing the tax amount withheld and paid to the Japanese tax authorities.
+provided
+          6.4 [***]*.
+Article 7. COSTS
+          7.1 .
+Tool Costs
+               (a) Except as provided in Section 7.1(b), all tools to be used for the R/W development under the 3D Project ("R/W Tools") shall be purchased in accordance with [***]*.
+               (b) One set of initial tools as set forth in , which are to be uniquely used for both R/W and OTP backend (non 3D CMOS) development under the 3D Project ("Common Tools", with the understanding that such Common Tools listed in Exhibit C may be amended by mutual agreement of the Parties as required by the 3D Project), and the costs for their installation and hook-up, shall be purchased and borne by SanDisk, with the understanding that such Common Tools shall be used as part of the delivery and transfer by SanDisk of 3D Contributions as set forth in Section 2.1 and Exhibit B. The depreciation
+Exhibit C
+ 
+ 
+costs which accrue from the development activities under the 3D Project using such Common Tools shall be allocated [***] to SanDisk for [***]* and [***]* to [***]* under the 3D Project. Toshiba will reasonably assist SanDisk [***]* for such Common Tools consistent with current practice under the Parties' joint development activities.
+*
+               (c) All tools to be uniquely used for development of [***]* shall be solely acquired by or the acquisition costs thereof shall be solely borne by SanDisk. In the case where [***]* were used for the purpose of [***]*, the cost incurred as a result of using [***]* for such purpose will be shared by SanDisk and Toshiba on a [***]* basis as set forth in the [***]*.
+          7.2 .
+Non-Tool Costs
+               (a) Except as provided for in Section 7.2(b) and 7.2(c), all non-tool costs for the R/W development under the 3D Project shall be borne and shared in accordance with the [***]* or, if such non-tool costs are for production, the applicable joint venture agreement.
+               (b) All reasonable non-tool costs (including, but not limited to, [***]*), that are (a) applicable for both R/W and OTP development under the 3D Project and accruing until [***]*, and (b) mutually agreed upon, shall be allocated [***]* to SanDisk for [***]* (up to a maximum allocation of [***]*) and [***]* to [***]*.
+               (c) The costs related solely to [***]* shall be borne in their entirety by SanDisk; provided that to the extent that OTP development and production (yield, ramp, etc.) help R/W or other non-OTP 3D Memory or 3D Memory Product development, the Committee (as defined in the [***]*) will discuss and agree to fair and appropriate sharing of related costs.
+               (d) The costs related solely to R/W with [***]* (including, but not limited to, [***]* costs) shall be [***]*.
+Article 8. WARRANTY
+          8.1 Each Party provides to the other Party its technical information on an "AS-IS" basis only, and does not make any warranty or representation with respect to such technical information for any purpose.
+          8.2 Each Party represents and warrants to the other that:
+               (a) it has the corporate power and authority and the legal right to enter in to this Agreement and to perform its obligations hereunder; and
+               (b) the execution and delivery of this Agreement and the performance of its obligations hereunder, including the Contributions to be made and the licenses to be granted hereunder by such Party, do not conflict with or constitute a default under any of its contractual obligations with any third party.
+          8.3 Nothing contained in this Agreement shall be construed as:
+ 
+ 
+               (a) a warranty or representation that the manufacture, use, sale or other disposal of semiconductor products by the other Party using any technical information received under this Agreement will be free from infringement of Patents or any other intellectual property rights of any third Party;
+               (b) conferring the other Party any right to use in advertising, publicity or otherwise any trademark, trade name or names, or any contraction, abbreviation or simulations thereof of either Party;
+               (c) conferring the other Party, by implication, estoppel or otherwise, any license or other right, except for the licenses and rights expressly granted hereunder; and
+               (d) an obligation to furnish any technical information or know-how except as otherwise specifically provided herein.
+          8.4 . EXCEPT TO THE EXTENT EXPRESSLY SET FORTH HEREIN, EACH PARTY MAKES NO WARRANTIES AND DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, STATUTORY, IMPLIED OR OTHERWISE, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS REGARDING 3D MEMORY, 3D MEMORY PRODUCT AND ANY TECHNOLOGY OR CONFIDENTIAL INFORMATION SHARED BY EITHER PARTY PURSUANT TO THIS AGREEMENT.
+Warranty Disclaimer
+Article 9. LIMITATION OF LIABILITY
+IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL. PUNITIVE OR INDIRECT DAMAGES OF ANY KIND, (INCLUDING LOSS OF PROFIT OR DATA, LOST REVENUES OR LOSS OF USE) RESULTING FROM, ARISING OUT OF OR IN CONNECTION WITH THE SUBJECT MATTER OF THIS AGREEMENT OR PERFORMANCE OR FAILURE TO PERFORM HEREUNDER WHETHER DUE TO BREACH OF CONTRACT, BREACH OF WARRANTY, TORT, OR NEGLIGENCE OF THAT PARTY AND WHETHER OR NOT SUCH PARTY WAS ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF SUCH LOSS.
+Article 10. CONFIDENTIALITY
+          10.1 In this Agreement, "" means information disclosed in written, recorded, graphical or other tangible from which is marked as "Confidential", "Proprietary" or in some other manner to indicate its confidential nature, and/or orally or in other intangible form, identified as confidential at the time of disclosure and confirmed as confidential information in writing within thirty (30) days of its initial disclosure.
+Confidential Information
+          10.2 For a period of [***] from the date of receipt of the Confidential Information disclosed by one Party ("") hereunder, the receiving Party ("") agrees to safeguard the Confidential Information and to keep it in
+*
+Disclosing Party
+Receiving Party
+ 
+ 
+confidence and to use reasonable efforts, consistent with those used in the protection of its own confidential information, to prevent its disclosure to third parties other than its majority-owned subsidiaries, except that the Receiving Party shall not be obligated hereunder in any way with respect to information which:
+               (a) is already known to the Receiving Party at the time of its receipt from the Disclosing Party as reasonably evidenced by its written records;
+               (b) is or becomes publicly available without breach of this Agreement by the Receiving Party;
+               (c) is made available to a third party by the Disclosing Party without restriction on disclosure;
+               (d) is rightfully received by the Receiving Party from a third party without restriction and without breach of this Agreement;
+               (e) is independently developed by the Receiving Party as reasonably evidenced by its written records contemporaneous with such development;
+               (f) is disclosed with the prior written consent of the Disclosing Party, that each recipient from the Receiving Party shall execute a confidentiality agreement prohibiting further disclosure of the Confidential Information, under terms no less restrictive that those provided in this Agreement;
+provided
+               (g) is required to be disclosed by the order of a governmental agency or legislative body of a court of competent jurisdiction, that the Receiving Party shall give the Disclosing Party prompt notice of such request so that the Disclosing Party has an opportunity to defend, limit or protect such disclosure; or
+provided
+               (h) is required to be disclosed by applicable securities of other laws or regulations, that either Party shall, prior to any such disclosure, provide the other Party with notice which includes a copy of the proposed disclosure. Further, the disclosing Party shall consider the other Party's timely input with respect to the disclosure.
+provided
+          10.3 Receiving Party shall use its reasonable best efforts to limit dissemination of the Disclosing Party's Confidential Information to such of its employees and employees of its majority-owned subsidiaries who have a need to know such information for the purpose for which such information was disclosed to it and who are bound to retain the confidentiality under provisions similar to those set forth herein (""). Receiving Party understands that disclosure or dissemination of the Disclosing Party's Confidential Information not expressly authorized hereunder would cause irreparable injury to the Receiving Party, for which monetary damages would not be an adequate remedy and the Disclosing Party shall be entitled to equitable relief in addition to any remedies the Disclosing Party may have hereunder or at law.
+Authorized Recipients
+          10.4 Nothing contained in this Agreement shall be construed as granting or conferring any rights, licenses or relationships by the transmission of the Confidential Information.
+          10.5 All Confidential Information disclosed hereunder shall remain the property of the Disclosing Party. Upon request by the Disclosing Party, the Receiving Party
+ 
+shall return all Confidential Information, including any and all copies thereof, or certify in writing that all such Confidential Information had been destroyed.
+Article 11. TERM AND TERMINATION
+          11.1 This Agreement shall become effective on the Effective Date and continue in full force and effect until the later of the termination of the: [***], unless earlier terminated as hereinafter provided. The term of this Agreement may be extended by mutual agreement of both Parties.
+*
+          11.2 If either Party fails to perform or breaches any of its material obligations under this Agreement, then, upon [***]* written notice specifying such failure or breach, the non-defaulting Party shall have the right to terminate this Agreement forthwith, unless the failure or breach specified in the notice has been cured during the [***]* period. For the avoidance of doubt, an intentional substantial failure by SanDisk to perform its obligations with respect to the delivery and transfer of SanDisk Contributions as provided for in Section 2.1 or Exhibit B shall be deemed to be a material breach by SanDisk of its obligations under this Agreement. Termination of this Agreement pursuant to this Section 11.2 shall not relieve the breaching Party from any liability arising from any breach of this Agreement and such termination shall be without prejudice to any other rights and remedies of the non-breaching Party provided at law or in equity, in addition to the rights and remedies set forth in this Agreement. Notwithstanding anything to the contrary herein, any claims of breach shall follow the dispute resolution procedures set forth in Section 1.04(e) of the [***]*.
+          11.3 Either Party shall have the right to terminate this Agreement by giving written notice to the other Party upon the occurrence of any of the following events:
+               (a) the filing by the other Party of a voluntary petition in bankruptcy or insolvency;
+               (b) any adjudication that such other Party is bankrupt or insolvent;
+               (c) the filing by such other Party of any legal action or document seeking reorganization, readjustment or arrangement of its business under any law relating to bankruptcy or insolvency;
+               (d) the appointment of a receiver for all or substantially all of the property of such other Party; or
+               (e) the making by such other Party of any assignment of whole or substantial assets for the benefit of creditors.
+               This Agreement shall terminate on the thirtieth (30th) day after such notice of termination is given.
+          11.4 The provisions of Articles and Sections 3, 8, 9, 10 and 12, and any payments which become due pursuant to Article 6 as of the date of termination or expiration of this Agreement, shall survive any termination or expiration of this Agreement. Upon
+ 
+ 
+expiration of this Agreement pursuant to Section 11.1, all rights and licenses granted hereunder Section 4 shall survive such expiration subject to the applicable royalty payments and terms provided for in Article 6. Upon termination of this Agreement by one Party hereto (the "terminating Party") pursuant to Article 11.2 or 11.3, all rights and licenses granted hereunder to the other Party on which the termination takes effect (the "terminated Party") shall immediately terminate according to the terms thereof and such terminated Party shall take reasonable steps to destroy or, at the terminating Party's request, return to such terminating Party all technical information received from the terminating Party in tangible form. All rights and licenses granted hereunder to the terminating Party shall not be affected by such termination.
+Article 12. GENERAL PROVISIONS
+          12.1 . This Agreement, together with the exhibits, schedules, appendices and attachments thereto, constitutes the agreement of the Parties to this Agreement with respect to the subject matter hereof and supersedes all prior written and oral agreements and understandings with respect to such subject matter.
+Entire Agreement
+          12.2 . No amendment to or waiver of this Agreement shall be effective unless it shall be in writing, identify with specificity the provisions of this Agreement that are thereby amended or waived and be signed by each Party hereto. Any failure of a Party to comply with any obligation, covenant, agreement or condition contained in this Agreement may be waived by the Party entitled to the benefits thereof only by a written instrument duly executed and delivered by the Party granting such waiver, but such waiver or failure to insist upon strict compliance with such obligation, covenant, agreement or condition shall not operate as a waiver of, or estoppel with respect to, any subsequent or other failure of compliance.
+Amendment and Waiver
+          12.3 . If any provision of this Agreement or the application of any such provision is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other provision of this Agreement (except as may be expressly provided in this Agreement) or invalidate or render unenforceable such provision in any other jurisdiction. To the extent permitted by applicable law, the Parties hereto waive any provision of law that renders any provision of this Agreement invalid, illegal or unenforceable in any respect. The Parties hereto shall, to the extent lawful and practicable, use their reasonable efforts to enter into arrangements to reinstate the intended benefits, net of the intended burdens, of any such provision held invalid, illegal or unenforceable. If the intent of the Parties for entering into this Agreement cannot be preserved, this Agreement shall either be renegotiated or terminated by mutual agreement of the Parties.
+Severability
+          12.4 . Except as may otherwise be specifically provided in this Agreement, no Party hereto shall assign or otherwise transfer this Agreement or any of its rights hereunder (except for any transfer to an Affiliate or in connection with a merger, consolidation or sale of all or substantially all the assets or the outstanding securities of such Party, which transfer shall not require any consent of the other Party, [***]) without the prior written consent of each other Party hereto (which consent may be withheld in each such other Party's sole discretion), and any such purported transfer without such consent shall be void.
+Assignment
+*
+ 
+ 
+          12.5 .
+Remedies
+               (a) Except as may otherwise be specifically provided in this Agreement, the rights and remedies of the Parties under this Agreement are cumulative and are not exclusive of any rights or remedies which the Parties hereto would otherwise have.
+               (b) Equitable relief, including the remedies of specific performance and injunction, shall be available with respect to any actual or attempted breach of this Agreement; , however, in the absence of exigent circumstances, the Parties shall refrain from commencing any lawsuit or seeking judicial relief in connection with such actual or attempted breach that is contemplated to be addressed by the dispute resolution process set forth in Section 12.6 hereof until the Parties have attempted to resolve the subject dispute by following said dispute resolution process to its conclusion.
+provided
+          12.6 . In the event there is a dispute between the Parties: (a) that relates to this Agreement, and (b) for which there is no specific dispute resolution process already set forth in this Agreement to resolve such dispute, the Parties to this Agreement shall endeavor to settle any dispute that arises between or among them through good faith discussion and mutual agreement. If the Parties cannot resolve such dispute through good faith discussion and mutual agreement, then such dispute will be settled by binding arbitration in San Francisco, California. The dispute shall be heard by a panel of three arbitrators pursuant to the rules of the International Chamber of Commerce (the ""). The awards of such arbitration shall be final and binding upon the Parties thereto. Each Party will bear its own fees and expenses associated with the arbitration. Filing fees and arbitrator fees charged by the ICC shall be borne equally by the Parties.
+Arbitration
+ICC
+          12.7 . This Agreement shall be binding upon and inure to the benefit of the Parties hereto and their permitted successors and assigns. Nothing in this Agreement, whether express or implied, shall give or be construed to give any Person (other than the parties hereto and their permitted successors and assigns) any legal or equitable right, remedy or claim under or in respect of this Agreement, unless such Person is expressly stated in such agreement or instrument to be entitled to any such right, remedy or claim.
+Parties in Interest; Limitation on Rights of Others
+          12.8 . The Article and Section headings of this Agreement are for convenience of reference only and shall not affect the construction of or be taken into consideration in interpreting any such agreement or instrument.
+Headings
+          12.9 . This Agreement may be executed by the Parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all of which counterparts shall together constitute but one and the same contract. This Agreement shall not become effective until one or more counterparts have been executed by each Party hereto and delivered to the other Parties hereto.
+Counterparts; Effectiveness
+          12.10 . References in this Agreement to any gender include references to all genders, and references in this Agreement to the singular include references to the plural and vice versa. Unless the context otherwise requires, the term "party" when used in this Agreement means a party to this Agreement. References in this Agreement to a party or other Person include their respective permitted successors and assigns. The words "include", "includes" and "including", when used in this Agreement, shall be deemed to be followed by the phrase "without limitation". Unless the context otherwise requires, references
+Construction
+ 
+used in this Agreement to Articles, Sections, Exhibits, Schedules, Appendices and Attachments shall be deemed references to Articles and Sections of, and Exhibits, Schedules, Appendices and Attachments to, this Agreement. Unless the context otherwise requires, the words "hereof", "hereby" and "herein" and words of similar meaning when used in this Agreement refer to this Agreement in its entirety and not to any particular Article, Section or provision of this Agreement.
+          12.11 . The official language of this Agreement is the English language only, which language shall be controlling in all respects, and all versions of this Agreement in any other language shall not be binding on the parties hereto or nor shall such other versions be admissible in any legal proceeding, including arbitration, brought under this Agreement. All communications and notices to be made or given pursuant to this Agreement shall be in the English language.
+Official Language
+          12.12 . All rights not expressly granted hereunder by a Party are hereby retained in their entirety by such Party. Moreover, there are no implied grants or licenses hereunder and the only rights or licenses granted to either Party are limited to those rights and licenses expressly set forth herein.
+No Implied Licenses
+          12.13 . Except for consent requirements that are expressly set forth herein, no obligations to obtain any consent shall be implied under this Agreement.
+No Implied Consent Requirement
+          12.14 . All notices and other communications to be given to any party under this Agreement shall be in writing and any notice shall be deemed received when delivered by hand, courier or overnight delivery service, or by e-mail or facsimile (if confirmed within three Business Days by delivery of a copy by hand, courier or overnight delivery service), or five days after being mailed by certified or registered mail, return receipt requested, with appropriate postage prepaid and shall be directed to the address of such party specified below (or at such other address as such party shall designate by like notice):
+Notices
+     (a) If to Toshiba:
+Toshiba Corporation Semiconductor Company 1-1 Shibaura 1-Chome Minato-Ku, Tokyo 105-8001 Japan Attention: [***] [***]* [***]* With a copy to:
+*
+Toshiba Corporation Semiconductor Company Legal Affairs Division 1-1 Shibaura 1-Chome Minato-Ku Tokyo 105-8001 Japan Attention: [***]* [***]* [***]*
+ 
+ 
+     (b) If to SanDisk:
+SanDisk Corporation 601 McCarthy Boulevard Attention: President and COO Milpitas, CA 95035 USA Telephone: (408) 801-1000 [***]*
+With a copy to:
+SanDisk Corporation 601 McCarthy Boulevard Milpitas, CA 95035 USA Attention: Senior Vice President and General Counsel Telephone: (408) 801-1000 [***]*
+          12.15 . Neither Party shall export or re-export, directly or indirectly, any technical information disclosed hereunder or direct product thereof to any destination prohibited or restricted by the export control regulations of Japan or the United States, including the U.S. Export Administration Regulations, without the prior authorization from the appropriate governmental authorities. Neither Party will use technical information supplied by the other Party hereunder for any purpose to develop or manufacture nuclear, chemical, biological weapons or missiles (hereafter ""). Each Party agrees that it will not knowingly sell any products manufactured using the other Party's technical information to any third party if it knows that the end-user of the products will use them for the development and/or manufacture of the weapons of mass destruction.
+Export Laws
+weapons of mass destruction
+          12.16 . In the event of a conflict between the terms and conditions set forth in various agreement referenced herein, the order of precedence for such terms and conditions with respect to the subject matter hereof shall be as follows:
+Resolution of Conflicts
+               (a) this Agreement;
+               (b) the [***]*; and then
+               (c) [***]*.
+          12.17 . This Agreement shall in all respects be governed by and construed in accordance with the internal laws of the State of California applicable to agreements made and to be performed entirely within such state without regard to the conflict of laws principles of such state, except where Japanese law is mandatory.
+Governing Law
+          12.18 [***]*.
+ 
+ 
+          IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed in duplicate, as of the date first written above, by their duly authorized officers or representatives.
+ 
+ 
+ 
+ 
+ 
+ 
+
+

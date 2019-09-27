@@ -1,0 +1,461 @@
+FILE:IBM/IBM-8K-20060719074404.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+ 
+Attachment I of this Form 8-K is the transcript of IBM's Chief Financial Officer Mark Loughridge's second quarter earnings presentation to securities analysts on July 18, 2006. Certain reconciliation and other information ("Non-GAAP Supplementary Materials") for this presentation was included in Attachment II to the Form 8K that IBM submitted on July 18, 2006, which included IBM's press release dated July 18, 2006. All of the information in Attachment I is hereby filed except for the information set forth below, which is furnished but not filed.
+ 
+The following statements on Page 2:
+ 
+"Without PC's in 2005, IBM revenue was up 1 percent."
+ 
+ "When you exclude the non-recurring charges from last year's results, IBM's pre-tax income was up 11 percent"
+ 
+"As I said above, revenue was up 1 percent."
+ 
+ "Our pre-tax income was up 5 percent."
+ 
+The following statement on Page 3:  "pre-tax profit, which was up 15 percent without last year's non-recurring charge"
+ 
+The following statement on Page 4:  "Without the PC business in our 2005 results, hardware was up 3 percent, and up 2 percent at constant currency."
+ 
+The following statements on Page 5:
+ 
+ "The Americas revenue increased 2 percent year-to-year"
+ 
+ "Europe revenue declined 1 percent."
+ 
+ "Asia Pacific revenue declined 3 percent this quarter."
+ 
+ "The emerging countries of China, India, Brazil and Russia together grew 13 percent as reported and 7 percent at constant currency, without PC's. India again posted the strongest growth, up 45 percent at constant currency. Brazil grew 4 percent and Russia 19 percent, while China declined 3 percent off of a difficult compare."
+ 
+The following statements on Page 6:
+ 
+"but flat as compared to 2005 expense-to-revenue without both the non-recurring items and PC results."
+ "Total equity compensation was down $54 million year-to-year excluding the impact of last year's non-recurring items"
+ 
+"This is up almost $100 million excluding the impact of last year's non-recurring items. We continue to expect these plans to cost us between $2.3 and $2.4 billion for the full year, a $200 to $300 million year-over-year impact, excluding last year's one-time charges."
+ 
+The following statement on Page 8:  "Excluding the significant pension funding activity in the U.S. and U.K. from both years, we generated over $700 million more cash from operations year-to-year."
+ 
+The following statement on Page 11:  "an improvement of 1.1 points year-to-year, excluding the incremental restructuring charge from last year."
+ 
+The following statement on Page 12:  "an improvement of .8 points year-to-year, after adjusting for last year's incremental restructuring charge."
+ 
+The following statement on Page 13:  "If we had been able to ship to our more typical level of pending orders, our year-to-year revenue would have been about flat."
+ 
+The following statement on Page 14:  "If we had been able to ship to our more typical level of pending orders, our year-to-year System x server revenue would have been up about 6 percent."
+ 
+The following statement on Page 16:  "is up 2 points year-to-year, after adjusting for the incremental restructuring charge in second quarter of last year."
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ATTACHMENT I
+INTRODUCTION
+ 
+Thank you.  This is Patricia Murphy, Vice President of Investor Relations for IBM.  Here with me today is Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer.  Thank you for joining our second quarter earnings presentation.
+ 
+By now, the opening page of the presentation should have automatically loaded, and you should be on the title page.
+ 
+The charts will automatically advance as we move through the presentation.  If you prefer to manually control the charts, at any time you can un-check the synchronize button on the left of the presentation.
+ 
+The prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.
+ 
+Our presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.
+ 
+All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K to be submitted to the SEC.
+ 
+For those of you who are manually controlling the charts, please click on the Next button for chart 2.
+ 
+Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+ 
+Now, I'll turn the call over to Mark Loughridge.
+ 
+IBM RESULTS  SECOND QUARTER
+ 
+Thanks Patricia.
+ 
+For the second quarter, as reported 
+ 
+We delivered $21.9 billion in revenue, which was down 2 percent as reported and at constant currency.  Without PC's in 2005, IBM revenue was up 1 percent.
+ 
+Our pre-tax income was $2.9 billion, up 6 percent over second quarter of last year.
+ 
+And we delivered $1.30 of earnings per share, which was a 14 percent improvement over last year's second quarter.
+ 
+In 2005 we had three non-recurring items in the reported results.  When you exclude the non-recurring charges from last year's results, IBM's pre-tax income was up 11 percent, and earnings per share were up 16 percent.
+ 
+In addition, we concluded the sale of our PC business to Lenovo in the second quarter of 2005, and last year's results include one month of activity.
+ 
+On a comparable basis, without the now-divested PC business
+As I said above, revenue was up 1 percent.
+Our pre-tax income was up 5 percent.
+And earnings per share were up 10 percent.
+ 
+We saw sales and contract cycles elongate in June.  In that environment, we still delivered double-digit earnings per share growth.  And while some areas of our business did well, others leave room for improvement.
+ 
+We were pleased with our performance in many areas:
+ 
+Software leveraged its SOA capabilities and the strength of its portfolio to post solid growth in revenue and pre-tax profit, which was up 15 percent without last year's non-recurring charge to $1.2 billion.
+ 
+Our microelectronics revenue continued to benefit from good demand for game processors.
+ 
+Our System z revenue returned to growth.
+ 
+Strategic Outsourcing revenue growth improved reflecting growth in signings in 2005 and the first quarter of 2006.
+ 
+Productivity initiatives continue to drive higher margins.
+ 
+And once again we had strong cash performance, with an increase in n
+et cash from operations for the first half of $1.4 billion, excluding Global Financing Receivables.
+ 
+But in other areas we certainly have opportunities for improvement.
+ 
+In servers, execution issues in our supply chain left some orders unfulfilled, and we continued to work through product transitions in the midrange.
+ 
+In services, our short-term businesses were weak.  I've mentioned the last few quarters that our Integrated Technology Services business has been in transition, and we've rebalanced the portfolio to streamline offerings and focus on higher value and higher growth segments.  We remain confident in the actions we have taken, but the transition is taking longer than anticipated.
+ 
+In Global Business Services, though our business grew in the Americas, we under-performed in some key countries in Europe and Asia.
+ 
+Overall,
+our performance once again reflected the ability to leverage productivity initiatives to generate solid earnings per share and cash growth.
+ 
+Let's move on to revenue and gross profit by brand.
+REVENUE AND GROSS PROFIT
+ 
+Global Services revenue was down 1 percent year-to-year.
+The revenue decline was driven primarily by our short-term businesses, while Strategic Outsourcing and BTO increased year-to-year.
+ 
+Hardware revenue was down 7 percent as reported.  Without the PC business in our 2005 results, hardware was up 3 percent, and up 2 percent at constant currency.
+Our hardware results were mixed by brand, with good performance in
+System z and microelectronics, offset by declines in midrange servers and storage.
+ 
+Software revenue was up 5 percent.
+This performance was led by good growth in our key middleware brands.
+ 
+Global Financing revenue was down 7 percent, driven by a decline in the asset base and a lower level of used equipment sales.
+ 
+ 
+I'll comment briefly on gross margin, before we get into revenue by geography.
+ 
+Our gross profit margin for the quarter was 41.2 percent, up 1.8 points year-to-year.  The divestment of the low margin PC business contributed 1.2 points of that improvement.
+ 
+Global Services margin improved due primarily to benefits from our productivity initiatives, while our Hardware margin without PCs declined.
+REVENUE  GEOGRAPHIC
+ 
+Turning to revenue by geography, I'll focus my comments on the results without PCs at constant currency, to provide the best view of our ongoing geographic performance.
+ 
+The Americas revenue increased 2 percent year-to-year, supported by growth in all regions.
+ 
+Growth was led by software, offset by declines in mid-range servers and storage.
+ 
+Europe revenue declined 1 percent.   As always, results were mixed by country.
+ 
+France and Spain again showed solid growth, but Germany, Italy and the UK declined.
+ 
+Asia Pacific revenue declined 3 percent this quarter.
+ 
+Representing over half of the Asia Pacific revenue base, Japan declined, as we continue to work through our operating issues.
+ 
+China was down this quarter.  We had a strong quarter last year, due to large System z-based banking transactions.
+ 
+Partially offsetting these declines, the ASEAN region again had double-digit growth, led by India.  And Korea posted strong results.
+ 
+The emerging countries of China, India, Brazil and Russia together grew 13 percent as reported and 7 percent at constant currency, without PC's.  India again posted the strongest growth, up 45 percent at constant currency.  Brazil grew 4 percent and Russia 19 percent, while China declined 3 percent off of a difficult compare.
+ 
+We continue to expand our capabilities in these countries, as you hopefully got a chance to see at our analyst meeting in June, or from the materials on our investor website.
+ 
+Finally, our OEM growth was 34 percent in the second quarter, driven by strong game chip performance in our microelectronics business.
+ 
+Now we'll move on to expense.
+EXPENSE SUMMARY
+ 
+Total Expense and Other Income increased 1 percent in the second quarter.
+ 
+Our expense to revenue ratio was 28 percent, up almost a point year-to-year as reported, but flat as compared to 2005 expense-to-revenue without both the non-recurring items and PC results.
+ 
+As in the past, to help investors understand the drivers of our operational performance, I'll highlight those items that significantly impacted our profit growth.  These items are reported in cost and expense.
+ 
+In the second quarter, we had a couple of items that significantly helped our profit growth.
+ 
+We continued to benefit from our second quarter 2005 productivityinitiatives, which were implemented beginning in the second quarter of last year.As the year-to-year benefit begins to wrap in the third quarter, we will continue to drive productivity as we globally integrate IBM.  Additionally, these actions make us more competitive and give us more pricing flexibility.
+ 
+ 
+Total equity compensation was down $54 million year-to-year excluding the impact of last year's non-recurring items, due primarily to lower grants over the last few years.
+ 
+Other Income benefited from a $74 million year-to-year increase to interestincome, reflecting our strong cash balance and increasing interest rates.
+ 
+Turning to the items that hurt our year-to-year profit growth 
+Retirement-related plans
+ both pension and retiree medical, generated over $600 million of cost and expense in the quarter.  This is up almost $100 million excluding the impact of last year's non-recurring items.  We continue to expect these plans to cost us between $2.3 and $2.4 billion for the full year, a $200 to $300 million year-over-year impact, excluding last year's one-time charges.
+In the quarter, Intellectual Property Income was also down about $100 million year-to-year.
+ 
+ 
+ 
+Before moving on to our cash flow performance, let me comment on currency 
+ 
+IBM hedges its major cross-border cash flows and, as a result, mitigates the effect of currency volatility in the year-over-year results.  The impact of these hedging programs is principally reflected in Other Income and Expense, as well as cost of goods sold.  This quarter, there was very little impact in the current period from our hedging programs.  However, due to losses incurred last year, the activity results in a year-to-year improvement in Other Income and Expense of approximately $100 million.
+ 
+I'm not going to predict future currency moves, but at current spot rates we would expect revenue growth to benefit from currency translation in the second half.
+  The supplemental chart at the end of the presentation benchmarks currency's potential future impact on revenue, assuming Monday's exchange rates.
+ 
+Now let's turn to Cash Flow  chart 7.
+ 
+CASH FLOW
+ 
+For the first half of the year, we continued to have strong cash generation.  Our cash from operations excluding Global Financing receivables was principally driven by our earnings and accounts receivable performance.
+ 
+This cash flow analysis chart has one primary difference from the FAS 95 format.
+It considers our Global Financing Receivables as an investment to generate profit, not as Working Capital that should be minimized for efficiency.
+ 
+For the first half, Net Cash Provided from Operations, excluding the year-to-year change in Global Financing Receivables, was $2.9 billion, an increase of $1.4 billion from last year.  Excluding the significant pension funding activity in the U.S. and U.K from both years, we generated over $700 million more cash from operations year-to-year.
+ 
+Our first half cash performance was driven primarily by growth in Net Income, and continued focus on working capital and supply chain management.
+ 
+Within working capital, receivable collections were strong.
+ 
+Our use of cash for investments was fairly consistent with last year's activity, with the exception of approximately $500 million of net proceeds received from the sale of our PC business to Lenovo in 2005.
+ 
+We continue to drive very strong returns to shareholders.  In the first half of 2006 we returned over $5.8 billion to investors.
+ 
+Five-point-one billion dollars of this shareholder return was through share repurchase.
+ 
+We bought back 62.7 million shares, and average diluted shares were at 1.6 billion, down 4.3 percent from a year ago.
+ 
+We have approximately $3.9 billion remaining at the end of June from our last Board authorization.
+ 
+And, this quarter we announced a 50 percent increase in our dividend rate, the largest increase in our history.  With this increase, in the first half we paid out over $750 million in dividends to shareholders.
+ 
+BALANCE SHEET
+ 
+Turning to the Balance sheet, our cash on hand was $10 billion.
+ 
+Ninety-eight percent of our total debt of $21.8 billion was driven by our Global Financing business, and Global Financing was leveraged at an appropriate 6.9 to 1.
+ 
+The remaining non-financing debt level was less than $500 million and debt-to-capital was 2 percent.
+ 
+Our Balance Sheet remains strong.
+ 
+ 
+ 
+ 
+ So now let's turn to our businesses, starting with Global Services.
+ 
+GLOBAL SERVICES
+ 
+Global Services delivered revenue of $11.9 billion, down 1 percent year to year.
+ 
+Signings for services this quarter were $9.6 billion at constant currency, down 34 percent against a very challenging compare.  This quarter we signed 11 deals larger than $100 million, and our backlog is estimated at $109 billion. [Looking at our signings for the quarter, it's important to remember that we are comparing to signings of $14.6 billion in the second quarter last year, which was the largest quarterly signings since the fourth quarter of 2003.]  Although long-term signings tend to be uneven, and our short term signings were up slightly quarter-to-quarter, the performance fell short of our expectations.
+ 
+Let me get into each of the services businesses.
+ 
+Global Technology Services
+delivered revenue of $8 billion, up 1 percent year to year.
+ 
+For the segment, longer-term signings were down 52 percent year-to-year, and shorter-term signings were down 10 percent.
+ 
+Strategic Outsourcing r
+evenue was up 3 percent year-to-year.
+ 
+The improved revenue growth rate for Strategic Outsourcing was driven by signings over the last five quarters.  We are also seeing good growth in our existing accounts, which reflects customers' satisfaction with our service delivery.
+ 
+Strategic Outsourcing signings were down 46 percent this quarter, compared to a very strong second quarter last year.  As you know longer-term signings can be uneven over the course of the year.
+ 
+Business Transformation Outsourcing revenue was up 15 percent as reported, and up 16 percent at constant currency.
+ 
+BTO revenue continued to grow in all geographies.  Growth this quarter was impacted by a contract renegotiation which will continue to impact BTO revenue through the remainder of the year.
+ 
+BTO signings were down 73 percent year-to-year.  Like Strategic Outsourcing, BTO engagements are longer-term, and so signings tend to be uneven over the course of the year.
+ 
+Integrated Technology Services revenue was down 5 percent year to year.
+ 
+I've talked to you about the steps we've taken to improve the Integrated Technology Services business, including increased business development and sales skills, and streamlining our offerings to address higher growth and higher value areas.  While it is taking longer to get traction in our results, we continue to believe we've implemented the right actions, and we expect them to show results over the longer term.
+ 
+Turning to margin, Global Technology Servicespre-tax margin was 9.4 percent, an improvement of 1.1 points year-to-year, excluding the incremental restructuring charge from last year.
+ 
+The majority of this improvement came from last year's productivity initiatives.
+ 
+Global Business Servicesdelivered $3.9 billion of revenue, declining 5 percent as reported, and 4 percent at constant currency.
+ 
+Revenue performance this quarter was mixed.  We continued to see growth in the Americas, which represents roughly 40 percent of the portfolio.  This was offset by declines in Japan, Germany and Italy, which combined represent over a quarter of our business.  We were also impacted by a decline in our Federal business as we adjust to changing dynamics in U.S. government spending.
+ 
+For the segment, shorter-term signings were down 5 percent year-to-year, and longer-term signings were down 42 percent. 
+Within Global Business Services, and in fact across all our services areas, we continue to take a disciplined approach to bidding on contracts.  The deal fundamentals and value proposition need to make sense for both us and the customer.
+ 
+We are driving actions to improve performance within Global Business Services.  For example 
+ 
+As we discussed in India, we have established a Global Business Solutions Center that will enable us to provide clients with a range of high-value solutions through our global delivery centers.  We are creating and enhancing a portfolio of replicable industry solutions to leverage the strengths of GBS, Research and Software Group.  This will enhance our competitive position across all our offerings within both Consulting and Application Management Services.
+ 
+We have recently launched Global Delivery Direct where clients will be able to contract directly with our Global Resource centers.  We've implemented a full range of services leveraging these resources, ranging from staff augmentation to full scale application outsourcing.  This increases the breadth of our offerings to meet a broader range of our customer resource needs.
+ 
+And, we continue to invest in key industry skills and solution specialists in Japan and Europe.
+ 
+Turning to margin, Global Business Servicespre-tax margin was 9.5 percent, an improvement of .8 points year-to-year, after adjusting for last year's incremental restructuring charge.
+ 
+This improvement in margin was primarily driven by our productivity initiatives, offset by revenue weakness in the short-term businesses.  We continue to see stable to improving margins in our new business.
+ 
+So to wrap up Global Services 
+ 
+The revenue growth rate of our Strategic Outsourcing business increased sequentially, driven by last year's signings, and growth within our existing accounts.
+ 
+Demand for BTO remains strong.
+ 
+The transition in Integrated Technology Services is taking longer than anticipated; however, we think we have taken the correct actions for improvement.
+ 
+And, margins improved year-to-year for both segments.
+ 
+Now I'll move on to Systems and Technology  chart 10.
+ 
+SYSTEMS AND TECHNOLOGY
+ 
+Systems and Technology revenue grew 3 percent year-to-year led by growth in our System z, Microelectronics, and Retail Store Solutions business units.
+ 
+Gross profit margin improved sequentially as our profit management actions gain traction, but is down year-to-year due to hardware mix driven by the strong growth in our microelectronics business; product and geography mix in our System z mainframes, and pricing pressure in our mid-range and low end servers.
+ 
+We were unable to ship to meet all of the customer demand which
+impacted our server brands, most notably Systems i and x. 
+Our unusually high level of unfilled orders were due to end-to-end supply chain complexities which were primarily driven by parts and product transitions to support the RoHS (Removal of Hazardous Materials) requirement in Europe.  This limited our manufacturing and sourcing flexibility
+.
+ 
+System z
+revenue grew 7 percent year-to-year as reported and 6 percent at constant currency, fueled by double-digit growth in the Americas and Europe.  MIPS growth of 7 percent reflects continued customer acceptance of both specialty engines and traditional mainframe workloads.
+ 
+The announcement and general availability of our new mid-range z9 was also well received by the marketplace and accounted for approximately 15 percent of the MIPS shipped this quarter.
+ 
+Nexxar, a financial transaction processing company, chose the new System z Business Class for its high availability, security, reliability, and flexibility to allow for future business growth.  This strategic win in the SMB environment demonstrates IBM's capabilities to provide customers with end-to-end solutions.
+ 
+System i
+revenue declined 7 percent, improving from the first quarter but not yet where we want it to be.
+ 
+As I mentioned earlier we were unable to fulfill all of the demand for System i.  If we had been able to ship to our more typical level of pending orders, our year-to-year revenue would have been about flat.
+ 
+High end volumes improved as expected as the transition to our new products announced in the first quarter completed, with strong year-to-year growth in our flagship 595 model.
+ 
+System p
+UNIX servers declined 10 percent in the quarter, 11 percent at constant currency.
+ 
+While volumes were up year-to-year, a mix shift in our high end ahead of the third quarter refresh contributed to the revenue decline.  This also reflects a difficult compare to last year's growth of 36 percent.
+ 
+In the third quarter we will complete the transition to Power 5+ and expand the implementation of our Power Quadcore technology to all entry level System p products.  These upcoming announcements will sustain the price/performance and virtualization leadership position that has made IBM the No. 1 UNIX vendor worldwide.
+ 
+Revenue forSystem xservers was flat year-to-year.
+ 
+We were not able to fulfill all of the demand.  If we had been able to ship to our more typical level of pending orders, our year-to-year System x server revenue would have been up about 6 percent.
+ 
+Despite the shipment limitations, our server volumes had double-digit growth year-to-year.
+ 
+Blade growth remained strong in the quarter with both volumes and revenue growth of over 35 percent.
+ 
+System Storage
+declined 2 percent year-to-year, 3 percent at constant currency.
+ 
+Disk declined 1 percent however we believe we held share in disk, led by midrange growth of over 15 percent.  While the high-end declined, our current generation high-end offering, the DS8000 family of products, grew 10 percent year-to-year.
+ 
+Tape declined 4 percent.
+ 
+Microelectronics
+revenue grew 45 percent year-to-year, driven by continued strong demand in the games processor business.
+ 
+Let's move on to Software.
+SOFTWARE
+ 
+Software revenue was up 5 percent year-to-year to $4.2 billion.  This growth was driven by our key middleware portfolio and strong performance in Product Lifecycle Management.  Operating systems and other middleware declined.
+ 
+In the second quarter, key branded middleware grew 9 percent.  There was solid growth across all key brands and both WebSphere and Tivoli grew at double digits.
+ 
+In a very competitive software market, we had constant currency growth in all major geographies with particular strength in the Americas and Europe.
+ 
+The WebSphere family of software grew 17 percent as reported and 18 percent at constant currency.
+ 
+We continue to be the market leader in Services Oriented Architecture products.  SOA-related products are in strong demand as evidenced by double-digit growth in WebSphere business integration and application server software.
+ 
+We believe we gained share for the quarter.
+ 
+Information Management software grew 6 percent as reported and was up 7 percent at constant currency.
+ 
+In 2005, we announced a major initiative called "Information on Demand," which includes higher order products designed to integrate information to its most useful form.  Our Information on Demand product set continues to be well accepted in the marketplace.  Revenue nearly doubled to over one hundred million dollars in the second quarter.
+ 
+We believe we held share for the quarter.
+ 
+Lotus software grew 6 percent as reported and at constant currency.
+ 
+Our Domino products grew in a highly competitive market.
+ 
+We believe we held share for the quarter.
+ 
+ 
+ 
+Tivolisoftwaregrew 12 percent as reported and at constant currency.
+ 
+Our Tivoli software continues to take share in a very competitive marketplace.  The combination of internal development and strategic acquisitions is paying off, particularly in our systems management segment.  The Micromuse acquisition, completed in February, is another good example of our ability to quickly integrate and globally leverage acquired capabilities into the business.
+ 
+                We believe Tivoli gained share for the quarter.
+ 
+Rational software was up 8 percent as reported and at constant currency.
+ 
+In the second quarter, Rational delivered solid growth across all geographies as customers continue to demand software development tools based on open standards.
+ 
+We believe Rational gained share for the quarter.
+ 
+Other Middleware
+was down 3 percent as reported and at constant currency.  This segment includes more mature products which provide a stable base of revenue, profit and cash.
+ 
+The strong performance in Other Software/Services was driven by solid growth in our Product Lifecycle Management portfolio of products.
+ 
+PLM helps companies improve their product development processes and their ability to use product-related information across their business.  In the second quarter, we closed a number of large deals resulting in double-digit growth in all geographies.
+ 
+Operating Systems
+software declined 6 percent as reported and 5 percent at constant currency.  Operating Systems are closely tied to our server products and provide a sound, cost-effective platform for our middleware and business solutions.
+ 
+Overall, our software business had another solid quarter.  We believe we gained share in Key Branded Middleware and Product Lifecycle Management.
+ 
+This revenue growth drove strong bottom line results as well.  The Software pre-tax margin of 24 percent is up 2 points year-to-year, after adjusting for the incremental restructuring charge in second quarter of last year.
+Now, I'll wrap up.
+ 
+CLOSING REMARKS
+ 
+IBM's business model has two dimensions.
+One is a portfolio of businesses, hardware, software and services, that provide us with the ability to offer customers both industry-leading point products as well as innovative end-to-end solutions to address our customers' most pressing business needs.
+This quarter, while our hardware and services businesses didn't perform to our expectations, we had solid software performance led by our key branded middleware products, especially WebSphere and Tivoli.
+Our software results reflect strong demand for products deploying Services Oriented Architectures, and the value of our systems management, security, and storage offerings. These results also reflect the positive impact of our targeted acquisition strategy which strengthens our capabilities while contributing profitable growth and ongoing cash performance.
+The second dimension of our model is the ability to drive earnings per share growth through a combination of revenue growth, productivity and effective use of cash.
+Our productivity initiatives, including the restructuring action implemented last year, continued to yield good margin results again this quarter.  We will continue to drive productivity initiatives as we globally integrate IBM.  Though the year-to-year benefit will not be as great going forward, the competitive cost structure and increased pricing flexibility are now embedded in our business model.
+We also continued our strong cash generation, and returned some of that cash to shareholders through dividends and share buyback, which further contributed to earnings per share growth.
+ 
+The strength and breadth of the IBM model comes from being able to leverage across these two dimensions, our broad portfolio and our strong financial position, to consistently deliver solid earnings and cash performance.
+ 
+Given our first half performance, we are on track to deliver earnings per share growth for 2006 in line with the IBM model.  This is consistent with the average of your estimates for the year.
+ 
+Now, Patricia and I will take your questions.
+ 
+
+

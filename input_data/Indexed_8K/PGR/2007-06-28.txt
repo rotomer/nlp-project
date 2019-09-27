@@ -1,0 +1,770 @@
+FILE:PGR/PGR-8K-20070628090006.txt.gz
+EVENTS:	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+Item 7.01 Regulation FD Disclosure
+On June 28, 2007, The Progressive Corporation released a Report on Loss Reserving Practices (the "Report"), which provides a discussion of the loss reserving practices used by Progressive's insurance subsidiaries. A copy of the Report is attached hereto as Exhibit 99.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+See exhibit index on page 4.
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: June 28, 2007
+ 
+
+ 
+ 
+ 
+The artwork on the cover of The Progressive Corporation's represents the basis of analyzing loss and loss adjustment expenses (LAE) reserve levels. The solid wood stairs represent historical data while the glass steps represent the projections of ultimate losses, which are revised as more information is known. Adequate reserve levels are determined by subtracting out losses already paid from the projected ultimate losses.
+1
+2007 Report on Loss Reserving Practices
+The primary purpose of this report is to help interested stakeholders better understand our loss reserving process and how it affects our financial results. Reserves in this report refer to loss and loss adjustment expense reserves.
+The is very similar to the 2006 report. However, we updated financial information throughout the report, and we included our latest process enhancements in Section V.
+2007 Report on Loss Reserving Practices
+As the is a separate document, you can electronically link to it anywhere that you see the blue underlined word: .
+Appendix
+Appendix
+Consistent with Progressive's culture of self-examination, our analysis of loss reserves demands continuous change and continuous improvement. Each section of this report focuses on a different aspect of our reserving process.
+The was written by Gary Traicoff and Beth Brown. Despite the technical nature of our reserve analysis, we strive to make this report as accessible and understandable as possible to a wide audience. We welcome your comments so that we may continue to enhance it. Comments and questions should be directed to Al Neis, Corporate Actuary at The Progressive Corporation, 6300 Wilson Mills Road, Mayfield Village, Ohio 44143 or e-mailed to al_neis@progressive.com.
+2007 Report on Loss Reserving Practices
+ 
+Carlos Vega, , mixed media on paper, 2003
+1
+Keep Up
+Copyright  Progressive Casualty Insurance Company. All Rights Reserved.
+ 
+Safe Harbor Statement Under the Private Securities Litigation Reform Act of 1995: Statements in this report that are not historical fact are forward-looking statements that are subject to certain risks and uncertainties that could cause actual events and results to differ materially from those discussed herein. These risks and uncertainties include, without limitation, uncertainties related to estimates, assumptions and projections generally; inflation and changes in economic conditions (including changes in interest rates and financial markets); the accuracy and adequacy of our pricing and loss reserving methodologies; the competitiveness of our pricing and the effectiveness of our initiatives to retain more customers; initiatives by competitors and the effectiveness of our response; our ability to obtain regulatory approval for requested rate changes and the timing thereof; the effectiveness of our brand strategy and advertising campaigns relative to those of competitors; legislative and regulatory developments; disputes relating to intellectual property rights; the outcome of litigation pending or that may be filed against us; weather conditions (including the severity and frequency of storms, hurricanes, snowfalls, hail and winter conditions); changes in driving patterns and loss trends; acts of war and terrorist activities; our ability to maintain the uninterrupted operation of our facilities, systems (including information technology systems) and business functions; court decisions and trends in litigation and health care and auto repair costs; and other matters described from time to time in our releases and publications, and in our periodic reports and other documents filed with the United States Securities and Exchange Commission. In addition, investors should be aware that generally accepted accounting principles prescribe when a company may reserve for particular risks, including litigation exposures. Accordingly, results for a given reporting period could be significantly affected if and when a reserve is established for one or more contingencies. Reported results, therefore, may appear to be volatile in certain accounting periods.
+ 
+ 
+ 
+Our Business
+The Progressive insurance organization (referred to as "Progressive" or the "Company") began in 1937. Since that time, we have worked hard to continuously improve our products and services. Today, we offer competitive rates and 24-hour, in-person and online services to personal and commercial auto drivers throughout the United States.
+We seek to become Consumers' No. 1 Choice for Auto Insurance through creation of a consumer proposition based on fast, fair and better. The Company predominantly writes insurance for personal and commercial automobiles, as well as motorcycles, recreational vehicles and watercraft. Progressive Insurance is available directly through the Company over the telephone and on the Internet, as well as through more than 30,000 independent insurance agencies that represent the Company and brokerages in New York and California.
+2006 Business Overview
+The Company ranks third in both the U.S. personal auto insurance market and the U.S. commercial auto insurance market, based on premiums written. The Company had a 1% increase in net premiums written and a 13.3% underwriting margin in 2006. We saw frequency rates decline slightly in 2006, but not to the extent we experienced in 2004 and 2005. Prior periods' bodily injury severities were overestimated as well, which led to favorable calendar period adjustments. However, we believe accident year results will begin to trend towards more historical norms, and we have chosen to be more deliberate when using rate reductions in search of profitable growth. Significant developments to our business in 2006 were continued introduction and rollout of new products and services such as our concierge claims service, total loss replacement, online claim reporting, and umbrella policies, along with our increased focus on measuring customer satisfaction and retention efforts with the introduction of "Net Promoter Score" (NPS).
+Our Financial Objectives
+At Progressive, we measure ourselves against two specific goals designed to maximize the value of our Company. Our most important goal is for our insurance subsidiaries to produce an aggregate calendar year 4% underwriting profit. Second, we seek to grow our business as fast as possible so long as doing so is consistent with our profitability objective and our ability to provide high quality service to our customers. We communicate these two corporate goals to every Progressive employee and work together to achieve them. In 2006, our achievement of these two goals resulted in a Return on Shareholders Equity (ROE) of 25.3% and a Comprehensive ROE of 28.4%.
+1
+2
+Loss reserving is an activity that is central to the achievement of our goals. It involves estimating the magnitude and timing of future claim payments and adjusting expenses for accidents that have already occurred. These estimates take into account not only claims that are in the process
+ 
+ 
+of being settled, but also claims on accidents that have happened but have not yet been reported to the Company. At year-end 2006, Progressive's estimated gross loss and LAE reserves amounted to $5.7 billion.
+Our financial policies define our allocation of risk, which is the chance that actual events turn out to be significantly different than expected and result in a loss of capital. Our Risk Management area identifies, quantifies, and in some instances manages risks to which Progressive is subject. Our risks are classified into the following three categories:
+Loss reserving is an operating risk because significant variations in loss reserve estimates affect our operating profit and our ability to price accurately.
+Relationship Between Loss Reserving and Pricing Functions
+Unlike most industries, insurers do not know their costs until well after a sale has been made. One of the most important functions in our Company, therefore, is setting rates or "pricing." The goal of our pricing function is to properly evaluate future risks the Company will assume but has not yet written. Estimates of future claim payments are essential for accurately measuring Progressive's underwriting profit and for determining whether pricing changes are needed to achieve the Company's underwriting target. Reserve estimates that are too low can lead to the conclusion that pricing is adequate when it is not, so we may fail to achieve our underwriting target in future periods, and we may experience unprofitable growth. Reserve estimates that are too high may limit growth and competitive opportunities.
+Our product-focused business units continue to seek ways to advance the science of rate making to achieve accurate cost-based pricing at the finest level our data will support. This allows us to more accurately match our rates with expected loss costs by risk classification.
+The role of the pricing function is to determine rates that are adequate to achieve our profitability goals without being excessive or unfairly discriminatory to consumers. Although the pricing function is very different from the loss reserving function, the data used is consistent among the functions. Typical information that the loss reserving area shares with the pricing organization includes:
+Judgments made by both the loss reserving and pricing areas consider additional issues. Growth and process changes may cause claims to settle faster or slower than previous experience. Changes made by state insurance departments, changes in the mix of business, and changes in the underwriting process may also contribute to unexpected changes in the data.
+We use a cost-plus strategy in pricing, beginning with the projected ultimate losses and LAE. Pricers estimate the ultimate losses and LAE for each coverage for the state under review. Their
+ 
+projection methods are similar to those used by the loss reserving area, as described in Section IV.
+Trend selections have a significant impact on how much the rates will change. Changes in the average cost of a claim (severity trend), changes in the proportion of insured cars that have a claim (frequency trend), and changes in average premium adjusted for current rate levels (premium trend) are analyzed and selected.
+The loss reserving team meets regularly with the product management, pricing and claims teams to discuss these issues.
+ 
+Definition and Stated Goals
+Reserves are liabilities established on the Company's balance sheet as of a specific accounting date and are estimates of the unpaid portion of what the Company ultimately expects to pay out on claims. They are estimates of future payments for insured events (claims) that occurred by the accounting date, whether or not those claims have been reported to the Company. These estimates are reported net of the amounts recoverable from salvage and subrogation. Loss reserves are the Company's best estimate of future payments to claimants, and loss adjustment expense (LAE) reserves are the estimated future expense payments to adjust the claims. The types of reserves are explained further in Section III.
+We estimate the needed reserves based on facts and circumstances known at the time of the reserve evaluation. There is inherent uncertainty in the process of establishing property and casualty loss and LAE reserves, caused in part by changes in the Company's mix of business (by state, policy limit, etc.), changes in claims staffing and claims processes, inflation on automobile repair costs and medical costs, changes in state legal and regulatory environments, and judicial decisions regarding lawsuits, changes in theories of liability, and interpretation of insurance policy provisions.
+The Company's goal is to ensure that total reserves are adequate to cover all loss costs while sustaining minimal variation from the time reserves are initially established until losses are fully developed.
+The Corporate Actuary is accountable for the reserve adequacy and accuracy. The loss reserving area reports to the Corporate Actuary and is part of the corporate finance department. Product management and pricing are in the four marketing areas  Agency, Direct, Commercial Auto and Special Lines (RV, motorcycle, boat, etc.). The loss reserving area works closely with the marketing and claims areas to fully understand the underlying data used in our reviews. The Corporate Actuary uses this information to make the reserving decisions independent of the marketing and claims areas.
+In order to make the most accurate estimation, we analyze our reserves by segment, generally defined by state/product/coverage groupings with reasonably similar loss characteristics. Reserve estimation and segmentation are further explained in Section IV, and our analysis of reserves is described in greater detail in the , which presents reserve reviews for losses and loss adjustment expenses for sample segments, including discussion of the issues we consider during the analysis and the calculations involved.
+Appendix
+Calendar Year versus Accident Year
+Financial statements report data on a calendar year basis. However, payments and reserve changes may be made on accidents that occurred in prior years, thus not giving an accurate picture of the business that is currently insured. Therefore, it is important to understand the difference between calendar year and accident year losses. (Note that calendar year and accident year concepts may apply to periods other than annual periods, but the term "year" is often used generically).
+consist of payments and reserve changes that are recorded on the Company's financial records during the period in question, without regard to the period in which the accident occurred. Calendar period results do not change after the end of the period, even as new claim information develops.
+Calendar Period Losses
+ 
+consist of payments and reserves that are assigned to the period in which the accident occurred. Accident period results will change over time as the estimates of losses change due to payments and reserve changes for all accidents that occurred during that period. Projection of ultimate losses by accident period is an important part of the reserve analysis.
+Accident Period Losses
+Paid Development Patterns
+Incurred losses consist of payments and reserve changes, so it is important to understand paid development patterns. The longer a claim is expected to stay open (not settled), the more difficult it is to establish an accurate reserve at the time the accident is reported. Since injury claims tend to take longer to settle than property claims, a company's total reserve estimates for injury claims are more sensitive to the uncertainties mentioned above, such as changes in mix of business, inflation, and legal, regulatory and judicial issues. As more information is obtained about open claims, the reserves are revised accordingly. The ultimate amounts, however, are not known until the claims are settled and paid.
+The following chart compares the time it takes to settle a typical portfolio of bodily injury liability claims versus a typical portfolio of property damage liability claims. Each annual development point represents the cumulative percent of losses paid for accidents that occur in the first year.
+ 
+Reserve Development
+Ultimate paid losses and loss adjustment expenses may deviate, perhaps substantially, from point-in-time estimates of reserves contained in the Company's financial statements. The Company's actual claim payments may exceed or may be less than its loss reserves causing losses incurred by the Company in subsequent calendar years to be higher or lower than anticipated. Changes in the estimated ultimate cost of claims are referred to as development.
+There are several ways for reserve development to occur. They are:
+Exhibit 2 illustrates Progressive's reserve development over the past ten years. It shows the booked reserves at each year-end, and the re-estimated reserves at each subsequent year-end (down the column for each original accounting date). The last "diagonal" on the chart represents our evaluation as of December 31, 2006, of reserves for each respective year-end. The difference between the current evaluation (last diagonal) and the original booked amount of reserves in each column represents cumulative reserve development for that accident year and all prior accident years combined. This measures our performance against the goal, stated above, that total reserves are intended to be adequate and to develop with minimal variation.
+(unaudited)
+Analysis of Loss and Loss Adjustment Expense (LAE) Development (in millions of dollars)
+ 
+In every year shown other than 1999, the original reserves were conservative, resulting in subsequent favorable development. In other words, claims cost us less than we originally estimated. Reserves that are conservative can lead to over-pricing, which may limit growth and competitive opportunities. Reserves that are deficient can lead to under-pricing, which may contribute to unprofitable growth. It is important to recognize both favorable and unfavorable development as quickly as possible, so that these inefficiencies are corrected.
+The favorable reserve development from 1996 through 1998 was primarily due to decreasing bodily injury severity. This period of decreasing severity for the Company was not only longer than that generally experienced by the industry, but also longer than at any time in the Company's history. The reserves established as of the end of each year assumed that the current accident year's severity would increase over the prior accident year's estimate. As the experience continued to be evaluated at later dates, the realization of the decreased severity resulted in favorable reserve development. Late in 1998, the Company started experiencing an increase in bodily injury and personal injury protection severity. As a result, the reserve development for 1998 through 2001 has been much closer to our original estimate. The recent development reflects more modest increases in severity than originally estimated.
+Reserves developed favorably during 2006 (as shown at the bottom of the 2005 column), with $246.9 million or 4.6% favorable development from accident years prior to 2006, which represents 1.7% of our 2006 earned premium.
+We make many projections in loss reserve analyses that may change as the claims mature. The least mature claims are those that occurred during the most recent accident year, so the Company believes that the estimated severity for the 2006 accident year is the projection with the highest likelihood of change. For further discussion of the 2006 results, and how they are affected by loss and LAE reserves, see "Management's Discussion and Analysis of Financial Condition and Results of Operations" in the Company's , which is attached as an appendix to the Company's .
+2006 Annual Report to Shareholders
+2007 Proxy Statement
+Note the following points regarding unpredictability in establishing our reserve liability:
+In addition, loss reserves can only be established for events that have already occurred. Property and Casualty companies cannot establish reserves for catastrophic events that may occur later in the year. These events can cause substantial fluctuations in monthly results when they do occur. However, our Risk Management organization determines the amount of economic capital needed to pay for catastrophes and other unexpected events that may occur.
+ 
+Reserve development influences reported earnings. Current year reported earnings may be under-stated (relative to accidents that occur in the current year) when either or both of the following items occur:
+On the other hand, current year reported earnings may be over-stated when the opposite of these items occurs.
+Exhibit 3 shows how reported earnings per share (EPS) are affected by the reserve development in Exhibit 2. It shows the reported EPS and what the EPS would have been if the Company had no reserve development, i.e., if current year earnings were based on only current year accidents. Each year's adjusted EPS excludes prior accident years' development during the current year and includes future development of the current accident year, estimated as of December 31, 2006.
+The following examples describe this relationship for three of the years shown on the exhibits.
+ 
+ 
+External Reporting of Reserve Changes and Reserve Development
+Since reserve changes affect earnings, our monthly earnings releases show actuarial reserve changes by reporting segment (Personal Lines, Commercial Auto and Other) and further by channel (Agency and Direct) for Personal Lines. We also report reserve development monthly, in addition to the quarterly and annual statutory reporting requirements. This information for the current month and year-to-date is included in the "Supplemental Information" section of our monthly earnings releases. The following data is from our December 2006 earnings release and is unaudited:
+The table shows that we decreased our loss and LAE reserves during 2006 by $216.1 million as a result of regularly scheduled actuarial reviews. Each month, we generally complete between 70 and 140 segment reviews, representing about 25% of our total reserves. Some reviews result in increases to the carried reserves while others result in decreases. The total change is reported as "Actuarial Adjustments" in the table. A reserve decrease is shown as a positive value on the earnings report because it increases our earnings for the reporting period.
+Through December 31, 2006, $158.3 million of the 2006 year-to-date actuarial reserve decrease was for claims in prior accident years, while the reserves for claims in the current accident year were decreased $57.8 million. However, the actuarial reserve decrease of $158.3 million that applies to claims in prior accident years is only part of the total development.
+As stated earlier in this section, favorable or unfavorable development is due to a combination of claims settling for more or less than the established reserves, changes to adjuster-set reserve estimates and actual and of claims that were unreported as of the prior year-end, and salvage and subrogation recoveries greater or less than expected. The items in are those that are included in the actuarial adjustment of $158.3 million favorable. The other items are included in "all other development," which was $88.6 million favorable in the table above.
+averages on open claims,
+estimated emergence
+bold print
+ 
+The total prior accident years' development through December 31, 2006, including both actuarial adjustments and all other development, was favorable by $246.9 million. In other words, with updated information as of December 31, 2006, we estimated that our reserves as of December 31, 2005, should have been $246.9 million lower than they were.
+The $246.9 million favorable prior accident years' development as of December 31, 2006 is included in our current calendar year results. As a result, our current calendar year incurred loss and LAE ratio of 66.5 is lower than our current accident year incurred loss and LAE ratio of 68.2. The difference of 1.7 points reflects the $246.9 million favorable development through December 31, 2006, divided by the net earned premium of $14,117.9 million for the same period.
+Reserve changes made as a result of actuarial reviews are intended to keep our current reserve liability adequate for the segments reviewed. We change the reserves for the reviewed segments based upon current information and our projections of expected future development. This is not the same as the aggregate development of prior year-end reserves.
+Internal Reporting of Reserve Changes and Reserve Development
+After we complete each segment review, our loss reserving analysts send summaries of our reviews to all affected areas of the Company. The loss reserving group meets with product management, pricing, and claims to exchange information regarding development, trend and other issues considered in arriving at the reserve change. Their participation is important so we can better understand changes in processes and business operations that may be affecting the underlying paid and incurred data. Incurred data includes paid data, as well as reserve activity.
+To help product management understand the case reserve changes shown on their income statements, we provide monthly "Decomposition (Decomp) Reports" that summarize the changes in the following categories. (Note that these terms are explained in Sections III and VI.)
+The business units are also provided with updated information regarding the impact of prior accident years' development on their current calendar year results. We track case reserve development (on claims reported as of the prior year-end) separately from IBNR reserve development (on claims unreported as of the prior year-end). This allows us to retrospectively test our prior assumptions and apply that knowledge in future judgments. It also helps the business managers better understand how their earnings are affected by reserve development.
+ 
+Reserves are considered an operating liability on our balance sheet. At the end of 2006, we reported a $5.7 billion reserve liability ($5.4 billion net of reinsurance) on our balance sheet. We separate reserves into two categories: loss and loss adjustment expense (LAE). While each of these two reserve categories is reported in aggregate on the balance sheet, when we analyze the reserves, we further break them into two distinct types: case and IBNR. In this section, we discuss these reserve types and how we evaluate them to achieve a total reserve balance as accurate as possible.
+Exhibit 4 illustrates the types of reserves as a percent of our total reserve liability as of December 31, 2006. Eighty percent of our reserve liability (Loss case + Loss IBNR) was set aside to pay claimants while 20% of our reserve liability (LAE case + LAE IBNR combined) was established to accommodate costs associated with adjusting those claims. These costs are described in more detail later in this section.
+Loss Reserves
+We evaluate our total indicated loss reserve need by sorting and analyzing claims by accident date. This analysis, discussed in detail in Section VII of the , is completed concurrently with the evaluations of case and IBNR reserves for the same segmentation of business.
+Appendix
+Case Reserves
+Loss case reserves represented 64% of our total carried reserves at December 31, 2006. Case reserves are estimates of amounts required to pay claims that have already been reported and recorded into Progressive's systems, but have not yet been fully paid. We evaluate our indicated case reserve need, as discussed in Section VII of the , by sorting and analyzing claims by record date, or the date the claim was recorded by the Company.
+Appendix
+For each open claim, the case reserve that is carried on the Company's books (the financial reserve) is either an average reserve (determined by the loss reserving area) or an adjuster-set reserve.
+ 
+All open claims estimated to cost the Company less than a predetermined dollar threshold (explained below) are assigned an average reserve, regardless of the individual claim characteristics. When a claim is first recorded by the Company, there may not be enough known about the claim for an adjuster to determine its severity. The use of average reserves allows claims personnel to concentrate their efforts on adjusting claims rather than merely accounting for them. Also, average reserves are not as affected by changes in claims processes, and they provide more accurate financial reporting in aggregate.
+Average Reserves:
+The loss reserving department determines the average reserves, which vary by segment. In the months that a segment is not reviewed, an inflation factor is applied to the average reserves. The inflation factor is generally based upon our projected severity trend from the segment's most recent actuarial analysis.
+Once an average reserve is assigned to a claim, we monitor the age of a claim. The age of a claim is defined as the length of time from the accident date to the current accounting date. More severe bodily injury claims tend to remain open longer than less severe claims and tend to be more expensive due to litigation, medical treatments, etc. In order to recognize this cost differential, the average reserve increases as the claim ages. However, the averages for property damage, comprehensive, and collision claims are not increased for age since they tend to settle more quickly, and the length of time since the accident is not normally related to their severity.
+Our objective is to use the average reserve for claims with a more predictable level of severity. However, the ultimate cost for claims above a predetermined dollar threshold (which may differ by coverage) can vary significantly depending on individual claim characteristics. For claims above the threshold, our financial reserves include the adjuster-set reserve rather than the average reserve.
+Adjuster-Set Reserves:
+The adjuster-set reserves more accurately estimate the ultimate liability for claims in excess of the threshold because the adjusters have typically spent a great deal of time on these larger claims and understand their unique characteristics. While only about 2.5% of our total open claim count for personal auto bodily injury is above the current threshold, these claims represent about 25% of our total personal auto bodily injury case reserve liability.
+We carry additional needed case reserves (ANCR) to cover expected future emergence and development for the loss layer above the threshold. These are actuarially determined reserves that are allocated across segments using ANCR factors which are mechanically applied to each claim. This process is not intended to improve the accuracy of individual claims, but to establish the total needed reserves for this loss layer.
+Additional Needed Case Reserves (ANCR):
+ANCR factors vary by segment and by age, and are applied to bodily injury and uninsured/underinsured motorist bodily injury reserve estimates in excess of the applicable threshold. These factors decrease as the claims age because the need for this reserve diminishes as more claims emerge into this layer and the adjusters have more information regarding their value. We determine the ANCR during our segment review process by analyzing the development of claims over the threshold.
+: Exhibits 5 and 6 illustrate the life of a hypothetical auto bodily injury claim. When the claim was originally recorded, we assigned the actuarially determined average reserve of $5,829. As the claim aged from the time it was recorded in February through the end of September, the average reserve changed due to inflation, results of actuarial reserve reviews and aging. Over this same period of time, the adjuster increased the reserve estimate (red line) multiple times as more information was obtained about the claim. When the adjuster's estimate multiplied by the ANCR factor exceeded the sample threshold of $75,000, the financial reserve changed from an average reserve to an adjuster-set reserve.
+Example
+ 
+Exhibit 5
+ Age = [(# days since accident) / (30 days)] rounded up to the next whole number
+ - 
+ Effective threshold is (75,000) / (ANCR factor for age of claim)
+ - 
+Exhibit 6
+ 
+Incurred But Not Recorded (IBNR) Reserves
+We establish a reserve for claims that have occurred, but have not been reported by the claimants or recorded by the Company as of the accounting date. Incurred But Not Recorded (IBNR) Reserves are estimates of the amounts needed to pay these claims. At year-end 2006, the loss IBNR reserves were 16% of our total carried reserves.
+The IBNR reserve need is evaluated by the same segmentation process used for case reserves. We perform this analysis by sorting historical claims according to the time lag between the accident dates and the dates that these claims were recorded by the Company. The case study in Section VII of the shows a detailed IBNR reserve analysis.
+Appendix
+Late reported claims are evaluated to determine the estimated ultimate losses for each accident quarter within each lag period. For example, "lag 1" consists of claims for which the accidents occurred during one quarter but were not recorded until the next quarter. Similarly, "lag 2" consists of all claims for which the accidents occurred during one quarter but were recorded by the Company two quarters later. "Lag 0" claims were recorded in the same quarter they occurred.
+Exhibit 7 below shows our approximate percent of recorded features by record quarter lag for personal auto bodily injury. This exhibit shows that about 84% of our features are reported by the claimant and recorded in our systems by the end of the quarter in which they occurred. However, about 16% of the features have not been recorded by the end of the accident quarter and we therefore need to estimate IBNR reserves for these claims.
+ 
+ 
+The reserve analysis develops estimated IBNR factors based on the needed reserves by age divided by the earned premium for each age group. The carried IBNR reserves are calculated at the end of each month (by segment) by applying these IBNR factors to trailing periods of earned premium for the past three to four years. For most coverages the largest IBNR factors are applied to the premium in the most recent accident quarters because of their greater expected IBNR reserve need. The IBNR reserves increase with our premium volume, allowing these reserves to keep up with growth and inflation.
+Loss Adjustment Expense (LAE) Reserves
+In addition to loss payments (which indemnify claimants), the Company incurs expenses in the process of settling claims. Therefore, we need to estimate a reserve liability for loss adjustment expenses (LAE). At year-end 2006, the LAE reserves were 20% of our total carried loss and LAE reserves. There are two categories of LAE: Defense and Cost Containment (DCC) and Adjusting & Other (A&O).
+Similar to loss reserves, we carry case reserves for DCC and A&O expenses by applying selected averages to each open feature. Also, for DCC we carry the adjuster-set reserve if it exceeds a certain threshold. Similar to loss IBNR reserves, carried IBNR reserves for DCC and A&O expenses are calculated as a percentage of the trailing earned premium for each respective segment.
+We review the LAE reserves by segment twice per year. Analysis of DCC and A&O expense reserves are performed independently of each other. In 2006, we independently reviewed every state's personal auto bodily injury LAE reserves. Section VIII of the contains a case study of our LAE reserve analysis.
+Appendix
+includes all defense, litigation and medical cost containment expenses, whether internal or external to the Company. We evaluate the total indicated DCC expense reserve need by sorting and analyzing these expenses by accident date, similar to how we review the needed loss reserves. Concurrently, the DCC expenses are split into "Attorney and Legal" and "Medical and Other" components and analyzed separately.
+Defense and Cost Containment
+includes all other claims adjusting expenses, whether internal or external to the Company. A&O consists of fees, salaries and overhead expenses of those involved in a claim adjusting function, as well as other related expenses incurred in determination of coverage. We evaluate our total indicated A&O reserve need by comparing the ratios of adjusting and other expense payments with loss payments over the past several calendar quarters. Data is analyzed by calendar quarter as we feel the activity and cost in adjusting claims will be consistent with past calendar period activities regardless of the accident date of the loss. The selected ratios are applied to the loss reserves and then modified to derive indicated A&O expense reserves.
+Adjusting & Other
+ 
+Salvage and Subrogation
+Accounting principles generally accepted in the United States of America (GAAP) require that loss reserves be stated net of anticipated salvage and subrogation recoveries. Statutory accounting principles (SAP) allow reserves to be reduced by the expected recovery amounts, but do not require it. We report our SAP loss reserves net of anticipated salvage and subrogation recoveries.
+Progressive generally assumes the title to a vehicle when it is declared a total loss. We then sell the vehicle to a salvage dealer, and these proceeds are referred to as salvage recovery. Salvage is most relevant in analyzing the needed reserves for collision claims.
+Salvage:
+When a Progressive policyholder is involved in an accident in which the other party is at fault or partially at fault, he/she may submit the claim to us. When we pay that claim, we obtain our policyholder's right to recover damages from the at-fault party (usually the at-fault party's insurance company). Subrogation is most relevant for collision (damage to vehicles) and personal injury protection claims in many no-fault states.
+Subrogation:
+As we collect salvage or subrogation from third parties, it reduces our net paid and incurred loss amount for that claim. We analyze our claims data net of these recoveries; therefore our estimated ultimate loss amounts are net of anticipated salvage and subrogation. Since most of our recoveries are realized after claims have been closed, we carry negative IBNR reserves on the Company's books for anticipated salvage and subrogation.
+Involuntary Market Operating Loss Reserves
+Progressive is required by the laws of most states to participate in involuntary market plans. Below we discuss the two major types of involuntary market plans in which we participate.
+: State insurance regulations require us to participate in various assigned risk plans. Applicants who cannot obtain insurance in the voluntary market are assigned proportionately by the volume of written exposures or vehicles among the insurers licensed in that state. Generally, an operating loss is expected on these assignments. Participation requirements in assigned risk plans differ from state to state.
+Private Passenger Assigned Risk Plan
+The reserves that we carry for the assigned risk plans comprised less than one-tenth of one percent of our total net carried reserves at year-end 2006. However, since this is a unique type of exposure, we evaluate it separately.
+The process of determining the assigned risk reserve for a state is as follows:
+ 
+Progressive is also required in most states to share in the operating results of the involuntary commercial auto insurance procedures/plans, generally known as CAIP. Due to the more complex nature of commercial business, these procedures/plans do not assign policies to specific insurance companies. Instead, similar to a Joint Underwriting Association (JUA), they use a small number of carriers to service the business that do not bear underwriting risk. The servicing carriers transfer the insurance risk, or cede 100% of the business, to the state CAIP pools. These pools then retrocede the experience of the plan to all companies in proportion to their share of the commercial automobile voluntary market for each respective state.
+Commercial Auto Insurance Procedure/Plan (CAIP):
+ 
+For loss reserve review purposes, we divide our book of business into smaller groups of data known as segments. A segment is generally defined by a state/product/coverage grouping with reasonably similar loss characteristics. During a reserve review we generally estimate the ultimate loss amounts for the past seven accident years using six different projections. We may use additional techniques if there are wide variations between the six projections or if underlying process changes make those projections less reliable. To estimate the required reserve balance (i.e., unpaid losses) for the segment, we subtract the payments we have already made on claims that occurred during that same period. We change the reserve level for that segment based upon this review.
+In this section we discuss segmentation, and describe the projections we consider in the review. The contains case studies that show more details involved in the segment reviews, including the calculations and the issues involved. However, the application of judgment is a key component of our reserve analysis. This is especially true in a dynamic, growing environment such as we have experienced at Progressive, in which changes in mix of business (e.g., by policy limit and geographic area) can be significant.
+Appendix
+Segmentation of Reserves for Analysis
+Segments are identified to allow us to review reserve needs at the most detailed level our data supports, and provide us with the ability to identify and measure variances and trends in severity and frequency. They also allow us to identify process changes within states/regions, which helps us to understand changes within the underlying data and to reflect them in the reviews. Each segment is required to have enough data to deliver reliable (credible) results. Our objective is to achieve adequacy in the reserve levels with minimal variation for each segment. This enhances the accuracy of our financial reporting, supports the income statements of our business units, and allows us to make better business decisions.
+The projection of frequency for the lines of business we write is usually stable, and actual frequency experienced will tend to vary depending on the change in the mix of classes of drivers we insure. The severity experienced by the Company is more difficult to estimate, and it is affected by changes in underlying costs, such as medical costs, jury verdicts, etc. In addition, severity will vary relative to the change in the Company's mix of business by policy limit.
+Internal and external considerations are better understood at the state level than at a more macro countrywide level. Internal considerations that are process related may result from changes in the claims organization's activities including claim closure rates, the number of claims that are closed without payment, and the level of estimated needed case reserves by claim. External considerations include the litigation environment, regulative and legislative actions, state-by-state changes in medical costs, and the availability of services to resolve claims.
+Many states are large enough that we can look at the data by state, while other states are so large that we can segment the data into regions within the state. For states in which the underlying data is not large enough to be credible, we may combine states with similar loss characteristics and review them together. However, due to our volume, we now review each state separately for personal auto bodily injury loss reserves. Even though a few of these states may be considered too small to have fully credible data, we feel there is value in studying and interpreting each individual state's trends and development. Exhibit 8 is a map showing how we currently segment our loss reserve reviews for personal auto bodily injury. We continually look at ways to further segment our reviews to add value to our process.
+ 
+With respect to personal auto bodily injury coverage, we analyze loss data related to policies with higher limits (greater than or equal to $100,000 per person) separately from loss data related to policies with lower limits (less than $100,000 per person). It is valuable to analyze these two groups of segments, as they tend to have different severity, frequency and loss development patterns. We also split the data by policy limit for our commercial auto bodily injury analyses, but that split is at the $500,000 policy limit. In addition, we separately analyze specialty truck types from light local truck types. Each identified segment is reviewed annually, semiannually or quarterly depending on the size, the volatility, and other unique aspects of the individual segment.
+Loss adjustment expense (LAE) reserves are analyzed at a level of segmentation using many of the same considerations as loss reserves. We now review each state separately for personal auto bodily injury LAE reserves. Since the volume of LAE reserves is much less than that of loss reserves, we combine some of the states for other coverages' LAE reviews. This produces more credible results. All LAE segments are evaluated at least once per year. We have enhanced our segmentation of LAE reserve reviews each year, and Section V includes an explanation of the 2006 enhancements.
+Projections of Ultimate Losses
+Our standard procedures are to review the results of six different projections in order to determine if a reserve change is required. Three of the six projections use paid data and the other three projections use incurred data (payments plus reserves). There are strengths and weaknesses to each of the projections. In the event of a wide variation between results generated by the different projections, we further analyze the data using additional techniques.
+The three paid projections  amount paid, average paid and Bornhuetter-Ferguson paid  all use paid loss data. The paid projections estimate growth and development of claims in an accident period by looking at the paid development of earlier accident periods. This assumes that past paid loss development is a predictor of future paid loss development. The primary strength of using paid data is that it removes the potential for distortions that may be created by including estimated data. The drawback is that it is more difficult to accurately project ultimate losses in the most recent periods under review. For example, with longer-tailed lines of insurance such as
+ 
+bodily injury, the early development periods are more volatile because a large proportion of the payments are made later, as was illustrated in Exhibit 1 of Section II. Accurate paid projections also depend heavily on consistent claims closure or settlement practices. If the closure rate changes, the paid projections could be misleading. In addition, shifts in mix of business (e.g., changes by policy limit) are not as readily identified in paid development as in incurred development.
+The three incurred projections  amount incurred, average incurred and Bornhuetter-Ferguson incurred  use paid losses plus case loss reserves in each accident period. They assume that historical incurred loss development will be predictive of our future incurred loss development. The primary strength of using incurred data is that we can make use of reserve estimates for open claims. These estimates are based on the judgment of claims adjusters in addition to our prior actuarial reviews. This is especially critical when estimating ultimate losses for longer-tailed claims such as bodily injury. The drawback of using incurred data for projection is that it depends heavily on consistent adjuster reserve estimates. The incurred projections could be distorted if the average adjuster reserve adequacy fluctuates over time.
+We identify changes in closure rates and average adjuster reserve levels through our segmentation and also through discussions with management. We adjust for these changes in our projections of losses. The case study in Section VII of the includes more thorough explanations of how changes in the closure rate affect paid loss development, and how changes in average adjuster reserves affect incurred loss development.
+Appendix
+The six standard projections we use to estimate ultimate losses are:
+ 
+We develop and maintain our loss and loss adjustment expense reserve analysis models internally, giving us the flexibility to incorporate enhancements into our analysis and communication process regularly. We make many minor enhancements to our process throughout the year. However, the major enhancements made in 2006 are summarized in the list below and described in more detail following this list:
+Previously, carried IBNR reserves for DCC and A&O expenses were calculated as a percentage of the carried IBNR loss reserves for each respective segment. Thus, any changes made to held IBNR loss reserves would impact the held IBNR LAE reserves. During 2006, we converted the carried IBNR LAE reserves to instead be calculated as a percentage of the trailing earned premium for each respective segment, similar to the algorithm for calculating carried IBNR loss reserves.
+Calculation of carried LAE IBNR reserves
+ Our segmentation process is described in Section IV, and we continually look at ways to enhance our segmentation so the reserves carried more accurately reflect the experience of each segment.
+Additional segmentation
+In 2006 we enhanced segmentation in the following ways:
+Our segment count increased from about 550 in 2005 to about 580 in 2006. Since we review many segments multiple times during the year, we completed about 1,255 segment reviews during 2006, compared with the 1,150 reviews completed during 2005.
+ 
+Section VI  Terms and Definitions
+Losses for each accident are assigned to the period in which the accident occurred. Accident periods used in our analysis are generally three months (accident quarter), six months (accident semester), or twelve months (accident year). Payments and reserve changes, regardless of when they are made, are assigned to that same period in which the accident occurred. Therefore, accident period results will change over time as the losses develop.
+Accident period losses:
+See Case reserves.
+Additional Needed Case Reserves (ANCR):
+See Case reserves.
+Adjuster-set reserves:
+A component of loss adjustment expense. A&O expenses include all claims adjusting expenses (whether internal or external to the Company) that are not included in Defense and Cost Containment (DCC). This category includes fees and salaries of those involved in a claim adjusting function, and other related expenses incurred in determination of coverage.
+Adjusting & Other (A&O) expense:
+People unable to obtain auto insurance in the voluntary market apply for coverage in the state automobile plan. In most cases, the insurance coverage is not actually provided by the state but instead is "assigned" to an insurance company. Each insurance company must accept a proportionate share of these risks.
+Assigned Risk:
+: See Case reserves.
+Average reserves
+Legal responsibility arising from injury or death to another person. In most states, this is a mandatory coverage. Each state mandates the minimum required limit. BI coverage pays when our insured is liable for an accident in which another party is injured.
+Bodily Injury (BI) liability coverage:
+The "BF" method is an actuarial methodology that smoothes the projected ultimate losses between a pure incurred or paid development method and an expected loss ratio (or expected pure premium) method.
+Bornhuetter-Ferguson method:
+Payments and reserve changes which are recorded in the Company's financial system during the period in question, without regard to the period in which the accident occurred or was recorded. Calendar period results do not change after the end of the period, even as new claim information develops.
+Calendar period losses:
+Estimates of amounts required to settle claims that have already been reported but have not yet been fully paid. Case reserves represent the largest portion of the reserves for automobile insurance products.
+Case reserves:
+ 
+A term applied to an incident, storm or series of related incidents resulting in a significant number of claims with a combined cost totaling more than $25 million in property damage for the insurance industry.
+Catastrophe:
+To transfer liability, or a portion of it, in connection with a risk from the original or primary insurer to another entity (e.g. a reinsurance company or JUA).
+Cede:
+A demand for payment by an insured or an alleged third party under the terms and conditions of an insurance contract.
+Claim:
+Usually refers to one who makes a claim.
+Claimant:
+A claim that was reported, did not require a loss payment, and is now closed. Note that there can be loss adjustment expenses for a CWP claim.
+Closed Without Payment (CWP):
+The number of claims from a specific accident period which are closed with payment at a specific evaluation date, divided by the estimated ultimate number of claims to be paid for that accident period.
+Closure rate:
+A coverage of the automobile insurance policy that indemnifies the insured when his/her automobile is damaged due to physical contact with another object (except a bird or animal), or due to upset (e.g., overturning).
+Collision coverage:
+The sum of the loss and loss adjustment expense ratio and the expense ratio. This represents the percentage of each premium dollar an insurer spends on claims and expenses. A combined ratio less than 100% indicates an underwriting profit, while a combined ratio in excess of 100% indicates an underwriting loss.
+Combined ratio:
+A coverage of the automobile insurance policy that pays for damages to the insured's vehicle due to any cause (except collision), including damage due to windstorm, hail, theft, falling objects, explosion, riot, glass breakage and other causes of loss.
+Comprehensive coverage:
+A statistical measure of the ability to infer generalizations from a data sample. Credibility increases as sample size increases or variability within the sample decreases.
+Credibility:
+Monthly internal management reports that decompose the financial case reserve changes into categories that explain the reasons for the changes.
+Decomposition (Decomp) reports:
+: A component of loss adjustment expense. DCC includes expenses related to defense, litigation and medical cost containment whether internal or external to the Company. DCC expenses include but are not limited to accident investigation, surveillance, litigation management, and fees of attorneys and others if working in defense of a claim.
+Defense and Cost Containment (DCC) expense
+Change in the estimated or actual losses or reserves over subsequent evaluations. When compared to expectations or prior estimates, it is referred to as either
+Development:
+ 
+favorable or unfavorable development, based on whether the estimate has decreased or increased.
+The quotient of the paid or incurred value for an accident or record period evaluated at time "t" divided by the value for that same accident or record period evaluated at time "t-1."
+Development factor:
+The cumulative or incremental values or factors for all accident or record periods being evaluated as of a common date. If we are evaluating accident semester paid losses at 6-month intervals, then the last diagonal of the paid loss triangle is made up of the cumulative paid loss amounts for each accident semester as of the most recent evaluation date. The development of that last diagonal would be the paid losses during the last six calendar months for each accident semester. (Also see Triangle).
+Diagonal:
+An exposure unit that is the basic rating unit underlying an auto insurance premium. One automobile insured for a period of twelve months is one earned car year.
+Earned car year:
+That part of the premium proportional to the segment of time a policy has been in force. It is the premium for protection actually provided during the experience period.
+Earned premium:
+Generally used in the context of IBNR reserves, it refers to the recording of claims (or dollar amount of the claims) after the date of the accident, usually into at least the next quarterly or annual period. For example, if an accident occurred in October 2002 and it was recorded in February 2003, it was part of the estimate of IBNR at year-end 2002, and it emerged in the first quarter of 2003.
+Emergence:
+The sum of all underwriting and operational expenses divided by premium. These expenses include such items as commission, acquisition expenses, general expenses, and taxes, but not loss adjustment expenses.
+Expense ratio:
+A measure of the risk of loss and the basic rating unit underlying an insurance premium. The unit of exposure will vary based upon the characteristics of the insurance coverage involved. For automobile insurance, one automobile insured for a period of twelve months is one earned car year or one exposure.
+Exposure:
+The smallest divisible part of a claim. This is a loss on one coverage for one person. Often a claim will involve multiple features. It can involve multiple coverages, such as bodily injury (BI), property damage (PD), and Collision; and/or it can involve multiple claimants for the same coverage (e.g., two injured parties).
+Feature:
+See Case reserves.
+Financial reserves:
+Number of features divided by exposure count. If one exposure is defined as one earned car year, then frequency is a measure of the proportion of insureds that have a claim in a year.
+Frequency:
+These are estimates at a given evaluation date of amounts that will be needed to settle claims that have already occurred but have not yet been recorded by the Company.
+Incurred But Not Recorded (IBNR) reserves:
+The sum of payments and reserve changes for claims.
+Incurred losses:
+An actuarial estimate, based upon analysis of the data.
+Indication:
+ 
+Generally used in the context of IBNR reserves, it refers to the period of time from the date of the accident or occurrence to the date the claim is recorded on the Company's books. The data is grouped into quarterly lag periods for analysis of IBNR reserves.
+Lag:
+Commercial vehicles that generally have a gross vehicle weight under 26,000 pounds. These vehicles are used in the insured's business but are not the primary source of revenue for their business.
+Light Local commercial auto vehicles:
+: Expenses related to claim settlement. Total Loss Adjustment Expenses (LAE) = [Defense and Cost Containment (DCC) expenses] + [Adjusting & Other (A&O) expenses]
+Loss Adjustment Expenses (LAE)
+(Incurred loss ratio): Incurred losses divided by earned premium.
+Loss ratio
+Net indicates that we have deducted the expected reinsurance recoverable from the sum of case and IBNR reserves. It may also refer to reserves that have been reduced for expected salvage and subrogation recoveries.
+Net loss reserves:
+Payments for claims.
+Paid losses:
+Variables that determine the characteristics or behavior of a statistical model and can be estimated by calculations from sample data. For example, the parameters of frequency and severity are estimated in the loss reserve analysis model.
+Parameters:
+Coverage in which an insurer pays, within specified limits, the medical and funeral expenses, work loss benefits and essential services of the insured, others in his vehicles and pedestrians struck by him. The basic coverage implemented under no-fault automobile statutes, which vary by state.
+Personal Injury Protection (PIP) coverage:
+Damage to the insured vehicle, which includes the comprehensive and collision coverages.
+Physical damage:
+A coverage protecting the legal liability of the policyholder for damage to, or destruction of, property of others in an auto accident. The coverage pays for damage to the other vehicles, and structures such as buildings, telephone poles and fences.
+Property Damage (PD) coverage:
+Loss dollars divided by exposure count. Pure premium is also equal to frequency times severity. The pure premium is equivalent to the loss component of the full policy premium.
+Pure premium:
+Losses are assigned to the period in which the accident is recorded on the Company's financial records. Record periods used in our analysis are generally three months (record quarter), six months (record semester), or twelve months (record year). Payments and reserve changes, regardless of when they are made, are assigned to that same period in which the accident was recorded. As a result, record period results will change over time as the losses develop, i.e., as the estimates of losses change due to payments and reserve changes for all accidents that were recorded during that period.
+Record period losses:
+: A claim that was closed (with or without payment) but reopened again at a later date due to the discovery of additional information. We reserve for future reopened claims as IBNR.
+Reopened claim
+Estimates of the unpaid portion of what the Company ultimately expects to pay out for losses and loss adjustment expenses on claims that occurred by the accounting date, whether or not those claims have been reported to the Company.
+Reserves:
+ 
+The residual value of property in which an insurance company secures an ownership interest as a result of paying a claim for total loss or damage based on the true value of the property in its undamaged state or before the loss occurred. Anticipated salvage on closed claims is included as negative IBNR reserves.
+Salvage:
+Generally, a state/product/coverage combination with reasonably similar loss characteristics that is grouped together when assessing reserve adequacy.
+Segment:
+Loss dollars divided by number of features. This indicates the dollar amount of the average feature.
+Severity:
+Commercial vehicles that generally have a gross vehicle weight of at least 26,000 pounds. These include tow trucks and local cartage (e.g. delivery vans, box trucks, dump trucks and flatbeds). These vehicles are used in the insured's business and are the primary source of revenue for their business.
+Specialty commercial auto vehicles:
+An insurance company, upon payment of a loss to the insured, is entitled to the insured's legal and equitable rights against third parties. These rights are only those related to the loss, and the company is only entitled to the extent of the loss payment. Reserves for the future recoveries we expect to recover through subrogation are included as negative IBNR reserves.
+Subrogation:
+The point above which the adjuster's estimate of a claim is carried in our financial case reserves, versus an average reserve being assigned by the system.
+Threshold:
+Exponential fitted trends tell us the estimated average annual change in severity, frequency, pure premium, or average earned premium by fitting an exponential curve to the selected values. These can use any number of data points. We generally use two-year or four-year fitted trends.
+Trend (exponential fit):
+The triangle is a tool used by actuaries to show how estimates of incurred and paid-to-date amounts have changed or developed over time. Usually, the evaluation periods are columns organized from left to right, and the data periods are rows organized from top to bottom. The oldest data periods have been evaluated the most times, while the more recent data periods have been evaluated the least amount of times. Thus, the historical data forms a triangular shape.
+Triangle:
+The final selected amount, count, or ratio that we estimate by analyzing the data. For example, the selected ultimate loss amount for an accident period represents our estimate of the total cost of all claims for that accident period after they have all been paid and closed.
+Ultimate:
+Percentage of features for which we incur expenses for defense and cost containment.
+Utilization (DCC utilization):
+The total amount charged to an insured for a policy during its entire effective period.
+Written premium:
+ 
+ 
+ 
+ 
+ 
+Copyright  Progressive Casualty Insurance Company. All Rights Reserved.
+ 
+ 
+Based upon our monthly segment reviews, we may revise any or all of the following parameters in order to achieve the desired changes to our reserves:
+In this section, we present an example of a loss reserve review for a sample segment, and it does not include loss adjustment expense (LAE). As discussed previously, most segments are defined as a state/product/coverage grouping with reasonably similar loss characteristics.
+Our intent is to illustrate and discuss many of the issues that we consider during an analysis. The calculations involved in the process will also be explained.
+Note that the data in this example is not from any specific segment and any similarity to a specific segment is coincidental. Also, the investigations that are undertaken, the conclusions that are drawn, and the selections that are made in this case study are not necessarily the same as those that would be made in an actual review. The results of this case study are also not intended to represent the actual results of the Company.
+This case study will illustrate how we estimate the adequacy of our loss reserves by reviewing loss data organized in three different ways:
+By definition, the following identities are always true as of the designated evaluation date:
+Carried reserves and paid losses are known statistics and reconcile with our financial records. However, we use judgment in the estimation of the ultimate losses. As stated above, we make these estimations by accident period, record period, and record within accident period. Our job is to determine how losses will develop in the future using past development as a key indicator. In order to make reasonable selections, we look at several parameters and also consider the business issues that underlie the data.
+ 
+We produce several exhibits to summarize our reviews, and they are also used in our discussions with management. Some of the key exhibits are presented on the next several pages. Following that, we provide an overview of each exhibit.
+    (3 pages) 
+Exhibit A
+Accident Period Analysis Exhibit B
+Accident Period Average Incurred Loss Development Exhibit C
+Record Period Analysis Exhibit D
+Summary of Estimated IBNR Exhibit E
+IBNR Analysis
+In our exhibits and explanations, we may use the terms "claim" and "feature" interchangeably. However, the Progressive definition of "feature" is the smallest divisible part of a claim, i.e., it is a loss on one coverage for one person, so one claim can have multiple features. Even though we may generically refer to "claims" in our discussion, our analysis is actually done at the "feature" level. In addition, the term "counts" generally means "number of features."
+Note that rounding in the exhibits as well as the order of calculation may make some of the figures in the case study appear slightly out of balance.
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit A  Accident Period Analysis
+     This exhibit summarizes our accident period analysis for this segment, so the claims are sorted and analyzed by accident date. We use 6-month accident periods (i.e. accident semesters) for this analysis. Each accident semester represents claims that occurred during the 6-month period ending at the end of the designated month (in the left-hand column of the exhibit).
+     An accident period analysis measures the adequacy of our total reserves (case + IBNR). In other words, the estimated ultimate losses for each accident period include losses for claims that have already been reported to the Company PLUS losses for claims that have not yet been reported.
+     The information on Exhibit A is summarized as follows:
+ 
+ 
+The following chart contains columns (1) through (6) of Exhibit A, and will be explained in more detail below:
+We use six sets of projections in most of our loss reserve segment analyses. There are other approaches built into our model that we use occasionally, when conditions warrant their use. However, we typically arrive at our indications using projections from: paid losses; average paid losses; incurred losses; average incurred losses; and Bornhuetter-Ferguson (BF) expected loss ratio method using both paid and incurred loss development. Exhibit B goes into more detail regarding our selection process using the average incurred loss projection. (Thus, there is a box around column (5)). However, this discussion will focus more on the merits of each type of projection, the thought-processes behind the projections and the relationships between various components.
+Note that the paid, average paid, incurred and average incurred projections all use a similar actuarial technique to estimate ultimate losses. As illustrated in Exhibit B, we organize the data into a triangular format and project ultimate values by selecting development factors for each evaluation interval based upon historical patterns and judgment.
+Estimated ultimate losses are projected for the past 7 accident years (by accident semester) for each of the six projections. These ultimate losses are shown on the exhibit for each of the past 8 accident semesters (4 years), and then the prior 3 accident years combined. Required reserves
+ 
+and reserve adequacy are then calculated (and shown in bold print below the total ultimate losses) for each projection by using the identities stated at the beginning of this section:
+Below the reserve adequacy for each projection, we show the adequacy that would have resulted from the application of three different types of default factor selections for each projection. Exhibit B shows more details behind these calculations, and Exhibit A summarizes the results. "Average Last 4" is the adequacy that would result if we selected future loss development factors equal to the average of the last 4 development factors at each development point. "2 to Last Diagonal" and "Last Diagonal" are the adequacies that would result if we selected future loss development factors equal to those on each of the last 2 diagonals of the development factor triangle. The last diagonal represents the development (payments and/or adjuster case reserve changes) during the most recent 6 calendar months for each accident semester. The second-last diagonal represents the development during the 6-month period that ended 6 months ago.
+nd
+When we make our projections of ultimate losses, we need to consider trends in the frequency and severity of claims and consider the underlying influences on the historical changes in frequency and severity. The dollars of paid and incurred losses would be expected to increase in magnitude as our premium dollars and exposures increase. In the development of paid and incurred loss dollars, we observe these increases over time but do not necessarily know whether they are due to increases in severity of claims, increases in the volume of business, or a mixture of both. On the other hand, by looking at the development of average paid and average incurred losses, we are able to focus upon changes in severity over time. Therefore, we tend to rely more heavily on the development of average paid and average incurred losses (summarized in columns (2) and (5)) than that of the pure paid and incurred loss dollars (summarized in columns (1) and (4)).
+[Paid and Incurred] Loss Development vs. Average [Paid and Incurred] Loss Development:
+The ultimate losses for the Average Incurred Projection (column (5) of exhibit A) are calculated for each accident semester as:
+The ultimate average incurred severities are derived from the projections of average incurred losses, as shown in Exhibit B. The indicated ultimate counts are selected from the 4 projections of counts, as described later in this section. Similar calculations are performed for the average paid projection. These calculations are illustrated in the following chart, an excerpt from the relevant columns of Exhibit A:
+ 
+ The development of paid losses is influenced by the rate at which claims are recorded, the rate at which the claims are paid and settled, and the severity of the claims. Injury claims (BI, PIP, and UMBI) tend to have more variability in development and a longer payment period than property/physical damage claims (comprehensive, collision, and property damage).
+Paid (and Average Paid) Losses
+The recording of claims can be influenced by the time it takes for the claimant to report the claim and the time it takes for the Company to record the claim. The time it takes for the claimant to report the claim can be influenced by external forces, such as laws and regulations in the state, the legal environment, and the economy. The time it takes for the Company to record the claim can be influenced by changes in claim processing.
+Some or all of the same items as mentioned for claim reporting and recording can also influence the rate at which claims are paid and settled. In addition, the rate of payment of claims tends to be related to the severity of claims. Smaller claims tend to settle more quickly and larger claims tend to settle more slowly. As a result of this relationship, we consider the closure rate when making our judgments regarding paid (and average paid) loss development.
+     As stated above:
+We look at this ratio to see if there is a change in the rate of claim closure, which may impact the paid loss development (historically and in the future). Column (13) of Exhibit A shows the closure rate at the first evaluation point for each accident period. We also look at further development points for the same reason, but it is the first development point (i.e., 6 months) that tends to be the most informative, since the closure rate tends to vary more when claims are less mature. Greater variability in the closure rate causes greater distortions in the development of paid (and average paid) losses.
+ 
+The following section from Exhibit A (as well as the underlying data) illustrates this point:
+For this segment, the closure rate has been decreasing for the past 4 consecutive accident semesters. This will tend to distort the predictive value of our historical paid (and average paid) loss development. The current paid losses will therefore not be expected to develop similarly to the historical paid losses. If a standard paid development projection is applied blindly, the resulting indication will likely not be reasonable.
+Assuming that the lower severity claims are settled first, the trend seen in the closure rate would imply that the claims that have been paid in the most recent accident periods have a lower average severity (at the 6-month evaluation point) than those in the past. (See the example below for an illustration of this point). In addition, the future development of these losses may be understated if historical development patterns are applied. Therefore, the ultimate losses may be understated, the required reserves may be understated, and the reserve adequacy may be overstated.
+There is an actuarial approach known as the Berquist-Sherman method (as described in a paper co-authored by James Berquist and Richard Sherman), which can be used to adjust historical paid losses for these distortions. A standard application of this methodology assumes that the current closure rate would apply going forward. Historical paid losses would be adjusted to reflect the development that would have been expected to occur if the current closure rates had been relevant in the past. We may utilize an adaptation of this methodology for some segments, but we would also supplement it with judgment.
+The closure rate pattern is discussed with our claims management organization to determine what may be causing it to change (e.g., process changes, staffing changes, or change in the volume of claims). We consider whether the trend is expected to continue or reverse, or whether we are now at the level that is expected to remain consistent. We consider this information in our selections for future development of paid (and average paid) losses.
+With this specific segment, some of the hypotheses stated above are not necessarily true. In fact, application of the paid and average paid development factors from the most recent 6-month period (i.e., the result of the "last diagonal," as shown at the bottom of columns (1) and (2) of Exhibit A) would result in lower reserve adequacy.
+Upon further review, we conclude that the vast majority of the reserve inadequacy that results from the last diagonal of the paid projections is due to the most recent accident semester. For this period, even though the closure rate is lower than history, the average paid loss is higher
+ 
+than history. This is a time when it is especially helpful to discuss these issues with management, to get additional information that may help in the analysis. It is quite possible that there are process changes or specific claims that may help to explain this development and help us to make better judgments. This type of volatility in paid development also indicates that it may be preferable to give more credibility to the incurred projections in making our final selections of indicated ultimate losses.
+ Incurred losses that we use in our analysis consist of paid losses plus adjuster-set case reserves. Recall from Section III (Types of Reserves) that the case reserve amount carried on the Company's financial records for each open claim is the average reserve if it is below the threshold, or the adjuster-set reserve if it is greater than or equal to the threshold. However, when we analyze the development of incurred losses in order to make our projections, it is more meaningful to use the adjuster estimates (when available) for all claims, regardless of amount.
+Incurred (and Average Incurred) Losses
+When a claim is reported, the case reserve is set according to the average as determined by the actuarial reviews. However, when the adjuster has enough information about the claim to make a reasonable estimate of its value, the adjuster may enter an estimate of its ultimate cost into the claims system. The adjuster then revises this amount when additional information is known about the claim. These adjustments can be done any time until the claim is settled.
+It is appropriate for the financial records to carry the average amount (as long as it is below the threshold), since we have found that the average amounts are reasonably accurate at aggregate levels. However, in order for the actuarial analysis of the claim development to consider all of the information available about the development of claims, it is appropriate to use the adjuster estimates (whether above or below the threshold) for this analysis.
+Since incurred losses include case reserves on each claim, each claim carries an incurred loss estimate as soon as it is reported. Also, case reserves are adjusted whenever additional information is known about the claim. For these reasons, the incurred (and average incurred) losses are usually more reliable than the paid (and average paid) losses for projection of ultimate losses. We feel this is especially true when we have volatile closure rates (and therefore volatile paid loss development), as we do with this segment.
+Since paid losses are a component of incurred losses, the same processes and forces influence the development of incurred losses. However, the case reserve estimation that is added to the paid loss amounts helps to mitigate some of the distortions causing incurred loss development to normally be more stable than paid loss development. At the same time, the case reserve estimation adds another type of uncertainty to the process. As with paid losses, injury claims (BI, PIP, and UMBI) will tend to have more variability in development and a longer development period than property/physical damage claims (comprehensive, collision, and property damage). Since injury claims often involve lawsuits, those claims are more difficult for the adjusters to make accurate estimates of the ultimate amount needed to fully settle the claim.
+If the claim adjusting process and external influences were the same in every state, and if there were no changes in processes, personnel, or external forces over time, then projection of incurred losses would be fairly straightforward. However, change does occur and we need to analyze our case reserving processes in order to make reasonable projections of incurred losses.
+One of the parameters we consider in the analysis is "average adjuster case reservesThis gives us the average values (and changes over time) of the case reserves that are used in our incurred (and average incurred) loss triangles. We expect an inflationary trend over time in the average adjuster case reserves. We also know that the changes we make to the averages in the case tables (per the actuarial reviews) will have an impact on the adjuster reserves used in our incurred triangles. This is because, until the time the adjuster makes an estimate, the adjuster reserve is the average reserve.
+."
+ 
+We consider how much of the average adjuster case reserve amounts (and changes in those amounts) is due to adjuster estimates versus the averages from the tables. At the 6-month development point, approximately 27% of our open BI liability claims for tort states countrywide (those states without no-fault statutes) have adjuster estimates. This percentage varies considerably by state, and tends to be higher for states with no-fault statutes. Also, for a given state, the percentage may change over time (at the same development point). In addition, as claims age, the adjusters will enter estimated reserves on a greater proportion of the open claims. About 45% of our total inventory of open claims in tort states has adjuster estimates. Again, this percentage tends to be higher for states with no-fault statutes.
+We look at this group of parameters to see if there is a change in the adjuster activity that may be affecting the incurred loss development and the incurred severities. Column (12) of Exhibit A shows the average adjuster case reserve at the first evaluation point (i.e., 6 months) for each accident period. We also look at further evaluation points for the same reason, but the first evaluation point tends to be the most informative.
+Earlier, we mentioned that the closure rate influences the average paid severity. Also, note that the closure rate influences the average adjuster case reserve amountThe trend in both the average adjuster case reserve amount and the average paid severity are expected to be in the same direction as the trend in the closure rate. The following example illustrates this point:
+.
+Scenario I: Closure Rate = 50%
+Scenario II: Closure Rate = 25%
+Thus, the decrease in closure rate results in decreased severity of the closed (paid) claims and decreased severity of the open claims (which would be reflected in the average adjuster case reserve amounts).
+ 
+The following excerpt from Exhibit A illustrates this point for this segment:
+This data potentially confirms the hypothesis for the most recent periods, that a decreasing closure rate will lead to decreasing average adjuster case reserves. However, there could also be other reasons for the decrease in these average adjuster case reserve amounts. Several possibilities are as follows:
+We discuss the adjuster reserving patterns with management to determine what may be causing this trend, whether it is expected to continue or reverse, or whether we are now at an expected level. We consider this information in our selections for future development of incurred (and average incurred) losses.
+If adjuster estimates are lower than history for similar claims, we select higher development factors to project ultimate losses. There is also a Berquist-Sherman approach for incurred losses, which can be used to adjust historical incurred losses for changes in the strength of case reserves. A standard application of this approach would adjust the case reserve portion of the incurred losses to a level consistent with a selected trend in the average case reserves. We may utilize this methodology for some segments, and supplement it with judgment.
+The selected reserve adequacies shown in columns (4) and (5) of Exhibit A are lower than those that would result from applying the development factors from the recent diagonals (i.e., the "default" adequacies). This results from our selected factors for the incurred projections being somewhat higher, on average, than those from the recent diagonals because we determined that the development in the recent past (the last few diagonals of the incurred triangles) was more favorable than we expect for the future.
+ 
+ The "BF" method (columns (3) and (6) on exhibit A for Paid and Incurred, respectively) is an actuarial methodology that smoothes the projected ultimate losses between a pure incurred or paid development method and an expected loss ratio method. We usually utilize an estimated expected loss ratio on the four latest accident semesters only. This is because we assume that incurred development is reasonably reliable for periods over 2 years old and the BF method does not add much value beyond that point for our lines of insurance. The expected loss ratio can be based upon an average of the other projections, a historical average, an expected loss ratio used in rate filings and/or judgment. Given changes in growth rate and mix of business, especially the possibility of significant changes in the limits profile (shift to higher policy limits), the expected loss ratios in the more recent periods may vary significantly from historical levels.
+Bornhuetter-Ferguson Method
+The following chart illustrates the calculation for the BF incurred ultimate loss amount for the accident semester ending December 2006. This result is included in column (6) of Exhibit A.
+(column (9))  After consideration of the paid and incurred projections (in columns (1) through (6)) and all of the issues involved in those selections, we make our indicated ultimate loss selections for each accident semester. For this segment, we determined that the incurred projections are more reliable than the paid projections. Therefore, our selected ultimate losses are the average of the ultimate loss amounts from the three incurred projections.
+Indicated Ultimate Losses
+Sometimes, we may judgmentally select ultimate loss amounts for some of the periods (usually the most recent periods) that are not based directly upon the six standard projections. It may be that the projected loss amount from the standard methods does not lead to a reasonable ultimate severity, pure premium and/or loss ratio. We would normally expect severity and pure premium to have trends that reasonably reflect internal and external trends in loss costs and inflation. These trends (as well as the frequency trend) are discussed with product management and pricing to verify the reasonableness of our assumptions. We do not necessarily expect to match their selected trends, but management should understand the reasons for the differences. We also expect the loss ratio to be somewhat level, other than changes due to business operations, rate levels or business mix.
+ 
+Consider the following chart, which contains information from Exhibit A:
+If we do not believe that the severity is reasonable, we may select a different ultimate loss amount or ultimate count to make the resulting severity more reasonable. A revised selection would also be tested against the other parameters for reasonableness. For this segment, the ultimate severity (column (21)) for the last accident semester is 5% lower than the previous accident semester, but it is 7% higher than it was two semesters ago (7,182 / 6,709), and the fitted annual trend of about 6.5% appears reasonable. Changes in our mix of business may be causing the volatility in severity over the recent periods. The pure premiums (column (25)) and loss ratios (column (26)) that result from the selected losses also appear to be within a reasonable range, thus we conclude that the ultimate loss selections are reasonable.
+ 
+     The required reserves and reserve adequacy in column (9) are then calculated by using the Identities as follows:
+Therefore, based upon this Accident Period analysis, our total held reserves are adequate by 654.
+ The following chart contains columns (14) through (19) of Exhibit A:
+Claim Counts and Frequency
+The CWP Rate is the percentage of reported claims that are "losed ithout any loss ayment." In column (14), this percentage is calculated at 6 months of development. Column (15) shows our projections of the ultimate CWP rates. Changes in CWP rates are usually due to process changes. In this example, the previous process may have been to open claims as soon as they were reported, without sufficiently verifying whether coverage existed. Under another process, claims may not open until there is additional information regarding the validity of the claim, causing the CWP rate to decrease. Note that this change in process should not affect the closure rate, since the calculation of closure rate excludes claims closed without payment.
+C
+W
+P
+Claim counts shown in columns (16) through (19) represent our projections of estimated ultimate counts of claims with loss payment for each accident semester. These estimates are made using different sets of data for each projection, sorted and analyzed by accident semester.
+ 
+In this example, the projected counts using the paid count projections are lower than those using the incurred and recorded count projections for the most recent accident periods. This appears to be because of the closure rate issues discussed previously. Since the closure rate is lower than in the past, the projections of ultimate counts using paid counts will tend to be understated.
+The following chart shows the selected ultimate incurred counts, which considered the projections, underlying information and judgments discussed above. In this case, we tend to give more weight to the incurred and recorded count projections in our selections, since the changing closure rate is causing distortions in the paid count development. Also shown are the resulting frequencies, the change in frequency from period to period, and the 4-point and 8-point annual fitted exponential trends. These fitted trends represent the average annual change in frequency, considering the historical selections over the past two years (4 points) and four years (8 points).
+Generally, we would expect frequency to have trends that reasonably reflect the Company's mix of business and/or the industry results. For this segment, this appears true, as we believe recent reductions in the frequency are due to a change in our mix of business as well as other external causes affecting the industry. We discuss this with management in order to check the reasonableness of our assumptions. If we do not believe that the frequency is reasonable, we may select a different ultimate count to make the resulting frequency more reasonable. However, changes in the counts may also change the resulting severities.
+ 
+Once we determine that the selected indicated loss amounts, frequencies, severities, pure premiums and loss ratios are what we consider to be reasonable, we are done with this phase of the analysis. However, we may re-visit some of these selections after we have done the record period and IBNR analyses if they result in significantly different conclusions.
+As calculated above in column (9) of Exhibit A, our total held reserves are adequate by 654 based upon this accident period analysis. We may reduce the reserves by that amount, or we may change the reserves by an amount other than that. We base this judgment upon the credibility of the indications in the review. When the credibility of the review is higher, the overall reserve change will be closer to the indicated amount. The credibility is higher if our projections are relatively consistent with each other and the indications are consistent with prior reviews. On the other hand, if our projections are not reasonably consistent, or if there are recent changes in our indications of adequacy or trend, we attach less credibility to the current review.
+The record period and IBNR analyses (shown on Exhibits C, D and E, and discussed later in this section) will determine how the adequacy is distributed by type of reserve, and how we should implement the changes by category.
+ 
+Exhibit B Accident Period Average Incurred Loss Development
+This is one of the standard projections we use in our analysis for most segment reviews. It tends to be the projection that is weighted most heavily in our selections of indicated ultimate losses.
+The top portion of Exhibit B (un-shaded area) contains actual data in a triangular format. The section of Exhibit B shown below includes the actual data from the last 8 accident semesters, evaluated at 6-month intervals (semi-annual). The figures in the cells are projected data points, which will be discussed later. The last column shows ultimate severities that result from the analysis that follows. Note that these ultimate severities are also carried over to column (11) of Exhibit A, as discussed previously.
+Blue Shaded
+Also recall that incurred losses that we use in our analysis are made up of paid losses plus case reserves. The case reserves are the adjuster estimates when they exist, or the averages from the case tables (per the actuarial reviews) when the adjusters have not made estimates.
+The ending month of each accident semester is in the left-hand column. The evaluation points (across the top) represent 6-month periods. The first evaluation point is the same date as the end of each respective accident period. Each successive evaluation point is 6 months later. The last (i.e. most recent, or current) evaluation point for each accident semester is the end of December 2004. This is sometimes referred to as the "" This last diagonal is shown in on the chart above.
+last diagonal.
+Red
+For example, for the accident semester ending December 2005, the loss amount and count data that underlie the average incurred losses (in , with the current evaluation being on the same line in ) in the above chart are as follows:
+Bold Blue
+Red
+ 
+The middle portion of Exhibit B contains the age-to-age development factors, or "link ratios" in a triangular format. Each link ratio represents the development from one evaluation point to the next. For example, in the chart set forth below, the link ratios for the accident semester ending December 2005 are calculated as follows:
+The development (of average incurred losses from the triangle at the top portion of Exhibit B) from evaluation point 1 to evaluation point 2 (or from December 2005 to June 2006) = . This means that, during that 6-month maturity period, the average incurred losses for that accident period increased by 3.4 percent. Similarly, from June 2006 to December 2006 (evaluation point 2 to evaluation point 3), the ratio was or a 5.8 percent increase in the average incurred loss during that interval.
+5,850 / 5,657 = 1.034
+6,189 / 5,850 = 1.058,
+These calculations are done for every pair of data points on the triangle. (Notice that the last diagonal in the chart below is again colored . Also, the second-last diagonal is colored ).
+Red
+Blue
+The purpose of this is to see how the claims have developed historically. This historical information is then used, along with other information and judgment, to estimate how the claims will develop in the future. If the data was "well-behaved," you would expect the development factors to be consistent down each column. This would indicate that claim reporting, reserving and settlement patterns have been consistent throughout history.
+You can see in the following table that the development factors are not consistent for State XYZ. We need to consider other parts of our analysis, as well as other information management can provide to try and understand the reasons for this inconsistent pattern. We use that information to select the factors for estimated future development.
+In order to assist in this process, we average the development factors down each column in several ways. We also look at selections we made at the same intervals from previous reviews. This information is near the bottom of Exhibit B. Significant portions of this are also included in the chart below, along with the selected factors and the resulting ultimate severities.
+ 
+means the arithmetic average of the last 4 factors from that respective development interval (i.e., from the column directly above). This tells us how the average incurred losses have developed over that interval over the past 4 semesters. For example, for the 1-2 development interval,
+Avg. Last 4
+Since we review most segments every 3 months, the Prior Selectionsare shown for the most recent review (@ 3 months), and the review prior to that (@ 6 months). This gives us some perspective on how the actual development compares to our prior estimate of future development, and how our opinions have changed with updated information.
+"
+"
+ 
+The are colored in the chart above. The most significant amount of judgment goes into the selection of the development factor for the first age interval, "1-2". This is because these claims are the least mature. Therefore, there is less information known about them. The selected factor of is higher than the average of the last 4 factors, as well as both of the prior selections for that interval. The actual development factor from the most recent 6 months (i.e., the ) was . This is the highest that it has been in recent history, and the selection shows that we expect this higher development in the future.
+Selected Factors
+green
+1.220
+last diagonal
+1.225
+Recall the discussion of the average adjuster case reserves from Exhibit A. They decreased (at the 6-month evaluation point) for each of the past 3 semesters. Not surprisingly, the average incurred losses have also decreased for each of the past 3 semesters (at the 6-month evaluation point, i.e., the first column). Therefore, we expect the future development on the incurred losses to be higher than recent history.
+The portion in the chart at the beginning of this section (and at the top of Exhibit B) shows how we expect the average incurred losses to develop over time based upon our selected factors. For example, for accident semester ending December 2006, the current evaluation of the average incurred losses () is per claim. When this is multiplied by the selected 1-2 development factor of , the resulting average in the first cell of that accident period is . That is what we project the average incurred losses to be for accident semester December 2006, when they are evaluated 6 months later (at June 2007). Similar calculations are done for each development period and each accident period. This technique is sometimes referred to as "completing the rectangle."
+Blue Shaded
+last diagonal
+5,289
+1.220
+Blue Shaded
+6,453
+When the selected age-to-age development factors are multiplied by each other from the current development point () to the ultimate development (when all claims are expected to be closed), the resulting factor is called the loss development factor (LDF). The ultimate severity for each accident period is then the amount at the , multiplied by the cumulative factor. For example, for the Accident Semester ending December 2006:
+last diagonal
+"Cumulative"
+last diagonal
+Ultimate Severity = 5,289 X 1.355 = 7,165
+As explained previously (in the discussion of Exhibit A), ultimate severities are multiplied by the indicated ultimate counts, to derive the ultimate losses from this projection. Both the ultimate severities and the ultimate losses are carried onto Exhibit A, to be considered in the final selections.
+There is another reasonableness test done on Exhibit B. We compare the adequacies that would be derived from several different selections of future loss development factors. This chart is from the box in the middle of Exhibit B, about 2/3 of the way across the page, and it is also carried onto Exhibit A for reference. It uses the identities as discussed previously:
+Required Reserves = Total Ultimate Losses  Total Paid Losses
+Reserve Adequacy = Held Reserves  Required Reserves
+ 
+According to the final selections of indicated ultimate losses, the loss reserve adequacy is . This calculation is summarized on Exhibit A. The chart shows that, according to our selections from the average incurred development projection, the adequacy would be . We relied upon this projection, as well as the incurred loss development and the incurred Borhuetter-Ferguson method, for our final selections.
+654
+932
+Had we used default selections for the loss development factors from the average incurred development, our adequacy would have been higher. These default adequacies, as shown in the chart, are the result of the factors, as well as the factors from the and the For example, the factors on the are shown in above (on the triangle of Age-to-Age Development Factors). If the current losses would develop at the rate indicated by this set of factors, adequacy would be . Similarly, if the current losses would develop according to the factors along the , as shown in above, adequacy would be .
+Average of the Last 4
+Second-Last Diagonal
+Last Diagonal.
+Last Diagonal
+Red
+3,154
+Second-Last Diagonal
+blue
+1,951
+On average, our selected factors are higher than the default factors, because we expect the average incurred losses to develop at a higher rate in the future than they have in the recent past. Higher selected development factors lead to higher ultimate losses, which lead to higher required reserves, thus a lower reserve adequacy. Therefore, even though our selected adequacy is outside of the range of the default selections, we conclude that it is reasonable, based upon other information we have gained through the analysis.
+ 
+Exhibit C  Record Period Analysis
+This exhibit summarizes our record period analysis for this segment, so the claims are sorted and analyzed by record date. We utilize 6-month record periods (i.e., record semesters), which represent all claims that have been recorded during the 6-month period ending at the end of the designated month (in the left-hand column of the exhibit).
+The record period analysis measures the adequacy of our case reserves. In other words, the estimated ultimate losses for each record period include losses for claims that have already been recorded. They do NOT include losses for unrecorded claims, thus they exclude IBNR.
+The information summarized on this exhibit is similar to the information summarized on Exhibit A. The issues involved in the analysis of record period losses are similar to the issues for accident period lossesThe calculations of the components of the analyses are also very similar. Therefore, the focus of this discussion will be to compare and contrast the results of Exhibit C (Record Period, or RP) with Exhibit A (Accident Period, or AP).
+.
+ In both the RP and AP analyses, the selected adequacies for the paid projections are higher than those of the incurred projections. The reasons (e.g., changes in closure rate) were discussed with Exhibit A, and the same reasoning is relevant for record period development. Almost every one of the defaulted AND selected adequacies is LOWER for the RP analysis than for the same respective projections in the AP analysis. This is summarized in the following chart, which pulls information from both Exhibits A and C:
+Reserve Adequacy
+ 
+Since the record period development results in lower adequacy (or more inadequacy), the selected adequacy would be expected to be lower for case reserves than for total reserves. This implies that IBNR reserves are expected to be more adequate.
+ The timing difference between when accidents occur and when they are recorded will help explain how severities differ between the analyses. Accidents are reported and recorded AFTER they occur, and severity is normally expected to increase over time, due to inflation. Therefore, for a given period-ending date, the record period severity (for accidents from earlier periods) is expected to be LOWER than the accident period severity for the same respective semester. The following chart illustrates this reasonableness test for this segment:
+Severity
+In this example, the relationship is reasonable for most of the periods. For the periods in which it is not, there may be some large claims for which the timing difference is not consistent. Also, the severity trend is not consistent in this segment, as there was a significant decrease in severity in the latter half of 2004. The underlying data would be investigated to determine whether this inconsistency is reasonable.
+ The indicated ultimate counts (shown in column (15) of Exhibit C and column (20) of Exhibit A) should also be similar, in aggregate, between the two analysesIf frequency is relatively flat and we are growing in volume, the aggregate claim counts should be higher for the accident period analysis than for the record year analysis due to the expected time lag between the occurrence and the recording of accidents. In this segment, we were actually declining in premium and exposure volume over most of the past two years, until a recent growth spurt. In addition, frequency had been decreasing over most of the period, but it flattened out over the past year. The aggregate accident period counts (19,309) are slightly lower than the aggregate record period counts (19,331), which is a reasonable result.
+Counts
+.
+ 
+Based on the analyses in Exhibits A and C, we have determined the following (in $000's):
+Since , then:
+IBNR Reserves = [Total Reserves]  [Case Reserves]
+This calculation confirms that since the total reserves are adequate overall, and the case reserves are inadequate, the IBNR reserves are expected to be adequate.
+We do a separate analysis of "late reported claims" by lag period, in order to independently determine IBNR reserve adequacy. We compare the results of that analysis to the results above to test for reasonableness.
+ 
+Exhibit D  Summary of Estimated IBNR
+This exhibit summarizes our IBNR analysis for this segment. Section III of this report briefly explained what IBNR reserves are, and some of the theory behind the calculations. The focus of this section will be to relate the theory to the actual application of the results and to discuss some of the issues involved.
+IBNR reserves represent estimates of losses for claims that have already occurred but have not yet been recorded by the Company. These are sometimes referred to as late reported claimsThe later the claim is recorded (after the accident occurrence), the greater the lag for that claim.
+"
+."
+Exhibit E (discussed later) illustrates some of the details behind the calculations and selections of future pure premiums used in this exhibit (column (4)). In order to estimate the required IBNR reserves, we group the claims by lag period (i.e., the length of time from claim occurrence date to record date). Then, the claims for each lag period are sorted and analyzed by accident date.
+Exhibit D summarizes 4/ years of required IBNR, by accident quarter. The relevant accident periods are shown in column (3). The most recent period should have the largest proportion of required IBNR, since it is expected to have the largest proportion of unreported claims. Therefore, we will focus on the most recent accident quarter. The following chart shows columns (1) through (9) from the December 2006 row of Exhibit D:
+1
+2
+Pure Premium is defined as Losses per Exposure (or per Earned Car Year).
+At the time of the prior review, we projected that the required IBNR reserves were $35.65 per exposure (column (1)) for the most recent accident quarter. However, we now have updated information on claims that have been reported (or "emerged") since that evaluation date, on accidents that occurred prior to that date. Based upon the emergence over the past 6 months, we now (retrospectively) project that the required IBNR reserves should have been per exposure (column (2)) for the most recent accident quarter. Therefore, the actual emergence has been slightly lower than expected for this period.
+$34.05
+ 
+Note that the "6 month emerged pure premium" of is used in our judgment of future pure premium for accident quarter December 2006. However, it is based upon data from the June 2006 accident quarter, because June 2006 is the most recent quarter for which there has been 6 months of emergence. It is a retrospective result because it restates what we would have needed 6 months ago if we had the next 6 months of information at that time. The following chart shows the calculation of the retrospective indicated IBNR factor and the retrospective 6-month emerged pure premium for accident quarter June 2006, which are used in our judgments for accident quarter December 2006:
+$34.05
+The following chart shows the first 4 columns of Exhibit D for the 8 most recent accident quarters:
+If you compare all of column (2) to column (1) on Exhibit D, you can see that we have generally experienced favorable IBNR emergence. As stated at the beginning of this section, the results of this case study are not intended to represent the actual results of the Company. Our intent is to illustrate and discuss issues that we consider during an analysis. The result in this case study may be due to:
+ 
+Our selected pure premiums are based upon the actual emergence and development of "late reported claims" (by reporting lag period within each accident period), as well as judgment. They also include an expected level of inflation, since our current IBNR reserves need to be at the cost level that is relevant to each respective accident and record period. The selected Future Pure Premiumsare shown in column (4). We selected per exposure for the most recent accident period. The details of the calculations that make up these future pure premiums are included in Exhibit E, and explained later in this section.
+"
+"
+$33.52
+The following chart shows columns (3) through (9) of Exhibit D for the 8 most recent accident quarters:
+The indicated IBNR in column (7) represents the expected late emergence of features that have been incurred but not yet recorded for each respective accident period. Since pure premium (column (4)) is "Losses per Exposure", you need to multiply it by the number of exposures during that period (column (5)) to get the expected amount of late recorded losses. For the accident quarter ending December 2006 shown above, this calculation is as follows:
+In order to carry the appropriate level of IBNR reserves in the Company's financials, we assign "IBNR Factors" to each trailing 3-month period of earned premium. Therefore, our IBNR reserves will change as our premium volume changes. This should allow our IBNR reserves to keep up with inflation and changes in mix of business for months in which we do not complete a review.
+The indicated IBNR factors in column (8) are then calculated as follows in the example above for the accident quarter ending December 2006:
+ 
+The indicated factors in column (8) are less than the current factors in column (9). This is not surprising, since we experienced favorable emergence. We test the reasonableness of our indicated factors in column (8) by comparing these to the factors in column (11), which result from the actual emergence from the past 6 months added to the expected future emergence for the each respective accident quarter. This information is shown in the following excerpt from Exhibit D:
+Each indicated factor from the current evaluation in column (8) would be compared to the "emerged" indicated factors in column (11) from 2 quarters prior (2 rows up). This shows that the selected indicated factors are reasonable, based upon the recent emergence patterns.
+The bottom portion of Exhibit D summarizes the IBNR reserve adequacy, by comparing the indicated IBNR reserves to the carried (or held) IBNR reserves. This is summarized below:
+The indicated IBNR of 2,437 at the bottom of column (7) is the sum of the indicated IBNR for all accident periods, based upon the calculations as illustrated above. The carried (or held) IBNR of 4,452 is equal to each of the current IBNR factors in column (9) multiplied by each of the 3-month-ending earned premiums in column (6). The calculation shows that our IBNR reserves are 2,015 conservative.
+ 
+As mentioned previously, .
+IBNR Reserves = Total Reserves  Case Reserves
+Since our total carried loss reserves for this segment are 28,038 (as shown on Exhibit A), this difference in IBNR adequacy of 332 is about one percent. We conclude that this is a reasonable difference.
+We may revise our IBNR factors in the indicated direction, in order to move our carried IBNR reserves toward the indicated amount. By decreasing IBNR reserves and increasing case reserves, we would obtain a reserve level that is consistent with our indications. Therefore, the case, IBNR and total loss reserves for this segment will be a reasonable provision for the expected future payments on claims for which we are liable.
+ 
+Exhibit E  IBNR Analysis
+In order to estimate the indicated level of IBNR reserves, we need to estimate the expected future pure premiums by accident quarter. These selected pure premiums are shown in column (4) of Exhibit D. They are determined by summing the estimated future pure premiums for each report lag period within each accident quarter, adjusted for inflation. We select these lag pure premiums by grouping the claim data by lag period. We then sort and analyze the data by accident quarter for each lag period. Exhibit E summarizes the steps involved in this process.
+: . We do this for 8 quarterly lag groups (from lag 0 quarters to lag 7 quarters); and for 5 annual lag groups (from lag 2 years to lag 6 years).
+Step 1
+Selection of ultimate losses by accident period for each report lag group
+The lag 0 quarter includes all claims that are recorded in the same quarter in which the accidents occurred. Therefore, these are the reported claims as of the end of the accident quarter. The lag 1 quarter includes all claims that are recorded in the quarter following the quarter in which the accidents occurred. The following chart is an excerpt from page 1 of Exhibit E, showing the development of incurred losses for lag 1 by accident quarter, as well as the selected development factors and ultimate loss amounts:
+ 
+The development column labeled "0" represents the incurred losses evaluated as of the end of the quarter that the claims were recorded. For example, the amount of in the above chart represents the incurred loss amount for claims that occurred in the quarter ending September 2006 that were recorded in the quarter ending December 2006 (i.e. one lag quarter), evaluated as of the end of December 2006. Note that the accident quarter ending December 2006 has not yet experienced any lag 1 claims (since those would be recorded in the future, i.e., the first quarter of 2007). Thus, the most recent accident period in the lag 1 triangle is September 2006.
+Red
+673,829
+In order to select loss development factors for the IBNR analysis, we go through a process similar to what we do for the accident period and record period analyses. We use averages of the link ratios, as well as judgment in the selection process. We go through this selection process for each of the report lag groups.
+: into an exhibit like that shown on page 2 of Exhibit E. A section from this exhibit is shown below. Note that the selected ultimate losses from the lag 1 analysis (above) are transferred to this chart in the lag 1 column.
+Step 2
+Summarize the ultimate losses for all lag groups
+using the selected pure premium trend. We have selected an annual pure premium trend of +4.0 percent. This is based upon judgment, considering the historical severity and frequency trends for this segment. This is done because our objective is to estimate the required IBNR Reserves as of the current date, so we adjust the losses to the current cost level. The following chart is from the bottom of page 2 of Exhibit E and illustrates this point:
+Step 3: Ultimate losses are "inflated" to the cost level of the last diagonal
+ 
+Note that the June 2006 lag 1 inflated value of 513,240 is equal to the projected ultimate loss amount of 508,232 in the previous chart, adjusted for one quarter of the 4.0 percent annual trend to bring its monetary value forward one quarter to the current cost level:
+508,232 X 1.04 = 513,240
+1/4
+The results are shown on the top of page 3 of Exhibit E, and summarized on the chart below. This allows us to normalize these values. For example, the June 2006 lag 1 inflated pure premium is calculated as follows:
+Step 4: Divide the inflated ultimate loss amounts by the earned exposures (for each respective quarter), to convert them to pure premium amounts.
+513,240 / 22,681 = 22.629
+, based upon this summary, as well as judgment. Those results are also shown at the bottom of the following chart:
+Step 5: Select projected pure premiums for each lag period
+IBNR for PIP and Physical Damage includes consideration of future salvage and subrogation recoveries, which can lead to distortions in the indicated pure premiums. To address this, the model has been enhanced to allow the analyst to develop salvage recoveries, subrogation recoveries, and gross losses separately.
+Net Losses = Gross Losses  Salvage Recoveries  Subrogation Recoveries
+This result is compared to the analysis using net losses as a reasonableness check to determine if the pure premium selections make sense. See section V of the report for a further explanation.
+ 
+(of +4.0 percent annually for this segment) to the future periods for which the claims are expected to be reported.
+Step 6: Inflate the selected pure premiums by the pure premium trend
+For example, the selected pure premium for lag 2 is . The accident quarters that have future claims recorded 2 quarters after their occurrence are the accident quarters ending September 2006 and December 2006. All accident periods prior to that no longer need IBNR reserves from lag 2 for the current analysis. This is because those accidents have already been recorded as of the end of December 2006. However, the pure premium of is at the cost level of December 2006 recorded values. Therefore, this pure premium needs to be inflated to the monetary level that is relevant for each future record period.
+2.705
+2.705
+The chart at the bottom of page 3 of Exhibit E shows the results of these calculations. The chart below is a section from that exhibit to illustrate the calculations.
+The lag 2 selected pure premium of is inflated by one quarter of the 4.0 percent annual trend for accidents that occur in the quarter ending September 2006 (since they will be recorded in the quarter ending March 2007), and by two quarters (i.e. / of a year) of the annual trend for accidents that occur in the quarter ending December 2006 (since they will be recorded in the quarter ending June 2007, i.e., two quarters in the future):
+2.705
+1
+2
+2.705 X 1.04 = 2.759
+1/2
+ 
+For example, the total future pure premium for accident quarter ending December 2006 is This is the sum of the future pure premiums for accidents that occurred during this quarter, but are expected to be recorded in future quarters:
+Step 7: For each accident quarter, calculate the total future pure premium by summing all lag periods' future pure premiums.
+33.52.
+and so on, across the Dec-06 row of the chart above.
+The total future pure premiums are then transferred to column (4) of Exhibit D (Summary of Estimated IBNR), in order to calculate the total indicated IBNR reserves.
+ 
+When a claim occurs, the ultimate amount of the loss is not known until final settlement (payment) of that claim. Through the life of the claim, we need to make sure that our loss reserves are adequate for all future payments on that claim, as illustrated in Section VII. However, we also incur expenses to adjust claims. Costs incurred in this "loss adjustment" process are called "loss adjustment expenses" (LAE). Like loss reserves, we also need to make sure that our carried loss adjustment expense reserves are adequate to cover the future payment of these expenses as we settle our outstanding claims.
+There are two major categories of loss adjustment expenses:
+We hold both case and IBNR reserves for each expense category. We may revise any or all of the following parameters in order to achieve the desired changes to case and/or IBNR LAE reserves for a given segment:
+We evaluate the adequacy of our LAE reserve segments at least two times per year. DCC expense reserves are analyzed separately from A&O expense reserves. The segments for which we evaluate LAE reserves are similar to those for which we evaluate loss reserves. Although we have fewer LAE segments than loss segments, we enhanced our analysis of LAE reserves in 2006 by segmenting the data into smaller groups that are more homogeneous.
+When we review the LAE expense reserves for a segment, we always complete the analyses of both DCC and A&O expenses for that segment. The segment reviewed in this case study is for a sample state and coverage for personal auto.
+Note that the data in this example is not from any specific segment and any similarity to specific segments is coincidental. Also, the investigations that are undertaken, the conclusions that are drawn, and the selections that
+ 
+Our intent is to illustrate and discuss many of the issues that we consider during our analysis, in order to make reasonable selections. The calculations involved in the process will also be explained.
+are made are not necessarily the same as those that we would make in an actual review. The results of this case study are also not intended to represent the actual results of the Company.
+The identities for loss reserves are also relevant for LAE reserves, as follows:
+Ultimate LAE is derived differently for each of the two major LAE categories (DCC and A&O). In general, we attempt to determine how these expenses will develop in the future based upon how they developed in the past. In order to make reasonable selections, we look at several parameters and also consider the business issues that underlie the data.
+We include several exhibits in our reviews to summarize our analysis that are also used in our discussions with the relevant business units. In this section, we present and describe the summary exhibits  Exhibit DCC, which summarizes the DCC expense analysis, and Exhibit ADJ, which summarizes the A&O expense analysis. Each exhibit is followed by an explanation of the calculations and a discussion of some of the issues that may be involved in the underlying data, as well as certain judgments we make in the selection process. We also discuss how different components of the analysis relate to each other.
+Note that the LAE reserve review for a segment is usually not done in the same month as the loss reserve review for that segment. Therefore, when loss projections are used in the LAE review, they are comparable but not equal to the projections from the loss review. Also note that rounding in the exhibits, as well as the order of calculation, may make some of the figures in the case study appear slightly out of balance.
+ 
+     
+ 
+Exhibit DCC  Defense and Cost Containment Expense Reserve Analysis
+This exhibit summarizes our accident period analysis of the adequacy of the DCC expense reserves for this segment. The claims are sorted and analyzed by accident date using 6-month accident periods (i.e., accident semesters). Each accident semester represents all claims that have occurred during the 6-month period ending at the end of the designated month (in the left-hand column of the exhibit).
+Since this is an accident period analysis, it measures the adequacy of our total DCC expense reserves (case + IBNR). In other words, the estimated ultimate amounts for each accident period include DCC expenses for claims that have already been reported PLUS DCC expenses for claims that have not yet been reported.
+In the following illustration, we discuss the analysis of total DCC, followed by the analyses of the two major components: Attorney & Legal and Medical & Other.
+Total DCC Expense Analysis
+The table below is a section from Exhibit DCC. It summarizes our selection of the estimated ultimate total DCC expenses by accident semester.
+Columns 1 through 3 contain three projections that we typically use to estimate the ultimate amount of DCC expenses by accident semester. We use the results of the 3 projections in columns (1), (2) and (3) to select the ultimate DCC amounts shown in column (8). Note the volatility inherent in the last couple accident periods. For example, for the Sep-2006 period we are selecting ultimate expenses of 1,613 when only 10 has been paid to date (as shown in column (4)). Also note that we compare these selections to those obtained by our analysis of the
+ 
+two major DCC components (Attorney & Legal and Medical & Other). This comparison is discussed later in this section.
+The Paid and Average Paid projections (columns (1) and (2)), are similar to the loss projections.
+For the (column (1)), we project the paid DCC expenses to ultimate amount by organizing the historical paid DCC amounts in a triangular format (by accident period and by evaluation period).
+Paid DCC projections
+For the (column (2)):
+Average Paid DCC projections
+We project the average paid DCC to ultimate by accident period. This ultimate DCC severity (shown in column (21)) is then multiplied by the ultimate number of claims that are expected to incur DCC costs (from column (12)). The result (in column (2)) is the estimated ultimate DCC expense amount for each accident period. The following chart illustrates this calculation:
+ 
+Column (3) is the or Paid-to-Paid projection. Similar to other projections, this one organizes the data in a triangular format, with each data point in the triangle being the ratio of paid DCC expense to paid loss. We project the ultimate Paid-to-Paid ratio by accident period, as shown in column (27). This ultimate ratio is then multiplied by the ultimate projected losses (as derived from analysis of the losses, and shown here in column (16)) for each respective accident period. The result (in column (3)) is the estimated ultimate DCC expense amount for each accident period. The following chart illustrates this calculation:
+Paid DCC to Paid Loss
+We calculate the required reserves and the reserve adequacy for each of the 3 projections and for the selected amounts by using the identities:
+The results are shown at the bottom of columns (1) through (3) and (8). For this segment, we determined that our . As a result of this analysis, we may increase our reserves by changing the case averages and the IBNR factors for the DCC expense category.
+DCC expense reserves are inadequate by 427
+When making selections for many of the DCC segments we tend to give greater weight to the Paid-to-Paid projection. The logic behind this is that the legal costs for claims tend to be related to their loss costs. Although the losses may develop at a different rate than the expenses, the ultimate relationship tends to be consistent over time.
+However, there can be changes in the claim adjustment process that would potentially cause this relationship to change. This may be due to changes in the legal/regulatory environment or to changes in the Company's loss adjustment process. We discuss these issues with management to better understand the underlying data. We use additional approaches in our projections for segments in which we observe process changes, because the historical development may be less relevant for the future.
+ 
+The following table shows the ratios of ultimate DCC expense dollars to ultimate loss dollars for this segment over the past 8 accident semesters:
+As discussed above for the Paid-to-Paid projection, the ultimate DCC/Loss ratios in column (27) are projections based on a triangle of the historical ratios of paid DCC to paid loss. The selected ultimate DCC/Loss ratios in column (34) use our selected ultimate DCC expense dollars from column (8). We also compare these selected ratios to those obtained by our analysis of the two major DCC components (Attorney & Legal and Medical & Other), as discussed later in this section.
+For this segment, the DCC/Loss ratios have been fluctuating over the past 4 accident years, but the last 4 semesters are showing an increasing trend. In this example, we began spending more on defense and cost containment expenses in an attempt to keep our total loss severities lower. This may be due to higher amounts spent on each claim (severity) and/or a higher proportion of claims may be utilizing defense and cost containment expenses. Changes in utilization and severity can occur for different reasons. We analyze these two parameters, and they are discussed below.
+ One of the parameters we use in our analysis of DCC expenses is the percentage of claims for which we incur DCC expenses. We refer to this as the Utilization Ratio.
+Utilization Ratio
+ 
+We project our ultimate DCC counts in two different ways. We then make selections of the DCC counts by accident period, which give us selected utilization ratios. This is illustrated in the following excerpt from Exhibit DCC:
+Column (17) contains the estimated ultimate loss counts. They are comparable to the ultimate counts from our most recent analysis of losses for this segment.
+Column (9) contains the estimated number of loss features that include a DCC expense by accident semester from this analysis. We project the paid DCC counts to ultimate after organizing the historical paid DCC counts in a triangular format (by accident period and by evaluation period).
+Column (10) contains the estimated ultimate utilization ratios from this analysis, based upon an analysis of the triangle of utilization ratios.
+Each data point in the utilization ratio development triangle is equal to [Paid DCC expense counts] divided by [Paid loss counts].
+In Column (11), we calculate the projected DCC counts by multiplying the estimated utilization ratios in column (10) by the indicated ultimate loss counts in column (17).
+The selected DCC counts in column (12) are then based upon two different projections in columns (9) and (11). For this segment, the two projections produce similar results for all periods except the last two. For the last two periods, we made judgmental selections that give us reasonable ultimate utilization ratios.
+The selected ultimate utilization ratios in column (13) are the selected ultimate DCC counts (column (12)) divided by the indicated ultimate loss counts (column (17)). We compare these selections to those obtained by our analysis of the Attorney and Medical DCC components, as discussed later in this section.
+We normally expect the utilization ratios to be relatively consistent over time. However, internal process changes or changes to the legal or regulatory environment in the state could cause the utilization ratios to change. If we observe changes, we investigate the reasons for those changes. For this segment, the ratios dipped down in the March 2005 period but have been
+ 
+trending back up since then. In other words, the proportion of claims for which we have DCC expenses has been increasing back to historical levels. Our investigation determined that this was reasonable as a result of changes in some claims processes in the state.
+ Another parameter we use in our analysis of DCC expenses is the amount of defense and cost containment we spend on each claim that has a DCC expense. This is the severity, and it is shown in the following chart:
+Severity
+Column (21) was mentioned above relative to the average paid projection. It contains the projected paid DCC severity by accident semester from this analysis. We project the paid DCC severity to ultimate after organizing the historical paid DCC severities in a triangular format (by accident period and by evaluation period).
+Column (22) contains the selected ultimate severities, calculated as the selected ultimate DCC expense dollars (column (8)) divided by the selected ultimate DCC counts (column (12)). Note that we compare these selections to those obtained by our analysis of the two major DCC components (Attorney & Legal and Medical & Other), as discussed later in this section.
+The selected ultimate severities (i.e., average amount of DCC expenses for each claim for which there is DCC expense incurred) are higher than they were two years ago, but they have been relatively level since then. Investigation showed this was due to a change in process about two years ago in which we started spending more to defend against certain types of claims, in an attempt to reduce the amount of fraud.
+The fluctuations in the DCC/Loss ratios were discussed above. The increasing trend in this ratio over the past 4 semesters was driven by increased utilization of defense and cost containment expenses. (We have been using these expenses more often, while the average amount we spend on them each time has not changed significantly). The fluctuations in the previous 4 semesters were driven by changes in the severity. Even though the severity tended to be lower in those two older years (Mar-2003 through Sep-2004), utilization during that period tended to be higher.
+ 
+DCC Expense Analysis by Component  Attorney & Legal and Medical & Other
+As mentioned above, we also make projections of the utilization ratios and severities for the "Attorney & Legal" versus "Medical & Other" components of DCC expenses. We then calculate the resulting expense dollars for these components, as well as the ratios of these expense dollars to the loss dollars. For each of these parameters, we then compare the combination of the components with the results from the total DCC expense analysis. This allows us to better analyze the causes of fluctuations, identify trends, and check for reasonableness.
+The following chart compares the utilization ratios for the components and the total:
+The utilization ratios of the components are projected from triangles of the historical utilization ratios for each component. The sum of the components is consistently a couple points higher than the selected total utilization ratio for this segment. This can happen when there is attorney involvement and an independent medical report is also ordered for the claim. It is counted once for total DCC utilization and also once for each DCC component. The increase in total utilization in the last accident semester for this segment is due to additional attorney utilization.
+ 
+The following chart compares the severities for the components and the total:
+The severities of the components are projected from triangles of the historical severities for each component. The Attorney & Legal expenses over the two most recent accident years have generally been higher than the previous two years, which is the main driver of the increasing severity for total DCC expenses.
+The DCC expense dollars for each component are based upon the indicated utilizations and severities for that segment. This calculation is shown here for Attorney & Legal expenses:
+The following identities are used in the calculations above:
+ 
+We compare the required reserves for the sum of the two DCC expense components versus the total DCC expenses for reasonableness. This is shown at the bottom of columns (6), (7) and (8).
+The sum is reasonably close to the total.
+Therefore, the total is used in the calculation of DCC reserve adequacy:
+The other parameter for which we compare the sum of the DCC expense components to the total is the ratio of ultimate DCC expense dollars to loss dollars.
+The selected DCC/Loss ratios use the ultimate DCC expense dollars for each of the components and the total. Since the Medical & Other expenses make up only a small proportion of the total DCC expense dollars for this segment, the DCC/Loss ratios are driven by the Attorney & Legal component.
+The discussion above regarding the contribution of the utilization and severity parameters to the total DCC expense dollars is also relevant in the analysis of each DCC expense component. In order to make the most appropriate reserve change for DCC expenses, we have to be comfortable with each of the parameters for each of the components in the analysis.
+ 
+Other Parameters
+There are also several other parameters shown on the exhibit that we use in our analysis. One of these is the analysis of CWAPO, which stands for claims losed ith DCC (LAE) ayments nly. In other words, they close with no loss payments, but they do have DCC expense payments. This is the CWAPO chart from the exhibit for this segment:
+C
+W
+A
+P
+O
+For this segment, about 5% of the claims with DCC expense payments close with no loss payment, as shown in column (30). They make up between 1% and 2% of the total DCC expense dollars, as shown in column (31). When there are significant changes in these ratios, we would investigate the reasons to determine if they are reasonable. The average amount of DCC expense (severity) for each of these claims has fluctuated widely, due to the low volume for this segment.
+We also look at the ratio of outside and in-house attorney usage relative to the total number of features that utilize attorneys. Changes in these ratios may be related to changes in severity. For example, we may expect in-house attorneys to be less expensive on a per-claim basis than outside attorneys. The correlation between these parameters is important to understand when there are changes in severity. The following chart shows that there have been fluctuations in these utilizations, but there has not been a noticeable trend in either category.
+ 
+The final parameter to consider is the ratio of DCC expense reserves to loss reserves, as shown in column (20). The comparison of the current and indicated reserve/reserve ratios for this segment is as follows:
+This is a final reasonableness check of our other selections. We expect this ratio to be fairly consistent over time for a given segment. If there is a significant change from one review to the next, we may look at the ratio by accident period, which could indicate a change in the claim adjustment process. These observations would be discussed with claims management to get a better understanding of any process changes. For this segment, the indicated ratio is higher than the current ratio because our DCC reserves are inadequate.
+ 
+ 
+ 
+Exhibit ADJ  Adjusting and Other Expense Reserve Analysis
+This exhibit is a calendar period analysis of the adequacy of the "Adjusting & Other" (A&O) expense reserves for this segment. We calculate the ratio of paid A&O expenses to paid losses for each calendar quarter over the past three years. We then estimate the expected ratio going forward, which we use to determine the required A&O expense reserves.
+The calculation of the Paid-to-Paid ratios is shown in the following excerpt from Exhibit ADJ:
+For this segment, the paid A&O expenses in column (4) are used to calculate the ratios to paid losses capped at $50,000 per feature, as well as the ratios to uncapped paid losses. We use $50,000 as the basis for the capping of losses, because our experience has shown it is reasonable to assume that staff involvement does not increase proportionally as the size of the claim increases for larger claims.
+The capped paid-to-paid ratios in column (6) are used to determine the needed A&O expense reserve for settling claims that are currently open. The uncapped paid-to-paid ratios in column (7) are used to determine the needed A&O expense reserve for claims that are not yet reported (IBNR).
+For segments in which we recover salvage and/or subrogation, in particular PIP and Physical Damage segments, the IBNR ratio is calculated based on gross paid losses.
+ 
+The data we analyze for a typical review is net of salvage and subrogation. See section V for a further explanation.
+Using the historical ratios as well as the 12-month-ending averages and the prior selected ratios, we select our estimated paid-to-paid ratios to be used in our reserve determination at the bottom of columns (6) and (7) (in ). Also note that the paid-to-paid ratio implied by our current carried A&O expense reserves is shown at the bottom of column (7).
+Blue
+For this segment, the ratios have been relatively level over the past six quarters, although they were higher during the year prior to that. As with other expense categories, we would look at reasons for changes in the ratios over time. The expenses allocated to this category are those related to the adjustment of claims, including fees of independent adjusters and salaries and related overhead expenses relative to Company employees involved in a claim adjusting function. Therefore, we would look at changes in claims staffing, claims inventory, claims processing and loss volume in order to determine reasons for changes in the ratios over time.
+We also look at the average amount of A&O expense per claim (in column (5)) to see if there is a trend in the expense severity. The following excerpt illustrates this:
+The "Adjusted A&O Counts" in column (1) are the weighted average of the number of features recorded and the number paid for each calendar quarter. The A&O expense severity for this segment has been fluctuating somewhat, but the overall trend has been an increase.
+ 
+Columns (8) through (13) illustrate the calculation of our A&O expense reserve adequacy.
+The "Incurred A&O" in column (9) is the total ultimate incurred A&O expense for adjusting all claims that are currently reserved.
+The "% Unpaid" in column (10) has been determined from our time tracking studies. The underlying concept is that much of the A&O expense is paid when the claim is opened (or before it is opened), and the remainder is paid during the life of the claim until it is settled.
+The "Indicated A&O Reserve" in column (11) represents the unpaid portion of the incurred A&O. This is compared to the carried reserve in column (12) in order to determine the adequacy of the A&O expense reserves in column (13).
+Based on this analysis, our carried A&O expense reserves for this segment are conservative by about 159. Almost all of the conservatism is in the case portion so we would likely decrease our A&O case average that applies to open features.
+ 
+ 
+ 
+
+

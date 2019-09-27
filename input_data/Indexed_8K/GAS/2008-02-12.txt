@@ -1,0 +1,29 @@
+FILE:GAS/GAS-8K-20080212174159.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+The undersigned registrant hereby amends its Current Report on Form 8-K filed on February 12, 2008 to update the XBRL files for the Securities and Exchange Commission's voluntary filer program.
+ 
+Item 8.01                       Other Events
+Attached as Exhibit 100 to this Current Report on Form 8-K are the following materials from AGL Resources Inc. Annual Report on Form 10-K for the year ended December 31, 2007, filed with the Securities and Exchange Commission (SEC) on February 7, 2008, formatted in XBRL (eXtensible Business Reporting Language): (i) Consolidated Balance Sheets, (ii) Statements of Consolidated Income, (iii) Statements of Consolidated Common Shareholders Equity, and (iv) Statements of Consolidated Cash Flows. Users of this data are advised pursuant to Rule 401 of Regulation S-T that the financial information contained in the XBRL documents is unaudited and these are not the official publicly filed financial statements of AGL Resources Inc. The purpose of submitting these XBRL formatted documents is to test the related format and technology and, as a result, investors should continue to rely on the official filed version of the furnished documents and not rely on this information in making investment decisions.
+In accordance with Rule 402 of Regulation S-T, the information in this Current Report on Form 8-K, including Exhibit 100, shall not be deemed filed for the purposes of section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific references in such filing.
+Item 9.01                       Financial Statements and Exhibits
+The following exhibits are furnished herewith:
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+            EX-100.SCH                                 XBRL Taxonomy Extension Schema Document
+EX-100.PRE             XBRL Taxonomy Presentation Linkbase Document
+EX-100.LAB             XBRL Taxonomy Label Linkbase Document
+EX-100.CAL             XBRL Taxonomy Calculation Linkbase Document
+ 
+ 
+
+
+
+
+
+
+

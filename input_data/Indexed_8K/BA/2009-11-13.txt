@@ -1,0 +1,671 @@
+FILE:BA/BA-8K-20091113170355.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On November 13, 2009, we entered into a $1.525 billion, 364-day revolving credit agreement (the "364-Day Credit Agreement"), with Citigroup Global Markets Inc. and J.P. Morgan Securities Inc. as joint lead arrangers and joint book managers, JPMorgan Chase Bank, N.A. as syndication agent and Citibank, N.A. as administrative agent, and a syndicate of lenders as defined in the 364-Day Credit Agreement. This facility replaces the $1.0 billion, 364-day credit agreement entered into on November 14, 2008.
+Under the 364-Day Credit Agreement, we pay a commitment fee of 0.10% per annum on the unused commitments. Borrowings under the 364-Day Credit Agreement that are not based on Eurodollar rates bear interest at an annual rate based on the "base rate" of interest in effect plus the applicable margin. The "base rate" of interest is the highest of (1) the rate announced publicly by Citibank, N.A., from time to time, as Citibank's "base" rate, (2) the Federal Funds Rate plus 0.50% and (3) the British Bankers Association one month LIBOR plus 1.00%. The "applicable margin" is the greater of (a) the market rate spread minus 1.00% and (b) 0% per annum. The "market rate spread" means at any date our credit default swap mid-rate spread for the one-year period beginning on the most recent reset date for the applicable advance, provided that the market rate spread shall have a floor and a cap depending upon the rating of our long-term senior unsecured debt with a floor of 0.75% and a cap of 2.00%. Borrowings under the 364-Day Credit Agreement that are based on Eurodollar rates are generally based on an applicable LIBOR rate plus the market rate spread, as defined above.
+The 364-Day Credit Agreement contains customary terms and conditions, including covenants that are substantially similar to those contained in the previous facility, including, without limitation, covenants restricting our ability to incur liens, or merge or consolidate with another entity. Further, the 364-Day Credit Agreement contains a covenant restricting our ability to permit consolidated debt (as defined in the 364-Day Credit Agreement) to exceed 60% of Boeing's total capital (as defined in the 364-Day Credit Agreement) until the Credit Agreement terminates and all amounts borrowed under the Credit Agreement are paid in full. The events of default under the 364-Day Credit Agreement include, but are not limited to, the following: (1) failure to pay outstanding principal or interest, (2) failure of representations or warranties to be correct in any material respect, (3) failure to perform any other term, covenant or agreement and such failure is not remedied within 30 days of notice of such failure, (4) a cross-default with other debt in certain circumstances, (5) certain defaults upon obligations under the Employee Retirement Income Security Act and (6) bankruptcy. Such events of default would require the repayment of any outstanding borrowings and the termination of the right to borrow additional funds under the 364-Day Credit Agreement.
+Some of the lenders under the 364-Day Credit Agreement and their affiliates have various relationships with us and our subsidiaries involving the provision of financial services, including cash management, investment banking, trust and leasing services. In addition, we and some of our subsidiaries have entered into foreign exchange and other derivative arrangements with certain of the lenders and their affiliates.
+The description herein is qualified in its entirety by the 364-Day Credit Agreement which is filed as an exhibit hereto.
+ 
+The information described above under "Item 1.01. Entry into a Material Definitive Agreement" is hereby incorporated by reference.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+Dated: November 13, 2009
+ 
+
+Exhibit 10.1
+EXECUTION COPY
+ 
+ 
+ 
+ 
+THE BOEING COMPANY, a Delaware corporation ("" or the ""), for itself and on behalf of the other BORROWERS (as defined below), the LENDERS (as defined below), CITIGROUP GLOBAL MARKETS INC. and J.P. MORGAN SECURITIES INC., as joint lead arrangers and joint book managers, JPMORGAN CHASE BANK, N.A., as syndication agent, and CITIBANK, N.A., in its capacity as administrative agent for the Lenders (in such capacity, the ""), agree as follows:
+TBC
+Company
+Agent
+ 
+"" means the 364-Day Credit Agreement, dated as of November 14, 2008, by and among TBC, Citibank, N.A., as administrative agent, and certain other banks as lenders.
+2008 Credit Agreement
+"" means a Committed Advance or a Bid Advance.
+Advance
+"" means Citibank, N.A. acting in its capacity as administrative agent for the Lenders, or any successor administrative agent appointed pursuant to Section 7.6.
+Agent
+"" means the account of the Agent maintained by the Agent with Citibank, N.A., at its office at 388 Greenwich Street, New York, New York 10013, Account 36852248, Attention: Agency/Medium Term Finance, Reference: Boeing.
+Agent's Account
+"" means, as to any Person, any other Person that, directly or indirectly, controls, is controlled by or is under common control with such Person or is a director or officer of such Person. (For purposes of this definition, the term "controls", "controlling", "controlled by" and "under common control with" mean, with respect to a Person, the possession, direct or indirect, of the power to vote 5% or more of the Voting Stock of such Person or to direct or cause the direction of the management and policies of such Person, whether through the ownership of Voting Stock, by contract, or otherwise.)
+Affiliate
+"" means this agreement, as it may be amended or otherwise modified from time to time, and any written additions or supplements hereto.
+Agreement
+"" means, with respect to each Lender, such Lender's Domestic Lending Office, in the case of a Base Rate Advance, and such Lender's Eurodollar Lending Office, in the case of a Eurodollar Rate Advance, and, in the case of a Bid Advance, the office of such Lender specified by such Lender in a notice to the Agent as its Applicable Lending Office with respect to such Bid Advance.
+Applicable Lending Office
+"" means,
+Applicable Margin
+ 
+"" means 0.10% per annum:
+Applicable Percentage
+"" means, as of any date of determination, (a) the aggregate Commitments of the Lenders, as such amount may be reduced, changed or terminated in accordance with the terms of this Agreement, reduced by (b) the aggregate Advances outstanding on such date of determination.
+Available Commitments
+"" means the highest of (a) the rate of interest announced publicly by Citibank, N.A., in New York City, from time to time, as Citibank's "base" rate, (b) the Federal Funds Rate plus 0.50% per annum and (c) the British Bankers Association Interest Settlement Rate applicable to US dollars for a period of one month ("") plus 1.00% (for the avoidance of doubt, the One Month LIBOR for any day shall be based on the rate appearing on Reuters LIBOR01 Page (or other commercially available source providing such quotations as designated by the Agent from time to time) at approximately 11:00 a.m. London time on such day.
+Base Rate
+One Month LIBOR
+"" means a Committed Advance which bears interest at the Base Rate.
+Base Rate Advance
+"" means an advance by a Lender to a Borrower as part of a Bid Borrowing resulting from the auction bidding procedure described in Section 2.5, and refers to a Fixed Rate Advance or a Eurodollar Rate Bid Advance, each of which shall be a "Type" of Bid Advance.
+Bid Advance
+"" means a borrowing consisting of simultaneous Bid Advances from each of the Lenders whose offers to make one or more Bid Advances as part of such borrowing has been accepted by a Borrower under the auction bidding procedure described in Section 2.5.
+Bid Borrowing
+"" means a promissory note of a Borrower payable to the order of a Lender, in substantially the form of Exhibit A-2, evidencing the indebtedness of that Borrower to such Lender resulting from a Bid Advance made by such Lender to such Borrower.
+Bid Note
+"" has the meaning specified in Section 2.1(a).
+Bid Reduction
+"" means, individually and collectively, as the context requires, TBC and each Subsidiary Borrower (unless and until it becomes a "Terminated Subsidiary Borrower" pursuant to Section 2.22).
+Borrower
+"" means, with respect to any Subsidiary Borrower, a letter in the form of Exhibit D, signed by such Subsidiary Borrower and TBC.
+Borrower Subsidiary Letter
+"" means a Committed Borrowing or a Bid Borrowing.
+Borrowing
+"" means a day of the year on which banks are not required or authorized to close in New York City and, if the applicable Business Day relates to any Eurodollar Rate Advance, on which dealings are carried on in the London interbank market.
+Business Day
+"" means, for each Lender, the full amount set forth opposite the name of such Lender in Schedule I or, if such Lender is a Replacement Lender or a Lender that has entered into one or more assignments pursuant to Section 2.20 or Section 2.21, the amount set forth for such Lender in the Register maintained by the Agent pursuant to Section 2.20(d), as such amount may be
+Commitment
+ 
+reduced pursuant to Section 2.3, Section 2.8 or Section 2.19 or increased pursuant to Section 2.19.
+"" has the meaning specified in Section 2.7.
+Commitment Fee
+"" means an advance made by a Lender to a Borrower as part of a Committed Borrowing and refers to a Base Rate Advance or a Eurodollar Rate Committed Advance, each of which is a "Type" of Committed Advance.
+Committed Advance
+"" means a borrowing consisting of simultaneous Committed Advances of the same Type made by each of the Lenders pursuant to Section 2.1.
+Committed Borrowing
+"" means a promissory note of a Borrower payable to the order of any Lender, in substantially the form of Exhibit A-1, evidencing the indebtedness of that Borrower to such Lender resulting from the Committed Advances made by such Lender to that Borrower.
+Committed Note
+"" means The Boeing Company, a Delaware corporation.
+Company
+"" means information that a Borrower furnishes to the Agent or any Lender in a writing designated as confidential, but does not include any such information that is or becomes generally available to the public or that is or becomes available to the Agent or such Lender from a source other than a Borrower.
+Confidential Information
+"" refers to the consolidation of accounts in accordance with generally accepted accounting principles.
+Consolidated
+"" means the total amount of assets (less applicable reserves and other properly deductible items) after, deducting therefrom (i) all current liabilities (excluding any thereof which are by their terms extendible or renewable at the option of the obligor thereon to a time more than 12 months after the time as of which the amount thereof is being computed), and (ii) all good will, trade names, trademarks, patents, unamortized debt discount and expenses and other like intangibles, all as set forth on the most recent balance sheet of the Company and its consolidated Subsidiaries and computed in accordance with generally accepted accounting principles.
+Consolidated Net Tangible Assets
+"" has the meaning specified in Section 2.21(a).
+Continuing Lender
+"", "" and "" each means a conversion of Committed Advances of one Type into Committed Advances of another Type pursuant to Section 2.10, 2.11 or 2.15.
+Convert
+Conversion
+Converted
+"" of a Person means
+Debt
+ 
+ 
+ 
+ 
+ 
+"" means any Event of Default or any event that would constitute an Event of Default but for the requirement that notice be given or time elapse or both.
+Default
+"" means with respect to any Lender, the office of such Lender specified as its "Domestic Lending Office" opposite its name on Schedule I, or in the assignment or other agreement pursuant to which it became a Lender or such other office of such Lender as such Lender may from time to time specify to TBC and the Agent.
+Domestic Lending Office
+"" has the meaning specified in Section 2.19(d).
+Effective Date
+"" means
+Eligible Assignee
+ 
+ 
+ 
+ 
+ 
+ 
+"" means the Employee Retirement Income Security Act of 1974, as amended from time to time and the regulations promulgated and rulings issued thereunder.
+ERISA
+"" has the meaning assigned to that term in Regulation D of the Board of Governors of the Federal Reserve System, as in effect from time to time.
+Eurocurrency Liabilities
+"" means, with respect to any Lender, (a) the office of such Lender specified as its "Eurodollar Lending Office" opposite its name on Schedule I (or, if no such office is specified, its Domestic Lending Office) or in the assignment or other agreement pursuant to which it became a Lender or (b) such other office of such Lender as such Lender may from time to time specify to TBC and the Agent.
+Eurodollar Lending Office
+"" means, for an Interest Period for a Eurodollar Rate Committed Advance constituting part of a Committed Borrowing, and for the relevant period specified in the applicable Notice of Bid Borrowing for a Eurodollar Rate Bid Advance, an interest rate per annum equal to either
+Eurodollar Rate
+ 
+ 
+ 
+ 
+ 
+The Eurodollar Rate for any Interest Period for each Eurodollar Rate Committed Advance constituting part of the same Borrowing and for the relevant period specified in a Notice of Bid Borrowing for each Eurodollar Rate Bid Advance shall be determined by the Agent on the basis of applicable rates furnished to and received by the Agent from the Reference Banks two Business Days before the first day of such Interest Period or period, as the case may be, , , to the provisions of Section 2.10.
+subject
+however
+"" means a Committed Advance (a "") or a Bid Advance (a "") which bears interest at a rate of interest quoted as a margin (which shall be the Applicable Margin in the case of a Committed Advance or as offered by a Lender and accepted by a Borrower in the case of a Bid Advance) over the Eurodollar Rate.
+Eurodollar Rate Advance
+Eurodollar Rate Committed Advance
+Eurodollar Rate Bid Advance
+"" has the meaning specified in Section 2.5(b).
+Eurodollar Rate Bid Borrowing
+"" means the reserve percentage applicable to a Lender for any Interest Period for a Eurodollar Rate Advance during such Interest Period (or if more than one such percentage shall be so applicable, the daily average of such percentages for those days in such Interest Period during which any such percentage shall be so applicable) under regulations issued from time to time by the Board of Governors of the Federal Reserve System (or any successor) for determining the maximum reserve requirement (including, without limitation, any emergency, supplemental or other marginal reserve requirement) for such Lender with respect to liabilities or assets consisting of or including Eurocurrency Liabilities (or with respect to any other category of liabilities that includes deposits by reference to which the interest rate on Eurodollar Rate Advances is determined) having a term equal to such Interest Period.
+Eurodollar Rate Reserve Percentage
+"" means any of the events described in Section 6.1.
+Event of Default
+"" has the meaning specified in Section 2.21.
+Extension Request
+ 
+"" means, for each day during a period, an interest rate per annum equal to the weighted average of the fluctuating rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers, as published for such day (or, if such day is not a Business Day, for the immediately preceding Business Day) by the Federal Reserve Bank of New York, or, if such rate is not so published for any day which is a Business Day, the average of the quotations for such day on such transactions received by the Agent from three Federal funds brokers of recognized standing selected by it.
+Federal Funds Rate
+"" means Fitch, Inc.
+Fitch
+"" means an Advance made by a Lender to a Borrower as part of a Fixed Rate Borrowing.
+Fixed Rate Advance
+"" has the meaning specified in Section 2.5(b).
+Fixed Rate Borrowing
+"" means each Guaranty Agreement executed by TBC in favor of the Agent and the Lenders, unconditionally guaranteeing the payment of all obligations of a Subsidiary Borrower hereunder and under any Notes executed or to be executed by it.
+Guaranty
+"" has the meaning specified in Section 7.5.
+Indemnified Costs
+"" has the meaning specified in Section 8.3(b).
+Indemnified Party
+"" means, for each Eurodollar Rate Committed Advance constituting part of the same Borrowing, the period commencing on the date of such Committed Advance or the date of the Conversion of a Base Rate Advance into such a Eurodollar Rate Committed Advance and ending on the last day of the period selected by the applicable Borrower pursuant to the provisions below and, thereafter, each subsequent period commencing on the last day of the immediately preceding Interest Period and ending on the last day of the period selected by such Borrower pursuant to the provisions below. The duration of each such Interest Period shall be one, two, three, or six months (or nine months, with the consent of all Lenders funding those particular Advances), as the applicable Borrower may, upon notice received by the Agent not later than 11:00 a.m. (New York City time) on the third Business Day prior to the first day of such Interest Period, select, , , that:
+Interest Period
+provided
+however
+ 
+ 
+ 
+"", subject to Section 2.20, means any of the institutions that is a signatory hereto or that, pursuant to Section 2.13, 2.19, 2.20 or 2.21, becomes a "Lender" hereunder.
+Lender
+ 
+"" means Lenders holding greater than 50% of the then aggregate unpaid principal amount of the Committed Advances or, if no Committed Advances are outstanding, Lenders having greater than 50% of the total Commitments.
+Majority Lenders
+"" means, at any date, TBC's credit default swap mid-rate spread for the one-year period beginning on the most recent Reset Date for the applicable Advance (as provided by Markit), which will be obtained by the Agent from the Markit website, and will be reset as on each Reset Date; , that the Market Rate Spread shall in no event be less than 0.75% or greater than 2.00%.
+Market Rate Spread
+provided
+"" means Markit Group Limited.
+Markit
+"" means the Termination Date or, if the Term Loan Conversion Option described in Section 2.3 has been exercised, the date that is the one-year anniversary of the Termination Date.
+Maturity Date
+"" means Moody's Investor Services, Inc.
+Moody's
+"" has the meaning specified in Section 2.21(a).
+Non-Extending Lender
+"" means a Committed Note or a Bid Note.
+Note
+"" has the meaning specified in Section 2.5(b).
+Notice of Bid Borrowing
+"" means a Notice of Committed Borrowing or a Notice of Bid Borrowing.
+Notice of Borrowing
+"" has the meaning specified in Section 2.2(a).
+Notice of Committed Borrowing
+"" means the Organization for Economic Cooperation and Development.
+OECD
+"" means an individual, partnership, corporation (including a business trust), limited liability company, joint stock company, trust, unincorporated association, joint venture or other entity, or a government or any political subdivision or agency thereof.
+Person
+"" means any item of real property, or any interest therein, buildings, improvements and machinery.
+Property, Plant and Equipment
+"" has the meaning specified in Section 2.19(c).
+Proposed Increased Commitment
+"" means JPMorgan Chase Bank, N.A., Citibank, N.A., Bank of America, N.A., and Deutsche Bank AG.
+Reference Banks
+"" has the meaning specified in Section 2.20(d).
+Register
+"" has the meaning specified in Section 2.21(c).
+Replacement Lenders
+"" means a document substantially in the form of Exhibit C, duly executed by TBC, pursuant to Section 2.19.
+Request for Alteration
+"" has the meaning specified in Section 2.20(a).
+Required Assignment
+"" means (x) for each Eurodollar Rate Advance two business days prior to the first day of each Interest Period and (y) for each Base Rate Advance the last day of each calendar month.
+Reset Date
+ 
+"" means Standard & Poor's, a division of The McGraw-Hill Companies, Inc.
+S&P
+"" means any Person in which more than 50% of the Voting Stock or the interest in the capital or profits is owned by TBC, by TBC and any one or more other Subsidiaries, or by any one or more other Subsidiaries.
+Subsidiary
+"" means, individually and collectively, as the context requires, each Subsidiary that is or becomes a "Borrower" in accordance with Section 2.22; in each case, unless and until it becomes a "Terminated Subsidiary Borrower".
+Subsidiary Borrower
+"" means The Boeing Company, a Delaware corporation.
+TBC
+"" means a term loan resulting from the conversion of Committed Advances on the Termination Date pursuant to Section 2.3.
+Term Loan
+"" means the option under Section 2.3 for TBC to convert, as of the Termination Date, all or a part of the Committed Advances then outstanding into Term Loans.
+Term Loan Conversion Option
+"" means, individually and collectively, as the context requires, a Subsidiary Borrower that has ceased to be a "Borrower" in accordance with Section 2.22.
+Terminated Subsidiary Borrower
+"" means the earlier to occur of (i) November 12, 2010, as such date may be extended from time to time pursuant to Section 2.21, and (ii) the date of termination in whole of the Commitments pursuant to Section 2.8 or Section 6.2.
+Termination Date
+"" has the meaning specified in Section 4.2(b).
+Total Capital
+"", as to Committed Borrowings, means either Base Rate Advances or Eurodollar Rate Committed Advances and, as to Bid Borrowings, means either Fixed Rate Advances or Eurodollar Rate Bid Advances.
+Type
+"" means, with respect to each Lender, such Lender's Commitment minus the aggregate principal amount of Committed Advances made by such Lender.
+Unused Commitment
+"" means, as to a corporation, all the issued and outstanding capital stock of such corporation having general voting power, under ordinary circumstances, to elect a majority of the Board of Directors of such corporation (irrespective of whether or not any capital stock of any other class or classes shall or might have voting power upon the occurrence of any contingency).
+Voting Stock
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Every Notice of Committed Borrowing given by a Subsidiary Borrower must be countersigned by an authorized representative of TBC, in order to evidence the consent of TBC, in its sole discretion, to that proposed Committed Borrowing. Upon receipt of a Notice of Committed Borrowing, the Agent shall promptly give notice to each Lender thereof.
+ 
+ 
+ 
+ 
+ 
+ 
+If such Lender shall repay to the Agent such corresponding amount, such amount so repaid shall constitute such Lender's Committed Advance as part of such Committed Borrowing for purposes of this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+that in the event and during the continuance of an Event of Default (x) the Applicable Margin shall immediately increase by 1.0% above the Applicable Margin then in effect, and, in the case of a Eurodollar Rate Advance, such Advance shall automatically convert to a Base Rate Advance at the end of the Interest Period then in effect for such Eurodollar Rate Advance and (y) to the fullest extent permitted by law, the Borrowers shall pay interest on the amount of any interest, fee or other amount payable hereunder that is not paid when due, from the date such amount shall be due until such amount shall be paid in full, payable in arrears on the date such amount shall be paid in full and on demand, at a rate per annum equal at all times to 1% above the Base Rate.
+provided
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Borrower requesting a Bid Borrowing shall deliver a Notice of Bid Borrowing to the Agent not later than 11:00 a.m. (New York City time) (A) at least one Business Day prior to the date of the proposed Bid Borrowing if the proposed Bid Borrowing is to be a Fixed Rate Borrowing, and (B) at least four Business Days prior to the date of the proposed Bid Borrowing, if the proposed Bid Borrowing is to be a Eurodollar Rate Bid Borrowing. Every Notice of Bid Borrowing given by a Subsidiary Borrower must be countersigned by an authorized representative of TBC, in order to evidence the consent of TBC, in its sole discretion, to that proposed Bid Borrowing. The Agent shall in turn promptly notify each Lender of each request for a Bid Borrowing by sending such Lender a copy of the related Notice of Bid Borrowing.
+ 
+ 
+ 
+ 
+that if the Agent in its capacity as a Lender, in its sole discretion, elects to make any such offer, it shall notify such Borrower and the Company of such offer before 9:30 a.m. (New York City time) on the date on which notice of such election is to be given to the Agent by the other Lenders. If, by 10:00 a.m. (New York City time) on the date on which notice of a Lender's election under this Section 2.5(c) is to be made, the Agent fails to receive, at its address specified in Section 8.2, a notice from a Lender provided for in this Section 2.5(c), the Agent may conclusively presume that such Lender has elected not to offer to make any Bid Advances to such Borrower with respect to the related Notice of Bid Borrowing.
+provided
+ 
+ 
+ 
+If the Borrower proposing the Bid Borrowing notifies the Agent that such Bid Borrowing is canceled pursuant to Section 2.5(d)(i), the Agent shall give prompt notice thereof to the Lenders and such Bid Borrowing shall not be made.
+ 
+ 
+ 
+ 
+When each Lender that is to make a Bid Advance as part of such Bid Borrowing has received notice from the Agent pursuant to clause (iii) of the preceding sentence, such Lender shall, before
+ 
+1:00 p.m. (New York City time) on the date of such Bid Borrowing specified in the notice received from the Agent pursuant to clause (i) of the preceding sentence, make available for the account of its Applicable Lending Office to the Agent at the Agent's Account such Lender's portion of such Bid Borrowing, in same day funds. Upon fulfillment of the applicable conditions set forth in Article 5 and after receipt by the Agent of such funds, the Agent will make such funds available to the relevant Borrower at an account specified by such Borrower. Promptly after each Bid Borrowing the Agent shall notify each Lender of the amount of the Bid Borrowing, the consequent Bid Reduction, and the dates upon which such Bid Reduction commenced and will terminate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+there is an increase in the cost incurred by a Lender in agreeing to make or making, funding or maintaining any Eurodollar Rate Committed Advance or Eurodollar Rate Bid Advance then or at any time thereafter outstanding (excluding for purposes of this Section 2.13 any such increased costs resulting from (i) Taxes or Other Taxes (as to which Section 2.14 shall govern) and (ii) changes in the basis of taxation of overall net income or overall gross income by the United States or by the foreign jurisdiction or state under the laws of which such Lender is organized or has its Applicable Lending Office (or any political subdivision thereof), then TBC shall from time to time, upon demand of such Lender (with a copy of such demand to the Agent), pay to the Agent for the account of such Lender such amounts as are required to compensate such Lender for such increased cost, that such Lender shall exercise reasonable efforts (consistent with its internal policy and legal and regulatory restrictions) to minimize any such increased cost and that the Borrowers shall not be required to pay any such compensation with respect to any period prior to the 90th day before the date of any such demand, unless such introduction, change, compliance or request shall have retroactive effect to a date prior to such 90
+provided
+provided
+further
+th
+day. A certificate as to the amount of such increase in cost, submitted to the relevant Borrowers and the Agent by such Lender, shall be conclusive and binding for all purposes under this Section 2.13(a), absent manifest error.
+ 
+ 
+ 
+ 
+and, in either case, subject to payment in full of all principal, accrued and unpaid interest, fees and other amounts payable under this Agreement and then owing to such Lender immediately prior to the assignment or termination of the Commitment of such Lender.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for such Lender to continue to fund or maintain any Eurodollar Rate Advances or to perform its obligations hereunder with respect to Eurodollar Rate Advances hereunder, then, upon the issuance of such opinion of counsel or such assertion by a central bank or other governmental authority, the Agent shall give notice of such opinion or assertion to the Borrowers (accompanied by such opinion, if applicable). The Borrowers shall forthwith either
+ 
+ 
+Upon such prepayment or Conversion, the obligation of such Lender to make Eurodollar Rate Committed Advances or Eurodollar Rate Bid Advances, or to Convert Committed Advances into Eurodollar Rate Committed Advances, shall be suspended until the Agent shall notify the Borrowers that the circumstances causing such suspension no longer exists.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+subject, in either case, to payment in full of all principal, accrued and unpaid interest, fees, commissions and other amounts payable under this Agreement and then owing to such Lender immediately prior to the assignment or termination of the Commitment of such Lender.
+If the Company shall designate as a Subsidiary Borrower hereunder any Subsidiary not organized under the laws of the United States or any State thereof, any Lender may, with notice to the Agent and the Company, fulfill its Commitment by causing an Affiliate of such Lender to act as the Lender in respect of such Subsidiary Borrower (and such Lender shall, to the extent of Advances made to such Subsidiary Borrower, be deemed for all purposes hereof to have assigned such Advances to such Affiliate in compliance with the provisions of Section 2.20).
+pro tanto
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In lieu of furnishing the Lenders the items referred to in clauses (1), (3), (5) and (6) above, the Company may make available such items on the Company's website at , at or at such other website as notified to the Agent and the Lenders, which shall be deemed to have satisfied the requirement of delivery of such items in accordance with this Section.
+www.boeing.com
+www.sec.gov
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and (b) a representation by TBC that the representations and warranties of TBC contained in subsections (a) through (g) of Section 3.1 are true and accurate on and as of each such date as though made on and as of each such date (except to the extent that such representations and warranties relate solely to an earlier date), and that, as of each such date, no event has occurred and is continuing, or would result from the proposed Committed Borrowing, which constitutes a Default.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and that no amendment, waiver, or consent shall, unless in writing and signed by the Agent in addition to the Lenders required above to take such action, affect the rights or duties of the Agent under this Agreement or any Note.
+provided
+further
+ 
+ 
+ 
+if to the Agent, as set forth on the attached Schedule II;
+if to any Borrower,
+care of The Boeing Company
+100 N. Riverside
+Mail Code: 5003 3648
+Chicago, Illinois 60606
+ 
+Attention: Assistant Treasurer, Corporate Finance and Banking
+facsimile number (312) 544-2399
+if to any Lender, at its Domestic Lending Office; or,
+as to each party, at such other address as designated by such party in a written notice to each other party referring specifically to this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to the fullest extent permitted by law, without notice to any Borrower (any such notice being expressly waived by each Borrower), to set off and apply any and all deposits (general or special, time or demand, provisional or final) at any time held and other indebtedness at any time owing by such Lender or such Affiliate to or for the credit or the account of any Borrower against any and all of the obligations to such Lender or such Affiliate of such Borrower now or hereafter existing under this Agreement and any Notes held by such Lender, whether or not such Lender has made a demand under this Agreement or such Notes and although such obligations may be unmatured. Each Lender shall promptly notify any Borrower after any such setoff and application made by such Lender, that the failure to give such notice shall not affect the validity of such setoff and application. The rights of each Lender under this Section are in addition to other rights and remedies (including, without limitation, other rights of setoff) which such Lender and its Affiliates may have.
+provided
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Agent, each Lender and their Affiliates (collectively, solely for purposes of this paragraph, the ""), may have economic interests that conflict with those of the Borrowers. Each Borrower agrees that nothing in this Agreement or otherwise will be deemed to create an advisory, fiduciary or agency relationship or fiduciary or other implied duty between the Lenders and any Borrower, its stockholders or its affiliates. The Borrowers acknowledge and agree that (i) the transactions contemplated by this Agreement are arm's-length commercial transactions between the Lenders, on the one hand, and the Borrowers, on the other, (ii) in connection therewith and with the process leading to such transaction each of the Lenders is acting solely as a principal and not the agent or fiduciary of any Borrower, its management, stockholders, creditors or any other person, (iii) no Lender has assumed an advisory or fiduciary responsibility in favor of any Borrower with respect to the transactions contemplated hereby or the process leading thereto (irrespective of whether any Lender or any of its affiliates has advised or is currently advising any Borrower on other matters) or any other obligation to any Borrower except the obligations expressly set forth in this Agreement and (iv) each Borrower has consulted its own legal and financial advisors to the extent it deemed appropriate. Each Borrower further acknowledges and agrees that it is responsible for making its own independent judgment with respect to such transactions and the process leading thereto. Each Borrower agrees that it will not claim that any Lender has rendered advisory services of any nature or respect, or owes a fiduciary or similar duty to such Borrower, in connection with such transaction or the process leading thereto.
+Lenders
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their officers thereunto duly authorized as of the day and year first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+
+

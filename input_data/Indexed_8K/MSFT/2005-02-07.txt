@@ -1,0 +1,74 @@
+FILE:MSFT/MSFT-8K-20050207124549.txt.gz
+EVENTS:	Regulation FD Disclosure
+TEXT:
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Item 7.01. Regulation FD Disclosure.
+ 
+Attached as an exhibit to this report are the following materials from Microsoft Corporation's Quarterly Report on Form 10-Q for the quarter ended December 31, 2004, formatted in XBRL (Extensible Business Reporting Language): (i) the information contained in Item 1 (a)-(e) and Items 2, 3 and 4 of Part IFinancial Information, and (ii) the information contained in Items 1, 2 and 4 of Part IIOther Information. These materials are presented for illustration purposes only. These are not the official publicly filed financial statements of Microsoft Corporation. No representation is made that the information presented is accurate or complete, and they are not to be used for investment purposes.
+ 
+In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report of Form 8-K, including Exhibit 99.1, shall not be deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+Overview of Providing XBRL Financial Statements
+ 
+The XBRL version of the Microsoft financial statements are provided in this alternative format to provide global business information users with a more structured expression of the financial statements. XBRL is an XML-based schema created and maintained by XBRL International that allows business reporting data to be represented in a "digital language". XBRL streamlines the way companies report and publish their financial data, and how analysts and investors can review that information. With XBRL, financial data is tagged in a consistent format that allows the data to be easily transported and analyzed (by XBRL-aware applications). As more companies furnish quarterly and annual reports in this XML technology, XBRL will enhance the ability to more quickly understand the contents of financial statements (and business report information in general). The goal of XBRL is to provide an XML-based framework that global business information users will use to create, exchange, and analyze business reporting information.
+ 
+Overview of XBRL International
+ 
+XBRL International is a consortium comprised of over 250 organizations that was originally formed by the American Institute of Certified Public Accountants ("AICPA") in 1999. Microsoft is one of the 13 "charter" companies that originally came together to discuss creating an XML-based standard for business reporting that eventually became XBRL. Additional information and background on XBRL and XBRL International can be found at the XBRL International Web site (www.xbrl.org).
+ 
+Microsoft Financial Reporting in XBRL
+ 
+The key to creating XBRL versions of financial information is the use of XBRL taxonomies (or dictionaries). For this filing, Microsoft has used the public Acknowledged Draft of the US GAAP CI (Commercial and Industrial) taxonomy dated 2004-08-15, based on version 2.1 of the XBRL specification (available for download from the XBRL International Web site). XBRL taxonomies are collections of terms and mathematical and presentation relationships of financial reporting concepts. In addition to the Acknowledged Draft of the US GAAP CI taxonomy, Microsoft also created an extension taxonomy that extends the terms found in the US GAAP CI taxonomy. Only the Microsoft taxonomy (msft-fin) is contained in this filing. More information can be found in the "Instructions" section below.
+ 
+Instructions
+ 
+The present EDGAR system does not allow the receipt of XBRL/XML files unless it is in an altered form. The XBRL specification requires use of tags that are not permitted in an EDGAR filing. Therefore, Microsoft has embedded all of the required XBRL documents as either .JPG or .GIF files to conform to the present EDGAR system.
+ 
+In order to submit the XBRL documents as part of this Form 8-K, the following changes have been made to the Microsoft and XBRL International XBRL XML files:
+ 
+ 
+ 
+The following is a complete listing of all files attached to this Form 8-K:
+ 
+ 
+ 
+Questions related specifically to Microsoft's creation and filing of XBRL financial statements, or general questions related to XBRL, can be emailed to (mohata@microsoft.com).
+Michael Ohata
+
+

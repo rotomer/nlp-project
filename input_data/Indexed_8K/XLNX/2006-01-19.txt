@@ -1,0 +1,171 @@
+FILE:XLNX/XLNX-8K-20060119163044.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Item 2.02 Results of Operations and Financial Condition
+ 
+On January 19, 2006, Xilinx, Inc. issued a press release announcing results for the fiscal quarter ended December 31, 2005.  A copy of this press release is furnished as Exhibit 99.1 to this report.
+ 
+ 
+(d)  Exhibits
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+ 
+Investor Relations Contact:
+Lori Owen
+Xilinx, Inc.
+(408) 879-6911
+ir@xilinx.com
+ 
+XILINX ANNOUNCES DECEMBER QUARTER RESULTS;
+NEW PRODUCT SALES INCREASE 24% SEQUENTIALLY.
+ 
+SAN JOSE, CA, JANUARY 19, 2006
+ Xilinx, Inc. (Nasdaq: XLNX) today announced net revenues of $450 million in the third quarter of fiscal 2006,
+up 13% sequentially from the prior quarter and up 27% from the same quarter a year ago. Third quarter n
+et income was $81 million, or $0.23 per diluted share, compared to net income of $86 million or $0.24 per diluted share in the prior quarter.
+ 
+The tax provision for the third quarter of fiscal 2006 includes a $25.3 million charge related to the planned repatriation of $500 million in foreign earnings pursuant to the provisions of the American Jobs Creation Act of 2004.  In addition, the Company recorded a tax benefit of $9.5 million primarily related to the ability to use certain credits that were previously accounted for as unusable.  The net impact of these items added $15.8 million to the Company's third quarter tax provision.
+ 
+Xilinx also announced that its Board of Directors declared a quarterly cash dividend of $0.07 per outstanding share of common stock, payable on March 1, 2006 to all stockholders of record at the close of business on February 8, 2006.
+ 
+Additional third quarter comparisons are represented in the chart below.
+ 
+Quarterly Information
+(In millions, except EPS)
+ 
+ 
+December quarter sales were better than expected as a result of broad based product and end market strength.  Sales from each of Xilinx's Virtex products were strong during the quarter contributing to strength in both the New and Mainstream product categories.  From an end market perspective, sales from the Industrial and Other category were particularly strong, fueled by applications in defense and test and measurement.
+ 
+"Xilinx's New Product sales were strong in the third quarter," said Wim Roelandts, Chief Executive Officer and Chairman of the Board.  "Sales from these products increased 24% sequentially driven by strong sales of Xilinx's Virtex-4, Virtex-II Pro, Spartan-3 and CoolRunner-II families.  New Products currently represent 33% of total sales, up from 30% last quarter and up from 20% in the same quarter a year ago.  I am also pleased with our continued manufacturing efficiencies and solid financial management which contributed to improved gross and operating margins.  Gross margin in the quarter increased to 63%, up from 61% in the prior quarter and operating margin increased to 27%, up from 21% in the prior quarter."
+ 
+Business Review  December Quarter FY06
+ 
+Total inventory days at Xilinx and distribution were 144 days, down from 146 days last quarter.
+ - 
+                 
+Accounts receivable days sales outstanding were 29, down from 44 in the prior quarter.
+ - 
+                 
+Capital expenditures and depreciation were $14 million and $13 million, respectively.
+ - 
+                 
+ 
+Net revenues by Geography:
+ 
+ 
+Net revenues by End Market:
+ 
+ 
+Net revenues by Product*:
+ 
+ 
+*Products are classified as follows:
+ 
+and CoolRunner II products
+New products: Virtex-4, Virtex-II Pro, Spartan-IIE, Spartan-3, Spartan-3E, Easypath
+-
+Mainstream products: Virtex-II, Spartan-II, SpartanXL, CoolRunner, Virtex-E and Virtex products
+XC4000E, XC4000EX, XC5200, XC9500, XC9500XL, XC9500XV and Spartan products
+XC4000XL, XC4000XLA, XC4000XV,
+Base products: XC3000, XC3100, XC4000,
+Support products: Configuration solutions, HardWire, Software & Support/Services
+ 
+Highlights  December Quarter FY06:
+ 
+Xilinx shipped a record 10 million 90nm devices during the quarter and now has four product families in production on 90nm.  Just nine months after introduction, Xilinx completed the roll-out of its newest Spartan family, Spartan-3E.  The logic-intensive Spartan-3E family complements the I/O intensive Spartan-3 family and enables Xilinx to address a wider spectrum of applications in the areas of consumer and low cost networking.
+ - 
+                       
+ 
+Xilinx entered into strategic agreements with both Toshiba Corporation and UMC to include technology development at 65nm and beyond. Research and development efforts at both foundries have resulted in 65nm prototype wafers, including actual programmable circuitry.
+ - 
+                       
+During the quarter, Xilinx announced the release of applicationsoptimized XtremeDSP solutions that accelerate development of multimedia, video and imaging (MVI) systems.  The easy-to-use MVI-tailored solutions include an integrated design environment with robust tools and easy-to-use pre-packaged development kits.  Additionally, Xilinx recently announced the acquisition of Accelchip, a provider of DSP design tools.  This acquisition strengthens Xilinx's commitment to evolving the programming model for FPGA-based DSP system design.
+ - 
+                       
+ 
+Xilinx announced the 8.1i release of its popular Integrated Software Environment (ISE ) design tools, featuring IS Fmax Technology with enhanced physical synthesis capabilities to improve performance and timing closure for both the Virtex-4 and Spartan-3 architectures.  Using ISE 8.1i software, designers can boost performance by an average of 10% to 37% as compared to previous ISE releases and up to 70% over competing solutions using Virtex-4 FPGAs.
+ - 
+                       
+ 
+On November 15, 2005, Xilinx announced a $40 million investment in a new building in Singapore, our Asia regional headquarters.  The new building will quadruple the existing capacity of its on-site manufacturing facility, triple the in-house process development resources and provide increased infrastructure support for the 13 offices across the Asia Pacific region.
+ - 
+                       
+ 
+Business Outlook  March Quarter FY06
+ 
+ - 
+                 
+Revenues expected to be up 1% - 5% sequentially.
+ - 
+                 
+Gross margin expected to be approximately 63%.
+ - 
+                 
+Operating expenses expected to increase approximately 7% sequentially, inclusive of the impact of the acquisition of Accelchip.
+ - 
+                 
+Other income expected to be approximately $10 million.
+ - 
+                 
+Tax rate expected to be approximately 23% plus or minus one percentage point.
+ - 
+                 
+Fully diluted share count expected to decrease to approximately 351 million shares.
+ 
+Business Update  March Quarter FY06
+ 
+A fourth quarter business update will be issued in the form of a press release after the market closes on Monday, March 6, 2006.  Financial guidance to the investment community will be limited to the points mentioned in the business update document.  Please sign up for a push email alert, which is available from our investor relations web site at http://www.investor.xilinx.com.
+ 
+This release contains forward-looking statements and projections. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, customer acceptance of our new products, the ability of our customers to manage their inventories, a high dependence on turns business, higher-than-anticipated product delinquencies, more customer volume discounts than expected, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to secure meaningful wafer capacity from our suppliers, our ability to secure adequate test, packaging and assembly capacity from our suppliers, our ability to successfully manage production at multiple foundries, currency fluctuations and their respective impact to
+customer purchasing power, variability in wafer pricing, and other risk factors listed in our most recent Form 10-K.
+ 
+About Xilinx
+ 
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available athttp://www.xilinx.com.
+ 
+30
+#0609
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+ 
+(In thousands, except per share amounts)
+ 
+ 
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+ 
+ 
+(1) Derived from audited financial statements
+ 
+
+

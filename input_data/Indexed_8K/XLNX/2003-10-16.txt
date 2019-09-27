@@ -1,0 +1,135 @@
+FILE:XLNX/XLNX-8K-20031016162046.txt.gz
+EVENTS:	Financial statements and exhibits	Regulation FD Disclosure
+TEXT:
+ITEM: Financial statements and exhibits
+ITEM: Regulation FD Disclosure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 9.        
+Regulation FD Disclosure and Disclosure of Results of Operations and Financial Condition (Item 12)*
+ 
+The following information and exhibit relating thereto are furnished pursuant to Items 9 and 12 of this Current Report on Form 8-K:  On October 16, 2003, Xilinx, Inc. (the "Company") issued a press release announcing the Company's earnings for the fiscal quarter ended September 27, 2003.  A copy of the press release is attached hereto as Exhibit 99.1.
+ 
+The information furnished under Item 9 and Item 12 of this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed to be "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section.
+*
+                
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+EXHIBIT 99.1
+ 
+Investor Relations Contact: Lori Owen Xilinx, Inc. (408) 879-6911
+ir@xilinx.com
+ 
+ 
+ Xilinx, Inc. (Nasdaq: XLNX) today announced results for the second quarter of fiscal 2004.  For the quarter, Xilinx recorded revenues of $315.5 million and a net income of $56.4 million, or $0.16 per diluted share.  This compares to revenues of $313.3 million and a net income of $46.2 million or $0.13 per share in the first quarter of fiscal 2004, which included a pre-tax $6.4 million charge relating to litigation.
+SAN JOSE, CA, OCTOBER 16, 2003
+ 
+Quarterly Information
+(In millions, except EPS)
+ 
+ 
+Xilinx's operating results improved significantly during the quarter.  Gross margin of 61% was better than expected and up from 60% in the prior quarter.   Firm expense controls resulted in operating margin improving to 22%, up from 18% in the prior quarter.  Similarly, net profit margin was 18%, up from 15% in the prior quarter.  Both operating margin and profit margin were at their highest levels since the September quarter of CY2000.  "Much of this improvement has been driven by the shift to 300mm wafer production, which enables significant cost reductions.  In the September quarter, over 50% of our wafers were produced using 300mm wafers, up from approximately 40% in the prior quarter.  Our early and aggressive move to 300mm technology is not only paying off, but providing Xilinx with a significant competitive cost advantage," said Wim Roelandts, President and Chief Executive Officer.
+ 
+and Spartan-IIE FPGA sales were the strongest.  I am also encouraged by the rapid customer adoption of our new Spartan-3 FPGA family."  New product sales represented 32% of revenues, up from 26% last quarter and up from 21% in the same quarter a year ago.
+"I am also pleased with the growth of our new products, which increased 22% during the quarter," continued Roelandts.  "While sales from all products in this category increased sequentially, Virtex-II Pro
+ 
+Business Review  September Quarter FY04
+ 
+Xilinx generated $56 million in cash flow from operations
+ - 
+                      
+Total inventory days at Xilinx and worldwide distributors were 117 days, down from 121 days last quarter.
+ - 
+                      
+Accounts receivables days sales outstanding were 48, up from 40 in the prior quarter.
+ - 
+                      
+Capital expenditures and depreciation were $9 million and $13 million, respectively.
+ - 
+                      
+Revenue by Geography:
+ 
+ 
+Revenue by End Market:
+ 
+ 
+Revenue by Product*:
+ 
+ 
+*Products are classified as follows:
+ 
+and CoolRunner II products
+New products: Spartan-IIE, Spartan-3, Virtex-II, Virtex-II Pro, Virtex-II Easypath
+-
+Mainstream products: XC4000XL, XC4000XLA, XC4000XV, Spartan-II, SpartanXL, XC9500XL, XC9500XV, CoolRunner, Virtex-E, Virtex products
+Base products: XC2000, XC3000, XC3100, XC4000, XC5200, XC9500, Spartan, XC4000E, XC4000EX products
+, Software & Support/Services
+Support products: Configuration solutions, HardWire
+ 
+Product Highlights  September Quarter FY04
+ 
+Cumulative sales from Xilinx's Virtex family surpassed $2 billion during the quarter, setting a new industry milestone and solidifying the Virtex family's position as the industry's most popular FPGA.  Recently, Xilinx extended its FPGA leadership by shipping the world's highest capacity FPGA during the quarter.  The XC2VP100 device contains 430 million transistors, 100K logic cells, 20 multi-gigabit transceivers and two PowerPC processors. Virtex-II Pro devices continue to be the industry's only devices in fully qualified production on 130nm and 300mm technology.
+ - 
+                      
+ 
+On September 8th Xilinx introduced its new software suite, ISE6.1i.  The combination of ISE6.1i and Virtex-II Pro FPGAs offers customers 38% faster performance and 15% better logic utilization than the nearest competitive offering.
+ - 
+                      
+ 
+Introduced in March 2003, Xilinx's Spartan-3, low-cost FPGA family is already the fastest growing Spartan family in Xilinx history.  Four devices are now shipping in volume with hundreds of customers receiving shipments in the September quarter.  As the industry's only 90nm FPGA, Spartan-3 devices leverage significant cost reductions, enabling Xilinx to offer customers an unprecedented one million gates for under $12.
+ - 
+                      
+ 
+Business Outlook  December Quarter FY04
+ 
+Revenues expected to increase 4%+/- sequentially.
+ - 
+                      
+Gross margin expected to increase to approximately 62%.
+ - 
+                      
+Operating expenses for 14-week December quarter expected to increase by 7%.
+ - 
+                      
+Other income expected to be approximately $5 million.
+ - 
+                      
+Tax rate expected to be 25% for fiscal year 2004.
+ - 
+                      
+Fully diluted share count expected to approximate 357 million.
+ - 
+                      
+ 
+Business Update  December Quarter FY04
+ 
+A third quarter business update will be issued in the form of a press release after the market closes on Tuesday, December 2, 2003.  Financial guidance to the investment community will be limited to the points mentioned in the business update document.  Please sign up for a push email alert, which is available from our investor relations web site at http://www.investor.xilinx.com.
+ 
+This release contains forward-looking statements and projections. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, potential impact to customer ordering patterns, customer acceptance of our new products, the ability of our customers to manage their inventories, higher-than-anticipated product delinquencies, more customer volume discounts than expected, fluctuations in manufacturing yields, our ability to successfully migrate to 90nm process technology, currency fluctuations and their respective impact to customer purchasing power, variability in wafer pricing, stock price fluctuations and amount of share buyback, and other risk factors listed in our most recent Form 10K.
+ 
+About Xilinx
+ 
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available athttp://www.xilinx.com.
+ 
+30
+ 
+#03140
+ 
+ 
+(1) Derived from audited financial statements
+ 
+ 
+
+

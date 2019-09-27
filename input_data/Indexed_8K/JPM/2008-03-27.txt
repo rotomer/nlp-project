@@ -1,0 +1,773 @@
+FILE:JPM/JPM-8K-20080327191650.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+Item 1.01. Entry into a Material Definitive Agreement.
+Guarantee and Collateral Agreement
+     
+On March 24, 2008, JPMorgan Chase & Co. ("JPMorgan Chase"), in connection with Amendment No. 1 (the "Amendment") to the Agreement and Plan of Merger, dated as of March 16, 2008, by and between JPMorgan Chase and The Bear Stearns Companies Inc. ("Bear Stearns"), and the Amended and Restated Guaranty Agreement (the "Guaranty"), effective retroactively from March 16, 2008, each of which were described in and filed with JPMorgan Chase's Current Report on Form 8-K dated March 24, 2008, entered into a Guarantee and Collateral Agreement (the "Collateral Agreement") with Bear Stearns and certain of its subsidiaries (collectively, the "Collateral Parties"). Under the Collateral Agreement, the Collateral Parties agreed to guarantee the obligations of each of them and of the other subsidiaries of Bear Stearns to repay to JPMorgan Chase (1) any loans or other advances of cred it by JPMorgan Chase and its affiliates to Bear Stearns and its affiliates and (2) any amounts paid by JPMorgan Chase to creditors of Bear Stearns and its affiliates under the Guaranty and the JPMorgan Chase guarantee, entered into on March 23, 2008, in favor of the Federal Reserve Bank of New York (the "Fed Guaranty"). Each of the Collateral Parties secured their guarantee by granting a lien on substantially all of their respective assets, subject to certain carveouts.
+     
+The foregoing description of the Collateral Agreement does not purport to be complete and is qualified in its entirety by reference to the Collateral Agreement, which is filed as Exhibit 99.1 hereto, and is incorporated into this report by reference.
+Forward-Looking Statements
+     This filing contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements about the benefits of the merger between JPMorgan Chase & Co. and The Bear Stearns Companies Inc., including future financial and operating results, the combined company's plans, objectives, expectations and intentions and other statements that are not historical facts. Such statements are based upon the current beliefs and expectations of JPMorgan Chase's management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements.
+     The following factors, among others, could cause actual results to differ from those set forth in the forward-looking statements: the ability to obtain governmental and self-regulatory organization approvals of the merger on the proposed terms and schedule and any changes to regulatory agencies' outlook on, responses to and actions and commitments taken in connection with the merger and the agreements and arrangements related thereto; the extent and duration of continued economic and market disruptions; adverse developments in the business and operations of Bear Stearns, including the loss of client, employee, counterparty and other business relationships; the failure of Bear Stearns stockholders to approve the merger; the risk that the businesses will not be integrated successfully; the risk that the cost savings and any other synergies from the merger may not be fully realized or may take longer to realize than expected; disruption from the merger making it more difficult to maintain business and operational relationships; increased competition and its effect on pricing, spending, third-party relationships and revenues; the risk of new and changing regulation in the United States and internationally and the exposure to litigation and/or regulatory actions. Additional factors that could cause JPMorgan Chase's results to differ materially from those described in the forward-looking statements can be found in the firm's Annual Report on Form 10-K for the year ended December 31, 2007, filed with the Securities and Exchange Commission and available at the Securities and Exchange Commission's Internet site (http://www.sec.gov).
+Additional Information
+     In connection with the proposed merger, JPMorgan Chase will file with the SEC a Registration Statement on Form S-4 that will include a proxy statement of Bear Stearns that also constitutes a prospectus of JPMorgan Chase. Bear Stearns will mail the proxy statement/prospectus to its stockholders. JPMorgan Chase and Bear Stearns urge investors and security holders to read the proxy statement/prospectus regarding the proposed merger when it becomes available because it will contain important information. You may obtain copies of all documents filed with the SEC regarding this transaction, free of charge, at the SEC's website (www.sec.gov). You may also obtain these documents, free of charge, from JPMorgan Chase's website (www.jpmorganchase.com) under the tab "Investor Relations" and then under the heading "Financial Information" then under the item "SEC Filings". You may also obtain these documents, free of charge, from Bear Stea rns's website (www.bearstearns.com) under the heading "Investor Relations" and then under the tab "SEC Filings."
+     JPMorgan Chase, Bear Stearns and their respective directors, executive officers and certain other members of management and employees may be soliciting proxies from Bear Stearns stockholders in favor of the merger. Information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of the Bear Stearns stockholders in connection with the proposed merger will be set forth in the proxy statement/prospectus when it is filed with the SEC. You can find information about JPMorgan Chase's executive officers and directors in its definitive proxy statement filed with the SEC on March 30, 2007. You can find information about Bear Stearns's executive officers and directors in its definitive proxy statement filed with the SEC on March 27, 2007. You can obtain free copies of these documents from JPMorgan Chase and Bear Stearns using the contact information above.
+     
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+EXHIBIT 99.1
+Page
+Schedules
+     
+GUARANTEE AND COLLATERAL AGREEMENT, dated and effective as of March 24, 2008 (this "
+Agreement
+"), among JPMORGAN CHASE & CO., a Delaware corporation ("
+JPM
+"), THE BEAR STEARNS COMPANIES INC., a Delaware corporation ("
+BSC
+") and each Subsidiary of BSC signatory hereto and set forth on Schedule I hereto.
+     
+WHEREAS, JPM and BSC are parties to that certain Agreement and Plan of Merger, dated as of March 16, 2008 (the "
+Merger Agreement
+");
+     
+WHEREAS, in connection with the Merger Agreement, JPM executed that certain Guaranty, dated as of March 16, 2008 (the "
+Original Guaranty
+");
+     
+WHEREAS, contemporaneously with the execution of this Agreement the parties have entered into an amendment to the Merger Agreement (the "
+Merger Agreement
+Amendment
+");
+     
+WHEREAS, contemporaneously with the execution of this Agreement JPM has executed a Guarantee in favor of the Federal Reserve Bank of New York (the "
+Fed
+") in respect of certain obligations of BSC and its Affiliates to the Fed (the "
+Fed Guaranty
+");
+     
+WHEREAS, contemporaneously with the execution of this Agreement JPM has executed the Amended and Restated Guaranty Agreement dated as of March 16, 2008 in respect of certain obligations of BSC and its Affiliates to entities other than the Fed and its affiliates (the "
+Restated Guaranty
+");
+     
+WHEREAS, JPM or its Affiliates have provided and may in the future provide loans and other extensions of credit to BSC or its Affiliates;
+     
+WHEREAS, in consideration of the Merger Agreement Amendment, the Fed Guaranty and the Restated Guaranty, and as a condition to the entry by JPM into each of the foregoing, and to induce continuing and/or future extensions of credit by JPM or its Affiliates, BSC and the Subsidiary Parties have agreed to enter into this Agreement on the terms hereof;
+     
+WHEREAS, entry into this Agreement constitutes further action that is necessary and desirable to carry out the purposes of the Merger Agreement and the Original Guaranty; and
+     
+WHEREAS, the Subsidiary Parties, as affiliates of BSC and of the Covered BSC Entities (as defined in the Restated Guaranty), will derive substantial benefits from the Merger Agreement Amendment, the Fed Guaranty and the Restated Guaranty, including the funding and continuation without disruption of their respective businesses and are willing to execute and deliver this Agreement in order to induce JPM to enter into the foregoing;
+     
+NOW, THEREFORE, BSC, each Subsidiary Party and JPM hereby agree as follows:
+Section 1.01.
+Guaranties
+. Unless otherwise stated herein:
+     
+(i) Capitalized terms used in this Agreement and not otherwise defined herein have the meanings assigned thereto in the Fed Guaranty and/or the Restated Guaranty, as applicable.
+     
+(ii) All terms defined in the New York UCC (as defined below) and not defined in this Agreement have the meanings specified therein.
+     
+(iii) The term "
+instrument
+" shall have the meaning specified in Article 9 of the New York UCC.
+Section 1.02.
+Other Defined Terms
+. As used in this Agreement, the following terms have the meanings specified below:
+     
+"
+Account Debtor
+" means any person who is or who may become obligated to any Pledgor under, with respect to or on account of an Account, Chattel Paper, General Intangibles, Instruments or Investment Property.
+     
+"
+Affiliate
+" shall mean, when used with respect to a specified person, another person that directly, or indirectly through one or more intermediaries, Controls or is Controlled by or is under common Control with the person specified.
+"
+Agreement
+" has the meaning assigned thereto in the preamble to this agreement.
+"
+BSC
+" has the meaning assigned thereto in the preamble to this Agreement.
+"
+Collateral
+" has the meaning assigned to such term in Section 4.01.
+     
+"
+Control
+" shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a person, whether through the ownership of voting securities, by contract or otherwise, and "
+Controlling
+" and "
+Controlled
+" shall have meanings correlative thereto.
+     
+"
+Copyright License
+" means any written agreement, now or hereafter in effect, granting any right to any Pledgor under any Copyright now or hereafter owned by any third party, and all rights of any Pledgor under any such agreement (including, without limitation, any such rights that such Pledgor has the right to license).
+     
+"
+Copyrights
+" means all of the following now owned or hereafter acquired by any Pledgor: (a) all copyright rights in any work subject to the copyright laws of the United States or any other country, whether as author, assignee, transferee or otherwise; and (b) all registrations and applications for registration of any such Copyright in the United States or any other country, including registrations, supplemental registrations and pending applications for registration in the
+United States Copyright Office and the right to obtain all renewals thereof, including without limitation those listed on
+Schedule III
+.
+     
+"
+Deposit Accounts
+" means all "Deposit Accounts" as defined in the New York UCC.
+     
+"
+Equity Interests
+" of any person shall mean any and all shares, interests, rights to purchase or otherwise acquire, warrants, options, participations or other equivalents of or interests in (however designated) equity or ownership of such person, including any preferred stock, any limited or general partnership interest and any limited liability company membership interest, and any securities or other rights or interests convertible into or exchangeable for any of the foregoing.
+     
+"
+Fed Guaranty
+" has the meaning assigned thereto in the recitals to this Agreement.
+"
+Federal Securities Laws
+" has the meaning assigned to such term in Section 5.03.
+     
+"
+Financial Contracts
+" means swaps, repurchase agreements, futures contracts, forward contracts, commodities contracts, securities contracts (including in respect of purchase, sale and lending of securities), options, currency and foreign exchange contracts, derivatives, Trading Contracts (as defined in the Restated Guaranty) and other contracts of a similar nature and any master agreements entered into in connection therewith or under which the aforesaid shall be governed.
+     
+"
+General Intangibles
+" means all "General Intangibles" as defined in the New York UCC, including all choses in action and causes of action and all other intangible personal property of any Pledgor of every kind and nature now owned or hereafter acquired by any Pledgor, including corporate or other business records, indemnification claims, contract rights (including rights under leases, whether entered into as lessor or lessee, swap agreements, repurchase agreements and other agreements), Intellectual Property, goodwill, registrations, franchises, tax refund claims and any guarantee, claim, security interest or other security held by or granted to any Pledgor to secure payment by an Account Debtor of any of the Accounts.
+     
+"
+Governmental Authority
+" shall mean any federal, state, provincial, territorial, municipal, local or foreign court or governmental agency, authority, instrumentality or regulatory or legislative body.
+     
+"
+Guaranty
+" means any or all of the Fed Guaranty, the Original Guaranty and the Restated Guaranty.
+"
+Guarantor
+" means BSC and each of the Subsidiary Parties.
+     
+"
+Indenture
+" means the Indenture dated as of May 31, 1991 executed by BSC in favor of Manufacturers Hanover Trust Company (n/k/a, JPMorgan Chase Bank, National Association) as trustee.
+     
+"
+Intellectual Property
+" means all intellectual property of every kind and nature now owned or hereafter acquired by any Pledgor, including, inventions, designs, Patents, Copyrights, Trademarks, Patent Licenses, Copyright Licenses, Trademark Licenses, trade secrets, domain names, confidential or proprietary technical and business information, knowhow, show-how or other data or information and all related documentation.
+     
+"
+Intellectual Property Security Agreement
+" means a security agreement in the form hereof or a short form hereof, in each case, which form shall be reasonably acceptable to JPM.
+     
+"
+Investment Property
+" means all "Investment Property" as defined in the New York UCC.
+     
+"
+IP Agreements
+" means all material Copyright Licenses, Patent Licenses, Trademark Licenses, and all other agreements, permits, consents, orders and franchises relating to the license, development, use or disclosure of any material Intellectual Property to which a Pledgor, now or hereafter, is a party or a beneficiary, including, without limitation, the agreements set forth on
+Schedule III
+hereto.
+"
+JPM
+" has the meaning assigned thereto in the preamble to this Agreement.
+     
+"
+JPM Party
+" means JPM and any Affiliate of JPM to which all or any part of an Obligation is owed.
+     
+"
+Lease Rights
+" means all leases, subleases, franchises, licenses, concessions, permits, contracts and other agreements pursuant to which any Pledgor leases any space (other than space consisting of or located at 383 Madison Avenue, New York, New York) from or to any person or entity or has the use, occupancy or possession of any real property (other than real property located at 383 Madison Avenue, New York, New York) now or hereafter entered into and any and all amendments, supplements, modifications, restatements, guaranties, renewals or extensions thereof (the "Leases"); the right to receive and apply any rents, issues and profits of or with respect to any and all Leases, including any and all allowances, concessions and consideration pay able thereunder or in connection therewith, including in connection with any assignment, transfer or further leasing or subleasing of any Leases or the premises under the Lease (the "Rents"); and all other amounts payable to or for the benefit of any Pledgor under or in connection with the Leases and all rights, claims, powers, privileges and remedies of any Pledgor (including without limitation any and all rights and interests in buildings, improvements, fixtures and personal property, and any and all options or rights of first refusal, first offer or first negotiation to lease or to purchase, extend, renew, terminate, expand, or contract the premises under any Lease), whether arising under the Leases, by statute or at law or in equity or otherwise.
+"
+Margin Stock
+" shall have the meaning assigned to such term in Regulation U.
+     
+"
+Merger Agreement
+" has the meaning assigned thereto in the recitals to this Agreement.
+     
+"
+New York UCC
+" means the Uniform Commercial Code as from time to time in effect in the State of New York.
+     
+"
+Note Issuance Agreement
+" means the Second Amended and Restated Note Issuance Agreement, dated as of June 28, 2002, between Bear Stearns Global Asset Holdings, Ltd., The Bear Stearns Companies Inc., JPMorgan Chase Bank, Kredietbank S.A. Luxembourgeosie, Bear, Stearns International Limited and Bear, Stearns & Co. Inc., as supplemented or otherwise amended from time to time.
+     
+"
+Obligations
+" means all obligations and liabilities of BSC and its Affiliates to JPM and its Affiliates (a) under this Agreement and Section 6.7 of the Merger Agreement, at common law or in equity, for repayment or reimbursement in respect of any payment made by JPM and its Affiliates under or in respect of the Restated Guaranty, (b) under or in respect of all rights of subrogation, reimbursement, indemnity, contribution or other payment (whether by law, contract or otherwise, including pursuant to Section 5 of the Original Guaranty and the Restated Guaranty and Section 3 of the Fed Guaranty) arising from or in respect of any payment under any Guaranty or any other extension of credit by JPM or any of its Affiliates to or for the benefit of BSC or any of its Affiliates, including without limitation (i) all payments by JPM and its Affiliates to the Fed (or any affiliate thereof) under the Fed Guaranty in respect of borrowing, repurchase agreement, securities lending and other Financial Contract transactions entered into by BSC and its Affiliates with the Fed (or any affiliate thereof) and (ii) the payment or performance by JPM or any of its Affiliates of any obligation to a creditor or counterparty of any Covered BSC Entity in respect of any Underlying Liability, and/or (c) under or in respect of all loans, advances and other extensions of credit (including intraday and overnight advances and overdrafts and including counterparty exposure in respect of repurchase agreements, securities contracts and other Financial Contracts) by JPM and its Affiliates to or on behalf of BSC and its Affiliates (including all amendments, modifications, restatements, renewals, increases, supplements, refundings, replacements or refinancings thereof) to the extent that such l oans, advances and extensions of credit were made or remained outstanding after the execution of the Merger Agreement, including, without limitation, loans, advances and extensions of credit made after the date hereof.
+     
+"
+Ownership Limitations
+" shall mean restrictions with respect to the placing of liens on the Equity Interests of certain direct and indirect Subsidiaries of BSC contained (whether through lien covenants, negative pledge clauses, "ownership of obligor" clauses or otherwise) in loan agreements, repurchase agreements and other agreements relating to the financing of BSC and its Subsidiaries that are material to the obligors thereunder.
+     
+"
+Patent License
+" means any written agreement, now or hereafter in effect, granting to any Pledgor any right to make, use or sell any invention covered by a Patent, now or hereafter owned by any third party (including, without limitation, any such rights that such Pledgor has the right to license).
+     
+"
+Patents
+" means all of the following now owned or hereafter acquired by any Pledgor: (a) all letters patent of the United States or the equivalent thereof in any other country or jurisdiction, including those listed on
+Schedule III
+, and all applications for letters patent of the United States or the equivalent thereof in any other country or jurisdiction, including those listed on
+Schedule III
+, and (b) all provisionals, reissues, extensions, continuations, divisions, continuations-in- par t, reexaminations or revisions thereof, and the inventions disclosed or
+claimed therein, including the right to make, use, import and/or sell the inventions disclosed or claimed therein.
+     
+"
+Permitted Liens
+" means (a) involuntary liens arising under law, (b) liens imposed by law or regulation in favor of governmental entities or customers, (c) liens existing as of the date hereof securing debt of a Pledgor in an amount not to exceed the amount in existence as of the date hereof and future advances committed and secured as of the date hereof, (d) liens created in the ordinary course of business of the Pledgors, consistent with the Merger Agreement and Section 7.18 of this Agreement.
+     
+"
+Person
+" or "
+person
+" shall mean any natural person, corporation, business trust, joint venture, association, company, partnership, limited liability company, individual or family trusts, or government or any agency or political subdivision thereof.
+     
+"
+Pledged Debt Obligations
+" means, as to any Pledgor, the debt obligations owned by such Pledgor beneficially or of record and the certificates, promissory notes and any other documents and instruments, if any, evidencing such debt obligations.
+     
+"
+Pledged Securities
+" means any Equity Interests, promissory notes, stock certificates or other securities (whether constituting Equity Interests or Pledged Debt Obligations or otherwise) now or hereafter included in the Collateral, including all certificates, instruments or other documents representing or evidencing any Collateral.
+"
+Pledgor
+" means BSC and each of the Subsidiary Parties.
+     
+"
+Primary Obligor
+" shall mean, with respect to any Underlying Liability, the Affiliate of BSC (or, as the case may be, BSC itself) that is primarily liable with respect to such Underlying Liability.
+"
+Regulated Entity
+" shall mean any Subsidiary listed on Schedule IA hereto.
+     
+"
+Regulation T
+" shall mean Regulation T of the Board of Governors of the Federal Reserve System of the United States of America as from time to time in effect and all official rulings and interpretations thereunder or thereof.
+     
+"
+Regulation U
+" shall mean Regulation U of the Board of Governors of the Federal Reserve System of the United States of America as from time to time in effect and all official rulings and interpretations thereunder or thereof.
+     
+"
+Regulation X
+" shall mean Regulation X of the Board of Governors of the Federal Reserve System of the United States of America as from time to time in effect and all official rulings and interpretations thereunder or thereof.
+     
+"
+Restated Guaranty
+" has the meaning assigned thereto in the recitals to this Agreement.
+"
+Security Interest
+" has the meaning assigned to such term in Section 4.01.
+     
+"
+Subsidiary
+" means with respect to any person (herein referred to as the "parent"), any corporation, partnership, association or other business entity (a) of which securities or other ownership interests representing more than 50% of the equity or more than 50% of the ordinary voting power or more than 50% of the general partnership interests are, at the time any determination is being made, directly or indirectly, owned, Controlled or held, or (b) that is, at the time any determination is made, otherwise Controlled, by the parent or one or more subsidiaries of the parent or by the parent and one or more subsidiaries of the parent.
+     
+"
+Subsidiary Party
+" means each Subsidiary of BSC that is a party hereto, and any Subsidiary that becomes a party hereto pursuant to Section 7.16.
+     
+"
+Trademark License
+" means any written agreement, now or hereafter in effect, granting to any Pledgor any right to use any Trademark now or hereafter owned by any third party (including, without limitation, any such rights that such Pledgor has the right to license).
+     
+"
+Trademarks
+" means all of the following now owned or hereafter acquired by any Pledgor: (a) all trademarks, service marks, corporate names, company names, business names, fictitious business names, trade styles, trade dress, logos, other source or business identifiers, designs and general intangibles of like nature, now existing or hereafter adopted or acquired, all registrations thereof (if any), and all registration and recording applications filed in connection therewith, including registrations and registration applications in the United States Patent and Trademark Office or any similar offices in any State of the United States or any other country or any political subdivision thereof (except for "intent-to-use" applications for trademar k or service mark registrations filed pursuant to Section 1(b) of the Lanham Act, 15 U.S.C.  1051, unless and until an Amendment to Allege Use or a Statement of Use under Sections 1(c) and 1(d) of Lanham Act has been filed, to extent that any assignment of an "intent-to-use" application prior to such filing would violate the Lanham Act), and all renewals thereof, including those listed on
+Schedule III
+and (b) all goodwill associated therewith or symbolized thereby.
+     
+"
+Trigger Event
+" shall mean (A) the failure by BSC or any of the Subsidiary Parties to make a payment due hereunder within two (2) business days of JPM's request therefor, (B) the failure by BSC acting in the capacity of Primary Obligor or any of the Subsidiary Parties acting in the capacity of Primary Obligor to pay within two business daysof the due date thereof any Obligation and (C) the commencement of any bankruptcy, insolvency, receivership, liquidation or like facility with respect to BSC or any of its material Subsidiaries.
+     
+"
+Underlying Liability
+" shall mean any claim, liability or other obligation, the payment and/or performance of which is guaranteed by JPM pursuant to a Guaranty or, as the case may be, any direct obligation of BSC or its Affiliates to JPM or its Affiliates (other than an obligation arising under Section 2.01 hereof).
+     
+Section 1.03.
+Terms Generally
+. The definitions set forth or referred to in Section 1 shall apply equally to both the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words "include," "includes" and "including" shall be deemed to be followed by the phrase "without limitation." All references herein to Articles, Sections, Exhibits and Schedules shall be deemed references to Articles and Sections of, and Exhibits and
+Schedules to, this Agreement unless the context shall otherwise require. Except as otherwise expressly provided herein, any reference in this Agreement to any document or agreement shall mean such document as amended, restated, supplemented or otherwise modified from time to time in accordance with the requirements hereof and thereof. Except as otherwise expressly provided herein, all terms of an accounting or financial nature shall be construed in accordance with GAAP, as in effect from time to time.
+     
+Section 2.01.
+Guarantee
+. Each Guarantor unconditionally and irrevocably guarantees, jointly with the other Guarantors and severally, to JPM and the other JPM Parties, as a primary obligor and not merely as a surety, the due and punctual payment and performance of the Obligations now or hereafter owing to any JPM Party. Each Guarantor further agrees that the Obligations (and the Underlying Liabilities from which they derive) may be extended or renewed, in whole or in part, without notice to or further assent from it, and that it will remain bound upon its guarantee notwithstanding any extension or renewal of any Obligation. Each Guarantor waives presentment to, demand of payment from and protest to the applicable Primary Obligor or any other Guarantor of any of the Obligations, and also waives notice of acceptance of its guarantee and notice of protest for nonpayment. Notwithstanding the foregoing, in no event shall any Guarantor be subject to this Section 2.01 or otherwise guarantee the Obligations to the extent such guaranty would (i) violate a legal (including regulatory) or enforceable contractual prohibition or obligation binding on such Guarantor that would give rise to a loss (including without limitation a termination of a benefit) or liability that is material to BSC and its Subsidiaries taken as a whole or (ii) materially impair the ability of the relevant Guarantor to carry on its business.
+     
+Section 2.02.
+Guarantee of Payment
+. Each Guarantor further agrees that its guarantee hereunder constitutes a guarantee of payment when due (whether at the stated maturity, by acceleration or otherwise) and not of collection, and waives any right to require that any JPM Party proceed against any Primary Obligor or that any resort be had by any JPM Party to any security held for the payment of the Obligations or to any balance of any deposit account or credit on the books of any JPM Party in favor of BSC, any Covered BSC Entity or any other person.
+     
+Section 2.03.
+No Limitations, Etc.
+(a) Except for termination of a Guarantor's obligations hereunder as expressly provided for in Section 7.15 and subject to the limitations set forth in Section 2.01, the obligations of each Guarantor hereunder shall not be subject to any reduction, limitation, impairment or termination for any reason, including any claim of waiver, release, surrender, alteration or compromise, and shall not be subject to any defense, setoff, counterclaim, recoupment or termination whatsoever (whether accruing to a Guarantor or Primary Obligor), including, without limitation, by reason of the invalidity, illegality or unenforceability of the Obligations, any Underlying Liability or otherwise (other than defense of payment or performance). Without limiting the generality of the foregoing, the obligations of each Guarantor hereunder, to the fullest extent permitted by applicable law, shall not be
+discharged or impaired or otherwise affected by, and each Guarantor hereby waives any defense to the enforcement hereof by reason of:
+     
+(i) the failure of any JPM Party to assert any claim or demand or to exercise or enforce any right or remedy under the provisions of any Guaranty, any of the Obligations, any document, agreement or other writing supporting, evidencing or governing a Guaranty or any of the Obligations (an "
+Obligation Document
+") or otherwise;
+     
+(ii) any rescission, waiver, amendment or modification of, increase in the Obligations with respect to, or any release from any of the terms or provisions of, any Guaranty, any Obligation Document or any other agreement, including with respect to any other Guarantor under this Agreement and including with respect to any documentation in respect of Underlying Liabilities;
+     
+(iii) the failure to perfect any security interest in, or the exchange, substitution, release or any impairment of, any security held by JPM or any JPM Party for the Obligations, whether under this Agreement or otherwise;
+     
+(iv) any default, failure or delay, willful or otherwise, in the performance of the Obligations;
+     
+(v) any other act or omission that may or might in any manner or to any extent vary the risk of any Guarantor or otherwise operate as a discharge of any Guarantor as a matter of law or equity (other than the payment in full in cash or immediately available funds of all the Obligations),
+     
+(vi) any illegality, lack of validity or enforceability of any Obligation, any Obligation Document, any Underlying Liability or any documentation with respect thereto,
+     
+(vii) any change in the corporate existence, structure or ownership of any Guarantor or any Primary Obligor, or any insolvency, bankruptcy, reorganization or other similar proceeding affecting any Guarantor or any Primary Obligor or their respective assets or any resulting release or discharge of any Obligation,
+     
+(viii) the existence of any claim, set-off or other rights that the Guarantor may have at any time against the Primary Obligor, any JPM Party or any other corporation or person, whether in connection herewith or any unrelated transactions,
+     
+(ix) the existence of any claim, set-off or other rights that the Primary Obligor may have at any time against the any JPM Party or any other corporation or person, whether in connection herewith or any unrelated transactions, or
+(x) any action permitted or authorized hereunder.
+Each Guarantor expressly authorizes the JPM Parties to take and hold security for the payment and performance of the Obligations, to exchange, waive or release any or all such security (with
+or without consideration), to enforce or apply such security and direct the order and manner of any sale thereof in its sole discretion or to release or substitute any one or more other guarantors or obligors upon or in respect of the Obligations, all without affecting the obligations of any Guarantor hereunder.
+     
+(b) To the fullest extent permitted by applicable law, each Guarantor waives any defense based on or arising out of any defense of any other Guarantor or Primary Obligor or the unenforceability of the Obligations, the Underlying Liabilities or the Obligation Documents or any part thereof from any cause, or the cessation from any cause of the liability of any other Guarantor, other than the payment in full in cash or immediately available funds of all the Obligations. JPM may, at its election, foreclose on any Pledged Security by one or more judicial or nonjudicial sales, accept an assignment of any such security in lieu of foreclosure, compromise or adjust any part of the Obligations, make any other accommodation with any other Guarantor or exercise any other right or remedy available to them against any other Guarantor, without affecting or impairing in any way the liability of any Guarantor hereunder exce pt to the extent the Obligations have been paid in full in cash or immediately available funds. To the fullest extent permitted by applicable law, each Guarantor waives any defense arising out of any such election even though such election operates, pursuant to applicable law, to impair or to extinguish any right of reimbursement or subrogation or other right or remedy of such Guarantor against any other Guarantor, as the case may be, or any security.
+     
+Section 2.04.
+Reinstatement
+. Each Guarantor agrees that its guarantee hereunder shall continue to be effective or be reinstated, as the case may be, if at any time payment, or any part thereof, of any Obligation is rescinded or must otherwise be restored by any JPM Party upon the bankruptcy or reorganization of the applicable Primary Obligor, any Guarantor or otherwise.
+     
+Section 2.05.
+Agreement To Pay; Contribution; Subrogation
+. In furtherance of the foregoing and not in limitation of any other right that the JPM Parties have at law or in equity against any Guarantor by virtue hereof, upon the failure of any Primary Obligor to pay any Obligation when and as the same shall become due, whether at maturity, by acceleration, after notice of prepayment or otherwise, each Guarantor hereby promises to and will forthwith pay, or cause to be paid, to the JPM Parties in cash the amount of such unpaid Obligation. Each Guarantor hereby unconditionally and irrevocably agrees that in the event any payment shall be required to be made to a JPM Party under this guarantee, such Guarantor will contribute, to the maximum extent permitted by law, such amoun ts to each other Guarantor so as to maximize the aggregate amount paid to the JPM Parties under or in respect of the Obligations. Upon payment by any Guarantor of any sums to a JPM Party as provided above, all rights of such Guarantor against the Primary Obligor or any other Guarantor arising as a result thereof by way of right of subrogation, contribution, reimbursement, indemnity or otherwise shall in all respects be subject to Article VI.
+     
+Section 2.06.
+Information
+. Each Guarantor assumes all responsibility for being and keeping itself informed of the financial condition and assets of each Primary Obligor and each other Guarantor, all other circumstances bearing upon the risk of nonpayment of the Obligations and the nature, scope and extent of the risks that such Guarantor assumes and incurs hereunder, and agrees that the JPM Parties will have no duty to advise such Guarantor of information known to it regarding such circumstances or risks.
+     
+Section 2.07.
+Maximum Liability
+. Each Guarantor, and by its acceptance of this guarantee, JPM (for itself and on behalf of its Affiliates), hereby confirms that it is the intention of all such Persons that this guarantee and the Obligations of each Guarantor hereunder not constitute a fraudulent transfer or conveyance for purposes of the U.S. Bankruptcy Code or any other federal, state or foreign bankruptcy, insolvency, receivership or similar law, the Uniform Fraudulent Conveyance Act, the Uniform Fraudulent Transfer Act or any similar foreign, federal or state law to the extent applicable to this guarantee and the Obligations of each Guarantor hereunder. To effectuate the foregoing intention, JPM (for itself and on behalf of its Affiliates) hereby irrevocably agrees that the Obligations of each Subsidiary Party under this guarantee at any time shall be limited to the maximum amount as will result in the Obligations of such Guarantor under this guarantee not constituting a fraudulent transfer or conveyance.
+     
+Section 2.08.
+Payment Free and Clear of Taxes
+. Any and all payments by or on account of any obligation of any Guarantor hereunder shall be made free and clear of, and without deduction for, any tax of any kind or nature (or, as the case may be, shall be grossed up accordingly).
+     
+Section 3.01.
+Delivery of Pledged Securities
+. (a) Each Pledgor agrees promptly to deliver or cause to be delivered to JPM, promptly upon JPM's request, such certificated Pledged Securities as JPM may reasonably request, together with, as applicable, customary stock powers or other documentation required by Section 3.01(c), and shall cause to be certificated such uncertificated Pledged Securities as JPM may reasonably request. None of the Pledgors shall permit any other party to "control" (for purposes of Section 8-106 of the New York UCC (or any analogous provision of the Uniform Commercial Code in effect in the jurisdiction whose law applies)) any uncertificated securities that constitute Pledged Securities other than JPM and other than as occur s in the ordinary course of such Pledgor's business or as contemplated by Section 7.18.
+     
+(b) To the extent any indebtedness for borrowed money constitutes Pledged Securities (other than to the extent that a pledge of such promissory note or instrument would violate applicable law) the Pledgor holding such indebtedness for borrowed money shall, upon the reasonable request of JPM, cause such Indebtedness to be evidenced by a duly executed promissory note, and such Pledgor shall cause such promissory note to be pledged and delivered to JPM, pursuant to the terms hereof. To the extent any such promissory note is a demand note, each Pledgor party thereto agrees, if so requested by JPM, to immediately demand payment thereunder upon the maturity of any Obligation.
+     
+(c) Any Pledged Securities required to be delivered pursuant to the foregoing paragraphs (a) and (b) of this Section 3.01 shall be accompanied by stock powers or note powers, as applicable, duly executed in blank or other instruments of transfer reasonably satisfactory to JPM and by such other instruments and documents as JPM may reasonably request. All other property composing part of the Pledged Securities delivered pursuant to the terms of this
+Agreement shall be accompanied to the extent necessary to perfect the security interest in or allow realization on the Pledged Securities by proper instruments of assignment duly executed by the applicable Pledgor and such other instruments or documents as JPM may reasonably request. Each delivery of Pledged Securities shall be accompanied by a schedule describing the securities, which schedule shall be attached hereto as
+Schedule II
+(or a supplement to
+Schedule
+II
+, as applicable) and made a part hereof
+; provided
+that failure to attach any such schedule hereto shall not affect the validity of such pledge of such Pledged Securities. Each schedule so delivered shall supplement any prior schedules so delivered.
+     
+Section 3.02.
+Representations, Warranties and Covenants
+. The Pledgors, jointly and severally, represent, warrant and covenant to and with JPM:
+     
+(a)
+Schedule II
+sets forth all Equity Interests owned by any Pledgor in any Subsidiary of any Pledgor (the "
+Subsidiary Interests
+");
+     
+(b) the Subsidiary Interests have been duly and validly authorized and issued by the issuers thereof and are fully paid and nonassessable;
+     
+(c) except for the security interests granted hereunder, each Pledgor (i) is the direct owner, beneficially and of record, of the Pledged Securities indicated on
+Schedule
+II
+as owned by such Pledgor, (ii) holds the same free and clear of all Liens, other than Permitted Liens, (iii) will make no assignment, pledge, hypothecation or transfer of, or create or permit to exist any security interest in or other Lien on, the Pledged Securities, other than pursuant to a transaction permitted by the Merger Agreement and other than Permitted Liens and (iv) subject to the rights of such Pledgor under the Merger Agreement to dispose of Pledged Se curities, will use commercially reasonable efforts to defend its title or interest hereto or therein against any and all Liens (other than Permitted Liens), however arising, of all persons;
+     
+(d) each Pledgor has the power and authority to pledge the Pledged Securities pledged by it hereunder in the manner hereby done or contemplated;
+     
+(e) to the knowledge of BSC, no consent or approval of any Governmental Authority, any securities exchange or any other person was or is necessary to the validity of the pledge effected hereby (other than such as have been obtained and are in full force and effect);
+     
+(f) by virtue of the execution and delivery by the Pledgors of this Agreement, when a financing statement covering such Pledged Securities is filed in the appropriate filing office, JPM and its successors and permitted assigns will obtain a legal, valid and perfected lien upon and security interest in such Pledged Securities under the New York UCC, as security for the payment and performance of the Obligations, to the extent a lien in property of the nature of the Pledged Securities is perfectable under the New York UCC by filing;
+     
+(g) each Pledgor that is an issuer of the Pledged Securities confirms that it has received notice of the security interest granted hereunder and consents to such security
+interest and agrees to transfer record ownership of the securities issued by it in connection with any request by JPM;
+     
+Section 3.03.
+Registration in Nominee Name; Denominations
+. JPM shall have the right (in its sole and absolute discretion) to hold the Pledged Securities delivered pursuant to Section 3.01 in the name of the applicable Pledgor, endorsed or assigned in blank or in favor of JPM or, in its reasonable discretion, in its own name as pledgee or the name of its nominee (as pledgee or as sub-agent). JPM shall have the right to exchange the certificates representing Pledged Securities for certificates of smaller or larger denominations for any purpose consistent with this Agreement. Each Pledgor shall use its commercially reasonable efforts to cause any Guarantor that is not a party to this Agreement to comply with a request by JPM, pursuant to this Section 3.03, to exchange certi ficates representing Pledged Securities of such Guarantor for certificates of smaller or larger denominations.
+     
+Section 3.04.
+Voting Rights; Dividends and Interest, Etc.
+(a) Unless and until a Trigger Event shall have occurred, and subject to the Merger Agreement:
+     
+(i) Each Pledgor shall be entitled to exercise any and all voting and/or other consensual rights and powers inuring to an owner of Pledged Securities or any part thereof for any purpose consistent with the terms of this Agreement, the Merger Agreement and the Guaranties;
+     
+(ii) JPM shall promptly execute and deliver to each Pledgor, or cause to be executed and delivered to such Pledgor, all such proxies, powers of attorney and other instruments as such Pledgor may reasonably request for the purpose of enabling such Pledgor to exercise the voting and/or consensual rights and powers it is entitled to exercise pursuant to subparagraph (i) above; and
+     
+(iii) Each Pledgor shall be entitled to receive and retain any and all dividends, interest, principal and other distributions paid on or distributed in respect of the Pledged Securities to the extent and only to the extent that such dividends, interest, principal and other distributions are permitted by, and otherwise paid or distributed in accordance with, the terms and conditions of the Merger Agreement and applicable laws
+; provided
+, that (A) any noncash dividends, interest, principal or other distributions, payments or other consideration in respect thereof, including any rights to receive the same to the extent not so distributed or paid, that would constitute Pledged Securities, whether resulting from a subdivision, combination or reclassification of the outs tanding Equity Interests of the issuer of any Pledged Securities, received in exchange for Pledged Securities or any part thereof, or in redemption thereof, as a result of any merger, consolidation, acquisition or other exchange of assets to which such issuer may be a party or otherwise or (B) any non-cash dividends and other distributions paid or payable in respect of any Pledged Securities that would constitute Pledged Securities, in connection with a partial or total liquidation or dissolution or in connection with a reduction of capital, capital surplus or paid in surplus, shall be and become part of the Collateral, and, if received by any Pledgor, shall not be commingled by such Pledgor with any of its other funds or property not constituting Collateral but shall be held separate and apart therefrom, shall be held in
+trust for the benefit of JPM and shall be forthwith delivered to JPM in the same form as so received (endorsed in a manner reasonably satisfactory to JPM).
+     
+(b) Upon the occurrence of a Trigger Event (and until the satisfaction of the Obligation giving rise to the Trigger Event and any other then-due Obligations), and after notice by JPM to BSC of JPM's intention to exercise its rights hereunder or under this provision in particular (provided that no notice shall be required and the rights of JPM described in this paragraph shall become immediately and automatically effective in the case of a Trigger Event described in clause (B) of the definition thereof), all rights of any Pledgor to receive dividends, interest, principal or other distributions that such Pledgor is authorized to receive pursuant to paragraph (a)(iii) of this Section 3.04 shall cease, and all such rights shall thereupon become vested in JPM which shall have the sole and exclusive right and authority to receive and retain such dividends, interest, principal or other distributions. All divi dends, interest, principal or other distributions received by any Pledgor contrary to the provisions of this Section 3.04 shall not be commingled by such Pledgor with any of its other funds or property (other than Collateral) but shall be held separate and apart therefrom, shall be held in trust for the benefit of JPM and shall be forthwith delivered to JPM in the same form as so received (endorsed in a manner reasonably satisfactory to JPM). Any and all money and other property paid over to or received by JPM pursuant to the provisions of this paragraph (b) shall be retained by JPM in an account to be established by JPM upon receipt of such money or other property and shall be applied in accordance with the provisions of Section 5.02 hereof. After all Obligations arising from any Trigger Events have been satisfied, JPM shall promptly repay to each Pledgor (without interest) all dividends, interest, principal or other distributions that such Pledgor would otherwise be permitted to retain pursuant to the term s of paragraph (a)(iii) of this Section 3.04 and that remain in such account.
+     
+(c) After notice by JPM to BSC of JPM's intention to exercise its rights hereunder or under this provision in particular (and after the occurrence of a Trigger Event described in clause (B) of the definition thereof), all rights of any Pledgor to exercise the voting and/or consensual rights and powers it is entitled to exercise pursuant to paragraph (a)(i) of this Section 3.04, and the obligations of JPM under paragraph (a)(ii) of this Section 3.04, shall cease, and all such rights shall thereupon become vested in JPM which shall have the sole and exclusive right and authority to exercise such voting and consensual rights and powers,
+provided
+that JPM shall have the right from time to time to permit the Pledgors to exercise such rights. After all Obligations arising from Trigger Events have been satisfied, (i) each Pledgor shall have the right to exercise the voting and/or consensual rights and powers that such Pledgor would otherwise be entitled to exercise pursuant to the terms of paragraph (a)(i) above and (ii) the obligations of JPM pursuant to the terms of paragraph (a)(i) above shall be reinstated.
+     
+Section 4.01.
+Security Interest
+. (a) As security for the payment or performance when due (whether at the stated maturity, by acceleration or otherwise), as the case may be, in full of its Obligations and the Obligations of each Covered BSC Entity, each Pledgor hereby
+assigns and pledges to JPM and its successors and permitted assigns (on its own behalf and as agent on behalf of each other JPM Party) a security interest (the "
+Security Interest
+") in all right, title and interest in, to or under any and all of the following assets and properties now owned or at any time hereafter acquired by such Pledgor or in which such Pledgor now has or at any time in the future may acquire any right, title or interest (collectively, the "
+Collateral
+"):
+(i) all Accounts;
+(ii) all Chattel Paper;
+     
+(iii) all cash, cash equivalents and Deposit Accounts, now or hereafter existing, and all balances in any such Deposit Accounts;
+(iv) any claim of any kind or nature of any Pledgor against any JPM Party; (v) all Documents; (vi) all Equipment;
+     
+(vii) all General Intangibles, including rights in respect of Financial Contracts, Lease Rights, personal property leases and other contractual entitlements;
+(viii) all Instruments;
+(ix) all Inventory;
+     
+(x) all Investment Property and, to the extent not otherwise constituting Investment Property, all Equity Interests, Pledged Debt Obligations, securities (whether certificated or uncertificated), security entitlements, securities accounts (and the contents thereof), commodity contracts and commodity accounts, money, certificates of deposit, commercial paper, instruments, financial assets, credits, claims, demands and precious metals (to the extent applicable, as the foregoing terms are used and defined in the New York UCC), in each case whether held by or through any JPM Party, The Depository Trust Company, any other securities intermediary, the Fed, any other Federal Reserve Bank or otherwise and in each case including any certificates or other documents evidencing the same and, subject to Article III, all rights and privileges of such Pledgor with respect to the same;
+(xi) all Letter of Credit Rights; (xii) all Commercial Tort Claims; (xiii) all Intellectual Property;
+     
+(xiv) all other personal property not otherwise described above (except for property specifically excluded from any defined term used in any of the foregoing clauses);
+(xv) all books and records pertaining to the Collateral; and
+     
+(xvi) to the extent not otherwise included, and subject to Article III, all proceeds, products, accessions, substitutions, supporting obligations and products of any and all of the foregoing (including interest, dividends, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of, in exchange for or upon the conversion of any of the foregoing) or of any other property of the Pledgors and all collateral security and guarantees given by any person with respect to any of the foregoing, including all shares, securities, moneys or property representing a dividend on any of the foregoing, or representing a distribution or return of capital upon or in respect of any of the foregoing or otherwise received in exchange therefor, and any subscription warrants, rights or options issued to the holders or otherwise in respect thereof.
+Notwithstanding the foregoing or anything to the contrary in this Agreement,
+     
+(A) to the extent that the creation of the Security Interest on any specified portion of the Collateral (the "Restricted Collateral") to secure any specified portion of the Obligations (the "Restricted Obligations") would give rise to (x) an obligation or obligations under any contracts, agreements or instruments binding on any Pledgor or its property to provide an equal and ratable (or other) lien on the Restricted Collateral to secure liabilities of any Pledgor or Pledgors in an aggregate amount that is material to BSC and its Affiliates taken as a whole or (y) a default, event of default or similar condition however denominated that (with or without the lapse of time, the giving of notice or both) would permit (1) the holder of any indebtedness (or commitment to provide indebtedness) for borrowed money in an amount material to the applicable Pledgor to accelerate the maturity (or term inate the commitment to provide) thereof, or (2) the holder of any indebtedness for borrowed money to accelerate the maturity thereof if the effect of such acceleration would, in turn, be to permit the holder of any other indebtedness or counterparty(ies) to any Financial Contract(s) in an aggregate amount material to any of BSC or its Subsidiaries party to any affected Financial Contract to accelerate or terminate such indebtedness or Financial Contract(s), then, in any such case under (x) or (y), the Security Interest with respect to such Restricted Collateral shall not secure such Restricted Obligations to such extent (and shall secure such Restricted Obligations upon the removal or termination of the applicable agreement or condition under (x) or (y)). Without limitation of the generality of the foregoing, (aa) the Security Interest on any shares of Voting Stock of any Restricted Subsidiary (as such terms are defined, respectively, in the Indenture and the Note Issuance Agreement) shall not secure Obliga tions consisting of indebtedness for borrowed money until indebtedness outstanding under the Indenture and Note Issuance Agreement shall be repaid or defeased in full, and (bb) the Security Interest shall not extend to Equity Interests if a lien thereon would violate Ownership Limitations for so long as the applicable agreement is in effect; and
+     
+(B) subject to the provisos of this paragraph, this Agreement shall not constitute a grant of a security interest in:
+provided
+, that any such asset shall immediately, without further act or deed, become subject to the Security Interest upon termination or lapse of the agreement or condition set forth above with respect to such asset; and
+provided
+,
+further
+that JPM shall in any event, except to the extent that the granting thereof would independently violate any of (i) through (vii) above, have and retain a lien in the proceeds of any such asset. With respect to any asset excluded from the Security Interest pursuant to subsections (i)  (x) above, any lien purported to be granted hereunder in a ny such asset shall immediately and automatically, with no further act or deed become null and void ab initio.
+     
+Each Pledgor hereby irrevocably authorizes JPM at any time and from time to time to file in any relevant jurisdiction any initial financing statements (including fixture filings) with respect to the Collateral or any part thereof and amendments thereto that contain the information required by Article 9 of the Uniform Commercial Code of each applicable jurisdiction for the filing of any financing statement or amendment, including (i) whether such Pledgor is an organization, the type of organization and any organizational identification number issued to such Pledgor, (ii) in the case of a financing statement filed as a fixture filing, a sufficient description of the real property to which such Collateral relates and (iii) a description of collateral that describes such property in any other manner as JPM may reasonably determine is necessary or advisable to ensure the perfection of the security interest in th e Collateral granted under this Agreement, including describing such property as "all assets" or "all property". Each Pledgor agrees to provide such information to JPM promptly upon request.
+     
+JPM is further authorized to file with the United States Patent and Trademark Office or United States Copyright Office (or any successor office or any similar office in any other country) such documents as may be reasonably necessary or advisable for the purpose of perfecting, confirming, continuing, enforcing or protecting the Security Interest granted by each Pledgor, without the signature of such Pledgor, and naming such Pledgor or the Pledgors as debtors and JPM as secured party.
+     
+(b) The Security Interest is granted as security only and shall not subject JPM to, or in any way alter or modify, any obligation or liability of any Pledgor with respect to or arising out of the Collateral.
+     
+Section 4.02.
+Representations and Warranties
+. The Pledgors jointly and severally represent and warrant to JPM that:
+     
+(a) Each Pledgor has full power and authority to grant to JPM the Security Interest in such Collateral pursuant hereto and to execute, deliver and perform its obligations in accordance with the terms of this Agreement, without the consent or approval of any other
+person other than any consent or approval that has been obtained and is in full force and effect or has otherwise been disclosed herein or in the Merger Agreement.
+     
+(b) The Security Interest constitutes (i) a legal and valid security interest in all the Collateral securing the payment and performance of the Obligations, (ii) subject to appropriate filings in the relevant jurisdictions, a perfected security interest in all Collateral (other than Commercial Tort Claims) in which a security interest may be perfected by filing, recording or registering a financing statement in the United States (or any political subdivision thereof) and its territories and possessions pursuant to the Uniform Commercial Code.
+     
+Section 4.03.
+Covenants
+. (a) Each Pledgor agrees, at its own expense, to execute, acknowledge, deliver and cause to be duly filed all such further instruments and documents and take all such actions as JPM may from time to time reasonably request to better assure, preserve, protect and perfect the Security Interest and the rights and remedies created hereby, including, without limitation, the payment of any fees and taxes required in connection with the execution and delivery of this Agreement and the granting of the Security Interest and the filing of any financing statements (including fixture filings) or other documents in connection herewith or therewith, all in accordance with the terms hereof.
+     
+Without limiting the generality of the foregoing, each Pledgor hereby authorizes JPM, with prompt notice thereof to the Pledgors, to supplement this Agreement by supplementing
+Schedule III
+or adding additional schedules hereto to specifically identify any asset or item that may constitute material Copyrights, Patents, Trademarks, Copyright Licenses, Patent Licenses or Trademark Licenses
+; provided
+that any Pledgor shall have the right, exercisable within 30 days after BSC has been notified by JPM of the specific identification of such Collateral, to advise JPM in writing of any inaccuracy of the representations and warranties ma de by such Pledgor hereunder with respect to such Collateral. Each Pledgor agrees that, upon JPM's request, it will use its commercially reasonable efforts to take such action as shall be necessary in order that all representations and warranties hereunder shall be true and correct with respect to such Collateral within 90 days after the date it has been notified by JPM of the specific identification of such Collateral.
+     
+(b) JPM shall have the right to verify the validity, amount, quality, quantity, value, condition and status of, or any other matter relating to, the Collateral, including, in the case of Accounts or Collateral in the possession of any third person, by contacting Account Debtors or the third person possessing such Collateral for the purpose of making such a verification.
+     
+(c) At its option, JPM may discharge past due taxes, assessments, charges, fees, Liens, security interests or other encumbrances at any time levied or placed on the Collateral and not a Permitted Lien, and may pay for the maintenance and preservation of the Collateral to the extent any Pledgor fails to do so as required by the Merger Agreement or this Agreement, and each Pledgor jointly and severally agrees to reimburse JPM on demand for any reasonable payment made or any reasonable expense incurred by JPM pursuant to the foregoing authorization
+; provided, however
+, that nothing in this Section 4.03(d) shall be interpreted as excusing any Pledgor from the performance of, or imposing any obligation on JPM to cure or perform, any covenants or other promises of any Pl edgor with respect to taxes, assessments,
+charges, fees, Liens, security interests or other encumbrances and maintenance as set forth herein.
+     
+(d) Each Pledgor (rather than JPM) shall remain liable for the observance and performance of all the conditions and obligations to be observed and performed by it under each contract, agreement or instrument relating to the Collateral and each Pledgor jointly and severally agrees to indemnify and hold harmless JPM from and against any and all liability for such performance.
+     
+(e) None of the Pledgors shall make or permit to be made an assignment, pledge or hypothecation of the Collateral or shall grant any other Lien in respect of the Collateral, except as permitted by the Merger Agreement or Section 7.18 hereof. None of the Pledgors shall make or permit to be made any transfer of the Collateral and each Pledgor shall remain at all times in possession of the Collateral owned by it, except as permitted by the Merger Agreement or Section 7.18 hereof.
+     
+(f) Each Pledgor irrevocably makes, constitutes and appoints JPM (and all officers, employees or agents designated by JPM) as such Pledgor's true and lawful agent (and attorney-in-fact) for the purpose of making, settling and adjusting claims in respect of Collateral under policies of insurance, endorsing the name of such Pledgor on any check, draft, instrument or other item of payment for the proceeds of such policies of insurance and for making all determinations and decisions with respect thereto.
+     
+(g) Other than as permitted under the Merger Agreement or Section 7.18 hereof, the Pledgors shall not create, incur, assume or permit to exist any lien on any property or assets (including stock or other securities of any person, including any Subsidiary) at the time owned by them or on any income or revenues or rights in respect of any thereof.
+     
+Section 4.04.
+Collateral Held by JPM
+. For the avoidance of doubt and not in limitation of the rights of JPM under Sections 9-104(a)(1), 9-106(a) and 8-106(e) of the New York UCC, the Pledgors and JPM (acting as a bank with respect to any deposit accounts (the "JPM Accounts") and as a securities intermediary with respect to any securities accounts (the "JPM Securities Accounts"), in either case maintained at or with JPM or any of its Affiliates), acknowledge and agree with respect thereto, that JPM, as the secured party hereunder, may issue instructions to direct disposition of any and all of the funds in the JPM Accounts (and acting as the bank will comply with such instructions) and may issue entitlement orders with respect to any and all J PM Securities Accounts (and acting as the securities intermediary will comply with such entitlement orders), in each case, without the consent of any Pledgor.
+     
+Section 4.05.
+Other Actions
+. In order to further ensure the attachment, perfection and priority of, and the ability of JPM to enforce JPM's security interest in the Collateral, each Pledgor agrees, in each case at such Pledgor's own expense, to take the following actions:
+     
+(a)
+Investment Property
+. Upon JPM's request, any Pledgor shall deliver any Certificated Security included in the Pledged Securities then in such Pledgor's possession, accompanied by such instruments of transfer or assignment duly executed in blank as JPM may
+from time to time reasonably specify. If any security of a domestic issuer now owned or hereafter acquired by any Pledgor is uncertificated and is issued to such Pledgor or its nominee directly by the issuer thereof, (i) upon JPM's reasonable request or (ii) upon the occurrence and during the continuance of a Trigger Event, each Pledgor shall pursuant to an agreement in form and substance reasonably satisfactory to JPM, either cause the issuer to agree to comply with instructions from JPM as to such security, without further consent of any Pledgor or such nominee, or cause the issuer to register JPM as the registered owner of such security.
+     
+(b)
+Financial Intermediaries
+. If requested by JPM, Pledgors shall instruct third-party financial intermediaries in possession of any Collateral, and shall use reasonable best efforts to cause such financial intermediaries to enter into control and other agreements, as necessary and appropriate to effectuate and perfect the liens contemplated hereby.
+     
+(c)
+Commercial Tort Claims
+. Upon the request of JPM from time to time, Pledgors shall notify JPM of any Commercial Tort Claim in an amount reasonably estimated to exceed $50.0 million then held by such Pledgor, and shall provide a summary description of such claim, and grant to JPM in writing a security interest therein and in the proceeds thereof, all under the terms and provisions of this Agreement, with such writing to be in form and substance reasonably satisfactory to JPM.
+     
+(d)
+Foreign Collateral
+. Execute such further documents and take such further actions as JPM may reasonably request under local law to establish the guaranties contemplated herein and create and perfect liens and security interests in the portion of the Collateral located in (or held by entities located or organized in) jurisdictions outside the United States.
+     
+(e)
+Deposit Accounts/Securities Accounts
+. If requested by JPM, move any and all Deposit Accounts and Securities Accounts of any Pledgor held at a third party depository institution to JPM or an affiliate of JPM;
+provided
+, that no such request shall unduly interfere with the ordinary course operation of the business of the applicable Pledgor and such Pledgor shall, in any event, have a reasonable amount of time to comply with such request.
+     
+(f)
+Real Property
+. Execute, deliver, file and otherwise cause to become effective mortgages, assignments and other agreements in appropriate form with respect to real property fee and leasehold interests, in each case to the extent requested by JPM unless such action would violate in any material respect a legal (including regulatory) or enforceable contractual prohibition or obligation binding on the applicable Pledgor that would give rise to a loss (including without limitation a termination of a benefit) or liability that is material to BSC and its Subsidiaries taken as a whole
+     
+(g)
+General
+. Execute any and all further documents, financing statements, agreements and instruments (including an Intellectual Property Security Agreement), and take all such further actions (including the filing and recording of financing statements, fixture filings, mortgages and other documents and recordings of liens in stock registries, including without limitation in the United States Patent and Trademark Office) that may be required under any applicable law, or that JPM may reasonably request, to effect and perfect the liens contemplated herein, all at the expense of the Pledgors, and provide to JPM, from time to time upon reasonable
+request, evidence reasonably satisfactory to JPM as to the perfection and priority of the liens created or intended to be created hereunder.
+     
+Section 5.01.
+Remedies Upon Default
+. Upon the occurrence of a Trigger Event and until the satisfaction of the Obligation giving rise to the Trigger Event and any other then-due Obligations, each Pledgor agrees to deliver on demand each item of Collateral to JPM, and it is agreed that JPM shall have the right to take any of or all the following actions at the same or different times: (a) with respect to any Collateral consisting of Intellectual Property, on demand, to cause the Security Interest to become an assignment, transfer and conveyance of any of or all such Collateral by the applicable Pledgors to JPM or to license or sublicense, whether general, special or otherwise, and whether on an exclusive or a nonexclusive basis, any such Collateral throughout the world on such terms and conditions and in such manner as JPM shall determine (other than in violation of any then-existing licensing arrangements to the extent that waivers thereunder cannot be obtained with the use of commercially reasonable efforts, which each Pledgor hereby agrees to use) and (b) with or without legal process and with or without prior notice or demand for performance, to take possession of the Collateral and without liability for trespass to the applicable Pledgor to enter any premises where the Collateral may be located for the purpose of taking possession of or removing the Collateral and, generally, to exercise any and all rights afforded to a secured party under the applicable Uniform Commercial Code or other applicable law. Without limiting the generality of the foregoing, each Pledgor agrees that JPM shall have the right, subject to the mandatory requirements of applicable law, to sell or otherwise dispose of all or any part of the Collateral at a public or private sale or at any b roker's board or on any securities exchange, for cash, upon credit or for future delivery as JPM shall deem appropriate. JPM shall be authorized in connection with any sale of a security (if it deems it advisable to do so) pursuant to the foregoing to restrict the prospective bidders or purchasers to persons who represent and agree that they are purchasing such security for their own account, for investment, and not with a view to the distribution or sale thereof. Upon consummation of any such sale of Collateral pursuant to this Section 5.01, JPM shall have the right to assign, transfer and deliver to the purchaser or purchasers thereof the Collateral so sold. Each such purchaser at any such sale shall hold the property sold absolutely, free from any claim or right on the part of any Pledgor, and each Pledgor hereby waives and releases (to the extent permitted by law) all rights of redemption, stay, valuation and appraisal that such Pledgor now has or may at any time in the future have under any rule of law or statute now existing or hereafter enacted.
+     
+JPM shall give the applicable Pledgors 10 Business Days' written notice (which each Pledgor agrees is reasonable notice within the meaning of Section 9-611 of the New York UCC or its equivalent in other jurisdictions) of JPM's intention to make any sale of Collateral (except where notice shall not be required under the New York UCC no notice shall be required). Such notice, in the case of a public sale, shall state the time and place for such sale and, in the case of a sale at a broker's board or on a securities exchange, shall state the board or exchange at which such sale is to be made and the day on which the Collateral, or portion thereof, will first be offered for sale at such board or exchange. Any such public sale shall be held at such time or
+times within ordinary business hours and at such place or places as JPM may fix and state in the notice (if any) of such sale. At any such sale, the Collateral, or the portion thereof, to be sold may be sold in one lot as an entirety or in separate parcels, as JPM may (in its sole and absolute discretion) determine. JPM shall not be obligated to make any sale of any Collateral if it shall determine not to do so, regardless of the fact that notice of sale of such Collateral shall have been given. JPM may, without notice or publication, adjourn any public or private sale or cause the same to be adjourned from time to time by announcement at the time and place fixed for sale, and such sale may, without further notice, be made at the time and place to which the same was so adjourned. In the case of any sale of all or any part of the Collateral made on credit or for future delivery, the Collateral so sold may be retained by JPM until the sal e price is paid by the purchaser or purchasers thereof, but JPM shall not incur any liability in the event that any such purchaser or purchasers shall fail to take up and pay for the Collateral so sold and, in the case of any such failure, such Collateral may be sold again upon notice given in accordance with provisions above. At any public (or, to the extent permitted by law, private) sale made pursuant to this Section 5.01, JPM may bid for or purchase for cash, free (to the extent permitted by law) from any right of redemption, stay, valuation or appraisal on the part of any Pledgor (all such rights being also hereby waived and released to the extent permitted by law), the Collateral or any part thereof offered for sale and JPM may, upon compliance with the terms of sale, hold, retain and dispose of such property in accordance with Section 5.02 hereof without further accountability to any Pledgor therefor. For purposes hereof, a written agreement to purchase the Collateral or any portion thereof shall be t reated as a sale thereof; JPM shall be free to carry out such sale pursuant to such agreement and no Pledgor shall be entitled to the return of the Collateral or any portion thereof subject thereto, notwithstanding the fact that after JPM shall have entered into such an agreement all Events of Default shall have been remedied and the Obligations paid in full. As an alternative to exercising the power of sale herein conferred upon it, JPM may proceed by a suit or suits at law or in equity to foreclose this Agreement and to sell the Collateral or any portion thereof pursuant to a judgment or decree of a court or courts having competent jurisdiction or pursuant to a proceeding by a court-appointed receiver. Any sale pursuant to the provisions of this Section 5.01 shall be deemed to conform to the commercially reasonable standards as provided in Section 9-610(b) of the New York UCC or its equivalent in other jurisdictions.
+Section 5.02.
+Apportionment, Application, and Reversal of Payments
+.
+     
+(a) All payments received by JPM for application to the Obligations shall be applied to such Obligations in such manner as JPM shall determine in its sole discretion.
+     
+(b) JPM shall have absolute discretion as to the time of application of any such proceeds, moneys or balances in accordance with this Agreement. Upon any sale of Collateral by JPM (including pursuant to a power of sale granted by statute or under a judicial proceeding), the receipt of the purchase money by JPM or of the officer making the sale shall be a sufficient discharge to the purchaser or purchasers of the Collateral so sold and such purchaser or purchasers shall not be obligated to see to the application of any part of the purchase money paid over to JPM or such officer or be answerable in any way for the misapplication thereof.
+     
+(c) If, after receipt of any payment which is applied to the payment of all or any part of any Obligations, JPM is for any reason compelled to surrender such payment or proceeds to any person because such payment or application of proceeds is invalidated, declared fraudulent, set aside, determined to be void or voidable as a preference, impermissible set-off, or a diversion of trust funds, or for any other reason, then the Obligations or part thereof intended to be satisfied shall be revived and continued and this Agreement shall continue in full force as if such payment or proceeds had not been received by JPM and each Pledgor shall be liable to pay to JPM, and shall indemnify JPM and holds JPM harmless for the amount of such payment or proceeds surrendered. The provisions of this Section 5.02(c) shall be and remain effective notwithstanding any contrary action which may have been taken by JPM in reliance upon such payment or application of proceeds, and any such contrary action so taken shall be without prejudice to JPM's rights under this Agreement and shall be deemed to have been conditioned upon such payment or application of proceeds having become final and irrevocable. The provisions of this Section 5.02(d) shall survive the termination of this Agreement.
+     
+Section 5.03.
+Securities Act, Etc.
+Each Pledgor understands that compliance with the Securities Act of 1933, as now or hereafter in effect, or any similar federal statute hereafter enacted analogous in purpose or effect (such Act and any such similar statute as from time to time in effect being called the "
+Federal Securities Laws
+") might limit the course of conduct of JPM if JPM were to attempt to dispose of all or any part of the Pledged Securities, and might also limit the extent to which or the manner in which any subsequent transferee of any Pledged Securities could dispose of the same. Similarly, there may be other legal restrictions or limitations affecting JPM in any attempt to dispose of all or part of the Pledged Securities under applicable Blue Sky or other state securities laws or similar laws analogous in purpose or effect. Each Pledgor acknowledges and agrees that in light of such restrictions and limitations, JPM, in its sole and absolute discretion, (a) may proceed to make such a sale whether or not a registration statement for the purpose of registering such Pledged Securities or part thereof shall have been filed under the Federal Securities Laws or, to the extent applicable, Blue Sky or other state securities laws and (b) may approach and negotiate with a single potential purchaser to effect such sale. Each Pledgor acknowledges and agrees that any such sale might result in prices and other terms less favorable to the seller than if such sale were a public sale without such restrictions. In the event of any such sale, JPM shall not incur any responsibility or liability for selling all or any part of t he Pledged Securities at a price that JPM, in its sole and absolute discretion, may in good faith deem reasonable under the circumstances, notwithstanding the possibility that a substantially higher price might have been realized if the sale were deferred until after registration as aforesaid or if more than a single purchaser were approached. The provisions of this Section 5.03 will apply notwithstanding the existence of a public or private market upon which the quotations or sales prices may exceed substantially the price at which JPM sells.
+     
+Section 6.01.
+Indemnity
+. In addition to all such rights of indemnity, reimbursement, contribution and subrogation as JPM or the Guarantors may have under applicable law (but subject, in the case of the Guarantors, to Section 6.03 hereof), the Primary Obligor with respect to each Underlying Liability agrees that (a) such Primary Obligor is primarily liable with respect to such Underlying Liability and shall pay such Underlying Liability when due and promptly reimburse JPM in respect of any payment by JPM under any Guaranty in respect of such Underlying Liability, and (b) in the event a payment shall be made by any Guarantor under this Agreement in respect of any Obligation arising from the satisfaction of an Underlying Liability, the applicable Primary Obligor, if any, shall indemnify such Guarantor for the full amount of such payment and such Guarantor shall be subrogated to the rights of the person to whom such payment shall have been made to the extent of such payment.
+     
+Section 6.02.
+Contribution and Subrogation
+. Each Guarantor (a "
+Contributing
+Guarantor
+") agrees (subject to Section 6.03 hereof) that, in the event a payment shall be made by any other Guarantor hereunder in respect of any Obligation arising from the satisfaction of any Underlying Liability of an applicable Primary Obligor or assets of any other Guarantor shall be sold pursuant to this Agreement to satisfy any Obligation arising from the satisfaction of any Underlying L iability of an applicable Primary Obligor and such other Guarantor (the "
+Claiming
+Guarantor
+") shall not have been fully indemnified by such Primary Obligor, as provided in Section 6.01 hereof, the Contributing Guarantor shall indemnify the Claiming Guarantor in an amount equal to the amount of such payment or the greater of the book value or the fair market value of such assets, as applicable, in each case multiplied by a fraction of which the numerator shall be the net worth of such Contributing Guarantor on the date hereof and the denominator shall be the aggregate net worth of all the Guarantors on the date hereof (or, in the case of any Guarantor becoming a party hereto pursuant to Section 7.16 hereof, the date of the sup plement hereto executed and delivered by such Guarantor). Any Contributing Guarantor making any payment to a Claiming Guarantor pursuant to this Section 6.02 shall be subrogated to the rights of such Claiming Guarantor under Section 6.01 hereof to the extent of such payment.
+     
+Section 6.03.
+Subordination; Subrogation
+. (a) Each Guarantor hereby subordinates any and all debts, liabilities and other obligations owed to such Guarantor by each other Guarantor and by each other Affiliate of BSC (the "
+Subordinated Obligations
+") to the Obligations to the extent and in the manner hereinafter set forth in this Section 6.03:
+     
+(i)
+Prohibited Payments, Etc
+. Each Guarantor may receive payments from any other Guarantor on account of the Subordinated Obligations. After the occurrence and during the continuance of any Trigger Event, no Guarantor shall demand, accept or take any action to collect any payment on account of the Subordinated Obligations until the Obligations have been paid in full in cash.
+     
+(ii)
+Prior Payment of Guaranteed Obligations
+. In any proceeding under the U.S. Bankruptcy Code or any other federal, state or foreign bankruptcy, insolvency, receivership or similar law relating to any other Guarantor, each
+Guarantor agrees that JPM shall be entitled to receive payment in full in cash of all Obligations (including all interest and expenses accruing after the commencement of a proceeding under any U.S. Bankruptcy Code or any other federal, state or foreign bankruptcy, insolvency, receivership or similar law, whether or not constituting an allowed claim in such proceeding ("
+Post-Petition
+Interest
+")) before such Guarantor receives payment of any Subordinated Obligations.
+     
+(iii)
+Turn-Over
+. After the occurrence and during the continuance of any Trigger Event, each Guarantor shall, if JPM so requests, collect, enforce and receive payments on account of the Subordinated Obligations and deliver such payments to JPM on account of the Obligations (including all Post-Petition Interest), together with any necessary endorsements or other instruments of transfer, but without reducing or affecting in any manner the liability of such Guarantor under the other provisions of this Agreement.
+     
+(iv)
+Collateral Agent Authorization
+. After the occurrence and during the continuance of any Trigger Event, JPM is authorized and empowered (but without any obligation to so do), in its discretion, (i) in the name of each Guarantor, to collect and enforce, and to submit claims in respect of, the Subordinated Obligations and to apply any amounts received thereon to the Obligations (including any and all Post-Petition Interest), and (ii) to require each Guarantor (A) to collect and enforce, and to submit claims in respect of, the Subordinated Obligations and (B) to pay any amounts received on such obligations to JPM for application to the Guaranteed Obligations (including any and all Post-Petition Interest).
+     
+(b) Each Guarantor hereby unconditionally and irrevocably agrees not to exercise any rights that it may now have or hereafter acquire against each Primary Obligor, any other Guarantor or any other insider guarantor that arise from the existence, payment, performance or enforcement of such Guarantor's obligations under or in respect of the guarantee set forth in Article II hereof, including, without limitation, any right of subrogation, reimbursement, exoneration, contribution or indemnification and any right to participate in any claim or remedy of JPM against the any Primary Obligor, any other Guarantor or any other insider guarantor or any Collateral, whether or not such claim, remedy or right arises in equity or under contract, statute or common law, including, without limitation, the right to take or receive from any Primary Obligor, any other Guarantor or any other insider guarantor, directly or i ndirectly, in cash or other property or by set-off or in any other manner, payment or security on account of such claim, remedy or right, unless and until all of the Obligations all other amounts payable under the guarantee set forth in Article II and all of the Underlying Liabilities shall have been paid in full in cash and JPM has no further actual or contingent liabilities under any Guaranty or to a creditor of any Covered BSC Entity in respect of any Underlying Liability. If any amount shall be paid to any Guarantor in violation of the immediately preceding sentence at any time prior to the latest of (a) the payment in full in cash of the Obligations and all other amounts payable under the guarantee set forth in Article II and the Underlying Liabilities and (b) the first date on which JPM has no further actual or contingent liabilities under any Guaranty or to a creditor of any Covered BSC Entity, such amount shall be received and held in trust for the
+benefit of JPM, shall be segregated from other property and funds of such Guarantor and shall forthwith be paid or delivered to JPM in the same form as so received (with any necessary endorsement or assignment) to be credited and applied to the Obligations and all other amounts payable under the guarantee set forth in Article II, whether matured or unmatured, in accordance with the terms of this Agreement, each Guaranty and the Merger Agreement, or to be held as Collateral for any Obligations or other amounts payable under such guarantee thereafter arising. If (i) any Guarantor shall make payment to JPM of all or any part of the Obligations, (ii) all of the Obligations, all other amounts payable under the guarantee set forth in Article II and all Underlying Liabilities shall have been paid in full in cash, (iii) and JPM has no further actual or contingent liabilities under any Guaranty, to a creditor of any Covered BSC Entity or in resp ect of any Underlying Liabilities, JPM will, at such Guarantor's request and expense, execute and deliver to such Guarantor appropriate documents, without recourse and without representation or warranty, necessary to evidence the transfer by subrogation to such Guarantor of an interest in the Obligations resulting from such payment made by such Guarantor pursuant to such guarantee.
+     
+Section 7.01.
+Notices
+. All communications and notices hereunder shall (except as otherwise expressly permitted herein) be in writing and given as provided in the Restated Guaranty. All communications and notices hereunder to any Subsidiary Party shall be given to it in care of BSC, with such notice to be given as provided in the Merger Agreement.
+     
+Section 7.02.
+Security Interest Absolute
+. All rights of JPM hereunder, the Security Interest in the Collateral, the security interest in the Pledged Securities and all obligations of each Pledgor hereunder shall be absolute and unconditional irrespective of (a) any lack of validity or enforceability of any Guaranty, the Merger Agreement, any agreement with respect to any of the Obligations, the Underlying Liabilities or any other Obligation Document, agreement or instrument relating to any of the foregoing, (b) any change in the time, manner or place of payment of, or in any other term of, all or any of the Obligations, the Underlying Liabilities or any other amendment or waiver of or any consent to any departure from any Guaranty, the Merger Agreement, any Obl igation Document or any other agreement or instrument, (c) any exchange, release or non-perfection of any Lien on other collateral, or any release or amendment or waiver of or consent under or departure from any guarantee, securing or guaranteeing all or any of the Obligations or (d) any other circumstance that might otherwise constitute a defense available to, or a discharge of, any Pledgor in respect of the Obligations or this Agreement (other than a defense of payment or performance).
+     
+Section 7.03.
+Limitation By Law
+. All rights, remedies and powers provided in this Agreement may be exercised only to the extent that the exercise thereof does not violate any applicable provision of law, and all the provisions of this Agreement are intended to be subject to all applicable mandatory provisions of law that may be controlling and to be limited to the extent necessary so that they shall not render this Agreement invalid, unenforceable, in whole or in part, or not entitled to be recorded, registered or filed under the provisions of any applicable law.
+     
+Section 7.04.
+Binding Effect; Several Agreement
+. This Agreement shall become effective as to any party to this Agreement when a counterpart hereof executed on behalf of such party shall have been delivered to JPM and JPM and a counterpart hereof shall have been executed on behalf of JPM, and thereafter shall be binding upon such party, JPM and each of their respective permitted successors and assigns, and shall inure to the benefit of such party, JPM and its permitted successors and assigns,
+except
+that no party shall have the right to assign or transfer its rights or obligations hereunder or any interest herein or in the Colla teral (and any such assignment or transfer shall be void) except as expressly contemplated by this Agreement. This Agreement shall be construed as a separate agreement with respect to each party and may be amended, modified, supplemented, waived or released with respect to any party without the approval of any other party and without affecting the obligations of any other party hereunder.
+     
+Section 7.05.
+Successors and Assigns
+. Whenever in this Agreement any of the parties hereto is referred to, such reference shall be deemed to include the permitted successors and assigns of such party; and all covenants, promises and agreements by or on behalf of any Pledgor or JPM that are contained in this Agreement shall bind and inure to the benefit of their respective permitted successors and assigns
+; provided
+that no Pledgor may assign, transfer or delegate any of its rights or obligations under this Agreement without the prior written consent of JPM.
+     
+Section 7.06.
+JPM's Fees and Expenses; Indemnification
+. (a) Each Pledgor jointly and severally agrees to indemnify JPM against, and hold JPM harmless from, any and all losses, claims, damages, liabilities and related expenses, including reasonable counsel fees, charges and disbursements, incurred by or asserted against JPM arising out of, in connection with, or as a result of, (i) the performance of this Agreement, any Guaranty or any agreement or instrument contemplated hereby or thereby, the performance by the parties hereto and thereto of their respective obligations thereunder or the consummation of the transactions contemplated hereby, or (ii) any claim, litigation, investigation or proceeding relating to any of the foregoing, or to the Collateral, whether or n ot JPM is a party thereto
+; provided
+that such indemnity shall not, as to any Indemnitee, be available to the extent that such losses, claims, damages, liabilities or related expenses are determined by a court of competent jurisdiction by final and nonappealable judgment to have resulted from the gross negligence or willful misconduct of JPM.
+     
+(b) Any such amounts payable as provided hereunder shall be additional Obligations guaranteed and secured hereby. The provisions of this Section 7.06 shall remain operative and in full force and effect regardless of the termination of this Agreement, any Guaranty or the Merger Agreement, the repayment of any of the Obligations, the invalidity or unenforceability of any term or provision of this Agreement, any Guaranty or the Merger Agreement. All amounts due under this Section 7.06 shall be payable on written demand therefor, accompanied by reasonable documentation with respect to any reimbursement, indemnification or other amount requested.
+     
+(c) Any payment required under this Agreement to be made to any JPM Party other than JPM shall be made to JPM as agent for such JPM Party.
+     
+Section 7.07.
+JPM Appointed Attorney-in-Fact
+. Each Pledgor hereby appoints JPM an attorney-in-fact of such Pledgor for the purpose of carrying out the provisions of this Agreement, and taking any action (including without limitation the filing of UCC-1 statements and the execution of supplements hereto on behalf of Guarantors and entities that may become Guarantors) and executing any instrument that JPM may deem necessary or advisable to accomplish the purposes hereof, which appointment is irrevocable and coupled with an interest. JPM shall have the right, upon the occurrence and during the continuance of any Trigger Event, with full power of substitution either in JPM's name or in the name of such Pledgor, (a) to receive, endorse, assign or deliver any an d all notes, acceptances, checks, drafts, money orders or other evidences of payment relating to the Collateral or any part thereof, (b) to demand, collect, receive payment of, give receipt for and give discharges and releases of all or any of the Collateral; (c) to ask for, demand, sue for, collect, receive and give acquittance for any and all moneys due or to become due under and by virtue of any Collateral; (d) to sign the name of any Pledgor on any invoice or bill of lading relating to any of the Collateral; (e) to send verifications of Accounts to any Account Debtor; (f) to commence and prosecute any and all suits, actions or proceedings at law or in equity in any court of competent jurisdiction to collect or otherwise realize on all or any of the Collateral or to enforce any rights in respect of any Collateral; (g) to settle, compromise, compound, adjust or defend any actions, suits or proceedings relating to all or any of the Collateral; (h) to notify, or to require any Pledgor to notify, Account Debt ors to make payment directly to JPM; and (i) to use, sell, assign, transfer, pledge, make any agreement with respect to or otherwise deal with all or any of the Collateral, and to do all other acts and things necessary to carry out the purposes of this Agreement, as fully and completely as though JPM were the absolute owner of the Collateral for all purposes
+; provided
+, that nothing herein contained shall be construed as requiring or obligating JPM to make any commitment or to make any inquiry as to the nature or sufficiency of any payment received by JPM, or to present or file any claim or notice, or to take any action with respect to the Collateral or any part thereof or the moneys due or to become due in respect thereof or any property covered thereby. JPM shall be accountable only for amounts actually received as a result of the exercise of the powers granted to them herein, and neither they nor their officers, directors, employees or agents shall be responsible to any Pledgor for any act or failure to act hereunder, except for their own gross negligence or willful misconduct.
+     
+Section 7.08.
+GOVERNING LAW
+.
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICT OF LAWS PRINCIPLES THEREOF THAT WOULD REQUIRE THE APPLICATION OF LAWS OF ANOTHER JURISDICTION
+     
+Section 7.09.
+Waivers; Amendment
+. (a) No failure or delay by JPM in exercising any right, power or remedy hereunder or under any Guaranty or the Merger Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power or remedy, or any abandonment or discontinuance of steps to enforce such a right, power or remedy, preclude any other or further exercise thereof or the exercise of any other right, power or remedy. The rights, powers and remedies of JPM hereunder and under the other each Guaranty and the Merger Agreement are cumulative and are not exclusive of any rights, powers or remedies that they would otherwise have. No waiver of any provision of this Agreement or
+consent to any departure by any Guarantor therefrom shall in any event be effective unless the same shall be permitted by paragraph (b) of this Section 7.09, and then such waiver or consent shall be effective only in the specific instance and for the purpose for which given. Without limiting the generality of the foregoing, the payment or satisfaction of any Underlying Liability shall not be construed as a waiver of any default or event of default, regardless of whether JPM may have had notice or knowledge of such default or event of default at the time. No notice or demand on any Guarantor in any case shall entitle any Guarantor to any other or further notice or demand in similar or other circumstances. Neither this Agreement nor any provision hereof may be waived, amended or modified except pursuant to an agreement or agreements in writing entered into by JPM and the Pledgor with respect to which such waiver, amendment or modification is to apply.
+     
+Section 7.10.
+WAIVER OF JURY TRIAL
+.
+EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT. EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 7.10.
+     
+Section 7.11.
+Severability
+. In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and therein shall not in any way be affected or impaired thereby. The parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+     
+Section 7.12.
+Counterparts
+. This Agreement may be executed in two or more counterparts, each of which shall constitute an original but all of which when taken together shall constitute but one contract, and shall become effective as provided in Section 7.04 hereof. Delivery of an executed counterpart to this Agreement by facsimile transmission shall be as effective as delivery of a manually signed original.
+     
+Section 7.13.
+Headings
+. Article and Section headings and the Table of Contents used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement.
+     
+Section 7.14.
+Jurisdiction; Consent to Service of Process
+. (a) Each party to this Agreement hereby irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of any New York State court or federal court of the United States of America sitting in New York City, and any appellate court from any thereof, in any action or
+proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such New York State or, to the extent permitted by law, in such federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement shall affect any right that JPM may otherwise have to bring any action or proceeding relating to this Agreement against any Pledgor, or its properties, in the courts of any jurisdiction.
+     
+(b) Each party to this Agreement hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any New York State or federal court. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
+     
+Section 7.15.
+Termination or Release
+. (a) This Agreement, the guarantees made herein, the pledges made herein, the Security Interest and all other security interests granted hereby shall terminate when all the Obligations (other than contingent or unliquidated obligations or liabilities with respect to which no claim has been asserted) have been paid in full in cash or immediately available funds and JPM has no further actual or contingent liabilities under any Guaranty or to a creditor of any Covered BSC Entity in respect of any Underlying Liability.
+     
+(b) A Subsidiary Party shall automatically be released from its obligations hereunder and the security interests in the Collateral of such Subsidiary Party shall be automatically released upon the consummation of any transaction permitted by the Merger Agreement and each Guaranty, as a result of which such Subsidiary Party ceases to be a Subsidiary of BSC or otherwise ceases to be a Guarantor;
+provided
+that JPM shall have consented to such transaction and the terms of such consent did not provide otherwise.
+     
+(c) Upon any sale or other transfer by any Pledgor of any Collateral that is permitted under the Merger Agreement and each Guaranty to any person that is not a Pledgor, or upon the effectiveness of any written consent to the release of the security interest granted hereby in any Collateral by JPM, the security interest in such Collateral shall be automatically released.
+     
+(d) In connection with any termination or release pursuant to paragraph (a), (b) or (c) of this Section 7.15, JPM shall execute and deliver to any Pledgor, at such Pledgor's expense, all documents that such Pledgor shall reasonably request to evidence such termination or release
+; provided
+, that JPM shall not be required to take any action under this Section 7.15(d) unless such Pledgor shall have delivered to JPM together with such request, which may be incorporated into such request, (i) a reasonably detailed description of the Collateral, which in any event shall be sufficient to effect the appropriate termination or release without affecting any other Collateral, and (ii) a certificate of a Responsible Officer of such Pledgor certifying that the transaction giving rise to such termination or release is permitted by the Merger Agreement and
+each Guaranty Agreement. Any execution and delivery of documents pursuant to this Section 7.15 shall be without recourse to or warranty by JPM.
+     
+(e) This Agreement, the guarantees made herein, the pledges made herein, the Security Interest and all other security interests granted hereby shall terminate upon the occurrence of the Closing under the Merger Agreement.
+     
+Section 7.16.
+Additional Subsidiaries
+. Upon execution and delivery by JPM and any Subsidiary of an instrument in the form of
+Exhibit A
+hereto, such Subsidiary shall become a Subsidiary Party hereunder with the same force and effect as if originally named as a Subsidiary Party herein. The execution and delivery of any such instrument shall not require the consent of any other party to this Agreement. The rights and obligations of each party to this Agreement shall remain in full force and effect notwithstanding the addition of any new party to this Agreement. BSC and the other Guarantors shall cause any Subsidiary o f BSC created or acquired by BSC or any of its Subsidiaries hereafter, and any existing Subsidiary not signatory hereto, in each case that JPM shall reasonably request (other than Regulated Entities), to become a Guarantor and Pledgor hereunder, and shall cause such Subsidiaries to execute all documents and take all such actions reasonably requested by JPM to achieve such purpose;
+provided
+, that any such Subsidiary shall, without further act or deed, be conclusively deemed to be a Guarantor and Pledgor hereunder upon such request by JPM.
+     
+Section 7.17.
+Right of Set-off
+. JPM is hereby authorized at any time and from time to time, to the fullest extent permitted by law, to set-off and apply any and all deposits (general or special, time or demand, provisional or final) at any time held and other indebtedness at any time owing by JPM to or for the credit or the account of any party to this Agreement against any of and all the obligations of such party now or hereafter existing under this Agreement owed to JPM, irrespective of whether or not JPM shall have made any demand under this Agreement and although such obligations may be unmatured. The rights of JPM under this Section 7.17 are in addition to other rights and remedies (including other rights of set-off) that JPM may have.
+     
+Section 7.18.
+Guarantor Operations
+. Anything to the contrary herein notwithstanding, as long as a Trigger Event has not occurred, or if occurred, is not continuing, Guarantors shall have the right to use any and all Collateral to operate their businesses in accordance with the Merger Agreement. Without limitation of the foregoing, Guarantors shall be entitled to rehypothecate, lend, sell or pledge the Collateral in the ordinary course of business, free and clear of any lien or security interest created under this agreement, such lien or security interest to attach to the proceeds received in respect thereof.
+     
+Section 7.19.
+Right of Release
+. Anything to the contrary herein notwithstanding, JPM shall have a unilateral right to release any Subsidiary Party from all or any portion of its obligations as Guarantor and/or Pledgor hereunder, and to release all or any portion of the Collateral from the Security Interest or other lien of JPM, in each case at any time and in its sole discretion, by delivering to BSC an amended and restated Schedule 7.19 describing such released Collateral.
+     
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the day and year first above written.
+ 
+ 
+     
+SUPPLEMENT NO. ____ dated as of [ ] (this "
+Supplement
+"), to the GUARANTEE AND COLLATERAL AGREEMENT, dated and effective as of March 24, 2008 (the "
+Guarantee and Collateral Agreement
+"), among JPMORGAN CHASE & CO., a Delaware corporation ("
+JPM
+"), THE BEAR STEARNS COMPANIES INC., a Delaware corporation ( "
+BSC
+"), and each Subsidiary BSC signatory thereto.
+     
+Capitalized terms used herein and not otherwise defined shall have the meanings assigned to such terms in the Guarantee and Collateral Agreement.
+Accordingly, JPM and the New Subsidiary agree as follows:
+     
+SECTION 1. In accordance with Section 7.16 of the Guarantee and Collateral Agreement, the New Subsidiary by its signature below becomes a Subsidiary Party, a Guarantor and a Pledgor under the Guarantee and Collateral Agreement with the same force and effect as if originally named therein as a Subsidiary Party, a Guarantor and a Pledgor, and the New Subsidiary hereby (a) agrees to all the terms and provisions of the Guarantee and Collateral Agreement applicable to it as a Subsidiary Party, a Guarantor and a Pledgor thereunder, and (b) represents and warrants that the representations and warranties made by it as a Guarantor and a Pledgor thereunder are true and correct, in all material respects, on and as of the date hereof. In furtherance of the foregoing, the New Subsidiary, as security for the payment and performance in full of the Obligations (as defined in the Guarantee and Collateral Agreement), does he reby create and grant to JPM and its successors and permitted assigns a security interest in and Lien on all the New Subsidiary's right, title and interest in and to the Collateral (as defined in the Guarantee and Collateral Agreement) of the New Subsidiary. Each reference to a "Subsidiary Party" or a "Guarantor" a "Pledgor" in the Guarantee and Collateral Agreement shall be deemed to include the New Subsidiary. The Guarantee and Collateral Agreement is hereby incorporated herein by reference.
+     
+SECTION 2. The New Subsidiary represents and warrants to JPM that this Supplement has been duly authorized, executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against it in accordance with its terms, subject to (i) the effects of bankruptcy, insolvency, moratorium, reorganization, fraudulent conveyance or other similar laws affecting creditors' rights generally, (ii) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law) and (iii) implied covenants of good faith and fair dealing.
+     
+SECTION 3. This Supplement may be executed in two or more counterparts, each of which shall constitute an original but all of which when taken together shall constitute but one contract. This Supplement shall become effective when (a) JPM shall have received a counterpart of this Supplement that bears the signature of the New Subsidiary, and (b) JPM has executed a counterpart hereof.
+     
+SECTION 4. The New Subsidiary hereby represents and warrants that (a) set forth on
+Schedule I
+attached hereto is a true and correct schedule of the location of any and all Collateral of the New Subsidiary, (b) set forth on
+Schedule II
+attached hereto is a true and correct schedule of all the Pledged Securities of the New Subsidiary, and (c) set forth under its signature hereto, is the true and correct legal name of the New Subsidiary, its jurisdiction of formation and the location of its chief executive office.
+     
+SECTION 5. Except as expressly supplemented hereby, the Guarantee and Collateral Agreement shall remain in full force and effect.
+     
+SECTION 6. THIS SUPPLEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS SUPPLEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICT OF LAWS PRINCIPLES THEREOF THAT WOULD REQUIRE THE APPLICATION OF LAWS OF ANOTHER JURISDICTION.
+     
+SECTION 7. In the event any one or more of the provisions contained in this Supplement should be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and in the Guarantee and Collateral Agreement shall not in any way be affected or impaired thereby. The parties shall endeavor in good-faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+     
+SECTION 8. All communications and notices hereunder shall be in writing and given as provided in Section 7.01 of the Guarantee and Collateral Agreement.
+     
+SECTION 9. The New Subsidiary agrees to reimburse JPM for its reasonable out-of-pocket expenses in connection with this Supplement, including the reasonable fees, disbursements and other charges of counsel for JPM.
+     
+IN WITNESS WHEREOF, the New Subsidiary and JPM have duly executed this Supplement to the Guarantee and Collateral Agreement as of the day and year first above written.
+Bear, Stearns International Holdings Inc.
+Bear Stearns Irish Holdings Inc.
+Okwari I, LLC
+Texas Investment Holdings Inc.
+Arroyo Energy Holdings LLC
+Delta Power Company, LLC
+Texas Power GP LLC
+BE Investment Holding Inc.
+BE Alabama Holding LLC
+BE Allegheny Holding LLC
+BE CA Holding LLC
+BE Ironwood Holding LLC
+BE KJ Holding LLC
+BE Louisiana Holding LLC
+BE Red Oak Holding LLC
+Bear Stearns UK Holdings Limited
+Bear Stearns Holdings Limited
+Bear, Stearns Realty Investors, Inc.
+
+

@@ -1,0 +1,555 @@
+FILE:FLR/FLR-8K-20110913130916.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+           
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Item 1.01.  Entry Into a Material Definitive Agreement.
+ 
+On September 13, 2011, Fluor Corporation (the "Corporation"), entered into a first supplemental indenture (the "Supplemental Indenture") with Wells Fargo Bank, National Association, as trustee (the "Trustee"), under the Indenture, dated as of September 8, 2011 (the "Base Indenture" and together the "Indenture"), by and between the Company and the Trustee, in connection with the offer and sale of $500 million aggregate principal amount of the Company's 3.375% Senior Notes due 2021 (the "Notes").
+ 
+The Corporation will pay interest on the Notes on each March 15 and September 15, beginning on March 15, 2012. The Notes will mature on September 15, 2021. The Corporation may, at any time, redeem the Notes at a redemption price equal to 100% of the principal amount thereof, plus a "make whole" premium described in the Supplemental Indenture.
+ 
+Upon the occurrence of a Change of Control Triggering Event (as defined in the Supplemental Indenture), unless the Corporation has already exercised its option to redeem the Notes, the Corporation will be required to make an offer to purchase the Notes at a price equal to 101% of their principal amount, plus accrued and unpaid interest to the date of purchase.
+ 
+The Notes are subject to the covenants in the Indenture, which include restrictions on liens and restrictions on sale and leaseback transactions as set forth in the Supplemental Indenture.
+ 
+The Indenture contains customary events of defaults, including: (a) the failure to pay interest on any Note for 30 days after the interest becomes due; (b) the failure to pay principal or premium, if any, on any Note when it becomes due; (c) the Corporation's failure to perform, or its breach of, any other covenant in the Indenture for 90 days after written notice thereof; and (d) the occurrence of a specified event of bankruptcy, insolvency or reorganization involving the Corporation.
+ 
+If an event of default occurs and is continuing with respect to the Notes, except if the principal has already become due and payable, the Indenture provides that the principal will become due and payable immediately upon written notice to the Corporation by the Trustee or a holder of not less than 25% in aggregate principal amount of the Notes. If at any time after the principal of the Notes has been so declared due and payable (and before any judgment or decree for the payment of the amounts due shall have been obtained or entered), and upon satisfaction of the conditions set forth in the Indenture, the holders of a majority of the aggregate principal amount of the Notes may waive all defaults and rescind and annul such declaration and its consequences.
+ 
+The above summary of the terms of the Indenture does not purport to be complete and is qualified in its entirety by reference to the Base Indenture and the Supplemental Indenture.  The Base Indenture is incorporated herein by reference to Exhibit 4.3 to the Corporation's Current Report on Form 8-K filed on September 8, 2011.  A copy of the Supplemental Indenture is filed herewith and shall be deemed to be incorporated by reference as an exhibit to the Corporation's Registration Statement on Form S-3 (File No. 333-156137).
+ 
+Item 2.03.  Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+ 
+The information set forth above under Item 1.01 is incorporated in this Item 2.03 by reference.
+ 
+Item 9.01.  Financial Statements and Exhibits.
+ 
+(d)
+                                 
+Exhibits.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 4.4
+ 
+EXECUTION VERSION
+ 
+EXHIBIT:
+A.
+               
+Form of Note
+FIRST SUPPLEMENTAL INDENTURE dated as of September 13, 2011 (" ") to the Indenture dated as of September 8, 2011 (the "" and as supplemented by this First Supplemental Indenture, the ""), is by and among FLUOR CORPORATION, a Delaware corporation (the ""), and WELLS FARGO BANK, NATIONAL ASSOCIATION, as trustee (as defined in the Indenture, the "").
+First
+Supplemental Indenture
+Base Indenture
+Indenture
+Company
+Trustee
+Each party agrees as follows for the benefit of the other parties and for the equal and ratable benefit of the Holders of Notes (as defined herein):
+ 
+WHEREAS, the Company has duly authorized the execution and delivery of the Base Indenture to provide for the issuance from time to time of the Company's debentures, notes, or other debt instruments (as defined in the Indenture, the ""), to be issued in one or more series, as in the Indenture provided;
+Securities
+ 
+WHEREAS, the Company desires and has requested the Trustee to join them in the execution and delivery of this First Supplemental Indenture in order to establish and provide for the issuance by the Company of a series of Securities designated as its 3.375% Senior Notes due 2021 (the ""), on the terms set forth herein;
+Notes
+ 
+WHEREAS, the Company now wishes to issue Notes in an initial aggregate principal amount of $500,000,000;
+ 
+WHEREAS, Section 8.1 of the Base Indenture permits the Company and the Trustee to amend or supplement the Base Indenture to establish the form and terms of any series of Securities without the consent of any Securityholder;
+ 
+WHEREAS, the conditions set forth in the Indenture for the execution and delivery of this First Supplemental Indenture have been complied with; and
+ 
+WHEREAS, all things necessary to make this First Supplemental Indenture a valid agreement of the Company and the Trustee, in accordance with its terms, and a valid amendment of, and supplement to, the Base Indenture have been done;
+ 
+NOW, THEREFORE, THIS FIRST SUPPLEMENTAL INDENTURE WITNESSETH:
+ 
+In consideration of the premises and the purchase and acceptance of the Notes by the Holders thereof and the Company mutually covenant and agree with the Trustee, for the equal and ratable benefit of the Holders of the Notes, that the Base Indenture is supplemented and amended, to the extent expressed herein, as follows:
+Section 1.01.This First Supplemental Indenture supplements and, to the extent inconsistent therewith, replaces the provisions of the Base Indenture, to which provisions reference is hereby made.
+  Scope of Supplemental Indenture; General. 
+ 
+The changes, modifications and supplements to the Base Indenture effected by this First Supplemental Indenture shall be applicable only with respect to, and govern the terms of, the Notes (which shall be initially in the aggregate principal amount of $500,000,000) and shall not apply to any other Securities that have been or may be issued under the Indenture unless a supplemental indenture with respect to such other Securities specifically incorporates such changes, modifications and supplements.  Pursuant to this First Supplemental Indenture, there is hereby created and designated a series of Securities under the Indenture entitled "3.375% Senior Notes due 2021."  The Notes shall be in the form of Exhibit A hereto, the terms of which are incorporated herein by reference.
+ 
+All Notes issued under this First Supplemental Indenture shall vote and consent together on all matters as one class, including without limitation on waivers and amendments, and no Holder of Notes will have the right to vote or consent as a separate class from other Holders on any matter except matters which affect such Holder only.
+ 
+Section 1.02The information applicable to the Notes required pursuant to Section 2.03 of the Base Indenture is as follows:
+.  Terms of Notes. 
+ 
+(a)           the title of the Notes is "3.375% Senior Notes due 2021";
+ 
+(b)           the aggregate principal amount of the Notes is initially $500,000,000;
+ 
+(c)           the price to the public of the Notes will be 99.119% of the principal amount; and 100.00% of the principal amount will be payable upon declaration of acceleration or maturity;
+ 
+(d)           principal will be payable as set forth in the form of Note;
+ 
+(e)           the rate of interest and interest payment and record dates are as set forth in the form of Note;
+ 
+(f)            as set forth in the form of Note;
+ 
+(g)           the Notes will be subject to optional redemption as set forth in Article 5 hereof;
+ 
+(h)           not applicable;
+ 
+(i)            not applicable;
+ 
+(j)            not applicable;
+(k)           the Notes will be issuable in minimum denominations of $2,000 and integral multiples of $1,000;
+ 
+(l)            the Notes shall be issuable as Global Securities and the provisions of Section 2.12 of the Base Indenture shall apply to the Notes;
+ 
+(m)          not applicable;
+ 
+(n)           payment of the principal and interest on the Notes shall be made in United States dollars;
+ 
+(o)           not applicable;
+ 
+(p)           Wells Fargo Bank, National Association, initially shall serve as the Trustee, Registrar, Paying Agent and Custodian with respect to the Notes;
+ 
+(q)           not applicable;
+ 
+(r)            not applicable;
+ 
+(s)           the provisions of Article 3 hereof setting forth covenants shall be applicable to the Notes;
+ 
+(t)            as set forth in Article 6 hereof;
+ 
+(u)           (i) the Notes are the Company's senior unsecured obligations and (ii) as set forth elsewhere herein;
+ 
+(v)           not applicable.
+Section 2.01.The following definitions shall apply to the Notes.  Capitalized terms used but not defined herein have the meanings ascribed to such terms in the Base Indenture.
+  Certain Definitions. 
+ 
+"" means the present value (discounted at the rate of interest implicit in the terms of the lease) of the obligation of a lessee for net rental payments during the remaining term of any lease (including any period for which such lease has been extended or may, at the option of the lessor, be extended).
+Attributable Debt
+ 
+"Change of Control"
+means the occurrence of any of the following after the date of issuance of the Notes:
+(a)           the direct or indirect sale, lease, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of related transactions, of all or substantially all of the assets of the Company and the Company's Subsidiaries taken as a whole to any "person" or "group" (as those terms are used in Section 13(d)(3) of the Exchange Act) other than to the Company or one of the Company's Subsidiaries;
+ 
+(b)           the consummation of any transaction (including, without limitation, any merger or consolidation) the result of which is that any "person" or "group" (as those terms are used in Section 13(d)(3) of the Exchange Act), it being agreed that an employee of the Company or any of the Company's Subsidiaries for whom shares are held under an employee stock ownership, employee retirement, employee savings or similar plan and whose shares are voted in accordance with the instructions of such employee shall not be a member of a "group" (as that term is used in Section 13(d)(3) of the Exchange Act) solely because such employee's shares are held by a trustee under said plan) becomes the "beneficial owner" (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, of the Company's Voting Stock representing more than 50% of the voting power of the Company's outstanding Voting Stock;
+ 
+(c)           the Company consolidates with, or merges with or into, any Person, or any Person consolidates with, or merge with or into, the Company, in any such event pursuant to a transaction in which any of the Company's outstanding Voting Stock or Voting Stock of such other Person is converted into or exchanged for cash, securities or other property, other than any such transaction where the Company's Voting Stock outstanding immediately prior to such transaction constitutes, or is converted into or exchanged for, Voting Stock representing at least a majority of the voting power of the Voting Stock of the surviving Person immediately after giving effect to such transaction;
+ 
+(d)           the first day on which a majority of the members of the Board of Directors are not Continuing Directors; or
+ 
+(e)           the adoption of a plan relating to the liquidation or dissolution of the Company.
+ 
+Notwithstanding the foregoing, a transaction will not be deemed to involve a Change of Control solely because the Company becomes a direct or indirect wholly-owned subsidiary of a holding company if the direct or indirect Holders of the Voting Stock of such holding company immediately following that transaction are substantially the same as the Holders of the Company's Voting Stock immediately prior to that transaction.
+ 
+"" has the meaning ascribed to such term in Section 3.01 of this First Supplemental Indenture.
+Change of Control Offer
+ 
+"" has the meaning ascribed to such term in Section 3.01 of this First Supplemental Indenture.
+Change of Control Payment
+ 
+"" has the meaning ascribed to such term in Section 3.01 of this First Supplemental Indenture.
+Change of Control Payment Date
+"" means with respect to the Notes, (i) the rating of such Notes is lowered by two out of three of the Rating Agencies on any date during the period (the "") commencing on the earlier of (a) the occurrence of a Change of Control and (b) the first public announcement by the Company of any Change of Control (or pending Change of Control), and ending 60 days following consummation of such Change of Control (which Trigger Period will be extended following consummation of a Change of Control for so long as any of the Rating Agencies has publicly announced that it is considering a possible ratings change), and (ii) such Notes are rated below Investment Grade by each of the Rating Agencies on any day during the Trigger Period; that a Change of Control Triggering Event will not be deemed to have occurred in respect of a particular Change of Control if each Rating Agency making the reduction in rating does not publicly announce or confirm or inform the Trustee at the Company's request that the reduction was the result, in whole or in part, of any event or circumstance comprised of or arising as a result of, or in respect of, the Change of Control.
+Change of Control Triggering Event
+Trigger Period
+provided
+ 
+Notwithstanding the foregoing, no Change of Control Triggering Event will be deemed to have occurred in connection with any particular Change of Control unless and until such Change of Control has actually been consummated.
+ 
+"" means the United States Treasury security selected by an Independent Investment Banker that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of the Notes.
+Comparable Treasury Issue
+ 
+"" means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if the Trustee obtains fewer than six such Reference Treasury Dealer Quotations, the average of all Reference Treasury Dealer Quotations obtained.
+Comparable Treasury Price
+ 
+"" means the aggregate amount of assets (less applicable reserves and other properly deductible items) after deducting therefrom (a) all current liabilities (excluding any indebtedness for money borrowed having a maturity of less than 12 months from the date of the most recent consolidated balance sheet of the Company but which by its terms is renewable or extendable beyond 12 months from such date at the option of the borrower) and (b) all goodwill, trade names, patents, unamortized debt discount and expense and any other like intangibles, all as set forth on the most recent consolidated balance sheet of the Company computed in accordance with U.S. generally accepted accounting principles and contained in an annual report on Form 10-K or a quarterly report on Form 10-Q (in each case as amended, if applicable) filed by the Company with the Securities and Exchange Commission (or any successor thereto) or if, at such date, the Company shall have ceased filing such reports with the Securities and Exchange Commission (or any successor thereto), the Company's then most recent consolidated annual or quarterly balance sheet prepared in accordance with U.S. generally accepted accounting principles.
+Consolidated Net Tangible Assets
+"" means, as of any date of determination, any member of the Company's Board of Directors who: (1) was a member of such Board of Directors on the date of issuance of the Notes or (2) was nominated for election, elected or appointed to such Board of Directors with the approval of a majority of the Continuing Directors who were members of such Board of Directors at the time of such nomination, election or appointment (either by a specific vote or by approval of a proxy statement in which such member was named as a nominee for election as a director).
+Continuing Director
+ 
+"" means indebtedness for money borrowed that in accordance with applicable generally accepted accounting principles would be reflected on the balance sheet of the obligor as a liability as of the date on which Debt is to be determined.  Notwithstanding anything to the contrary contained herein, "Debt" of the Company and its Subsidiaries shall exclude Debt of variable interest entities which is identified (as required by and referenced in FASB Interpretation No. 46, Consolidation of Variable Interest Entities (January 2003), as may be modified or supplemented) by separate line item in the balance sheet of the Company and its Subsidiaries as non-recourse to the Company and its Subsidiaries.
+Debt
+ 
+"" means a Subsidiary (a) which is a United States-organized (other than the territories and possessions thereof) legal entity and (b) which owns any Principal Property.
+Domestic Subsidiary
+ 
+"" has the meaning ascribed to such term in Section 4.02 of this First Supplemental Indenture.
+DTC
+ 
+"" means any Event of Default specified as such in Section 5.01 of the Base Indenture.
+Event of Default
+ 
+"" means the Securities Exchange Act of 1934, as amended.
+Exchange Act
+ 
+"" means Fitch Ratings, Inc. and its successors.
+Fitch
+ 
+"" has the meaning ascribed to such term in Section 4.01 of this First Supplemental Indenture.
+Global Note
+ 
+"" has the meaning ascribed to such term in Section 4.02 of this First Supplemental Indenture.
+Global Note Holder
+ 
+"" means one of the Reference Treasury Dealers appointed by the Company.
+Independent Investment Banker
+ 
+"" means a rating of Baa3 or better by Moody's (or its equivalent under any successor rating category of Moody's), a rating of BBB- or better by S&P (or its equivalent under any successor rating category of S&P), and a rating of BBB- or better by Fitch (or its equivalent under any successor rating category of Fitch), and the equivalent investment grade credit rating from any replacement rating agency or rating agencies selected by the
+Investment Grade
+Company under the circumstances permitting the Company to select a replacement agency and in the manner for selecting a replacement agency, in each case as set forth in the definition of "Rating Agency."
+ 
+"" means September 13, 2011.
+Issue Date
+ 
+"" means any mortgage, pledge, lien or other encumbrance.
+Liens
+ 
+"" means Moody's Investors Service, Inc., a subsidiary of Moody's Corporation, and its successors.
+Moody's
+ 
+"" has the meaning ascribed to it in the preamble of this First Supplemental Indenture.
+Notes
+ 
+"" means any individual, corporation, partnership, limited liability company, business trust, association, joint-stock company, joint venture, trust, incorporated or unincorporated organization or government or any agency or political subdivision thereof.
+Person
+ 
+"" means each plant, warehouse, equipment yard, distribution facility or office located within the United States (other than the territories and possessions thereof) and owned or leased by the Company or a Domestic Subsidiary which has a gross book value in excess of 2% of Consolidated Net Tangible Assets other than a plant, warehouse, equipment yard, distribution facility or office, or portion thereof which, in the opinion of the Company's Board of Directors, is not of material importance to the business conducted by the Company and its Subsidiaries as an entirety.
+Principal Property
+ 
+"" means each of Moody's, S&P and Fitch; , that if any of Moody's, S&P or Fitch ceases to provide rating services to issuers or investors, the Company may appoint another "nationally recognized statistical rating organization" within the meaning of Section 3(a)(62) of the Exchange Act as a replacement for such Rating Agency.
+Rating Agency
+provided
+ 
+"" means each of Merrill Lynch, Pierce, Fenner & Smith Incorporated and BNP Paribas Securities Corp., their respective successors and two other nationally recognized investment banking firms that are Primary Treasury Dealers specified from time to time by the Company, except that if any of the foregoing ceases to be a primary U.S. government securities dealer in the United States (a ""), the Company shall designate as a substitute another nationally recognized investment banking firm that is a Primary Treasury Dealer.
+Reference Treasury Dealer
+Primary Treasury Dealer
+ 
+"" means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Trustee, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Trustee by such Reference Treasury Dealer as of 3:30 p.m., New York City time, on the third business day preceding such redemption date.
+Reference Treasury Dealer Quotations
+ 
+"" means Standard & Poor's Ratings Services, a division of The McGraw-Hill Companies, Inc., and its successors.
+S&P
+ 
+"" means any Debt of the Company or its Subsidiaries other than Subordinated Debt.
+Senior Debt
+ 
+"" means any Debt of the Company which is expressly subordinated in right of payment to the Notes.
+Subordinated Debt
+ 
+"" of a Person means a corporation, partnership, joint venture, limited liability company or other business entity of which a majority of the shares of securities or other interests having ordinary voting power for the election of directors or other governing body (other than securities or interests having such power only by reason of the happening of a contingency) are at the time beneficially owned, or the management of which is otherwise controlled, directly, or indirectly through one or more intermediaries, or both, by such Person.  Unless otherwise specified, all references herein to a "Subsidiary" or to "Subsidiaries" shall refer to a Subsidiary or Subsidiaries of the Company.
+Subsidiary
+ 
+"" means, with respect to any redemption date, the rate per annum equal to the semi-annual equivalent yield to maturity (computed as of the third business day immediately preceding such redemption date) of the Comparable Treasury Issue, assuming a price for the Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the Comparable Treasury Price for such redemption date.
+Treasury Rate
+ 
+"" of any specified Person as of any date means the capital stock of such Person that is at the time entitled to vote generally in the election of the Board of Directors of such Person.
+Voting Stock
+ 
+Section 2.02Unless the context otherwise requires or except as otherwise expressly provided, the term "interest" in this Indenture shall be construed to include additional interest, if any.
+.  Rules of Construction. 
+ 
+The following covenants shall apply in addition to the covenants set forth in the Indenture:
+ 
+Section 3.01
+.  Change of Control Triggering Event.
+ 
+(a)       Upon the occurrence of a Change of Control Triggering Event, unless the Company has exercised its right to redeem the Notes pursuant to Section 5.01 of this First Supplemental Indenture by giving irrevocable notice to the Trustee in accordance with the Indenture, each Holder of Notes shall have the right to require the Company to purchase all or a portion of such Holder's Notes pursuant to the offer described in this Section 3.01 (the "
+Change of Control
+ 
+Offer
+"), at a purchase price equal to 101% of the principal amount thereof plus accrued and unpaid interest, if any, to the date of purchase (the ""), subject to the rights of Holders of Notes on the relevant record date to receive interest due on the relevant interest payment date.
+Change of Control Payment
+ 
+(b)      Unless the Company has exercised its right to redeem all outstanding Notes, within 30 days following the date upon which the Change of Control Triggering Event occurred with respect to the Notes or, at the Company's option, prior to any Change of Control but after the public announcement of the pending Change of Control, the Company shall be required to send, by first class mail, a notice to each Holder of Notes, with a copy to the Trustee, which notice shall govern the terms of the Change of Control Offer. Such notice shall state, among other things, the purchase date, which must be no earlier than 30 days nor later than 60 days from the date such notice is mailed, other than as may be required by law (the ""). The notice, if mailed prior to the date of consummation of the Change of Control, shall state that the Change of Control Offer is conditioned on the Change of Control being consummated on or prior to the Change of Control Payment Date.
+Change of Control Payment Date
+ 
+(c)       On the Change of Control Payment Date, the Company shall, to the extent lawful:
+ 
+(i)        accept or cause a third party to accept for payment all Notes or portions of Notes properly tendered pursuant to the Change of Control Offer;
+ 
+(ii)       deposit or cause a third party to deposit with the Paying Agent an amount equal to the Change of Control Payment in respect of all Notes or portions of Notes properly tendered; and
+ 
+(iii)      deliver or cause to be delivered to the Trustee the Notes properly accepted together with an Officers' Certificate stating the aggregate principal amount of Notes or portions of Notes being repurchased and that all conditions precedent to the Change of Control Offer and to the repurchase by the Company of Notes pursuant to the Change of Control Offer have been complied with.
+ 
+(d)      The Company shall not be required to make a Change of Control Offer if a third party makes such an offer in the manner, at the times and otherwise in compliance with the requirements for such an offer made by the Company and such third party purchases all Notes properly tendered and not withdrawn under its offer.
+ 
+(e)      
+The Company will comply in all material respects with the requirements of Rule 14e-1 under the Exchange Act, and any other securities laws and regulations thereunder to the extent those laws and regulations are applicable in connection with the repurchase of the Notes as a result of a Change of Control Triggering Event. To the extent that the provisions of any such securities laws or regulations conflict with the Change of Control Offer provisions of the Notes, the Company will comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under the Change of Control Offer provisions of the Notes by virtue of such conflict.
+ 
+Section 3.02
+.  Restrictions on Liens.
+ 
+(a)       The Company will not, nor will it permit any Domestic Subsidiary to, incur, issue, assume or guarantee any Debt secured by a Lien upon any Principal Property or on any shares of stock or indebtedness of any Domestic Subsidiary (whether such Principal Property, shares of stock or indebtedness is now owned or hereafter acquired) without in any such case effectively providing that the Notes (together with, if the Company shall so determine, any other indebtedness of or guaranteed by the Company or such Domestic Subsidiary ranking equally with the Notes then existing or thereafter created) shall be secured equally and ratably with such Debt.
+ 
+(b)      The restrictions set forth in paragraph (a) in this Section 3.02 shall not apply to:
+ 
+(i)        Liens on property, shares of stock or indebtedness of or guaranteed by any Person existing at the time such Person becomes a Domestic Subsidiary;
+ 
+(ii)       Liens on property existing at the time of acquisition thereof, or to secure the payment of all or part of the purchase or construction price of property, or to secure Debt incurred or guaranteed for the purpose of financing all or part of the purchase or construction price of property or the cost of improvements on property, which Debt is incurred or guaranteed prior to, at the time of, or within 180 days after the later of such acquisition or completion of such improvements or construction or commencement of commercial operation of the property;
+ 
+(iii)      Liens in favor of the Company or any Subsidiary;
+ 
+(iv)     Liens on property of a Person existing at the time such Person is merged into or consolidated with the Company or a Domestic Subsidiary or at the time of a purchase, lease or other acquisition of the property of a Person as an entirety or substantially as an entirety by the Company or a Domestic Subsidiary;
+ 
+(v)      Liens on the property of the Company or that of a Domestic Subsidiary in favor of the United States of America or any State thereof, or any political subdivision thereof, or in favor of any other country, or any political subdivision thereof, to secure certain payments pursuant to any contract or statute or to secure any indebtedness incurred or guaranteed for the purpose of financing all or any part of the purchase price or the cost of construction of the property subject to such Liens (including, but not limited to, Liens incurred in connection with pollution control industrial revenue bond or similar financing);
+ 
+(vi)     Liens imposed by law, for example, mechanics', workmen's, repairmen's, banker's or other similar Liens or rights of set-off arising in the ordinary course of business;
+ 
+(vii)    pledges or deposits under workmen's compensation or similar legislation or in certain other circumstances;
+ 
+(viii)   Liens in connection with legal proceedings;
+ 
+(ix)      Liens for taxes or assessments or governmental charges or levies not yet due or delinquent, of which can thereafter be paid without penalty, or which are being contested in good faith by appropriate proceedings;
+ 
+(x)       Liens consisting of restrictions on the use of real property that do not interfere materially with the property's use;
+ 
+(xi)      Liens existing on the date of the Indenture; and
+ 
+(xii)     any refinancing, extension, renewal or replacement (or successive refinancings, extensions, renewals or replacements), in whole or in part, of any Lien referred to in any of the foregoing clauses;
+provided
+, , that (a) the principal or accreted amount of any Debt of the Company or any of the Company's Domestic Subsidiaries secured by such Lien immediately after such refinancing, extension, renewal or replacement shall not exceed the sum of the principal or accreted amount, as the case may be, of any Debt of the Company or any of the Company's Domestic Subsidiaries so secured immediately prior to such refinancing, extension, renewal or replacement plus any costs and expenses (including, without limitation, any fees, premiums and penalties) related to such refinancing, extension, renewal or replacement, and (b) such refinancing, extension, renewal or replacement shall be limited to all or a part of the same Principal Property (and any improvements thereon), any shares of stock or indebtedness of any Domestic Subsidiary which secured any Debt of the Company or any of the Company's Domestic Subsidiaries immediately prior to such refinancing, extension, renewal or replacement.
+however
+ 
+(c)       Notwithstanding the above, the Company and any one or more of its Domestic Subsidiaries may, without securing the Notes, incur, issue, assume or guarantee secured Debt which would otherwise be subject to the foregoing restrictions, provided that after giving effect thereto the aggregate amount of Debt which would otherwise be subject to the foregoing restrictions then outstanding (not including secured Debt permitted under the foregoing exceptions) plus Attributable Debt relating to sale and leaseback transactions (as described below) does not exceed 15% of the Company's Consolidated Net Tangible Assets.
+ 
+Section 3.03
+.  Restrictions on Sale and Leaseback Transactions
+ 
+(a)       The Company shall not, nor shall it permit any Domestic Subsidiary to, enter into a sale and leaseback transaction of any Principal Property (whether now owned or hereafter acquired), unless
+ 
+(i)        the Company or such Domestic Subsidiary would be entitled under the Indenture to issue, assume or guarantee Debt secured by a Lien upon such Principal Property at least equal in amount to the Attributable Debt in respect of such transaction without equally and ratably
+securing
+the Notes, , such Attributable Debt shall thereupon be deemed to be Debt subject to the provisions of Section 3.02 of this First Supplemental Indenture or
+provided
+that
+ 
+(ii)       within 180 days, an amount in cash equal to such Attributable Debt is applied to (x) the retirement of Senior Debt that matures at or is extendible or renewable at the option of the obligor to a date more than twelve months after the date of the creation of such Senior Debt or (y) the purchase, construction, development, expansion or improvement of other comparable property, in the case of both (x) and (y), in an amount not less than the greater of (1) the net proceeds of the sale of the Principal Property leased pursuant to the arrangement or (2) the fair market value of the Principal Property so leased.
+ 
+(b)      The restrictions set forth in paragraph (a) in this Section 3.03 shall not apply:
+ 
+(i)        to a sale and leaseback transaction between the Company and a Domestic Subsidiary or between Domestic Subsidiaries, or that involves the taking back of a
+lease
+for a period of less than three years, or
+ 
+(ii)       if, at the time of the sale and leaseback transaction, after giving effect to the transaction, the total discounted net amount of rent required to be paid during the remaining term of any lease relating to all outstanding sale and leaseback transactions (other than sale and leaseback transactions otherwise permitted under this Section 3.03) plus all outstanding secured Debt pursuant to Section 3.02
+above
+, does not exceed 15% of the Company's Consolidated Net Tangible Assets.
+ 
+Section 3.04Each of the agreements and covenants of the Company contained in Article 3 of the Base Indenture shall apply to the Notes.
+.  Applicability of Covenants Contained in the Base Indenture. 
+ 
+Section 4.01The Notes will initially be issued in the form of one or more Global Securities substantially in the form of Exhibit A attached hereto (the "").
+.  Form of Notes. 
+Global Note
+ 
+Section 4.02The Depositary for the Global Note will initially be The Depositary Trust Company ("") and the Global Note will be deposited with, or on behalf of, the Trustee as custodian for DTC and registered in the name of DTC or a nominee of DTC (such nominee being referred to herein as the "").
+.  Depositary. 
+DTC
+Global Note Holder
+ 
+Section 5.01The Notes will be redeemable, at the option of the Company, at any time and from time to time, in whole or in part, on not less than 30 nor more than 60 days' prior notice mailed to the Holders of the Notes, with a copy provided to the Trustee.  The Notes will be redeemable at a redemption price, to be calculated by the Company, plus accrued and unpaid interest to the date of redemption, equal to the greater of:
+.  Optional Redemption. 
+ 
+(a)       100% of the principal amount of the Notes being redeemed; and
+ 
+(b)      the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (not including interest accrued to the date of redemption), discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 25 basis points, plus, in each case, accrued and unpaid interest on the Notes to be redeemed to the date of redemption.
+ 
+Section 5.02The provisions of Article 12 of the Base Indenture in respect of the Notes shall apply to any optional redemption of the Notes except when such provisions conflict with the foregoing.
+.  Applicability of Sections of the Base Indenture. 
+ 
+Section 6.01If the Company shall effect a Defeasance of the Notes pursuant to Article 10 of the Base Indenture, the Company shall cease to have any obligation to comply with the covenants set forth in Article 3 hereof.
+.  Defeasance. 
+ 
+ 
+Section 7.01THIS FIRST SUPPLEMENTAL INDENTURE AND THE NOTES WILL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ITS PRINCIPLES OF CONFLICTS OF LAW.
+.  GOVERNING LAW. 
+ 
+Section 7.02The recitals contained herein shall be taken as the statements of the Company, and the Trustee assumes no responsibility for their correctness.
+.  Recitals. 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this First Supplemental Indenture to be duly executed, all as of the date first above written.
+ 
+ 
+ 
+ 
+ 
+EXHIBIT A
+ 
+ 
+THIS CERTIFICATE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF THE DEPOSITORY OR A NOMINEE THEREOF.  EXCEPT AS OTHERWISE PROVIDED IN THE INDENTURE, THIS CERTIFICATE MAY BE TRANSFERRED, IN WHOLE BUT NOT IN PART, ONLY TO ANOTHER NOMINEE OF THE DEPOSITORY OR TO A SUCCESSOR DEPOSITORY OR TO A NOMINEE OF SUCH SUCCESSOR DEPOSITORY.
+ 
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION ("DTC" OR THE "DEPOSITORY"), TO THE COMPANY OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INSOMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.
+ 
+ 
+ 
+FLUOR CORPORATION., a corporation duly organized and existing under the laws of the State of Delaware (herein called the "", which term includes any successor corporation under the Indenture hereinafter referred to), for value received, hereby promises to pay to CEDE & CO., or registered assigns, the principal sum of $500,000,000 on September 15, 2021, unless earlier redeemed as herein provided, and to pay interest thereon from September 13, 2011 or from the most recent interest payment date to which interest has been paid or duly provided for, semi-annually on March 15 and September 15 in each year, commencing March 15, 2012 at the rate of 3.375% per annum, until the principal hereof is paid or made available for payment.
+Company
+ 
+The interest so payable, and punctually paid or duly provided for, on any interest payment date will, as provided in the Indenture, be paid to the Person in whose name this Note is registered at the close of business on the March 1 or September 1 preceding
+ 
+the relevant interest payment date, except that interest payable at maturity shall be paid to the same Persons to whom principal of this Note is payable. Interest will be computed on this Note on the basis of a 360-day year of twelve 30-day months.
+ 
+Payment of the principal of (and premium, if any) and interest on this Note shall be made at the office or agency of the Trustee maintained for that purpose in New York, New York, in such currency of the United States of America as at the time of payment is legal tender for payment of public and private debts; provided, however, for so long as the Notes are represented in global form by one or more Global Securities, all payments of principal (and premium, if any) and interest shall be made by wire transfer of immediately available funds to the Depository or its nominee, as the case may be, as the registered owner of the Global Security representing such Notes.
+ 
+Reference is hereby made to the further provisions of this Note set forth on the reverse hereof, which further provisions shall for all purposes have the same effect as if set forth at this place.
+ 
+Unless the certificate of authentication hereon has been executed by the Trustee referred to on the reverse hereof by manual signature, this Note shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+ 
+IN WITNESS WHEREOF, the Company has caused this instrument to be duly executed.
+ 
+ 
+Dated:                       , 20
+ 
+This is one of the Securities of the Series designated herein and referred to in the within-mentioned Indenture.
+ 
+ 
+This Note is one of the duly authorized securities of the Company (herein called the "") issued and to be issued in one or more series under an Indenture dated as of September 8, 2011 (the ""), as amended by a First Supplemental Indenture dated as of September 13, 2011 (the "," together with the Base Indenture, the ""), between the Company and Wells Fargo Bank, National Association (herein called the "," which term includes any successor trustee under the Indenture with respect to the series of Notes represented hereby), to which the Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitations of rights, duties and immunities thereunder of the Company, the Trustee and the Holders of the Notes and of the terms upon which the Notes are, and are to be, authenticated and delivered. This Note is a Global Note representing the Company's 3.375% Senior Notes due 2021 in the aggregate principal amount of $500,000,000.
+Notes
+Base Indenture
+First Supplemental Indenture
+Indenture
+Trustee
+ 
+The amount of interest payable on any interest payment date shall be computed on the basis of a 360-day year consisting of twelve 30-day months. In the event that any date on which interest is payable on this Note is not a Business Day, then payment of interest payable on such date will be made on the next succeeding day that is a Business Day (and without any interest or other payment in respect of any such delay) with the same force and effect as if made on such interest payment date.
+ 
+The Company may, at its option, redeem the Notes at any time and from time to time, in whole or in part, on not less than 30 nor more than 60 days' prior notice mailed to each Holder of Notes to be redeemed at his address as it appears in the register, on any date prior to their stated maturity at a redemption price, plus accrued and unpaid interest to the date of redemption, equal to the greater of (i) 100% of the principal amount of such Notes to be redeemed and (ii) the sum of the present values of the remaining scheduled payments of principal and interest on the Notes to be redeemed (not including interest accrued to the date of redemption), discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 25 basis points, plus, in each case, accrued and unpaid interest on the Notes to be redeemed to the date of redemption.
+ 
+"" means the United States Treasury security selected by an Independent Investment Banker that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of the Notes. "Independent Investment Banker" means one of the Reference Treasury Dealers appointed by the Company.
+Comparable Treasury Issue
+ 
+"" means, with respect to any redemption date, (1) the average of the Reference Treasury Dealer Quotations for such redemption date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if the Trustee obtains fewer than six such Reference Treasury Dealer Quotations, the average of all Reference Treasury Dealer Quotations obtained.
+Comparable Treasury Price
+ 
+"" means one of the Reference Treasury Dealers appointed by the Company.
+Independent Investment Banker
+ 
+"" means each of Merrill Lynch, Pierce, Fenner & Smith Incorporated and BNP Paribas Securities Corp., their respective successors and two other nationally recognized investment banking firms that are Primary Treasury Dealers specified from time to time by the Company, except that if any of the foregoing ceases to be a primary U.S. government securities dealer in the United States (a ""), the Company shall designate as a substitute another nationally recognized investment banking firm that is a Primary Treasury Dealer.
+Reference Treasury Dealer
+Primary Treasury Dealer
+ 
+"" means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Trustee, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Trustee by such Reference Treasury Dealer as of 3:30 p.m., New York City time, on the third business day preceding such redemption date.
+Reference Treasury Dealer Quotations
+ 
+"" means, with respect to any redemption date, the rate per annum equal to the semi-annual equivalent yield to maturity (computed as of the third business day immediately preceding such redemption date) of the Comparable Treasury Issue, assuming a price for the Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the Comparable Treasury Price for such redemption date.
+Treasury Rate
+ 
+On and after any redemption date, interest will cease to accrue on the Notes called for redemption. Prior to any redemption date, the Company shall deposit with the Paying Agent money sufficient to pay the redemption price of and accrued interest on the Notes to be redeemed on such date. If the Company is redeeming less than all of the Notes, the Trustee shall select the Notes to be redeemed by such method as the Trustee deems fair and appropriate in accordance with methods generally used at the time of selection by fiduciaries in similar circumstances.
+ 
+In the event of redemption of this Note in part only, a new Note or Notes of this series and of like tenor for the unredeemed portion hereof will be issued in the name of the Holder hereof upon the cancellation hereof.
+ 
+Upon the occurrence of a Change of Control Triggering Event, unless the Company has exercised its right to redeem the Notes as described above by giving irrevocable notice to the Trustee in accordance with the Indenture, each Holder of Notes shall have the right to require the Company to purchase all or a portion of such Holder's Notes pursuant to the offer described below (the ""), at a purchase price equal to 101% of the principal amount thereof plus accrued and unpaid interest, if any, to the date of purchase (the ""), subject to the rights of Holders of Notes on the relevant record date to receive interest due on the relevant interest payment date.
+Change of Control Offer
+Change of Control Payment
+ 
+Unless the Company has exercised its right to redeem the Notes, within 30 days following the date upon which the Change of Control Triggering Event occurred with respect to the Notes or, at the Company's option, prior to any Change of Control but after the public
+ 
+announcement of the pending Change of Control, the Company shall be required to send, by first class mail, a notice to each Holder of Notes, with a copy to the Trustee, which notice shall govern the terms of the Change of Control Offer. Such notice shall state, among other things, the purchase date, which must be no earlier than 30 days nor later than 60 days from the date such notice is mailed, other than as may be required by law (the ""). The notice, if mailed prior to the date of consummation of the Change of Control, shall state that the Change of Control Offer is conditioned on the Change of Control being consummated on or prior to the Change of Control Payment Date.
+Change of Control Payment Date
+ 
+On the Change of Control Payment Date, the Company shall, to the extent lawful: (i) accept or cause a third party to accept for payment all Notes or portions of Notes properly tendered pursuant to the Change of Control Offer; (ii) deposit or cause a third party to deposit with the Paying Agent an amount equal to the Change of Control Payment in respect of all Notes or portions of Notes properly tendered; and (iii) deliver or cause to be delivered to the Trustee the Notes properly accepted together with an Officers' Certificate stating the aggregate principal amount of Notes or portions of Notes being repurchased and that all conditions precedent to the Change of Control Offer and to the repurchase by the Company of Notes pursuant to the Change of Control Offer have been complied with.
+ 
+The Company shall not be required to make a Change of Control Offer if a third party makes such an offer in the manner, at the times and otherwise in compliance with the requirements for such an offer made by the Company and such third party purchases all Notes properly tendered and not withdrawn under its offer.
+ 
+The Company will comply in all material respects with the requirements of Rule 14e-1 under the Securities Exchange Act of 1934, as amended (the ""), and any other securities laws and regulations thereunder to the extent those laws and regulations are applicable in connection with the purchase of the Notes as a result of a Change of Control Triggering Event. To the extent that the provisions of any such securities laws or regulations conflict with the Change of Control Offer provisions of the Notes, the Company will comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under the Change of Control Offer provisions of the Notes by virtue of such conflict.
+Exchange Act
+ 
+"Change of Control"
+means the occurrence of any of the following after the date of issuance of the Notes:
+ 
+(a)     the direct or indirect sale, lease, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of related transactions, of all or substantially all of the assets of the Company and the Company's Subsidiaries taken as a whole to any "person" or "group" (as those terms are used in Section 13(d)(3) of the Exchange Act) other than to the Company or one of the Company's Subsidiaries;
+ 
+(b)     the consummation of any transaction (including, without limitation, any merger or consolidation) the result of which is that any "person" or "group" (as those terms are used in Section 13(d)(3) of the Exchange Act), it being agreed that an employee of the Company or any
+ 
+of the Company's Subsidiaries for whom shares are held under an employee stock ownership, employee retirement, employee savings or similar plan and whose shares are voted in accordance with the instructions of such employee shall not be a member of a "group" (as that term is used in Section 13(d)(3) of the Exchange Act) solely because such employee's shares are held by a trustee under said plan) becomes the "beneficial owner" (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, of the Company's Voting Stock representing more than 50% of the voting power of the Company's outstanding Voting Stock;
+ 
+(c)     the Company consolidates with, or merges with or into, any Person, or any Person consolidates with, or merge with or into, the Company, in any such event pursuant to a transaction in which any of the Company's outstanding Voting Stock or Voting Stock of such other Person is converted into or exchanged for cash, securities or other property, other than any such transaction where the Company's Voting Stock outstanding immediately prior to such transaction constitutes, or is converted into or exchanged for, Voting Stock representing at least a majority of the voting power of the Voting Stock of the surviving Person immediately after giving effect to such transaction;
+ 
+(d)     the first day on which the majority of the members of the Board of Directors are not Continuing Directors; or
+ 
+(e)     the adoption of a plan relating to the liquidation or dissolution of the Company.
+ 
+Notwithstanding the foregoing, a transaction will not be deemed to involve a Change of Control solely because the Company becomes a direct or indirect wholly-owned subsidiary of a holding company if the direct or indirect Holders of the Voting Stock of such holding company immediately following that transaction are substantially the same as the Holders of the Company's Voting Stock immediately prior to that transaction.
+ 
+"" means with respect to the Notes, (i) the rating of such Notes is lowered by two out of three of the Rating Agencies on any date during the period (the "") commencing on the earlier of (a) the occurrence of a Change of Control and (b) the first public announcement by the Company of any Change of Control (or pending Change of Control), and ending 60 days following consummation of such Change of Control (which Trigger Period will be extended following consummation of a Change of Control for so long as any of the Rating Agencies has publicly announced that it is considering a possible ratings change), and (ii) such Notes are rated below Investment Grade by each of the Rating Agencies on any day during the Trigger Period; that a Change of Control Triggering Event will not be deemed to have occurred in respect of a particular Change of Control if each Rating Agency making the reduction in rating does not publicly announce or confirm or inform the trustee at the Company's request that the reduction was the result, in whole or in part, of any event or circumstance comprised of or arising as a result of, or in respect of, the Change of Control.
+Change of Control Triggering Event
+Trigger Period
+provided
+ 
+Notwithstanding the foregoing, no Change of Control Triggering Event will be deemed to have occurred in connection with any particular Change of Control unless and until such Change of Control has actually been consummated.
+ 
+"" means, as of any date of determination, any member of the Company's Board of Directors who: (1) was a member of such Board of Directors on the date of issuance of the Notes or (2) was nominated for election, elected or appointed to such Board of Directors with the approval of a majority of the Continuing Directors who were members of such Board of Directors at the time of such nomination, election or appointment (either by a specific vote or by approval of a proxy statement in which such member was named as a nominee for election as a director).
+Continuing Director
+ 
+"" means Fitch Ratings, Inc. and its successors.
+Fitch
+ 
+"" means a rating of Baa3 or better by Moody's (or its equivalent under any successor rating category of Moody's), a rating of BBB- or better by S&P (or its equivalent under any successor rating category of S&P), and a rating of BBB- or better by Fitch (or its equivalent under any successor rating category of Fitch), and the equivalent investment grade credit rating from any replacement rating agency or rating agencies selected by the Company under the circumstances permitting the Company to select a replacement agency and in the manner for selecting a replacement agency, in each case as set forth in the definition of "Rating Agency."
+Investment Grade
+ 
+"" means Moody's Investors Service, Inc., a subsidiary of Moody's Corporation, and its successors.
+Moody's
+ 
+"" means any individual, corporation, partnership, limited liability company, business trust, association, joint-stock company, joint venture, trust, incorporated or unincorporated organization or government or any agency or political subdivision thereof.
+Person
+ 
+"" means each of Moody's, S&P and Fitch; , that if any of Moody's, S&P or Fitch ceases to provide rating services to issuers or investors, the Company may appoint another "nationally recognized statistical rating organization" within the meaning of Section 3(a)(62) of under the Exchange Act as a replacement for such Rating Agency.
+Rating Agency
+provided
+ 
+"" means Standard & Poor's Ratings Services, a division of The McGraw-Hill Companies, Inc., and its successors.
+S&P
+ 
+"" of any specified Person as of any date means the capital stock of such Person that is at the time entitled to vote generally in the election of the Board of Directors of such Person.
+Voting Stock
+ 
+The indebtedness evidenced by this Note is, to the extent provided in the Indenture, senior and unsecured and will rank equal in right of payment to all other existing and future senior unsecured obligations of the Company.
+ 
+The Notes are initially issued in an aggregate principal amount of $500,000,000.  The Company may, from time to time, without notice or the consent of the Holders hereof, create and issue additional securities ranking equally and ratably with the Notes of this series in all respects (other than the issue price, the date of the issuance, the payment of interest accruing prior to the issue date of such additional Notes and the first payment of interest following the issue date of such additional Notes), if the additional Notes are not fungible with the Notes initially issued for U.S. federal income tax purposes, such additional Notes will have a separate CUSIP number. Any such additional Notes shall be consolidated and form a single series with the Notes initially issued, including for purposes of voting and redemptions.
+provided that
+ 
+The Notes are not entitled to the benefit of any sinking fund.
+ 
+The Indenture imposes certain limitations on the ability of the Company to, among other things, merge or consolidate with any other Person, and requires that the Company comply with certain further covenants, such as Restriction on Liens and Restriction on Sale and Leaseback Transactions, as further described in the Indenture, all of which are applicable to this Note.  All such covenants and limitations are subject to a number of important qualifications and exceptions. The Company must report periodically to the Trustee on compliance with the covenants in the Indenture.
+ 
+The Indenture contains provisions for the defeasance at any time of (a) the entire indebtedness of the Company on this Note and (b) certain restrictive covenants and the related Defaults and Events of Default, upon compliance by the Company with certain conditions set forth therein, which provisions apply to this Note.
+ 
+If an Event of Default with respect to Notes of this series shall occur and be continuing, the principal of the Notes of this series may (subject to the conditions set forth in the Indenture) be declared due and payable in the manner and with the effect provided in the Indenture.
+ 
+The Indenture contains provisions permitting, with certain exceptions therein provided, the Company and the Trustee, without the consent of the Holders of a majority in aggregate principal amount of the outstanding Notes, to modify and amend the Indenture for the purpose of, among other things, curing any ambiguity, defect or inconsistency.
+ 
+The Indenture also contains provisions permitting the Holders of a majority in aggregate principal amount of the outstanding Notes, on behalf of all of the Holders of all Notes, to waive a Default or Event of Default with respect to the Notes and its consequences, except a Default or Event of Default in the payment of the principal of or premium, if any, or interest on any of the Notes or in respect of a covenant or other provision which, under the terms of the Indenture, cannot be modified or amended without the consent of the Holder of each outstanding Note. Any such consent or waiver by the registered Holder of this Note shall be conclusive and binding upon such Holder and upon all future Holders of this Note and of any Note issued in exchange for or in place hereof (whether by registration of transfer or otherwise), irrespective of whether or not any notation of such consent or waiver is made upon this Note.
+ 
+No reference herein to the Indenture and no provision of this Note or of the Indenture shall alter or impair the obligation of the Company, which is absolute and unconditional, to pay the principal of and any premium and interest on this Note at the times, place and rate, and in the currency, herein prescribed.
+ 
+As provided in the Indenture and subject to certain limitations therein set forth, the transfer of this Note is registrable in the Registrar's books, upon surrender of this Note for registration of transfer at the office or agency of the Company in any place where the principal of and any premium and interest on this Note are payable, duly endorsed by, or accompanied by a written instrument of transfer in form satisfactory to the Company and the Registrar duly executed by, the Holder hereof or the Holder's attorney duly authorized in writing, and thereupon one or more new of this series and of like tenor, of authorized denominations and for the same aggregate principal amount, will be issued to the designated transferee or transferees.
+ 
+The Notes of this series are issuable only in registered form in denominations of $2,000 and any integral multiple of $1,000 thereof. As provided in the Indenture and subject to certain limitations therein set forth, Notes of this Series are exchangeable for a like aggregate principal amount of Notes of this series and of like tenor of a different authorized denomination, as requested by the Holder surrendering the same.
+ 
+No service charge shall be made to a Holder for any such registration of transfer or exchange, but the Company may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+ 
+Prior to due presentment of this Note for registration of transfer, the Company, the Trustee and any agent of the Company or the Trustee may treat the Person in whose name this Note is registered as the owner hereof for all purposes, whether or not this Note be overdue, and neither the Company, the Trustee nor any such agent shall be affected by notice to the contrary.
+ 
+This Note shall be governed by and construed in accordance with the internal laws of the State of New York, without giving effect to its principles of conflicts of law.
+ 
+All terms used in this Note not otherwise defined herein which are defined in the Indenture shall have the respective meanings assigned to them in the Indenture.
+
+

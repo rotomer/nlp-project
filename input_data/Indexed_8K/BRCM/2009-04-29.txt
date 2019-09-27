@@ -1,0 +1,982 @@
+FILE:BRCM/BRCM-8K-20090429164123.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+On April 26, 2009 Broadcom Corporation ("Broadcom") entered into a Settlement and Patent License and Non-Assert Agreement with Qualcomm Incorporated ("Qualcomm"), that results in the dismissal with prejudice of all litigation between the companies, including all patent infringement claims in the International Trade Commission and U.S. District Court in Santa Ana as well as the withdrawal by Broadcom of its complaints to the European Commission and the Korea Fair Trade Commission. Under the agreement, Broadcom and Qualcomm have granted to each other certain rights under their respective patent portfolios for integrated circuit products and certain other products and services. In addition, Qualcomm will make payments to Broadcom over a period of four years in the aggregate amount of $891 million.
+The terms of the agreement include, among other elements:
+The foregoing summary of the agreement is qualified in its entirety by reference to Exhibit 10.1 of this Current Report on Form 8-K, the content of which is hereby incorporated by reference herein.
+Broadcom issued a press release April 26, 2009 announcing the agreement. The full text of the press release is included as Exhibit 99.1 to this report and is incorporated herein by reference.
+Item 9.01 Financial Statements and Exhibits.
+          (d) Exhibits.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 10.1
+CONFIDENTIAL EXECUTION COPY
+This Settlement and Patent License and Non-Assert Agreement (this "") is entered into effective as of April 26, 2009 (the "") by and between Qualcomm Incorporated, a Delaware corporation (""), and Broadcom Corporation, a California corporation ("").
+Agreement
+Effective Date
+Qualcomm
+Broadcom
+     A. The Parties have litigated and are litigating various disputes and wish to settle and dismiss with prejudice all such litigation, including Broadcom Corporation v. Qualcomm Incorporated (C.D. Cal., Case No. SACV05-0467-JVS-RNBx) (the ""); Broadcom Corporation v. Qualcomm Incorporated (C.D. Cal., Case No. SACV05-0468-JVS-RNBx); Qualcomm Incorporated v. Broadcom Corporation (S.D. Cal., Case No. 05cv1958-B-BLM) (the ""); Broadcom Corporation v. Qualcomm Incorporated (S.D. Cal., Case No. 08cv1607-WQH-LSP); Broadcom Corporation v. Qualcomm Incorporated (S.D. Cal., Case No. 08cv1829-WQH-LSP); In re Certain Baseband Processor Chips et seq. (Int'l Trade Comm'n, Investigation No. 337-TA-543); and Broadcom Corporation v. Qualcomm, Inc. et al. (Cal. Super. Ct., Case No. 07CC1249). In addition, as part of the Parties' global settlement, Broadcom is willing to withdraw all complaints it has made to antitrust and competition law authorities worldwide.
+467 Litigation
+1958 Litigation
+     B. The Parties desire to grant certain rights to one another with respect to certain of their respective patents and patent applications, and Broadcom is willing to assign certain patents and patent applications to Qualcomm, for the consideration and on the terms and conditions set forth in this Agreement.
+Therefore, the Parties, intending to be legally bound, hereby agree as follows:
+1.
+Headings and Definitions
+All headings used in this Agreement are inserted for convenience only and are not intended to affect the meaning or interpretation of this Agreement or any clause. Appendix 1 contains definitions of capitalized terms used in this Agreement.
+2.
+Term
+This Agreement is effective as of the Effective Date and will continue in full force and effect until every Patent has expired or been ruled, in a final and non-appealable judgment by a court of competent jurisdiction, to be completely (i.e., all claims of such Patent are) invalid.
+ 
+Notwithstanding the foregoing, certain sections of, or rights or obligations set forth in, this Agreement may be terminated as set forth in Section 13 (Termination).
+3.
+Payment
+     . Subject to Section 3.3, Qualcomm shall make, or cause to be made on behalf of Qualcomm by a Qualcomm Subsidiary, non-refundable payments to Broadcom totaling eight hundred ninety-one million, two hundred thousand U.S. dollars (US$891,200,000) as follows:
+3.1 Payments by Qualcomm to Broadcom
+Each payment will be made in U.S. dollars and by means of a wire transfer to the account designated by Broadcom in , provided that Broadcom may update such account information for a particular payment upon written notice delivered to Qualcomm at least ten (10) Business Days before the due date of such payment.
+Attachment H
+     . Notwithstanding anything to the contrary herein, Broadcom will have the right to retain all payments received by Broadcom from Qualcomm prior to February 20, 2009 (without any offset or credit by Qualcomm) relating to the U.S. Litigation (as defined in Section 4.1(a)), including all payments of royalties, damages, and costs. However, the payments described in Section 3.1 are in lieu of, and Broadcom hereby waives and releases any and all rights to receive, any payments that would have otherwise become payable by Qualcomm on or after February 20, 2009 (including any payment obligations that may have accrued before February 20, 2009 but are not payable until on or after February 20, 2009) relating to the U.S. Litigation. For avoidance of doubt, Broadcom hereby waives and releases any and all rights to receive any payments for the amounts in the bonds, escrows, and letters of credit Qualcomm has posted in the 467 Litigation.
+3.2 Payments Relating to U.S. Litigation
+     
+3.3 Deductions
+          . If permitted by [**] to do so, Broadcom shall promptly notify Qualcomm in writing if, in connection with the [**] pays any amounts to Broadcom (or any of Broadcom's Subsidiaries) after the Effective Date [**]. Such notice must specify the exact amounts that [**] paid to Broadcom and its Subsidiaries [**]. Broadcom represents and warrants that, as of the Effective Date, it has not received any payment from [**] that, had it been received after the Effective Date, would have been the [**]. [**].
+(a) Payments by [**]
+ 
+     . Amounts payable by one Party to the other Party under this Agreement are payable in full to such other Party without deduction of, or reduction for, any taxes, duties, or imposts. If a Party is legally required to make any such withholding or deduction from any payment due to the other Party under this Agreement, the sum payable by such Party upon which such withholding or deduction is based shall be increased to the extent necessary to ensure that, after such withholding or deduction, the other Party receives a net amount equal to the amount the other Party would have received in the absence of such required withholding or deduction. Notwithstanding the preceding sentence, neither Party will be required to make additional payments under this Section 3.4 with respect to any amounts payable under this Agreement to a receiving Party if such receiving Party is not a United States person for U.S. federal income tax purposes, so long as the paying Party (a) cooperates with the receiving Party and takes any reasonable steps requested by the receiving Party to minimize or eliminate any such withholding taxes (including by committing to a specific entity as the paying entity) and (b) provides tax receipts evidencing the payments of any such withholding taxes. Each receiving Party further agrees to provide an IRS Form W-9 or an IRS Form W-8BEN, as applicable, to the appropriate paying Party. Each Party will be solely responsible for reporting and paying all taxes of any nature imposed by any Governmental Authority in any jurisdiction on such Party (or any of its Subsidiaries) as a result of the payments or transactions contemplated by this Agreement.
+3.4 Taxes
+4.
+Dismissal of Litigation and Withdrawal of Complaints
+     
+4.1 U.S. Litigation
+          The Parties shall promptly seek the dismissal, with prejudice, of all suits, actions, appeals, and other legal proceedings that are pending between them in any federal, state, local, or other court, tribunal, or administrative agency in the United States (collectively, the ""). Without limiting the generality of the foregoing, promptly after the execution and delivery of this Agreement (and in no event later than ten (10) days after the Effective Date), the Parties shall execute and file with each of the relevant courts, tribunals, or agencies any forms or pleadings necessary to dismiss with prejudice all U.S. Litigation. Forms and pleadings acceptable to both Parties for such dismissal are attached hereto as ; if the relevant court, tribunal, or agency requests or requires the Parties to modify such forms and pleadings, the Parties shall make such modifications. Each Party shall take all actions reasonably required in connection with the dismissal with prejudice of all U.S. Litigation promptly following the execution and delivery of this Agreement. Each Party agrees that it will not (and it will ensure that each of its Subsidiaries does not) cite or refer to any orders, rulings, judgments, or opinions arising from the U.S. Litigation, or any factual descriptions of the other Party's conduct that such Party alleged to be wrongful in such Litigation (""), for any reason in any future Litigation in which the other Party (or any of its Subsidiaries) is a party, except solely (i) for citing or referring to legal principles or holdings directly relevant to the issues in such future Litigation and factual information directly relevant to the applicability of such legal principles or holdings in such future Litigation; or (ii) to the extent reasonably required to fully and properly respond to information requests from Governmental Authorities, valid subpoenas and as otherwise required by law. In no event shall a Party (or any of its Subsidiaries) cite or refer to Previously Alleged Conduct as evidence of intent, "pattern or practice", or "unclean hands".
+(a)
+U.S. Litigation
+Attachment D
+Previously Alleged Conduct
+ 
+          Promptly after the execution and delivery of this Agreement by both Parties (and in no event later than ten (10) days after the Effective Date), the Parties shall sign and submit a joint motion to vacate the injunction and contempt rulings issued in the 467 Litigation; however, Broadcom will have the right to retain all amounts paid to Broadcom in connection therewith prior to February 20, 2009. Each Party shall cooperate in taking any further steps that may be reasonably necessary to cause such motion to be granted. The Parties shall also agree to a joint stipulation and stipulated order (in the form attached hereto as ) reciting that this Agreement fully settles all claims arising from the patents-in-suit in the 467 Litigation as well as all disputes arising from the injunction, vacating all damage awards and sanctions and attorneys' fees unpaid as of February 20, 2009, and canceling all bonds, escrow agreements, and letters of credit; however, Broadcom will have the right to retain all amounts paid to Broadcom in connection therewith prior to February 20, 2009.
+(b)
+Attachment E
+          Notwithstanding the releases in Section 5 or anything else to the contrary herein, all protective orders issued in connection with the past and pending (as of the Effective Date) Litigation will remain in full force and effect. Promptly after the Effective Date, the Parties shall, and shall direct that all consultants, experts, counsel, and other persons acting on their behalf at any time during the pendency of such Litigation, return or destroy, no later than sixty (60) days after the Effective Date, all items containing information of the other Party provided during such Litigation and designated as confidential or protected under any protective order in such Litigation (""). In addition, each Party shall immediately cease using all devices, including prototypes, handsets, SURFs, and FFAs, provided by a Party to the other Party under any protective order in such Litigation and all such devices shall be returned to the producing Party within thirty (30) days after the Effective Date. For avoidance of doubt, the obligation to destroy all Protected Information extends to all items containing Protected Information, including all work product, pleadings, motion papers, legal memoranda, correspondence, emails, reports, declarations, transcripts, exhibits, and all copies thereof, with the exception of copies stored on back-up tapes or other disaster recovery media, in each case only to the extent of the Protected Information contained therein (and for the avoidance of doubt, redaction of the Protected Information from such items shall be deemed to satisfy such destruction requirement). With respect to Protected Information remaining in back-up tapes and other disaster storage media, neither Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such Protected Information available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior written notice to the other Party or such shorter period as required by court order, subpoena, or applicable law. Within sixty (60) days after the Effective Date, each Party shall provide a statement in writing, and direct its consultants, experts, counsel and other persons acting on their behalf to provide a statement in writing (provided that a single statement will suffice for each law firm or other organization with which such persons are associated), stating that they have complied with this Section 4.1(c). It is agreed that neither Party shall be liable for the failure by its consultants, experts, counsel or other party acting on its behalf to comply with such Party's direction to return or destroy the other Party's Protected Information. [**]. In the event of any conflict between the protective orders in the past and pending (as of the Effective Date) Litigation and the terms of this Section 4.1(c), as between the Parties (but without changing any requirements applicable to any Third Parties), the terms of this Section 4.1(c) will apply. If necessary to resolve any conflict between this Section 4.1(c) and
+(c)
+Protected Information
+ 
+protective orders in cases not referenced in , the Parties agree to petition the relevant courts or agencies to amend such orders accordingly.
+Attachment D
+          Promptly after the execution and delivery of this Agreement by both Parties (and in no event later than ten (10) days after the Effective Date), Broadcom shall submit a request for leave to withdraw from all further involvement in the 1958 Litigation in the following form: "In light of a global settlement of litigation reached between the parties, and in the interests of facilitating the development of healthy business relations between the parties on an ongoing basis, Broadcom respectfully requests leave to withdraw from further participation in these proceedings".
+(d)
+     
+4.2 Competition Law Complaints and Proceedings
+          Promptly after the execution and delivery of this Agreement (and in no event later than ten (10) days after the Effective Date), each Party shall send a letter to each antitrust, competition law, or similar Governmental Authority anywhere in the world with whom such Party has filed an antitrust or competition law complaint against the other Party, including the complaints Broadcom has filed with the European Commission and the Korea Fair Trade Commission (""), informing the Governmental Authority that the Parties have resolved their disputes with respect to the complaint, requesting that such Party's complaint be withdrawn as permitted under applicable law, and informing the Governmental Authority that as a result such Party is no longer a party to any such continuing proceeding or investigation. Each Party shall promptly provide the other Party with a complete and accurate copy of each such letter. If Broadcom fails to send such a letter to the European Commission or the KFTC within ten (10) days after the Effective Date, Qualcomm may disclose the contents of this Section 4.2(a) to the European Commission or the KFTC, as the case may be. In the event that a Governmental Authority with whom a Party has filed an antitrust or competition law complaint requires additional procedures to withdraw such complaint, such Party will promptly follow such additional procedures as required by such Government Authority to withdraw the complaint.
+(a)
+KFTC
+          The Parties hereby stipulate that the terms of this Agreement, and the consideration exchanged under this Agreement, constitute a full settlement of claims asserted by each Party including claims that each Party has made, or could have made, with respect to any of the other Party's practices (including the terms and conditions of the other Party's sales or license agreements) that such Party has previously alleged or could have alleged were unfair, anticompetitive, or in violation of any laws or regulations, including antitrust or competition laws or regulations, or in violation of any obligations arising from participation in, or violation of any rules relevant to, any standards-setting organizations, including ARIB, ETSI, IEEE, JVT, and TIA.
+(b)
+          Each Party shall not make (and shall ensure that none of its Subsidiaries makes, and shall not authorize or direct any of its or its Subsidiaries' attorneys, agents, or representatives to make on its or its Subsidiaries' behalf) any formal or informal statement or representation to the European Commission, the KFTC, or any court or other Governmental Authority responsible for antitrust or competition law matters, that is inconsistent with the stipulation set forth in Section 4.2(b) above. Each Party agrees that it shall not (and shall ensure that each of its Subsidiaries does not) assert any claim or complaint against the
+(c)
+ 
+other Party or any of its Subsidiaries, or Support any Third Party in asserting any claim or complaint against the other Party or any of its Subsidiaries, in Litigation to the extent based in whole or in part on (i) allegations that are inconsistent with the stipulations set forth in Section 4.2(b) above, or (ii) any alleged violations by the other Party or any of its Subsidiaries of any antitrust, competition law, or similar laws or regulations, or of any patent licensing obligations arising from participation in, or rules of, standards-setting organizations including ARIB, ETSI, IEEE, JVT, and TIA, to the extent that such alleged violations arise from any conduct or practices for (a) the licensing of its patents engaged in before the Effective Date, including the terms and conditions of Qualcomm's existing patent license agreements for products, components, or equipment that implement WWAN Interfaces and/or the MediaFLO Broadcast Standards (the "") or (b) the sale of its products or services or licensing of software products that the other Party or any of its Subsidiaries engaged in before the Effective Date as reflected in the other Party's agreements entered into prior to the Effective Date relating to the sales or licensing of its products or services (the "") (the Existing Licensing Practices and the Existing Sales Practices are collectively referred to as the ""). Furthermore, to the extent that a Party or its Subsidiaries engage, at any time after the Effective Date, in the same or substantially the same patent licensing conduct or patent licensing practices as the Existing Licensing Practices such Party or its Subsidiaries generally engaged in as of the Effective Date, such future patent licensing conduct or patent licensing practices will also be considered Conduct/Practices (including, with respect to Qualcomm, entering into new agreements or amendments to existing agreements (e.g., to license additional patents, standards, or products) that contain the same or substantially similar terms and conditions as Qualcomm's existing forms of WWAN and MediaFLO patent license agreements), and the other Party agrees that it shall not (and shall ensure that each of its Subsidiaries does not) assert any claim or complaint alleging violations of antitrust, competition law, or similar laws or regulations, or of any patent licensing obligations of standards-setting organizations, against the other Party or any of its Subsidiaries, or Support any Third Party in asserting any such claim or complaint against the other Party or any of its Subsidiaries, in Litigation to the extent based in whole or in part on such future patent licensing conduct or patent licensing practices. However, the foregoing shall not be construed as restricting either Party from pursuing claims against the other Party for future violations by the other Party of laws, regulations, obligations, or rules of standards-setting organizations including ARIB, ETSI, IEEE, JVT, and TIA that do not arise from such Conduct/Practices (for example, without limitation, a claim could be made based on the failure of a Party after the Effective Date to make required disclosures to standards-setting organizations of Essential Patent Claims in connection with proposals for new or revised standards) or for conduct or practices that are different from the Conduct/Practices. In addition, to the extent that a Party or its Subsidiaries, during a period of four (4) years after the Effective Date, engages in the same or substantially the same conduct or practices as the Existing Sales Practices, then the other Party agrees that it shall not (and shall ensure that each of its Subsidiaries does not) assert any claim or complaint alleging that such conduct or practices conducted during such four (4) year period is a violation of antitrust, competition law, or similar laws or regulations against the other Party or any of its Subsidiaries, or Support any Third Party in asserting any such claim or complaint against the other Party or any of its Subsidiaries, in Litigation. Nothing in this Section 4.2(c) shall preclude or restrict either Party from (1) fully and properly responding to information requests from Governmental Authorities, valid subpoenas and as otherwise required by law; or (2) complying with existing obligations under agreements with Third Parties to pay or contribute to costs for joint activities
+Existing Licensing Practices
+Existing Sales Practices
+Conduct/Practices
+ 
+undertaken prior to the Effective Date expected to be paid within ninety (90) days after the Effective Date (subject to resolving any disputes with regard to amounts that may be charged).
+          Notwithstanding the foregoing or the release granted by each Party in Section 5, if a Governmental Authority orders or otherwise requires a Party (and such order becomes final and binding following all available avenues of review or appeal or otherwise goes into effect), or the Government Authority and such Party enter into a settlement, consent decree, or similar agreement (in this paragraph, such order, requirement, settlement, consent decree, or agreement will be referred to as an "order"), to change its sales or licensing terms, conditions, prices, or practices in a manner that applies to all suppliers of Components (or other class or type of Persons that includes the other Party) based on findings that such Party ("") has violated (i) antitrust, competition, or similar laws or regulations or (ii) obligations arising from participation in, or rules relevant to, any standards-setting organization, then the other Party will not be precluded from entitlement to any benefits of such order by virtue of this Agreement (other than any monetary payments from such Party to such other Party, which such other Party would not be entitled to seek). However, this paragraph shall not be construed as conferring on such other Party any private right of action against the Subject Party based on any such findings, and to the extent that such other Party may have otherwise had any such private right of action, such other Party agrees that such private right of action is released under Section 5. However, the preceding sentence does not preclude such other Party from pursuing any private right of action against the Subject Party (and Section 5 does not release the Subject Party from any claim or liability) with respect to any failure by the Subject Party to comply with any such order of a Governmental Authority to change its sales or licensing terms, conditions, prices, or practices, to the extent impacting the other Party.
+(d)
+Subject Party
+     . At any time after the Effective Date, neither Party shall participate in, and within thirty (30) days after the Effective Date each Party shall withdraw from, any interference, re-examination, opposition, or other proceeding, in each case that is currently pending, in which ownership, validity, scope, priority date, and/or enforceability of a patent or patent application of the other Party is being challenged; however, such withdrawal will not limit the Party's ability to challenge the validity of the patent later, if such patent is Asserted against such Party.
+4.3 Oppositions
+5.
+Mutual Releases
+     
+5.1 Releases by Qualcomm
+          . Effective upon Broadcom's receipt of the First Payment, Qualcomm, on behalf of itself, its Subsidiaries, and each of their past, present, and future employees, officers, directors, shareholders, agents, administrators, insurers, and attorneys (all of the foregoing being referred to in this paragraph as ""), to the fullest extent permitted by law, hereby releases, acquits, and forever discharges Broadcom and its current Subsidiaries (i.e., its Subsidiaries as of the Effective Date), and each of their past, present, and future employees, officers, directors, agents, administrators, insurers, and attorneys in their capacity as such (all of the foregoing referred to in this paragraph as "") from, and covenants not to sue upon, all claims, suits, demands, causes of action, judgments, losses, and liabilities of any nature (including patent infringement claims), known or unknown, that any of the Qualcomm Releasors has or may have against any of the Broadcom
+(a) Releases to Broadcom
+Qualcomm Releasors
+Broadcom Releasees
+ 
+Releasees as of the Effective Date. This includes a release for claims based on acts or events of trade secret misappropriation unknown to Qualcomm as of the Effective Date, but not trade secret misappropriation claims based on use or disclosure after the Effective Date of trade secret information or materials (if any) obtained before the Effective Date. For avoidance of doubt, nothing in this Section 5.1 is intended to or shall release the Broadcom Releasees from any obligations under this Agreement, and nothing in this Section 5.1(a) is intended to or shall release any claims or causes of action (including claims of patent infringement) that any of the Qualcomm Releasors may have against Third Parties (other than past, present, and future employees, officers, directors, agents, administrators, insurers, and attorneys of Broadcom and its Subsidiaries in their capacity as such), including Broadcom Customers.
+          . Effective upon Broadcom's receipt of the First Payment, Qualcomm, on behalf of itself and each of the Qualcomm Releasors, to the fullest extent permitted by law, hereby releases, acquits, and forever discharges Broadcom's and its current Subsidiaries' (i.e., its Subsidiaries as of the Effective Date) Contractors (solely for manufacturing, packaging, assembly, and testing of Broadcom Components), Distributors, and direct and indirect customers of Broadcom Components from and against any and all claims, known and unknown, for infringement of Qualcomm Patents (whether direct or indirect) by the manufacture, use, sale, offer for sale, or import of such Broadcom Components prior to the Effective Date, but solely to the extent that such infringing or allegedly infringing activity would have been covered by the covenants in Section 7.1(a) or, with respect to Contractors and Distributors, would have been subject to the covenant in Section 6.1(a), in each case if such activity had occurred on or after the Effective Date. Except as expressly released in this Section 5.1(b), Qualcomm reserves, on behalf of itself and the other Qualcomm Releasors, the right to Assert claims of patent infringement against Broadcom Customers based on products (including Broadcom Components) or services made, used, imported, offered for sale, sold, or provided on or before the Effective Date.
+(b) Releases to Broadcom Contractors, Distributors, and Customers
+     
+5.2 Releases by Broadcom
+          . Effective upon Broadcom's receipt of the First Payment, Broadcom, on behalf of itself, its Subsidiaries, and each of their past, present, and future employees, officers, directors, shareholders, agents, administrators, insurers, and attorneys (all of the foregoing being referred to in this paragraph as ""), to the fullest extent permitted by law, hereby releases, acquits, and forever discharges Qualcomm and its current Subsidiaries (i.e., its Subsidiaries as of the Effective Date), and each of their past, present, and future employees, officers, directors, agents, administrators, insurers, and attorneys in their capacity as such (all of the foregoing referred to in this paragraph as "") from, and covenants not to sue upon, all claims, suits, demands, causes of action, judgments, losses, and liabilities of any nature (including patent infringement claims), known or unknown, that any of the Broadcom Releasors has or may have against any of the Qualcomm Releasees as of the Effective Date. This includes a release for claims based on acts or events of trade secret misappropriation unknown to Broadcom as of the Effective Date, but not trade secret misappropriation claims based on use or disclosure after the Effective Date of trade secret information or materials (if any) obtained before the Effective Date. For avoidance of doubt, nothing in this Section 5.2 is intended to or shall release the Qualcomm Releasees from any
+(a) Releases to Qualcomm
+Broadcom Releasors
+Qualcomm Releasees
+ 
+obligations under this Agreement, and nothing in this Section 5.2(a) is intended to or shall release any claims or causes of action (including claims of patent infringement) that any of the Broadcom Releasors may have against Third Parties (other than past, present, and future employees, officers, directors, agents, administrators, insurers, and attorneys of Qualcomm and its Subsidiaries in their capacity as such), including Qualcomm Customers.
+          . Effective upon Broadcom's receipt of the First Payment, Broadcom, on behalf of itself and each of the Broadcom Releasors, to the fullest extent permitted by law, hereby releases, acquits, and forever discharges Qualcomm's and its current Subsidiaries' (i.e., its Subsidiaries as of the Effective Date) Contractors (solely for manufacturing, packaging, assembly, and testing of Qualcomm Components), Distributors, and direct and indirect customers of Qualcomm Components from and against any and all claims, known and unknown, for infringement of Broadcom Patents (whether direct or indirect) by the manufacture, use, sale, offer for sale, or import of such Qualcomm Components prior to the Effective Date, but solely to the extent that such infringing or allegedly infringing activity would have been covered by the covenants in Section 7.2(a), the license in Section 7.3(a) (but solely with respect to claims for infringement of the Broadcom Patents-in-Suit), or the license in Section 7.3(b) (but solely with respect to claims for infringement of the Listed Patent Claims), or with respect to Contractors and Distributors, would have been subject to the covenant in Section 6.2(a), in each case if such activity had occurred on or after the Effective Date. Except as expressly released in this Section 5.2(b), Broadcom reserves, on behalf of itself and the other Broadcom Releasors, the right to Assert claims of patent infringement against Qualcomm Customers based on products (including Qualcomm Components) or services made, used, imported, offered for sale, sold, or provided on or before the Effective Date.
+(b) Releases to Qualcomm Contractors, Distributors, and Customers
+     . For avoidance of doubt, the releases in Sections 5.1(a) and 5.2(a) cover any and all claims that each Party has or may have against the other Party as of the Effective Date of violation of antitrust, competition, or similar laws or regulations in any jurisdiction, or claims of violation of commitments or obligations (including commitments or obligations to license on RAND or FRAND terms) arising from or relating to participation in, or the rules of, standards-setting organizations, including ARIB, ETSI, IEEE, JVT, and TIA, based on any of either Party's (or its Subsidiaries') sales or licensing terms or conditions, prices, product designs, or sales, marketing, or other practices that existed prior to or as of the Effective Date.
+5.3 Antitrust Claims
+     . Each Party acknowledges that it has consulted with legal counsel regarding the import of Section 1542 of the California Civil Code, which provides as follows:
+5.4 California Civil Code Section 1542
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.
+With respect to the releases set forth in this Section 5, each Party, for itself and for its legal successors and assigns, hereby expressly, knowingly, and intentionally waives any benefit or rights it may have under Section 1542 of the California Civil Code, as well as under any other
+ 
+statute or common law principles of similar effect. Each Party acknowledges that it has received independent legal advice from its attorneys with respect to the waiver of the provisions of Section 1542 of the California Civil Code, and any other statute or common law principles of similar effect, and each Party acknowledges that its waiver is a material inducement and consideration for the other Party's execution of this Agreement. The Parties further agree that the releases set forth in this Agreement may not be terminated or rescinded because of any later discovery by either Party of different or additional facts or of any unknown or unsuspected past claims.
+6.
+Covenants Between Parties not to Assert Patent Infringement Claims
+     
+6.1 Covenants by Qualcomm
+          Subject to Sections 7.9(a) and 7.9(b), Qualcomm hereby covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert any claim of infringement (whether direct or indirect) of a Qualcomm Patent against:
+(a)
+          Subject to Sections 7.9(a) and 7.9(b), Qualcomm hereby covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert any claim of infringement (whether direct or indirect) of a Qualcomm Patent against Broadcom, or any of Broadcom's Subsidiaries, for [**] any Broadcom Covenant Product [**]. For purposes of this Section 6.1, "" means products (other than Broadcom Components) of Broadcom or its Subsidiaries (including software products and services offerings) that (x) are based on designs acquired by Broadcom or any of its Subsidiaries from a Third Party, where after such acquisition Broadcom and/or any of its Subsidiaries has the right to offer such product for sale (or other disposition) to Third Parties generally and not just to the Third Party that sold the designs for such product to Broadcom or its Subsidiary, or (y) are designed by or for Broadcom or any of its Subsidiaries based primarily on specifications provided by Broadcom or any of its Subsidiaries (provided that such products may include portions acquired or licensed from Third Parties or portions developed by Broadcom or any of its Subsidiaries specifically for a customer pursuant to specifications or requirements provided by such customer), including Location Based Services of Broadcom or its Subsidiaries to the extent meeting the foregoing requirements; provided, however, that the term "Broadcom Covenant Products" excludes (1) any Devices, including Wireless Handheld Devices, Fixed Wireless Terminals, and Equipment; (2) End User Cards; and (3) interferometric MEMS displays.
+(b)
+Broadcom Covenant Products
+ 
+          The foregoing covenants in Sections 6.1(a) and 6.1(b) are limited to (i) the jurisdictions where Broadcom and its Subsidiaries and their respective Contractors and Distributors perform acts (including acts constituting indirect patent infringement) or in which Qualcomm or a Subsidiary of Qualcomm otherwise could (but for such covenants), or actually does, Assert any claim of infringement of a Qualcomm Patent against Broadcom, a Subsidiary of Broadcom, or any of their respective Contractors or Distributors to the extent covered by such covenants, and (ii) the Qualcomm Patents granted in such jurisdictions or for which a claim could (but for such covenants) be brought in such jurisdictions. Qualcomm does covenant in this Section 6.1 that it will not Assert (and, therefore, subject to Section 7, Qualcomm and its Subsidiaries are free to Assert) claims of infringement of Qualcomm Patents against any Third Party (other than Broadcom's and its Subsidiaries' Contractors and Distributors as set forth above), including Broadcom Customers, for [**] Broadcom Components or Broadcom Covenant Products in any manner, including in combination with other products (such as, without limitation, incorporation of Broadcom Components or Broadcom Covenant Products into other products), and the covenants in this Section 6.1 do not and are not intended to give any consent, authorization, immunity from suit, or other right with respect to any such activity by such Third Parties.
+(c)
+not
+          Each of the covenants not to Assert granted by Qualcomm and its Subsidiaries in Section 6.1(a) and/or 6.1(b) to Broadcom, any of Broadcom's Subsidiaries, or any of their respective Contractors or Distributors for Selling Non-Exhaustive Products to Broadcom, a Subsidiary of Broadcom, or a Third Party is also subject to the condition that no Third Party asserts any Exhaustion Claim based on such covenant with respect to such Non-Exhaustive Products sold by or to such Third Party. If Qualcomm becomes aware that a Third Party has made an Exhaustion Claim, Qualcomm shall notify Broadcom; the notice must reference this Section 6.1(d) and identify the particular Non-Exhaustive Products (if known) to which the Exhaustion Claim applies. Upon such notification, the applicable covenants in Sections 6.1(a) and 6.1(b) will be terminated as of the date the Third Party first asserted the Exhaustion Claims with respect to sales or other dispositions of the Non-Exhaustive Products by or to the Third Party. If the Third Party withdraws all of the Exhaustion Claims it has asserted [**]. If all of the Exhaustion Claims are dismissed or are otherwise no longer pending and have not resulted in a Final Judgment, then [**].
+(d)
+     
+6.2 Covenant by Broadcom
+          Subject to Sections 7.9(a) and 7.9(b), Broadcom hereby covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert any claim of infringement (whether direct or indirect) of a Broadcom Patent against:
+(a)
+ 
+          Subject to Sections 7.9(a) and 7.9(b), Broadcom hereby covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert any claim of infringement (whether direct or indirect) of a Broadcom Patent against Qualcomm, or any of Qualcomm's Subsidiaries, for [**] any Qualcomm Covenant Product [**]. For purposes of this Section 6.2, "" means products (other than Qualcomm Components) of Qualcomm or any of its Subsidiaries (including software products and services offerings) that are (x) based on designs acquired by Qualcomm or any of its Subsidiaries from a Third Party, where after such acquisition Qualcomm and/or any of its Subsidiaries has the right to offer such product for sale (or other disposition) to Third Parties generally and not just to the Third Party that sold the designs for such product to Qualcomm or its Subsidiary, or (y) designed by or for Qualcomm or any of its Subsidiaries based primarily on specifications provided by Qualcomm or any of its Subsidiaries (provided that such products may include portions acquired or licensed from Third Parties or portions developed by Qualcomm or any of its Subsidiaries specifically for a customer pursuant to specifications or requirements provided by such customer) (including the following software and service offerings: BREW, BREW Mobile Platform, MediaFLO, Plaza, Xiam, Firethorn, Yagatta, and QChat, each to the extent meeting the foregoing requirements); provided, however, that the term "Qualcomm Covenant Products" excludes (with the exception below) (1) any Devices, including Wireless Handheld Devices, Fixed Wireless Terminals, and Equipment; and (2) End User Cards. Notwithstanding the preceding sentence, the term "Qualcomm Covenant Products" does include those units of Qualcomm products that are (i) Devices or End User Cards that are sold or otherwise provided to a Governmental Authority, (ii) Devices that are designed and sold or otherwise provided for use as part of a vehicle telematics, fleet management, or asset tracking system and/or applications operated by the Qualcomm QES division (but solely for purposes of this clause (ii), only up to a combined total of [**] units of such Devices and End User Cards [**]), or (iii) (a) End User MediaFLO Cards, but solely to the extent claims of infringement of Broadcom Patents would have been barred by the patent exhaustion doctrine (based on principles of patent exhaustion under U.S. law, except that exhaustion would be deemed to occur worldwide regardless of where the sale was made) if Broadcom had granted Qualcomm (or the relevant Qualcomm Subsidiary) a worldwide exhaustive license under the Broadcom Patents to sell the Eligible Qualcomm Component that implements any portion of any MediaFLO Broadcast Standard in such End User MediaFLO Cards, and (b) Devices that are capable of receiving wireless broadcast transmissions substantially in accordance with any MediaFLO Broadcast Standard and do not implement any WWAN Interface (but only up to [**] units of such Devices [**]).
+(b)
+Qualcomm Covenant Products
+          The foregoing covenants in Sections 6.2(a) and 6.2(b) are limited to (i) the jurisdictions where Qualcomm and its Subsidiaries and their respective Contractors and Distributors perform acts (including acts constituting indirect patent infringement) or in which Broadcom or a Subsidiary of Broadcom otherwise could (but for such covenants), or actually does, Assert any claim of infringement of a Broadcom Patent against Qualcomm, a Subsidiary of Qualcomm, or any of their respective Contractors or Distributors to the extent covered by such covenants, and (ii) the Broadcom Patents granted in such jurisdictions or for which a claim could (but for such covenants) be brought in such jurisdictions. Broadcom does covenant in this Section 6.2 that it will not Assert (and, therefore, subject to Section 7, Broadcom and its
+(c)
+not
+ 
+Subsidiaries are free to Assert) claims of infringement of Broadcom Patents against any Third Party (other than Qualcomm's and its Subsidiaries' Contractors and Distributors as set forth above), including Qualcomm Customers, for [**] Qualcomm Components or Qualcomm Covenant Products in any manner, including in combination with other products (such as, without limitation, incorporation of Qualcomm Components or Qualcomm Covenant Products into other products), and the covenants in this Section 6.2 do not and are not intended to give any consent, authorization, immunity from suit, or other right with respect to any such activity by such Third Parties.
+          Each of the covenants not to Assert granted by Broadcom and its Subsidiaries in Section 6.2(a) and/or 6.2(b) to Qualcomm, any of Qualcomm's Subsidiaries, or any of their respective Contractors or Distributors for Selling Non-Exhaustive Products to Qualcomm, a Subsidiary of Qualcomm, or a Third Party is also subject to the condition that no Third Party asserts any Exhaustion Claim based on such covenant with respect to such Non-Exhaustive Products sold by or to such Third Party. If Broadcom becomes aware that a Third Party has made an Exhaustion Claim, Broadcom shall notify Qualcomm; the notice must reference this Section 6.2(d) and identify the particular Non-Exhaustive Products (if known) to which the Exhaustion Claim applies. Upon such notification, the applicable covenants in Sections 6.2(a) and 6.2(b) will be terminated as of the date the Third Party first asserted the Exhaustion Claims with respect to sales or other dispositions of the Non-Exhaustive Products by or to the Third Party. If the Third Party withdraws all of the Exhaustion Claims it has asserted [**]. If all of the Exhaustion Claims are dismissed or are otherwise no longer pending and have not resulted in a Final Judgment, then [**].
+(d)
+     . Subject to Sections 7.9(a) and 7.9(b), in addition to, and without in any way limiting the non-Assert covenants or licenses set forth in this Agreement, each Party agrees that it will not Assert (and will ensure that none of its Subsidiaries Asserts) any claim of Patent infringement (whether direct or indirect) in Litigation against the other Party or any of the other Party's Subsidiaries for a period of four (4) years after the Effective Date (the ""); provided that this standstill covenant will not prevent either Party, in Patent infringement Litigation initiated after the expiration of the Four-Year Standstill Period, from seeking past damages based on alleged Patent infringement during the Four-Year Standstill Period (to the extent that such Party has the right to make such an Assertion after the expiration of the Four-Year Standstill Period notwithstanding the other provisions of this Agreement). However, the above standstill covenant will in each case be limited to: (x) the territory of the jurisdictions where acts covered by this standstill covenant are actually performed by a Party or a Subsidiary of a Party (including acts constituting indirect patent infringement) or where a Party or a Subsidiary of a Party attempts to Assert patent infringement claims against the other Party (or a Subsidiary of the other Party) based on an act covered by this standstill covenant; and (y) the Broadcom Patents or Qualcomm Patents (as the case may be) granted in such jurisdictions. In addition, this standstill covenant will not apply to, or preclude Assertions based on, (a) the making, using, importing, or Selling by Broadcom (or a Subsidiary of Broadcom) of (1) any Devices, including Wireless Handheld Devices, Fixed Wireless Terminals, and Equipment; (2) End User Cards; or (3) interferometric MEMS displays, or (b) the making, using, importing, or Selling by Qualcomm (or a Subsidiary of Qualcomm) of (1) any Devices, including Wireless Handheld Devices, Fixed Wireless Terminals, and Equipment; or (2) End User Cards, except that this standstill covenant will apply to, and will
+6.3 Four-Year Standstill Covenant
+Four-Year Standstill Period
+ 
+preclude Assertions against Qualcomm or any of its Subsidiaries based upon, the making, using, importing, or Selling by Qualcomm or any of its Subsidiaries of those units of Devices or End User Cards that (i) are sold or otherwise provided to a Governmental Authority, (ii) are designed and sold or otherwise provided for use as part of a vehicle telematics, fleet management, or asset tracking system and/or applications operated by the Qualcomm QES division (but solely for purposes of this clause (ii), only up to [**] units of such Devices or End User Cards [**]), or (iii) (a) are Devices that are capable of receiving wireless broadcast transmissions substantially in accordance with any MediaFLO Broadcast Standard and do not implement any WWAN Interface, and (b) are End User MediaFLO Cards. The Devices and End User Cards of Qualcomm and its Subsidiaries that are protected under this standstill covenant are referred to herein as "".
+Qualcomm Protected Devices
+7.
+Additional Covenants and Related Provisions
+     
+7.1 Broadcom Protected Products
+          . [**] Qualcomm hereby irrevocably covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert against any Third Party any claim of infringement (whether direct or indirect) of a Qualcomm Patent for [**] the Broadcom Protected Product [**].
+(a) Eligible Broadcom Components [**]
+          
+(b) Application of the Section 7.1(a) Covenant
+               (i) With respect to each Broadcom Protected Product that is a Broadcom Evolution Component, the covenant not to Assert in Section 7.1(a) applies only to Covered Broadcom Functionality in such Broadcom Evolution Component.
+               (ii) For clarification and not by way of limitation, the covenant not to Assert in Section 7.1(a) applies [**].
+               (iii) With respect to each Third Party, the covenant not to Assert in Section 7.1(a) will apply [**].
+               (iv) For purposes of determining the functionality covered under the covenant not to Assert in Section 7.1(a) above for a Broadcom Protected Product [**].
+          .
+(c) [**]
+          . Any Third Party granted a covenant pursuant to this Section 7.1 is an intended third-party beneficiary of this Section 7.1.
+(d) Third Party Beneficiaries
+     
+7.2 Qualcomm Protected Products
+          . [**], Broadcom hereby irrevocably covenants that it will not, and it will ensure that each of its Subsidiaries does not, Assert against any Third Party any claim of infringement (whether direct or indirect) of a Broadcom Patent for [**] the Qualcomm Protected Product [**].
+(a) Eligible Qualcomm Components [**]
+ 
+          
+(b) Application of the Section 7.2(a) Covenant
+               (i) With respect to each Qualcomm Protected Product that is a Qualcomm Evolution Component, the covenant not to Assert in Section 7.2(a) applies only to Covered Qualcomm Functionality in such Qualcomm Evolution Component.
+               (ii) For clarification and not by way of limitation, the covenant not to Assert in Section 7.2(a) applies [**].
+               (iii) With respect to each Third Party, the covenant not to Assert in Section 7.2(a) will apply with respect to [**].
+          
+(c) [**].
+          . Any Third Party granted a covenant pursuant to this Section 7.2 is an intended third-party beneficiary of this Section 7.2.
+(d) Third Party Beneficiaries
+     
+7.3 Broadcom Patents-in-Suit
+          Broadcom (on behalf of itself and its Subsidiaries) hereby grants to Qualcomm and each of its Subsidiaries (but only as long as it remains a Subsidiary of Qualcomm) a personal, non-exclusive, fully-paid and royalty-free, non-assignable and nontransferable (except as permitted under Section 14), irrevocable and non-terminable (except as expressly provided in this Agreement), worldwide, exhaustive license, without the right to sublicense, solely under the Broadcom Patents-in-Suit, [**] Qualcomm Components [**].
+(a)
+     Broadcom (on behalf of itself and its Subsidiaries) hereby grants to Qualcomm and each of its Subsidiaries (but only as long as it remains a Subsidiary of Qualcomm) a personal, non-exclusive, fully-paid and royalty-free, non-assignable and nontransferable (except as permitted under Section 14), irrevocable and non-terminable (except as expressly provided in this Agreement), worldwide, exhaustive license, without the right to sublicense, solely under the specific patent claims described in clauses (i), (ii), and (v) of the definition of Broadcom Patents-in-Suit (collectively, the ""), [**] Qualcomm Software Products [**].
+(b) 
+Listed Patent Claims
+     
+7.4 Covered Broadcom Components
+          As used in this Section 7.4:
+(a)
+          [**].
+(b)
+          [**].
+(c)
+For purposes of this Section 7.4, the [**] [Approximately 3 pages have been omitted pursuant to a request for confidentiality].
+          [**].
+(d)
+ 
+     
+7.5 Covered Qualcomm Components
+          As used in this Section 7.5: [**].
+(a)
+          [**].
+(b)
+          [**].
+(c)
+For purposes of this Section 7.5, [**] [Approximately 3 pages have been omitted pursuant to a request for confidentiality].
+          [**].
+(d)
+     
+7.6 Defensive Suspension by Broadcom
+          As used in this Section 7.6, [**]. As used in this Section 7.6, [**].
+(a)
+          If, after the Effective Date, a Qualcomm Customer or any of its Affiliates Asserts any claim of patent infringement in Litigation against Broadcom or any of its Subsidiaries before Broadcom or any of its Subsidiaries has Asserted any claim of patent infringement in Litigation against such Qualcomm Customer or any of its Affiliates (a ""), then Broadcom may provide written notice to Qualcomm of Broadcom's intent to amend Section 7.2 as provided below with respect to such Qualcomm Customer within ninety (90) days after the First Assertion Against Broadcom. [**].
+(b)
+First Assertion Against Broadcom
+               (i) [**]; or
+               (ii) [**].
+          
+(c) Reinstatement of Covenant and Licenses
+               If and when Broadcom (or a Subsidiary of Broadcom) and the Qualcomm Customer or any Affiliate of the Qualcomm Customer enter into a voluntary settlement of all claims of patent infringement Asserted by the Qualcomm Customer and any of its Affiliates against Broadcom and its Subsidiaries, then any amendments to Section 7.2 [**] made by Broadcom under Section 7.6(b) above will automatically terminate with respect to Qualcomm Components purchased by such Qualcomm Customer, and Qualcomm Software Products used by such Qualcomm Customer, after the date of such settlement and the covenant and licenses for such Qualcomm Components purchased by the Qualcomm Customer will be reinstated (subject to any amendments of such covenant and licenses entered into by the Parties, other than amendments made pursuant to this Section 7.6). After any such settlement, the determination of whether any future Assertion by the Qualcomm Customer or its Affiliate is a First Assertion Against Broadcom for purposes of this Section 7.6 will be determined without regard to the Assertions that were made by the Qualcomm Customer or any of its Affiliates, or by Broadcom or any of its Subsidiaries, prior to the date of the settlement and that have been settled on or before the date of the settlement.
+(i) 
+               If, after Section 7.6(b)(i) has been triggered, (i) there is any time at which no Assertion of patent infringement claims in Litigation remains pending between the Qualcomm Customer or any of its Affiliates and Broadcom or any of its Subsidiaries ("Date of
+(ii)
+ 
+Cessation"), and (ii) the Qualcomm Customer and its Affiliates do not make a subsequent First Assertion Against Broadcom (ignoring any Assertions by any of such Entities prior to the Date of Cessation) on or before the first anniversary of the Date of Cessation, then any amendments to Section 7.2 made by Broadcom under Section 7.6(b) above will automatically terminate with respect to Qualcomm Components purchased by such Qualcomm Customer after the first anniversary of the Date of Cessation and the covenant for such Qualcomm Components purchased by the Qualcomm Customer will be reinstated (subject to any amendments of such covenant entered into by the Parties, other than amendments made pursuant to this Section 7.6). After the Date of Cessation, the determination of whether any future Assertion by the Qualcomm Customer or its Affiliate is a First Assertion Against Broadcom for purposes of this Section 7.6 will be determined without regard to the Assertions made by the Qualcomm Customer or any of its Affiliates or by Broadcom or any of its Subsidiaries prior to the Date of Cessation.
+               If, after Section 7.6(b)(ii) has been triggered [**].
+(iii) 
+               For avoidance of doubt, [**].
+(iv) 
+          For avoidance of doubt, an Assertion by Broadcom or a Subsidiary of Broadcom of one or more claims of patent infringement against a Qualcomm Customer that is permitted under Section 7.6(b) will constitute an Assertion against a Qualcomm Customer for purposes of Section 7.5 or Section 7.8.
+(d)
+not
+     
+7.7 Defensive Suspension by Qualcomm
+          As used in this Section 7.7, [**]. As used in this Section 7.7, [**].
+(a)
+          If, after the Effective Date, a Broadcom Customer or any of its Affiliates Asserts any claim of patent infringement in Litigation against Qualcomm or any of its Subsidiaries before Qualcomm or any of its Subsidiaries has Asserted any claim of patent infringement in Litigation against such Broadcom Customer or any of its Affiliates (a ""), then Qualcomm may provide written notice to Broadcom of Qualcomm's intent to amend Section 7.1 as provided below with respect to such Broadcom Customer within ninety (90) days after the First Assertion Against Qualcomm. [**]:
+(b)
+First Assertion Against Qualcomm
+               (i) [**]; or
+               (ii) [**].
+          
+(c) Reinstatement of Covenant
+               If and when Qualcomm (or a Subsidiary of Qualcomm) and the Broadcom Customer or any Affiliate of the Broadcom Customer enter into a voluntary settlement of all claims of patent infringement Asserted by the Broadcom Customer and any of its Affiliates against Qualcomm and its Subsidiaries, then any amendments to Section 7.1 made by Qualcomm under Section 7.7(b) above will automatically terminate with respect to Broadcom Components purchased by such Broadcom Customer after the date of such settlement and the covenant for such Broadcom Components purchased by the Broadcom Customer will be reinstated (subject to any amendments of such covenant entered into by the Parties, other than
+(i)
+ 
+amendments made pursuant to this Section 7.7). After any such settlement, the determination of whether any future Assertion by the Broadcom Customer or its Affiliate is a First Assertion Against Qualcomm for purposes of this Section 7.7 will be determined without regard to the Assertions that were made by the Broadcom Customer or any of its Affiliates, or by Qualcomm or any of its Subsidiaries, prior to the date of the settlement and that have been settled on or before the date of the settlement.
+               If, after Section 7.7(b)(i) has been triggered, (i) there is any time at which no Assertion of patent infringement claims in Litigation remains pending between the Broadcom Customer or any of its Affiliates and Qualcomm or any of its Subsidiaries ("Date of Cessation"), and (ii) the Broadcom Customer and its Affiliates do not make a subsequent First Assertion Against Qualcomm (ignoring any Assertions by any of such Entities prior to the Date of Cessation) on or before the first anniversary of the Date of Cessation, then any amendments to Section 7.1 made by Qualcomm under Section 7.7(b) above will automatically terminate with respect to Broadcom Components purchased by such Broadcom Customer after the first anniversary of the Date of Cessation and the covenant for such Broadcom Components purchased by the Broadcom Customer will be reinstated (subject to any amendments of such covenant entered into by the Parties, other than amendments made pursuant to this Section 7.7). After the Date of Cessation, the determination of whether any future Assertion by the Broadcom Customer or its Affiliate is a First Assertion Against Qualcomm for purposes of this Section 7.7 will be determined without regard to the Assertions made by the Broadcom Customer or any of its Affiliates or by Qualcomm or any of its Subsidiaries prior to the Date of Cessation.
+(ii) 
+               If, after Section 7.7(b)(ii) has been triggered [**].
+(iii) 
+               For avoidance of doubt, [**].
+(iv) 
+          For avoidance of doubt, an Assertion by Qualcomm or a Subsidiary of Qualcomm of one or more claims of patent infringement against a Broadcom Customer that is permitted under Section 7.7(b) will constitute an Assertion against a Broadcom Customer for purposes of Section 7.4 or Section 7.8.
+(d)
+not
+     
+7.8 [**] Devices
+          If, subject to Section 7.7(d), Qualcomm or a Subsidiary of Qualcomm Asserts in Litigation against a Broadcom Customer a claim that a Qualcomm Patent is directly or indirectly infringed by a Broadcom Component used in a [**].
+(a)
+          If, subject to Section 7.6(d), Broadcom or a Subsidiary of Broadcom Asserts in Litigation against a Qualcomm Customer a claim that a Broadcom Patent is directly or indirectly infringed by a Qualcomm Component used in a [**].
+(b)
+     
+7.9 Third Parties
+          The covenants, terms and conditions, and rights provided in Sections 6.1, 6.2, 6.3, 7.1(c), 7.2(c), 7.4 (except and only to the extent that Qualcomm grants in the future one or more exhaustive licenses to Broadcom pursuant to Section 7.4), 7.5 (except and only to the extent that Broadcom grants in the future one or more exhaustive licenses to Qualcomm pursuant
+(a)
+ 
+to Section 7.5), and 7.8 are not intended to, and shall not be construed to, convey any Pass-Through Rights to any Third Party in any manner, including as a result of the patent exhaustion or implied license doctrines in any jurisdiction or any similar doctrine, whether by operation of law or otherwise. Neither Party desires or intends to authorize any sales on an exhaustive or unconditional basis as a result of the covenants, terms and conditions, and rights provided in Section 6.1, 6.2, 6.3, 7.1(c), 7.2(c), 7.4 (except and only to the extent that Qualcomm grants in the future one or more exhaustive licenses to Broadcom pursuant to Section 7.4), 7.5 (except and only to the extent that Broadcom grants in the future one or more exhaustive licenses to Qualcomm pursuant to Section 7.5), or 7.8. Nothing in Sections 6.1, 6.2, 6.3, 7.1(c), 7.2(c), 7.4 (except and only to the extent that Qualcomm grants in the future one or more exhaustive licenses to Broadcom pursuant to Section 7.4), 7.5 (except and only to the extent that Broadcom grants in the future one or more exhaustive licenses to Qualcomm pursuant to Section 7.5), and 7.8 constitutes any form of consent or authorization (whether express, implied, by operation of law, by estoppel, or otherwise) to any Person, for (i) the use of Broadcom Components or Qualcomm Components (except for research, development, design, manufacturing, testing, demonstration, support, and/or maintenance by the Parties and their respective Contractors and Distributors as expressly set forth in this Agreement) or the incorporation of Broadcom Components or Qualcomm Components in any products that are not Broadcom Components or Qualcomm Components such as, without limitation, any Device, End User Card, or Third Party Module, except for Qualcomm Protected Devices, (ii) the manufacture or sale of any products containing Broadcom Components or Qualcomm Components (such as, without limitation, any Device, End User Card, or Third Party Module), or (iii) the distribution of Broadcom Components or Qualcomm Components in any jurisdiction where such distribution or sale would be deemed to be putting such Broadcom Components or Qualcomm Components on the market with the other Party's consent, as the case may be, so as to effect the exhaustion of, or to provide Pass-Through Rights to any Third Party for, either Party's Patents. Each Party acknowledges and agrees that each Party remains free to license its Patents to, Assert its Patents against, and collect royalties or other cash consideration from the direct and indirect Third Party customers of the other Party (except for Distributors of unmodified Components as expressly set forth in Section 6, and except to the extent that the Parties have covenanted in Sections 7.1 and 7.2 not to Assert patent infringement claims against such customers or agreed in Section 7.1(c) or 7.2(c) to a limited, temporary standstill with respect to such claims, and except to the extent such customers have Pass-Through Rights as a result of the licenses granted in Section 7.3 or obtain Pass-Through Rights in the future under the other Party's Patents as a result of licenses granted in the future pursuant to Section 7.4 or Section 7.5).
+          (i) If, despite the Parties' joint intent and mutual understanding, it is adjudicated in a final judgment (whether or not such judgment is subject to appeal) in any jurisdiction, in any Litigation to which a Party or one of its Subsidiaries is a party and that specifically addresses provisions in this Agreement, that any covenant, terms and conditions, or rights provided in [**] exhausts any of the Parties' Patent rights or grants or otherwise provides any Pass-Through Rights to any Third Party for any Non-Exhaustive Products, whether expressly, impliedly, by estoppel, by operation of law, or otherwise (a ""), then [**].
+(b)
+Final Judgment
+               (ii) [**].
+ 
+               (iii) [**].
+               (iv) Neither Party or any of its Subsidiaries will claim or assert, in any Litigation (regardless of whether or not the other Party is a party to such Litigation) that [**].
+               (v) [**].
+          [**].
+(c)
+          [**].
+(d)
+          [**].
+(e)
+     . The Parties understand and acknowledge that the covenants and licenses granted in this Agreement (and any licenses that may be granted in the future pursuant to Section 7.4 or Section 7.5) are intended to cover only products of the two Parties to this Agreement (and their respective Subsidiaries), and are not intended to cover manufacturing activities that either Party (or a Subsidiary of either Party) may undertake on behalf of Third Parties. Accordingly, notwithstanding anything to the contrary in this Agreement and without limiting the generality of the preceding sentence, the rights granted by one Party to the other Party and the other Party's Subsidiaries (and their respective Contractors, Distributors, and customers) in or pursuant to this Agreement (including rights under Sections 6.1, 6.2, 7.1, and 7.2 as well as rights under any licenses that may be granted in the future) do not include the right under any Broadcom Patents or Qualcomm Patents to manufacture or have manufactured products as a foundry or contract manufacturer for a Third Party based on designs provided by such Third Party in substantially completed form or to distribute such products to such Third Party or to customers of such Third Party. For avoidance of doubt, this Section 7.10 is not intended to limit either Party's rights with respect to Custom ICs or, with respect to Section 7.3(b), customized versions of Qualcomm Software Products described in the definition thereof.
+7.10 No Foundry Rights
+     . Third Parties who are manufacturers of Third Party ICs or direct or indirect suppliers of Third Party ICs to a Party or any of its Subsidiaries are intended third party beneficiaries of any of the covenants or licenses granted in Section 6 or Section 7 of this Agreement whether or not such Third Party ICs are incorporated into or otherwise used with any Broadcom Components, Broadcom Covenant Products, Qualcomm Components, or Qualcomm Covenant Products, as applicable. No licenses or covenants not to Assert are granted or otherwise provided to any such Third Parties for the manufacturing, using, Selling or importing of any Third Party ICs by such Third Parties, whether expressly or by implication, estoppel or otherwise.
+7.11 No Covenants or Licenses for Manufacturers or Suppliers of Third Party ICs
+not
+8.
+Assignment of Patents from Broadcom to Qualcomm
+     . Attached to this Agreement as is a list of Patent Families provided by Broadcom to Qualcomm. Within thirty (30) days after the Effective Date, Qualcomm shall select (by providing written notice to Broadcom) fifty (50) Patent Families from . The patents and patent applications identified on as being included within the fifty (50) Patent Families selected by Qualcomm
+8.1 Selection of Patent Families
+Attachment B
+Attachment B
+Attachment B
+ 
+from the overall list of Patent Families in are collectively referred to herein as the "". The "Designated Patents" specifically exclude the patents and patent applications from the other Patent Families identified on that are not selected by Qualcomm, all of which are retained by Broadcom.
+Attachment B
+Designated Patents
+Attachment B
+     . Within fifteen (15) days after Qualcomm has notified Broadcom of the selection of the Designated Patents, and subject to Qualcomm having made the First Payment to Broadcom, Broadcom shall unconditionally and irrevocably assign (and, as applicable, ensure that each of its Subsidiaries assigns) to Qualcomm all of Broadcom's and Subsidiaries' right, title, and interest in the Designated Patents, subject only to (a) the rights retained by Broadcom as expressly provided in both this Section 8.2 and Section 8.3 and (b) all releases, covenants, licenses, and rights that have been granted to Third Parties with respect to the Designated Patents before the Effective Date. The form of patent assignment to be executed by Broadcom (or its Subsidiary if the patent is owned by such Subsidiary) and delivered to Qualcomm (before the end of the fifteen-day period referred to above in this Section 8.2) is attached hereto as . The foregoing is expressly limited to assignment of the specifically listed Designated Patents only, and shall not be construed as granting or otherwise providing a right to practice or any rights (whether expressly or by implication, estoppel or otherwise) under any other existing or future patent or patent application of Broadcom or any of its Subsidiaries, irrespective of whether such other patents or patent applications are infringed by or necessary to the practice of any invention claimed or described in any of the Designated Patents or otherwise.
+8.2 Assignment of Designated Patents to Qualcomm
+Attachment C
+     . Subject to Section 7.10, Broadcom and each of its Subsidiaries (but only as long as it remains a Subsidiary of Broadcom) hereby retain (and if the retention of such rights is not effective in any respect, Qualcomm shall grant to Broadcom and each of its Subsidiaries (but only as long as it remains a Subsidiary of Broadcom)) a perpetual and irrevocable, non-exclusive, fully-paid and royalty-free, nonassignable and non-transferable (except as permitted under Section 14), worldwide, exhaustive license, with no right to sublicense except to its Subsidiaries, under the Designated Patents (including any patents that issue from patent applications included in the Designated Patents, any reissue, reexamination, or extension of any Designated Patent, any divisional, continuation, continuation-in-part, or foreign counterpart of any Designated Patent, and any other patent or patent application claiming direct or indirect priority from any Designated Patent, in each case which are owned at any time by Qualcomm or any of its Subsidiaries and all of which are referred to herein as "") to make, have made, import, use, offer to sell, sell, and otherwise dispose of all past, current, and future products and services of Broadcom and its Subsidiaries and to practice any process, method, or procedure. This license includes and covers all activities by Broadcom and its Subsidiaries (except licensing or sublicensing the Designated Patents or Related Patents to Third Parties) in connection with its business, including the design, development, and testing of current and future Broadcom products and Broadcom services, and the use, reproduction, incorporation, and distribution of products (including Components, software, and firmware) and services of Broadcom and its Subsidiaries by contractors, Distributors, and direct and indirect customers and users of such products and services of Broadcom and its Subsidiaries. Qualcomm covenants that it will not, and will not permit any of its Subsidiaries to, (i) amend any claim in any Designated Patent (or in any patents or applications claiming direct or indirect priority from or otherwise having common priority with any Designated Patent) in such a way that is directed
+8.3 Rights Retained by Broadcom
+Related Patents
+ 
+at subject matter included in the Designated Patents only through incorporation by reference, or (ii) amend any specification or claim to directly include any subject matter incorporated by reference in the Designated Patents. Qualcomm shall ensure that any assignment or transfer of any of the Designated Patents is made expressly subject to the license retained by Broadcom and its Subsidiaries under this Section 8.3, the obligation to license to the extent such retention is not effective in any respect, and the covenant in the preceding sentence. The above license retained by Broadcom and its Subsidiaries is non-terminable for any reason and will remain in effect (without restriction or limitation) notwithstanding any termination of other rights or obligations under this Agreement or any Change in Control of Broadcom.
+     . Both during and after the patent selection process, Broadcom shall promptly provide the following information (the "") to Qualcomm regarding particular patents, patent applications, or Patent Families as Qualcomm may request in writing: (i) whether any nonexclusive license or other rights with respect to any such patent or patent application have been expressly granted by Broadcom or any of its Subsidiaries to one or more particular Third Parties identified by Qualcomm in its request (other than by exhaustion or other implied rights or licenses), and (ii) whether such patents or patent applications are subject to any obligations that may arise from commitments made by Broadcom or its Subsidiaries to ARIB, ETSI, TIA, or other standards-setting organizations or have been disclosed as essential, or potentially essential, to any industry standard (and if so, which standards) identified by Qualcomm in its request. Prior to the Effective Date, Broadcom will also identify any licenses or other rights expressly granted, or standards organization commitments made, by Broadcom on or after February 1, 2009 with respect to any of the patents or patent applications included in the Patent Families listed on . Notwithstanding anything to the contrary in this Section 8.4, Broadcom will not be required to provide any information that is subject to pre-existing confidentiality obligations to Third Parties or subject to the attorney-client privilege.
+8.4 Information Regarding Designated Patents
+Patent Information
+Attachment B
+     . Promptly after the Designated Patents are assigned to Qualcomm, Broadcom shall instruct its patent prosecution counsel for the Designated Patents to deliver within thirty (30) days to Qualcomm the complete prosecution files for each Designated Patent, including the names, addresses, e-mail addresses, and phone numbers of prosecution counsel and agents; provided, however, that before delivering such files and documents to Qualcomm, Broadcom or its counsel shall remove any documents that are subject to the attorney-client privilege. For clarity, this Section 8.5 does not require Broadcom to deliver to Qualcomm any lab notebooks or other materials outside of the prosecution file history for the Designated Patents or any copies of any contracts or agreements pursuant to which Broadcom has licensed a Designated Patent to any Third Party. If the signature of a named inventor is reasonably required on any oath, declaration, assignment, or other document for the prosecution of any of the Designated Patents or any other patent or patent application claiming priority to a Designated Patent, then upon written request from Qualcomm to Broadcom, Broadcom will request such inventors who remain employees of Broadcom or any of its Subsidiaries to reasonably cooperate with Qualcomm, at Qualcomm's sole expense.
+8.5 Transfer of Patent Files and Ongoing Cooperation
+     . Broadcom represents and warrants that, to the knowledge of Broadcom, as of the Effective Date (a) Broadcom or a Subsidiary of Broadcom has sole and exclusive title to each of the Designated Patents, free and clear of any liens or security
+8.6 Representations and Warranties
+ 
+interests; (b) no exclusive licenses or other exclusive rights have been granted to any Third Party with respect to any of the Designated Patents; (c) any Patent Information provided to Qualcomm is accurate and correct in all material respects; (d) none of the Designated Patents has been declared or found to be invalid or unenforceable or is the subject of any pending or threatened interference, re-examination, or other proceeding in which the ownership, validity, scope, priority date, or enforceability of such Designated Patent has been or would reasonably be expected to be challenged; (e) neither Broadcom nor any of its Subsidiaries will assert, or Support any Third Party in asserting, in Litigation that any of the Designated Patents is invalid or unenforceable; and (f) none of the Designated Patents is subject to a royalty-free licensing commitment to grant, or other obligation to grant, royalty-free licenses to Third Parties after the Effective Date as a result of any commitment or undertaking made to a standards-setting organization or any other Person. Except for the express representations and warranties set forth herein, the Designated Patents are assigned to Qualcomm "as is" and Broadcom disclaims all other representations and warranties and any implied promises or obligations with respect to the Patent Families listed on , the Designated Patents, the Patent Information, or any other information or materials provided to Qualcomm in connection with this Section 8, whether express or implied.
+Attachment B
+9.
+Third Party Licenses
+     
+9.1 Treatment of Broadcom Components under Qualcomm Patent Licenses
+          Subject to Section 9.2, Qualcomm agrees that Broadcom Components will be treated as the equivalent of Qualcomm Components under Qualcomm's Patent License Agreements for Licensed Products (the ) that are executed after May 9, 2008 (the "") for only the following purposes: (1) determining or calculating royalties owed to Qualcomm for such Licensed Products; (2) determining or calculating up-front license fees payable under the New Qualcomm Agreements; and (3) the scope of the licenses or covenants granted in each such New Qualcomm Agreement under Patents owned by Qualcomm or its Subsidiaries (or Patents that Qualcomm or its Subsidiaries otherwise have the right to license or grant covenants not to assert against Third Parties, without the payment of monetary consideration to any Third Party, for Licensed Products that do not incorporate Qualcomm Components). [**].
+(a)
+"Applicable Licenses"
+New Qualcomm Agreements
+          [**].
+(b)
+     . Notwithstanding Section 9.1, [**].
+9.2 Component Sales
+     
+9.3 Additional Covenants
+          
+(
+a) Qualcomm Dealings
+               (i) Qualcomm shall not [**].
+               (ii) Upon request from a Qualcomm customer, [**].
+               (iii) If Broadcom asserts that Qualcomm has engaged after the Effective Date in conduct that violates this Section 9.3(a), that conduct shall be deemed not to be
+ 
+Conduct/Practices for purposes of Section 4.2(c) above, such that Broadcom may bring any claim based on such conduct that would otherwise be precluded by operation of Section 4.2(c), but no other claim or remedy under this Agreement, including any contract remedies, will be available for such violation of this Section 9.3(a).
+     
+(b) Broadcom Dealings
+               (i) Broadcom shall not [**].
+               (ii) Upon request from a Broadcom customer, [**].
+               (iii) If Qualcomm asserts that Broadcom has engaged after the Effective Date in conduct that violates this Section 9.3(b), that conduct shall be deemed not to be Conduct/Practices for purposes of Section 4.2(c) above, such that Qualcomm may bring any claim based on such conduct that would otherwise be precluded by operation of Section 4.2(c), but no other claim or remedy under this Agreement, including any contract remedies, will be available for such violation of this Section 9.3(b).
+10.
+Third Party Matters
+     If Qualcomm intentionally grants or has intentionally granted to any Third Party any [**]. For avoidance of doubt and notwithstanding the foregoing, if (i) Qualcomm acquires or has acquired patents or patent applications from a Third Party and such patents or patent applications are subject to agreements [**], or (ii) a covenant or other rights granted by Qualcomm to a Third Party [**].
+10.1
+     Within ten (10) days after the Effective Date and throughout the term of the Agreement, Qualcomm shall identify Broadcom as a supplier of component-related products with certain rights under Qualcomm's patent portfolio on Qualcomm's website and in such other places where Qualcomm publicly identifies other such suppliers.
+10.2
+11.
+Access to Specifications and Technical Information
+Each Party, upon the request of the other Party, shall offer (and shall ensure that each of its Subsidiaries offers) to provide or license to the requesting Party and its Subsidiaries any specifications or interoperability, testing, or certification information that the first Party or its Subsidiary generally makes available to other merchant market integrated circuit device suppliers on terms and conditions that are similar to those offered or agreed upon with such other suppliers with respect to the same requested specifications or information.
+12.
+Confidentiality and Publicity
+     . Absent the express written consent of the other Party and except as expressly provided herein, each Party shall keep the terms of this Agreement strictly confidential and shall not disclose any of the terms of this Agreement to any Third Party.
+12.1 Terms of Agreement Are Confidential
+ 
+     . The Parties recognize that certain disclosures of certain terms of this Agreement may be reasonably necessary for the enjoyment of their rights and the performance of their obligations hereunder, and that such disclosures will not require the other Party's consent. The disclosures permitted without consent are: (i) disclosures to the arranger or underwriter of any equity or debt financing to the extent reasonably necessary for arranging any such equity or debt financing; (ii) [**]; (iii) disclosures to Third Party Contractors and Third Party Distributors of their rights under Sections 6.1 and 6.2; (iv) disclosures by each Party to its customers with respect to the terms of Sections 6.1, 6.2, 7.1, 7.2, 7.3, [**]; (v) disclosures to a Party's accountants or legal counsel; (vi) disclosures in connection with a proposed Change in Control; and (vii) disclosures contemplated in connection with Section 12.3. Prior to making a permitted disclosure to a Third Party, the Party making such disclosure shall obtain or have obtained the written agreement of such Third Party that such Third Party will not disseminate the information disclosed regarding the terms of this Agreement to any subsequent Third Party or use such information for any reason other than the reason for which such information is provided to such Third Party. Notwithstanding the above, in no event shall either Party disseminate the terms of this Agreement to any Third Party that does not reasonably need access to such information.
+12.2 Permitted Disclosures to Third Parties
+     . If either Party is required to disclose this Agreement or any of its terms or provisions by law, order, request, or regulation of a court of competent jurisdiction or other Governmental Authority such that this Agreement or any of its terms or provisions will be made publicly available, then such disclosing Party shall use reasonable efforts to provide the other Party with reasonable advance written notice thereof and, if possible under the circumstances, an opportunity to object to and to try to prevent such disclosure. If either Party believes that it will be necessary to file a copy of all or a portion of this Agreement with the SEC or any other Governmental Authority such that this Agreement or any of its terms or provisions will be made publicly available, it shall notify the other Party prior to any such filing, provide the other Party with a copy of what it intends to file with the SEC or other Governmental Authority before making any such filing, request confidential treatment (or a protective order or the equivalent, as applicable) for the previously agreed-upon portions of the following provisions: Sections 3.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.4, 7.5, 7.6, 7.7, 7.8, 7.9, 9 (except the first sentence of Section 9.1(a)), 10.1, 13.1, 14, 16.4, the related definitions, and Attachments H and I, and provide the other Party with any responses received from the SEC or Governmental Authority in respect of its request for confidential treatment (or a protective order or the equivalent, if applicable) and any responses thereto by the first Party. Notwithstanding the foregoing, the list of Sections cited for confidential treatment is not exhaustive, and the Parties agree to seek confidential treatment for other provisions that either Party may reasonably request. The application for confidential treatment or protective order must be consistent with the requirements of the Freedom of Information Act, rules of the SEC and other applicable laws, rules, or regulations. In addition, each Party shall inform the other Party if the first Party receives notice that disclosure of the Agreement is being sought under the Freedom of Information Act or any similar foreign law, rule, or regulation and use reasonable efforts to maintain confidential treatment if such disclosure is sought.
+12.3 Disclosures Required by Law
+     . Upon the execution and delivery of this Agreement, the Parties will promptly issue a joint press release in the form attached hereto as . Neither Party shall make any other public statements regarding this Agreement or the matters
+12.4 Joint Press Release
+Attachment F
+ 
+addressed in this Agreement except as otherwise required or expressly permitted by this Agreement or as required by law, order, request, or regulation of a court of competent jurisdiction or other Governmental Authority.
+     . The Parties' obligations under this Section 12 will not apply to any information that is or becomes generally available to the public through no wrongful act or omission on the part of either Party, including any information expressly disclosed in the joint press release described in Section 12.4 or included in a disclosure made to the SEC in accordance with Section 12.3.
+12.5 Publicly Available Information
+13.
+Termination
+     . This Agreement may not be terminated or rescinded by either Party for any reason. Certain rights and obligations in this Agreement may be terminated before the end of the term of this Agreement as follows:
+13.1 Termination Rights
+ 
+ 
+ 
+     . Except as expressly provided in Sections 6.1(d), 6.2(d), 7.8, 7.9(b), and 13.1, no provisions, rights, or obligations in or under this Agreement may be terminated by either Party for any reason, including any breach of this Agreement by the other Party. Except as provided in Section 13.1(b), the payment obligations contemplated under Section 3.1 are non-terminable, non-cancellable, and not subject to offset.
+13.2 No Other Termination
+14.
+Assignment and Change in Control
+     
+14.1 Assignment of Contract Rights
+          This Agreement is assignable by a Party without the consent of the other Party only (i) in a merger, consolidation, amalgamation, or similar transaction of a Party with another Entity that results in a Change in Control of such Party, to such other Entity, subject to the terms set forth in Section 14.4 below (it being agreed that the acquisition of the capital stock of a Party by an Entity that results in a Change in Control shall be deemed not to be an assignment that is subject to this Section 14.1 but shall be subject to Section 14.4), (ii) in a merger, consolidation, amalgamation, or similar transaction of such Party with another Entity that does not constitute or result in a Change in Control, to such other Entity, (iii) by Qualcomm as expressly permitted or required under Section 14.3, or (iv) to a Parent Holding Company solely as permitted in Section 14.1(b) (provided that, for the avoidance of doubt, such transaction does not constitute, involve or result in a Change in Control); in each case, provided that the assignee agrees in writing prior to such assignment to be bound by the terms and conditions of this Agreement. Except as provided in the preceding sentence, neither Party may assign any rights under this Agreement, or delegate any obligations under this Agreement, to any other Person (including any of its Subsidiaries or Affiliates or any Third Party) without the express prior written consent of the other Party, which the other Party may grant or deny in its sole and absolute discretion. Any attempted or purported assignment or delegation that requires consent of the other Party and is made without such consent will be null and void. Subject to the foregoing, any permitted assignment under this Section 14.1(a) will be binding upon and inure to the benefit of the Parties and their permitted successors or assigns. Notwithstanding any assignment hereunder, the assigning Party shall remain liable for all payment obligations hereunder.
+(a)
+          If a Party creates a Parent Holding Company of such Party, such Party shall promptly either (x) assign this Agreement to such Parent Holding Company, which
+(b)
+ 
+assignment will not require the consent of the other Party, or (y) prior to the consummation of the transaction or series of related transactions creating such Parent Holding Company, cause the Entity that will become such Parent Holding Company to agree in writing (which agreement will not require the consent of the other Party) that (1) if such Entity owns or at any time thereafter acquires (or otherwise has or obtains the right to license or grant a non-Assert covenant to the other Party as set forth herein) any patents, or such Entity creates or acquires new Subsidiaries (which are not Subsidiaries of such Party) that own or at any time thereafter have or acquire (or otherwise have or obtain the right to license or grant a non-Assert covenant to the other Party as set forth herein) any patents, this Agreement will apply to any and all such patents in the same manner (including with respect to the Capture Period) as if such patents were owned by such Party; and (2) any conduct and practices of the Parent Holding Company and its Subsidiaries will be subject to Section 9 in the same manner that the conduct and practices of the Party are subject to Section 9.
+          For purposes of this Section 14.1, a "" of a Party means an Entity that: (i) is created by, or is a Subsidiary of, such Party; (ii) subsequently controls such Party; and (iii) at the time of the transaction as a result of which it controls such Party, is not controlled by any other Entity or Person or group of Persons (within the meaning of Rules 13d-3 and 13d-5 under the Exchange Act) in their capacity as voting securityholders, where "control" means direct or indirect ownership or control of more than fifty percent (50%) of the Voting Power of such Entity by another Entity.
+(c)
+Parent Holding Company
+     
+14.2 Assignments of Patents
+          . All of the rights granted under this Agreement with respect to each Party's Patents (including rights under covenants not to Assert such Patents) are intended to run with such Patents and be binding on any future owner or assignee of such Patents. Accordingly, each Party agrees that if it, or any of its Subsidiaries, assigns or otherwise transfers any of its rights under any Patents, it will ensure that such assignment or transfer is made subject to the full maintenance of all of the licenses and non-Assert covenants set forth in this Agreement (including the licenses set forth below in this Section 14.2). With respect to any transaction or series of related transactions that causes or results in an Entity that was a Subsidiary of a Party to no longer qualify as a Subsidiary or that creates a newly formed Entity that is not a Subsidiary of a Party, and in each case such Entity owns or has the right to enforce any patents that were Broadcom Patents or Qualcomm Patents, as applicable, prior to such transaction or series of transactions, such transaction or series of related transactions will be considered a transfer of such patents for purposes of this Section 14.2(a).
+(a) Assignments to Third Parties
+               (i) In the event of any such transfer of Broadcom Patents by Broadcom or any of its Subsidiaries to a Third Party, [**].
+               (ii) In the event of any such transfer of Qualcomm Patents by Qualcomm or any of its Subsidiaries to a Third Party other than a Qualcomm SpinCo, [**].
+          . For purposes of the foregoing and except as provided in [**].
+(b) Assignments as Part of Spin-Outs
+ 
+          . This Section 14.2 does not apply to [**].
+(c) Limitations
+     
+14.3 Qualcomm Spin-Outs
+          . As used herein:
+(a) Definitions
+               [**].
+               "" means a spin-out by Qualcomm and/or its Subsidiaries of [**].
+Qualcomm Spin
+               "" means [**].
+Qualcomm SpinCo
+          . If Qualcomm does a Qualcomm Spin of [**], Qualcomm shall elect, by written notice to Broadcom prior to the Qualcomm Spin, to either: (i) [**], or (ii) [**]. In addition, if Qualcomm does a Qualcomm Spin of [**] Qualcomm shall elect, by written notice to Broadcom prior to such Qualcomm Spin, to either: (i) [**], or (ii) [**]. If Qualcomm does not make such election by written notice to Broadcom prior to the Qualcomm Spin then [**]. The rights assigned by Qualcomm to [**] will not be retained by Qualcomm, except that notwithstanding such assignment, Qualcomm and its Subsidiaries, and their respective Contractors and Distributors, will continue to be protected by the covenants in Section 6.2(b) [**] as if no Qualcomm Spin had occurred. Any such assignment will be conditioned on [**], agreeing in writing (provided to Broadcom prior to the Qualcomm Spin) to provide to Broadcom and its Subsidiaries, their respective Contractors and Distributors, and Broadcom Customers all rights granted under this Agreement (including under Sections 6, 7, 9.3, 10, and 11) and otherwise being bound to the obligations of Qualcomm under this Agreement as if [**] were substituted for Qualcomm as a Party to this Agreement. For the avoidance of doubt, in the event that Qualcomm does not assign rights to a Qualcomm SpinCo under this Section 14.3(b) and obtain such written agreement of the Qualcomm SpinCo prior to the Qualcomm Spin, such Qualcomm Spin will be covered by the terms of Section 14.2(b).
+(b) Assignment of Rights upon Qualcomm Spin
+          . If any Qualcomm Patents are transferred to a Qualcomm SpinCo as part of a Qualcomm Spin [**].
+(c) Rights after Qualcomm Spin
+          . For avoidance of doubt, Qualcomm may make only [**] assignments under this Section 14.3 [**]. After a Qualcomm Spin, the rights assigned to the Qualcomm SpinCo will be subject to the limitations in Section 14.4 upon any Change in Control of the Qualcomm SpinCo.
+(d) Limitation on Number of Qualcomm Spins
+          . If the payments in Section 3 have not been completed prior to a Qualcomm Spin, the Qualcomm SpinCo and Qualcomm will be jointly and severally liable for the remaining payments under Section 3.
+(e) Payment Obligations after Qualcomm Spin
+ 
+     
+14.4 Change in Control
+          For purposes hereof, a of an Entity will be deemed to have occurred upon the occurrence, in a single transaction or a series of related transactions, of any one or more of the following events:
+(a)
+"Change in Control"
+References to the Exchange Act above mean the Securities Exchange Act of 1934, as amended. Notwithstanding the foregoing, in no event shall any transaction or series of transactions that results in one or more of the Class B Holders, alone or in combination, becoming, or having the right to become, the beneficial owner, directly or indirectly, of 50% or more of the total Voting Power of Broadcom (or any successor to Broadcom) be considered a Change in Control of Broadcom. For purposes hereof, "" means Henry Samueli, Henry Nicholas, their respective Descendants, their respective current and former Spouses, and their respective Descendants, and any Trusts, Charitable Organizations, or IRAs for any of the foregoing (Descendants, Spouses, Trusts, Charitable Organizations, and IRAs will be defined as set forth in Broadcom's Articles of Incorporation as of the Effective Date of this Agreement).
+Class B Holders
+          If a Change in Control of either Party occurs, then (i) the definition of "Patents" will be understood to mean, with respect to each Party, [**], and (ii) the definitions of "Components" and "Broadcom Covenant Products" or "Qualcomm Covenant Products" (as the case may be  i.e., Broadcom Covenant Products if Broadcom is the Party that experienced a Change in Control, Qualcomm Covenant Products if Qualcomm is the Party that experienced a Change in Control) will be understood to mean, with respect to the Party that experienced a Change in Control (but not the other Party), [**]. The term "" of a Party means (1) for a Change in Control under clause (a)(i) above, any Third Party described in clause (a)(i) above, and (2) for a Change in Control under clause (a)(ii) above, the Entity, or (if the Entity is an
+(b)
+Acquirer
+ 
+acquisition vehicle) the parent of the Entity, that is merged, consolidated, or otherwise combined with such Party or a Subsidiary of such Party. For avoidance of doubt: the foregoing is not intended to [**].
+          In addition, if, after a Change in Control of a Party (the "") occurs, the Acquired Party or its successor (or any of its or its successor's Subsidiaries), or the Acquirer of the Acquired Party (or any Affiliate of the Acquirer), [**].
+(c)
+Acquired Party
+15.
+Representations and Warranties
+     . Qualcomm hereby represents and warrants to Broadcom as follows:
+15.1 By Qualcomm
+ 
+     . Broadcom hereby represents and warrants to Qualcomm as follows:
+15.2 By Broadcom
+ 
+     . Except as expressly provided in this Agreement (including Section 11), nothing in this Agreement shall be construed as: (i) requiring the filing of any patent application, the securing of any patent, or the maintaining of any patent in force; (ii) a warranty or representation by either Party as to the validity, enforceability, value, or scope of any patent or other intellectual property right; (iii) a warranty or representation that any manufacture, sale, offering to sell, lease, use, importation, or other disposal of any product, software, or service will not infringe or will be free from infringement of patents or other intellectual property rights of Third Parties (and it will be the sole responsibility of each Party to make such determination as is necessary with respect to its acquisition of licenses under patents and other intellectual property of Third Parties); (iv) an agreement to bring or prosecute actions or suits against Third Parties for infringement; (v) an obligation to furnish any manufacturing assistance or information; or (vi) conferring any right to use (in advertising, publicity, or otherwise) any name, trade name, or trademark of the other Party or any contraction, abbreviation, or simulation thereof.
+15.3 Disclaimers
+16.
+Governing Law and Dispute Resolution
+     . This Agreement shall be construed in accordance with, and governed and enforced in all respects by, the laws of the State of California (without giving effect to any principles of conflicts of laws that would result in the application of the laws of a different state).
+16.1 Governing Law
+     . Except as expressly provided in Section 16.4, the Parties agree that any dispute between the Parties arising from or relating to this Agreement will be litigated and decided solely through adjudication in the Court of Chancery of the State of Delaware, pursuant to 10 Del. C.  346. Notwithstanding the foregoing, nothing in this Section 16 prohibits or prevents either Party from asserting rights under this Agreement as a defense or compulsory counterclaim to any claim in any jurisdiction, provided that if a defense or compulsory counterclaim under this Agreement is asserted in another jurisdiction and/or there is any dispute regarding the merits or applicability of such defense or compulsory counterclaim, then the Parties shall jointly request and stipulate that such claim be stayed pending resolution of the dispute regarding the defense or compulsory counterclaim in Delaware. If the stay request is declined in whole or in part, then such claim shall be dismissed without prejudice pending resolution of the dispute regarding the defense or compulsory counterclaim in Delaware. The Parties agree to submit to the jurisdiction of the Court of Chancery of the State of Delaware and waive trial by jury. Notwithstanding the foregoing, if there is a determination that any dispute between the Parties arising from or relating to this Agreement is not subject to 10 Del. C.  346, the Parties agree that: (i) if the Delaware Chancery Court has subject matter jurisdiction over such dispute and has the power to grant the remedy sought in such dispute, then such dispute will be adjudicated only by, and will be subject to the exclusive jurisdiction and venue of, the Delaware Chancery Court; or (ii) if the Delaware Chancery Court does not have subject matter jurisdiction over such dispute or does not have the power to grant the remedy sought in such dispute, then such dispute will be adjudicated only by, and will be subject to the exclusive jurisdiction and venue of, the Superior Court of Delaware, and each Party hereby irrevocably consents to, and waives any objection to, the jurisdiction or venue of the Delaware Courts with respect to such dispute; provided, however, that if each of the Delaware Chancery Court and the Superior Court of Delaware does not have subject matter jurisdiction over a dispute or the power to grant the remedy sought, then each Party hereby irrevocably consents to submit to, and waives
+16.2 Dispute Resolution
+ 
+any objection to, the jurisdiction of the United States District Court for the District of Delaware and the exclusive venue in that court with respect to such dispute.
+     
+16.3 Disputes with Third Party Beneficiaries
+          A Third Party will be permitted to enforce its rights as a third party beneficiary of this Agreement solely in defense to an Assertion by Broadcom (or a Subsidiary of Broadcom), unless the Third Party is unable (due to the nature or venue of such Assertion) to enforce its rights as a third party beneficiary of this Agreement (in which case the Third Party may enforce its rights as a third party beneficiary of this Agreement in accordance with Section 16.2, provided that such enforcement shall be solely for the purpose of defense against and relief from such Assertion, and shall not include the right to seek monetary damages in connection therewith).
+(a)
+          A Third Party will be permitted to enforce its rights as a third party beneficiary of this Agreement solely in defense to an Assertion by Qualcomm (or a Subsidiary of Qualcomm), unless the Third Party is unable (due to the nature or venue of such Assertion) to enforce its rights as a third party beneficiary of this Agreement (in which case the Third Party may enforce its rights as a third party beneficiary of this Agreement in accordance with Section 16.2, provided that such enforcement shall be solely for the purpose of defense against and relief from such Assertion, and shall not include the right to seek monetary damages in connection therewith).
+(b)
+     
+16.4 Resolution of Certain Disputes by Arbitration
+          If Broadcom and Qualcomm cannot agree on (i) whether patent infringement claims Asserted in Litigation by Qualcomm or a Subsidiary of Qualcomm against a Broadcom Customer are [**], (ii) whether patent infringement claims Asserted in Litigation by Broadcom or a Subsidiary of Broadcom against a Qualcomm Customer are [**], (iii) whether a [**] or a [**] is timely and sufficient, (iv) the amount of gross revenue received [**], (v) the amount of gross revenue received [**], (vi) the aggregate amount of [**], (vii) the aggregate amount of [**], (viii) a substitute provision for [**], and/or (ix) whether there has been a material breach that could result in termination under Section 13.1, whether such breach has been cured, and/or if such breach has not been cured, what further action must be taken to cure such breach to avoid termination under Section 13.1, then either Party may invoke the arbitration process set forth in this Section 16.4 by serving upon the other Party and simultaneously filing with the American Arbitration Association ("") a notice and demand for arbitration using a demand complaint, together with a request that the AAA provide within five (5) Business Days to each of the Parties a list containing the names and contact information for eight (8) candidates which are available for use as arbitrators consisting of former federal judges that have not been involved previously in overseeing or handling prior litigation or any other dispute involving the Parties and are available to start the arbitration hearing within thirty (30) Business Days after the notice and demand is filed.
+(a)
+AAA
+          The arbitration hearing shall start within thirty (30) Business Days after the date on which either Party provides written notice to the other Party that the first Party wishes to invoke this expedited arbitration process, and will be held in a city chosen by the Party that did not invoke such arbitration at the offices and in accordance with the applicable rules of AAA in
+(b)
+ 
+effect at that time. The sole issue or issues to be decided in arbitration will be those issues described in clauses (i) through (ix) of Section 16.4(a) above that are presented to the arbitrator. The arbitrator will not have the authority to resolve any other dispute arising under this Agreement unless the Parties expressly agree otherwise in writing. It is the intention of the Parties to proceed with any arbitration with the utmost expedition and in accordance with the schedule set forth in this Section. However, in the event any deadline set forth in Section 16.4 is not achieved, the Arbitrator, once selected, may make only such adjustments to the schedule as he or she may deem necessary, which must be consistent with the intent of the parties to complete the arbitration on an expedited basis.
+          Within three (3) Business Days after receiving the list of proposed arbitrators from the AAA, the Parties shall exchange with the other Party the name of the proposed candidates from the list that it desires. The Parties shall attempt to agree on a single arbitrator within two (2) Business Days of their exchange of the names of each of their proposed candidates. If either Party consents to a candidate nominated by the other Party, that candidate shall be the arbitrator. If the Parties cannot agree on a candidate within two (2) Business Days after such exchange, then, by that same deadline, the Parties will jointly request that the two nominees confer and select an arbitrator, from the original list of eight (8) candidate arbitrators provided by AAA (but without choosing either nominee as the arbitrator), within four (4) Business Days, except that each Party may exercise one (1) strike of a listed name no later than the time of such joint request. Should the two nominees fail to agree on the selection of the arbitrator within four (4) Business Days of such joint request, then they shall proceed down the list in alphabetical order and the first candidate (not previously stricken) that is willing to serve generally consistent with the schedule set out in this Section 16.4 shall be the arbitrator and the Parties shall be bound by that choice. The two nominees shall use their best efforts to complete the entire process of selecting an arbitrator within seven (7) Business Days of the date the joint request was first made.
+(c)
+          Unless the Parties agree in writing to additional and specific pre-hearing discovery, the only pre-hearing arbitration discovery will be (i) reasonably limited production of relevant and non-privileged documents, and (ii) the identification of witnesses to be called at the arbitration hearing, which identification must give the witness's name, general qualifications, and position, and a brief statement as to the general scope of the testimony to be given by the witness, with both activities described in (i) and (ii) to be completed fifteen (15) Business Days prior to the date on which the hearing is set to begin, unless the arbitrator determines at any time during the arbitration process that circumstances dictate that additional discovery is warranted.
+(d)
+          No more than three (3) days of arbitration hearings will be conducted and the arbitration hearing will be conducted on consecutive Business Days, unless the arbitrator determines that circumstances dictate that additional days of hearings are warranted. The arbitrator shall follow and apply the applicable law but need not follow the rules of evidence. The arbitrator shall enter his or her final decision no more than seven (7) Business Days following the completion of arbitration hearings. The arbitrator shall serve copies of his or her final decision on Broadcom and Qualcomm by overnight delivery, facsimile, and by email, but service will be sufficient if service is made by overnight delivery. The arbitrator's final decision will be final and binding on both Parties.
+(e)
+ 
+          Except for arbitration proceedings initiated pursuant to Section 16.4(a)(ix), the expenses of the arbitration, including the arbitrator's fees, expert witness fees, and attorneys' fees, may be apportioned between the Parties in any manner deemed appropriate by the arbitrator. Unless and until the arbitrator decides that one Party is to pay for all (or a share) of such expenses, each Party will bear its own attorneys' and expert witness fees and both Parties will share equally in the payment of the arbitrator's fees as and when billed by the arbitrator.
+(f)
+          In the event of any inconsistency between the rules of AAA and the procedures set forth in this Section 16.4 or in Section 7.9(b), the procedures set forth in this Section 16.4 or in Section 7.9(b) will control.
+(g)
+     . If any legal action or other legal proceeding relating to this Agreement (other than an arbitration proceeding initiated pursuant to Section 16.4(a)(i)-(viii)) or the enforcement of any provision of this Agreement is brought by either Party against the other Party, the prevailing Party (as determined by the court) will be entitled to recover reasonable attorneys fees, costs and disbursements (in addition to any other relief to which the prevailing Party may be entitled).
+16.5 Attorneys' Fees
+     . Except where necessary or appropriate to (i) avoid the expiration of any applicable statute of limitations period (unless, at the request of a Party, the other Party agrees immediately in writing to its tolling) or (ii) seek or obtain injunctive or other equitable relief to prevent any actual or potential harm, prior to a Party's initiation or commencement of Litigation against the other Party with respect to any dispute, claim, or controversy arising from or relating to this Agreement (each, a ""), the Parties shall attempt to resolve such Dispute according to the following process:
+16.6 Meet and Confer
+Dispute
+ 
+Nothing in this Section 16.6 will have the effect of lengthening or shortening any applicable notice or cure period in other Sections of this Agreement. This Section 16.6 will not apply to any issues subject to resolution by arbitration under Section 7.9(b) or any dispute, claim, or controversy that arises solely as a defense, including an affirmative defense or a counterclaim, to any Litigation. Additionally, nothing in this Section 16.6 will apply to claims a Party or any of its Subsidiaries may have against Third Parties.
+17.
+General
+     . Except for the covenants and rights expressly set forth in this Agreement, no other, further, or different covenants or other rights or immunities are granted, whether impliedly, by estoppel, or otherwise, under any patents or other intellectual property rights owned, controlled, or otherwise licensable by either Party. Any licenses that may be granted in the future pursuant to Section 7.4 or Section 7.5 do not include any right to sublicense.
+17.1 Reservation of Rights
+     
+17.2 Savings Clause for Third Party Patents
+          If any Patents acquired by a Party (or any Subsidiary of a Party) after the Effective Date are subject to restrictions on such Party's (or its Subsidiary's) right to license or grant non-Assert covenants with respect to such Patents, the rights granted in (or to be granted pursuant to) this Agreement with respect to such Patents are limited to the rights that such Party (or its Subsidiary) has the right to grant. This Section 17.2(a) shall not be construed as increasing the scope or application of any rights granted in this Agreement.
+(a)
+          If a Party or any of its Subsidiaries has any interest or rights in or to any patent with a priority date prior to the end of the Capture Period that is owned by or exclusively licensed to or from a Third Party and such Party does not have the right to grant releases, covenants not to Assert, and licenses, as applicable, of the full scope of the releases, covenants not to Assert, and licenses, as applicable, set forth in this Agreement, then the releases, covenants not to Assert, and licenses granted under such patent to the other Party hereunder will be of the broadest scope that such Party or any of its Subsidiaries has the right to grant within the scope of the releases, covenants not to Assert, and licenses, as applicable, set forth in this Agreement to the extent the same would be applicable if such patent had been owned by such Party without restrictions.
+(b)
+          If, after the Effective Date, either Party (or a Subsidiary of a Party) obtains rights in a patent owned by a Third Party (a "") that would otherwise qualify as a Broadcom Patent or Qualcomm Patent (as the case may be) but such Party would be required to make additional payments to such Third Party or an Affiliate of such Third Party as a result of granting a release, license, or non-Assert covenant under this Agreement, then such Third Party Patent will be excluded from the definition of Broadcom Patent or Qualcomm Patent, as the case may be. However, if a patent is excluded from the definition of Broadcom Patents or Qualcomm Patents by reason of payment obligations to a Third Party and would otherwise qualify as a Broadcom Patent or Qualcomm Patent, as applicable, the other Party (i.e., Broadcom in the case of Qualcomm Patents, and Qualcomm in the case of Broadcom Patents) will have the right (but not the obligation) to include such patent under the releases, covenants
+(c)
+Third Party Patent
+ 
+not to Assert, and licenses, as applicable, granted under this Agreement (in the same manner that would apply if such patent had been owned by such Party without payment obligations) at any time so long as such other Party agrees in writing to make all payments required to be made to the Third Party as a result of such releases, licenses, and covenants not to Assert and holds the granting Party harmless with respect to such payment obligations. Each Party shall confirm whether individual identified patents are subject to this Section 17.2(c), and provide the payment terms as applicable, in response to any reasonable requests by the other Party.
+          If a Party or any of its Subsidiaries has the right to enforce, or can control or cause the enforcement of, any patent that would qualify as a Broadcom Patent or Qualcomm Patent, as applicable, if owned by such Party or any of its Subsidiaries without restrictions, such Party shall not take any action (and shall ensure that none of its Subsidiaries takes any action) to enforce or consent to (unless contractually obligated to grant such consent) or cause the enforcement of such Patent against the other Party or any of its Subsidiaries or any of their respective products within the scope of the releases, covenants not to Assert, and licenses set forth in this Agreement, as applicable, that would apply if such patent had been owned by such Party without restrictions.
+(d)
+          If a Party or any of its Subsidiaries is entitled to receive any share of money damages, license fees, and/or royalties for a patent owned by a Third Party and cannot prevent the independent enforcement of such patent by the Third Party notwithstanding compliance with its obligations under subsection 17.2(d) above, then such Party and its Subsidiaries shall reimburse the other Party and its Subsidiaries for any such amounts which it actually receives if such patent is enforced against such other Party or any of its Subsidiaries or any of their respective products within the scope of the releases, covenants not to Assert, and licenses set forth in this Agreement, as applicable, that would apply if such patent would qualify as a Broadcom Patent or Qualcomm Patent, as applicable, if it had been owned by such Party without restrictions.
+(e)
+     . The covenants not to Assert patent infringement claims set forth in this Agreement are intended to and shall be treated as the equivalent of non-exclusive licenses solely for purposes of section 365(n) of Title 11, United States Code (the ""), and both such covenants and the licenses granted under or pursuant to this Agreement shall be deemed to be licenses of rights to "intellectual property" as defined under Section 101(35A) of the Bankruptcy Code. Accordingly, each Party acknowledges and agrees that if it, as a debtor in possession, or a trustee in bankruptcy in a case under the Bankruptcy Code (the "") rejects this Agreement, the other Party, as well as each of the intended third-party beneficiaries of such covenants, may elect to retain its rights under such covenants and licenses as provided in section 365(n) of the Bankruptcy Code. Each Party irrevocably waives all arguments and defenses arising under 11 U.S.C. 365(c)(1) or successor provisions to the effect that applicable law excuses the Party, other than the debtor, from accepting performance from or rendering performance to an entity other than the debtor or debtor in possession as a basis for opposing assumption of the Agreements by the other Party in a case under Chapter 11 of the Bankruptcy Code to the extent that such consent is required under 11 U.S.C.  365(c)(1) or any successor statute; provided, however, that the debtor in possession, or trustee-in-bankruptcy agrees in writing that any Change in Control (whether resulting from such bankruptcy proceeding or otherwise) shall remain subject to Section 14.4 above.
+17.3 Bankruptcy
+Bankruptcy Code
+Bankruptcy Trustee
+ 
+     . The relationship between the Parties as a result of this Agreement is that of independent contractors. Nothing in this Agreement shall be construed as creating any relationship of agency, partnership, joint venture, employment, or franchise between the Parties. No authority or right is granted to any Party to assume or create any obligation or responsibility, express or implied, on behalf of or in the name of the other Party.
+17.4 Independent Contractors
+     . Any notice or other communication required or permitted to be delivered to either Party under this Agreement must be in writing and will be deemed properly delivered, given and received (a) when delivered by hand, or (b) two Business Days after being sent by registered mail, by courier, or by express delivery service, in each case to the business address set forth beneath the name of such Party below:
+17.5 Notices
+All notices that are to be delivered by a Party to the other in accordance with the preceding terms must also be faxed to such other Party's facsimile number that is specified above. A Party may change its business address and facsimile number set forth above by written notice to the other Party in accordance with this Section 17.5.
+     . Each Party shall bear and pay its own fees, costs, and expenses incurred in connection with the negotiation, preparation, and review of this Agreement and all other documents delivered or to be delivered pursuant to this Agreement.
+17.6 Fees and Expenses
+     . Except as expressly provided herein, the rights and remedies of the Parties are cumulative (and not alternative). Each Party agrees that: (a) in the event of any breach or threatened breach by the other Party of any covenant, obligation, or other provision in this Agreement, the injured Party will be entitled (in addition to any other remedy that may be available to it) to (i) a decree or order of specific performance or mandamus to enforce the observance and performance of such covenant, obligation, or other provision, and (ii) an injunction restraining such breach or threatened breach; and (b) the injured Party will not be required to provide any bond or other security in connection with any such decree, order, or injunction or in connection with any related action or proceeding.
+17.7 Remedies Cumulative; Specific Performance
+ 
+     . Except as expressly provided in Sections 6.1, 6.2, 7.1, 7.2, and 14.2(b) and except for each Party's Subsidiaries, there are no intended third-party beneficiaries of this Agreement. Each Party's (and its Subsidiaries') Contractors, Distributors, and direct and indirect customers are intended third-party beneficiaries of this Agreement as provided (and solely to the extent provided) in Sections 6.1, 6.2, 7.1, and 7.2, subject to Section 16.3.
+17.8 Third Party Beneficiaries
+     . No failure on the part of either Party to exercise any power, right, privilege, or remedy under this Agreement, and no delay on the part of either Party in exercising any power, right, privilege, or remedy under this Agreement, will operate as a waiver of such power, right, privilege, or remedy, and no single or partial exercise of any such power, right, privilege, or remedy will preclude any other or further exercise thereof or of any other power, right, privilege, or remedy. Neither Party will be deemed to have waived any claim arising from this Agreement, or any power, right, privilege, or remedy under this Agreement, unless the waiver of such claim, power, right, privilege, or remedy is expressly set forth in a written instrument duly executed and delivered on behalf of such Party; and any such waiver will not be applicable or have any effect except in the specific instance in which it is given.
+17.9 Waiver
+     . If any provision of this Agreement, or the application of any such provision to any Person or set of circumstances, is determined to be invalid, unlawful, void, or unenforceable to any extent, then (a) the remainder of this Agreement, and the application of such provision to Persons or circumstances other than those as to which it is determined to be invalid, unlawful, void, or unenforceable, will not be impaired or otherwise affected, (b) this Agreement will continue to be valid and enforceable to the maximum extent permitted by law, and (c) subject to Section 7.9(b), the Parties shall promptly negotiate a replacement provision that achieves the Parties' original intent to the maximum extent allowed by law.
+17.10 Severability
+     . For the purpose of interpretation of this Agreement (including the Attachments, which are part of this Agreement), the word "including" (and variations thereof such as "include" and "includes") will not be deemed to be terms of limitation, but rather will be deemed to be followed by the words "without limitation," and the words "herein," "hereof," and "hereunder" refer to this Agreement as a whole. Unless expressly stated otherwise, references to a Section of this Agreement include all subsections thereof (e.g., Section 6 includes Sections 6.1 and 6.2). Each Party acknowledges that it has participated in the drafting of this Agreement and agrees, therefore, that no rule of strict construction shall be applied against either Party. All references to days (other than Business Days), months, quarters, and years in this Agreement mean, respectively, calendar days, calendar months, calendar quarters, and calendar years.
+17.11 Construction
+     . This Agreement may be executed in multiple counterparts, each of which will constitute an original and all of which, when taken together, will constitute one agreement.
+17.12 Counterparts
+     . Except as expressly provided herein, the terms and conditions of this Agreement can be modified or amended only by a writing signed by authorized representatives of both Parties that specifically refers to this Agreement and expressly states the Parties' intention to amend or modify it. For Qualcomm, authorized representatives are limited to the following: the CEO of Qualcomm, the President of Qualcomm, the President of Qualcomm Technology Licensing, and the General Counsel of Qualcomm.
+17.13 Amendments
+ 
+     . This Agreement sets forth the entire understanding and agreement of the Parties relating to the subject matter of this Agreement and supersedes all prior or contemporaneous agreements, communications, and understandings between the Parties, whether written or oral, relating to the subject matter of this Agreement; provided, however, that the Limited Mutual Release between Qualcomm and Broadcom dated March 14, 2007 shall remain in full force and effect.
+17.14 Entire Agreement
+ 
+, the Parties have caused this Agreement to be executed as of the Effective Date.
+In Witness Whereof
+ 
+For avoidance of doubt, the terms "MediaFLO Broadcast Standard," "Specified Mobile Broadcast Standards," "Other Broadcast Standards," and "WWAN Interface" are intended to be mutually exclusive and the terms "Component", "Device", and "End User Card" are intended to be mutually exclusive.
+ 
+ 
+As used in the above definition of the term "Broadcom Patents-in-Suit", "Broadcom patent" means any patent or patent application owned or licensable by Broadcom or any of its Subsidiaries at any time during the term of this Agreement. For the avoidance of doubt, the term "Broadcom Patents-in-Suit" excludes all patents, patent applications and patent claims other than those expressly identified in subsections (i) through (v) above.
+ 
+ 
+ 
+ 
+     (i) . For purposes of determining Covered Broadcom Functionality for Broadcom Protected Products incorporated into Portable Broadcast Devices, functionality implementing any one or more Specified Mobile Broadcast Standards will be treated as if it had not been incorporated into Broadcom Existing Components on or prior to the Introduction Deadline and therefore will not be Covered Broadcom Functionality; however, this shall not be construed as limiting functionality implementing any one or more Other Broadcast Standards in any Broadcom Existing Components from being included in Covered Broadcom Functionality for Other Broadcast Standards. In addition, this subsection (i) shall not be construed as limiting Covered Broadcom Functionality with respect to any Broadcom Protected Product that is not incorporated into a Portable Broadcast Device, whether or not implementing any one or more Specified Mobile Broadcast Standards and/or Other Broadcast Standards, including any Broadcom Protected Products incorporated into (x) set top boxes, digital video recorders, or other cable, satellite, or terrestrial television and FM/AM/HD/satellite radio receivers for use primarily at a user's premises; (y) cable or DSL modems, residential gateways, desktop computers, workstations, or servers; or (z) any Device designed to be powered primarily from an AC electrical outlet.
+Covered Broadcom Functionality for Portable Broadcast Devices
+     (i) . For purposes of determining Covered Qualcomm Functionality for Qualcomm Protected Products (a) incorporated into Portable Broadcast Devices, (b) that implement one or more Other Broadcast Standards in such Portable Broadcast Devices, and (c) that do not implement any portion of any MediaFLO Broadcast Standard, Covered Qualcomm Functionality will be limited solely to functionality implementing any one or more Other
+Covered Qualcomm Functionality for Portable Broadcast Devices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. Patent No. 5,425,051
+U.S. Patent No. 5,657,317
+U.S. Patent No. 6,374,311
+U.S. Patent No. 6,389,010
+U.S. Patent No. 6,583,675
+U.S. Patent No. 6,714,983
+U.S. Patent No. 6,847,686
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+     , Broadcom Corporation [or name of subsidiary if owned by subsidiary], a corporation organized under the laws of California [or subsidiary's state of incorporation] ("Broadcom" [or name of subsidiary and substitute for "Broadcom" throughout the assignment ]), is the owner, to the extent of Broadcom's actual knowledge, of certain patents and patent applications listed on Attachment 1; and WHEREAS Broadcom has agreed to assign its entire right, title, and interest in and to the patents and patent applications listed on hereto (collectively, the "Assigned Patents"), to QUALCOMM Incorporated, a corporation organized under the laws of Delaware ("Qualcomm").
+WHEREAS
+Attachment 1
+     , for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged:
+NOW, THEREFORE
+     Broadcom hereby sells, assigns, transfers and conveys to Qualcomm, and its successors and assigns, all of Broadcom's right, title, and interest in and to each of the Assigned Patents.
+     This sale, assignment, transfer, and conveyance to Qualcomm, and its successors and assigns, is made subject to the reservation of certain nonexclusive rights and licenses in favor of Broadcom and its Subsidiaries and all pre-existing nonexclusive rights and licenses granted under the Assigned Patents prior to the date of this Assignment, all as are set forth in Sections 8.2 and 8.3 of that certain Settlement and Patent License and Non-Assert Agreement between Qualcomm and Broadcom Corporation dated April 26, 2009 (the "Agreement"). As to such nonexclusive rights, Broadcom hereby acknowledges and agrees that, on and after the date of this Assignment, Broadcom does not retain any right under the Assigned Patents to: (i) commence or prosecute any patent infringement litigation or any other procedure for resolution of a claim of infringement of any of the Assigned Patents, whether administrative, judicial, arbitral or otherwise, including, but not limited to, any proceeding before the United States International Trade Commission or in any jurisdiction throughout the world, or (ii) exclude others from making, having made, selling, offering to sell, using, importing, or otherwise disposing of any products and/or services under the Assigned Patents, or (iii) license or sublicense others under the Assigned Patents beyond the certain pre-existing nonexclusive rights and licenses granted prior to the date of this Assignment. The rights assigned are limited to the Assigned Patents and do not grant or otherwise provide rights to practice or any other rights (whether expressly or by implication, estoppel or otherwise) under any other existing or future patent or patent application of Broadcom, irrespective of whether infringed by or necessary to practice any invention claimed or described in any of the Assigned Patents or otherwise.
+     Subject to the provisions of Sections 8.2 and 8.3 of the Agreement, this sale, assignment, transfer, and conveyance to Qualcomm, and its successors and assigns, also includes, without limitation, the right to enforce, assert, and sue for past, present, and future infringement on each of the foregoing Assigned Patents, and the right to recover and collect for past, present, and future damages with respect to such Assigned Patents.
+ 
+     , the undersigned has caused this Assignment of Patents to be executed on , 2009.
+IN WITNESS WHEREOF
+                    
+[
+for assignments of U.S. patents, include the following notary block; for patents in other jurisdictions, modify as necessary
+]
+STATE OF
+                    
+                    
+)
+)
+SS   COUNTY OF
+                    
+)
+     The foregoing Assignment of Patents was hereby acknowledged and executed before me on this ___ day of , by , the of , a corporation organized under the laws of , on behalf of such corporation.
+                    
+                    
+                    
+                     
+                    
+Notary Public: County,   My commission expires:
+                    
+                    
+                    
+                    
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+     On April ___, 2009, Complainant Broadcom Corporation ("Broadcom") and Respondent
+Qualcomm Incorporated ("Qualcomm") filed a joint motion to terminate the investigation.
+     Good cause having been shown, it is hereby ordered as follows:
+     1. The investigation is hereby terminated.
+     2. Paragraph 14 of the Protective Order entered on June 21, 2005, is hereby amended to read as follows:
+Within 60 calendar days of final termination of this investigation, each recipient of confidential business information that is subject to this order shall destroy all items containing confidential business information, including all work product, pleadings, motion papers, legal memoranda, correspondence, transcripts and exhibits containing confidential information and all copies thereof, with the exception of copies stored on back-up tapes or other disaster-recovery media, and shall certify to the supplier (or his counsel) that such destruction has taken place. With respect to confidential business information of a supplier that remains in back-up tapes and other disaster storage media of a recipient of such information, neither the recipient nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such
+ 
+CONFIDENTIAL EXECUTION COPY
+confidential business information available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the supplier of the confidential business information or such shorter period as required by court order, subpoena, or applicable law. This paragraph shall not apply to the Commission, including its investigative attorney, and the Administrative Law Judge, which shall retain such material pursuant to statutory requirements and for other recordkeeping purposes, but may destroy those additional copies in its possession which it regards as surplusage.
+          Notwithstanding the above paragraph, confidential business information may be transmitted to a district court pursuant to Commission Rule 210.5(c).
+     3. This Motion and the attached settlement agreement will be certified to the
+Commission with an initial determination terminating Qualcomm as Respondent.
+SO ORDERED.
+Date: April ___, 2009
+ 
+CONFIDENTIAL EXECUTION COPY
+     Complainant Broadcom Corporation ("Broadcom") and Respondent Qualcomm Incorporated ("Qualcomm") hereby move to terminate this investigation under 19 C.F.R.  210.21(b). In support of this motion, the parties state as follows.
+     1. On April ___, 2009, Broadcom and Qualcomm entered into a settlement and patent license and non-assert agreement. An original and six copies of the settlement and patent license and non-assert agreement, including both confidential and public versions, are attached hereto as Ex. A.
+     2. No other agreements, written or oral, express or implied, exist between the parties concerning the subject matter of this investigation.
+     3. As part of the their settlement and patent license and non-assert agreement, the parties have agreed that the Protective Order entered on June 21, 2005 in this investigation shall remain in full force and effect, but wish to amend the terms of the protective order that govern the treatment of confidential information following the termination of litigation
+     4. Accordingly, Broadcom and Qualcomm jointly request an Order providing that:
+          (a) The investigation is hereby terminated.
+          (b) Paragraph 14 of the Protective Order entered on June 21, 2005, is hereby amended to read as follows:
+ 
+CONFIDENTIAL EXECUTION COPY
+Within 60 calendar days of final termination of this investigation, each recipient of confidential business information that is subject to this order shall destroy all items containing confidential business information, including all work product, pleadings, motion papers, legal memoranda, correspondence, transcripts and exhibits containing confidential information and all copies thereof, with the exception of copies stored on back-up tapes or other disaster-recovery media, and shall certify to the supplier (or his counsel) that such destruction has taken place. With respect to confidential business information of a supplier that remains in back-up tapes and other disaster storage media of a recipient of such information, neither the recipient nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such confidential business information available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the supplier of the confidential business information or such shorter period as required by court order, subpoena, or applicable law. This paragraph shall not apply to the Commission, including its investigative attorney, and the Administrative Law Judge, which shall retain such material pursuant to statutory requirements and for other recordkeeping purposes, but may destroy those additional copies in its possession which it regards as surplusage.
+        Notwithstanding the above paragraph, confidential business information may be transmitted to a district court pursuant to Commission Rule 210.5(c).
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+[PROPOSED] ORDER OF DISMISSAL WITH PREJUDICE                                          Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     Having considered the parties' Joint Stipulation Regarding Dismissal With Prejudice, and good cause appearing therefor, the Court hereby orders the following:
+     1. This action, including all claims and counterclaims, is hereby dismissed with prejudice pursuant to Fed. R. Civ. P. 41(a)(1).
+     2. Each party shall bear its own costs and attorneys' fees.
+     3. The following orders, including any damages, interest, sanctions, attorneys' fees, and/or other form of relief awarded thereunder, are hereby vacated:
+     4. Qualcomm is entitled to cancel the April 11, 2008 Irrevocable Standby Letter of Credit No. 3092748 from Bank of America N.A. in favor of Broadcom.
+     5. Schenker Singapore (Pte) Ltd. is hereby authorized to release to Qualcomm the chips that it is holding in escrow in connection with this litigation.
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     6. Qualcomm is entitled to cancel Bond No: 105125181 and is hereby released from all of its obligations in connection with the Undertaking for Appeal, dated September 26, 2008 (Dkt. No. 1386).
+     7. Qualcomm is entitled to cancel Bond No: 105125196 and is hereby released from all of its obligations in connection with the Undertaking for Appeal, dated February 20, 2009 (Dkt. No. 1657).
+     8. Paragraph 21 of the Corrected Protective Order is hereby amended to read as follows:
+Within sixty (60) days of the termination of all of this action, whether through settlement or final judgment (including any and all appeals therefrom), each Receiving Party, including outside counsel for each party, will destroy all "CONFIDENTIAL BUSINESS INFORMATION" and all "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" produced by the Disclosing Party or Third Party, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, trial transcripts and trial exhibits admitted into evidence containing the Disclosing Party's or a Third Party's "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" and all copies thereof, with the exception of copies stored on back up tapes or other disaster recovery media. Within sixty (60) days of the date of settlement or final judgment, each Party shall serve the other Party with a certification stating that it has complied with its obligations under this paragraph. With respect to "CONFIDENTIAL BUSINESS INFORMATION" of "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" of a Disclosing Party that remains on back-up tapes and other disaster storage media of a Receiving Party, neither the Receiving Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Disclosing Party or such shorter period as required by court order, subpoena, or applicable law.
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+IT IS SO ORDERED.
+Dated: April ___, 2009
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+MARTHA K. GOODING (SBN 101638) goodingm@howrey.com HOWREY LLP 4 Park Plaza, Suite 1700 Irvine, CA 92614 Telephone: (949) 759-3935 Facsimile: (949) 721-6910
+EVAN R. CHESLER () echesler@cravath.com ROGER G. BROOKS () rgbrooks@cravath.com RICHARD J. STARK () rstark@cravath.com DARIN P. MCATEE () dmcatee@cravath.com CRAVATH, SWAINE & MOORE LLP 825 Eighth Avenue New York, NY 10019 Telephone: (212) 474-1000 Facsimile: (212) 474-3700
+pro hac vice
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Defendant and Counterclaimant QUALCOMMINCORPORATED
+(Additional attorneys appear on following page)
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+(Continued from previous page)
+MICHAEL G. ERMER (SBN 110496) mermer@irell.com IRELL & MANELLA LLP 840 Newport Center Drive, Suite 400 Newport Beach, CA 92660-6324 Telephone: (949) 760-0991 Facsimile: (949) 760-5200
+WILLIAM F. LEE () william.lee@wilmerhale.com DOMINIC E. MASSA () dominic.massa@wilmerhale.com RICHARD W. O'NEILL () richard.o'neill@wilmerhale.com WILMER CUTLER PICKERING HALE AND DORR LLP 60 State Street Boston, MA 02109 Telephone: (617) 526-6000 Facsimile: (617) 526-5000
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Plaintiff and Counterdefendant BROADCOM CORPORATION
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     WHEREAS, the parties have executed a Settlement and Patent License and Non-Assert Agreement (the "Agreement");
+     WHEREAS, the Agreement fully settles all claims arising from the patents-in-suit in this litigation, as well as all disputes arising from the permanent injunction issued in this litigation; and
+     WHEREAS, as part of the Agreement, the parties have agreed that the protective order issued in this litigation should remain in full force and effect, but wish to amend the terms of the protective order that govern the treatment of confidential information following the termination of litigation;
+     NOW, THEREFORE, the parties jointly stipulate to and request that the Court enter the following Order:
+     1. This action, including all claims and counterclaims, is hereby dismissed with prejudice pursuant to Fed. R. Civ. P. 41(a)(1).
+     2. Each party shall bear its own costs and attorneys' fees.
+     3. The following orders, including any damages, interest, sanctions, attorneys' fees, and/or other form of relief awarded thereunder, are hereby vacated:
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     4. Qualcomm is entitled to cancel the April 11, 2008 Irrevocable Standby Letter of Credit No. 3092748 from Bank of America N.A. in favor of Broadcom.
+     5. Schenker Singapore (Pte) Ltd. is hereby authorized to release to Qualcomm the chips that it is holding in escrow in connection with this litigation.
+     6. Qualcomm is entitled to cancel Bond No: 105125181 and is hereby released from all of its obligations in connection with the Undertaking for Appeal, dated September 26, 2008 (Dkt. No. 1386).
+     7. Qualcomm is entitled to cancel Bond No: 105125196 and is hereby released from all of its obligations in connection with the Undertaking for Appeal, dated February 20, 2009 (Dkt. No. 1657).
+     8. Paragraph 21 of the Corrected Protective Order is hereby amended to read as follows:
+Within sixty (60) days of the termination of all of this action, whether through settlement or final judgment (including any and all appeals therefrom), each Receiving Party, including outside counsel for each party, will destroy all "CONFIDENTIAL BUSINESS INFORMATION" and all "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" produced by the Disclosing Party or Third Party, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, trial transcripts and trial exhibits admitted into evidence containing the Disclosing Party's or a Third Party's "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" and all copies thereof, with the exception of copies stored on back up tapes or other disaster recovery media. Within sixty (60) days of the date of settlement or final judgment, each Party shall serve the other Party with a certification stating that it has complied with its obligations under this paragraph. With respect to "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" of a Disclosing Party that remains on back-up tapes and other disaster storage media of a Receiving Party, neither the Receiving Party nor its
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+consultants, experts, counsel or other party acting on its behalf shall make copies of any such "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Disclosing Party or such shorter period as required by court order, subpoena, or applicable law.
+Dated: April __, 2009
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+[PROPOSED] ORDER RE: JOINT STIPULATION OF DISMISSAL WITH PREJUDICE       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     Pursuant to Federal Rule of Civil Procedure 41(a)(1)(A)(ii), the parties have jointly moved to dismiss this action in its entirety and with prejudice, with each party bearing its own fees and costs. The motion is GRANTED.
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+MARTHA K. GOODING (SBN 101638) goodingm@howrey.com HOWREY LLP 4 Park Plaza, Suite 1700 Irvine, CA 92614 Telephone: (949) 759-3935 Facsimile: (949) 721-6910
+EVAN R. CHESLER () echesler@cravath.com ROGER G. BROOKS () rgbrooks@cravath.com RICHARD J. STARK () rstark@cravath.com DARIN P. MCATEE () dmcatee@cravath.com CRAVATH, SWAINE & MOORE LLP 825 Eighth Avenue New York, NY 10019 Telephone: (212) 474-1000 Facsimile: (212) 474-3700
+pro hac vice
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Defendant and Counterclaimant QUALCOMM INCORPORATED
+(Additional attorneys appear on following page)
+BROADCOM CORPORATION,
+               Plaintiff,
+     v.
+QUALCOMM INCORPORATED,
+               Defendant.
+CASE NO. SACV05-0468-JVS (RNBx)
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+(Continued from previous page)
+MICHAEL G. ERMER (SBN 110496) mermer@irell.com IRELL & MANELLA LLP 840 Newport Center Drive, Suite 400 Newport Beach, CA 92660-6324 Telephone: (949) 760-0991 Facsimile: (949) 760-5200
+WILLIAM F. LEE () william.lee@wilmerhale.com DOMINIC E. MASSA () dominic.massa@wilmerhale.com RICHARD W. O'NEILL () richard.o'neill@wilmerhale.com WILMER CUTLER PICKERING HALE AND DORR LLP 60 State Street Boston, MA 02109 Telephone: (617) 526-6000 Facsimile: (617) 526-5000
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Plaintiff and Counterdefendant BROADCOM CORPORATION
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     Pursuant to Federal Rule of Civil Procedure 41(a)(1)(A)(ii), plaintiff Broadcom Corporation and defendant Qualcomm Incorporated, through their respective undersigned attorneys, jointly move to dismiss the above-captioned action in its entirety and with prejudice, with each party bearing its own costs and fees.
+Dated: April ___, 2009
+JOINT STIPULATION REGARDING DISMISSAL WITH PREJUDICE                       Case No. SACV05-467-JVS(RNBx)
+ 
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+     Pursuant to the parties' Joint Stipulation of Dismissal with Prejudice, the Court hereby orders as follows:
+     1. This action, including Broadcom's claims and Qualcomm's counterclaims, is hereby dismissed with prejudice pursuant to FRCP 41(a)(1), with each party to bear its own costs and fees.
+     2. Paragraph 20 of the Protective Order entered on March 13, 2006, is hereby amended to read as follows:
+The provisions of this Order shall continue in effect with respect to any Material designated as "Confidential" or "Highly Confidential" until expressly released by the Designating Party of such Material. Unless otherwise agreed by the Designating Party, within 60 calendar days of the final determination of this action, each party shall destroy all Material designated as "Confidential" or "Highly Confidential" of any other party in its possession or control, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, transcripts and exhibits containing "Confidential" or "Highly Confidential" information and all copies thereof, with the exception of copies stored on back-up tapes or other disaster-recovery media. Also within 60 calendar days of the final determination of this action, each party shall serve the other party with a certification stating that it has complied with its obligations under this paragraph. With respect to Material designated as "Confidential" or "Highly Confidential" by a Designating Party that remains on back-up tapes and other disaster storage media of a Receiving Party, neither the Receiving Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such "Confidential" or "Highly Confidential" Material available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Designating Party or such shorter period as required by court order, subpoena, or applicable law. For purposes of this Order, the "final determination of this action" shall be: (i) full settlement of all claims in this Litigation; or the later of (ii) final judgment herein after the completion and exhaustion of all appeals, rehearings, remands, trials and reviews, if any, of this action; or (iii) the expiration of all time limits under the applicable law for the filing of or application for all appeals, rehearings, remands, trials or reviews of this action, including the time limits for the filing of any motions or applications for extension of time pursuant to applicable law. Unless otherwise ordered by the Court, the terms of this Order shall survive and remain in full force after the termination of this lawsuit and the Court shall have jurisdiction over the parties, their attorneys, and all persons to whom Material designated as "Confidential" or Highly Confidential" has been disclosed for the purpose of enforcing the terms of this Order and/or redressing any violation thereof.
+IT IS SO ORDERED.
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+     Pursuant to Local Civil Rule 7.2, Broadcom Corporation ("Broadcom") and Qualcomm Incorporated ("Qualcomm"), Qualcomm"), through their respective undersigned attorneys, hereby jointly move for approval of the following stipulation:
+     WHEREAS Broadcom and Qualcomm have reached a settlement of this action; and
+     WHEREAS, as part of the their Settlement and Patent License and Non-Assert Agreement, the parties have agreed that the Order Governing the Production and Exchange of Confidential Material ("Protective Order") entered in this action shall remain in full force and effect, but wish to amend the terms of the protective order that govern the treatment of confidential information following the termination of litigation;
+     NOW, THEREFORE, the parties jointly stipulate to and request that the Court enter the following Order:
+     1. This action, including Broadcom's claims and Qualcomm's counterclaims, is hereby dismissed with prejudice pursuant to FRCP 41(a)(1), with each party to bear its own costs and fees.
+     2. Paragraph 20 of the Protective Order entered on March 13, 2006, is hereby amended to read as follows:
+The provisions of this Order shall continue in effect with respect to any Material designated as "Confidential" or "Highly Confidential" until expressly released by the Designating Party of such Material. Unless otherwise agreed by the Designating Party, within 60 calendar days of the final determination of this action, each party shall destroy all Material designated as "Confidential" or "Highly Confidential" of any other party in its possession or control, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, transcripts and exhibits containing "Confidential" or "Highly Confidential" information and all copies thereof, with the exception of copies stored on back-up tapes or other disaster-recovery media. Also within 60 days of the final determination of this action, each party shall serve the other party with a certification stating that it has complied with its obligations under this paragraph. With respect to Material designated as "Confidential" or "Highly Confidential" by a Designating Party that remains on back-up tapes and other disaster storage
+ 
+CONFIDENTIAL EXECUTION COPY
+media of a Receiving Party, neither the Receiving Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such "Confidential" or "Highly Confidential" Material available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Designating Party or such shorter period as required by court order, subpoena, or applicable law. For purposes of this Order, the "final determination of this action" shall be: (i) full settlement of all claims in this Litigation; or the later of (ii) final judgment herein after the completion and exhaustion of all appeals, rehearings, remands, trials and reviews, if any, of this action; or (iii) the expiration of all time limits under the applicable law for the filing of or application for all appeals, rehearings, remands, trials or reviews of this action,
+including the time limits for the filing of any motions or applications for extension of time pursuant to applicable law. Unless otherwise ordered by the Court, the terms of this Order shall survive and remain in full force after the termination of this lawsuit and the Court shall have jurisdiction over the parties, their attorneys, and all persons to whom Material designated as "Confidential" or Highly Confidential" has been disclosed for the purpose of enforcing the terms of this Order and/or redressing any violation thereof.
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+     IT IS HEREBY STIPULATED AND AGREED that, pursuant to Fed. R. App. P. 42(b), the above-captioned consolidated appeals and cross-appeals, consisting of Docket Nos. 2009-1015, - -1116, -1117, -1160, -1166 and -1190, are hereby dismissed with prejudice and without costs to either party.
+April___, 2009.
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+SO ORDERED:
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+CONFIDENTIAL EXECUTION COPY
+     Pursuant to Local Civil Rule 7.2, Broadcom Corporation ("Broadcom") and Qualcomm Incorporated ("Qualcomm"), Qualcomm"), through their respective undersigned attorneys, hereby jointly move for approval of the following stipulation:
+     WHEREAS Broadcom and Qualcomm have reached a settlement of this action;
+     NOW, THEREFORE, the parties jointly stipulate to and request that the Court enter the following Order:
+          This action, including Broadcom's claims and Qualcomm's counterclaims, is hereby dismissed with prejudice pursuant to FRCP 41(a)(1), with each party to bear its own costs and fees.
+ 
+CONFIDENTIAL EXECUTION COPY
+ 
+     Pursuant to Federal Rule of Civil Procedure 41(a)(1)(A)(ii), the parties have jointly moved to enter a stipulation dismissing this action in its entirety and with prejudice, with each party bearing its own fees and costs. The motion is GRANTED.
+IT IS SO ORDERED.
+ 
+CONFIDENTIAL EXECUTION COPY
+[PROPOSED] ORDER OF DISMISSAL WITH PREJUDICE
+Case No. SACV05-467-JVS (RNBx)
+ 
+CONFIDENTIAL EXECUTION COPY
+     Having considered the parties' Joint Stipulation Regarding Dismissal With Prejudice, and good cause appearing therefor, the Court hereby orders the following:
+ 
+CONFIDENTIAL EXECUTION COPY
+Within sixty (60) days of the termination of all of this action, whether through settlement or final judgment (including any and all appeals therefrom), each Receiving Party, including outside counsel for each party, will destroy all "CONFIDENTIAL BUSINESS INFORMATION" and all "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" produced by the Disclosing Party or Third Party, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, trial transcripts and trial exhibits admitted into evidence containing the Disclosing Party's or a Third Party's "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" and all copies thereof, with the exception of copies stored on back up tapes or other disaster recovery media. Within sixty (60) days of the date of settlement or final judgment, each Party shall serve the other Party with a certification stating that it has complied with its obligations under this paragraph. With respect to "CONFIDENTIAL BUSINESS INFORMATION" of "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" of a
+ 
+CONFIDENTIAL EXECUTION COPY
+Disclosing Party that remains on back-up tapes and other disaster storage media of a Receiving Party, neither the Receiving Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Disclosing Party or such shorter period as required by court order, subpoena, or applicable law.
+IT IS SO ORDERED.
+Dated: April ___, 2009
+ 
+CONFIDENTIAL EXECUTION COPY
+MARTHA K. GOODING (SBN 101638) goodingm@howrey.com HOWREY LLP 4 Park Plaza, Suite 1700 Irvine, CA 92614 Telephone: (949) 759-3935 Facsimile: (949) 721-6910
+EVAN R. CHESLER () echesler@cravath.com ROGER G. BROOKS () rgbrooks@cravath.com RICHARD J. STARK () rstark@cravath.com DARIN P. MCATEE () dmcatee@cravath.com CRAVATH, SWAINE & MOORE LLP 825 Eighth Avenue New York, NY 10019 Telephone: (212) 474-1000 Facsimile: (212) 474-3700
+pro hac vice
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Defendant and Counterclaimant QUALCOMM INCORPORATED
+(Additional attorneys appear on following page)
+ 
+CONFIDENTIAL EXECUTION COPY
+(Continued from previous page)
+MICHAEL G. ERMER (SBN 110496) mermer@irell.com IRELL & MANELLA LLP 840 Newport Center Drive, Suite 400 Newport Beach, CA 92660-6324 Telephone: (949) 760-0991 Facsimile: (949) 760-5200
+WILLIAM F. LEE () william.lee@wilmerhale.com DOMINIC E. MASSA () dominic.massa@wilmerhale.com RICHARD W. O'NEILL () richard.o'neill@wilmerhale.com WILMER CUTLER PICKERING HALE AND DORR LLP 60 State Street Boston, MA 02109 Telephone: (617) 526-6000 Facsimile: (617) 526-5000
+pro hac vice
+pro hac vice
+pro hac vice
+Attorneys for Plaintiff and Counterdefendant BROADCOM CORPORATION
+ 
+CONFIDENTIAL EXECUTION COPY
+     WHEREAS, the parties have executed a Settlement and Patent License and Non-Assert Agreement (the "Agreement");
+     WHEREAS, the Agreement fully settles all claims arising from the patents-in-suit in this litigation, as well as all disputes arising from the permanent injunction issued in this litigation; and
+     WHEREAS, as part of the Agreement, the parties have agreed that the protective order issued in this litigation should remain in full force and effect, but wish to amend the terms of the protective order that govern the treatment of confidential information following the termination of litigation;
+     NOW, THEREFORE, the parties jointly stipulate to and request that the Court enter the following Order:
+ 
+CONFIDENTIAL EXECUTION COPY
+Within sixty (60) days of the termination of all of this action, whether through settlement or final judgment (including any and all appeals therefrom), each Receiving Party, including outside counsel for each party, will destroy all "CONFIDENTIAL BUSINESS INFORMATION" and all "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" produced by the Disclosing Party or Third Party, as well as all work product, pleadings, motion papers, legal memoranda, correspondence, trial transcripts and trial exhibits admitted into evidence containing the Disclosing Party's or a Third Party's "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" and all copies thereof, with the
+ 
+CONFIDENTIAL EXECUTION COPY
+exception of copies stored on back up tapes or other disaster recovery media. Within sixty (60) days of the date of settlement or final judgment, each Party shall serve the other Party with a certification stating that it has complied with its obligations under this paragraph. With respect to "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" of a Disclosing Party that remains on back-up tapes and other disaster storage media of a Receiving Party, neither the Receiving Party nor its consultants, experts, counsel or other party acting on its behalf shall make copies of any such "CONFIDENTIAL BUSINESS INFORMATION" or "OUTSIDE ATTORNEYS' EYES ONLY INFORMATION" available to any person for any purpose other than backup or disaster recovery unless compelled by law and, in that event, only after thirty (30) days prior notice to the Disclosing Party or such shorter period as required by court order, subpoena, or applicable law.
+Dated: April __, 2009
+ 
+Qualcomm Contacts: Emily Kilpatrick, Corporate Communications Phone: 1-858-845-5959 Email: corpcomm@qualcomm.com
+John Gilbert, Investor Relations Phone: 1-858-658-4813 Email: ir@qualcomm.com
+Broadcom Contacts: Broadcom Business Press Contact Bill Blanning Vice President, Global Media Relations 949-926-5555 blanning@broadcom.com
+Broadcom Financial Analyst Contact T. Peter Andrew Vice President, Corporate Communications 949-926-5663
+andrewtp@broadcom.com
+SAN DIEGO AND IRVINE, CALIF.  April xx, 2009  Qualcomm Incorporated (Nasdaq: QCOM) and Broadcom Corporation (Nasdaq: BRCM) today announced that they have entered into a settlement and multi-year patent agreement. The agreement will result in the dismissal
+ 
+with prejudice of all litigation between the companies, including all patent infringement claims in the International Trade Commission and U.S. District Court in Santa Ana as well as the withdrawal by Broadcom of its complaints to the European Commission and the Korea Fair Trade Commission. Under the agreement, the companies have granted certain rights to each other under their respective patent portfolios. Qualcomm will pay Broadcom $891 million over a four-year period. The terms of this agreement will not result in any change to Qualcomm's 3G (eg., CDMA2000, WCDMA and TD-SCDMA) and 4G (eg., LTE and WiMAX) licensing revenue model.
+The terms of the agreement include, among other elements:
+ 
+Other terms of the agreement are confidential.
+"We believe that this resolution is positive for both Qualcomm and Broadcom, our customers, our partners and the overall industry," said Dr. Paul E. Jacobs, chairman and CEO of Qualcomm, and Scott A. McGregor, president and CEO of Broadcom.
+"The settlement will allow us to direct our full attention and resources to continuing to innovate, improving our competitive position in this economic downturn, and growing demand for wireless products and services," said Jacobs. "I am pleased that we have achieved this important settlement. At a time when the wireless industry should be focused on moving forward, the agreement removes uncertainty for Qualcomm and its customers."
+"Today's settlement allows both companies to move on with their business and compete in the semiconductor sector as two of its innovation leaders," said McGregor. "We have set aside our differences while addressing the needs of our customers, our shareholders, and the industry. In addition, the companies have worked together to achieve their mutual goals of improving the competitive dynamics of the industry."
+About Qualcomm
+ 
+     Qualcomm Incorporated (Nasdaq: QCOM) is a leader in developing and delivering innovative digital wireless communications products and services based on CDMA and other advanced technologies. Headquartered in San Diego, Calif., Qualcomm is included in the S&P 100 Index, the S&P 500 Index and is a 2009 FORTUNE 500 company. For more information, please visit .
+www.qualcomm.com
+     About Broadcom
+Broadcom Corporation is a major technology innovator and global leader in semiconductors for wired and wireless communications. Broadcom products enable the delivery of voice, video, data and multimedia to and throughout the home, the office and the mobile environment. We provide the industry's broadest portfolio of state-of-the-art system-on-a-chip and software solutions to manufacturers of computing and networking equipment, digital entertainment and broadband access products, and mobile devices. These solutions support our core mission: Connecting everything.
+Broadcom is one of the world's largest fabless semiconductor companies, with 2008 revenue of $4.66 billion, holds over 3,300 U.S. and over 1,300 foreign patents, and has more than 7,500 additional pending patent applications, and one of the broadest intellectual property portfolios addressing both wired and wireless transmission of voice, video, data and multimedia.
+Broadcom is a FORTUNE 500 company headquartered in Irvine, Calif., and has offices and research facilities in North America, Asia and Europe. Broadcom may be contacted at +1.949.926.5000 or at .
+www.broadcom.com
+Cautions regarding Forward Looking Statements:
+All statements included or incorporated by reference in this release, other than statements or characterizations of historical fact, are forward-looking statements. These forward-looking statements are based on Qualcomm's and Broadcom's current expectations, estimates and
+ 
+projections about their respective businesses, respective management's beliefs, and certain assumptions made by Qualcomm and Broadcom, all of which are subject to change. Forward-looking statements can often be identified by words such as "anticipates," "expects," "intends," "plans," "predicts," "believes," "seeks," "estimates," "may," "will," "should," "would," "could," "potential," "continue," "ongoing," similar expressions, and variations or negatives of these words. Examples of such forward-looking statements include, but are not limited to, references to the anticipated benefits to Qualcomm, Broadcom and other third parties related to the settlement and references to the effect of the agreement on Qualcomm's 3G and 4G licensing revenue model. These forward-looking statements are not guarantees of future results and are subject to risks, uncertainties and assumptions that could cause actual results to differ materially and adversely from those expressed in any forward-looking statement.
+     The respective Annual Reports on Form 10-K, subsequent Quarterly Reports on Form 10-Q, recent Current Reports on Form 8-K, and other Securities and Exchange Commission filings, of Qualcomm and Broadcom discuss important risk factors that could affect their respective businesses, results of operations and financial condition. The forward-looking statements in this release speak only as of this date. Neither Qualcomm nor Broadcom undertakes any obligation to revise or update publicly any forward-looking statement for any reason, except as required by law. All statements made by or concerning Qualcomm or Broadcom, respectively, are made solely by such applicable party and such party is solely responsible for the content of such statements
+     ###
+     Qualcomm is a registered trademark of Qualcomm Incorporated. Broadcom, the pulse logo, Connecting everything, and the Connecting everything logo are among the trademarks of Broadcom Corporation and/or its affiliates in the United States, certain other countries and/or the EU. All other trademarks are the property of their respective owners.
+ 
+:
+Broadcom
+Pursuant to its settlement agreement with Qualcomm Incorporated, Broadcom is required to notify you that the sale, license, or other transfer of certain Broadcom products to Buyer does not convey to Buyer any intellectual property rights (including patent rights) of Qualcomm Incorporated or any of its affiliates in such Broadcom products and therefore Buyer should not assume that any such sale, license, or other transfer conveys any such rights to Buyer. Buyer should contact Broadcom with any questions it may have regarding whether Broadcom's sale, license, or other transfer of specific Broadcom products to Buyer conveys to Buyer any rights to Qualcomm intellectual property. For those Broadcom products for which this sale, license, or other transfer does not convey to Buyer any intellectual property rights of Qualcomm Incorporated or any of its affiliates, neither Qualcomm Incorporated nor any of its affiliates has consented to or authorized (i) the incorporation of such Broadcom products in, or the use of such Broadcom products in combination with, any other products or components, (ii) Buyer's sale of any products incorporating such Broadcom products, or (iii) the distribution in any jurisdiction of such Broadcom products where the distribution of such Broadcom products is deemed to be a putting on the market with Qualcomm Incorporated's consent or authorization so as to effectuate an exhaustion of rights of any patents. The foregoing shall not modify or abrogate Buyer's obligations under any existing license agreement between Buyer and Qualcomm Incorporated (or any of its affiliates), including but not limited to Buyer's obligation to pay all royalties and fees specified thereunder, and shall not expand or alter Buyer's rights thereunder.
+:
+Qualcomm
+Pursuant to its settlement agreement with Broadcom Corporation, Qualcomm is required to notify you that the sale, license, or other transfer of certain Qualcomm products to Buyer does not convey to Buyer any intellectual property rights (including patent rights) of Broadcom Corporation or any of its affiliates in such Qualcomm products and therefore Buyer should not assume that any such sale, license, or other transfer conveys any such rights to Buyer. Buyer should contact Qualcomm with any questions it may have regarding whether Qualcomm's sale, license, or other transfer of specific Qualcomm products to Buyer conveys to Buyer any rights to Broadcom intellectual property. For those Qualcomm products for which this sale, license, or other transfer does not convey to Buyer any intellectual property rights of Broadcom Corporation or any of its affiliates, neither Broadcom Corporation nor any of its affiliates has consented to or authorized (i) the incorporation of such Qualcomm products in, or the use of such Qualcomm products in combination with, any other products or components, (ii) Buyer's sale of any products incorporating such Qualcomm products, or (iii) the distribution in any jurisdiction of such Qualcomm products where the distribution of such Qualcomm products is deemed to be a putting on the market with Broadcom Corporation's consent or authorization so as to effectuate an exhaustion of rights of any patents. The foregoing shall not modify or abrogate Buyer's obligations under any existing license agreement between Buyer and Broadcom Corporation (or any of its affiliates), including but not limited to Buyer's obligation to pay all royalties and fees specified thereunder, and shall not expand or alter Buyer's rights thereunder.
+ 
+All payments shall be made in U.S. dollars by means of a wire transfer to the following account:
+Bank Name: [**] SWIFT code: [**] ABA #: [**]
+Account Name: [**] Account Number: [**]
+Broadcom may update the foregoing account information for a particular payment upon written notice to Qualcomm provided that such written notice is delivered to Qualcomm at least ten (10) Business Days before the due date of such payment.
+Past due amounts shall be subject to a monthly service charge of [**] per month of the unpaid balance or the maximum rate allowable by law, whichever is less. In addition to all other sums payable hereunder, Qualcomm shall pay all reasonable out-of-pocket expenses incurred by Broadcom, including fees and disbursements of counsel, in connection with collection and other enforcement proceeding resulting therefrom. This obligation shall in no way limit any other remedies available to either Party.
+ 
+:
+Permitted Disclosure by Broadcom
+Following the delivery of [**], Broadcom may disclose to the Broadcom Customer [**]. Upon Qualcomm's written request, Broadcom shall promptly, and in any event within five (5) Business Days, inform Qualcomm of which of the foregoing ((a), (b), or (c)) Broadcom disclosed to the Broadcom Customer.
+:
+Permitted Disclosure by Qualcomm
+Following the delivery of [**], Qualcomm may disclose to the Qualcomm Customer [**]. Upon Broadcom's written request, Qualcomm shall promptly, and in any event within five (5) Business Days, inform Broadcom of which of the foregoing ((a), (b), or (c)) Qualcomm disclosed to the Qualcomm Customer.
+ 
+G.718
+AMR
+AMR-WB
+EVRC
+EVRC-B (4GV)
+EVRC-WB (4GV-WB)
+SMV
+VMR-WB
+QCELP8k
+QCELP13k
+
+Exhibit 99.1
+Qualcomm Contacts: Christine Trimble, Corporate Communications Phone: 1-858-845-5959 Email: corpcomm@qualcomm.com
+John Gilbert, Investor Relations Phone: 1-858-658-4813 Email: ir@qualcomm.com
+Broadcom Contacts: Broadcom Business Press Contact Bill Blanning Vice President, Global Media Relations Phone: 1-949-926-5555 Email: blanning@broadcom.com
+Broadcom Financial Analyst Contact T. Peter Andrew Vice President, Corporate Communications Phone: 1- 949-926-5663 Email: andrewtp@broadcom.com
+SAN DIEGO AND IRVINE, CALIF.  April 26, 2009  Qualcomm Incorporated (Nasdaq: QCOM) and Broadcom Corporation (Nasdaq: BRCM) today announced that they have entered into a settlement and multi-year patent agreement. The agreement will result in the dismissal with prejudice of all litigation between the companies, including all patent infringement claims in the International Trade Commission and U.S. District Court in Santa Ana, as well as the withdrawal by Broadcom of its complaints to the European Commission and the Korea Fair Trade Commission. Under the agreement, the companies have granted certain rights to each other under their respective patent portfolios. Qualcomm will pay Broadcom $891 million over a four-year period. The terms of this agreement will not result in any change to Qualcomm's 3G
+ 
+Qualcomm and Broadcom Reach Settlement and Patent Agreement Page 2
+(e.g., CDMA2000, WCDMA and TD-SCDMA) and 4G (e.g., LTE and WiMAX) licensing revenue model.
+The terms of the agreement include, among other elements:
+Other terms of the agreement are confidential.
+ 
+Qualcomm and Broadcom Reach Settlement and Patent Agreement Page 3
+"We believe that this resolution is positive for both Qualcomm and Broadcom, our customers, our partners and the overall industry," said Dr. Paul E. Jacobs, chairman and CEO of Qualcomm, and Scott A. McGregor, president and CEO of Broadcom.
+"The settlement will allow us to direct our full attention and resources to continuing to innovate, improving our competitive position in this economic downturn, and growing demand for wireless products and services," Jacobs said. "I am pleased that we have achieved this important settlement. At a time when the wireless industry should be focused on moving forward, the agreement removes uncertainty for Qualcomm and its customers."
+"Today's settlement allows both companies to move on with their business and compete in the semiconductor sector as two of its innovation leaders," McGregor said. "We have set aside our differences while addressing the needs of our customers, our shareholders and the industry. In addition, the companies have worked together to achieve their mutual goals of improving the competitive dynamics of the industry."
+About Qualcomm
+Qualcomm Incorporated (Nasdaq: QCOM) is a leader in developing and delivering innovative digital wireless communications products and services based on CDMA and other advanced technologies. Headquartered in San Diego, Calif., Qualcomm is included in the S&P 100 Index, the S&P 500 Index and is a 2009 FORTUNE 500 company. For more information, please visit .
+www.qualcomm.com
+ 
+Qualcomm and Broadcom Reach Settlement and Patent Agreement Page 4
+About Broadcom
+Broadcom Corporation is a major technology innovator and global leader in semiconductors for wired and wireless communications. Broadcom products enable the delivery of voice, video, data and multimedia to and throughout the home, the office and the mobile environment. We provide the industry's broadest portfolio of state-of-the-art system-on-a-chip and software solutions to manufacturers of computing and networking equipment, digital entertainment and broadband access products, and mobile devices. These solutions support our core mission: Connecting everything.
+Broadcom is one of the world's largest fabless semiconductor companies, with 2008 revenue of $4.66 billion, holds over 3,300 U.S. and over 1,300 foreign patents, and has more than 7,500 additional pending patent applications, and one of the broadest intellectual property portfolios addressing both wired and wireless transmission of voice, video, data and multimedia.
+Broadcom is a FORTUNE 500company headquartered in Irvine, Calif., and has offices and research facilities in North America, Asia and Europe. Broadcom may be contacted at +1.949.926.5000 or at .
+www.broadcom.com
+Cautions regarding Forward Looking Statements:
+All statements included or incorporated by reference in this release, other than statements or characterizations of historical fact, are forward-looking statements. These forward-looking statements are based on Qualcomm's and Broadcom's current expectations, estimates and projections about their respective businesses, respective management's beliefs, and certain assumptions made by Qualcomm and Broadcom, all of which are subject to change. Forward-looking statements can often be identified by words such as "anticipates," "expects," "intends," "plans," "predicts," "believes," "seeks," "estimates," "may," "will," "should," "would," "could," "potential," "continue," "ongoing," similar expressions, and variations or negatives of these words. Examples of such forward-looking statements include, but are not limited to, references to the anticipated benefits to Qualcomm, Broadcom and other third parties related to the settlement and references to the effect of the agreement on Qualcomm's 3G and 4G licensing revenue model. These forward-looking statements are not guarantees of future results and are subject to risks, uncertainties and assumptions that could cause actual results to differ materially and adversely from those expressed in any forward-looking statement.
+ 
+Qualcomm and Broadcom Reach Settlement and Patent Agreement Page 5
+The respective Annual Reports on Form 10-K, subsequent Quarterly Reports on Form 10-Q, recent Current Reports on Form 8-K, and other Securities and Exchange Commission filings, of Qualcomm and Broadcom discuss important risk factors that could affect their respective businesses, results of operations and financial condition. The forward-looking statements in this release speak only as of this date. Neither Qualcomm nor Broadcom undertakes any obligation to revise or update publicly any forward-looking statement for any reason, except as required by law. All statements made by or concerning Qualcomm or Broadcom, respectively, are made solely by such applicable party and such party is solely responsible for the content of such statements.
+Qualcomm is a registered trademark of Qualcomm Incorporated. CDMA2000 is a registered trademark of the Telecommunications Industry Association (TIA USA). Broadcom, the pulse logo, Connecting everything, and the Connecting everything logo are among the trademarks of Broadcom Corporation and/or its affiliates in the United States, certain other countries and/or the EU. All other trademarks are the property of their respective owners.
+
+

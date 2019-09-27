@@ -1,0 +1,1910 @@
+FILE:CSC/CSC-8K-20110322162504.txt.gz
+EVENTS:	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+Item 2.03.  Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant
+ 
+On the Effective Date, in connection with entering into the Credit Agreement, CSC terminated its existing Credit Agreement, dated July 12, 2007 (the "Old Credit Agreement"), with the lenders listed therein.
+On March 18, 2011 (the Effective Date), Computer Sciences Corporation entered into a Credit Agreement, dated as of such date, among CSC, the financial institutions listed therein, and Citibank, N. A. ("Citibank"), as administrative agent (the "Credit Agreement").
+ 
+ 
+In addition, the Credit Agreement requires CSC to pay a fee on the aggregate amount of the facility.
+The Credit Agreement is a $1.5 billion, four year, unsecured revolving credit facility maturing on March 18, 2015, subject to extension as provided therein.  At CSC's option, advances made to it under the Credit Agreement will be available at the following rates:  (1) with respect to any Base Rate Advance, a rate equal to the Applicable Margin  plus the highest of (a) the Base Rate, (b) the Federal funds rate plus 0.50% and (c) one month LIBOR plus 1.00%; and (2) with respect to any Eurodollar Rate Advance, a rate equal to LIBOR plus the Applicable Margin.  The interest rates payable under Base Rate Advances will fluctuate daily, and the interest rates payable under the Eurodollar Rate Advances will be fixed for interest periods of 1, 2, 3 or 6 months.  Interest is payable quarterly on Base Rate Advances and at the end of each interest period for each Eurodollar Rate Advance, but no less frequently than quarterly.  
+ 
+ 
+The Credit Agreement contains representations, warranties, and covenants customary for facilities of this type, as well as customary events of default, including a cross-default to payment defaults on principal payments aggregating $125,000,000 or to other events if the effect is to accelerate or permit acceleration of such debt.  In addition, under the Credit Agreement, CSC is required to maintain a ratio of EBITDA to interest expense no less than 3:00 to 1:00 and a ratio of total debt to EBITDA of no more than 3:00 to 1:00.
+ 
+ 
+On the Effective Date, no borrowings were outstanding under either the Old Credit Agreement or the Credit Agreement. The use of proceeds from the Credit Agreement may be used for commercial paper backup, acquisitions and general corporate purposes.
+ 
+ 
+The foregoing summary of the material terms of the Credit Agreement is qualified in its entirety by reference to the full text of the Credit Agreement, which is filed as Exhibit 10.1 to this Current Report on Form 8-K.  Capitalized terms used but not defined herein have the meanings ascribed to such terms in the Credit Agreement.
+ 
+ 
+Item 9.01.  Financial Statements and Exhibits
+Exhibit
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+ 
+ 
+ 
+ 
+Exhibit
+10.1                  Credit Agreement dated as of March 18, 2011, among CSC, the financial institutions listed therein, and Citibank, N. A., as administrative agent.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This CREDIT AGREEMENT is entered into as of March 18, 2011, among Computer Sciences Corporation, a Nevada corporation (the ), the financial institutions (the ) listed on Schedule II hereof, and Citibank, N.A. (), as administrative agent (the ) for the Lenders hereunder.
+Borrower
+Banks
+Citibank
+Agent
+ 
+In consideration of the premises and the agreements, provisions and covenants herein contained, the Borrower, the Lenders and the Agent agree as follows:
+ 
+ARTICLE I
+                      
+DEFINITIONS AND ACCOUNTING TERMS
+Section 1.01
+ 
+Certain Defined Terms
+.  As used in this Agreement, the following terms shall have the following meanings (such meanings to be equally applicable to both the singular and plural forms of the terms defined):
+ 
+ means an advance by a Lender to the Borrower as part of a Borrowing and refers to a Base Rate Advance or a Eurodollar Rate Advance, each of which shall be a  of Advance.
+Advance
+Type
+ 
+ means, as to any Person, any other Person that, directly or indirectly, controls, is controlled by or is under common control with such Person or is a director or executive officer (as such term is used in Regulation S-K promulgated under the Securities Act of 1933, as amended) of such Person.
+Affiliate
+ 
+ means this Credit Agreement, as this Credit Agreement may be amended, supplemented or otherwise modified from time to time.
+Agreement
+ 
+ means, with respect to each Lender, such Lenders Domestic Lending Office in the case of a Base Rate Advance, and such Lenders Eurodollar Lending Office in the case of a Eurodollar Rate Advance.
+Applicable Lending Office
+ 
+ means, for any period for which any interest payment is to be made with respect to any Advance, the interest rate per annum derived by dividing (i) the sum of the Daily Margins for each of the days included in such period by (ii) the number of days included in such period.
+Applicable Margin
+ 
+ means an assignment and acceptance entered into by a Lender and an Eligible Assignee, and accepted by the Agent, in substantially the form of Exhibit B hereto.
+Assignment and Acceptance
+ 
+ means the Banks listed on Schedule II hereof.
+Banks
+ 
+ 
+1
+ 
+ means, for any period, a fluctuating interest rate per annum as shall be in effect from time to time which rate per annum shall at all times be equal to the highest of:
+Base Rate
+ 
+(a)             the rate of interest announced publicly by Citibank in New York, New York, from time to time, as Citibanks base rate;
+ 
+(b)             1/2 of one percent per annum above the Federal Funds Rate; and
+ 
+(c)             the rate equal to the Eurodollar Rate based on an Interest Period of one month determined for each day that a Base Rate Advance is outstanding (and in respect of any day that is not a London Banking Day, such rate as in effect on the immediately preceding London Banking Day) 1.00% per annum.
+plus
+ 
+ means an Advance which bears interest as provided in Section 2.07(a).
+Base Rate Advance
+ 
+ means Computer Sciences Corporation, a Nevada corporation.
+Borrower
+ 
+ means a borrowing consisting of Advances of the same Type made by each of the Lenders pursuant to Section 2.01 on the same day to the Borrower pursuant to the same Notice of Borrowing.
+Borrowing
+ 
+ means a day of the year on which banks are not required or authorized to close in New York City and, if the applicable Business Day relates to any Eurodollar Rate Advances, on which dealings are carried on in the London interbank market.
+Business Day
+ 
+ means, with respect to any Person, any lease of any property by that Person as lessee which would, in conformity with GAAP, be required to be accounted for as a capital lease on the balance sheet of that Person.
+Capital Lease
+ 
+ means Citibank, N.A.
+Citibank
+ 
+ means the Internal Revenue Code of 1986, as amended.
+Code
+ 
+ means commercial paper issued by the Borrower from time to time.
+Commercial Paper
+ 
+ has the meaning specified in Section 2.01.
+Commitment
+ 
+ means, with respect to any Lender, March 18, 2015, or such later date as may be extended from time to time pursuant to Section 2.16 (or if any such date is not a Business Day, the next preceding Business Day) with the consent of such Lender.
+Commitment Termination Date
+ 
+ 
+2
+ 
+ means, for any period the sum of (a) net income, (b) taxes on income, (c) Consolidated Interest Expense, (d) depreciation expense, (e) amortization expense of goodwill, financing costs and other intangibles, (f) extraordinary losses, (g) other non-cash charges to the extent deducted from net income, extraordinary gains.
+Consolidated EBITDA
+plus
+plus
+plus
+plus
+plus
+plus
+minus
+ 
+ means, for any period, total interest expense (including that portion attributable to Capital Leases in accordance with GAAP and capitalized interest) of the Borrower and its Subsidiaries on a consolidated basis with respect to all outstanding Debt of the Borrower and its Subsidiaries, including all commissions, discounts and other fees and charges owed with respect to letters of credit and bankers acceptance financing, net costs under Interest Rate Agreements and amounts referred to in Section 2.04 payable to the Agent and the Lenders that are considered interest expense in accordance with GAAP, but excluding, however, any such amounts referred to in Section 2.04 payable on or before the Effective Date.
+Consolidated Interest Expense
+ 
+ means, as of any date of determination, all Debt (excluding Equity-linked Debt) of the Borrower and its Subsidiaries on a consolidated basis.
+Consolidated Total Debt
+ 
+,  and  each refers to a conversion of Advances of one Type into Advances of another Type pursuant to Section 2.09.
+Convert
+Conversion
+Converted
+ 
+ means, with respect to any Person, any of the following Liens:
+Customary Permitted Liens
+ 
+(a)           Liens with respect to the payment of taxes, assessments or governmental charges in each case that are not yet due or that are being contested in good faith by appropriate proceedings and with respect to which adequate reserves or other appropriate provisions are being maintained to the extent required by GAAP;
+ 
+(b)           Liens of landlords arising by statute or lease contracts entered into in the ordinary course, inchoate, statutory or construction liens, and liens of suppliers, mechanics, carriers, materialmen, warehousemen, producers, operators or workmen and other liens imposed by law created in the ordinary course of business for amounts not yet due or that are being contested in good faith by appropriate proceedings and with respect to which adequate reserves or other appropriate provisions are being maintained to the extent required by GAAP;
+ 
+(c)           liens, pledges or deposits made in the ordinary course of business in connection with workers compensation, unemployment insurance or other types of social security benefits, taxes, assessments, statutory obligations or other similar charges or to secure the performance of bids, tenders, sales, leases, contracts (other than for the repayment of borrowed money) or in connection with surety, appeal, customs or performance bonds or other similar instruments;
+ 
+ 
+3
+ 
+(d)           encumbrances arising by reason of zoning restrictions, easements, licenses, reservations, covenants, rights-of-way, utility easements, building restrictions and other similar encumbrances on the use of real property not materially detracting from the value of such real property and not materially interfering with the ordinary conduct of the business conducted at such real property;
+ 
+(e)           encumbrances arising under leases or subleases of real property that do not, individually or in the aggregate, materially detract from the value of such real property or materially interfere with the ordinary conduct of the business conducted at such real property; and
+ 
+(f)           financing statements with respect to a lessors rights in and to personal property leased to such Person in the ordinary course of such Persons business.
+ 
+ means, for any date of determination, the interest rate per annum set forth in the table below that corresponds to (i) the Level applicable to the Borrower in respect of its Rating established by S&P and Moodys as set forth below for such date of determination and (ii) the Type of Advance:
+Daily Margin
+ 
+ 
+ 
+4
+ 
+For purposes of this definition, (a) if any change in the Rating established by S&P or Moodys shall result in a change in the Level, the change in the Daily Margin shall be effective as of the date on which such rating change is publicly announced by S&P or Moodys, as the case may be, (b) if Ratings are available from only one of S&P or Moodys, then the applicable Level shall be set by reference to this one Rating, (c) if Ratings are available from each of S&P and Moodys and such Ratings fall within two different Levels, then the higher of such Ratings shall apply, unless there is a split in such Ratings of more than one Level, in which case the Level that is one Level higher than the Level of the lower Rating shall apply, (d) if Ratings are unavailable from S&P and Moodys for any reason other than such agencies cease providing public debt ratings generally for any day, then the applicable Level for such day shall be deemed to be Level 6; and (e) if either of S&P or Moodys change the basis on which their ratings are established and or described, each reference in this Agreement to a Rating announced by S&P or Moodys, as the case may be, shall be deemed to refer to the then equivalent rating established by S&P or Moodys.
+ 
+ means, with respect to any Person, (a) indebtedness of such Person for borrowed money, (b) obligations of such Person evidenced by bonds, debentures, notes or other similar instruments and (c) obligations of such Person as lessee under Capital Leases; that Debt shall not include borrowings against the cash surrender value of life insurance policies covering employees of the Borrower or its Affiliates and owned by the Borrower so long as (i) recourse for such borrowings is limited to such policies and the proceeds thereof and (ii) any value assigned to such policies on the consolidated financial statements of the Borrower and its Subsidiaries is net of the amount of such borrowings.
+Debt
+provided
+ 
+ means at any time, subject to Section 2.18(c), (i) any Lender that has failed for three or more Business Days to comply with its obligations under this Agreement to make an Advance, unless such Lender has notified the Agent and the Borrower in writing that such failure is the result of such Lenders determination that one or more conditions precedent to funding has not been satisfied (which conditions precedent, together with the applicable default, if any, will be specifically identified in such writing), (ii) any Lender that has notified the Agent or the Borrower in writing, or has stated publicly, that it does not intend to comply with its funding obligations hereunder, (iii) any Lender that has defaulted on its funding obligations under other loan agreements or credit agreements generally under which it has commitments to extend credit or that has notified, or whose Parent Company has notified, the Agent or the Borrower in writing, or has stated publicly, that it does not intend to comply with its funding obligations under loan agreements or credit agreements generally, (iv) any Lender that has, for three or more Business Days after written request of the Agent or the Borrower, failed to confirm in writing to the Agent and the Borrower that it will comply with its prospective funding obligations hereunder (provided that such Lender will cease to be a Defaulting Lender pursuant to this clause (iv) upon the Agents and the Borrowers receipt of such written confirmation), or (v) any Lender with respect to which a Lender Insolvency Event has occurred and is continuing with respect to such Lender or its Parent Company; that a Lender Insolvency event shall not be deemed to occur with respect to a Lender or its Parent Company solely as a result of the acquisition or maintenance of an ownership interest in such Lender or Parent Company by a governmental authority or instrumentality thereof.  Any determination by the Agent that a Lender is a Defaulting Lender under any of clauses (i) through (v) above will be conclusive and binding absent manifest error, and such Lender will be deemed to be a Defaulting Lender (subject to Section 2.18(c)) upon notification of such determination by the Agent to the Borrower and the Lenders.
+Defaulting Lender
+provided
+ 
+ 
+5
+ 
+ means, with respect to any Lender, the office of such Lender specified as its Domestic Lending Office opposite its name on Schedule I hereto or in the Assignment and Acceptance pursuant to which it became a Lender, or such other office of such Lender as such Lender may from time to time specify to the Borrower and the Agent.
+Domestic Lending Office
+ 
+ means March 18, 2011, so long as the conditions precedent set forth in Section 3.01 have been satisfied.
+Effective Date
+ 
+ means any financial institution or entity engaged in the business of extending revolving credit approved in writing by the Borrower (so long as no Potential Event of Default or Event of Default then exists and is continuing) and the Agent as an Eligible Assignee for purposes of this Agreement; that the Borrower's and the Agents approval shall not be unreasonably withheld or delayed; that no such approval shall be required in the case of an assignment by a Lender to an Affiliate of such Lender or to another Lender; notwithstanding the foregoing, Eligible Assignee shall not include the Borrower or any of the Borrowers Affiliates or Subsidiaries.
+Eligible Assignee
+provided
+provided
+further
+provided
+further
+that
+ 
+ means any employee benefit plan as defined in Section 3(3) of ERISA which is or was maintained or contributed to by the Borrower, its Subsidiaries or any of its ERISA Affiliates.
+Employee Benefit Plan
+ 
+ means any and all statutes, laws, regulations, ordinances, rules, judgments, orders, decrees, permits, concessions, grants, franchises, licenses, agreements or other governmental restrictions of any federal, state or local governmental authority within the United States or any State or territory thereof and which relate to the pollution or protection of the environment or the release of any hazardous materials into the environment.
+Environmental Law
+ 
+ means Debt that is required to be converted at, or prior to, maturity into equity securities of the Borrower.
+Equity-linked Debt
+ 
+ means the Employee Retirement Income Security Act of 1974, as amended from time to time, and the regulations promulgated and rulings issued thereunder.
+ERISA
+ 
+ means any Person who for purposes of Title IV of ERISA is a member of the Borrowers controlled group, or under common control with the Borrower, within the meaning of Section 414 of the Code and the regulations promulgated and rulings issued thereunder.  Any former ERISA Affiliate of the Borrower or its Subsidiaries shall continue to be considered an ERISA Affiliate within the meaning of this definition with respect to the period such entity was an ERISA Affiliate of the Borrower or its Subsidiaries and with respect to liabilities arising after such period for which the Borrower or its Subsidiaries could be liable under the Code or ERISA.
+ERISA Affiliate
+ 
+ 
+6
+ 
+ means (a) the occurrence of a reportable event, within the meaning of Section 4043 of ERISA, unless the 30-day notice requirement with respect thereto has been waived by the PBGC; (b) the provision by the administrator of any Pension Plan of a notice of intent to terminate such Pension Plan pursuant to Section 4041(a)(2) of ERISA (including any such notice with respect to a plan amendment referred to in Section 4041(e) of ERISA); (c) the cessation of operations at a facility in the circumstances described in Section 4062(e) of ERISA; (d) the withdrawal by the Borrower or an ERISA Affiliate from a Multiple Employer Plan during a plan year for which it was a substantial employer, as defined in Section 4001(a)(2) of ERISA; (e) the failure by the Borrower or any ERISA Affiliate to make a payment to a Pension Plan required under Section 303(k) of ERISA, which Section imposes a lien for failure to make required payments; (f) the institution by the PBGC of proceedings to terminate a Pension Plan, pursuant to Section 4042 of ERISA, or the occurrence of any event or condition which, in the reasonable judgment of the Borrower, might constitute grounds under Section 4042 of ERISA for the termination of, or the appointment of a trustee to administer, a Pension Plan; (g) the withdrawal by the Borrower or any ERISA Affiliate from any Multiemployer Plan or the termination of such Multiemployer Plan resulting in liability pursuant to Title IV of ERISA; or (h) a determination that any Pension Plan is, or is expected to be, in at-risk status (within the meaning of Section 303(i)(4)(A) of ERISA or Section 430(i)(4)(A) of the Code).
+ERISA Event
+ 
+ has the meaning assigned to that term in Regulation D of the Board of Governors of the Federal Reserve System, as in effect from time to time.
+Eurocurrency Liabilities
+ 
+ means, with respect to any Lender, the office of such Lender specified as its Eurodollar Lending Office opposite its name on Schedule I hereto or in the Assignment and Acceptance pursuant to which it became a Lender (or, if no such office is specified, its Domestic Lending Office), or such other office of such Lender as such Lender may from time to time specify to the Borrower and the Agent.
+Eurodollar Lending Office
+ 
+ means, for any Interest Period for each Eurodollar Rate Advance comprising part of the same Borrowing, an interest rate per annum equal to (a) the rate determined by the Agent to be the offered rate that appears on the page of the Reuters screen that displays an average British Bankers Association Interest Settlement Rate for deposits in U.S. dollars (for delivery on the first day of such Interest Period) with a term equivalent to such Interest Period, determined as of approximately 11:00 a.m. (London time) on the date two Business Days prior to the commencement of such Interest Period; (b) in the event the rate referenced in the preceding clause (a) does not appear on such page or service or such page or service shall cease to be available, the rate per annum equal to the rate determined by the Agent to be the offered rate on such other page or other service that displays an average British Bankers Association Interest Settlement Rate for deposits in U.S. dollars (for delivery on the first day of such Interest Period) with a term equivalent to such Interest Period, determined as of approximately 11:00 a.m. (London time) on the date two Business Days prior to the commencement of such Interest Period, or (c) in the event the rates referenced in the preceding clauses (a) and (b) are not available, the rate per annum determined by the Agent as the rate of interest (rounded upward to the next 1/100th of 1%) at which deposits in U.S. dollars for delivery on the first day of such Interest Period in same day funds in the approximate amount of the Eurodollar Rate Advance being made, continued or converted by Citibank and with a term equivalent to such Interest Period would be offered by Citibank to major banks in the London interbank market at their request at approximately 11:00 a.m. (London time) on the date two Business Days prior to the commencement of such Interest Period.
+Eurodollar Rate
+ 
+ 
+7
+ 
+ means an Advance which bears interest as provided in Section 2.07(b).
+Eurodollar Rate Advance
+ 
+ of any Lender for any Interest Period for any Eurodollar Rate Advance means the reserve percentage applicable during such Interest Period (or if more than one such percentage shall be so applicable, the daily average of such percentages for those days in such Interest Period during which any such percentage shall be so applicable) under regulations issued from time to time by the Board of Governors of the Federal Reserve System (or any successor) for determining the maximum reserve requirements (including, without limitation, any emergency, supplemental or other marginal reserve requirement) for such Lender with respect to liabilities or assets consisting of or including Eurocurrency Liabilities having a term equal to such Interest Period.
+Eurodollar Rate Reserve Percentage
+ 
+ has the meaning specified in Section 6.01.
+Events of Default
+ 
+ means, collectively, the Annual Reports of the Borrower on Form 10-K, from time to time, and Quarterly Reports on Form 10-Q, from time to time, and Reports on Form 8-K of the Borrower filed with or furnished to the SEC from time to time.
+Exchange Act Report
+ 
+ has the meaning specified in Section 2.12.
+Excluded Taxes
+ 
+ means the Credit Agreement, dated as of July 12, 2007, among the Borrower, the financial institutions party thereto and Citicorp USA, Inc., as agent for such lenders, as amended, amended and restated or otherwise modified and as in effect immediately prior to the Effective Date.
+Existing Credit Agreement
+ 
+ means Sections 1471 though 1474 of the Code, as of the date hereof, and any Treasury regulations promulgated with respect thereto and official interpretations thereof.
+FATCA
+ 
+ means, for any period, a fluctuating interest rate per annum equal for each day during such period to the weighted average of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers, as published for such day (or, if such day is not a Business Day, for the next preceding Business Day) by the Federal Reserve Bank of New York, or, if such rate is not so published for any day which is a Business Day, the average of the quotations for such day on such transactions received by the Agent from three Federal funds brokers of recognized standing selected by it.
+Federal Funds Rate
+ 
+ means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other statements by such other entity as may be approved by a significant segment of the accounting profession, which are applicable to the circumstances as of the date of determination.
+GAAP
+ 
+ 
+8
+ 
+ has the meaning specified in Section 2.19.
+Granting Lender
+ 
+ has the meaning specified in Section 2.12.
+Indemnified Taxes
+ 
+ means, with respect to any Pension Plan, the amount, if any, of its unfunded benefit liabilities, as defined in Section 4001(a)(18) of ERISA.
+Insufficiency
+ 
+ means, for each Eurodollar Rate Advance comprising part of the same Borrowing, the period commencing on the date of such Eurodollar Rate Advance, or on the date of continuation of such Advance as a Eurodollar Rate Advance upon expiration of successive Interest Periods applicable thereto, or on the date of Conversion of a Base Rate Advance into a Eurodollar Rate Advance, and ending on the last day of the period selected by the Borrower pursuant to the provisions hereof.  The duration of each such Interest Period shall be one, two, three or six months, as the Borrower may select in the Notice of Borrowing or the Notice of Conversion/Continuation for such Advance; , , that:
+Interest Period
+provided
+however
+ 
+(a)           the Borrower may not select any Interest Period which ends after the earliest Commitment Termination Date of any Lender then in effect;
+ 
+(b)           Interest Periods commencing on the same date for Advances comprising part of the same Borrowing shall be of the same duration; and
+ 
+(c)           whenever the last day of any Interest Period would otherwise occur on a day other than a Business Day, the last day of such Interest Period shall be extended to occur on the next succeeding Business Day, , that if such extension would cause the last day of such Interest Period to occur in the next following calendar month, the last day of such Interest Period shall occur on the next preceding Business Day.
+provided
+ 
+ means any interest rate swap agreement, interest rate cap agreement, interest rate collar agreement or other similar agreement or arrangement to which the Borrower or any of its Subsidiaries is a party.
+Interest Rate Agreement
+ 
+ means that (i) a Lender or its Parent Company is insolvent, or is generally unable to pay its debts as they become due, or admits in writing its inability to pay its debts as they become due, or makes a general assignment for the benefit of its creditors, or (ii) such Lender or its Parent Company is the subject of a bankruptcy, insolvency, reorganization, liquidation or similar proceeding, or a receiver, trustee, conservator, intervenor or sequestrator or the like has been appointed for such Lender or its Parent Company, or such Lender or its Parent Company has taken any action in furtherance of or indicating its consent to or acquiescence in any such proceeding or appointment.
+Lender Insolvency Event
+ 
+ means the Banks listed on Schedule II hereof and each Eligible Assignee that shall become a party hereto pursuant to Section 8.07.
+Lenders
+ 
+ 
+9
+ 
+ means Level 1, Level 2, Level 3, Level 4, Level 5 or Level 6, as the case may be.
+Level
+ 
+ means that, as of any date of determination, the applicable Rating is equal to or better than A+ (in the case of a Rating from S&P) or A1 (in the case of a Rating from Moodys), as applicable, as of such date of determination.
+Level 1
+ 
+ means that, as of any date of determination, the applicable Rating is equal to A (in the case of a Rating from S&P) or A2 (in the case of a Rating from Moodys), as applicable, as of such date of determination.
+Level 2
+ 
+ means that, as of any date of determination, the applicable Rating is equal to A- (in the case of a Rating from S&P) or A3 (in the case of a Rating from Moodys), as applicable, as of such date of determination.
+Level 3
+ 
+ means that, as of any date of determination, the applicable Rating is equal to BBB+ (in the case of a Rating from S&P) or Baa1 (in the case of a Rating from Moodys), as applicable, as of such date of determination.
+Level 4
+ 
+ means that, as of any date of determination, the applicable Rating is equal to BBB (in the case of a Rating from S&P) or Baa2 (in the case of a Rating from Moodys), as applicable, as of such date of determination.
+Level 5
+ 
+ means that, as of any date of determination, the applicable Rating is equal to or below BBB- (in the case of a Rating from S&P or, Baa3 (in the case of a Rating from Moodys), as applicable, as of such date of determination, or the only Rating is a private rating and the Borrower will not authorize the applicable rating agency to make such Rating available to the Agent and the Lenders.
+Level 6
+ 
+ means any lien, mortgage, pledge, security interest, charge or encumbrance of any kind (including any interest of a vendor or lessor under any conditional sale or other title retention agreement and any lease in the nature thereof).
+Lien
+ 
+ means senior, unsecured, non-credit enhanced, long-term debt securities of the Borrower.
+Long-Term Debt
+ 
+ means at any time Lenders holding greater than 50% of the then aggregate unpaid principal amount of the Advances held by all Lenders, or, if no such principal amount is then outstanding, Lenders having greater than 50% of the all of the Commitments ( that, for purposes hereof, neither the Borrower, nor any of its Affiliates, if a Lender, nor any Defaulting Lender, shall be included in (a) the Lenders holding such amount of the Advances or having such amount of the Commitments or (b) determining the aggregate unpaid principal amount of the Advances or the total Commitments).
+Majority Lenders
+provided
+ 
+ means Moodys Investors Service, Inc. and any successor thereto.
+Moodys
+ 
+ 
+10
+ 
+ means a multiemployer plan as defined in Section 4001(a)(3) of ERISA to which the Borrower or any ERISA Affiliate of the Borrower is making, or is obligated to make, contributions or has within any of the preceding six plan years been obligated to make or accrue contributions.
+Multiemployer Plan
+ 
+ means a single employer plan, as defined in Section 4001(a)(15) of ERISA, which (a) is maintained for employees of the Borrower or an ERISA Affiliate and at least one Person other than the Borrower and its ERISA Affiliates or (b) was so maintained and in respect of which the Borrower or an ERISA Affiliate could have liability under Section 4063, 4064 or 4069 of ERISA in the event such plan has been or were to be terminated.
+Multiple Employer Plan
+ 
+ means, at any time, a Lender that is not a Defaulting Lender.
+Non-Defaulting Lender
+ 
+ has the meaning specified in Section 2.02(a).
+Notice of Borrowing
+ 
+ has the meaning specified in Section 2.09.
+Notice of Conversion/Continuation
+ 
+ means, with respect to a Lender, the bank holding company (as defined in Federal Reserve Board Regulation Y), if any, of such Lender, or if such Lender does not have a bank holding company, then any corporation, association, partnership or other business entity owning, beneficially or of record, directly or indirectly, a majority of the shares of such Lender.
+Parent Company
+ 
+ means the U.S. Pension Benefit Guaranty Corporation.
+PBGC
+ 
+ means the Pension Protection Act of 2006, as amended.
+Pension Act
+ 
+ means a Single Employer Plan or a Multiple Employer Plan or both.
+Pension Plan
+ 
+ means an individual, partnership, corporation, business trust, joint stock company, trust, unincorporated association, joint venture or other entity, or a government or any political subdivision or agency thereof.
+Person
+ 
+ means a condition or event which, after notice or lapse of time or both, would constitute an Event of Default if that condition or event were not cured or removed within any applicable grace or cure period.
+Potential Event of Default
+ 
+ means as of any date, the public rating that has been most recently announced by any of S&P or Moodys, as the case may be, with respect to the Long-Term Debt, or if any such rating agency shall have issued more than one such public rating, the lowest such public rating issued by such rating agency.
+Rating
+ 
+ has the meaning specified in Section 8.07(c).
+Register
+ 
+ 
+11
+ 
+ means, with respect to any Person, such Persons Affiliates and the partners, directors, officers, employees, agents and advisors of such Person and of such Persons Affiliates.
+Related Parties
+ 
+ means Standard & Poors Ratings Group and any successor thereto.
+S&P
+ 
+ means the Securities and Exchange Commission and any successor agency.
+SEC
+ 
+ means, at any time, any Subsidiary of the Borrower which accounts for more than 5% of consolidated total assets or 5% of consolidated revenue of the Borrower determined in accordance with GAAP.
+Significant Subsidiary
+ 
+ means a single employer plan, as defined in Section 4001(a)(15) of ERISA, which (a) is maintained for employees of the Borrower or any ERISA Affiliate and no Person other than the Borrower and its ERISA Affiliates or (b) was so maintained and in respect of which the Borrower or an ERISA Affiliate could have liability under Section 4062 or 4069 of ERISA in the event such plan has been or were to be terminated.
+Single Employer Plan
+ 
+ has the meaning specified in Section 2.19.
+SPC
+ 
+ of any Person means any corporation, association, partnership or other business entity of which at least 50% of the total voting power of shares of stock or other securities entitled to vote in the election of directors, managers or trustees thereof is at the time owned or controlled, directly or indirectly, by such Person or one or more of the other Subsidiaries of that Person or a combination thereof.  Unless otherwise specified, all references herein to a Subsidiary or to Subsidiaries shall refer to a Subsidiary or Subsidiaries of the Borrower.
+Subsidiary
+ 
+ has the meaning specified in Section 2.12.
+Taxes
+ 
+ means, with respect to any Lender, the earlier of (a) the Commitment Termination Date of such Lender and (b) the date of termination in whole of the Commitments of all Lenders pursuant to Section 2.05 or 6.01.
+Termination Date
+ 
+ means, with reference to an Advance, a Base Rate Advance or a Eurodollar Rate Advance.
+Type
+ 
+ has the meaning given such term under Part I of Subtitle E of Title IV of ERISA.
+Withdrawal Liability
+ 
+Section 1.02
+ 
+Computation of Time Periods
+.  In this Agreement in the computation of periods of time from a specified date to a later specified date, the word from means from and including and the words to and until each means to but excluding.
+ 
+ 
+12
+ 
+Section 1.03
+ 
+Accounting Terms
+.  All accounting terms not specifically defined herein shall be construed in accordance with GAAP consistent with those applied in the preparation of the financial statements referred to in Section 4.01(e).  All computations determining compliance with financial covenants or terms, including definitions used therein, shall be prepared in accordance with generally accepted accounting principles in effect at the time of the preparation of, and in conformity with those used to prepare, the historical financial statements delivered to the Lenders pursuant to Section 4.01(e).  If at any time the computations for determining compliance with financial covenants or provisions relating thereto utilize generally accepted accounting principles different than those then being utilized in the financial statements being delivered to the Lenders, such financial statements shall be accompanied by a reconciliation statement.  If at any time any change in GAAP or the required adoption by the Borrower of international financial reporting standards would affect the computation of any financial ratio or requirement set forth in this Agreement, and either the Borrower or the Majority Lenders shall so request, the Agent, the Lenders and the Borrower shall negotiate in good faith to amend such ratio or requirement to preserve the original intent thereof in light of such change in GAAP or the adoption of such international financial reporting standards (subject to the approval of the Majority Lenders); provided that, until so amended, (i) such ratio or requirement shall continue to be computed in accordance with GAAP prior to such change therein or the adoption of such international financial reporting standards and (ii) the Borrower shall provide to the Agent and the Lenders financial statements and other documents required under this Agreement or as reasonably requested hereunder setting forth a reconciliation between calculations of such ratio or requirement made before and after giving effect to such change in GAAP or the adoption of such international financial reporting standards.
+ 
+ARTICLE II                                
+ 
+AMOUNTS AND TERMS OF THE ADVANCES
+Section 2.01
+ 
+The Advances
+  Each Lender severally agrees, on the terms and conditions hereinafter set forth, to make Advances to the Borrower from time to time on any Business Day during the period from the Effective Date until the Termination Date of such Lender in an aggregate amount not to exceed at any time outstanding the amount set opposite such Lenders name on Schedule II hereto or, if such Lender has entered into any Assignment and Acceptance, set forth for such Lender in the Register maintained by the Agent pursuant to Section 8.07(c), as such amount may be reduced pursuant to Section 2.05 (such Lenders ).  Each Borrowing shall be in an aggregate amount not less than $5,000,000 or an integral multiple of $1,000,000 in excess thereof and shall consist of Advances of the same Type made on the same day to the Borrower by the Lenders ratably according to their respective Commitments.  Within the limits of each Lenders Commitment, the Borrower may from time to time borrow, until the Commitment Termination Date, prepay pursuant to Section 2.06(c) and reborrow under this Section 2.01.
+.
+Commitment
+ 
+ 
+13
+ 
+Section 2.02
+ 
+Making the Advances
+.
+ 
+(a)
+ 
+Each Borrowing shall be made on notice, given not later than (x) 10:00 A.M. (New York City time) on the date of a proposed Borrowing consisting of Base Rate Advances and (y) 12:00 noon (New York City time) on the third Business Day prior to the date of a proposed Borrowing consisting of Eurodollar Rate Advances, in each case by the Borrower to the Agent, which shall give to each Lender prompt notice thereof by telecopier.  Each such notice of an Borrowing (a ) shall be by telecopier or telephone, confirmed immediately in writing by hand delivery or telecopier, in substantially the form of Exhibit A hereto, specifying therein the requested (i) date of such Borrowing, (ii) Type of Advances comprising such Borrowing, (iii) aggregate amount of such Borrowing, and (iv) in the case of a Borrowing comprised of Eurodollar Rate Advances, the initial Interest Period for each such Advance.  The Borrower may, subject to the conditions herein provided, borrow more than one Borrowing on any Business Day.  Each Lender shall, before 1:00 P.M. (New York City time) in the case of a Borrowing consisting of Base Rate Advances and before 11:00 A.M. (New York City time) in the case of a Borrowing consisting of Eurodollar Rate Advances, in each case on the requested date of such Borrowing, make available for the account of its Applicable Lending Office to the Agent at its address referred to in Section 8.02, in same day funds, such Lenders ratable portion of such Borrowing.  Upon fulfillment of the applicable conditions set forth in Section 3.02, the Agent will make such funds available to the Borrower in like funds as received by the Agent either by (i) crediting the account of the Borrower on the books of the Agent with the amount of such funds or (ii) wire transfer of such funds, in each case in accordance with instructions provided to (and reasonably acceptable to) the Agent by the Borrower.
+Notice of Borrowing
+ 
+(b)
+ 
+Anything in subsection (a) above to the contrary notwithstanding,
+ 
+(i)
+ 
+the Borrower may not select Eurodollar Rate Advances for any Borrowing or with respect to the Conversion or continuance of any Borrowing if the aggregate amount of such Borrowing or such Conversion or continuance is less than $5,000,000;
+ 
+(ii)
+ 
+there shall be no more than five Interest Periods relating to Eurodollar Rate Advances outstanding at any time;
+ 
+ 
+14
+ 
+(iii)
+ 
+if any Lender shall notify the Agent that the introduction of or any change in or in the interpretation of any law or regulation makes it unlawful, or that any central bank or other governmental authority asserts that it is unlawful, for such Lender or its Eurodollar Lending Office to perform its obligations hereunder to make Eurodollar Rate Advances or to fund or maintain Eurodollar Rate Advances hereunder, the Commitment of such Lender to make Eurodollar Rate Advances or to Convert all or any portion of Base Rate Advances shall forthwith be suspended until the Agent shall notify the Borrower that such Lender has determined that the circumstances causing such suspension no longer exist and such Lenders then outstanding Eurodollar Rate Advances, if any, shall be Base Rate Advances; to the extent that such affected Eurodollar Rate Advances become Base Rate Advances, all payments of principal that would have been otherwise applied to such Eurodollar Rate Advances shall be applied instead to such Lenders Base Rate Advances; that if Majority Lenders are subject to the same illegality or assertion of illegality, then the right of the Borrower to select Eurodollar Rate Advances for such Borrowing or any subsequent Borrowing or to Convert all or any portion of Base Rate Advances shall forthwith be suspended until the Agent shall notify the Borrower that the circumstances causing such suspension no longer exist, and each Advance comprising such Borrowing shall be a Base Rate Advance; provided further that if, at any time after a Lender gives notice under this Section 2.02(b)(iii), such Lender determines that it may lawfully make Eurodollar Rate Advances, such Lender shall promptly give notice of that determination to the Borrower and the Agent, and the Agent shall promptly transmit the notice to each other Lender.  The Borrowers right to request, and such Lenders obligation, if any, to make Eurodollar Rate Advances shall thereupon be restored; and
+provided
+ 
+(iv)
+ 
+if the Majority Lenders shall notify the Agent that (A) the Eurodollar Rate for Eurodollar Rate Advances comprising such Borrowing will not adequately reflect the cost to such Majority Lenders of making, funding or maintaining their respective Eurodollar Rate Advances for such Borrowing or (B) dollar deposits are not being offered to banks in the London interbank market for the applicable amount and Interest Period of such Borrowing or (C) reasonable and adequate means do not exist for ascertaining the Eurodollar Rate for such Interest Period, the right of the Borrower to select Eurodollar Rate Advances for such Borrowing or any subsequent Borrowing shall be suspended until the Agent shall notify the Borrower and the Lenders that the circumstances causing such suspension no longer exist, and each Advance comprising such Borrowing shall be made as a Base Rate Advance.
+ 
+(c)
+ 
+Each Notice of Borrowing shall be irrevocable and binding on the Borrower.  In the case of any Borrowing which the related Notice of Borrowing specifies is to be comprised of Eurodollar Rate Advances, the Borrower shall indemnify each Lender against any loss, cost or expense incurred by such Lender by reason of the liquidation or reemployment of deposits or other funds acquired by such Lender to fund the Advance to be made by such Lender as part of such Borrowing or by reason of the termination of hedging or other similar arrangements, in each case when such Advance is not made on such date, including without limitation, as a result of any failure to fulfill on or before the date specified in such Notice of Borrowing for such Borrowing the applicable conditions set forth in Article III.  The Lender making demand for such indemnification shall deliver to the Borrower concurrently with such demand a written statement as to such losses, expenses and liabilities, and this statement shall be conclusive as to the amount of compensation due to such Lender, absent manifest error.
+ 
+ 
+15
+ 
+(d)
+ 
+Unless the Agent shall have received notice from a Lender prior to any Borrowing that such Lender will not make available to the Agent such Lenders ratable portion of such Borrowing, the Agent may assume that such Lender has made such portion available to the Agent on the date of such Borrowing in accordance with subsection (a) of this Section 2.02 and the Agent may, in reliance upon such assumption, make available to the Borrower on such date a corresponding amount.  If and to the extent that such Lender shall not have so made such ratable portion available to the Agent, such Lender and the Borrower severally agrees to repay to the Agent forthwith on demand such corresponding amount together with interest thereon, for each day from the date such amount is made available to the Borrower until the date such amount is repaid to the Agent, at (i) in the case of the Borrower, the interest rate applicable at the time to Advances comprising such Borrowing and (ii) in the case of such Lender, the Federal Funds Rate.  If such Lender shall repay to the Agent such corresponding amount, such amount so repaid shall constitute such Lenders Advance as part of such Borrowing for purposes of this Agreement.
+ 
+(e)
+ 
+The failure of any Lender to make the Advance to be made by it as part of any Borrowing shall not relieve any other Lender of its obligation, if any, hereunder to make its Advance on the date of such Borrowing, but no Lender shall be responsible for the failure of any other Lender to make the Advance to be made by such other Lender on the date of any Borrowing.
+ 
+ 
+16
+ 
+Section 2.03
+ 
+[]
+Reserved
+.
+ 
+Section 2.04
+ 
+Fees
+.
+ 
+(a)
+ 
+.  The Borrower agrees to pay to the Agent for the account of each Lender a facility fee on the amount of such Lenders Commitment (or if no Commitment is in effect, Advances), whether used or unused, from the Effective Date, in the case of each Bank, and, to the extent not paid by the Borrower to any other Lender in respect of the same Commitment for the same period, from the effective date specified in the Assignment and Acceptance pursuant to which a successor to any Bank or other Lender becomes a Lender hereunder, in each case until the Termination Date of such Lender, payable in arrears on the last day of each March, June, September and December during the term of such Lenders Commitment, commencing March 31, 2011, and on the Termination Date of such Lender, in an amount equal to the product of (i) the average daily amount of such Lenders Commitment (whether used or unused) in effect during the period for which such payment that is to be made times (ii) the weighted average rate per annum that is derived from the following rates: (a) a rate of 0.100% per annum with respect to each day during such period that the higher of the Ratings was Level 1, (b) a rate of 0.125% per annum with respect to each day during such period that the higher of such Ratings was Level 2, (c) a rate of 0.175% per annum with respect to each day during such period that the higher of such Ratings was Level 3, (d) a rate of 0.200% per annum with respect to each day during such period that the higher of such Ratings was Level 4, (e) a rate of 0.250% per annum with respect to each day during such period that the higher of such Ratings was Level 5, or (f) a rate of 0.350% per annum with respect to each day during such period that the higher of such Ratings was Level 6.  If any change in the Rating established by S&P or Moodys shall result in a change in the Level, the change in the calculation of the facility fee as set forth above shall be effective as of the date on which such rating change is publicly announced by S&P or Moodys, as the case may be, that no Defaulting Lender shall be entitled to receive any facility fee in respect of its unused Commitment for any period during which that Lender is a Defaulting Lender (and the Borrower shall not be required to pay such fee that otherwise would have been required to have been paid to that Defaulting Lender).  If Ratings are available from only one of S&P or Moodys, then the applicable Level shall be set by reference to this one Rating.  If Ratings are available from each of S&P and Moodys and such Ratings fall within two different Levels, then the higher of such Ratings shall apply, unless there is a split in such Ratings of more than one Level, in which case the Level that is one Level higher than the Level of the lower Rating shall apply.  If Ratings are unavailable from S&P and Moodys for any reason other than such agencies cease providing public debt ratings generally for any day, then the applicable Level for such day shall be deemed to be Level 6.  If any of S&P or Moodys change the basis on which their ratings are established and/or described, each reference in this Agreement to a Rating announced by S&P or Moodys, as the case may be, shall be deemed to refer to the then equivalent rating established by S&P or Moodys.
+Facility Fees
+provided
+ 
+ 
+17
+ 
+(b)
+ 
+.  The Borrower agrees to pay to the Agent the fees payable pursuant to the fee letter dated as of February 14, 2011 between the Borrower and Citigroup Global Markets, Inc., in the amounts and at the times specified in such letter.
+Agents Fees
+ 
+Section 2.05
+ 
+Optional Reduction of the Commitments
+.
+ 
+The Borrower shall have the right, upon at least three Business Days notice to the Agent by the Borrower, to terminate in whole or permanently reduce ratably in part the unused portions of the respective Commitments of the Lenders, that the aggregate amount of the Commitments of the Lenders shall not be reduced to an amount which is less than the aggregate principal amount of the Advances then outstanding, and , , that each partial reduction shall be in the aggregate amount of $5,000,000 or an integral multiple of $1,000,000 in excess thereof.
+provided
+provided
+further
+ 
+Section 2.06
+ 
+Repayment and Prepayment of Advances
+.
+ 
+(a)
+ 
+.  The Borrower shall repay the outstanding principal amount of each Lenders Advances on the Termination Date applicable to such Lender.
+Mandatory Repayment on Termination Date
+ 
+(b)
+ 
+.  The Borrower shall from time to time prepay the Advances to the extent necessary so that the sum of the aggregate principal amount of the Advances then outstanding does not exceed the aggregate amount of the Commitments of all of the Lenders then in effect.
+Mandatory Prepayment Due to Reductions of Commitments
+ 
+(c)
+ 
+.  The Borrower shall not have any right to prepay any principal amount of any Advances other than as provided in this subsection (c).  The Borrower may, on any Business Day, upon notice to the Agent not later than 12:00 noon (New York City time) on such Business Day, in the case of Base Rate Advances, and at least two Business Days notice to the Agent, in the case of Eurodollar Rate Advances, in each case stating the proposed date and aggregate principal amount of the prepayment, and if such notice is given the Borrower shall prepay such stated amount; , , that (i) each partial prepayment shall be in an aggregate principal amount not less than $5,000,000 and integral multiples of $1,000,000 in excess thereof and (ii) in the case of any such prepayment of any Eurodollar Rate Advance, the Borrower shall pay all accrued interest to the date of such prepayment on the portion of such Eurodollar Rate Advance being prepaid and shall be obligated to reimburse the Lenders in respect thereof pursuant to Section 8.04(b).
+Voluntary Prepayments of Borrowings
+provided
+however
+ 
+ 
+18
+ 
+Section 2.07
+ 
+Interest on Advances
+  The Borrower shall pay interest accrued on the principal amount of each Advance outstanding from time to time from the date of such Advance until such principal amount shall be paid in full, at the following rates per annum:
+.
+ 
+(a)
+ 
+.  If such Advance is a Base Rate Advance, a rate per annum equal at all times to the sum of the Base Rate in effect from time to time plus the Applicable Margin, payable in arrears on the last day of each March, June, September and December during the term of this Agreement, commencing March 31, 2011, and on the Termination Date of the applicable Lender; that the Agent may, upon the request of the Majority Lenders, require that the Borrower pay interest () on any amount of principal, interest, fees and other amounts payable under this Agreement (including, without limitation, the principal amount of Base Rate Advances, but excluding the principal amount of Eurodollar Rate Advances) which is not paid when due (whether at stated maturity, by acceleration or otherwise) from the date on which such amount is due until such amount is paid in full, payable on demand, at a rate per annum equal at all times to 2% per annum above the Base Rate in effect from time to time; , , that following the making of the request or the granting of the consent specified by Section 6.01 to authorize the Agent to declare the Advances due and payable pursuant to the provisions of Section 6.01, and upon acceleration of the Advances, Base Default Interest shall accrue and be payable hereunder whether or not previously required by the Majority Lenders.
+Base Rate Advances
+provided
+Base Default Interest
+provided
+however
+ 
+(b)
+ 
+.  If such Advance is a Eurodollar Rate Advance, a rate per annum equal at all times during the Interest Period for such Advance to the sum of the Eurodollar Rate for such Interest Period plus the Applicable Margin, payable in arrears on the last day of such Interest Period and, if such Interest Period has a duration of more than three months, on the day which occurs during such Interest Period three months from the first day of such Interest Period; that the Agent may, upon the request of the Majority Lenders, require that the Borrower pay interest () on any principal amount of any Eurodollar Rate Advance which is not paid when due (whether at stated maturity, by acceleration or otherwise) from the date on which such amount is due until such amount is paid in full, payable on demand, at a rate per annum equal at all times to (A) during the Interest Period applicable to such Eurodollar Rate Advance, the greater of (x) 2% per annum above the Base Rate in effect from time to time and (y) 2% per annum above the rate per annum required to be paid on such amount immediately prior to the date on which such amount became due and (B) after the expiration of such Interest Period, 2% per annum above the Base Rate in effect from time to time; , , that following the making of the request or the granting of the consent specified by Section 6.01 to authorize the Agent to declare the Advances due and payable pursuant to the provisions of Section 6.01, and upon acceleration of the Advances, Eurodollar Default Interest shall accrue and be payable hereunder whether or not previously required by the Majority Lenders.
+Eurodollar Rate Advances
+provided
+Eurodollar Default Interest
+provided
+however
+ 
+ 
+19
+ 
+(c)
+ 
+.  The Borrower shall pay to each Lender, as long as such Lender shall be required to maintain reserves with respect to liabilities or assets consisting of or including Eurocurrency funds or deposits (currently known as Eurocurrency liabilities), additional interest on the unpaid principal amount of each Eurodollar Rate Advance equal to the actual costs of such reserves allocated to such Advance by such Lender (as determined by such Lender in good faith, which determination shall be conclusive), which shall be due and payable on each date on which interest is payable on such Advance, the Borrower shall have received at least 10 days prior notice (with a copy to the Agent) of such additional interest from such Lender.  If a Lender fails to give notice 10 days prior to the relevant Interest Payment Date, such additional interest shall be due and payable 10 days from receipt of such notice.
+Reserves on Eurodollar Rate Advances
+provided
+ 
+Section 2.08
+ 
+Interest Rate Determination
+.  The Agent shall give prompt notice to the Borrower and the Lenders of the applicable interest rate determined by the Agent for purposes of Section 2.07(a) or 2.07(b).
+ 
+Section 2.09
+ 
+Voluntary Conversion or Continuation of Advances
+.
+ 
+(a)
+ 
+The Borrower may on any Business Day, upon notice given to the Agent not later than 12:00 noon (New York City time) on the third Business Day prior to the date of the proposed Conversion or continuance (a ) and subject to the provisions of Section 2.02(b), (i) Convert Advances of one Type comprising the same Borrowing into Advances of another Type and (ii) upon the expiration of any Interest Period applicable to Advances which are Eurodollar Rate Advances made to the Borrower, continue all (or, subject to Section 2.02(b), any portion of) such Advances as Eurodollar Rate Advances and the succeeding Interest Period(s) of such continued Advances shall commence on the last day of the Interest Period of the Advances to be continued; , , that any Conversion of any Eurodollar Rate Advances into Base Rate Advances shall be made on, and only on, the last day of an Interest Period for such Eurodollar Rate Advances.  Each such Notice of Conversion/Continuation shall, within the restrictions specified above, specify (A) the date of such continuation or Conversion, (B) the Advances (or, subject to Section 2.02(b), any portion thereof) to be continued or Converted, (C) if such continuation is of, or such Conversion is into, Eurodollar Rate Advances, the duration of the Interest Period for each such Advance and (D) that no Potential Event of Default or Event of Default has occurred and is continuing.  The Borrower may elect different options with respect to different portions of the affected Borrowing, in which case each such portion shall be allocated ratably among the Lenders holding the Advances comprising such Borrowing, and the Advances comprising each such portion shall be considered a separate Borrowing.
+Notice of Conversion/Continuation
+provided
+however
+ 
+ 
+20
+ 
+(b)
+ 
+If upon the expiration of the then existing Interest Period applicable to any Advance which is a Eurodollar Rate Advance made to the Borrower, the Borrower shall not have delivered a Notice of Conversion/Continuation in accordance with this Section 2.09, then such Advance shall upon such expiration automatically be Converted to a Base Rate Advance.
+ 
+(c)
+ 
+After the occurrence of and during the continuance of a Potential Event of Default or an Event of Default, the Borrower may not elect to have an Advance be made or continued as, or Converted into, a Eurodollar Rate Advance after the expiration of any Interest Rate then in effect for that Advance.
+ 
+Section 2.10
+ 
+Increased Costs
+.
+ 
+(a)
+ 
+If, due to either (i) the introduction of or any change (other than any change by way of imposition or increase of reserve requirements in the case of Eurodollar Rate Advances included in the Eurodollar Rate Reserve Percentage) in or in the interpretation of any law or regulation or (ii) the compliance with any guideline or request from any central bank or other governmental authority (whether or not having the force of law), there shall be any increase in the cost (other than with respect to Taxes) to any Lender of agreeing to make or making, funding or maintaining Eurodollar Rate Advances made to the Borrower, then the Borrower shall from time to time, upon demand by such Lender (with a copy of such demand to the Agent), pay to the Agent for the account of such Lender additional amounts sufficient to compensate such Lender for such increased cost.  A reasonably detailed certificate as to the amount and manner of calculation of such increased cost, submitted to the Borrower and the Agent by such Lender, shall be conclusive and binding for all purposes, absent manifest error.
+ 
+ 
+21
+ 
+(b)
+ 
+If any Lender determines that compliance with any law or regulation or any guideline or request from any central bank or other governmental authority (whether or not having the force of law) affects or would affect the amount of capital required or expected to be maintained by such Lender or any corporation controlling such Lender and that the amount of such capital is increased by or based upon the existence of such Lenders commitment to lend hereunder and other commitments of this type, then, upon demand by such Lender (with a copy of such demand to the Agent), the Borrower shall immediately pay to the Agent for the account of such Lender, from time to time as specified by such Lender, additional amounts sufficient to compensate such Lender or such corporation in the light of such circumstances, to the extent that such Lender reasonably determines such increase in capital to be allocable to the existence of such Lenders commitment to lend hereunder.  A reasonably detailed certificate as to such amounts and the manner of calculation thereof submitted to the Borrower and the Agent by such Lender shall be conclusive and binding for all purposes, absent manifest error.  For the avoidance of doubt, this Section 2.10(b) shall apply to all requests, rules, guidelines or directives concerning capital adequacy issued in connection with the Dodd-Frank Wall Street Reform and Consumer Protection Act, regardless of the date adopted, issued, promulgated or implemented and this Section 2.10(b) shall apply to all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States regulatory authorities, in each case pursuant to Basel III, regardless of the date enacted, adopted or issued or implemented.
+ 
+(c)
+ 
+If a Lender shall change its Applicable Lending Office, such Lender shall not be entitled to receive any greater payment under Sections 2.10 and 2.12 than the amount such Lender would have been entitled to receive if it had not changed its Applicable Lending Office, unless such change was made at the request of the Borrower or at a time when the circumstances giving rise to such greater payment did not exist.
+ 
+(d)
+ 
+If any Lender requests compensation under this Section 2.10, or if the Borrower is required to pay additional amounts with respect to a Lender pursuant to Section 2.12(a), such Lender shall use reasonable efforts to designate another lending office for funding or booking its Advances hereunder or to assign its rights and obligations hereunder to another of its offices, branches or Affiliates if, in the judgment of such Lender, such designation or assignment (i) would eliminate or reduce amounts payable pursuant to Section 2.10 or Section 2.12(a), as the case may be, in the future and (ii) would not subject such Lender to any unreimbursed cost or expense and would not otherwise be disadvantageous to such Lender.
+ 
+ 
+22
+ 
+Section 2.11
+ 
+Payments and Computations
+.
+ 
+(a)
+ 
+The Borrower shall make each payment hereunder not later than 1:00 P.M. (New York City time) on the day when due in U.S. dollars to the Agent at its address referred to in Section 8.02 in same day funds, without setoff, deduction or counterclaim.  Subject to the immediately succeeding sentence, the Agent will promptly thereafter cause to be distributed like funds relating to the payment of principal or interest or facility fees ratably (other than amounts payable pursuant to Section 2.10 or 2.12 or, to the extent the Termination Date is not the same for all Lenders, pursuant to Section 2.06(a)) to the Lenders for the account of their respective Applicable Lending Offices, and like funds relating to the payment of any other amount payable to any Lender to such Lender for the account of its Applicable Lending Office, in each case to be applied in accordance with the terms of this Agreement.  Upon receipt of principal or interest paid after an Event of Default and an acceleration or a deemed acceleration of amounts due hereunder, the Agent will promptly thereafter cause to be distributed like funds relating to the payment of principal or interest ratably in accordance with each Lenders outstanding Advances (other than amounts payable pursuant to Section 2.10 or 2.12) to the Lenders for the account of their respective Applicable Lending Offices.  Upon its acceptance of an Assignment and Acceptance and recording of the information contained therein in the Register pursuant to Section 8.07(c), from and after the effective date specified in such Assignment and Acceptance, the Agent shall make all payments hereunder in respect of the interest assigned thereby to the Lender assignee thereunder, and the parties to such Assignment and Acceptance shall make all appropriate adjustments in such payments for periods prior to such effective date directly between themselves.
+ 
+(b)
+ 
+All computations of interest based on the Base Rate shall be made by the Agent on the basis of a year of 365 or 366 days, as the case may be, and all computations of interest based on the Eurodollar Rate or the Federal Funds Rate and of facility fees shall be made by the Agent on the basis of a year of 360 days, in each case for the actual number of days (including the first day but excluding the last day) occurring in the period for which such interest or such fees are payable.  Each determination by the Agent of an interest rate hereunder shall be conclusive and binding for all purposes, absent manifest error.
+ 
+(c)
+ 
+Whenever any payment hereunder shall be stated to be due on a day other than a Business Day, such payment shall be made on the next succeeding Business Day, and such extension of time shall in such case be included in the computation of payment of interest or facility fee, as the case may be; , , if such extension would cause payment of interest on or principal of Eurodollar Rate Advances to be made in the next following calendar month, such payment shall be made on the next preceding Business Day.
+provided
+however
+ 
+ 
+23
+ 
+(d)
+ 
+Unless the Agent shall have received notice from the Borrower prior to the date on which any payment is due to the Lenders hereunder that the Borrower will not make such payment in full, the Agent may assume that the Borrower has made such payment in full to the Agent on such date and the Agent may, in reliance upon such assumption, cause to be distributed to each Lender on such due date an amount equal to the amount then due such Lender.  If and to the extent that the Borrower shall not have so made such payment in full to the Agent, each Lender shall repay to the Agent forthwith on demand such amount distributed to such Lender together with interest thereon, for each day from the date such amount is distributed to such Lender until the date such Lender repays such amount to the Agent, at the Federal Funds Rate.
+ 
+Section 2.12
+ 
+Taxes
+.
+ 
+(a)
+ 
+Any and all payments by the Borrower hereunder shall be made, in accordance with Section 2.11, free and clear of and without deduction for any and all present or future taxes, levies, imposts, deductions, charges or withholdings imposed by a governmental authority, and all interest, additions to tax and penalties with respect thereto (hereinafter referred to as ), , in the case of each Lender, SPC and the Agent, (i) Taxes imposed on (or measured by) its income or gross margin, and franchise and branch profits or similar taxes imposed on it, by the jurisdiction under the laws of which such Lender, SPC or the Agent (as the case may be) is organized or any political subdivision thereof or in which its principal office is located, (ii) Taxes imposed on (or measured by) its income, and franchise and branch profits or similar taxes imposed on it, by the jurisdiction of such Lenders Applicable Lending Office or such SPCs lending office or any political subdivision thereof, (iii) Taxes imposed upon or measured by all or a part of the net income or gross margin of such Lender, SPC or the Agent, and branch profits or similar taxes imposed on such Lender, SPC or the Agent, by the United States or any political subdivision or taxing authority thereof or therein, (iv) United States income Taxes (including withholding taxes with respect to payments hereunder) payable with respect to payments hereunder under laws (including without limitation any statute, treaty, ruling, determination or regulation) in effect on the date hereof in the case of each Bank and on the effective date of the Assignment and Acceptance pursuant to which it became a Lender in the case of each other Lender and on the date that it funded its first Advance hereunder in the case of an SPC, or, in the case of any Lender or SPC, on the date such Lender or SPC designated a new lending office, except to the extent that such Lender or SPC (or its assignor, if any) was entitled, at the time of designation of an Applicable Lending Office (or assignment), to receive additional amounts from the Borrower with respect to such Taxes pursuant to this Section 2.12, and (v) any United States federal withholding tax to the extent imposed as a result of a failure to satisfy the applicable requirements of FATCA (that are necessary to avoid withholding) after December 31, 2012, or such later date on which the requirements become effective (all such non-excluded Taxes being hereafter referred to as ; and all such excluded Taxes being hereinafter referred to as ).  Notwithstanding the preceding sentence, if the Borrower shall be required by law to deduct any Taxes from or in respect of any sum payable hereunder to any Lender, any SPC or the Agent, (i) unless such Taxes are Excluded Taxes, the sum payable shall be increased as may be necessary so that after making all required deductions (including deductions applicable to additional sums payable under this Section 2.12) such Lender, SPC or the Agent (as the case may be) receives an amount equal to the sum it would have received had no such deductions been made, (ii) the Borrower shall make such deductions and (iii) the Borrower shall pay the full amount deducted to the relevant taxation authority or other authority in accordance with applicable law.
+Taxes
+excluding
+Indemnified Taxes
+Excluded Taxes
+ 
+ 
+24
+ 
+(b)
+ 
+In addition, the Borrower agrees to pay any present or future stamp or documentary taxes or any other excise or property taxes, charges or similar levies which arise from the execution, delivery or registration of, or otherwise with respect to, this Agreement (hereinafter referred to as ).
+Other Taxes
+ 
+(c)
+ 
+The Borrower will indemnify each Lender and the Agent for the full amount of Indemnified Taxes or Other Taxes, in each case with respect to this Agreement or payments hereunder (including, without limitation, any Indemnified Taxes or Other Taxes imposed by any jurisdiction on amounts payable under this Section 2.12), and in each case paid by such Lender or the Agent (as the case may be) and any liability (including penalties, interest and reasonable expenses) arising therefrom or with respect thereto, whether or not such Indemnified Taxes or Other Taxes were correctly or legally asserted.  This indemnification shall be made within 30 days from the date such Lender or the Agent (as the case may be) makes written demand therefor and provides the Borrower with a certificate setting forth, in reasonable detail (without disclosing any confidential information), the calculation of the amount of such payment or liability.
+ 
+(d)
+ 
+Within 30 days after the date of any payment by the Borrower of Taxes pursuant to Section 2.12(a), 2.12(b) or 2.12(c), the Borrower will furnish to the Agent, at its address referred to in Section 8.02, the original or a certified copy of a receipt evidencing payment thereof, a copy of any return required by law or regulation to report such payment or other evidence of such payment reasonably satisfactory to the Agent.
+ 
+(e)
+ 
+(i)  Each Lender organized under the laws of a jurisdiction outside the United States, on or prior to the date of its execution and delivery of this Agreement in the case of each Bank and on the date of the Assignment and Acceptance pursuant to which it becomes a Lender in the case of each other Lender, and from time to time thereafter if requested in writing by the Borrower (but only so long as such Lender remains lawfully able to do so), shall provide the Borrower with either (A) two (2) duly completed and executed originals of Internal Revenue Service form W-8BEN or W-8ECI, as appropriate, or any successor form prescribed by the Internal Revenue Service, to establish that such Lender is not subject to, or is subject to a reduced rate of, United States withholding Tax with respect to any payments to such Lender of interest payable under this Agreement or (B) if such Lender claims the benefits of the exemption for portfolio interest under section 881(c) of the Code, (1) a certificate to the effect that such Lender is not (x) a bank within the meaning of section 881(c)(3)(A) of the Code, (y) a 10 percent shareholder of the Borrower within the meaning of section 881(c)(3)(B) of the Code, or (z) a controlled foreign corporation described in section 881(c)(3)(C) of the Code and two (2) duly completed and executed originals of Internal Revenue Service Form W-8BEN.
+ 
+ 
+25
+ 
+(ii)           If a payment made to a Lender would be subject to United States federal withholding tax imposed by FATCA if such Lender were to fail to comply with the applicable reporting requirements of FATCA (including those contained in Section 1471(b) or 1472(b) of the Code, as applicable), such Lender shall deliver to the Borrower, at the time or times prescribed by law and at such time or times reasonably requested in writing by the Borrower, such documentation prescribed by applicable law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) and such additional documentation reasonably requested in writing by the Borrower as may be necessary for the Borrower to comply with its obligations under FATCA, to determine that such Lender has complied with such Lenders obligations under FATCA or to determine the amount to deduct and withhold from such payment.
+ 
+(iii)           In addition, each Lender organized under the laws of a jurisdiction outside the United States, to the extent it does not act or ceases to act for its own account with respect to any portion of any sums paid or payable to such Lender under this Agreement (for example, in the case of a typical participation by such Lender), on or prior to the date of its execution and delivery of this Agreement in the case of each Bank and on the date of the Assignment and Acceptance pursuant to which it becomes a Lender in the case of each other Lender, on or prior to such later date when such Lender ceases to act for its own account with respect to any portion of any such sums paid or payable, and from time to time thereafter if requested in writing by the Borrower (but only so long as such Lender remains lawfully able to do so), shall provide the Borrower with two (2) duly completed and executed originals of Internal Revenue Service form W-8IMY, or any successor form prescribed by the Internal Revenue Service, together with any information, if any, such Lender chooses to transmit with such form, and any other certificate or statement of exemption required under the Code or the regulations thereunder, to establish that such Lender is not acting for its own account with respect to a portion of any such sums payable to such Lender.
+ 
+(iv)           Each Lender that is a U.S. person, on or prior to the date of its execution and delivery of this Agreement in the case of each Bank and on the date of the Assignment and Acceptance pursuant to which it becomes a Lender in the case of each other Lender, and from time to time thereafter if requested in writing by the Borrower, shall provide the Borrower with two (2) duly completed and executed originals of Internal Revenue Service Form W-9, certifying that such Lender is exempt from U.S. backup withholding tax.
+ 
+(f)
+ 
+For any period during which any Tax is required to be deducted or withheld (i) on the basis of the information, certificates or statements of exemption a Lender chooses to transmit with an Internal Revenue Service Form W-8IMY pursuant to subsection 2.12(e)(iii), or (ii) due solely to a Lenders failure to provide the Borrower with the appropriate form described in Section 2.12(e) (other than if such failure is due to a change in law occurring subsequent to the date on which a form originally was required to be provided and except to the extent that such Lender (or its assignor, if any) was entitled, at the time of designation of a new Applicable Lending Office (or assignment), to receive additional amounts from the Borrower with respect to such withholding taxes pursuant to Section 2.12(a) above), such Tax shall be considered an Excluded Tax for purposes of Section 2.12(a); , , that should a Lender become subject to Taxes because of its failure to deliver a form required hereunder, the Borrower shall, at the expense of such Lender, take such steps as the Lender shall reasonably request to assist the Lender to recover such Taxes.
+provided
+however
+ 
+ 
+26
+ 
+(g)
+ 
+If any Person determines, in its sole discretion exercised in good faith, that it has received a refund of any Taxes as to which it has been indemnified pursuant to this Section 2.12 (including by means of additional amounts paid pursuant to Section 2.12(a)), it shall pay to the Borrower an amount equal to such refund (but only to the extent of indemnity payments made, or additional amounts paid, under this Section 2.12 with respect to the Taxes giving rise to such refund), net of all out-of-pocket expenses (including any Taxes) of such indemnified Person with respect to such refund and without interest (other than any interest paid by the relevant governmental authority with respect to such refund).  Upon reasonable written request of such indemnified Person, the Borrower shall repay to such indemnified Person the amount paid to the Borrower by such indemnified Person pursuant to the previous sentence to the extent such indemnified Person is required to repay such refund to such governmental authority.  Notwithstanding anything to the contrary in this Section 2.12(g), in no event will any indemnified Person be required to pay any amount to the Borrower pursuant to this Section 2.12(g) to the extent that such payment would place such indemnified Person in a less favorable position (on a net after-Tax basis) than such indemnified Person would have been in if the indemnification payments or additional amounts giving rise to such refund had never been paid.  This Section 2.12(g) shall not be construed to require any indemnified Person to make available its Tax returns (or any other information relating to its Taxes which it deems confidential) to the Borrower.
+ 
+(h)
+ 
+Notwithstanding anything to the contrary in this Agreement, the Borrower shall not be required to indemnify any Person for Excluded Taxes.
+ 
+(i)
+ 
+Without prejudice to the survival of any other agreement hereunder, the agreements and obligations of the Borrower contained in this Section 2.12, and the agreements and obligations of all Persons under Section 2.12(g), shall survive the payment in full of principal and interest hereunder.
+ 
+Section 2.13
+ 
+.
+Sharing of Payments, Etc
+  If any Lender shall obtain any payment (whether voluntary, involuntary, through the exercise of any right of set-off, or otherwise) on account of the Advances made by it (other than pursuant to Section 2.10 or 2.12 or, to the extent the Termination Date is not the same for all Lenders, pursuant to Section 2.06(a)) in excess of its ratable share of payments on account of the Advances obtained by all the Lenders, such Lender shall forthwith purchase from the other Lenders such participations in the Advances made by them as shall be necessary to cause such purchasing Lender to share the excess payment ratably with each of them, , , that if all or any portion of such excess payment is thereafter recovered from such purchasing Lender, such purchase from each Lender shall be rescinded and such Lender shall repay to the purchasing Lender the purchase price to the extent of such recovery together with an amount equal to such Lenders ratable share (according to the proportion of (a) the amount of such Lenders required repayment to (b) the total amount so recovered from the purchasing Lender) of any interest or other amount paid or payable by the purchasing Lender in respect of the total amount so recovered.  The Borrower agrees that any Lender so purchasing a participation from another Lender pursuant to this Section 2.13 may, to the fullest extent permitted by law, exercise all its rights of payment (including the right of set-off) with respect to such participation as fully as if such Lender were the direct creditor of the Borrower in the amount of such participation.
+provided
+however
+ 
+ 
+27
+ 
+Section 2.14
+ 
+Evidence of Debt
+.
+ 
+(a)
+ 
+Each Lender shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of the Borrower to such Lender resulting from each Advance owing to such Lender from time to time, including the amounts of principal and interest payable and paid to such Lender from time to time hereunder.  The Borrower agrees that upon notice by any Lender to the Borrower (with a copy of such notice to the Agent) to the effect that a promissory note or other evidence of indebtedness is required or appropriate in order for such Lender to evidence (whether for purposes of pledge, enforcement or otherwise) the Advances owing to, or to be made by, such Lender, the Borrower shall promptly execute and deliver to such Lender promissory notes or other evidence of such indebtedness, in form and substance reasonably satisfactory to the Borrower and such Lender, payable to the order of such Lender in a principal amount equal, in the case of the Advances, to the aggregate principal amount of the Commitment of such Lender; , that the execution and delivery of such promissory note or other evidence of indebtedness shall not be a condition precedent to the making of any Advance under this Agreement.
+provided, however
+ 
+(b)
+ 
+The Register maintained by the Agent pursuant to Section 8.07(c) shall include a control account, and a subsidiary account for each Lender, in which accounts (taken together) shall be recorded (i) the date, amount and tenor, as applicable, of each Borrowing, the Borrower that received the proceeds of such Borrowing, the Type of Advances comprising such Borrowing and the Interest Period applicable thereto, (ii) the terms of each Assignment and Acceptance delivered to and accepted by it, if any, (iii) the amount of any principal or interest due and payable or to become due and payable from the Borrower to each Lender hereunder, and (iv) the amount of any sum received by the Agent from the Borrower hereunder and each Lenders share thereof.
+ 
+(c)
+ 
+The entries made in the Register shall be conclusive and binding for all purposes, absent manifest error.
+ 
+Section 2.15
+ 
+Use of Proceeds
+.
+ 
+(a)
+ 
+Advances shall be used by the Borrower for Commercial Paper backup, for acquisitions and for general corporate purposes.
+ 
+(b)
+ 
+No portion of the proceeds of any Advances under this Agreement shall be used by the Borrower or any of its Subsidiaries in any manner which might cause the Advances or the application of such proceeds to violate, or require any Lender to make any filing or take any other action under, Regulation T, Regulation U or Regulation X of the Board of Governors of the Federal Reserve System or any other regulation of such Board or to violate the Securities Exchange Act of 1934, in each case as in effect on the date or dates of such Advances and such use of proceeds.
+ 
+ 
+28
+ 
+Section 2.16
+ 
+Extension of the Commitment Termination Date
+  The Borrower may, not later than 30 days, and not earlier than 60 days, prior to each applicable anniversary of the Effective Date during the term of this Agreement (as may be extended from time to time pursuant to this Section 2.16) (the ), and not more than once in any calendar year, from time to time request that the Commitment Termination Date for all Eligible Lenders (as defined below) be extended for a period of one year by delivering to the Agent a copy of an extension request signed by the Borrower (an ) in substantially the form of Exhibit D hereto; that at the time of such request and as of the date of any such extension of the Commitment Termination Date, (i) the representations and warranties of the Borrower contained in Article IV are correct on and as of such date, as though made on and as of such date, except to the extent that any such representation or warranty expressly relates only to an earlier date, in which case they were correct as of such earlier date, and (ii) no Event of Default or Potential Event of Default has occurred and is continuing.  The Agent shall promptly notify each Lender of its receipt of such Extension Request.  On or prior to the fifteenth day (the ) prior to the Current Anniversary Date, each Eligible Lender shall notify the Agent and the Borrower of its willingness or unwillingness to extend its Commitment Termination Date hereunder from the Commitment Termination Date in effect prior to such extension.  Any Eligible Lender that shall fail to so notify the Agent and the Borrower, on or prior to the Determination Date, shall be deemed to have declined to so extend.  In the event that, on or prior to the Determination Date, Eligible Lenders representing more than 50% of the aggregate amount of the Commitments of all Eligible Lenders then in effect shall consent to such extension, the Agent shall so advise the Lenders and the Borrower and the Commitment Termination Date of each such consenting Eligible Lender (each a ) shall be extended to the date indicated in the Extension Request.  Thereafter, (i) for each Consenting Lender, the term  as used herein and in any promissory note executed and delivered by the Borrower pursuant to Section 2.14 hereof, shall at all times refer to such date indicated in the Extension Request, unless it is later extended pursuant to this Section 2.16, and (ii) for each Lender that is not an Eligible Lender or a Consenting Lender  the term  shall at all times refer to the date which was the Commitment Termination Date of such Lender then in effect prior to the delivery to the Agent of such Extension Request.  In the event that, as of the Determination Date, the Consenting Lenders represent 50% or less of the aggregate amount of the Commitments of all Eligible Lenders then in effect, the Agent shall so advise the Lenders and the Borrower, and none of the Lenders Commitment Termination Dates shall be extended to the date indicated in the Extension Request and each Lenders Commitment Termination Date shall continue to be the date which was the Commitment Termination Date of such Lender immediately prior to the delivery to the Agent of such Extension Request.  For purposes of this Section 2.16, the term  means, with respect to any Extension Request, (i) all Lenders if no Lenders Commitment Termination Date had been extended pursuant to this Section 2.16 prior to the delivery to the Agent of such Extension Request, and (ii) in all other cases, those Lenders which had extended their Commitment Termination Date in the most recent extension of any Commitment Termination Date effected pursuant to this Section 2.16.
+.
+Current Anniversary Date
+Extension Request
+provided
+Determination Date
+Consenting Lender
+Commitment Termination Date
+Commitment Termination Date
+Eligible Lenders
+ 
+ 
+29
+ 
+ 
+Section 2.17
+ 
+Substitution of Lenders
+  If any Lender requests compensation from the Borrower under Section 2.10(a) or (b), or if any Lender declines to extend its Commitment Termination Date pursuant to Section 2.16, if the Borrower is required to pay any additional amounts with respect to any Lender or SPC under Section 2.12(a), or if any Lender shall become a Defaulting Lender, the Borrower shall have the right, with the assistance of the Agent, to seek one or more substitute banks or financial institutions (which may be one or more of the Lenders) reasonably satisfactory to the Agent and the Borrower to purchase the Advances and assume the Commitments of such Lender or SPC, as applicable, and the Borrower, the Agent, such Lender or such SPC, as applicable, and such substitute banks or financial institutions shall execute and deliver an appropriately completed Assignment and Acceptance pursuant to Section 8.07(a) hereof to effect the assignment of rights to and the assumption of obligations by such substitute banks or financial institutions; that any such Lender or SPC, as applicable, requesting compensation from the Borrower under Section 2.10(a) or (b), such Lender shall be entitled to (i) compensation under Section 2.10 for any costs incurred by it prior to its replacement, (ii) payment of all Advances of such Lender then outstanding and all interest and fees accrued to the date of such payment, and (iii) if any Eurodollar Rate Advances of such Lender are then outstanding, any reimbursement which would be payable under Section 8.04(b) in connection with a prepayment of such Eurodollar Rate Advances on such date.
+.
+provided
+ 
+Section 2.18
+ 
+Defaulting Lenders
+.
+ 
+(a)
+ 
+Notwithstanding anything to the contrary herein, any payment of principal, interest, fees or other amounts received by the Agent for the account of any Defaulting Lender under this Agreement (whether voluntary or mandatory, at maturity, pursuant to Article VI or otherwise) by the Borrower for the account of a Defaulting Lender under this Agreement will not be required to be paid or distributed to such Defaulting Lender, but will instead be applied at such time or times as may be determined by the Agent as follows:  , to the payment of any amounts owing by such Defaulting Lender to the Agent under this Agreement; , to the funding of any Advance in respect of which such Defaulting Lender has failed to fund its portion thereof as required by this Agreement, as determined by the Agent; , if so determined by the Agent and the Borrower, held in such account as cash collateral for future funding obligations of the Defaulting Lender in respect of any Advances under this Agreement.  If such Lender is still a Defaulting Lender and any amounts remain in such account on the date that the Commitments are terminated and all payment obligations of the Borrower hereunder are paid in full, then such amounts will be applied by the Agent to the making of payments in the following order of priority:  , to the payment of any amounts owing by such Defaulting Lender to the Agent hereunder; , to the payment of any amounts owing to the Lenders as a result of any judgment of a court of competent jurisdiction obtained by any Lender against such Defaulting Lender as a result of such Defaulting Lenders breach of its obligations under this Agreement; , to the payment of any amounts owing to the Borrower as a result of any judgment of a court of competent jurisdiction obtained by such Borrower against such Defaulting Lender as a result of such Defaulting Lenders breach of its obligations under this Agreement; and, , to pay amounts owing under this Agreement to such Defaulting Lender or as a court of competent jurisdiction may otherwise direct; that any amounts held as cash collateral for funding obligations of a Defaulting Lender shall be returned to such Defaulting Lender upon the termination of this Agreement and the satisfaction of such Defaulting Lenders obligations hereunder.  Any payments, prepayments or other amounts paid or payable to a Defaulting Lender that are applied (or held) to pay amounts owed by a Defaulting Lender or to post cash collateral pursuant to this Section 2.18 shall be deemed paid to and redirected by such Defaulting Lender, and each Lender irrevocably consents hereto.
+first
+second
+third
+first
+second
+third
+fourth
+provided
+ 
+ 
+30
+ 
+(b)
+ 
+No Commitment of any Lender shall be increased or otherwise affected, and, except as otherwise expressly provided in this Section 2.18, performance by the Borrower of its obligations shall not be excused or otherwise modified as a result of the operation of this Section 2.18.  The rights and remedies against a Defaulting Lender under this Section 2.18 are in addition to any other rights and remedies which the Borrower, the Agent or any Lender may have against such Defaulting Lender.
+ 
+(c)
+ 
+If the Borrower and the Agent agree in writing in their reasonable determination that a Defaulting Lender should no longer be deemed to be a Defaulting Lender, the Agent will so notify the parties hereto, whereupon as of the effective date specified in such notice and subject to any conditions set forth therein (which may include arrangements with respect to any cash collateral), that Lender will, to the extent applicable, purchase that portion of outstanding Advances of the other Lenders or take such other actions as the Agent may determine to be necessary to cause the Advances and funded and held on a pro rata basis by the Lenders in accordance with their pro rata share, whereupon such Lender will cease to be a Defaulting Lender; that no adjustments will be made retroactively with respect to fees accrued or payments made by or on behalf of the Borrower while that Lender was a Defaulting Lender; and , , that except to the extent otherwise expressly agreed by the affected parties, no change hereunder from Defaulting Lender to Lender will constitute a waiver or release of any claim of any party hereunder arising from such Lenders having been a Defaulting Lender.
+provided
+provided
+further
+ 
+Section 2.19
+ 
+Special Purpose Funding Vehicles
+.
+ 
+(a)
+ 
+Notwithstanding anything to the contrary contained herein, any Lender, (a ) may grant to a special purpose funding vehicle (an ) the option to fund all or any part of any Advance that such Granting Lender would otherwise be obligated to fund pursuant to this Agreement; , that (i) nothing herein shall constitute a commitment by an SPC to fund any Advance, and (ii) if an SPC elects not to exercise such option or otherwise fails to fund all or any part of such Advance, the Granting Lender shall be obligated to fund such Advance pursuant to the terms hereof.  The funding of an Advance by an SPC hereunder shall utilize the Commitment of the Granting Lender to the same extent, and as if, such Advance were funded by such Granting Lender.  Each party hereto hereby agrees that no SPC shall be liable for any indemnity or payment under this Agreement for which a Lender would otherwise be liable for so long as, and to the extent, the Granting Lender provides such indemnity or makes such payment.  Notwithstanding anything to the contrary contained in this Agreement, any SPC may disclose on a confidential basis any non-public information relating to its funding of Advances to any rating agency, commercial paper dealer or provider of any surety or guarantee to such SPC.
+Granting Lender
+SPC
+provided
+ 
+ 
+31
+ 
+(b)
+ 
+Each Granting Lender, acting solely for this purpose on the Borrowers behalf, shall maintain a register comparable to the Register maintained by the Agent pursuant to Section 8.07(c) for purpose of recording the funding of Advances by SPCs.
+ 
+(c)
+ 
+Assignments of and participations in Advances funded by SPCs shall be subject to the provisions of Section 8.07.
+ 
+(d)
+ 
+Notwithstanding anything to the contrary in this Agreement, (i) the Borrower shall not be required to pay any amount under Sections 2.10, 2.12 or 2.17 that is greater than the amount which the Borrower would have been required to pay had such SPC not provided the Borrower with any part of any Advance of such Granting Lender and (ii) an SPC shall not be entitled to any benefits under Section 2.12 unless such SPC agrees to be subject to the provisions of Sections 2.10(d), 2.12(e), 2.12(f), 2.12(g) and 2.17 as if it were an assignee (as of the date it funds its first Advance hereunder) under Section 8.07.
+ 
+ARTICLE III
+ 
+CONDITIONS OF LENDING
+Section 3.01
+ 
+Condition Precedent to Effective Date
+.  The effectiveness of this Agreement and the obligation of each Lender to make its initial Advance hereunder on and after the Effective Date are subject to the condition precedent that the Agent receive on or before the Effective Date the following, each dated the Effective Date, and each in form and substance satisfactory to the Agent and in sufficient copies for each Lender:
+ 
+(a)
+ 
+This Agreement, executed by the Borrower, the Agent and each Lender listed on Schedule II attached hereto;
+ 
+(b)
+ 
+Copies of (i) the resolutions of the Board of Directors of the Borrower, approving this Agreement, and (ii) of all documents evidencing other necessary corporate action and governmental approvals, if any, with respect to this Agreement, in each case certified by the Secretary or an Assistant Secretary of the Borrower;
+ 
+(c)
+ 
+A certificate of the Secretary or an Assistant Secretary of the Borrower certifying the names and true signatures of the officers of the Borrower authorized to sign this Agreement and the other documents to be delivered by the Borrower hereunder;
+ 
+(d)
+ 
+A certificate of the Secretary or Assistant Secretary of the Borrower, dated the Effective Date, certifying the correctness and completeness of the copies of Borrowers Certificate of Incorporation and Bylaws previously delivered to the Agent, together with good standing certificates from the state of its incorporation, each to be dated a recent date prior to the Effective Date;
+ 
+ 
+32
+ 
+(e)
+ 
+A favorable opinion of M Louise Turilli, Esq., Vice President, Deputy General Counsel and Assistant Secretary of the Borrower, substantially in the form of Exhibit C hereto;
+ 
+(f)
+ 
+A certificate of an authorized officer of the Borrower, stating that the representations and warranties of the Borrower contained in Article IV are correct on and as of the Effective Date; and
+ 
+Evidence satisfactory to the Agent of (i) the absence of any indebtedness of the Borrower under the Existing Credit Agreement (including borrowings and accrued interest), (ii) the payment of fees, costs and expenses, if any, payable by the Borrower under the Existing Credit Agreement and (iii) if required by Administrative Agent (as such term is defined in the Existing Credit Agreement), consent to the termination of the Existing Credit Agreement and all commitments thereunder on the Effective Date by any party thereto which is not a party hereto.
+ 
+Section 3.02
+ 
+Conditions Precedent to Each Borrowing
+  The obligation of each Lender to make an Advance on the occasion of each Borrowing (including the initial Borrowing) shall be subject to the further conditions precedent that (i) the Agent shall have received a Notice of Borrowing with respect thereto in accordance with Section 2.02 and (ii) on the date of such Borrowing the following statements shall be true (and each of the giving of the applicable Notice of Borrowing and the acceptance by the Borrower of the proceeds of such Borrowing shall constitute a representation and warranty by the Borrower that on the date of such Borrowing such statements are true):
+.
+ 
+(a)
+ 
+The representations and warranties of the Borrower contained in Article IV (other than the representations set forth in the second sentence of Section 4.01(e) and clause (i) of Section 4.01(f) to the extent the proceeds of such Borrowing are used to repay Commercial Paper) are correct on and as of the date of such Borrowing, before and immediately after giving effect to such Borrowing and to the application of the proceeds therefrom, as though made on and as of such date, except to the extent that any such representation or warranty expressly relates only to an earlier date, in which case they were correct as of such earlier date; and
+ 
+(b)
+ 
+No event has occurred and is continuing, or would result from such Borrowing or from the application of the proceeds therefrom, which constitutes an Event of Default or a Potential Event of Default.
+ 
+ 
+33
+ 
+ARTICLE IV
+ 
+REPRESENTATIONS AND WARRANTIES
+ 
+Section 4.01
+ 
+Representations and Warranties of the Borrower
+.  The Borrower represents and warrants as follows:
+ 
+(a)
+ 
+.  The Borrower is a corporation duly organized, validly existing and in good standing under the laws of its jurisdiction of organization.  The Borrower is duly qualified to do business as a foreign corporation in good standing in all other jurisdictions which require such qualification, except to the extent that failure to so qualify would not have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.  Each Significant Subsidiary of the Borrower is duly organized and validly existing under the laws of the jurisdiction of its incorporation or formation.  Each such Subsidiary is duly qualified to do business in all other jurisdictions which require such qualification, except to the extent that failure to so qualify would not have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+Due Organization, etc
+ 
+(b)
+ 
+.  The execution, delivery and performance by the Borrower of this Agreement are within the Borrowers corporate powers, have been duly authorized by all necessary corporate action, and do not contravene (i) the Borrowers certificate of incorporation or bylaws or (ii) law or any material contractual restriction binding on or affecting the Borrower.
+Due Authorization, etc
+ 
+(c)
+ 
+.  No authorization or approval or other action by, and no notice to or filing with, any governmental authority or regulatory body is required for the due execution, delivery and performance by the Borrower of this Agreement except for those which have been obtained prior to the Effective Date and remain in full force and effect.
+Governmental Consent
+ 
+(d)
+ 
+.  This Agreement is the legal, valid and binding obligation of the Borrower enforceable against the Borrower in accordance with its terms, subject to the effect of applicable bankruptcy, insolvency, arrangement, moratorium and other similar laws affecting creditors rights generally and to the application of general principles of equity.
+Validity
+ 
+ 
+34
+ 
+(e)
+ 
+.  The consolidated balance sheet of the Borrower as at April 2, 2010, and the related consolidated statements of income and stockholders equity of the Borrower for the fiscal year then ended, copies of which have been furnished to each Bank, fairly present the consolidated financial condition of the Borrower as at such date and the consolidated results of the operations of the Borrower for the fiscal year ended on such date, all in accordance with GAAP consistently applied.  There has been no material adverse change in the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole, since April 2, 2010.
+Condition of the Borrower
+ 
+(f)
+ 
+.  There is no pending or (to the knowledge of the Borrower) threatened investigation, action or proceeding against the Borrower or any of its Subsidiaries before any court, governmental agency or arbitrator which (i) except as disclosed to the Lenders in the Exchange Act Reports filed prior to the Effective Date, would, if adversely determined, reasonably be expected to have a material adverse affect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole, or (ii) purports to affect the legality, validity or enforceability of this Agreement.
+Litigation
+ 
+(g)
+ 
+.  The Borrower is not engaged in the business of extending credit for the purpose of purchasing or carrying margin stock (within the meaning of Regulation U issued by the Board of Governors of the Federal Reserve System), and no proceeds of any Advance will be used to purchase or carry any margin stock or to extend credit to others for the purpose of purchasing or carrying any margin stock in any manner that violates or would cause a violation of Regulation T, Regulation U or Regulation X.
+Margin Regulations
+ 
+(h)
+ 
+.  Except as disclosed in the Exchange Act Reports prior to the Effective Date, the Borrower and each of its Significant Subsidiaries have filed or caused to be filed all Tax returns (federal, state, local and foreign) required to be filed and paid all amounts of Taxes shown thereon to be due, including interest and penalties, except (i) for such Taxes as are being contested in good faith and by proper proceedings and with respect to which appropriate reserves are being maintained by the Borrower or any such Subsidiary, as the case may be and (ii) to the extent that the failure to file such returns or pay such Taxes would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+Payment of Taxes
+ 
+(i)
+ 
+.  The Borrower is not subject to regulation under the Federal Power Act, the Interstate Commerce Act or the Investment Company Act of 1940, each as amended, or to any Federal or state statute or regulation limiting its ability to incur indebtedness for money borrowed.
+Governmental Regulation
+ 
+(j)
+ 
+ERISA.
+ 
+(i)
+ 
+No ERISA Event has occurred or is reasonably expected to occur (other than for premiums payable under Title IV of ERISA), that would reasonably be expected to result in a liability to the Borrower or its ERISA Affiliates of more than $125,000,000 over the amount previously reflected for any such liabilities, in accordance with GAAP, on the financial statements delivered pursuant to Section 4.01(e).
+ 
+ 
+35
+ 
+(ii)
+ 
+Schedule B (Actuarial Information) to the most recently completed annual report (Form 5500 Series) for each Pension Plan, copies of which have been filed with the Internal Revenue Service and furnished to the Agent, is complete and, to the best knowledge of the Borrower, accurate, and since the date of such Schedule B there has been no change in the funding status of any such Pension Plan except any change that would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+ 
+(iii)
+ 
+As of the most recent valuation date for each Multiemployer Plan for which the actuarial report is available, the potential liability to the Borrower or any of its ERISA Affiliates for a complete withdrawal from such Multiemployer Plan, when aggregated with such potential liability for a complete withdrawal for all Multiemployer Plans, based on information available pursuant to Section 4221(e) of ERISA, does not exceed $125,000,000.
+ 
+(iv)
+ 
+The Borrower and each of its ERISA Affiliates are in compliance with all applicable provisions and requirements of ERISA and the regulations and published interpretations thereunder with respect to each Employee Benefit Plan, and have performed all their obligations under each Employee Benefit Plan except for any suchfailure to perform or comply that would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.  Each Employee Benefit Plan that is intended to qualify under Section 401(a) of the Code has received a determination letter from the Internal Revenue Service that the Employee Benefit Plan is so qualified (or a timely application for such a determination letter is pending), and to the best of the Borrowers knowledge, the Employee Benefit Plan has not been operated in any way that would result in the Employee Benefit Plan no longer being so qualified except as would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+ 
+(v)
+ 
+Neither the Borrower nor any ERISA Affiliate has been notified by the sponsor of a Multiemployer Plan that such Multiemployer Plan is insolvent, in reorganization or has been terminated or has been determined to be in endangered or critical status, within the meaning of Title IV of ERISA, and, to the best knowledge of the Borrower, no Multiemployer Plan is reasonably expected to be insolvent, in reorganization or to be terminated or to be determined to be in endangered or critical status within the meaning of Title IV of ERISA, in each case, resulting in a liability to the Borrower or its ERISA Affiliates of more than $125,000,000.
+ 
+(k)
+ 
+.  No representation or warranty of the Borrower contained in this Agreement (including any Schedule furnished in connection herewith) contains any untrue statement of a material fact.  No other document, certificate or written statement furnished to the Agent or any Lender by or on behalf of the Borrower for use in connection with the transactions contemplated in this Agreement, taken as a whole with other documents, certificates or written statements furnished contemporaneously therewith, contains any untrue statement of fact or omits to state a material fact (known to the Borrower in the case of any documents, certificates or written statements not furnished by it) necessary in order to make the statements contained therein not misleading in light of the circumstances under which the same were made.
+Disclosure
+ 
+ 
+36
+ 
+(l)
+ 
+.  The Borrower and its Subsidiaries (i) maintain insurance with responsible and reputable insurance companies or associations in such amounts and covering such risks as are usually insured by companies engaged in similar businesses or (ii) maintain a plan or plans of self-insurance to such extent and covering such risks as is usual for companies of comparable size engaged in the same or similar business, which plans shall include, among other things, adequate reserves for the risks that are self-insured.
+Insurance
+ 
+(m)
+ 
+.  (i) The Borrower and each of its Subsidiaries is in compliance with all Environmental Laws except to the extent any non-compliance would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole, and (ii) there has been no release or threatened release of a hazardous substance (as defined by the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended, 42 U.S.C.  9601 .) or any other release, emission or discharge into the environment of any hazardous or toxic substance, pollutant or other materials from the Borrowers or its Subsidiaries property other than as permitted under applicable Environmental Law and other than those which would not have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.  Other than disposals for which the Borrower has been indemnified in full, all hazardous waste (as defined by the Resource Conservation and Recovery Act, 42 U.S.C.  6901 . (1976) and the regulations thereunder, 40 CFR Part 261 ()) generated at the Borrowers or any Subsidiaries properties have in the past been and shall continue to be disposed of at sites which maintain valid permits under RCRA and any applicable state or local Environmental Law, except to the extent where the failure to so dispose would not reasonably be expected have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+Environmental Matters
+et
+seq
+et
+seq
+RCRA
+ 
+ 
+37
+ 
+ARTICLE V
+                                
+COVENANTS
+ 
+ Section 5.01
+   
+ 
+Affirmative Covenants of the Borrower
+.  The Borrower covenants and agrees that the Borrower will, unless and until all of the Advances shall have been paid in full and all of the Commitments of the Lenders shall have terminated, unless Majority Lenders shall otherwise consent in writing:
+ 
+(a)
+ 
+  Comply, and cause each of its Subsidiaries to comply, with all applicable laws, rules, regulations and orders, such compliance to include, without limitation, (i) complying with all Environmental Laws and (ii) paying before the same become delinquent all Taxes imposed upon it or upon its property except to the extent contested in good faith, except where failure to so comply would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+Compliance with Laws, Etc.
+ 
+(b)
+ 
+.  Furnish to the Agent:
+Reporting Requirements
+ 
+(i)
+ 
+as soon as available and in any event within 60 days of the end of each of the first three fiscal quarters of each fiscal year of the Borrower, a copy of the quarterly report (x) for such quarter for the Borrower, containing a consolidated balance sheet and consolidated statements of income and (x) for the period consisting of the fiscal year then elapsed, for the Borrower, containing consolidated statements of stockholders equity and cash flows;
+ 
+(ii)
+ 
+as soon as available and in any event within 120 days after the end of each fiscal year of the Borrower, a copy of the consolidated annual audit report for such year for the Borrower, containing financial statements (including a consolidated balance sheet, consolidated statements of income, retained earnings and cash flows of the Borrower) for such year, accompanied by an opinion of Deloitte & Touche or other nationally recognized independent public accountants.  The opinion shall be unqualified (as to going concern, scope of audit and disagreements over the accounting or other treatment of offsets) and shall state that such consolidated financial statements present fairly the consolidated financial position of the Borrower as at the dates indicated and the results of their operations and cash flow for the periods indicated in conformity with GAAP applied on a basis consistent with prior years (except as stated therein) and that the examination by such accountants in connection with such consolidated financial statements has been made in accordance with generally accepted auditing standards;
+ 
+ 
+38
+ 
+(iii)
+ 
+together with each delivery of the report of the Borrower pursuant to clause (i) or clause (ii) above, a compliance certificate for the quarter or year, as applicable, executed by an authorized financial officer of the Borrower (A) stating, in the case of the financial statements delivered under Section 5.01(b)(i) for such quarter, that such financial statements fairly present the financial condition of the Borrower and its Subsidiaries as at the dates indicated and the results of operations of the Borrower and its Subsidiaries and cash flow for the periods indicated in conformity with GAAP applied on a basis consistent with prior years (except as otherwise stated therein), subject to changes resulting from audit and normal year-end adjustment, (B) stating that  such authorized financial officer has reviewed the terms of this Agreement and has made, or caused to be made under his or her supervision, a review in reasonable detail of the transactions and financial condition of the Borrower and its Subsidiaries during the accounting period covered by such financial statements and that such authorized financial officer does not have knowledge of the existence as at the date of the compliance certificate, of any condition or event that constitutes an Event of Default or a Potential Event of Default or, if any such condition or event exists, specifying the nature thereof and what action the Borrower has taken, is taking and proposes to take with respect thereto and (C) demonstrating in reasonable detail compliance at the end of such accounting periods with the restrictions contained in Section 5.02(c).
+ 
+(iv)
+ 
+as soon as possible and in any event within five days after the occurrence of each Event of Default and each Potential Event of Default, continuing on the date of such statement, a statement of an authorized financial officer of the Borrower setting forth details of such Event of Default or Potential Event of Default and the action which the Borrower has taken and proposes to take with respect thereto;
+ 
+(v)
+ 
+promptly after the sending or filing thereof, copies of all proxy statements, financial statements and reports that the Borrower or any of its Subsidiaries sends to its stockholders generally, and copies of all regular, periodic and special reports, and all registration statements, that the Borrower or any of its Subsidiaries files with the SEC or any governmental authority that may be substituted therefor, or with any national securities exchange;
+ 
+(vi)
+ 
+promptly after the commencement thereof, notice of all material actions, suits and proceedings before any court or government department, commission, board, bureau, agency or instrumentality, domestic or foreign, affecting the Borrower or any of its Subsidiaries, of the type described in Section 4.01(f);
+ 
+ 
+39
+ 
+(vii)
+ 
+promptly after the occurrence thereof, notice of (A) any event which makes any of the representations contained in Section 4.01(m) inaccurate or (B) the receipt by the Borrower of any notice, order, directive or other communication from a governmental authority alleging violations of or noncompliance with any Environmental Law which could reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole;
+ 
+(viii)
+ 
+promptly after any change in any Rating, a notice of such change, which notice shall specify the new Rating, the date on which such change was publicly announced by S&P or Moodys, as the case may be, and such other information with respect to such change as any Lender through the Agent may reasonably request; and
+ 
+(ix)
+ 
+such other information respecting the business, financial condition or operations of the Borrower and the Subsidiaries as any Lender through the Agent may from time to time reasonably request.
+ 
+In lieu of furnishing to the Agent paper copies of the documents required to be delivered pursuant to Sections 5.01(b)(i), (ii), (v), (vi) and (ix), to the extent such documents are filed with the SEC, the Borrower shall notify the Agent when such documents are so filed and may make such documents available to the Agent and Lenders at its Internet website located at http://www.csc.com and through the SECs EDGAR system.  Notwithstanding the foregoing, the Borrower shall deliver paper copies of such documents to any Lender that requests the Borrower to deliver such paper copies.
+ 
+(c)
+ 
+  The Borrower will, and will cause each of its Significant Subsidiaries to, at all times maintain its fundamental business and preserve and keep in full force and effect its corporate existence and all material rights, franchises and licenses necessary or desirable in the normal conduct of its business, in each case as applicable, except as permitted under Section 5.02(b) and except if, in the reasonable business judgment of the Borrower, it is in the business interest of the Borrower or such Subsidiary not to preserve and maintain such legal existence (except with respect to the Borrower), rights (charter and statutory) and franchises, and such failure to preserve the same would not reasonably be expected to have a material adverse effect on the business, financial condition or operations of the Borrower and the Subsidiaries, taken as a whole.
+Corporate Existence, Etc.
+ 
+(d)
+ 
+.  The Borrower will and will cause each of its Significant Subsidiaries to maintain insurance with responsible and reputable insurance companies or associations in such amounts and covering such risks as are usually insured by companies engaged in similar businesses.  Notwithstanding the foregoing, the Borrower and such Subsidiaries may maintain a plan or plans of self-insurance to such extent and covering such risks as is usual for companies of comparable size engaged in the same or similar business, which plans shall include, among other things, adequate reserves for the risks that are self-insured.  On request the Borrower will advise the Agent and the Lenders concerning any such plan or plans for self-insurance.
+Maintenance of Insurance
+ 
+ 
+40
+ 
+(e)
+ 
+.  At any reasonable time and from time to time during normal business hours and with reasonable prior notice, permit the Agent or any of the Lenders or any agents or representatives thereof (at their sole cost and expense), to visit the properties of, the Borrower and any of its Subsidiaries, and to discuss the affairs, finances and accounts of the Borrower and any of its Subsidiaries with any of their officers employees, or if an Event of Default is continuing, with their independent certified public accountants.
+Visitation Rights
+ 
+(f)
+ 
+.  Keep, and will cause each of its Significant Subsidiaries to keep, in all material respects, proper books of record and account in accordance with GAAP.
+Keeping of Books
+ 
+Section 5.02
+ 
+Negative Covenants of the Borrower
+.  The Borrower covenants and agrees that, unless and until all of the Advances shall have been paid in full and the Commitments of all of the Lenders shall have terminated, unless Majority Lenders shall otherwise consent in writing:
+ 
+(a)
+ 
+  The Borrower will not create or suffer to exist, or permit any of its Significant Subsidiaries to create or suffer to exist, any Lien, upon or with respect to any of its properties, whether now owned or hereafter acquired, or assign, or permit any of such Subsidiaries to assign, any right to receive income, in each case to secure or provide for the payment of any Debt of any Person, unless the Borrowers obligations hereunder shall be secured equally and ratably with, or prior to, any such Debt; that the foregoing restriction shall not apply to the following Liens which are permitted:
+Liens, Etc.
+provided
+however
+ 
+(i)
+ 
+Customary Permitted Liens;
+ 
+(ii)
+ 
+Liens in favor of the United States to secure amounts paid to the Borrower or any of its Subsidiaries as advance or progress payments under government contracts entered into by it so long as such Liens cover only (x) special bank accounts into which only such advance or progress payments are deposited and (y) supplies covered by such government contracts and material and other property acquired for or allocated to the performance of such government contracts;
+ 
+(iii)
+ 
+attachment, judgment and other similar Liens arising in connection with legal proceedings, that any such judgment does not constitute an Event of Default;
+provided
+ 
+(iv)
+ 
+Liens on accounts receivable resulting from the sale of such accounts receivable;
+ 
+ 
+41
+ 
+(v)
+ 
+Liens on assets of any Significant Subsidiary of the Borrower existing at the time such Person becomes a Significant Subsidiary or is merged into or consolidated with the Borrower or a Significant Subsidiary (other than any such Lien created in contemplation of becoming a Significant Subsidiary);
+ 
+(vi)
+ 
+purchase money Liens upon or in any asset acquired or held by the Borrower or any Significant Subsidiary (including any capital interest in any Person) to secure the purchase price of such asset or to secure Debt incurred solely for the purpose of financing the acquisition of or construction of improvements on or with respect to any such asset (provided that the amount of Debt secured by such Lien does not exceed 100% of the purchase price of such asset and transaction costs relating to such acquisition or the costs of such construction) and Liens existing on such asset at the time of its acquisition (other than any such Lien created in contemplation of such acquisition); and the interest of the lessor thereof in any assset that is subject to a Capital Lease;
+ 
+(vii)
+ 
+Liens, other than Liens described in clauses (i) through (vi) and in clause (ix), to secure Debt not in excess of an aggregate of $100,000,000 principal amount at any time outstanding;
+ 
+(viii)
+ 
+Liens resulting from any extension, renewal or replacement (or successive extensions, renewals or replacements), in whole or in part, of any Debt secured by any Lien referred to in clauses (v) and (vi) so long as (x) the aggregate principal amount of any such Debt shall not increase as a result of any such extension, renewal or replacement and (y) Liens resulting from any such extension, renewal or replacement shall cover only such property which secured the Debt that is being extended, renewed or replaced; and
+ 
+(ix)
+ 
+Liens securing Debt owing to the Borrower or any of the Subsidiaries.
+ 
+(b)
+ 
+.  The Borrower will not, and will not permit any of its Significant Subsidiaries to, merge or consolidate with or into, or convey, transfer, lease or otherwise dispose of (whether in one transaction or in a series of transactions) all or a substantial portion of its assets (whether now owned or hereafter acquired) to any Person (other than the Borrower or any Subsidiary of the Borrower, so long as the Borrower, directly or indirectly, owns 80% or more of the voting stock thereof), or enter into any partnership, joint venture, syndicate, pool or other combination, unless (a) no Event of Default or Potential Event of Default has occurred and is continuing or would result therefrom and (b) in the case of any consolidation or merger involving the Borrower, either (i) the Borrower is the surviving entity or (ii) the Person surviving or resulting from such consolidation or merger shall have assumed the obligations of the Borrower hereunder in an agreement or instrument reasonably satisfactory in form and substance to the Agent and such surviving corporation shall have delivered, for the benefit of the Lenders and the Agent, such other documents as may reasonably be requested, including, without limitation, information in respect of know your customer and similar requirements, an incumbency certificate and an opinion of nationally recognized independent counsel, or other independent counsel reasonably satisfactory to the Majority Lenders, to the effect that all agreements or instruments effecting such assumption are enforceable in accordance with their terms and comply with the terms hereof.
+Restrictions on Fundamental Changes
+ 
+ 
+42
+ 
+(c)
+ 
+.
+Financial Covenants
+ 
+(i)
+ 
+.  The Borrower will not permit at the end of any quarterly financial reporting period the ratio of Consolidated EBITDA to Consolidated Interest Expense for the period of four consecutive fiscal quarters ending on the last day of such quarterly financial reporting period, taken as a single period, to be less than 3.00 to 1.00.
+Minimum Interest Coverage Ratio
+ 
+(ii)
+ 
+  The Borrower will not permit at the end of any quarterly financial reporting period the ratio of Consolidated Total Debt as of the last day of such quarterly financial reporting period to Consolidated EBITDA for the period of four consecutive fiscal quarters ending on the last day of such quarterly financial reporting period, taken as a single period, to exceed 3.00 to 1.00.
+Consolidated Total Debt to Consolidated EBITDA Ratio.
+ 
+ARTICLE VI
+ 
+EVENTS OF DEFAULT
+Section 6.01
+ 
+Events of Default
+  If any of the following events () shall occur and be continuing:
+.
+Events of Default
+ 
+(a)
+ 
+The Borrower shall fail to pay any principal of any Advance when the same becomes due and payable or the Borrower shall fail to pay any interest on any Advance or any fees or other amounts payable hereunder within five days of the date due; or
+ 
+(b)
+ 
+Any representation or warranty made by the Borrower herein or in connection with this Agreement shall prove to have been incorrect in any material respect when made; or
+ 
+(c)
+ 
+The Borrower shall fail to perform or observe (i) any term, covenant or agreement contained in Section 5.01(c) or 5.02, or (ii) any other term, covenant or agreement contained in this Agreement on its part to be performed or observed if the failure to perform or observe such other term, covenant or agreement shall remain unremedied for 30 days after the earlier to occur of (i) written notice thereof having been given to the Borrower by the Agent at the request of any Lender or (ii) actual knowledge thereof by the Borrower of such failure; or
+ 
+ 
+43
+ 
+(d)
+ 
+The Borrower or any of its Significant Subsidiaries shall fail to pay any principal of or premium or interest on any of its Debt or any payment obligations in respect of guarantees of the Borrower or any such Significant Subsidiary of Debt owed to any Person other than the Borrower and the Subsidiaries which is outstanding in a principal amount of at least $125,000,000 in the aggregate (but excluding Debt arising under this Agreement), when the same becomes due and payable (whether by scheduled maturity, required prepayment, acceleration, demand or otherwise), and such failure shall continue after the applicable grace period, if any, specified in the agreement or instrument relating to such Debt or guarantee; or any other event shall occur or condition shall exist under any agreement or instrument relating to any such Debt and shall continue after the applicable grace period, if any, specified in such agreement or instrument, if the effect of such event or condition is to accelerate, or to permit the acceleration of, the maturity of such Debt; or any such Debt shall be declared to be due and payable, or required to be prepaid (other than by a regularly scheduled required prepayment or by a required prepayment of insurance proceeds or by a required prepayment as a result of formulas based on asset sales or excess cash flow), redeemed, purchased or defeased, or an offer to prepay, redeem, purchase or defease such Debt shall be required to be made, in each case prior to the stated maturity thereof; or
+ 
+(e)
+ 
+The Borrower or any of its Significant Subsidiaries shall generally not pay its debts as such debts become due, or shall admit in writing its inability to pay its debts generally, or shall make a general assignment for the benefit of creditors; or any proceeding shall be instituted by or against the Borrower or any of its Significant Subsidiaries seeking to adjudicate it a bankrupt or insolvent, or seeking liquidation, winding up, reorganization, arrangement, adjustment, protection, relief, or composition of it or its debts under any law relating to bankruptcy, insolvency or reorganization or relief of debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee, custodian or other similar official for it or for substantial part of its property and, in the case of any such proceeding instituted against it (but not instituted by it), either such proceeding shall remain undismissed or unstayed for a period of 60 days, or any of the actions sought in such proceeding (including, without limitation, the entry of an order for relief against, or the appointment of a receiver, trustee, custodian or other similar official for, it or for any substantial part of its property) shall occur; or the Borrower or any of its Significant Subsidiaries shall take any corporate or partnership action to authorize any of the actions set forth above in this subsection (e); or
+ 
+(f)
+ 
+Any judgment or order for the payment of money in excess of $125,000,000 shall be rendered against the Borrower or any of its Significant Subsidiaries and is not promptly paid by the Borrower or any of its Significant Subsidiaries and either (i) enforcement proceedings shall have been commenced by any creditor upon such judgment or order or (ii) there shall be any period of 10 consecutive days during which a stay of enforcement of such judgment or order, by reason of a pending appeal or otherwise, shall not be in effect; or
+ 
+ 
+44
+ 
+(g)
+ 
+ 
+(i)
+ 
+There occurs one or more ERISA Events which individually or in the aggregate results in or might reasonably be expected to result in liability to the Borrower or any of its ERISA Affiliates in excess of $125,000,000 over the amount previously reflected for any such liabilities, in accordance with GAAP, on the financial statements delivered pursuant to Section 4.01(e); or
+ 
+(ii)
+ 
+The Borrower or any ERISA Affiliate shall have been notified by the sponsor of a Multiemployer Plan that it has incurred an aggregate Withdrawal Liability for all years to such Multiemployer Plan in an amount that, when aggregated with all other amounts required to be paid to Multiemployer Plans by the Borrower and its ERISA Affiliates as Withdrawal Liability (determined as of the date of such notification), exceeds $125,000,000; or
+ 
+(iii)
+ 
+The Borrower or any ERISA Affiliate shall have been notified by the sponsor of a Multiemployer Plan that such Multiemployer Plan is insolvent, in reorganization or is being terminated or has been determined to be in endangered or critical status, within the meaning of Title IV or ERISA, if as a result of such event the aggregate annual contributions of the Borrower and its ERISA Affiliates to all Multiemployer Plans that are then insolvent, in reorganization or being terminated or have been determined to be in endangered or critical status have been or will be increased over the amounts contributed to such Multiemployer Plans for the plan year of such Multiemployer Plan immediately preceding the plan year in which the event occurs by an amount exceeding, in each case, resulting in a liability to the Borrower or its ERISA Affiliates of more than $125,000,000; or
+ 
+(h)
+ 
+Any Person or two or more Persons acting in concert shall have acquired beneficial ownership (within the meaning of Rule 13d-3 of the SEC under the Securities Exchange Act of 1934, as amended), directly or indirectly, of securities of the Borrower (or other securities convertible into such securities) representing 35% or more of the combined voting power of all securities of the Borrower entitled to vote in the election of directors, other than securities having such power only by reason of the happening of a contingency.
+ 
+then, and in any such event, the Agent (i) shall at the request, or may with the consent, of the Majority Lenders, by notice to the Borrower, declare the obligation of each Lender to make Advances to be terminated, whereupon the same shall forthwith terminate, and (ii) shall at the request, or may with the consent, of the Majority Lenders, by notice to the Borrower, declare the Advances, all interest thereon and all other amounts payable under this Agreement to be forthwith due and payable, whereupon the Advances, all such interest and all such amounts shall become and be forthwith due and payable, without presentment, demand, protest or further notice of any kind, all of which are here expressly waived by the Borrower; , , that in the event of an actual or deemed entry of an order for relief with respect to the Borrower or any of its Significant Subsidiaries under the Federal Bankruptcy Code, (A) the obligation of each Lender to make Advances shall automatically be terminated and (B) the Advances, all such interest and all such amounts shall automatically become and be due and payable, without presentment, demand, protest or any notice of any kind, all of which are hereby expressly waived by the Borrower.
+provided
+however
+ 
+ 
+45
+ 
+ARTICLE VII
+ 
+THE AGENT
+Section 7.01
+ 
+Authorization and Authority
+  Each Lender hereby irrevocably appoints Citibank, N.A. to act on its behalf as the Agent hereunder and authorizes the Agent to take such actions on its behalf and to exercise such powers as are delegated to the Agent by the terms hereof, together with such actions and powers as are reasonably incidental thereto.  The provisions of this Article are solely for the benefit of the Agent and the Lenders, and the Borrower shall have no rights as a third party beneficiary of any of such provisions.
+.
+ 
+Section 7.02
+ 
+Agent Individually
+.
+ 
+(a)
+ 
+The Person serving as the Agent hereunder shall have the same rights and powers in its capacity as a Lender as any other Lender and may exercise the same as though it were not the Agent and the term Lender or Lenders shall, unless otherwise expressly indicated or unless the context otherwise requires, include the Person serving as the Agent hereunder in its individual capacity.  Such Person and its Affiliates may accept deposits from, lend money to, act as the financial advisor or in any other advisory capacity for and generally engage in any kind of business with the Borrower or any Subsidiary or other Affiliate thereof as if such Person were not the Agent hereunder and without any duty to account therefor to the Lenders.
+ 
+(b)
+ 
+Each Lender understands that the Person serving as Agent, acting in its individual capacity, and its Affiliates (collectively, the ) are engaged in a wide range of financial services and businesses (including investment management, financing, securities trading, corporate and investment banking and research) (such services and businesses are collectively referred to in this Section 7.02 as ) and may engage in the Activities with or on behalf of the Borrower or its Affiliates.  Furthermore, the Agents Group may, in undertaking the Activities, engage in trading in financial products or undertake other investment businesses for its own account or on behalf of others (including the Borrower and its Affiliates and including holding, for its own account or on behalf of others, equity, debt and similar positions in the Borrower or its Affiliates), including trading in or holding long, short or derivative positions in securities, loans or other financial products of one or more of the Borrower and its Affiliates.  Each Lender understands and agrees that in engaging in the Activities, the Agents Group may receive or otherwise obtain information concerning the Borrower and its Affiliates (including information concerning the ability of the Borrower to perform its obligations hereunder) which information may not be available to any of the Lenders that are not members of the Agents Group.  None of the Agent nor any member of the Agents Group shall have any duty to disclose to any Lender or use on behalf of the Lenders, and shall not be liable for the failure to so disclose or use, any information whatsoever about or derived from the Activities or otherwise (including any information concerning the business, prospects, operations, property, financial and other condition or creditworthiness of the Borrower) or to account for any revenue or profits obtained in connection with the Activities, except that the Agent shall deliver or otherwise make available to each Lender such documents as are expressly required by this Agreement to be transmitted by the Agent to the Lenders.
+Agents Group
+Activities
+ 
+ 
+46
+ 
+(c)
+ 
+Each Lender further understands that there may be situations where members of the Agents Group or their respective customers (including the Borrower and its Affiliates) either now have or may in the future have interests or take actions that may conflict with the interests of any one or more of the Lenders (including the interests of the Lenders hereunder).  Each Lender agrees that no member of the Agents Group is or shall be required to restrict its activities as a result of the Person serving as Agent being a member of the Agents Group, and that each member of the Agents Group may undertake any Activities without further consultation with or notification to any Lender.  None of (i) this Agreement, (ii) the receipt by the Agents Group of information (including Information) concerning the Borrower or its Affiliates (including information concerning the ability of the Borrower to perform its obligations hereunder) nor (iii) any other matter shall give rise to any fiduciary, equitable or contractual duties (including without limitation any duty of trust or confidence) owing by the Agent or any member of the Agents Group to any Lender including any such duty that would prevent or restrict the Agents Group from acting on behalf of customers (including the Borrower or its Affiliates) or for its own account.    .
+ 
+Section 7.03
+ 
+Duties of Agent; Exculpatory Provisions
+.
+ 
+(a)
+ 
+The Agents duties hereunder are solely ministerial and administrative in nature and the Agent shall not have any duties or obligations except those expressly set forth herein.  Without limiting the generality of the foregoing, the Agent shall not have any duty to take any discretionary action or exercise any discretionary powers, but shall be required to act or refrain from acting (and shall be fully protected in so acting or refraining from acting) upon the written direction of the Majority Lenders (or such other number or percentage of the Lenders as shall be expressly provided for herein), that the Agent shall not be required to take any action that, in its opinion or the opinion of its counsel, may expose the Agent or any of its Affiliates to liability or that is contrary to this Agreement or applicable law.
+provided
+ 
+(b)
+ 
+The Agent shall not be liable for any action taken or not taken by it (i) with the consent or at the request of the Majority Lenders (or such other number or percentage of the Lenders as shall be necessary, or as the Agent shall believe in good faith shall be necessary, under the circumstances as provided in Sections 8.01 or 6.01) or (ii) in the absence of its own gross negligence or willful misconduct.  The Agent shall be deemed not to have knowledge of any Potential Event of Default or Event of Default or the event or events that give or may give rise to any Potential Event of Default or Event of Default unless and until the Borrower or any Lender shall have given notice to the Agent describing such Potential Event of Default or Event of Default and such event or events.
+ 
+ 
+47
+ 
+(c)
+ 
+Neither the Agent nor any member of the Agents Group shall be responsible for or have any duty to ascertain or inquire into (i) any statement, warranty, representation or other information made or supplied in or in connection with this Agreement, (ii) the contents of any certificate, report or other document delivered hereunder or in connection herewith or the adequacy, accuracy and/or completeness of the information contained therein, (iii) the performance or observance of any of the covenants, agreements or other terms or conditions set forth herein or therein or the occurrence of any Potential Event of Default or Event of Default, (iv) the validity, enforceability, effectiveness or genuineness of this Agreement or any other agreement, instrument or document or the perfection or priority of any Lien or security interest created or purported to be created hereby or (v) the satisfaction of any condition set forth in Article III or elsewhere herein, other than (but subject to the foregoing clause (ii)) to confirm receipt of items expressly required to be delivered to the Agent.
+ 
+(d)
+ 
+Nothing in this Agreement shall require the Agent or any of its Related Parties to carry out any know your customer or other checks in relation to any person on behalf of any Lender and each Lender confirms to the Agent that it is solely responsible for any such checks it is required to carry out and that it may not rely on any statement in relation to such checks made by the Agent or any of its Related Parties.
+ 
+Section 7.04
+ 
+Reliance by Agent
+  The Agent shall be entitled to rely upon, and shall not incur any liability for relying upon, any notice, request, certificate, consent, statement, instrument, document or other writing (including any electronic message, Internet or intranet website posting or other distribution) believed by it to be genuine and to have been signed, sent or otherwise authenticated by the proper Person.  The Agent also may rely upon any statement made to it orally or by telephone and believed by it to have been made by the proper Person, and shall not incur any liability for relying thereon.  In determining compliance with any condition hereunder to the making of an Advance that by its terms must be fulfilled to the satisfaction of a Lender, the Agent may presume that such condition is satisfactory to such Lender unless an officer of the Agent responsible for the transactions contemplated hereby shall have received notice to the contrary from such Lender prior to the making of such Advance, and such Lender shall not have made available to the Agent such Lenders ratable portion of the applicable Borrowing.  The Agent may consult with legal counsel (who may be counsel for the Borrower), independent accountants and other experts selected by it, and shall not be liable for any action taken or not taken by it in accordance with the advice of any such counsel, accountants or experts.
+.
+ 
+ 
+48
+ 
+Section 7.05
+ 
+Indemnification
+  The Lenders agree to indemnify the Agent (to the extent the Borrower is required to reimburse the Agent pursuant to Section 8.04 and only to the extent not reimbursed by the Borrower), ratably according to the respective principal amounts of the Advances then held by each of them (or if no Advances are at the time outstanding or if any Advances are held by Persons which are not Lenders, ratably according to the respective amounts of their Commitments), from and against any and all liabilities, obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses or disbursements of any kind or nature whatsoever which may be imposed on, incurred by, or asserted against the Agent in any way relating to or arising out of this Agreement or any action taken or omitted by the Agent under this Agreement, that no Lender shall be liable for any portion of such liabilities, obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses or disbursements resulting from the Agents gross negligence or willful misconduct.  Without limitation of the foregoing, each Lender agrees to reimburse the Agent promptly upon demand for its ratable share of any out-of-pocket expenses (including counsel fees) incurred by the Agent in connection with the preparation, execution, delivery, administration, syndication, modification, amendment or enforcement (whether through negotiations, legal proceedings or otherwise) of, or legal advice in respect of rights or responsibilities under, this Agreement, to the extent that the Agent is not reimbursed for such expenses by the Borrower.
+.
+provided
+ 
+Section 7.06
+ 
+Resignation of Agent
+  The Agent may at any time give notice of its resignation to the Lenders and the Borrower.  Upon receipt or giving of any such notice of resignation, the Majority Lenders shall have the right, in consultation with the Borrower, to appoint a successor, which shall be a bank with an office in New York, New York, or an Affiliate of any such bank with an office in New York, New York.  If no such successor shall have been so appointed by the Majority Lenders and shall have accepted such appointment within 30 days after the retiring Agent gives notice of its resignation (such 30-day period, the ), then the retiring Agent may on behalf of the Lenders, appoint a successor Agent meeting the qualifications set forth above.  In addition and without any obligation on the part of the retiring Agent to appoint, on behalf of the Lenders, a successor Agent, the retiring Agent may at any time upon or after the end of the Lender Appointment Period notify the Borrower and the Lenders that no qualifying Person has accepted appointment as successor Agent and the effective date of such retiring Agents resignation.  Upon the resignation effective date established in such notice and regardless of whether a successor Agent has been appointed and accepted such appointment, the retiring Agents resignation shall nonetheless become effective and (i) the retiring Agent shall be discharged from its duties and obligations as Agent hereunder and (ii) all payments, communications and determinations provided to be made by, to or through the Agent shall instead be made by or to each Lender directly and, during such period, the Borrower shall have no obligation to pay to any Person the fees described in Section 2.04(b), until such time as the Majority Lenders appoint a successor Agent as provided for above in this paragraph.  Upon the acceptance of a successors appointment as Agent hereunder, such successor shall succeed to and become vested with all of the rights, powers, privileges and duties as Agent of the retiring (or retired) Agent, and the retiring Agent shall be discharged from all of its duties and obligations as Agent hereunder (if not already discharged therefrom as provided above in this paragraph).  The fees payable by the Borrower to a successor Agent shall be the same as those payable to its predecessor unless otherwise agreed between the Borrower and such successor.  After the retiring Agents resignation hereunder, the provisions of this Article and Section 8.04 shall continue in effect for the benefit of such retiring Agent, its sub-agents and their respective Related Parties in respect of any actions taken or omitted to be taken by any of them while the retiring Agent was acting as Agent.
+.
+Lender Appointment Period
+ 
+ 
+49
+ 
+Section 7.07
+ 
+Delegation of Duties
+  The Agent may perform any and all of its duties and exercise its rights and powers hereunder by or through any one or more sub-agents appointed by the Agent.  The Agent and any such sub-agent may perform any and all of its duties and exercise its rights and powers by or through their respective Related Parties.  Each such sub-agent and the Related Parties of the Agent and each such sub-agent shall be entitled to the benefits of all provisions of this Article VII and Section 8.04(as though such sub-agents were the Agent hereunder) as if set forth in full herein with respect thereto.
+.
+ 
+ 
+Section 7.08
+ 
+Non-Reliance on Agent and Other Lenders
+.
+ 
+(a)
+ 
+Each Lender confirms to the Agent, each other Lender and each of their respective Related Parties that it (i) possesses (individually or through its Related Parties) such knowledge and experience in financial and business matters that it is capable, without reliance on the Agent, any other Lender or any of their respective Related Parties, of evaluating the merits and risks (including tax, legal, regulatory, credit, accounting and other financial matters) of (x) entering into this Agreement, (y) making Advances and other extensions of credit hereunder and (z) in taking or not taking actions hereunder and thereunder, (ii) is financially able to bear such risks and (iii) has determined that entering into this Agreement and making Advances and other extensions of credit hereunder is suitable and appropriate for it.
+ 
+(b)
+ 
+Each Lender acknowledges that (i) it is solely responsible for making its own independent appraisal and investigation of all risks arising under or in connection with this Agreement, (ii) that it has, independently and without reliance upon the Agent, any other Lender or any of their respective Related Parties, made its own appraisal and investigation of all risks associated with, and its own credit analysis and decision to enter into, this Agreement based on such documents and information, as it has deemed appropriate and (iii) it will, independently and without reliance upon the Agent, any other Lender or any of their respective Related Parties, continue to be solely responsible for making its own appraisal and investigation of all risks arising under or in connection with, and its own credit analysis and decision to take or not take action under, this Agreement based on such documents and information as it shall from time to time deem appropriate, which may include, in each case:
+ 
+(i)
+ 
+the financial condition, status and capitalization of the Borrower;
+ 
+(ii)
+ 
+the legality, validity, effectiveness, adequacy or enforceability of this Agreement and any other agreement, arrangement or document entered into, made or executed in anticipation of, under or in connection with this Agreement;
+ 
+(iii)
+ 
+determining compliance or non-compliance with any condition hereunder to the making of an Advance and the form and substance of all evidence delivered in connection with establishing the satisfaction of each such condition;
+ 
+ 
+50
+ 
+(iv)
+ 
+the adequacy, accuracy and/or completeness of the Information Memorandum and any other information delivered by the Agent, any other Lender or by any of their respective Related Parties under or in connection with this Agreement, the transactions contemplated hereby and thereby or any other agreement, arrangement or document entered into, made or executed in anticipation of, under or in connection with this Agreement.
+ 
+Section 7.09
+ 
+Other Agents
+  Each Lender hereby acknowledges that neither the syndication agent, the documentation agents nor any other Lender designated as any Agent on the signature pages hereof (other than the Agent) has any liability hereunder other than in its capacity as a Lender.
+.
+ 
+ARTICLE VIII  
+                              
+MISCELLANEOUS
+ 
+Section 8.01
+ 
+Amendments, Etc. 
+No amendment or waiver of any provision of this Agreement, nor consent to any departure by the Borrower therefrom, shall in any event be effective unless the same shall be in writing and signed by the Majority Lenders, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given; , , that no amendment, waiver or consent shall, unless in writing and signed by all the Lenders, do any of the following:  (a) waive any of the conditions specified in Section 3.01, (b) increase the Commitments of the Lenders or subject the Lenders to any additional obligations, (c) reduce the principal of, or interest on, the Advances or any fees or other amounts payable hereunder, (d) postpone any date fixed for any payment of principal of, or interest on, the Advances or any fees or other amounts payable hereunder (except pursuant to Section 2.16), (e) change the percentage of the Commitments or of the aggregate unpaid principal amount of the Advances, or the number of Lenders, which shall be required for the Lenders or any of them to take any action hereunder, or (f) amend Section 2.16 or this Section 8.01; and , , that no amendment, waiver or consent shall, unless in writing and signed by the Agent in addition to the Lenders required above to take such action, affect the rights or duties of the Agent under this Agreement; and that no amendment of Section 2.19 shall be effective without the written consent of each Granting Lender, all or any part of whose outstanding Advances is being funded by an SPC at the time of such amendment.
+provided
+however
+provided
+further
+provided
+further
+ 
+ 
+51
+ 
+ 
+Section 8.02
+ 
+Notices, Etc.
+ 
+(a)
+ 
+.  Unless otherwise expressly provided in this Agreement, all notices, requests, demands, directions and other communications provided for hereunder shall be in writing (including by facsimile transmission).  All such written notices shall be mailed, faxed or delivered to the applicable address, facsimile number or (subject to Section 8.15) electronic mail address, and all notices and other communications expressly permitted hereunder to be given by telephone shall be made to the applicable telephone number, as follows:
+General
+ 
+ 
+(1)
+ 
+if to the Borrower or the Agent, to the address, facsimile number, electronic mail address or telephone number set forth below, or to such other address, facsimile number, electronic mail address or telephone number as shall be designated by such party in a notice to the other parties:
+ 
+(2)
+ 
+if to any other Lender, to the address, facsimile number, electronic mail address or telephone number of its Domestic Lending Office as may be specified opposite its name on Schedule I hereto (or in the Assignment and Acceptance pursuant to which it became a Lender), or to such other address, facsimile number, electronic mail address or telephone number as shall be designated by such party in a notice to the Borrower and the Agent.
+ 
+52
+ 
+(b)
+ 
+.  All such notices and other communications shall be deemed to be given or made upon the earlier to occur of (i) actual receipt by the relevant party hereto during the recipients normal business hours (or if delivered after normal business hours shall be deemed to have been delivered on the next Business Day) and (ii) (A) if delivered by hand or by courier, when signed for by or on behalf of the relevant party hereto; (B) if delivered by mail, four Business Days after deposit in the United States mail, postage prepaid; (C) if delivered by facsimile, when sent and receipt has been confirmed by telephone; and (D) if delivered by electronic mail (subject to the provisions of Section 8.15(c)) when received; , , that notices and other communications to the Agent pursuant to Article II or VII shall not be effective until actually received by such Person.  In no event shall a voicemail message be effective as a notice, communication or confirmation hereunder.
+Timing
+provided
+however
+ 
+(c)
+ 
+.  This Agreement and, except as otherwise specified herein, any documents delivered pursuant to or in connection with this Agreement may be transmitted and/or signed by facsimile or other electronic delivery.  The effectiveness of any such documents and signatures shall, subject to applicable law, have the same force and effect as manually-signed originals and shall be binding on the Borrower, the Agent and the Lenders.  The Agent may also require that any such documents and signatures be confirmed by a manually-signed original thereof; , , that the failure to request or deliver the same shall not limit the effectiveness of any facsimile document or signature.
+Effectiveness of Facsimile Documents and Signatures
+provided
+however
+ 
+(d)
+ 
+.  The Agent and the Lenders shall be entitled to rely and act upon any notices purportedly given by or on behalf of the Borrower even if (i) such notices were not made in a manner specified herein, were incomplete or were not preceded or followed by any other form of notice specified herein, or (ii) the terms thereof, as understood by the recipient, varied from any confirmation thereof.  The Borrower shall indemnify each indemnified person from all losses, costs, expenses and liabilities resulting from the reliance by such Person on each notice purportedly given by or on behalf of the Borrower.  All telephonic notices to and other communications with the Agent may be recorded by the Agent, and each of the parties hereto hereby consents to such recording.
+Reliance by the Agent and Lenders
+ 
+Section 8.03
+ 
+No Waiver; Remedies
+  No failure on the part of any Lender or the Agent to exercise, and no delay in exercising, any right hereunder shall operate as a waiver thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of any other right.  The remedies herein provided are cumulative and not exclusive of any remedies provided by law.
+.
+ 
+ 
+53
+ 
+Section 8.04
+ 
+Costs, Expenses and Indemnification
+.
+ 
+(a)
+ 
+The Borrower agrees to pay promptly on demand all reasonable costs and out-of-pocket expenses (other than Taxes, for which the provisions of Section 2.12 shall apply instead) of Agent (in its capacity as such) in connection with the preparation, execution, delivery, administration, syndication, modification and amendment of this Agreement, and the other documents to be delivered hereunder or thereunder, including, without limitation, the reasonable fees and out-of-pocket expenses of a single counsel for the Agent with respect thereto and with respect to advising the Agent as to its rights and responsibilities hereunder.  The Borrower further agrees to pay promptly on demand all costs and expenses of the Agent and of each Lender, if any (including, without limitation, reasonable counsel fees and out-of-pocket expenses), in connection with the enforcement (whether through negotiations, legal proceedings or otherwise) of this Agreement and the other documents to be delivered hereunder, including, without limitation, reasonable counsel fees and out-of-pocket expenses in connection with the enforcement of rights under this Section 8.04(a).
+ 
+(b)
+ 
+If any payment of principal of any Eurodollar Rate Advance extended to the Borrower is made other than on the last day of the interest period for such Advance, as a result of a payment pursuant to Section 2.06 or acceleration of the maturity of the Advances pursuant to Section 6.01 or for any other reason, the Borrower shall, upon demand by any Lender (with a copy of such demand to the Agent), pay to the Agent for the account of such Lender any amounts required to compensate such Lender for any additional losses, costs or expenses which it may reasonably incur as a result of such payment, including, without limitation, any loss, cost or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired by any Lender to fund or maintain such Advance.
+ 
+ 
+54
+ 
+(c)
+ 
+The Borrower agrees to indemnify and hold harmless the Agent (in its capacity as such), each Lender and each director, officer, employee, agent, attorney and affiliate of the Agent and each Lender (each an ) in connection with any expenses, losses, claims, damages or liabilities to which the Agent, a Lender or such indemnified persons may become subject (other than Taxes, for which the provisions of Section 2.12 shall apply instead), insofar as such expenses, losses, claims, damages or liabilities (or actions or other proceedings commenced or threatened in respect thereof) arise out of the transactions referred to in this Agreement or arise from any use or intended use of the proceeds of the Advances, or in any way arise out of activities of the Borrower that violate Environmental Laws, and to reimburse the Agent, each Lender and each indemnified person, upon their demand, for any reasonable legal or other out-of-pocket expenses incurred in connection with investigating, defending or participating in any such loss, claim, damage, liability, or action or other proceeding, whether commenced or threatened (whether or not the Agent, such Lender or any such person is a party to any action or proceeding out of which any such expense arises); that nothing in this shall obligate the Borrower to pay the normal expenses of the Agent in the administration of this Agreement in the absence of pending or threatened litigation or other proceedings or the claims or threatened claims of others and then only to the extent arising therefrom.  Notwithstanding the foregoing, the Borrower shall have no obligation hereunder to an indemnified person with respect to indemnified liabilities which have resulted from the gross negligence, bad faith or willful misconduct of such indemnified person, as determined by a final and nonappealable judgment by a count of competent jurisdiction, or which have resulted from a claim brought by the Borrower against an indemnified person for breach in bad faith of such indemnified persons obligations hereunder in which the Borrower has obtained a final and nonappealable judgment in its favor on such claim as determined by a court of competent jurisdiction.  In the case of an investigation, litigation or proceeding to which the indemnity in this paragraph applies, such indemnity shall be effective whether or not such investigation, litigation or proceeding is brought by the Borrower, any of the Borrowers equity holders or creditors, an indemnified person or any other person or entity, whether or not an indemnified person is otherwise a party thereto.
+indemnified person
+provided
+Section 8.04(c)
+ 
+(d)
+ 
+To the fullest extent permitted by applicable law, the Borrower shall not assert, and the Borrower hereby waives, any claim against any indemnified person, on any theory of liability, for special, indirect, consequential or punitive damages (as opposed to direct or actual damages) arising out of, in connection with, or as a result of this Agreement, or any agreement or instrument contemplated hereby, the transactions contemplated hereby, any Advance or the use of the proceeds thereof.
+ 
+ 
+55
+ 
+Section 8.05
+ 
+Right of Set-off
+  Upon (i) the occurrence and during the continuance of any Event of Default and (ii) the making of the request or the granting of the consent specified by Section 6.01 to authorize the Agent to declare the Advances due and payable pursuant to the provisions of Section 6.01, each Lender is hereby authorized at any time and from time to time, to the fullest extent permitted by law, to set off and apply any and all deposits (time or demand, provisional or final, or general, but not special) at any time held and other indebtedness at any time owing by such Lender or any Affiliate thereof to or for the credit or the account of the Borrower against any and all of the obligations of the Borrower now or hereafter existing under this Agreement that are then due and payable, whether or not such Lender shall have made any demand under this Agreement, and each such Affiliate is hereby irrevocably authorized to permit such setoff and application.  Each Lender agrees promptly to notify the Borrower after any such set-off and application made by such Lender, that the failure to give such notice shall not affect the validity of such set-off and application.  The rights of each Lender under this Section are in addition to other rights and remedies (including, without limitation, other rights of set-off) which such Lender may have.
+.
+provided
+ 
+Section 8.06
+ 
+Binding Effect
+  This Agreement shall be deemed to have been executed and delivered when it shall have been executed by the Borrower and the Agent and when the Agent shall have been notified by each Bank that such Bank has executed it and thereafter shall be binding upon and inure to the benefit of the Borrower, the Agent and each Lender and their respective successors and permitted assigns, except that the Borrower shall not, except as permitted in Section 5.02(b), have the right to assign its rights or obligations hereunder or any interest herein without the prior written consent of all Lenders.  This Agreement and the fee letter referred to in Section 2.04(b) constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous oral agreements and understandings relating to the subject matter hereof.  At the time of the effectiveness of this Agreement, (i) this Agreement shall supersede the Existing Credit Agreement and (ii) the Existing Credit Agreement (including all commitments thereunder) shall automatically terminate and be of no further force and effect.
+.
+ 
+ 
+56
+ 
+Section 8.07
+ 
+Assignments and Participations
+.
+ 
+(a)
+ 
+Each Lender may assign to one or more Eligible Assignees all or a portion of its rights and obligations under this Agreement (including, without limitation, all or a portion of its Commitment and the Advances owing to it); , , that (i) each such assignment shall be of a constant, and not a varying, percentage of all rights and obligations under this Agreement, (ii) after giving effect to any such assignment, (1) the assigning Lender shall no longer have any Commitment or (2) the amount of the Commitment of each of the assigning Lender and the Eligible Assignee party to such assignment (in each case determined as of the date of the Assignment and Acceptance with respect to such assignment) shall not be less than $5,000,000 and increments of $1,000,000 in excess thereof (iii) each such assignment shall be to an Eligible Assignee, and (iv) the parties to each such assignment shall execute and deliver to the Agent, for its acceptance and recording in the Register, an Assignment and Acceptance, and a processing and recordation fee of $3,500 (unless the assignor is a Lender and the assignee is an Affiliate such Lender, in which case no fee shall be required)).  Upon such execution, delivery, acceptance and recording, from and after the effective date specified in each Assignment and Acceptance, (x) the assignee thereunder shall be a party hereto and, to the extent that rights and obligations hereunder have been assigned to it pursuant to such Assignment and Acceptance, have the rights and obligations of a Lender hereunder and (y) the Lender assignor thereunder shall, to the extent that rights and obligations hereunder have been assigned by it pursuant to such Assignment and Acceptance, relinquish its rights and be released from its obligations under this Agreement (and, in the case of an Assignment and Acceptance covering all or the remaining portion of an assigning Lenders rights and obligations under this Agreement, such Lender shall cease to be a party hereto).  Any Lender may at any time (i) upon notice to the Borrower and the Agent, assign all or any portion of its rights hereunder to an Affiliate of such Lender or to another Lender or (ii) without notice to or consent of the Borrower or the Agent, pledge as security all or any portion of its rights hereunder, including to any Federal Reserve Bank; , that no such pledge or assignment shall release such Lender from any of its obligations hereunder.
+provided
+however
+provided
+ 
+ 
+57
+ 
+(b)
+ 
+By executing and delivering an Assignment and Acceptance, the Lender assignor thereunder and the assignee thereunder confirm to and agree with each other and the other parties hereto as follows:  (i) other than as provided in such Assignment and Acceptance, such assigning Lender makes no representation or warranty and assumes no responsibility with respect to any statements, warranties or representations made in or in connection with this Agreement or the execution, legality, validity, enforceability, genuineness, sufficiency or value of this Agreement or any other instrument or document furnished pursuant hereto; (ii) such assigning Lender makes no representation or warranty and assumes no responsibility with respect to the financial condition of the Borrower or the performance or observance by the Borrower of any of its obligations under this Agreement or any other instrument or document furnished pursuant hereto; (iii) such assignee confirms that it has received a copy of this Agreement, together with copies of the financial statements referred to in Section 4.01, and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into such Assignment and Acceptance; (iv) such assignee will, independently and without reliance upon the Agent, such assigning Lender or any other Lender and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under this Agreement; (v) such assignee confirms that it is an Eligible Assignee; (vi) such assignee appoints and authorizes the Agent to take such action as agent on its behalf and to exercise such powers under this Agreement as are delegated to the Agent by the terms hereof, together with such powers as are reasonably incidental thereto; and (vii) such assignee agrees that it will perform in accordance with their terms all of the obligations which by the terms of this Agreement are required to be performed by it as a Lender.
+ 
+(c)
+ 
+The Agent, acting solely for this purpose on the Borrower's behalf, shall maintain at its address referred to in Section 8.02 a copy of each Assignment and Acceptance delivered to and accepted by it and a register for the recordation of the names and addresses of the Lenders and the Commitment of, the Commitment Termination Date of, and, with respect to the Borrower, principal amount of the Advances owing to, each Lender from time to time (the ).  In addition, the Agent shall maintain on the Register information regarding the designation and revocation of designation of any Lender as a Defaulting Lender.  The entries in the Register shall be conclusive and binding for all purposes, absent manifest error, and the Borrower, the Agent and the Lenders may treat each Person whose name is recorded in the Register as a Lender hereunder for all purposes of this Agreement.  The Register shall be available for inspection by the Borrower or any Lender at any reasonable time and from time to time upon reasonable prior notice.
+Register
+ 
+ 
+58
+ 
+Within five days of its receipt of an Assignment and Acceptance executed by an assigning Lender and an assignee representing that it is an Eligible Assignee (together with a processing and recordation fee of $3,500 with respect thereto (unless the assignor is a Lender and the assignee is an Affiliate such Lender, in which case no fee shall be required)) and upon consent of the Agent and, so long as no Potential Event of Default or Event of Default then exists and is continuing (and except for assignments to an Affiliate of the Lender or to another Lender), the Borrower thereto, which consents shall not be unreasonably withheld or delayed, the Agent shall, if such Assignment and Acceptance has been completed and is in substantially the form of Exhibit B hereto, (1) accept such Assignment and Acceptance and (2) record the information contained therein in the Register.  All communications with the Borrower with respect to such consent of the Borrower shall be sent pursuant to Section 8.02.
+ 
+(d)
+ 
+Each Lender may sell participations to one or more banks or other entities in or to all or a portion of its rights and obligations under this Agreement (including, without limitation, all or a portion of its Commitment and the Advances owing to it; , , that (i) such Lenders obligations under this Agreement (including, without limitation, its Commitment to the Borrower hereunder) shall remain unchanged, (ii) such Lender shall remain solely responsible to the other parties hereto for the performance of such obligations, (iii) such Lender shall remain the holder of any such Advance for all purposes of this Agreement, (iv) the Borrower, the Agent and the other Lenders shall continue to deal solely and directly with such Lender in connection with such Lenders rights and obligations under this Agreement, and (v) no Lender  shall grant any participation under which the participant shall have rights to require such Lender to take or omit to take any action hereunder or approve any amendment to or waiver of this Agreement, except to the extent such amendment or waiver would:  (A) extend the Termination Date of such Lender; or (B) reduce the interest rate or the amount of principal or fees applicable to Advances or the Commitment in which such participant is participating.
+provided
+however
+ 
+(e)
+ 
+Any Lender may, in connection with any assignment or participation or proposed assignment or participation pursuant to this Section 8.07, disclose to the assignee or participant or proposed assignee or participant, any information relating to the Borrower furnished to such Lender by or on behalf of the Borrower; that, prior to any such disclosure, the assignee or Participant or proposed assignee or participant shall agree to preserve the confidentiality of any confidential information relating to the Borrower received by it from such Lender.
+provided
+ 
+Section 8.08
+ 
+Governing Law
+  This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.
+.
+ 
+Section 8.09
+ 
+Execution in Counterparts
+  This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+.
+ 
+ 
+59
+ 
+Section 8.10
+ 
+Consent to Jurisdiction; Waiver of Immunities
+  The Borrower irrevocably and unconditionally agrees that it will not commence any action, litigation or proceeding of any kind or description, whether in law or equity, whether in contract or in tort or otherwise, against the Agent or any Lender, or any Related Party of the foregoing in any way relating to this Agreement or the transactions relating hereto, in each case in any forum other than the courts of the State of New York sitting in New York County, and of the United States District Court of the Southern District of New York, and any appellate court from any thereof and each of the parties hereto irrevocably and unconditionally submits to the exclusive jurisdiction of such  courts and agrees that all claims in respect of any such action, litigation or proceeding may be heard and determined in such New York State court or, to the fullest extent permitted by applicable law, in such federal court.  Each of the parties hereto agrees that a final judgment in any such action, litigation or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law.  Nothing in this Agreement shall affect any right that the Agent or any Lender may otherwise have to bring any action or proceeding relating to this Agreement against the Borrower or its properties in the courts of any jurisdiction.  The Borrower irrevocably and unconditionally waives, to the fullest extent permitted by applicable law, any objection that it may now or hereafter have to the laying of venue of any action or proceeding arising out of or relating to this Agreement in any court referred to in this Section.  Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by applicable law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.  Each party hereto irrevocably consents to service of process in the manner provided for notices in Section 8.02.  Nothing in this Agreement will affect the right of any party hereto to serve process in any other manner permitted by applicable law.
+.
+ 
+ 
+60
+ 
+Section 8.11
+ 
+Waiver of Trial by Jury
+  THE BORROWER, THE BANKS, THE AGENT AND, BY ITS ACCEPTANCE OF THE BENEFITS HEREOF, OTHER LENDERS EACH HEREBY AGREES TO WAIVE ITS RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT.  The scope of this waiver is intended to be all-encompassing of any and all disputes that may be filed in any court and that relate to the subject matter of this transaction, including without limitation contract claims, tort claims, breach of duty claims and all other common law and statutory claims.  The Borrower, the Banks, the Agent and, by its acceptance of the benefits hereof, other Lenders each (i) acknowledges that this waiver is a material inducement for the Borrower, the Lenders and the Agent to enter into a business relationship, that the Borrower, the Lenders and the Agent have already relied on this waiver in entering into this Agreement or accepting the benefits thereof, as the case may be, and that each will continue to rely on this waiver in their related future dealings and (ii) further warrants and represents that each has reviewed this waiver with its legal counsel, and that each knowingly and voluntarily waives its jury trial rights following consultation with legal counsel.    In the event of litigation, this Agreement may be filed as a written consent to a trial by the court.
+.
+THIS WAIVER IS IRREVOCABLE, MEANING THAT IT MAY NOT BE MODIFIED EITHER ORALLY OR IN WRITING, AND THIS WAIVER SHALL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR MODIFICATIONS TO THIS AGREEMENT.
+ 
+Section 8.12
+ 
+Survival of Warranties
+.  All agreements, representations and warranties made in this Agreement shall survive the execution and delivery of this Agreement and any increase in the Commitments under this Agreement.
+ 
+Section 8.13
+ 
+Severability
+.  In case any provision in or obligation under this Agreement shall be invalid, illegal or unenforceable in any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected or impaired thereby.
+ 
+Section 8.14
+ 
+Headings
+.  Section and subsection headings in this Agreement are included herein for convenience of reference only and shall not constitute a part of this Agreement for any other purpose or be given any substantive effect.
+ 
+ 
+61
+ 
+Section 8.15
+ 
+Website Communications
+.
+ 
+(a)
+ 
+The Borrower hereby agrees that it will provide to the Agent all information, documents and other materials that it is obligated to furnish to the Agent pursuant to this Agreement, including, without limitation, all notices, requests, financial statements, financial and other reports, certificates and other information materials, but excluding any such communication that (i) relates to a request for a new, or a conversion of an existing, borrowing or other extension of credit (including any election of an interest rate or interest period relating thereto), (ii) relates to the payment of any principal or other amount due under this Agreement prior to the scheduled date therefor, (iii) provides notice of any default or event of default under this Agreement or (iv) is required to be delivered to satisfy any condition precedent to the effectiveness of this Agreement and/or any borrowing or other extension of credit thereunder (all such non-excluded communications being referred to herein collectively as ), by transmitting the Communications in an electronic/soft medium in a format acceptable to the  Agent to oploanswebadmin@citigroup.com or as otherwise specified in Section 5.01(b).  In addition, the Borrower agrees to continue to provide the Communications to the Agent in the manner specified in this Agreement but only to the extent requested by the Agent.
+Communications
+ 
+(b)
+ 
+The Borrower further agrees that the Agent may make the Communications available to the Lenders by posting the Communications on Intralinks or a substantially similar electronic transmission systems (the ).
+Platform
+ 
+ 
+62
+ 
+THE PLATFORM IS PROVIDED AS IS AND AS AVAILABLE.  THE AGENT PARTIES (AS DEFINED BELOW) DO NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE COMMUNICATIONS,  OR THE ADEQUACY OF THE PLATFORM AND EXPRESSLY DISCLAIM LIABILITY FOR ERRORS OR OMISSIONS IN THE COMMUNICATIONS.  NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS OR FREEDOM FROM VIRUSES OR OTHER CODE DEFECTS, IS MADE BY THE AGENT PARTIES IN CONNECTION WITH THE COMMUNICATIONS OR THE PLATFORM.  IN NO EVENT SHALL THE AGENT OR ANY OF ITS AFFILIATES OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, ADVISORS OR REPRESENTATIVES (COLLECTIVELY, AGENT PARTIES) HAVE ANY LIABILITY TO THE BORROWER, ANY LENDER OR ANY OTHER PERSON OR ENTITY FOR DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, DIRECT OR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, LOSSES OR EXPENSES (WHETHER IN TORT, CONTRACT OR OTHERWISE) ARISING OUT OF THE BORROWERS OR THE  AGENTS TRANSMISSION OF COMMUNICATIONS THROUGH THE INTERNET, EXCEPT TO THE EXTENT THE LIABILITY OF ANY AGENT PARTY IS FOUND IN A FINAL NON-APPEALABLE JUDGMENT BY A COURT OF COMPETENT JURISDICTION TO HAVE RESULTED PRIMARILY FROM SUCH AGENT PARTYS GROSS NEGLIGENCE OR WILLFUL MISCONDUCT.
+ 
+(c)
+ 
+The Agent agrees that the receipt of the Communications by the Agent at its e-mail address set forth above shall constitute effective delivery of the Communications to the Agent for purposes of this Agreement.  Each Lender agrees that notice to it (as provided in the next sentence) specifying that the Communications have been posted to the Platform shall constitute effective delivery of the Communications to such Lender for purposes of this Agreement.  Each Lender agrees to notify the Agent in writing (including by electronic communication) from time to time of such Lenders e-mail address to which the foregoing notice may be sent by electronic transmission and that the foregoing notice may be sent to such e-mail address.
+ 
+Nothing herein shall prejudice the right of the Borrower or any Lender to give any notice or other communication pursuant to this Agreement in any other manner specified in this Agreement.
+ 
+Section 8.16
+ 
+USA PATRIOT Act Notice
+.  Each Lender that is subject to the Act (as hereinafter defined) and the Agent (for itself and not on behalf of any Lender) hereby notifies the Borrower that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the ), it is required to obtain, verify and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow such Lender or the Agent, as applicable, to identify the Borrower in accordance with the Act.
+Act
+ 
+ 
+63
+ 
+ 
+Section 8.17
+ 
+Confidentiality
+.  Each of the Agent and the Lenders agrees to maintain the confidentiality of the Information (as defined below), except that Information may be disclosed (a) to its Affiliates and to its and its Affiliates respective managers, administrators, trustees, partners, directors, officers, employees, agents, advisors and other representatives (it being understood that the Persons to whom such disclosure is made will be informed of the confidential nature of such Information and instructed to keep such Information confidential), (b) to the extent requested by any regulatory authority purporting to have jurisdiction over it or its Affiliates (including any self-regulatory authority, such as the National Association of Insurance Commissioners), (c) to the extent required by applicable laws or regulations or by any subpoena or similar legal process, provided, however, that, except in the case of disclosure to bank regulators or examiners in accordance with customary banking practices, if legally permitted written notice of each instance in which Information is required or requested to be disclosed shall be furnished to the Borrower not less than 30 days prior to the expected date of such disclosure or, if 30 days notice is not practicable under the circumstances, as promptly as practicable under the circumstances, (d) to any other party hereto, (e) in connection with the exercise of any remedies hereunder or any action or proceeding relating to this Agreement or the enforcement of rights hereunder, (f) subject to an agreement containing provisions substantially the same as those of this Section 8.17, to (i) any assignee of or participant in, or any prospective assignee of or participant in, any of its rights or obligations under this Agreement or (ii) any actual or prospective party (or its managers, administrators, trustees, partners, directors, officers, employees, agents, advisors and other representatives) to any swap or derivative or similar transaction under which payments are to be made by reference to the Borrower and its obligations, this Agreement or payments hereunder, (iii) any rating agency, or (iv) the CUSIP Service Bureau or any similar organization, (g) with the consent of the Borrower or (h) to the extent such Information (x) becomes publicly available other than as a result of a breach of this Section or (y) becomes available to the Agent or any Lender or any of their respective Affiliates on a nonconfidential basis from a source other than the Borrower.
+ 
+For purposes of this Section,  means all information received from the Borrower or any of its Subsidiaries relating to the Borrower or any of its Subsidiaries or any of their respective businesses, other than any such information that is available to the Agent or any Lender on a nonconfidential basis prior to disclosure by the Borrower or any of its Subsidiaries, that, in the case of information received from the Borrower or any of its Subsidiaries after the date hereof, such information is clearly identified at the time of delivery as confidential.  Any Person required to maintain the confidentiality of Information as provided in this Section 8.17 shall be considered to have complied with its obligation to do so if such Person has exercised the same degree of care to maintain the confidentiality of such Information as such Person would accord to its own confidential information.
+Information
+provided
+ 
+ 
+64
+ 
+ 
+Section 8.18
+ 
+No Fiduciary Duty
+.  The Borrower acknowledges that the Agent, each Lender and their Affiliates (collectively, solely for purposes of this paragraph, the ), each Lender Party is acting pursuant to a contractual relationship on an arms length basis, and the parties hereto do not intend that any Lender Party act or be responsible as a fiduciary to the Borrower, its management, stockholders, creditors or any other person.  The Borrower and each Lender Party hereby expressly disclaims any fiduciary relationship and agrees they are each responsible for making their own independent judgments with respect to any transactions entered into between them.  The Borrower also hereby acknowledges that no Lender Party has advised nor is advising the Borrower as to any legal, accounting, regulatory or tax matters, and that the Borrower is consulting its own advisors concerning such matters to the extent it deems appropriate.
+Lender Parties
+ 
+[Remainder of page intentionally left blank]
+ 
+65
+ 
+the parties hereto have caused this Agreement to be duly executed and delivered by their respective authorized officers as of the date first written above.
+IN WITNESS WHEREOF,
+ 
+, a Nevada corporation, as the Borrower
+COMPUTER SCIENCES CORPORATION
+ 
+By__________________
+_/s/ Thomas R. Irvin_
+Name: Thomas R. Irvin
+Title:   Vice President and Treasurer
+ 
+ 
+S-1
+ 
+,
+CITIBANK, N.A.
+ 
+as Agent and a Lender
+ 
+By________________
+_/s/ M Vondriska__
+Name: Michael Vondriska
+Title: Vice President
+ 
+,
+BANK OF AMERICA, N.A.
+ 
+as a Lender
+ 
+By______________
+_/s/ William S. Rowe__
+Name: William S. Rowe
+Title:   Director
+ 
+,
+THE BANK OF TOKYO-MITSUBISHI UFJ, LTD., NEW YORK BRANCH
+ 
+as a Lender
+ 
+By_______________
+_/s/ Maria Iarriccio __
+Name:  Maria Iarriccio
+Title:    Authorized Signatory
+ 
+THE ROYAL BANK OF SCOTLAND PLC,
+ 
+as a Lender
+ 
+By_______________
+/s/ Matthew Pennachio_
+Name:  Matthew Pennachio
+Title:    Vice President
+ 
+THE BANK OF NOVA SCOTIA,
+ 
+as a Lender
+ 
+By_____________________
+/s/ John Mathews
+Name:  John Mathews
+Title:    Director-Corporate Banking
+ 
+BARCLAYS BANK PLC,
+ 
+as a Lender
+ 
+By___________________
+_/a/ David Barton__
+Name:  David Barton
+Title:    Director
+ 
+ 
+S-2
+ 
+DANSKE BANK A/S,
+ 
+as a Lender
+ 
+By_____
+/s/ Morten Olufsen      /s/ Kim Hansen_
+Name: Morten Olufsen      Kim Hansen
+Title:   FVP                        Senior Relationship Mgr
+ 
+GOLDMAN SACHS BANK USA,
+ 
+as a Lender
+ 
+By___________________
+_/s/ M Walton__
+Name: Mark Walton
+Title:   Authorized Signatory
+ 
+SUMITOMO MITSUI BANKING CORPORATION,
+ 
+as a Lender
+ 
+By____________
+_/s/ William M. Ginn __
+Name: William M. Ginn
+Title:    Executive Officer
+ 
+THE BANK OF NEW YORK MELLON,
+ 
+as a Lender
+ 
+By_________________
+_/s/ Paul F. Noel___
+Name: Paul F. Noel
+Title:   Managing Director
+ 
+UBS AG, STAMFORD BRANCH,
+ 
+as a Lender
+ 
+By___________________
+/s/ Irja R. Otsa___
+Name: Irja R. Otsa
+Title:   Associate Director
+ 
+By_____________
+/s/ A Varner-Nanton _
+Name: April Varner-Nanton
+Title:   Director
+ 
+ 
+S-3
+ 
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as a Lender
+By_______
+_/s/ Karen J. McClain_
+Name: Karen J. McClain
+Title:   Managing Director
+ 
+BANCO BILBAO VIZCAYA ARGENTARIA, S.A., NY BRANCH,
+ 
+as a Lender
+ 
+By_________
+/s/ Julio Ojea-Quintana
+Name: Julio Ojea-Quintana
+Title:   Executive Director
+ 
+By___________
+/s/ Michael DAnna__
+Name: Michael DAnna
+Title:   Executive Director
+ 
+INTESA SANPAOLO S.P.A. NEW YORK BRANCH,
+ 
+as a Lender
+ 
+By________________
+_/s/ S Maggioni_
+Name: Sergio Maggioni
+Title:   FVP Head of Business
+ 
+By_____________
+_/s/ Robert Wurster__
+Name: Robert Wurster
+Title:   SVP
+ 
+COMMERZBANK AG,
+ 
+as a Lender
+ 
+By______________
+_/s/ Diane L. Pockaj
+Name: Diane L. Pockaj
+Title:   Managing Director
+ 
+By_________________
+/s/ M Weinert__
+Name: Michael Weinert
+Title:   Assistant Vice President
+ 
+ 
+S-4
+ 
+DBS BANK LTD., LOS ANGELES AGENCY,
+ 
+as a Lender
+ 
+By_________________
+/s/ Aiklim Kok
+Name: Aiklim Kok
+Title:   Assistant General Manager
+ 
+LLOYDS TSB BANK PLC,
+ 
+as a Lender
+ 
+By_________________
+/s/ D Carlson__
+Name: Deborah Carlson
+Title:  Director-Corporate Banking USA
+ 
+By__________________
+/s/ W Davies__
+Name: Windsor R. Davies
+Title:   Managing Director-Corporate Banking USA
+ 
+PNC BANK NATIONAL ASSOCIATION,
+ 
+as a Lender
+ 
+By____________
+/s/ Douglas T. Brown__
+Name: Douglas T. Brown
+Title:   SVP
+ 
+STANDARD CHARTERED BANK,
+ 
+as a Lender
+ 
+By_______________
+/s/ Brendan Herley__
+Name: Brendan Herley
+Title:   Director
+ 
+By__________________
+_/s/ Andrew Ng _
+Name: Andrew Ng
+Title:   Director
+ 
+ 
+S-5
+ 
+ 
+APPLICABLE LENDING OFFICES
+ 
+ 
+ 
+Schedule I-1
+ 
+ 
+ 
+Schedule I-2
+ 
+ 
+Schedule I-3
+ 
+ 
+Schedule I-4
+ 
+ 
+LENDERS COMMITMENTS
+ 
+ 
+Schedule II-1
+ 
+ 
+ 
+ 
+
+

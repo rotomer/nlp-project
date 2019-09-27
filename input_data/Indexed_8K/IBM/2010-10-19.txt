@@ -1,0 +1,235 @@
+FILE:IBM/IBM-8K-20101019075126.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+           
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+           
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+           
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+ 
+Attachment I of this Form 8-K contains the prepared remarks for IBM's Chief Financial Officer Mark Loughridge's third quarter earnings presentation to investors on October 18, 2010.  Certain reconciliation and other information ("Non-GAAP Supplementary Materials") for this presentation was included in Attachment II to the Form 8-K that IBM submitted on October 18, 2010, which included IBM's press release dated October 18, 2010.  All of the information in Attachment I is hereby filed.
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ 
+Introduction
+ 
+Thank you.  This is Patricia Murphy, Vice President of Investor Relations for IBM.  I'm here with Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer, Finance and Enterprise Transformation.  Thank you for joining our third quarter earnings presentation.
+ 
+The prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.
+ 
+Our presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.  All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K submitted to the SEC.
+ 
+Let me remind you that certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.  Those statements involve a number of factors that could cause actual results to differ materially.  Additional information concerning these factors is contained in the company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+ 
+Now, I'll turn the call over to Mark Loughridge.
+3Q 2010 Financial Highlights
+ 
+Thank you for joining us today.  This quarter, we improved our revenue growth rate, expanded gross, pretax and net margins and delivered earnings per share of $2.82, up 18 percent year to year.  And this EPS growth was on top of a very strong performance in the third quarter of 2009, which was also up 18 percent.  We achieved all of this while investing to drive future growth and delivering strong shareholder returns.
+ 
+Revenue growth of 4 percent at constant currency was up 2 points from our second quarter growth rate, continuing the trend of improving business performance.
+ 
+Growth markets had a great quarter, up 13 percent at constant currency.  We've been investing to expand into new regions and build out IT infrastructure in support of economic growth.  Systems and Technology had its best revenue growth in six years, up 10 percent, and profit was up 46 percent, capitalizing on new product introductions and continued strong growth in System x, midrange Power, and storage.  We had good growth in Global Business Services.  Revenue was up 5 percent year to year.  Our transactional signings returned to growth and we've been investing in resources in key opportunity areas like business analytics.  Across IBM, which includes services and software, business analytics revenue was up 14 percent year to year.
+ 
+Financial Summary
+ 
+Overall, we delivered $24.3 billion of revenue; that's up 3 percent as reported and 4 percent at constant currency.
+ 
+And once again we had good profit and margin performance.  We expanded gross margin by 20 basis points, driven by better margins in Software and Systems and Technology.  Our expense was up 1 percent year to year. Underneath this, our operational expense performance was better by a point.  We increased pre-tax income by 7 percent, and pre-tax margin was up 70 basis points to 19.3 percent.  Our third quarter tax rate reflects an updated view of the full year rate to 25 percent.  Our net income was up 12 percent, and margin expanded over a point to 14.8 percent. Finally, our ongoing share repurchase activity drove a reduction in our share count of 5 percent.
+ 
+All of this contributed to earnings per share of $2.82, up 18 percent from a year ago.  We've now had thirty-one consecutive quarters of EPS growth.
+ 
+Based on this performance, and our view of the fourth quarter, we are increasing our expectation for the full year of 2010 to at least $11.40 of earnings per share.  That's up 15 cents from our previous view of at least $11.25 in July and represents a 14 percent year-to-year increase over 2009.
+ 
+Now I'll turn to the revenue details starting with a geographic view where I'll focus my comments on constant currency.
+ 
+Revenue by Geography
+ 
+We again had an improving trend in year-to-year revenue growth rate from the second to the third quarter across our geographies, with the Americas better by a point, Europe by 2 points and Asia Pacific by 4 points.
+ 
+In the major markets, we significantly improved the year-to-year growth rate in Canada, France, Germany and Italy and continued our strong performance in the U.K.  So we're encouraged by what we're seeing in several of the major market countries.  The U.S. growth was consistent with second quarter levels and Japan posted very modest growth for the first time in 12 quarters.
+ 
+As I mentioned in the opening, our growth markets had terrific performance, up 13 percent which outpaced the majors by 12 points. The combined revenue in the BRIC countries was up 26 percent, with strong growth in each of the four countries.  Brazil was up 15 percent, Russia 56 percent, India up 15 percent, and China, up 36 percent.
+ 
+Growth Markets
+ 
+A few years ago we established a play to capture the opportunity in the growth markets and our investments are really paying off.  We have three growth strategies that are aimed at creating new markets. Now you may recall that Bruno Di Leo, our general manager of the growth markets, discussed these at our Investor Briefing in May, and I want to spend a minute describing our results this quarter in the context of these strategies.
+ 
+First, Market Expansion, which is about reaching new clients and new enterprises; expanding into new countries and into new territories.  We've prioritized 16 countries for investment beyond the BRICs.  Together with the BRICs, the "Growth Markets 20" grew 13 percent this quarter and we had 32 countries within the growth markets that grew double digits.  Historically, the vast majority of the revenue within these countries came from relatively few cities.  To increase coverage in new territories, we have a systematic approach to opening branch offices in new cities while leveraging the global infrastructure.  Year to date, we have opened 40 branch offices bringing our total to 103 in the Growth Markets.  This quarter, the fastest growth came from these new expansion territories.
+ 
+The second strategy is IT Infrastructure Development in support of economic growth.  Each year tens of millions of people are moving from rural areas into cities.  This creates a demand for banking, telecommunications, transportation, and energy.  Our strategy is to provide the IT that supports the build-out of this infrastructure.  That means high-end systems, software solutions and large services projects.  Now here are a couple of examples of the kind of work we're doing.  In China, IBM and Peking University People's Hospital have built an evidence-based, patient-centric care system to enable resource sharing among service providers for improved patient care.  And in India, IBM has delivered to Keonics a mainframe-based education solution to enable the government client to offer a  more sophisticated, advanced technical curriculum to their corporate clients.  We're seeing the benefit of the IT infrastructure work in our systems results.  This quarter, we had 25 percent growth in total Systems and Technology, with almost 30 percent in servers.  This led to share gains in Systems and Technology as well as our Growth Markets overall.
+ 
+The third strategy is to develop Industry Leadership in selected industries which we believe are most relevant in the growth markets; Banking, Energy & Utilities, Healthcare, Transportation & Rail and Natural Resources.  We've been investing in industry specific skills by both hiring, and deepening our employee skill sets.  In the third quarter we had 21 percent combined growth in these industries and double-digit growth in four of the five.  With this strategy and the investments
+ 
+we're making, we expect performance in the growth markets to continue to outpace the major markets and to continue to grow faster than the market overall.
+ 
+Revenue by Segment
+ 
+Turning to revenue by segment, as expected, the services business continued to improve its revenue growth rate at constant currency.  The biggest lift came from Global Business Services.  The growth rate is up 3 points from second quarter to 5 percent year-to-year growth in the third.  Global Technology Services which has a higher percentage of long term annuity content, improved to 1 percent.
+ 
+Our software growth was in line with last quarter.  Software grew 6 percent at constant currency excluding the divested PLM operations, a view that best represents our ongoing business.  Software growth continues to be led by key areas like business analytics, storage management and business integration.
+ 
+The strongest growth came from our Systems and Technology business, up 10 percent. Our System z mainframes were up 15 percent, capitalizing on a new product introduction and strong performance in the growth markets.  Midrange Power had double-digit growth. Storage had double-digit growth in disk, and System x once again posted very strong growth.
+ 
+I'll get into more detail when we discuss the segments.
+ 
+Expense Summary
+ 
+Turning to expense, our Total Expense and Other Income was up 1 percent.   With a 3 percent increase in revenue, our expense-to-revenue ratio improved a half of a point year to year.
+ 
+The expense increase was driven entirely by acquisitions, which drove a 3 point year-to-year increase.  We've been investing in acquisitions to build our skills and technology in support of our growth initiatives such as business analytics, and cloud computing.  Through the third quarter, we've closed 11 acquisitions for a total of about $3 billion.  This higher level of acquisition expense was mitigated by currency, which improved expense by one point.
+ 
+And finally, we had a 1 point improvement in operational expense.  With our ongoing focus on driving more productivity and efficiency in our spending base,  this is now our ninth consecutive quarter of operational expense improvement.  Underneath this, we've been increasing investment in several areas.  I'll give you a few examples.  We're investing in industry sales skills to support Smarter Planet.  We're building sales capabilities for business analytics and have established eight analytics solution centers around the world.  We're investing in development, sales and marketing to support our new high end technology introductions.  And we're continuing to deploy sales resource and build sales enablement to drive growth market performance.  This quarter the SG&A in the growth markets, excluding currency and acquisitions, is up 7 percent year to year while overall IBM is flat.  Bottom line, we've been able to drive a higher level of investment in these initiatives, while still expanding margin.
+ 
+To wrap up the expense discussion, this quarter there are no items that provided significant impacts or benefits to our profit growth
+.  The year-to-year change in Other Income and Expense is driven by the combination of charges in the third quarter of last year for investment losses, and a gain this quarter associated with the disposition of a joint venture.  None of these items are material. 
+We had
+no significant gains or losses from our hedging programs, either in the period or year to year.
+ 
+Now, before turning to the segment discussions, we've got a snap shot of our margins by segment.
+ 
+Margins by Segment
+ 
+Once again, our margin expansion was broad-based.  Both services segments improved pre-tax profit margin.  Software gross margin was up a point, and pre-tax margin was flat at 32.1 percent.  Systems and Technology expansion was driven by improvements in Microelectronics and Storage.  And Global Financing margin improvement reflects the interest rate environment and higher margin on equipment sales.
+ 
+Services Segments
+ 
+So now, moving on to the segment details, the two services segments delivered $14.1 billion in revenue, up 2 percent at constant currency.  Global Business Services grew 5 percent at constant currency, and Global Technology Services grew 1 percent at constant currency.   Both segments had sequential improvement in their year-to-year constant currency revenue growth rates versus second quarter, and both segments grew pre-tax income and expanded pre-tax margin year to year.
+ 
+Transactional signings were $5.4 billion, up 4 percent.  This was driven by Global Business Services, which was up 7 percent.  Outsourcing signings were $5.7 billion, down 14 percent at constant currency. Including a deal we signed on October 8
+th
+, we would have reported outsourcing growth of 14 percent at constant currency.  And this would have increased the total signings reported from $11 billion to $12.7 billion.  It's very difficult to predict precisely when these deals will close.  Eight days is not going to make any difference in the yield to this contract, which kicks in quickly in the fourth quarter.
+ 
+Backlog was $134 billion, with a very low level of erosion.  This is up $5 billion from the second quarter and flat year to year at actual rates.  At constant currency, backlog is also flat year to year and down $2 billion quarter to quarter.  This quarter we signed ten deals over $100 million.
+ 
+Now let's move on to the two segments.  InGlobal Technology Services, revenue was $9.5 billion.  GTS Outsourcing revenue was up 2 percent at constant currency in the quarter and Integrated Technology Services revenue was down 1 percent at constant currency. Both of these represent an improvement over the second quarter.  Global Technology Services pre-tax income was up 4 percent, and pre-tax margin expanded to 15.5 percent.
+ 
+Turning to Global Business Services, revenue was $4.6 billion, up 5 percent.  This was the best growth since the third quarter of 2008.  We delivered improved revenue growth in many areas of the business, with sequential improvement in the growth rates of both the major markets and the growth markets, and across our key offerings of Core Consulting, Application Management Outsourcing and Systems Integration.  In fact, we gained share in consulting, held share in AMS, and gained share for total GBS.
+ 
+We're getting good traction in smaller deals in GBS, particularly in areas that help customers drive global integration, drive efficiency and standardization, and deliver cost savings.  These smaller deals are helping to fuel near term revenue performance.
+ 
+We had good performance in our growth initiatives in GBS.  We grew revenue and transactional signings in the growth markets.  And GBS had revenue growth of almost 40 percent in business analytics. 
+With increased client demand for specific industry knowledge, we've added 2,000 consultants in the last two quarters and now have over 7,000 dedicated consultants in our business analytics practice.
+ 
+Global Business Services pre-taxprofit was up 5 percent year to year with margin expanding to 14.6 percent.  The continued roll-out of our globally integrated capabilities and good delivery performance are adding to margin.  At the same time, we are increasing resource spending to support future growth.
+ 
+To wrap up Services, GTS improved revenue growth to 1 percent at constant currency and at 5 percent GBS had the highest level of revenue growth since 2008, and gained share.
+ 
+Software Segment
+ 
+Software revenue of $5.2 billion was up 1 percent year to year and 2 percent at constant currency.  Software grew 6 percent at constant currency adjusting for the divestiture of PLM, which is a more appropriate view of our ongoing business.
+ 
+Key Branded Middleware grew 7 percent at actual rates and 8 percent at constant currency and gained share for the 12
+th
+ straight quarter as we continue to enhance our lead in the middleware market. We gained share in four of our five Key Branded Middleware brands.
+ 
+Gross margin was up over one point and pre-tax margin was flat at 32 percent.
+ 
+Now, let me take you through the brands.  WebSphere had another terrific quarter growing 14 percent, or 16 percent at constant currency. The WebSphere software portfolio connects business processes and delivers application infrastructures in an SOA environment.  ILOG, which provides business rules management, grew about 30 percent.  WebSphere Commerce provides a scalable, unified platform to drive sales in the retail, B2B, and business partner marketplace.  We had real strength here, with strong double-digit growth.  With our recent acquisitions of Sterling, Coremetrics and Unica, we expect continued market momentum in this space.
+ 
+Information Management also had a strong quarter growing 5 percent, or 7 percent at constant currency. Relational Database was up 5 percent at constant currency, driven by 7 percent constant currency growth in distributed database.  Information Management provides the foundation for IBM's Business Analytics and Optimization offerings.   We continue to expand our Information Management capabilities both organically and through acquisitions.  We expect to close on the purchases of Netezza and OpenPages in the fourth quarter.
+ 
+Tivoli had another good quarter, growing 9 percent, or 11 percent at constant currency.  Tivoli provides an integrated approach to service management.  This quarter, we had solid growth in two elements of our Integrated Service management strategy:  storage management, which was up 20 percent, and security, also up double digits.
+ 
+Lotus returned to modest constant currency growth.  Rational also grew at 1 percent at constant currency and gained share.
+ 
+Our software business had a solid quarter, and is well positioned as we enter the fourth quarter.
+ 
+Systems and Technology Segment
+ 
+Systems and Technology
+revenue was $4.3 billion, up 10 percent year to year or 11  percent at constant currency.  Revenue was driven by double-digit growth in System z, midrange Power, System x, disk storage, and Microelectronics.
+ 
+We had very strong performance in the growth markets, up 25 percent at constant currency.  BRIC countries grew over 40 percent, with double-digit growth in all brands.
+ 
+Gross profit margin expanded 1 point, and PTI margin expanded almost 2 points with 46 percent growth in pre-tax income.
+ 
+Now, let me take you through more details on the brands.
+ 
+System z revenue grew 15 percent year to year and gained share.  MIPS grew 54 percent, the highest growth in six years.  Late in the third quarter we shipped the zEnterprise 196 server which delivers 40 percent more performance than the z10.  This performance is driven by the world's fastest processor, which operates at more than five gigahertz.  In
+the fourth quarter we will begin shipping the zBX, IBM's first System of Systems.  zBX extends mainframe governance to select Power7 and System x blades.
+ 
+Power Systems
+revenue declined 13 percent year to year and continued to be the market leader by a wide margin.  We first introduced Power7 into the midrange during the first quarter and in the third quarter midrange systems grew 11 percent.  We continued the roll out of Power7 with the high end and entry products in mid-September.  Shipments were limited though, with just two weeks of general availability in the quarter.  Our competitive take-outs continued in the third quarter.  We drove over 250 competitive UNIX displacements, which resulted in approximately $225 million of business.
+ 
+Storage hardware revenue grew 7 percent year to year, or 8 percent at constant currency, and held share. Storage revenue in our growth markets was up 23 percent. 
+Disk grew 14 percent, driven by continued strength in high-end storage, DS8000 and XIV.  We added more than 130 new customers to our XIV platform in the third quarter and XIV hardware revenue nearly doubled. Tape declined 8 percent but gained share this quarter.  Taking a broader look at our storage performance, our storage hardware, together with storage software grew 10 percent.
+ 
+System x
+revenue grew 30 percent year to year and gained share.  This is the fourth consecutive quarter of year-to-year revenue growth of 30 percent or better.  The high end of System x was up 27 percent and gained share.
+ 
+Microelectronics
+OEM revenue was up 28 percent year to year. We had strong revenue growth from our OEM customers in networking and wireless communications infrastructure.
+ 
+Overall this quarter, Systems and Technology delivered double-digit revenue growth, expanded margins and grew profit 46 percent.
+ 
+Cash Flow
+ 
+Turning to cash flow, we generated $3.2 billion of free cash flow in the quarter, down $200 million year to year, driven by increased receivables associated with a higher level of revenue.  Our collections performance remains strong.
+ 
+Through the first three quarters, our free cash flow of $7.6 billion was down $300 million year to year, driven by; higher capital investments for new hardware products and semiconductor technology, and a year-to-year impact of over $700 million for unique one-time tax refunds, as previously disclosed.
+ 
+Adjusting for these unique tax refunds, free cash flow would have been up over $400 million year to year.
+ 
+Looking at the year-to-date uses of cash, we spent $3 billion in acquisitions in support of our growth strategy.  In addition, we have returned over $14 billion to shareholders, $2.4 billion in the form of dividends, and $11.8 billion in share repurchases.  We have $2.3 billion remaining in our buyback authorization.
+ 
+Balance Sheet
+ 
+Turning to the balance sheet, we ended the quarter with a cash balance of $11.1 billion, more than two-thirds of which was in the U.S.
+ 
+Total debt was $27.5 billion.  Twenty-two billion dollars of debt was in support of our financing business, which is leveraged at 7.1 to 1.  $5.5 billion was non-financing debt that was up from $2.5 billion a year ago.
+ 
+Non-financing debt-to-cap was 22 percent, up from 16 percent at the end of last year, and 14 percent a year ago.  With this amount of leverage, we continue to have a very high degree of financial flexibility to execute our strategy.
+ 
+The balance sheet remains strong and positioned to support the business over the long term.
+ 
+EPS Bridge  3Q09 to 3Q10
+ 
+I'll start to wrap up with a brief discussion of the drivers of our earnings-per-share performance.
+ 
+This quarter all categories positively contributed to our earnings growth.  Our revenue growth, at constant mix and margin, contributed 7 cents.   Operating leverage contributed 21 cents.  And a 5 percent reduction in share count contributed 14 cents.  So once again, our growth was delivered through a combination of revenue growth, margin expansion, and an effective use of cash.
+ 
+3Q 2010 Summary
+ 
+I said at the beginning of the call that our 18 percent earnings growth was on top of a strong 2009.  If you look back further to the third quarter of 2006, we delivered $1.45 of earnings per share, so we've almost doubled the level of earnings per share in four years.  On a full year basis, we'll almost double full year EPS over the last four years.   So it's pretty clear that we have consistently delivered strong earnings growth.
+ 
+This quarter, we continued the trend of improving business performance.  By segment, the improvement was led by Systems and Technology and Global Business Services, up 10 percent and 5 percent respectively.  From a geographic perspective, we had outstanding performance in the growth markets with 13 percent growth as we execute our market expansion plans.
+ 
+We again expanded margins, gross up two-tenths of a point, pre-tax seven-tenths, and net margin up 1.1 points.
+ 
+We continued a strong pace of investment; in SG&A to capture the growth in emerging markets, in R&D and capital to support product introductions, and in acquisitions to add to our capabilities in areas like business analytics and cloud computing.  Bottom line, we delivered $2.82 of earnings per share.
+ 
+So, to sum up the quarter, we continued our steady improvement in the business, in both revenue growth and margin expansion, and we used our strong profit and cash position to invest for future growth, while returning capital to our shareholders through dividends and share buyback. 
+All of this supports our expectation of at least $11.40 of earnings per share for the year.
+ 
+Now Patricia and I will take your questions.
+ 
+Closing
+ 
+Thank you, Mark.  Before we begin the Q&A I'd like to remind you of a couple of items.  First, we have supplemental charts at the end of the deck that complement our prepared remarks.  Second, I'd ask you to refrain from multi-part questions.  When we conclude the Q&A, I'll turn the call back to Mark for final comments.  Operator, please open it up for questions.
+
+

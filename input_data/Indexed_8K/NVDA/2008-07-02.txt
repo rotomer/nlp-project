@@ -1,0 +1,34 @@
+FILE:NVDA/NVDA-8K-20080702164011.txt.gz
+EVENTS:	Other Events
+TEXT:
+ITEM: Other Events
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 8.01 Other Events.
+On July 2, 2008, NVIDIA Corporation stated that it would take a $150 million to $200 million charge against cost of revenue to cover anticipated customer warranty, repair, return, replacement and other consequential costs and expenses arising from a weak die/packaging material set in certain versions of our previous generation MCP and GPU products used in notebook systems. All newly manufactured products and all products currently shipping in volume have a different and more robust material set.
+The previous generation MCP and GPU products that are impacted were included in a number of notebook products that were shipped and sold in significant quantities. Certain notebook configurations of these MCP and GPU products are failing in the field at higher than normal rates. While we have not been able to determine a root cause for these failures, testing suggests a weak material set of die/package combination, system thermal management designs, and customer use patterns are contributing factors. We have developed and have made available for download a software driver to cause the system fan to begin operation at the powering up of the system and reduce the thermal stress on these chips. We have also recommended to our customers that they consider changing the thermal management of the MCP and GPU products in their notebook system designs. We intend to fully support our customers in their repair and replacement of these impacted MCP and GPU products that fail.
+We have begun discussions with our supply chain regarding reimbursement to us for some or all of the costs we have incurred and may incur in the future relating to the weak material set. We will also seek to access our insurance coverage. We continue to not see any abnormal failure rates in any systems using NVIDIA products other than certain notebook configurations. However, we are continuing to test and otherwise investigate other products. There can be no assurance that we will not discover defects in other MCP or GPU products.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+

@@ -1,0 +1,780 @@
+FILE:GPS/GPS-8K-20070823164052.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Results of Operations and Financial Condition	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Results of Operations and Financial Condition
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+On August 23, 2007, The Gap, Inc. (the "Company") issued a press release announcing the authorization of an additional $1.5 billion for the Company's share repurchase program. A copy of this press release is attached hereto as Exhibit 99.2.
+Concurrent with this authorization, on August 22, 2007, the Company entered into purchase agreements (the "Agreements") with individual members of the Fisher family: John J. Fisher, William S. Fisher, Robert J. Fisher, and Donald and Doris Fisher (each, a "Seller"). Pursuant to the agreements, the Company has agreed to buy and each Seller has agreed to sell a number of shares of the Company's common stock which in the aggregate among all of the Sellers would equal approximately 17% of the total number of shares purchased by the Company pursuant to its $1.5 billion repurchase program. The purchase price for the shares of the Company's common stock to be purchased from each Seller will be determined on a monthly basis and will be the weighted average price that the company pays for share repurchases pursuant to its repurchase program in the open market. Either the Company or the individual Seller may terminate the agreement upon 15 business days notice. The foregoing description of the Agreements is qualified in its entirety by reference to the text of the Agreements, copies of which are filed as Exhibits 10.1 through 10.4 of to this Current Report on Form 8-K.
+ 
+On August 23, 2007, the Company issued a press release announcing the Company's earnings for the second quarter ended August 4, 2007. A copy of this press release is attached hereto as Exhibit 99.1.
+ 
+On August 23, 2007, the Company issued a press release announcing the authorization of an additional $1.5 billion for the Company's existing share repurchase program. A copy of this press release is attached hereto as Exhibit 99.2.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 10.1
+STOCK PURCHASE AGREEMENT dated as of August 22, 2007 among The Gap, Inc., a Delaware corporation (the ""), Donald G. Fisher and Doris F. Fisher (together, "" and, together with any revocable family trust through which Fisher beneficially owns common stock of the Company, "").
+Company
+Fisher
+Seller
+WHEREAS, the Company is authorized to purchase from time to time its Shares (as defined below) pursuant to a share repurchase program authorized by a committee of the Board of Directors of the Company on August 21, 2007; and
+WHEREAS, Fisher is the direct beneficial owner of 61,665,028 Shares of the Company (as defined below), representing approximately 7.64% of the outstanding Shares of the Company as of the date hereof; and
+WHEREAS in consideration of the above recitals and of the mutual agreements and covenants contained in this Agreement, the Company and the Sellers intending to be bound legally, each agree as follows:
+Section 1.1. (a) The following terms, as used herein, have the following meanings:
+Definitions.
+"" means, for any Business Day, the monthly short-term applicable federal rate, based on a monthly compounding period, published by the Internal Revenue Service for the Applicable Month in which such Business Day occurs.
+AFR
+"" means, for any period, an amount determined at the end of each period that is the sum of all Daily AFR Carry Amounts for such period.
+AFR Carry Amount
+"" means, for any Applicable Month, the weighted average price, rounded to four decimal points, at which the Company purchased Shares during the Applicable Month pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such Applicable Month divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such Applicable Month; provided that if the Agreement has been terminated in accordance with Section 7.1, the Average Price for any Closing thereafter shall be calculated only through the day immediately prior to the termination date of the Agreement. For the avoidance of doubt, Shares acquired in "open market purchases" shall not include the Acquired Shares.
+Average Price
+"" means (a) for purposes of determining the date of a Closing or Closing Notice, a day on which banks are not required or authorized by law to close in New York City and (b) for all other purposes under this Agreement, a day on which the New York Stock Exchange is open for trading.
+Business Day
+"" means, for each day, an amount determined at the end of each period equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds and (b) AFR divided by 360; provided that if such day is not a Business Day, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds through the most recent Business Day of such Applicable Month and (b) AFR in effect as of the most recent Business Day divided by 360; and provided, further, that for any day after the last Business Day of such Applicable Month and prior to the date of Closing with respect to such Applicable Month, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds as of the most recent Business Day and (b) AFR in effect as of the last Business Day of the Applicable Month divided by 360.
+Daily AFR Carry Amount
+"" means, for any day, the weighted average price at which the Company purchased Shares during the applicable day pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such day divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such day.
+Daily Average Price
+"" means, on any day of an Applicable Month on which all of the following conditions are met: (a) the day is after the public announcement of the dividend, (b) the day precedes an Ex-Dividend Date that occurs during such Applicable Month, and (c) the record date for the shareholders of record entitled to receive such dividend will occur on or before the Closing for such Applicable Month, then Dividend Adjusted Average Price of the Acquired Shares for such day shall be calculated as (i) the Daily Average Price for such day minus (ii) the amount of the dividend per Share which has been declared in respect of the Acquired Shares.
+Dividend Adjusted Average Price
+"" means the date that is two trading days prior to the record date which has been established in connection with the declaration of a dividend in respect of the Acquired Shares or such other date as may be established with respect to the Shares as an "ex-dividend" date by the New York Stock Exchange.
+Ex-Dividend Date
+"" means, for each Business Day of an Applicable Month, the number of Acquired Shares which were attributable to such day's trading as determined by reference to the number of Shares purchased by the Company pursuant to the Program (other than Acquired Shares) on such Business Day as a percent of the Company's total purchases pursuant to the Program (other than Acquired Shares) during each Applicable Month determined after the close of trading on the last Business Day of each Applicable Month and prior to the delivery of the Closing Notice relating to the Closing for each Applicable Month. Implied Daily Acquired Shares may result in fractional shares.
+Implied Daily Acquired Shares
+"" means, for each Business Day of an Applicable Month, the product of (a) the number of Implied Daily Acquired Shares which were deemed to have been acquired on the day that was three trading days prior to such Business Day and (b) the Daily Average Price or Dividend Adjusted Average Price, if applicable, for such prior day.
+Implied Daily Settlement Proceeds
+ 
+"" means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest or other encumbrance of any kind in respect of such property or asset.
+Lien
+"" means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.
+Person
+"" means the share repurchase program approved on August 21, 2007 authorizing the Company to purchase from time to time Shares up to a maximum aggregate amount (including existing authority) of $1.5 billion.
+Program
+"" means 7.64%, which represents a percentage equal to (a) the number of Shares directly owned by such Seller as of August 4, 2007, divided by (b) 807,269,688 shares, which represent the Company's total outstanding basic Shares as of August 4, 2007, multiplied by 100.
+Seller Ownership Percentage
+"" means the common stock of the Company.
+Shares
+(b) For purposes of the definitions of "Average Price," "Daily Average Price" and "Implied Daily Acquired Shares", Shares purchased by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles.
+(c) Each of the following terms is defined in the Section set forth opposite such term:
+ 
+Section 2.1. . Upon the terms and subject to the conditions of this Agreement, Fisher agrees to sell, transfer, assign and deliver to the Company, and the Company agrees to purchase from Seller, with respect to each calendar month in which the Company purchases Shares pursuant to the Program (the ""), a number of Shares at each Closing calculated in accordance with Annex A hereto (the Shares acquired from Seller, the ""). In the event that the Agreement is terminated pursuant to Section 7.1, the day immediately prior to the termination date will be deemed to be the last day of the Applicable Month.
+Purchase and Sale
+Applicable Month
+Acquired Shares
+ 
+Section 2.2. . The aggregate purchase price for the Acquired Shares at each Closing (the "") shall be equal to the product of (i) the aggregate number of Acquired Shares to be purchased at such Closing (ii) the Average Price for the Applicable Month. An interest factor shall be paid along with the Purchase Price for the Acquired Shares equal to the AFR Carry Amount. The Purchase Price shall also include an adjustment to the Average Price of the Acquired Shares, if necessary, to take into account the effect of any dividends or similar distributions relating to the Acquired Shares to be settled for the Applicable Month in the same manner and under the same conditions as provided for in the definition of "Dividend Adjusted Average Price". The Purchase Price and the AFR Carry Amount shall be paid as provided in Section 2.3.
+Purchase Price
+Purchase Price
+multiplied by
+Section 2.3. . Within five Business Days after the end of each Applicable Month, the Company shall deliver to Fisher a notice (each, a "") setting forth (i) the date of Closing, (ii) the number of Acquired Shares to be purchased by the Company from Seller pursuant to Section 2.1, (iii) the Purchase Price and the AFR Carry Amount and (iv) the details of the calculation of the Purchase Price and the AFR Carry Amount, sufficient to allow Fisher to reproduce the calculation of the Purchase Price and the AFR Carry Amount. Subject to the satisfaction or waiver by Fisher and the Company of the conditions set forth in Article 6, each closing of the purchase and sale of the Acquired Shares hereunder shall take place on the date set forth in the Closing Notice, which in any event shall be no later than the tenth Business Day after the end of each month (each, a "") at the offices of the Company located at Two Folsom Street, San Francisco, California 94105, at 9:00 A.M., San Francisco time, or as soon as possible thereafter.
+Closing
+Closing Notice
+Closing
+At each Closing:
+(a) The Company shall deliver to Seller the Purchase Price by wire transfer of same day or other immediately available funds in accordance with the payment instructions provided to the Company from time to time by Fisher; and
+(b) Fisher shall deliver to the Company certificates for the Acquired Shares duly endorsed or accompanied by stock powers duly endorsed in blank, with any required transfer stamps affixed thereto; , if the Acquired Shares are not held by Seller in certificated form, Fisher shall arrange to the Company's satisfaction to transfer such shares in electronic form to a brokerage account designated in writing by the Company in the Closing Notice.
+provided
+Fisher represents and warrants to the Company with respect to any Seller, as of the date hereof and as of the date of each Closing that:
+Section 3.1. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby are within the powers, corporate or otherwise, of each Seller and have been duly authorized by all necessary action on the part of each Seller. This Agreement constitutes a valid and binding agreement of Fisher enforceable against Fisher in accordance with its terms.
+Due Authorization
+ 
+Section 3.2. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any governmental organization, whether state or federal ("").
+Governmental Authorization
+Governmental Authority
+Section 3.3. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the organization documents of each Seller, if applicable, (ii) assuming compliance with the matters referred to in Section 3.2, violate any applicable law, rule, regulation, judgment, injunction, order or decree (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of any Seller under any provision of any agreement or other instrument binding upon any Seller, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of any Seller to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+Section 3.4. . As of the time of each Closing hereunder, Seller will be the beneficial owner of the Acquired Shares to be sold at such Closing, and will transfer and deliver to the Company at each Closing valid title to the Acquired Shares to be sold at such Closing free and clear of any Lien and any other limitation or restriction (including any restriction on the right to sell or otherwise dispose of the Acquired Shares).
+Ownership of Shares
+The Company represents and warrants to Fisher as of the date hereof and as of the date of each Closing that:
+Section 4.1. . The Company (i) is a corporation duly incorporated, validly existing and in good standing under the laws of Delaware and (ii) has all corporate powers and all material governmental licenses, authorizations, permits, consents and approvals required to carry on its business as now conducted, except with respect to (ii), where the failure to have such corporate powers, governmental licenses, authorizations, permits, consents or approvals would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Corporate Existence and Power
+Section 4.2. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby are within the corporate powers of the Company and have been duly authorized by all necessary
+Corporate Authorization
+ 
+corporate action on the part of the Company. This Agreement constitutes a valid and binding agreement of the Company enforceable against the Company in accordance with its terms. The Program has been approved by a committee of the Board of Directors of the Company consisting solely of two or more non-employee directors.
+Section 4.3. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any Governmental Authority.
+Governmental Authorization
+Section 4.4. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the certificate of incorporation or bylaws of the Company, (ii) assuming compliance with the matters referred to in Section 4.3, violate any applicable law, rule, regulation, judgment, injunction, order or decree, (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of the Company under any provision of any agreement or other instrument binding upon the Company, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+The Company and Fisher agree that:
+Section 5.1. . Subject to the terms and conditions of this Agreement, the Company and Fisher will use their reasonable commercial efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things necessary or desirable under applicable laws and regulations to consummate the transactions contemplated by this Agreement.
+Reasonable Commercial Efforts; Further Assurances
+Section 6.1. C. The obligations of the Company and Fisher to consummate each Closing is subject to the satisfaction of the following conditions:
+onditions to Obligations of the Company and Fisher
+(a) No provision of any applicable law or regulation and no judgment, injunction, order or decree shall prohibit the consummation of any Closing; and
+(b) All actions by or in respect of or filings with any governmental body, agency, official or authority required to permit the consummation of each Closing shall have been taken, made or obtained.
+ 
+Section 6.2. . The obligation of the Company to consummate each Closing is subject to the satisfaction (or waiver by the Company) of the following conditions:
+Conditions to Obligations of the Company
+(a) Fisher shall have performed in all material respects all of his respective obligations hereunder required to be performed by him on or prior to such Closing; and
+(b) The representations and warranties of Fisher hereunder contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 6.3. . The obligation of Fisher to consummate each Closing is subject to the satisfaction (or waiver by Fisher) of the following conditions:
+Conditions to Obligation of Fisher
+(a) The Company shall have performed in all material respects all of its obligations hereunder required to be performed by it at or prior to such Closing; and
+(b) The representations and warranties of the Company contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 7.1. . This Agreement shall terminate:
+Termination
+(a) pursuant to the joint written agreement of the Company and Fisher; or
+(b) 15 Business Days after notice by Fisher, on the one hand, or the Company, on the other hand; or
+(c) pursuant to written notice by the Company, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of Fisher set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.2(a) and 6.2(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(d) pursuant to written notice by Fisher, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of the Company set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.3(a) and 6.3(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(e) pursuant to written notice by either Fisher or the Company if there shall be any law or regulation that makes consummation of the transactions contemplated hereby illegal or otherwise prohibited or if consummation of the transactions contemplated hereby would violate any nonappealable final order, decree or judgment of any court or governmental body having competent jurisdiction; or
+ 
+(f) at the termination or completion of the Program;
+that with respect to (a) and (b) above, such termination shall not affect the settlement of Acquired Shares in respect of any purchases pursuant to the Program which have occurred or are deemed to have occurred prior to the effective date of the termination of this Agreement.
+provided
+The party desiring to terminate this Agreement pursuant to clauses (b), (c), (d) or (e) above shall give written notice of such termination to the other party.
+Section 8.1. . The covenants, agreements, representations and warranties of the parties hereto contained in this Agreement or in any certificate or other writing delivered pursuant hereto shall not survive the termination of this Agreement other than with respect to a Closing for Acquired Shares which follows a termination of the Agreement pursuant to Sections 7.1(a) or (b); that the covenants, agreements, representations and warranties contained in Articles 3, 4 and 8 shall survive indefinitely; that nothing shall relieve any party for liability at any time with respect to any breach occurring prior to the termination of this Agreement.
+Survival
+provided
+provided, further,
+Section 8.2. . All notices, requests and other communications to any party hereunder shall be in writing (including facsimile transmission) and shall be given,
+Notices
+ 
+ 
+All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 P.M. in the place of receipt (as evidenced by confirmation of facsimile or other appropriate transmission receipt) and such day is a business day in San Francisco, California. Otherwise, any such notice, request or communication shall be deemed not to have been received until the next succeeding business day in San Francisco, California.
+Section 8.3. . Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by both parties to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective. The failure or delay by any party in exercising any right, power or privilege hereunder shall not operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+Amendments and Waivers
+Section 8.4. . All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such cost or expense.
+Expenses
+Section 8.5. . The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns; that no party may assign or delegate any of its rights or obligations under this Agreement without the consent of each other party hereto.
+Successors and Assigns
+provided
+Section 8.6. . This Agreement shall be governed by and construed in accordance with the law of the State of California (without regard to principles of conflicts of laws).
+Governing Law
+Section 8.7. . The parties hereto agree that any suit, action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought in a state or federal court located in San Francisco, California, so long as one of such courts shall have subject matter jurisdiction over such suit, action or proceeding, and each of the parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding which is brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 8.2 shall be deemed effective service of process on such party.
+Jurisdiction
+ 
+Section 8.8. . EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+WAIVER OF JURY TRIAL
+Section 8.9. . This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. This Agreement shall become effective when each party hereto shall have received a counterpart hereof signed by the other party hereto. No provision of this Agreement is intended to confer upon any Person other than the Company or Seller any rights or remedies hereunder.
+Counterparts; Third Party Beneficiaries
+Section 8.10. . This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to the subject matter of this Agreement.
+Entire Agreement
+Section 8.11. . The captions herein are included for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+Captions
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+The number of Acquired Shares to be purchased from Seller at each Closing shall be equal to:
+(a) the quotient of (1) the Seller Ownership Percentage (2) [1 minus the Seller Ownership Percentage]
+divided by
+multiplied by
+(b) the number of Shares purchased by the Company pursuant to the Program (open market purchases and otherwise) with respect to the Applicable Month (excluding any Acquired Shares) measured from the first Business Day of the Applicable Month through and including the last Business Day of the Applicable Month;
+that such number of Acquired Shares for the Applicable Month shall be rounded to the nearest whole Acquired Share.
+provided
+For purposes of the Acquired Shares calculation, Shares purchased in the open market by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles. Shares purchased after the end of the Applicable Month that relate to the Applicable Month shall be deemed to have been purchased during the Applicable Month.
+ 
+
+Exhibit 10.2
+STOCK PURCHASE AGREEMENT dated as of August 22, 2007 among The Gap, Inc., a Delaware corporation (the ""), John J. Fisher ("" and, together with any revocable family trust through which Fisher beneficially owns common stock of the Company, "").
+Company
+Fisher
+Seller
+WHEREAS, the Company is authorized to purchase from time to time its Shares (as defined below) pursuant to a share repurchase program authorized by a committee of the Board of Directors of the Company on August 21, 2007; and
+WHEREAS, Fisher is the direct beneficial owner of 28,680,873 Shares of the Company (as defined below), representing approximately 3.55% of the outstanding Shares of the Company as of the date hereof; and
+WHEREAS in consideration of the above recitals and of the mutual agreements and covenants contained in this Agreement, the Company and the Sellers intending to be bound legally, each agree as follows:
+Section 1.1. (a) The following terms, as used herein, have the following meanings:
+Definitions.
+"" means, for any Business Day, the monthly short-term applicable federal rate, based on a monthly compounding period, published by the Internal Revenue Service for the Applicable Month in which such Business Day occurs.
+AFR
+"" means, for any period, an amount determined at the end of each period that is the sum of all Daily AFR Carry Amounts for such period.
+AFR Carry Amount
+"" means, for any Applicable Month, the weighted average price, rounded to four decimal points, at which the Company purchased Shares during the Applicable Month pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such Applicable Month divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such Applicable Month; provided that if the Agreement has been terminated in accordance with Section 7.1, the Average Price for any Closing thereafter shall be calculated only through the day immediately prior to the termination date of the Agreement. For the avoidance of doubt, Shares acquired in "open market purchases" shall not include the Acquired Shares.
+Average Price
+"" means (a) for purposes of determining the date of a Closing or Closing Notice, a day on which banks are not required or authorized by law to close in New York City and (b) for all other purposes under this Agreement, a day on which the New York Stock Exchange is open for trading.
+Business Day
+"" means, for each day, an amount determined at the end of each period equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds and (b) AFR divided by 360; provided that if such day is not a Business Day, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds through the most recent Business Day of such Applicable Month and (b) AFR in effect as of the most recent Business Day divided by 360; and provided, further, that for any day after the last Business Day of such Applicable Month and prior to the date of Closing with respect to such Applicable Month, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds as of the most recent Business Day and (b) AFR in effect as of the last Business Day of the Applicable Month divided by 360.
+Daily AFR Carry Amount
+"" means, for any day, the weighted average price at which the Company purchased Shares during the applicable day pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such day divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such day.
+Daily Average Price
+"" means, on any day of an Applicable Month on which all of the following conditions are met: (a) the day is after the public announcement of the dividend, (b) the day precedes an Ex-Dividend Date that occurs during such Applicable Month, and (c) the record date for the shareholders of record entitled to receive such dividend will occur on or before the Closing for such Applicable Month, then Dividend Adjusted Average Price of the Acquired Shares for such day shall be calculated as (i) the Daily Average Price for such day minus (ii) the amount of the dividend per Share which has been declared in respect of the Acquired Shares.
+Dividend Adjusted Average Price
+"" means the date that is two trading days prior to the record date which has been established in connection with the declaration of a dividend in respect of the Acquired Shares or such other date as may be established with respect to the Shares as an "ex-dividend" date by the New York Stock Exchange.
+Ex-Dividend Date
+"" means, for each Business Day of an Applicable Month, the number of Acquired Shares which were attributable to such day's trading as determined by reference to the number of Shares purchased by the Company pursuant to the Program (other than Acquired Shares) on such Business Day as a percent of the Company's total purchases pursuant to the Program (other than Acquired Shares) during each Applicable Month determined after the close of trading on the last Business Day of each Applicable Month and prior to the delivery of the Closing Notice relating to the Closing for each Applicable Month. Implied Daily Acquired Shares may result in fractional shares.
+Implied Daily Acquired Shares
+"" means, for each Business Day of an Applicable Month, the product of (a) the number of Implied Daily Acquired Shares which were deemed to have been acquired on the day that was three trading days prior to such Business Day and (b) the Daily Average Price or Dividend Adjusted Average Price, if applicable, for such prior day.
+Implied Daily Settlement Proceeds
+ 
+"" means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest or other encumbrance of any kind in respect of such property or asset.
+Lien
+"" means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.
+Person
+"" means the share repurchase program approved on August 21, 2007 authorizing the Company to purchase from time to time Shares up to a maximum aggregate amount (including existing authority) of $1.5 billion.
+Program
+"" means 3.55%, which represents a percentage equal to (a) the number of Shares directly owned by such Seller as of August 4, 2007, divided by (b) 807,269,688 shares, which represent the Company's total outstanding basic Shares as of August 4, 2007, multiplied by 100.
+Seller Ownership Percentage
+"" means the common stock of the Company.
+Shares
+(b) For purposes of the definitions of "Average Price," "Daily Average Price" and "Implied Daily Acquired Shares", Shares purchased by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles.
+(c) Each of the following terms is defined in the Section set forth opposite such term:
+ 
+Section 2.1. . Upon the terms and subject to the conditions of this Agreement, Fisher agrees to sell, transfer, assign and deliver to the Company, and the Company agrees to purchase from Seller, with respect to each calendar month in which the Company purchases Shares pursuant to the Program (the ""), a number of Shares at each Closing calculated in accordance with Annex A hereto (the Shares acquired from Seller, the ""). In the event that the Agreement is terminated pursuant to Section 7.1, the day immediately prior to the termination date will be deemed to be the last day of the Applicable Month.
+Purchase and Sale
+Applicable Month
+Acquired Shares
+ 
+Section 2.2. . The aggregate purchase price for the Acquired Shares at each Closing (the "") shall be equal to the product of (i) the aggregate number of Acquired Shares to be purchased at such Closing (ii) the Average Price for the Applicable Month. An interest factor shall be paid along with the Purchase Price for the Acquired Shares equal to the AFR Carry Amount. The Purchase Price shall also include an adjustment to the Average Price of the Acquired Shares, if necessary, to take into account the effect of any dividends or similar distributions relating to the Acquired Shares to be settled for the Applicable Month in the same manner and under the same conditions as provided for in the definition of "Dividend Adjusted Average Price". The Purchase Price and the AFR Carry Amount shall be paid as provided in Section 2.3.
+Purchase Price
+Purchase Price
+multiplied by
+Section 2.3. . Within five Business Days after the end of each Applicable Month, the Company shall deliver to Fisher a notice (each, a "") setting forth (i) the date of Closing, (ii) the number of Acquired Shares to be purchased by the Company from Seller pursuant to Section 2.1, (iii) the Purchase Price and the AFR Carry Amount and (iv) the details of the calculation of the Purchase Price and the AFR Carry Amount, sufficient to allow Fisher to reproduce the calculation of the Purchase Price and the AFR Carry Amount. Subject to the satisfaction or waiver by Fisher and the Company of the conditions set forth in Article 6, each closing of the purchase and sale of the Acquired Shares hereunder shall take place on the date set forth in the Closing Notice, which in any event shall be no later than the tenth Business Day after the end of each month (each, a "") at the offices of the Company located at Two Folsom Street, San Francisco, California 94105, at 9:00 A.M., San Francisco time, or as soon as possible thereafter.
+Closing
+Closing Notice
+Closing
+At each Closing:
+(a) The Company shall deliver to Seller the Purchase Price by wire transfer of same day or other immediately available funds in accordance with the payment instructions provided to the Company from time to time by Fisher; and
+(b) Fisher shall deliver to the Company certificates for the Acquired Shares duly endorsed or accompanied by stock powers duly endorsed in blank, with any required transfer stamps affixed thereto; , if the Acquired Shares are not held by Seller in certificated form, Fisher shall arrange to the Company's satisfaction to transfer such shares in electronic form to a brokerage account designated in writing by the Company in the Closing Notice.
+provided
+Fisher represents and warrants to the Company with respect to any Seller, as of the date hereof and as of the date of each Closing that:
+Section 3.1. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby are within the powers, corporate or otherwise, of each Seller and have been duly authorized by all necessary action on the part of each Seller. This Agreement constitutes a valid and binding agreement of Fisher enforceable against Fisher in accordance with its terms.
+Due Authorization
+ 
+Section 3.2. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any governmental organization, whether state or federal ("").
+Governmental Authorization
+Governmental Authority
+Section 3.3. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the organization documents of each Seller, if applicable, (ii) assuming compliance with the matters referred to in Section 3.2, violate any applicable law, rule, regulation, judgment, injunction, order or decree (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of any Seller under any provision of any agreement or other instrument binding upon any Seller, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of any Seller to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+Section 3.4. . As of the time of each Closing hereunder, Seller will be the beneficial owner of the Acquired Shares to be sold at such Closing, and will transfer and deliver to the Company at each Closing valid title to the Acquired Shares to be sold at such Closing free and clear of any Lien and any other limitation or restriction (including any restriction on the right to sell or otherwise dispose of the Acquired Shares).
+Ownership of Shares
+The Company represents and warrants to Fisher as of the date hereof and as of the date of each Closing that:
+Section 4.1. . The Company (i) is a corporation duly incorporated, validly existing and in good standing under the laws of Delaware and (ii) has all corporate powers and all material governmental licenses, authorizations, permits, consents and approvals required to carry on its business as now conducted, except with respect to (ii), where the failure to have such corporate powers, governmental licenses, authorizations, permits, consents or approvals would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Corporate Existence and Power
+Section 4.2. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby are within the corporate powers of the Company and have been duly authorized by all necessary
+Corporate Authorization
+ 
+corporate action on the part of the Company. This Agreement constitutes a valid and binding agreement of the Company enforceable against the Company in accordance with its terms. The Program has been approved by a committee of the Board of Directors of the Company consisting solely of two or more non-employee directors.
+Section 4.3. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any Governmental Authority.
+Governmental Authorization
+Section 4.4. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the certificate of incorporation or bylaws of the Company, (ii) assuming compliance with the matters referred to in Section 4.3, violate any applicable law, rule, regulation, judgment, injunction, order or decree, (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of the Company under any provision of any agreement or other instrument binding upon the Company, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+The Company and Fisher agree that:
+Section 5.1. . Subject to the terms and conditions of this Agreement, the Company and Fisher will use their reasonable commercial efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things necessary or desirable under applicable laws and regulations to consummate the transactions contemplated by this Agreement.
+Reasonable Commercial Efforts; Further Assurances
+Section 6.1. C. The obligations of the Company and Fisher to consummate each Closing is subject to the satisfaction of the following conditions:
+onditions to Obligations of the Company and Fisher
+(a) No provision of any applicable law or regulation and no judgment, injunction, order or decree shall prohibit the consummation of any Closing; and
+(b) All actions by or in respect of or filings with any governmental body, agency, official or authority required to permit the consummation of each Closing shall have been taken, made or obtained.
+ 
+Section 6.2. . The obligation of the Company to consummate each Closing is subject to the satisfaction (or waiver by the Company) of the following conditions:
+Conditions to Obligations of the Company
+(a) Fisher shall have performed in all material respects all of his respective obligations hereunder required to be performed by him on or prior to such Closing; and
+(b) The representations and warranties of Fisher hereunder contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 6.3. . The obligation of Fisher to consummate each Closing is subject to the satisfaction (or waiver by Fisher) of the following conditions:
+Conditions to Obligation of Fisher
+(a) The Company shall have performed in all material respects all of its obligations hereunder required to be performed by it at or prior to such Closing; and
+(b) The representations and warranties of the Company contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 7.1. . This Agreement shall terminate:
+Termination
+(a) pursuant to the joint written agreement of the Company and Fisher; or
+(b) 15 Business Days after notice by Fisher, on the one hand, or the Company, on the other hand; or
+(c) pursuant to written notice by the Company, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of Fisher set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.2(a) and 6.2(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(d) pursuant to written notice by Fisher, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of the Company set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.3(a) and 6.3(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(e) pursuant to written notice by either Fisher or the Company if there shall be any law or regulation that makes consummation of the transactions contemplated hereby illegal or otherwise prohibited or if consummation of the transactions contemplated hereby would violate any nonappealable final order, decree or judgment of any court or governmental body having competent jurisdiction; or
+ 
+(f) at the termination or completion of the Program;
+that with respect to (a) and (b) above, such termination shall not affect the settlement of Acquired Shares in respect of any purchases pursuant to the Program which have occurred or are deemed to have occurred prior to the effective date of the termination of this Agreement.
+provided
+The party desiring to terminate this Agreement pursuant to clauses (b), (c), (d) or (e) above shall give written notice of such termination to the other party.
+Section 8.1. . The covenants, agreements, representations and warranties of the parties hereto contained in this Agreement or in any certificate or other writing delivered pursuant hereto shall not survive the termination of this Agreement other than with respect to a Closing for Acquired Shares which follows a termination of the Agreement pursuant to Sections 7.1(a) or (b); that the covenants, agreements, representations and warranties contained in Articles 3, 4 and 8 shall survive indefinitely; that nothing shall relieve any party for liability at any time with respect to any breach occurring prior to the termination of this Agreement.
+Survival
+provided
+provided, further,
+Section 8.2. . All notices, requests and other communications to any party hereunder shall be in writing (including facsimile transmission) and shall be given,
+Notices
+if to the Company, to:
+The Gap, Inc.
+Two Folsom Street
+San Francisco, CA 94105
+Fax: (415) 427-6982
+Attn: General Counsel
+with a copy to:
+Fax: (415) 427-4015
+Attn: Treasury Department
+if to Fisher, to:
+One Maritime Plaza
+Suite 1400
+San Francisco, CA 94111
+Fax: (415) 288-0549
+Attn: John J. Fisher
+ 
+All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 P.M. in the place of receipt (as evidenced by confirmation of facsimile or other appropriate transmission receipt) and such day is a business day in San Francisco, California. Otherwise, any such notice, request or communication shall be deemed not to have been received until the next succeeding business day in San Francisco, California.
+Section 8.3. . Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by both parties to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective. The failure or delay by any party in exercising any right, power or privilege hereunder shall not operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+Amendments and Waivers
+Section 8.4. . All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such cost or expense.
+Expenses
+Section 8.5. . The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns; that no party may assign or delegate any of its rights or obligations under this Agreement without the consent of each other party hereto.
+Successors and Assigns
+provided
+Section 8.6. . This Agreement shall be governed by and construed in accordance with the law of the State of California (without regard to principles of conflicts of laws).
+Governing Law
+Section 8.7. . The parties hereto agree that any suit, action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought in a state or federal court located in San Francisco, California, so long as one of such courts shall have subject matter jurisdiction over such suit, action or proceeding, and each of the parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding which is brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 8.2 shall be deemed effective service of process on such party.
+Jurisdiction
+ 
+Section 8.8. . EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+WAIVER OF JURY TRIAL
+Section 8.9. . This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. This Agreement shall become effective when each party hereto shall have received a counterpart hereof signed by the other party hereto. No provision of this Agreement is intended to confer upon any Person other than the Company or Seller any rights or remedies hereunder.
+Counterparts; Third Party Beneficiaries
+Section 8.10. . This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to the subject matter of this Agreement.
+Entire Agreement
+Section 8.11. . The captions herein are included for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+Captions
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+The number of Acquired Shares to be purchased from Seller at each Closing shall be equal to:
+(a) the quotient of (1) the Seller Ownership Percentage (2) [1 minus the Seller Ownership Percentage]
+divided by
+multiplied by
+(b) the number of Shares purchased by the Company pursuant to the Program (open market purchases and otherwise) with respect to the Applicable Month (excluding any Acquired Shares) measured from the first Business Day of the Applicable Month through and including the last Business Day of the Applicable Month;
+that such number of Acquired Shares for the Applicable Month shall be rounded to the nearest whole Acquired Share.
+provided
+For purposes of the Acquired Shares calculation, Shares purchased in the open market by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles. Shares purchased after the end of the Applicable Month that relate to the Applicable Month shall be deemed to have been purchased during the Applicable Month.
+ 
+
+Exhibit 10.3
+STOCK PURCHASE AGREEMENT dated as of August 22, 2007 among The Gap, Inc., a Delaware corporation (the ""), Robert J. Fisher ("" and, together with any revocable family trust through which Fisher beneficially owns common stock of the Company, "").
+Company
+Fisher
+Seller
+WHEREAS, the Company is authorized to purchase from time to time its Shares (as defined below) pursuant to a share repurchase program authorized by a committee of the Board of Directors of the Company on August 21, 2007; and
+WHEREAS, Fisher is the direct beneficial owner of 23,552,889 Shares of the Company (as defined below), representing approximately 2.92% of the outstanding Shares of the Company as of the date hereof; and
+WHEREAS in consideration of the above recitals and of the mutual agreements and covenants contained in this Agreement, the Company and the Sellers intending to be bound legally, each agree as follows:
+Section 1.1. (a) The following terms, as used herein, have the following meanings:
+Definitions.
+"" means, for any Business Day, the monthly short-term applicable federal rate, based on a monthly compounding period, published by the Internal Revenue Service for the Applicable Month in which such Business Day occurs.
+AFR
+"" means, for any period, an amount determined at the end of each period that is the sum of all Daily AFR Carry Amounts for such period.
+AFR Carry Amount
+"" means, for any Applicable Month, the weighted average price, rounded to four decimal points, at which the Company purchased Shares during the Applicable Month pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such Applicable Month divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such Applicable Month; provided that if the Agreement has been terminated in accordance with Section 7.1, the Average Price for any Closing thereafter shall be calculated only through the day immediately prior to the termination date of the Agreement. For the avoidance of doubt, Shares acquired in "open market purchases" shall not include the Acquired Shares.
+Average Price
+"" means (a) for purposes of determining the date of a Closing or Closing Notice, a day on which banks are not required or authorized by law to close in New York City and (b) for all other purposes under this Agreement, a day on which the New York Stock Exchange is open for trading.
+Business Day
+"" means, for each day, an amount determined at the end of each period equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds and (b) AFR divided by 360; provided that if such day is not a Business Day, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds through the most recent Business Day of such Applicable Month and (b) AFR in effect as of the most recent Business Day divided by 360; and provided, further, that for any day after the last Business Day of such Applicable Month and prior to the date of Closing with respect to such Applicable Month, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds as of the most recent Business Day and (b) AFR in effect as of the last Business Day of the Applicable Month divided by 360.
+Daily AFR Carry Amount
+"" means, for any day, the weighted average price at which the Company purchased Shares during the applicable day pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such day divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such day.
+Daily Average Price
+"" means, on any day of an Applicable Month on which all of the following conditions are met: (a) the day is after the public announcement of the dividend, (b) the day precedes an Ex-Dividend Date that occurs during such Applicable Month, and (c) the record date for the shareholders of record entitled to receive such dividend will occur on or before the Closing for such Applicable Month, then Dividend Adjusted Average Price of the Acquired Shares for such day shall be calculated as (i) the Daily Average Price for such day minus (ii) the amount of the dividend per Share which has been declared in respect of the Acquired Shares.
+Dividend Adjusted Average Price
+"" means the date that is two trading days prior to the record date which has been established in connection with the declaration of a dividend in respect of the Acquired Shares or such other date as may be established with respect to the Shares as an "ex-dividend" date by the New York Stock Exchange.
+Ex-Dividend Date
+"" means, for each Business Day of an Applicable Month, the number of Acquired Shares which were attributable to such day's trading as determined by reference to the number of Shares purchased by the Company pursuant to the Program (other than Acquired Shares) on such Business Day as a percent of the Company's total purchases pursuant to the Program (other than Acquired Shares) during each Applicable Month determined after the close of trading on the last Business Day of each Applicable Month and prior to the delivery of the Closing Notice relating to the Closing for each Applicable Month. Implied Daily Acquired Shares may result in fractional shares.
+Implied Daily Acquired Shares
+"" means, for each Business Day of an Applicable Month, the product of (a) the number of Implied Daily Acquired Shares which were deemed to have been acquired on the day that was three trading days prior to such Business Day and (b) the Daily Average Price or Dividend Adjusted Average Price, if applicable, for such prior day.
+Implied Daily Settlement Proceeds
+ 
+"" means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest or other encumbrance of any kind in respect of such property or asset.
+Lien
+"" means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.
+Person
+"" means the share repurchase program approved on August 21, 2007 authorizing the Company to purchase from time to time Shares up to a maximum aggregate amount (including existing authority) of $1.5 billion.
+Program
+"" means 2.92%, which represents a percentage equal to (a) the number of Shares directly owned by such Seller as of August 4, 2007, divided by (b) 807,269,688 shares, which represent the Company's total outstanding basic Shares as of August 4, 2007, multiplied by 100.
+Seller Ownership Percentage
+"" means the common stock of the Company.
+Shares
+(b) For purposes of the definitions of "Average Price," "Daily Average Price" and "Implied Daily Acquired Shares", Shares purchased by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles.
+(c) Each of the following terms is defined in the Section set forth opposite such term:
+ 
+Section 2.1. . Upon the terms and subject to the conditions of this Agreement, Fisher agrees to sell, transfer, assign and deliver to the Company, and the Company agrees to purchase from Seller, with respect to each calendar month in which the Company purchases Shares pursuant to the Program (the ""), a number of Shares at each Closing calculated in accordance with Annex A hereto (the Shares acquired from Seller, the ""). In the event that the Agreement is terminated pursuant to Section 7.1, the day immediately prior to the termination date will be deemed to be the last day of the Applicable Month.
+Purchase and Sale
+Applicable Month
+Acquired Shares
+ 
+Section 2.2. . The aggregate purchase price for the Acquired Shares at each Closing (the "") shall be equal to the product of (i) the aggregate number of Acquired Shares to be purchased at such Closing (ii) the Average Price for the Applicable Month. An interest factor shall be paid along with the Purchase Price for the Acquired Shares equal to the AFR Carry Amount. The Purchase Price shall also include an adjustment to the Average Price of the Acquired Shares, if necessary, to take into account the effect of any dividends or similar distributions relating to the Acquired Shares to be settled for the Applicable Month in the same manner and under the same conditions as provided for in the definition of "Dividend Adjusted Average Price". The Purchase Price and the AFR Carry Amount shall be paid as provided in Section 2.3.
+Purchase Price
+Purchase Price
+multiplied by
+Section 2.3. . Within five Business Days after the end of each Applicable Month, the Company shall deliver to Fisher a notice (each, a "") setting forth (i) the date of Closing, (ii) the number of Acquired Shares to be purchased by the Company from Seller pursuant to Section 2.1, (iii) the Purchase Price and the AFR Carry Amount and (iv) the details of the calculation of the Purchase Price and the AFR Carry Amount, sufficient to allow Fisher to reproduce the calculation of the Purchase Price and the AFR Carry Amount. Subject to the satisfaction or waiver by Fisher and the Company of the conditions set forth in Article 6, each closing of the purchase and sale of the Acquired Shares hereunder shall take place on the date set forth in the Closing Notice, which in any event shall be no later than the tenth Business Day after the end of each month (each, a "") at the offices of the Company located at Two Folsom Street, San Francisco, California 94105, at 9:00 A.M., San Francisco time, or as soon as possible thereafter.
+Closing
+Closing Notice
+Closing
+At each Closing:
+(a) The Company shall deliver to Seller the Purchase Price by wire transfer of same day or other immediately available funds in accordance with the payment instructions provided to the Company from time to time by Fisher; and
+(b) Fisher shall deliver to the Company certificates for the Acquired Shares duly endorsed or accompanied by stock powers duly endorsed in blank, with any required transfer stamps affixed thereto; , if the Acquired Shares are not held by Seller in certificated form, Fisher shall arrange to the Company's satisfaction to transfer such shares in electronic form to a brokerage account designated in writing by the Company in the Closing Notice.
+provided
+Fisher represents and warrants to the Company with respect to any Seller, as of the date hereof and as of the date of each Closing that:
+Section 3.1. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby are within the powers, corporate or otherwise, of each Seller and have been duly authorized by all necessary action on the part of each Seller. This Agreement constitutes a valid and binding agreement of Fisher enforceable against Fisher in accordance with its terms.
+Due Authorization
+ 
+Section 3.2. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any governmental organization, whether state or federal ("").
+Governmental Authorization
+Governmental Authority
+Section 3.3. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the organization documents of each Seller, if applicable, (ii) assuming compliance with the matters referred to in Section 3.2, violate any applicable law, rule, regulation, judgment, injunction, order or decree (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of any Seller under any provision of any agreement or other instrument binding upon any Seller, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of any Seller to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+Section 3.4. . As of the time of each Closing hereunder, Seller will be the beneficial owner of the Acquired Shares to be sold at such Closing, and will transfer and deliver to the Company at each Closing valid title to the Acquired Shares to be sold at such Closing free and clear of any Lien and any other limitation or restriction (including any restriction on the right to sell or otherwise dispose of the Acquired Shares).
+Ownership of Shares
+The Company represents and warrants to Fisher as of the date hereof and as of the date of each Closing that:
+Section 4.1. . The Company (i) is a corporation duly incorporated, validly existing and in good standing under the laws of Delaware and (ii) has all corporate powers and all material governmental licenses, authorizations, permits, consents and approvals required to carry on its business as now conducted, except with respect to (ii), where the failure to have such corporate powers, governmental licenses, authorizations, permits, consents or approvals would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Corporate Existence and Power
+Section 4.2. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby are within the corporate powers of the Company and have been duly authorized by all necessary
+Corporate Authorization
+ 
+corporate action on the part of the Company. This Agreement constitutes a valid and binding agreement of the Company enforceable against the Company in accordance with its terms. The Program has been approved by a committee of the Board of Directors of the Company consisting solely of two or more non-employee directors.
+Section 4.3. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any Governmental Authority.
+Governmental Authorization
+Section 4.4. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the certificate of incorporation or bylaws of the Company, (ii) assuming compliance with the matters referred to in Section 4.3, violate any applicable law, rule, regulation, judgment, injunction, order or decree, (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of the Company under any provision of any agreement or other instrument binding upon the Company, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+The Company and Fisher agree that:
+Section 5.1. . Subject to the terms and conditions of this Agreement, the Company and Fisher will use their reasonable commercial efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things necessary or desirable under applicable laws and regulations to consummate the transactions contemplated by this Agreement.
+Reasonable Commercial Efforts; Further Assurances
+Section 6.1. C. The obligations of the Company and Fisher to consummate each Closing is subject to the satisfaction of the following conditions:
+onditions to Obligations of the Company and Fisher
+(a) No provision of any applicable law or regulation and no judgment, injunction, order or decree shall prohibit the consummation of any Closing; and
+(b) All actions by or in respect of or filings with any governmental body, agency, official or authority required to permit the consummation of each Closing shall have been taken, made or obtained.
+ 
+Section 6.2. . The obligation of the Company to consummate each Closing is subject to the satisfaction (or waiver by the Company) of the following conditions:
+Conditions to Obligations of the Company
+(a) Fisher shall have performed in all material respects all of his respective obligations hereunder required to be performed by him on or prior to such Closing; and
+(b) The representations and warranties of Fisher hereunder contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 6.3. . The obligation of Fisher to consummate each Closing is subject to the satisfaction (or waiver by Fisher) of the following conditions:
+Conditions to Obligation of Fisher
+(a) The Company shall have performed in all material respects all of its obligations hereunder required to be performed by it at or prior to such Closing; and
+(b) The representations and warranties of the Company contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 7.1. . This Agreement shall terminate:
+Termination
+(a) pursuant to the joint written agreement of the Company and Fisher; or
+(b) 15 Business Days after notice by Fisher, on the one hand, or the Company, on the other hand; or
+(c) pursuant to written notice by the Company, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of Fisher set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.2(a) and 6.2(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(d) pursuant to written notice by Fisher, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of the Company set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.3(a) and 6.3(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(e) pursuant to written notice by either Fisher or the Company if there shall be any law or regulation that makes consummation of the transactions contemplated hereby illegal or otherwise prohibited or if consummation of the transactions contemplated hereby would violate any nonappealable final order, decree or judgment of any court or governmental body having competent jurisdiction; or
+ 
+(f) at the termination or completion of the Program;
+that with respect to (a) and (b) above, such termination shall not affect the settlement of Acquired Shares in respect of any purchases pursuant to the Program which have occurred or are deemed to have occurred prior to the effective date of the termination of this Agreement.
+provided
+The party desiring to terminate this Agreement pursuant to clauses (b), (c), (d) or (e) above shall give written notice of such termination to the other party.
+Section 8.1. . The covenants, agreements, representations and warranties of the parties hereto contained in this Agreement or in any certificate or other writing delivered pursuant hereto shall not survive the termination of this Agreement other than with respect to a Closing for Acquired Shares which follows a termination of the Agreement pursuant to Sections 7.1(a) or (b); that the covenants, agreements, representations and warranties contained in Articles 3, 4 and 8 shall survive indefinitely; that nothing shall relieve any party for liability at any time with respect to any breach occurring prior to the termination of this Agreement.
+Survival
+provided
+provided, further,
+Section 8.2. . All notices, requests and other communications to any party hereunder shall be in writing (including facsimile transmission) and shall be given,
+Notices
+if to the Company, to:
+The Gap, Inc.
+Two Folsom Street
+San Francisco, CA 94105
+Fax: (415) 427-6982
+Attn: General Counsel
+with a copy to:
+Fax: (415) 427-4015
+Attn: Treasury Department
+if to Fisher, to:
+One Maritime Plaza
+Suite 1400
+San Francisco, CA 94111
+Fax: (415) 288-0549
+Attn: Robert J. Fisher
+ 
+All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 P.M. in the place of receipt (as evidenced by confirmation of facsimile or other appropriate transmission receipt) and such day is a business day in San Francisco, California. Otherwise, any such notice, request or communication shall be deemed not to have been received until the next succeeding business day in San Francisco, California.
+Section 8.3. . Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by both parties to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective. The failure or delay by any party in exercising any right, power or privilege hereunder shall not operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+Amendments and Waivers
+Section 8.4. . All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such cost or expense.
+Expenses
+Section 8.5. . The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns; that no party may assign or delegate any of its rights or obligations under this Agreement without the consent of each other party hereto.
+Successors and Assigns
+provided
+Section 8.6. . This Agreement shall be governed by and construed in accordance with the law of the State of California (without regard to principles of conflicts of laws).
+Governing Law
+Section 8.7. . The parties hereto agree that any suit, action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought in a state or federal court located in San Francisco, California, so long as one of such courts shall have subject matter jurisdiction over such suit, action or proceeding, and each of the parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding which is brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 8.2 shall be deemed effective service of process on such party.
+Jurisdiction
+ 
+Section 8.8. . EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+WAIVER OF JURY TRIAL
+Section 8.9. . This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. This Agreement shall become effective when each party hereto shall have received a counterpart hereof signed by the other party hereto. No provision of this Agreement is intended to confer upon any Person other than the Company or Seller any rights or remedies hereunder.
+Counterparts; Third Party Beneficiaries
+Section 8.10. . This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to the subject matter of this Agreement.
+Entire Agreement
+Section 8.11. . The captions herein are included for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+Captions
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+The number of Acquired Shares to be purchased from Seller at each Closing shall be equal to:
+(a) the quotient of (1) the Seller Ownership Percentage (2) [1 minus the Seller Ownership Percentage]
+divided by
+multiplied by
+(b) the number of Shares purchased by the Company pursuant to the Program (open market purchases and otherwise) with respect to the Applicable Month (excluding any Acquired Shares) measured from the first Business Day of the Applicable Month through and including the last Business Day of the Applicable Month;
+that such number of Acquired Shares for the Applicable Month shall be rounded to the nearest whole Acquired Share.
+provided
+For purposes of the Acquired Shares calculation, Shares purchased in the open market by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles. Shares purchased after the end of the Applicable Month that relate to the Applicable Month shall be deemed to have been purchased during the Applicable Month.
+ 
+
+Exhibit 10.4
+STOCK PURCHASE AGREEMENT dated as of August 22, 2007 among The Gap, Inc., a Delaware corporation (the ""), William S. Fisher ("" and, together with any revocable family trust through which Fisher beneficially owns common stock of the Company, "").
+Company
+Fisher
+Seller
+WHEREAS, the Company is authorized to purchase from time to time its Shares (as defined below) pursuant to a share repurchase program authorized by a committee of the Board of Directors of the Company on August 21, 2007; and
+WHEREAS, Fisher is the direct beneficial owner of 20,247,933 Shares of the Company (as defined below), representing approximately 2.51% of the outstanding Shares of the Company as of the date hereof; and
+WHEREAS in consideration of the above recitals and of the mutual agreements and covenants contained in this Agreement, the Company and the Sellers intending to be bound legally, each agree as follows:
+Section 1.1. (a) The following terms, as used herein, have the following meanings:
+Definitions.
+"" means, for any Business Day, the monthly short-term applicable federal rate, based on a monthly compounding period, published by the Internal Revenue Service for the Applicable Month in which such Business Day occurs.
+AFR
+"" means, for any period, an amount determined at the end of each period that is the sum of all Daily AFR Carry Amounts for such period.
+AFR Carry Amount
+"" means, for any Applicable Month, the weighted average price, rounded to four decimal points, at which the Company purchased Shares during the Applicable Month pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such Applicable Month divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such Applicable Month; provided that if the Agreement has been terminated in accordance with Section 7.1, the Average Price for any Closing thereafter shall be calculated only through the day immediately prior to the termination date of the Agreement. For the avoidance of doubt, Shares acquired in "open market purchases" shall not include the Acquired Shares.
+Average Price
+"" means (a) for purposes of determining the date of a Closing or Closing Notice, a day on which banks are not required or authorized by law to close in New York City and (b) for all other purposes under this Agreement, a day on which the New York Stock Exchange is open for trading.
+Business Day
+"" means, for each day, an amount determined at the end of each period equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds and (b) AFR divided by 360; provided that if such day is not a Business Day, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds through the most recent Business Day of such Applicable Month and (b) AFR in effect as of the most recent Business Day divided by 360; and provided, further, that for any day after the last Business Day of such Applicable Month and prior to the date of Closing with respect to such Applicable Month, the Daily AFR Carry Amount for such day shall be equal to the product of (a) the cumulative month-to-date Implied Daily Settlement Proceeds as of the most recent Business Day and (b) AFR in effect as of the last Business Day of the Applicable Month divided by 360.
+Daily AFR Carry Amount
+"" means, for any day, the weighted average price at which the Company purchased Shares during the applicable day pursuant to the Program in open market purchases, calculated as (a) the total purchase price paid by the Company (excluding commissions) for Shares purchased pursuant to the Program in open market purchases during such day divided by (b) the total number of Shares purchased by the Company pursuant to the Program in open market purchases during such day.
+Daily Average Price
+"" means, on any day of an Applicable Month on which all of the following conditions are met: (a) the day is after the public announcement of the dividend, (b) the day precedes an Ex-Dividend Date that occurs during such Applicable Month, and (c) the record date for the shareholders of record entitled to receive such dividend will occur on or before the Closing for such Applicable Month, then Dividend Adjusted Average Price of the Acquired Shares for such day shall be calculated as (i) the Daily Average Price for such day minus (ii) the amount of the dividend per Share which has been declared in respect of the Acquired Shares.
+Dividend Adjusted Average Price
+"" means the date that is two trading days prior to the record date which has been established in connection with the declaration of a dividend in respect of the Acquired Shares or such other date as may be established with respect to the Shares as an "ex-dividend" date by the New York Stock Exchange.
+Ex-Dividend Date
+"" means, for each Business Day of an Applicable Month, the number of Acquired Shares which were attributable to such day's trading as determined by reference to the number of Shares purchased by the Company pursuant to the Program (other than Acquired Shares) on such Business Day as a percent of the Company's total purchases pursuant to the Program (other than Acquired Shares) during each Applicable Month determined after the close of trading on the last Business Day of each Applicable Month and prior to the delivery of the Closing Notice relating to the Closing for each Applicable Month. Implied Daily Acquired Shares may result in fractional shares.
+Implied Daily Acquired Shares
+"" means, for each Business Day of an Applicable Month, the product of (a) the number of Implied Daily Acquired Shares which were deemed to have been acquired on the day that was three trading days prior to such Business Day and (b) the Daily Average Price or Dividend Adjusted Average Price, if applicable, for such prior day.
+Implied Daily Settlement Proceeds
+ 
+"" means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest or other encumbrance of any kind in respect of such property or asset.
+Lien
+"" means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.
+Person
+"" means the share repurchase program approved on August 21, 2007 authorizing the Company to purchase from time to time Shares up to a maximum aggregate amount (including existing authority) of $1.5 billion.
+Program
+"" means 2.51%, which represents a percentage equal to (a) the number of Shares directly owned by such Seller as of August 4, 2007, divided by (b) 807,269,688 shares, which represent the Company's total outstanding basic Shares as of August 4, 2007, multiplied by 100.
+Seller Ownership Percentage
+"" means the common stock of the Company.
+Shares
+(b) For purposes of the definitions of "Average Price," "Daily Average Price" and "Implied Daily Acquired Shares", Shares purchased by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles.
+(c) Each of the following terms is defined in the Section set forth opposite such term:
+ 
+Section 2.1. . Upon the terms and subject to the conditions of this Agreement, Fisher agrees to sell, transfer, assign and deliver to the Company, and the Company agrees to purchase from Seller, with respect to each calendar month in which the Company purchases Shares pursuant to the Program (the ""), a number of Shares at each Closing calculated in accordance with Annex A hereto (the Shares acquired from Seller, the ""). In the event that the Agreement is terminated pursuant to Section 7.1, the day immediately prior to the termination date will be deemed to be the last day of the Applicable Month.
+Purchase and Sale
+Applicable Month
+Acquired Shares
+ 
+Section 2.2. . The aggregate purchase price for the Acquired Shares at each Closing (the "") shall be equal to the product of (i) the aggregate number of Acquired Shares to be purchased at such Closing (ii) the Average Price for the Applicable Month. An interest factor shall be paid along with the Purchase Price for the Acquired Shares equal to the AFR Carry Amount. The Purchase Price shall also include an adjustment to the Average Price of the Acquired Shares, if necessary, to take into account the effect of any dividends or similar distributions relating to the Acquired Shares to be settled for the Applicable Month in the same manner and under the same conditions as provided for in the definition of "Dividend Adjusted Average Price". The Purchase Price and the AFR Carry Amount shall be paid as provided in Section 2.3.
+Purchase Price
+Purchase Price
+multiplied by
+Section 2.3. . Within five Business Days after the end of each Applicable Month, the Company shall deliver to Fisher a notice (each, a "") setting forth (i) the date of Closing, (ii) the number of Acquired Shares to be purchased by the Company from Seller pursuant to Section 2.1, (iii) the Purchase Price and the AFR Carry Amount and (iv) the details of the calculation of the Purchase Price and the AFR Carry Amount, sufficient to allow Fisher to reproduce the calculation of the Purchase Price and the AFR Carry Amount. Subject to the satisfaction or waiver by Fisher and the Company of the conditions set forth in Article 6, each closing of the purchase and sale of the Acquired Shares hereunder shall take place on the date set forth in the Closing Notice, which in any event shall be no later than the tenth Business Day after the end of each month (each, a "") at the offices of the Company located at Two Folsom Street, San Francisco, California 94105, at 9:00 A.M., San Francisco time, or as soon as possible thereafter.
+Closing
+Closing Notice
+Closing
+At each Closing:
+(a) The Company shall deliver to Seller the Purchase Price by wire transfer of same day or other immediately available funds in accordance with the payment instructions provided to the Company from time to time by Fisher; and
+(b) Fisher shall deliver to the Company certificates for the Acquired Shares duly endorsed or accompanied by stock powers duly endorsed in blank, with any required transfer stamps affixed thereto; , if the Acquired Shares are not held by Seller in certificated form, Fisher shall arrange to the Company's satisfaction to transfer such shares in electronic form to a brokerage account designated in writing by the Company in the Closing Notice.
+provided
+Fisher represents and warrants to the Company with respect to any Seller, as of the date hereof and as of the date of each Closing that:
+Section 3.1. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby are within the powers, corporate or otherwise, of each Seller and have been duly authorized by all necessary action on the part of each Seller. This Agreement constitutes a valid and binding agreement of Fisher enforceable against Fisher in accordance with its terms.
+Due Authorization
+ 
+Section 3.2. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any governmental organization, whether state or federal ("").
+Governmental Authorization
+Governmental Authority
+Section 3.3. . The execution and delivery by Fisher, and the performance by each Seller, of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the organization documents of each Seller, if applicable, (ii) assuming compliance with the matters referred to in Section 3.2, violate any applicable law, rule, regulation, judgment, injunction, order or decree (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of any Seller under any provision of any agreement or other instrument binding upon any Seller, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of any Seller to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+Section 3.4. . As of the time of each Closing hereunder, Seller will be the beneficial owner of the Acquired Shares to be sold at such Closing, and will transfer and deliver to the Company at each Closing valid title to the Acquired Shares to be sold at such Closing free and clear of any Lien and any other limitation or restriction (including any restriction on the right to sell or otherwise dispose of the Acquired Shares).
+Ownership of Shares
+The Company represents and warrants to Fisher as of the date hereof and as of the date of each Closing that:
+Section 4.1. . The Company (i) is a corporation duly incorporated, validly existing and in good standing under the laws of Delaware and (ii) has all corporate powers and all material governmental licenses, authorizations, permits, consents and approvals required to carry on its business as now conducted, except with respect to (ii), where the failure to have such corporate powers, governmental licenses, authorizations, permits, consents or approvals would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Corporate Existence and Power
+Section 4.2. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby are within the corporate powers of the Company and have been duly authorized by all necessary
+Corporate Authorization
+ 
+corporate action on the part of the Company. This Agreement constitutes a valid and binding agreement of the Company enforceable against the Company in accordance with its terms. The Program has been approved by a committee of the Board of Directors of the Company consisting solely of two or more non-employee directors.
+Section 4.3. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby require no prior action by or in respect of, or prior filing with, any Governmental Authority.
+Governmental Authorization
+Section 4.4. . The execution, delivery and performance by the Company of this Agreement and the consummation of the transactions contemplated hereby do not and will not (i) violate the certificate of incorporation or bylaws of the Company, (ii) assuming compliance with the matters referred to in Section 4.3, violate any applicable law, rule, regulation, judgment, injunction, order or decree, (iii) require any consent or other action by any Person under, constitute a default under, or give rise to any right of termination, cancellation or acceleration of any right or obligation of the Company under any provision of any agreement or other instrument binding upon the Company, except with respect to (ii) and (iii), where such violation, consent, action, default or right of termination, cancellation or acceleration would not adversely affect the ability of the Company to perform its obligations under this Agreement or to consummate the transactions contemplated hereby.
+Noncontravention
+The Company and Fisher agree that:
+Section 5.1. . Subject to the terms and conditions of this Agreement, the Company and Fisher will use their reasonable commercial efforts to take, or cause to be taken, all actions and to do, or cause to be done, all things necessary or desirable under applicable laws and regulations to consummate the transactions contemplated by this Agreement.
+Reasonable Commercial Efforts; Further Assurances
+Section 6.1. C. The obligations of the Company and Fisher to consummate each Closing is subject to the satisfaction of the following conditions:
+onditions to Obligations of the Company and Fisher
+(a) No provision of any applicable law or regulation and no judgment, injunction, order or decree shall prohibit the consummation of any Closing; and
+(b) All actions by or in respect of or filings with any governmental body, agency, official or authority required to permit the consummation of each Closing shall have been taken, made or obtained.
+ 
+Section 6.2. . The obligation of the Company to consummate each Closing is subject to the satisfaction (or waiver by the Company) of the following conditions:
+Conditions to Obligations of the Company
+(a) Fisher shall have performed in all material respects all of his respective obligations hereunder required to be performed by him on or prior to such Closing; and
+(b) The representations and warranties of Fisher hereunder contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 6.3. . The obligation of Fisher to consummate each Closing is subject to the satisfaction (or waiver by Fisher) of the following conditions:
+Conditions to Obligation of Fisher
+(a) The Company shall have performed in all material respects all of its obligations hereunder required to be performed by it at or prior to such Closing; and
+(b) The representations and warranties of the Company contained in this Agreement shall be true in all material respects at and as of such Closing as if made at and as of such date.
+Section 7.1. . This Agreement shall terminate:
+Termination
+(a) pursuant to the joint written agreement of the Company and Fisher; or
+(b) 15 Business Days after notice by Fisher, on the one hand, or the Company, on the other hand; or
+(c) pursuant to written notice by the Company, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of Fisher set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.2(a) and 6.2(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(d) pursuant to written notice by Fisher, if a breach of or failure to perform any representation, warranty, covenant or agreement on the part of the Company set forth in this Agreement shall have occurred that would cause any of the conditions set forth in Sections 6.3(a) and 6.3(b) not to be satisfied, and any such condition is incapable of being satisfied by the next Closing; or
+(e) pursuant to written notice by either Fisher or the Company if there shall be any law or regulation that makes consummation of the transactions contemplated hereby illegal or otherwise prohibited or if consummation of the transactions contemplated hereby would violate any nonappealable final order, decree or judgment of any court or governmental body having competent jurisdiction; or
+ 
+(f) at the termination or completion of the Program;
+that with respect to (a) and (b) above, such termination shall not affect the settlement of Acquired Shares in respect of any purchases pursuant to the Program which have occurred or are deemed to have occurred prior to the effective date of the termination of this Agreement.
+provided
+The party desiring to terminate this Agreement pursuant to clauses (b), (c), (d) or (e) above shall give written notice of such termination to the other party.
+Section 8.1. . The covenants, agreements, representations and warranties of the parties hereto contained in this Agreement or in any certificate or other writing delivered pursuant hereto shall not survive the termination of this Agreement other than with respect to a Closing for Acquired Shares which follows a termination of the Agreement pursuant to Sections 7.1(a) or (b); that the covenants, agreements, representations and warranties contained in Articles 3, 4 and 8 shall survive indefinitely; that nothing shall relieve any party for liability at any time with respect to any breach occurring prior to the termination of this Agreement.
+Survival
+provided
+provided, further,
+Section 8.2. . All notices, requests and other communications to any party hereunder shall be in writing (including facsimile transmission) and shall be given,
+Notices
+if to the Company, to:
+The Gap, Inc.
+Two Folsom Street
+San Francisco, CA 94105
+Fax: (415) 427-6982
+Attn: General Counsel
+with a copy to:
+Fax: (415) 427-4015
+Attn: Treasury Department
+if to Fisher, to:
+One Maritime Plaza
+Suite 1400
+San Francisco, CA 94111
+Fax: (415) 288-0549
+Attn: William S. Fisher
+ 
+All such notices, requests and other communications shall be deemed received on the date of receipt by the recipient thereof if received prior to 5:00 P.M. in the place of receipt (as evidenced by confirmation of facsimile or other appropriate transmission receipt) and such day is a business day in San Francisco, California. Otherwise, any such notice, request or communication shall be deemed not to have been received until the next succeeding business day in San Francisco, California.
+Section 8.3. . Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by both parties to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective. The failure or delay by any party in exercising any right, power or privilege hereunder shall not operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+Amendments and Waivers
+Section 8.4. . All costs and expenses incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such cost or expense.
+Expenses
+Section 8.5. . The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns; that no party may assign or delegate any of its rights or obligations under this Agreement without the consent of each other party hereto.
+Successors and Assigns
+provided
+Section 8.6. . This Agreement shall be governed by and construed in accordance with the law of the State of California (without regard to principles of conflicts of laws).
+Governing Law
+Section 8.7. . The parties hereto agree that any suit, action or proceeding seeking to enforce any provision of, or based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby shall be brought in a state or federal court located in San Francisco, California, so long as one of such courts shall have subject matter jurisdiction over such suit, action or proceeding, and each of the parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the fullest extent permitted by law, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding which is brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 8.2 shall be deemed effective service of process on such party.
+Jurisdiction
+ 
+Section 8.8. . EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+WAIVER OF JURY TRIAL
+Section 8.9. . This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. This Agreement shall become effective when each party hereto shall have received a counterpart hereof signed by the other party hereto. No provision of this Agreement is intended to confer upon any Person other than the Company or Seller any rights or remedies hereunder.
+Counterparts; Third Party Beneficiaries
+Section 8.10. . This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to the subject matter of this Agreement.
+Entire Agreement
+Section 8.11. . The captions herein are included for convenience of reference only and shall be ignored in the construction or interpretation hereof.
+Captions
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+ 
+The number of Acquired Shares to be purchased from Seller at each Closing shall be equal to:
+(a) the quotient of (1) the Seller Ownership Percentage (2) [1 minus the Seller Ownership Percentage]
+divided by
+multiplied by
+(b) the number of Shares purchased by the Company pursuant to the Program (open market purchases and otherwise) with respect to the Applicable Month (excluding any Acquired Shares) measured from the first Business Day of the Applicable Month through and including the last Business Day of the Applicable Month;
+that such number of Acquired Shares for the Applicable Month shall be rounded to the nearest whole Acquired Share.
+provided
+For purposes of the Acquired Shares calculation, Shares purchased in the open market by the Company pursuant to the Program shall be deemed to have been purchased on the trade date with respect to such Shares and not the day on which such trade settles. Shares purchased after the end of the Applicable Month that relate to the Applicable Month shall be deemed to have been purchased during the Applicable Month.
+ 
+
+Exhibit 99.1
+Gap Inc. (NYSE: GPS) today reported that net earnings for the second quarter, which ended August 4, 2007, increased 19 percent to $152 million, or $0.19 per share on a diluted basis, compared with $128 million, or $0.15 per share on a diluted basis, for the second quarter of last year.
+SAN FRANCISCO  August 23, 2007 
+For the second quarter of 2007, non-GAAP diluted earnings per share were $0.21. The non-GAAP diluted earnings per share number excludes $0.02 per share of expenses associated with the company's cost reduction initiatives. Please see the reconciliation of diluted earnings per share on a GAAP basis to diluted earnings per share excluding the expenses associated with the company's cost reduction initiatives, a non-GAAP financial measure, in the table at the end of this release.
+Second quarter net sales were down 1 percent to $3.69 billion, compared with $3.71 billion for the second quarter of last year. Due to the 53
+rd
+week in fiscal year 2006, second quarter 2007 comparable store sales are compared with the thirteen weeks ended August 5, 2006. On this basis, comparable store sales decreased 5 percent, compared with a decrease of 5 percent as reported for the second quarter of 2006. The company's online sales for the second quarter increased 26 percent to $172 million, compared with $136 million for the second quarter of last year.
+"During the second quarter, we made solid progress stabilizing our business, streamlining our organization and importantly, hiring our new chairman and chief executive officer, Glenn Murphy," said Bob Fisher, a member of Gap Inc.'s Board of Directors. "I am confident that under Glenn's leadership and the creative direction set by our brand presidents, we will continue to make improvements to the business and deliver improved returns to our shareholders."
+"I want to thank Bob for his leadership in taking the necessary first steps towards stabilizing the business," said Glenn Murphy, chairman and chief executive officer of Gap Inc. "We have a lot of work ahead of us, but we have great brands with enormous potential, and I feel confident that our creative talent and dedicated store employees will help fuel our progress."
+Store Sales Results By Division
+The following table represents the company's second quarter comparable store sales and net sales by division:
+ 
+Update on the Discontinued Operation of Forth & Towne
+Beginning with the second quarter of fiscal year 2007, Forth & Towne is recognized as a discontinued operation. For the first half of 2007, the company eliminated about 550 Forth & Towne positions. The pre-tax loss related to the discontinued operation of Forth & Towne for the second quarter of fiscal 2007 was approximately $9 million and for the first half of 2007 was approximately $54 million.
+Update on Gap Inc.'s Cost Reduction Initiatives
+As part of the company's efforts to streamline operations, the company eliminated about 1,200 positions, excluding Forth & Towne, in the second quarter of fiscal year 2007 and, as a result, recognized approximately $20 million of expenses on a pre-tax basis, the majority of which are related to severance payments.
+For the first half of 2007, Gap Inc. eliminated about 1,600 positions, excluding Forth & Towne. These cost reduction initiatives resulted in approximately $25 million of expenses on a pre-tax basis during this time period, the majority of which are related to severance benefits to employees at the company's headquarters.
+In total, the company has eliminated about 2,200 positions during the first half of 2007, of which about one-third were open positions. At this point, the majority of the company's currently planned headcount eliminations are complete. Based on the actions taken in the first half of fiscal year 2007, the total annualized cost savings from the filled positions eliminated is expected to be about $100 million on a pre-tax basis.
+Additional Results and 2007 Outlook
+Earnings
+The company revised its guidance for fiscal year 2007 diluted earnings per share on a GAAP basis to $0.83 to $0.88 from its previous guidance of $0.76 to $0.86. The company also revised its guidance for fiscal year 2007 diluted earnings per share, excluding expenses associated with the discontinued operation of Forth & Towne and the company's cost reduction initiatives, to $0.90 to $0.95, compared to its previous guidance of $0.80 to $0.90.
+Please see the reconciliation of expected diluted earnings per share excluding these costs, a non-GAAP financial measure, to a GAAP financial measure in the table at the end of this release.
+The company expects the loss from the discontinued operation of Forth & Towne to be approximately $55 million for the full year. The company expects that expenses related to its cost reduction initiatives will be approximately $35 million for the full year, which includes $10 million of pre-tax charges in the second half of the year.
+The impact of the loss from the discontinued operation of Forth & Towne, combined with expenses associated with the cost reduction initiatives, is expected to be about $0.07 per diluted share for fiscal year 2007.
+Effective Tax Rate
+The effective tax rate was 37 percent for the second quarter of 2007. The company continues to expect the effective tax rate will be about 39 percent for full year 2007.
+Cash and Debt
+The company ended the second quarter with $2.7 billion in cash and investments. This represents $2.2 billion more in cash and investments than debt. For the year-to-date period, free cash flow was an inflow of $347 million. The company now expects to generate at least $500 million in free cash flow for fiscal year 2007. The company expects to repay $326 million of debt in September of 2007. Please see the reconciliation of free cash flow, a non-GAAP financial measure, to the GAAP financial measure in the table at the end of this release.
+Share Repurchases
+During the second quarter, the company repurchased 11 million shares for $200 million, thereby completing a $750 million share repurchase authorization which was announced in August 2006.
+In a separate press release today, the company announced that its board of directors authorized an additional $1.5 billion share repurchase program, and that it has entered into purchase agreements with individual members of the Fisher family whose ownership represents approximately 17 percent of the company's outstanding shares. The company expects that about $250 million (approximately 17 percent) of the $1.5 billion share repurchase program will be purchased from these Fisher family members.
+Margins
+Gross margin of 34.3 percent increased 1.3 points in the second quarter compared to the prior year. Operating margin for the second quarter was 6.1 percent. The company reaffirmed that it expects operating margin for fiscal year 2007 to be in the high single-digits. Please see the financials sections on www.gapinc.com for the company's explanation of numerical range guidance.
+Inventory
+The company reported that inventory per square foot was down 6 percent at the end of the second quarter on a year-over-year basis as compared to being down 6 percent last year. The company now expects the percent change in inventory per square foot at the end of the third quarter in fiscal year 2007 to be down in the mid-single digits, compared with flat inventory in the third quarter of fiscal year 2006. The company expects the percent change in inventory per square foot at the end of the fourth quarter of fiscal year 2007 to be down in the mid-single digits.
+Interest Expense
+The company reaffirmed that it expects fiscal year 2007 interest expense to be about $35 million.
+Depreciation and Amortization
+The company reaffirmed that it expects depreciation and amortization expense for fiscal year 2007 to be about $550 million.
+Capital Expenditures
+Year-to-date capital expenditures were $322 million. The company reaffirmed that it expects capital spending to be about $700 million in fiscal year 2007.
+Real Estate
+For the first half of fiscal year 2007, the company opened 73 store locations, closed 61 store locations and square footage increased 1 percent. The company reaffirmed that it expects to open 30 store locations on a net basis for fiscal year 2007. This includes about 230 store openings, weighted toward Old Navy, and about 200 closures, weighted toward Gap brand. The expected closures include 19 Forth & Towne store locations already closed. Included in both the expected store openings and closings for 2007 are about 45 Old Navy Outlet stores that are expected to be converted to Old Navy stores. Square footage is still expected to increase about 1 percent for fiscal year 2007.
+The following tables represent the number of store location openings and closings, and square footage by brand.
+ 
+ 
+Webcast and Conference Call Information
+Evan Price, vice president of Investor Relations, will host a summary of Gap Inc.'s second quarter 2007 results in a live conference call and real-time webcast at approximately 5 p.m. Eastern time today. Mr. Price will be joined by Glenn Murphy, Gap Inc. chairman and chief executive officer; Bob Fisher, a member of Gap Inc's board of directors; Byron Pollitt, Gap Inc. executive vice president and chief financial officer; and Sabrina Simmons, senior vice president, Corporate Finance, to discuss details on the business.
+To access the conference call, please dial (800) 374-0168 or (706) 634-0994 for international callers. The webcast is located on the Conference Calls & Webcasts page in the Financials section of www.gapinc.com. Replay of this event will be made available on (800) GAP-NEWS for four weeks after this announcement and archived on www.gapinc.com.
+August Sales
+The company will report August sales on September 6, 2007.
+Forward-Looking Statements
+This press release and related conference call and webcast contain unaudited financial information for the second quarter of 2007 and forward-looking statements within the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements other than those that are purely historical are forward-looking statements. Words such as "expect," "anticipate," "believe," "estimate," "intend," "plan," and similar expressions also identify forward-looking statements. Forward-looking statements include statements regarding: (i) continued improvements to the business and improved returns to our shareholders; (ii) total annualized cost savings from eliminated filled positions; (iii) diluted earnings per share on a GAAP basis for fiscal year 2007; (iv) diluted earnings per share excluding the expenses associated with the company's cost reduction initiatives and discontinued operation of Forth & Towne for fiscal year 2007; (v) the loss from the discontinued operation of Forth & Towne for fiscal year 2007; (vi) expenses related to the company's cost reduction initiatives for fiscal year 2007; (vii) effective tax rate for fiscal year 2007; (viii) free cash flow for fiscal year 2007; (ix) debt repayment in September 2007; (x) share repurchases, including repurchases from members of the Fisher family; (xi) operating margin for fiscal year 2007; (xii) year-over-year change in inventory per square foot at the end of the third and fourth quarters of fiscal year 2007; (xiii) interest expense for fiscal year 2007; (xiv) depreciation and amortization for fiscal year 2007; (xv) capital spending for fiscal year 2007; (xvi) store openings and closings, and weightings by brand, for fiscal year 2007; and (xvii) increase in real estate square footage for fiscal year 2007.
+Because these forward-looking statements involve risks and uncertainties, there are important factors that could cause the company's actual results to differ materially from those in the forward-looking statements. These factors include, without limitation, the following: the risk that subsequent events may occur that require adjustments to the company's unaudited financial statements; the risk that the adoption of new accounting pronouncements will impact future results; the risk that the company will be unsuccessful in gauging fashion trends and changing consumer preferences; the highly competitive nature of the company's business in the U.S. and internationally and its dependence on consumer spending patterns, which are influenced by numerous other factors; the risk that the company will be unsuccessful in identifying and negotiating new store locations effectively; the risk that comparable store sales and margins will experience fluctuations; the risk that the company will be unsuccessful in implementing its strategic, operating and people initiatives; the risk that adverse changes in the company's credit ratings may have a negative impact on its financing costs and structure in future periods; the risk that trade matters, events causing disruptions in product shipments from China and other foreign countries, or IT systems changes may disrupt the company's supply chain or operations; the risk that the company will not be successful in defending various proceedings, lawsuits, disputes, claims, and audits; the risk that the company does not repurchase some or all of the shares it anticipates purchasing pursuant to its repurchase program; and the risk that either the company or members of the Fisher family terminate the repurchase agreements; any of which could impact net sales, costs and expenses, and/or planned strategies. Additional information regarding factors that could cause results to differ can be found in the company's Annual Report on Form 10-K for the fiscal year ended February 3, 2007. Readers should also consult the company's quarterly report on Form 10-Q for the fiscal quarter ended May 5, 2007.
+Future economic and industry trends that could potentially impact net sales and profitability are difficult to predict. These forward-looking statements are based on information as of August 23, 2007 and the company assumes no obligation to publicly update or revise its forward-looking statements even if experience or future changes make it clear that any projected results expressed or implied therein will not be realized.
+Gap Inc. Copyright Information
+All recordings made on 800-GAP-NEWS have been recorded on behalf of Gap Inc. and consist of copyrighted material. They may not be re-recorded, reproduced, retransmitted or rebroadcast without Gap Inc.'s express written permission. Your participation represents your consent to these terms and conditions, which are governed under California law.
+ 
+The Gap, Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+UNAUDITED
+ 
+The Gap, Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+UNAUDITED
+ 
+The Gap, Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+UNAUDITED
+ 
+The Gap, Inc.
+SEC REGULATION G
+RECONCILIATION OF DILUTED EARNINGS PER SHARE ON A GAAP BASIS TO DILUTED EARNINGS PER SHARE ON A NON-GAAP BASIS
+ 
+RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW
+ 
+RECONCILIATION OF EXPECTED MINIMUM NET CASH PROVIDED BY OPERATING ACTIVITIES TO EXPECTED MINIMUM FREE CASH FLOW
+ 
+
+Exhibit 99.2
+Gap Inc.'s board of directors (NYSE: GPS) has authorized an additional $1.5 billion for the company's ongoing share repurchase program, underscoring the company's commitment to return excess cash to shareholders. With today's announcement, the company's repurchase authorizations total $5.75 billion since October of 2004.
+SAN FRANCISCO  AUGUST 23, 2007 
+In connection with this authorization, Gap Inc. also entered into purchase agreements with individual members of the Fisher family whose ownership represents approximately 17 percent of the company's outstanding shares. Multiple Fisher family members and entities currently own approximately 34 percent of Gap Inc. shares.
+The company expects that about $250 million (approximately 17 percent) of the $1.5 billion share repurchase program will be purchased from these Fisher family members. The shares will be purchased each month at the same weighted average market price that the company is paying for share repurchases in the open market. The company notes that the overall percentage of the company's stock held by the Fisher family could fluctuate up or down or remain the same.
+"Today's announcement reflects Gap Inc.'s strong cash generation and ongoing commitment to return excess cash to shareholders," said Byron Pollitt, executive vice president and chief financial officer of Gap Inc. "Members of the Fisher family have periodically sold stock since the company's initial public offering in 1976 in the normal course of investor diversification. The Fishers hold three seats on our Board of Directors and remain active in their roles as shareholders and directors in ensuring the company achieves its long-term objectives."
+During the second quarter of fiscal year 2007, the company purchased 11 million shares for approximately $200 million, thereby completing a $750 million share repurchase authorization which was announced in August 2006. In total, the company has repurchased about 215 million shares for $4.25 billion since October 2004.
+Forward-Looking Statements
+This press release contains forward-looking statements within the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements other than those that are purely historical are forward-looking statements. Words such as "expect," "anticipate," "believe," "estimate," "intend," "plan," and similar expressions also identify forward-looking statements. Forward-looking statements include statements regarding the company's expectation that it will purchase approximately 17 percent of the $1.5 billion share repurchase program from members of the Fisher family.
+Because these forward-looking statements involve risks and uncertainties, there are important factors that could cause the company's actual results to differ materially from those in the forward-looking statements. These factors include, without limitation, the following: the risk that the company does not repurchase some or all of the shares it anticipates purchasing pursuant to its repurchase program, and the risk that either the company or members of the Fisher family terminate the agreements.
+These forward-looking statements are based on information as of August 23, 2007 and the company assumes no obligation to publicly update or revise its forward-looking statements even if experience or future changes make it clear that any projected results expressed or implied therein will not be realized.
+ 
+
+

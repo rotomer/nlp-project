@@ -1,0 +1,1053 @@
+FILE:LM/LM-8K-20081201165312.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+G:\Groups\Legal\Corporate Legal\8-K\8-K 2008\November 24 2008 Bank and TRS Amedments\nov212008_8k.doc
+
+
+The purpose of this letter agreement is to set forth the terms and conditions of the Transactions entered into between Barclays Bank PLC ("") and Legg Mason, Inc. (""), a corporation organized under the law of the State of Maryland, on the Trade Date specified below (each, a "" and, collectively, the ""). This letter constitutes a "Confirmation" as referred to in the Master Agreement specified below.
+Barclays
+Counterparty
+Transaction
+Transactions
+The definitions and provisions contained in the 2000 ISDA Definitions (the ""), as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between the Definitions and this Confirmation, this Confirmation shall govern. Capitalized terms used but not defined in this Confirmation have the meanings assigned to them in Annex A. Capitalized terms used but not defined in this Confirmation or in Annex A have the meanings assigned to them in the Definitions.
+Definitions
+1. Agreement
+This Confirmation supplements, forms a part of and is subject to, the ISDA Master Agreement (Multicurrency-Cross Border), dated as of December 28, 2007 (as amended, supplemented and otherwise modified and in effect from time to time, the ""), between Barclays and Counterparty. All provisions contained in the Master Agreement govern this Confirmation except as expressly modified below.
+Master Agreement
+With effect from the Amendment Effective Date referred to below, this Confirmation amends and restates the prior Confirmation dated December 28, 2007 (the "") relating to the Transactions described herein, which Original Confirmation is hereby superseded and shall be of no further force or effect.
+Original Confirmation
+2. Terms of Transactions
+The terms of the particular Transactions to which this Confirmation relates are as follows:
+ 
+3. Reference Obligation Removal; Accelerated Termination.
+Reference Obligation Removal
+(a) Counterparty shall be entitled to terminate any Transaction or any portion thereof by giving a notice (an "") that is effective no more than 30 days, and no less than seven Business Days, prior to the proposed Pricing Date (each such termination, an ""). The Accelerated Termination Notice shall specify (1) the Reference Obligation that is the subject of such Accelerated Termination, (2) the Reference Amount of the Transaction (or portion thereof) to be terminated (which will be the Reference Amount of the Terminated Obligation) and (3) the proposed Pricing Date.
+Accelerated Termination Notice
+Accelerated Termination
+Elective Termination by Barclays due to Obligation Non-Compliance
+(b) If (i) any Reference Obligation fails to satisfy the Obligation Criteria at any time or (ii) any Reference Obligation is determined to be ineligible under the related Reference Obligation Underlying Instrument for purchase (without any further consent or approval) by the Hedge Party, Barclays may notify Counterparty in writing of such noncompliance and, if Counterparty fails to correct such noncompliance within 15 days following the delivery of such notice (any such non-compliance, an ""), Barclays will then have the right but not the obligation to terminate each Transaction that is the subject of this Confirmation (or, in the case of an Obligation Non-Compliance referred to in the foregoing clause (ii), the Transaction relating to the Reference Obligation that is the subject of such Obligation Non-Compliance). Barclays can exercise this termination right by delivering an Accelerated Termination Notice to Counte rparty designating the Accelerated Termination Date and the proposed Pricing Date for each Terminated Obligation not less than 10 days prior to the proposed Pricing Date. The Accelerated Termination Notice shall specify, for each outstanding Transaction being terminated, (1) the Reference Obligation that is the subject of such Accelerated Termination, (2) the Reference Amount of such Transaction (which will be the Reference Amount of the Terminated Obligation) and (3) the proposed Pricing Date.
+Obligation Non-Compliance
+Effect of Termination
+(c) With respect to any Transaction terminated in whole pursuant to this Clause 3, as of the relevant Settlement Date the Reference Amount shall be reduced to zero. With respect to any Transaction terminated in part pursuant to this Clause 3, as of the relevant Settlement Date the Reference Amount shall be reduced by the amount of the reduction of the Reference Amount specified in the Accelerated Termination Notice. Following any Settlement Date (other than the Settlement Date in respect of the Termination Date), Barclays shall prepare and deliver to Counterparty a revised Trade Register Annex; that any such termination shall be effective whether or not Barclays prepares and delivers a revised Trade Register Annex.
+provided
+4. Final Price Determination
+Following the termination of any Transaction in whole or in part pursuant to Clause 3 or by reason of the occurrence of the Scheduled Termination Date (other than in connection with a Repayment), the Final Price for the relevant Terminated Obligation will be determined in accordance with this Clause 4.
+Determination by Counterparty
+(a) In order to determine the Final Price for any Terminated Obligation then held by the Hedge Party as a hedge for the related Transaction, Counterparty may arrange for the sale of such Terminated Obligation by giving notice of such sale to Barclays. Such notice must be given at least three Business Days prior to the related Pricing Date in the case of any Terminated Obligation and at least 30 days prior to the Scheduled Termination Date if all Transactions are to be terminated in connection with the Scheduled Termination Date. , (ii) must be scheduled to occur on or prior to the related Pricing Date in the case of any Terminated Obligation and prior to the Scheduled Termination Date if all Transactions are to be terminated in connectio n with the Scheduled Termination Date and (iii) must be settled substantially in accordance with the then-current market practice in the principal market for the related Reference Obligation, as determined by the Calculation Agent. If Counterparty so arranges any sale, the net cash proceeds received from the sale of any Terminated Obligation, net of the related Costs of Assignment, shall be the "" for that Terminated Obligation.
+Any sale (i) must be to a buyer approved in advance by Barclays (which may be Barclays or any Affiliate thereof), such approval not to be unreasonably withheld or delayed
+Final Price
+Determination by Calculation Agent
+(b) If the Final Price for any Terminated Obligation is not determined according to Clause 4(a), the Calculation Agent shall attempt to obtain Firm Bids for such Terminated Obligation with respect to the applicable Pricing Date from three or more Dealers. The Calculation Agent will give Counterparty notice
+of its intention to obtain Firm Bids pursuant to this Clause 4(b) (such notice to be given telephonically and via electronic mail) not later than one hour prior to the bid submission deadline specified below. By notice to Barclays not later than 30 minutes after such notice from the Calculation Agent, Counterparty may, but shall not be obligated to, designate a Dealer of credit standing acceptable to Barclays in the exercise of its reasonable discretion to provide a Firm Bid (and the Calculation Agent will seek a Firm Bid from such Dealer if so designated by Counterparty on a timely basis). A "" shall be a good and irrevocable bid for value, to purchase all or a portion of the applicable Terminated Obligation, expressed as a percentage of the Reference Amount and exclusive of accrued interest and without regard to any Commercial Paper Discount (but inclusive of any principal representing capitalized or deferred interest), for settlement substantially in a ccordance with the then-current market practice in the principal market for such Terminated Obligation, as determined by the Calculation Agent, submitted by a Dealer as of 9:00 a.m. New York time on the Pricing Date or as soon as practicable thereafter. Barclays may, but is not obligated to, sell or cause the sale of any portion of any Terminated Obligation to any Dealer that provides a Firm Bid.
+Firm Bid
+If the Calculation Agent is unable to obtain from Dealers at least one Firm Bid or combination of Firm Bids for all of the Reference Amount of any Terminated Obligation on the relevant Pricing Date, the Calculation Agent will attempt to obtain a Firm Bid or combination of Firm Bids for all of the Reference Amount of such Terminated Obligation from three or more Dealers within one Business Day after the relevant Pricing Date.
+If the Calculation Agent is able to obtain at least one Firm Bid or combination of Firm Bids for all of the Reference Amount of any Terminated Obligation within one Business Day after the relevant Pricing Date, the Final Price for such Terminated Obligation shall be determined by reference to such Firm Bid or combination of Firm Bids. If no Firm Bids are obtained for all or a portion of the applicable Terminated Obligation within one Business Day after the relevant Pricing Date, the Final Price shall be deemed to be zero with respect to each portion of such Terminated Obligation for which no Firm Bid was obtained. The Calculation Agent will conduct the bid process in accordance with the procedures set forth in this Clause 4(b) and otherwise in a commercially reasonable manner. With respect to any termination of a Transaction effected under Clause 3(a), Barclays and Counterparty will make commercially reasonable efforts to accomplish the assignment to Counterparty of any Termin ated Obligation (or portion thereof) for which the Final Price is deemed to be zero (including as provided below);that Barclays shall not be liable for any losses related to any delay in or failure of such assignment beyond its control.
+provided
+Notwithstanding anything to the contrary herein,
+(i) the Calculation Agent shall be entitled to disregard any Firm Bid submitted by a Dealer if, in the Calculation Agent's commercially reasonable judgment, (x) such Dealer may be ineligible to accept assignment or transfer of the related Terminated Obligation or portion thereof, as applicable, substantially in accordance with the then-current market practice in the principal market for the Reference Obligation, as determined by the Calculation Agent, or (y) such Dealer would not, through the exercise of its commercially reasonable efforts, be able to obtain any consent required under any agreement or instrument governing or otherwise relating to the related Reference Obligation or to the assignment or transfer of the related Terminated Obligation or portion thereof, as applicable, to it; and
+(ii) if the Calculation Agent determines that the highest Firm Bid obtained in connection with any Pricing Date is not , including, without limitation, due to (x) the insolvency of the bidder, (y) the inability, failure or refusal of the bidder to settle the purchase of the related Terminated Obligation or portion thereof, as applicable, or otherwise settle transactions in the relevant market or perform its obligations generally or (z) the Calculation Agent having other reasonable grounds for insecurity concerning the bidder's ability to settle the purchase of the related Terminated Obligation or portion thereof, as applicable, that Firm Bid shall be disregarded.
+bona fide
+If Barclays transfers, or causes the transfer of, the Terminated Obligation to the Dealer or Dealers providing the highest Firm Bid or combination of Firm Bids, the net cash proceeds received from the sale of such Terminated Obligation, which sale shall be settled substantially in accordance with the then-current market
+practice in the principal market for the related Reference Obligation as determined by the Calculation Agent, net of the related Costs of Assignment, shall be the "" for that Terminated Obligation.
+Final Price
+If Barclays determines, in its sole discretion, not to sell or cause the sale of any portion of any Terminated Obligation to the entity or entities providing the highest Firm Bid or combination of Firm Bids, the "" for such unsold portion shall be equal to such highest Firm Bid (or combination of Firm Bids) multiplied by the Reference Amount of such Terminated Obligation (or the respective portions of the Reference Amount to which such Firm Bids relate). The Calculation Agent may perform any of its duties under this Clause 4(b) through any Affiliate designated by it, but no such designation shall relieve the Calculation Agent of its duties under this Clause 4(b).
+Final Price
+Early Termination of Facility
+(d) For the avoidance of doubt, if the Termination Date occurs prior to the day preceding the Scheduled Termination Date, each Counterparty Second Floating Amount shall continue to be payable by Counterparty on each subsequent Second Floating Rate Payer Payment Date occurring on or prior to the day preceding the Scheduled Termination Date; that, if either party shall so specify in writing to the other party prior to any final Pricing Date, then on the Termination Date (i) the obligation of Counterparty to continue to pay each Counterparty Second Floating Amount on each subsequent Second Floating Rate Payer Payment Date shall terminate and be replaced by the obligation in the following clause and (ii) Counterparty shall pay to Barclays an amount equal to the present value (as calculated by the Calculation Agent with discounting on each Counterparty Second Floating Rate Payer Payment Date on an Actual/360 basis) discounted to the Terminati on Date of each Counterparty Second Floating Amount payable (without regard to the termination of such obligation under the foregoing clause) on each subsequent Second Floating Rate Payer Payment Date, at a discount rate per annum equal to the Discount Rate. For this purpose, the "" means the zero coupon swap rate (as determined by the Calculation Agent) implied by the fixed rate offered to be paid by Barclays under a fixed for floating interest rate swap transaction with a remaining Term equal to the period from the Termination Date to the Scheduled Termination Date in exchange for the receipt of payments indexed to USD-LIBOR-BBA.
+provided
+Discount Rate
+5. Repayment.
+If all or a portion of the Reference Amount of any Reference Obligation is repaid, prepaid or otherwise reduced (including, without limitation, through any exercise by the Reference Entity of its right of set-off, reduction, or counterclaim that results in the satisfaction, on a ratable basis among Reference Holders, of the obligations of such Reference Entity to pay any principal, interest or any other amount owing in respect of any Reference Obligation or any portion thereof, but excluding any portion of such principal constituting accreted Commercial Paper Discount) on or prior to the Scheduled Termination Date:
+(the amount of such repayment, prepayment or other reduction, a ""; the portion of the related Reference Obligation so repaid, prepaid or otherwise reduced, a ""; and the date of such repayment, prepayment or other reduction, the "")
+Repayment
+Repaid Obligation
+Repayment Date
+(a) the Total Return Payment Date with respect to the Repaid Obligation will be the fifth Business Day next succeeding the Monthly Period in which the Repayment Date occurred;
+(b) as of the related Repayment Date, the Reference Amount of such Reference Obligation shall be decreased by an amount equal to the principal amount of the Repaid Obligation; and
+(c) the related Final Price of the Repaid Obligation shall be the amount of principal and premium (other than any premium included in the definition of "Interest and Fee Amount" and any portion of such principal constituting accreted Commercial Paper Discount, but including any principal representing capitalized or deferred interest) paid on the Repaid Obligation to the Reference Holder on such Repayment Date. Following any Repayment Date, Barclays shall prepare and deliver to Counterparty a revised Trade Register Annex showing the revised Reference Amount for the related Reference Obligation; that any such change in the Reference Amount shall be effective whether or not Barclays prepares and delivers a revised Trade Register Annex.
+provided
+6. Adjustments.
+If any Reference Obligation or portion thereof is irreversibly converted or exchanged into or for any securities, obligations, cash or other assets or property (""), thereafter such Exchange Consideration will constitute such Reference Obligation or portion thereof and the Calculation Agent shall in good faith adjust the terms of any Transaction relating to such Reference Obligation as the Calculation Agent determines appropriate to preserve the theoretical value of such Transaction to the parties immediately prior to such exchange or, if such exchange results in a change in value, the proportionate post-exchange value, and determine the effective date of such adjustments.
+Exchange Consideration
+7. Representations, Warranties and Agreements.
+(a) Each party hereby agrees as follows, so long as either party has or may have any obligation under any Transaction.
+(i) . It is acting for its own account, and it has made its own independent decisions to enter into such Transaction and as to whether such Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into such Transaction; it being understood that information and explanations related to the terms and conditions of such Transaction shall not be considered investment advice or a recommendation to enter into such Transaction. It has not received from the other party any assurance or guarantee as to the expected results of such Transaction;
+Non-Reliance
+(ii) . It is capable of evaluating and understanding (on its own behalf or through independent professional advice), and understands and accepts, the terms, conditions and risks of such Transaction. It is also capable of assuming, and assumes, the financial and other risks of such Transaction;
+Evaluation and Understanding
+(iii) . The other party is not acting as a fiduciary or an advisor for it in respect of such Transaction; and
+Status of Parties
+(iv) . Without limiting the generality of the foregoing, in making its decision to enter into, and thereafter to maintain, administer or terminate, such Transaction, it will not rely on any communication from the other party as, and it has not received any representation or other communication from the other party constituting, legal, accounting, business or tax advice, and it will consult its own legal, accounting, business and tax advisors concerning the consequences of such Transaction.
+Reliance on its Own Advisors
+(b) Each party acknowledges and agrees that, so long as either party has or may have any obligation under any Transaction:
+(i) such Transaction does not create any direct or indirect obligation of any Reference Entity or any direct or indirect participation in any Reference Obligation or any other obligation of any Reference Entity;
+(ii) each party and its Affiliates may deal in any Reference Obligation and may accept deposits from, make loans or otherwise extend credit to, and generally engage in any kind of commercial or investment banking or other business with any Reference Entity, any Affiliate of any Reference Entity, any other person or entity having obligations relating to any Reference Entity and may act with respect to such business in the same manner as if such Transaction did not exist and may purchase, sell, hold or trade securities or other financial instruments of or linked to any Reference Entity, regardless of whether any such action might have an adverse effect on such Reference Entity, the value of the related Reference Obligation or the position of the other party to such Transaction or otherwise;
+(iii) except as provided in Clause 7(d)(iv), each party and its Affiliates and the Calculation Agent may, whether by virtue of the types of relationships described herein or otherwise, at the date hereof or at any time hereafter, be in possession of information regarding any Reference Entity or any Affiliate of any Reference Entity that is or may be material in the context of such Transaction and that may or may not be publicly available or known to the other party. In addition, but without limiting Clause 7(b)(vi), this Confirmation does not create any obligation on the part of such party and its Affiliates to disclose to the other party any such relationship or information (whether or not confidential);
+(iv) neither Barclays nor any of its Affiliates shall be under any obligation to hedge such Transaction or to own or hold any Reference Obligation as a result of such Transaction, and Barclays and its Affiliates may establish, maintain, modify, terminate or re-establish any hedge position or any methodology for hedging at any time without regard to Counterparty. Counterparty acknowledges and agrees that it is not relying on any representation, warranty or statement by Barclays or any of its Affiliates as to whether, at what times, in what manner or by what method Barclays or any of its Affiliates may engage in any hedging activities;
+(v) notwithstanding any other provision in this Confirmation or any other document, Barclays and Counterparty (and each employee, representative, or other agent of Barclays or Counterparty) may each disclose to any and all persons, without limitation of any kind, the U.S. tax treatment and U.S. tax structure of the transaction and all materials of any kind (including opinions or other tax analyses) that are provided to them relating to such U.S. tax treatment and U.S. tax structure, other than any information for which nondisclosure is reasonably necessary in order to comply with applicable securities laws. To the extent not inconsistent with the previous sentence, Barclays and Counterparty will each keep confidential (except as required by law) all information other than information that is "tax treatment" or "tax structure" under Sections 6011, 6111 and 6112 of the U.S. Internal Revenue Code of 1986, as amended (the ""), and the regulations promulgated thereunder unless th e other party has consented in writing to the disclosure of such information; and
+Code
+(vi) if Barclays chooses to hedge its risk with respect to any Transaction through economic exposure to ownership of the related Reference Obligation, the Reference Obligation shall be held of record by a special purpose vehicle (the ""), which may be a series of Grand Central Asset Trust, a Delaware statutory trust. The Hedge Party may deal with the Reference Obligation as if the related Transaction did not exist, that, so long as the Hedge Party remains the lender of record with respect to the Reference Obligation, the Hedge Party shall be a party to a management agreement with Counterparty's designated investment adviser providing for, subject to the terms and conditions thereof, (x) the exercise of any voting and other similar consensual rights (including rights relating to the participation in any creditors' committee, whether formal or informal) in respect of the Reference Obligation by such investment adviser and (y) the prompt deliver y to such investment adviser of the following information and documentation, in each case, to the extent actually received by the Hedge Party from the Reference Entity or its agents under the related Reference Obligation Underlying Instrument, but subject to any confidentiality or similar restrictions imposed under the terms of the Reference Obligation or otherwise imposed by the administrative agent, borrower or obligor with respect thereto: all notices of any borrowings, prepayments and interest rate settings, all amendments, waivers and other modifications (whether final or proposed) in relation to the terms of the Reference Obligation; and all notices given by the Reference Entity to the lenders or their agent or by the lenders or their agent to the Reference Entity in relation to the exercise of remedies.
+Hedge Party
+provided
+(c) Each of the parties hereby represents that:
+(i) it is entering into each Transaction for investment, financial intermediation, hedging or other commercial purposes; and
+(ii) (x) it is an "eligible contract participant" as defined in Section 1a(12) of the U.S. Commodity Exchange Act, as amended (the ""), (y) the Master Agreement and each Transaction are subject to individual negotiation by each party, and (z) neither the Master Agreement nor any Transaction will be executed or traded on a "trading facility" within the meaning of Section 1a(33) of the CEA.
+CEA
+(d) Counterparty hereby represents to Barclays that:
+(i) its financial condition is such that it has no need for liquidity with respect to its investment in any Transaction and no need to dispose of any portion thereof to satisfy any existing or contemplated undertaking or indebtedness. Its investment in and liabilities in respect of any Transaction, which it understands is not readily marketable, is not disproportionate to its net worth, and it is able to bear any loss in connection with any Transaction, including the loss of its entire investment in such Transaction;
+(ii) it understands no obligations of Barclays to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any Affiliate of Barclays or any governmental agency;
+(iii) it is not an Affiliate of any Reference Entity;
+(iv) as of (x) the relevant Trade Date and (y) unless Counterparty provides the highest Firm Bid in connection with the Pricing Date, any date on which the Calculation Agent solicits Firm Bids or any Obligation Termination Date, neither Counterparty nor any of its Affiliates, whether by virtue of the types of relationships described herein or otherwise, is on such date in possession of information regarding any related Reference Entity or any Affiliate of such Reference Entity that is or may be material in the context of any Transaction or the purchase or sale of any related Reference Obligation unless such information either (x) is publicly available or (y) has been made available to each registered owner of such Reference Obligation on a basis that permits such registered owner to disclose such information to any assignee of or participant (whether on a funded or unfunded basis) in, or any prospective assignee of or participant (whether on a funded or unfunded basi s) in, any rights or obligations under the related Reference Obligation Underlying Instrument;
+(v) it has delivered to Barclays on or prior to the date hereof (and it will, prior to any expiration of any such form previously so delivered, deliver to Barclays) a United States Internal Revenue Service Form W-9 (or applicable successor form), properly completed and signed (which representation shall also be made for purposes of Section 3(f) of the Master Agreement); and
+(vi) it is not, for U.S. Federal income tax purposes, a tax-exempt organization or a transparent entity the owners of which include such organizations.
+(e) Notwithstanding anything in the Master Agreement to the contrary, Barclays will not be required to pay any additional amount under Section 2(d)(i) of the Master Agreement in respect of any deduction or withholding for or on account of any Tax in relation to any payment under any Transaction that is determined by reference to interest or fees payable with respect to any Reference Obligation. If Barclays is required by any applicable law, as modified by the practice of any relevant governmental revenue authority, to make any deduction or withholding for or on account of any Tax in relation to any payment under any Transaction that is determined by reference to interest or fees payable with respect to any Reference Obligation and Barclays does not so deduct or withhold, then Section 2(d)(ii) of the Master Agreement shall be applicable.
+8. Adjustments Relating to Certain Unpaid or Rescinded Payments.
+(a) If (i) Barclays makes any payment to Counterparty as provided under Clause 2 and the corresponding Interest and Fee Amount is not paid (in whole or in part) when due or (ii) any Interest and Fee Amount in respect of a Reference Obligation is required to be returned (in whole or in part) by a holder of such Reference Obligation (including, without limitation, Barclays or the Hedge Party) to the applicable Reference Entity or paid to any other person or entity or is otherwise rescinded pursuant to any bankruptcy or insolvency law or any other applicable law, then Counterparty will pay to Barclays, upon request by
+Barclays, such amount (or portion thereof) so not paid or so required to be returned, paid or otherwise rescinded. If such returned, paid or otherwise rescinded amount is subsequently paid, Barclays shall pay such amount (subject to Clause 8(c)) to Counterparty within five Business Days after the date of such subsequent payment.
+(b) If, with respect to any Repaid Obligation, the corresponding payment of principal of the Repaid Obligation is required to be returned (in whole or in part) by a holder thereof (including, without limitation, Barclays or the Hedge Party) to the applicable Reference Entity or paid to any other person or entity or is otherwise rescinded pursuant to any bankruptcy or insolvency law or any other applicable law, then (i) the parties hereto shall be restored severally and respectively to their former positions hereunder and thereafter all rights and obligations of the parties hereunder shall continue as though no Repayment had occurred and (ii) without limiting the generality of the foregoing, if either party has made a payment to the other party in respect of Capital Appreciation or Capital Depreciation related to such Repayment as provided under Clause 2, then the party that received the payment in respect of such Capital Appreciation or Capital Depreciation, as applicable , shall repay such amount (subject to Clause 8(c)) to the other party. If such returned, paid or otherwise rescinded amount is subsequently paid by the related Reference Entity or any such other person or entity, then the relevant party shall pay the amount of such Capital Appreciation or Capital Depreciation, as applicable, within five Business Days after the date of such subsequent payment.
+(c) Amounts payable pursuant to this Clause 8 shall be subject to adjustment by the Calculation Agent in good faith and on a commercially reasonable basis, as agreed by Barclays and Counterparty, in order to preserve for the parties the intended economic risks and benefits of the relevant Transaction.
+(d) The payment obligations of Barclays and Counterparty pursuant to this Clause 8 shall survive the termination of all Transactions.
+(e) Section 2(c)(ii) of the Master Agreement shall not apply to the Transactions to which this Confirmation relates.
+9. Credit Support.
+Notwithstanding anything in the Credit Support Annex (the "") to the Schedule to the Master Agreement to the contrary, the following collateral terms shall apply to each Transaction to which this Confirmation relates (capitalized terms used in this Clause 9 but not otherwise defined in this Confirmation have the respective meanings given to such terms in the Credit Support Annex):
+Credit Support Annex
+(a) With respect to each Transaction to which this Confirmation relates, a single "Independent Amount" shall be applicable to Counterparty in an amount equal to the Collateral Value with respect to such Transaction multiplied by the percentage set forth in Clause 9(b) under the caption "Independent Amount Percentage". Not less than one Business Day prior to the Trade Date, Counterparty as Pledgor will Transfer to Barclays as Secured Party Eligible Collateral having a Value as of the date of Transfer equal to the related Independent Amount determined pursuant to this Clause 9(a).
+(b) With respect to each Transaction to which this Confirmation relates, the "Independent Amount Percentage" applicable to such Transaction will be equal to:
+Provided that the Independent Amount Percentage with respect to the Specified Transaction shall be 20%.
+(c) In no event shall Barclays as Secured Party be obligated to Transfer Posted Credit Support in respect of a Return Amount to Counterparty as Pledgor if the Value as of any Valuation Date of all Posted Credit Support held by Barclays as Secured Party would be less than the aggregate of all Independent Amounts determined pursuant to Clause 9(a).
+(d) In no event shall Barclays as Pledgor be required to Transfer Eligible Collateral to Counterparty. In addition, for purposes of calculating "Exposure" with respect to any Transaction to which this Confirmation relates, (i) Barclays shall be the sole Valuation Agent and shall determine any Market Quotation in relation to such Transaction, (ii) such Market Quotation will be determined by the Valuation Agent using its estimate of the amount that would be paid for a Replacement Transaction based on the application of Section 6(e)(i)(3) of the Master Agreement, (iii) such Market Quotation may from time to time be determined by the Valuation Agent in its sole discretion and without notice to Counterparty solely in respect of payments in respect of Capital Appreciation or Capital Depreciation that would have been required in respect of a Transaction after the relevant Early Termination Date (provided that the Valuation Agent will not thereafter be precluded from making such determination with respect to all payments and deliveries that would have been required after the relevant Early Termination Date, regardless of the absence of notice thereof to Counterparty), (iv) if Counterparty disputes the calculation of Exposure with respect to such Transaction, the Valuation Agent will recalculate Exposure for such Transaction on the basis that the market value of the related Reference Obligation is equal to its Current Price and (v) on and after any satisfaction of the Extension Condition, "Exposure" with respect to the Specified Transaction shall not be less than USD50,000,000.
+(e) Notwithstanding anything to the contrary in the Credit Support Annex, (i) the Minimum Transfer Amount with respect to Counterparty shall be USD500,000 and (ii) each London Business Day shall be a Valuation Date.
+(f) In the event that Counterparty defaults in its obligation under Paragraph 3(a) of the Credit Support Annex to Transfer Eligible Credit Support, then Barclays may in accordance with Clause 4(b) determine the "Final Price" for each Reference Obligation (as if each Reference Obligation were a "Terminated Obligation"). If Counterparty enters into any Transaction under (and as defined in) the Master Agreement other than the Transactions contemplated by this Confirmation (each, a ""), then the Delivery Amount and Return Amount with respect to Counterparty as Pledgor and all Separate Transactions shall be calculated (i) solely with reference to all Separate Transactions and (ii) without regard to the aggregate of all Independent Amounts applicable to the Pledgor under this Confirmation or any Posted Collateral Transferred by Pledgor pursuant to this Confirmation.
+Separate Transaction
+(g) Except as provided in the following sentence, on the Business Day next succeeding the Pricing Date or Repayment Date, as the case may be, with respect to a Terminated Obligation or Repaid Obligation, (i) the Independent Amount Percentage with respect to the Transaction (or portion thereof) related to such Terminated Obligation or Repaid Obligation shall be reduced to zero and (ii) neither party shall have any right to demand the transfer pursuant to the Credit Support Annex of additional Eligible Credit Support or the return of Posted Credit Support based upon any subsequent change in Exposure to the other party with respect to the Transaction (or portion thereof) related to such Terminated Obligation or Repaid Obligation. If the Final Price with respect to any Transaction (or portion thereof) relating to a Terminated Obligation is determined by reference to one or more Firm Bids submitted by Counterparty or any Affiliate thereof, then
+(i) the Independent Amount Percentage with respect to the Transaction (or portion thereof) related to such Terminated Obligation shall not be reduced to zero until the date of the final settlement of all purchases as to which Counterparty or any Affiliate thereof has submitted a Firm Bid satisfying the requirements of Clause 4(b) and (ii) Barclays (in its sole discretion) may continue to demand the transfer pursuant to the Credit Support Annex of additional Eligible Credit Support (subject to Counterparty's right to demand the return of Posted Credit Support) based upon changes in Exposure subsequent to the submission of such Firm Bids by Counterparty or any Affiliate thereof, in each case, until the date of the final settlement of all purchases as to which Counterparty or any Affiliate thereof has submitted a Firm Bid satisfying the requirements of Clause 4(b) (and, for this purpose, such Credit Support Amount shall be determined with respect to any T erminated Obligation as if no Final Price had been established until the date of settlement of the relevant purchase).
+10. Notice and Account Details.
+Any notice or other communication to be given under this Confirmation may be given, in addition to the means for notice contemplated by the Master Agreement, by e-mail to a party using the e-mail details provided by such party to the other party in a notice given in accordance with the Master Agreement, and such e-mail notice will be deemed effective on the date it is delivered unless the date of that delivery (or attempted delivery) is not a Local Business Day or is after the close of business on a Local Business Day, in which case that e-mail notice will be deemed given and effective on the first following day that is a Local Business Day.
+11. Offices.
+(a) The Office of Barclays for each Transaction:
+London
+(b) The Office of Counterparty for each Transaction:
+Baltimore
+The time of dealing will be confirmed by Barclays upon written request. Barclays is regulated by the Financial Services Authority. Barclays is acting for its own account in respect of this Transaction.
+Please confirm that the foregoing correctly sets forth all the terms and conditions of our agreement with respect to the Transaction by responding within three Business Days by promptly signing in the space provided below and both (i) faxing the signed copy to Incoming Transaction Documentation, Barclays Capital Global OTC Transaction Documentation & Management, Global Operations, Fax +(44) 20-7773-6810/6045, Tel +(44) 20-7773-6901/6904/6965, and (ii) mailing the signed copy to Barclays Bank PLC, 5 The North Colonnade, Canary Wharf, London E14 4BB, Attention of Incoming Transaction Documentation, Barclays Capital Global OTC Transaction Documentation & Management, Global Operations. Your failure to respond within such period shall not affect the validity or enforceability of the Transaction as against you. This facsimile shall be the only documentation in respect of this Transaction and accordingly no hard copy versions of this Confirmation for thi s Transaction shall be provided unless Counterparty requests.
+"", for purposes of this Confirmation only, has the meaning given to such term in Rule 405 under the Securities Act of 1933, as amended.
+Affiliate
+"" means any obligation for the payment or repayment of borrowed money that is in the form of, or represented by, a bond, note, certificated debt security or other debt security.
+Bond
+"" and "" mean, with respect to any Terminated Obligation or Repaid Obligation and any Total Return Payment Date, the amount determined according to the following formula:
+Capital Appreciation
+Capital Depreciation
+where
+"" means (a) in the case of any Terminated Obligation, the amount determined pursuant to Clause 4, and (b) in the case of any Repaid Obligation, the amount determined pursuant to Clause 5, and
+Final Price
+"" means the Notional Amount (determined immediately prior to such Total Return Payment Date) for such Terminated Obligation or Repaid Obligation, as applicable.
+Applicable Notional Amount
+If such amount is positive, such amount is "" and if such amount is negative, the absolute value of such amount is "".
+Capital Appreciation
+Capital Depreciation
+"" means, with respect to any Reference Obligation on any date of determination, an amount equal to the present value (as calculated by the Calculation Agent with discounting on each Counterparty Second Floating Rate Payer Payment Date on an Actual/360 basis) discounted to such date of determination from the "Maturity Date" set forth in Annex B with respect to such Reference Obligation of the Reference Amount of such Reference Obligation, at a discount rate per annum equal to the Discount Rate. For this purpose, the "" means the zero coupon swap rate (as determined by the Calculation Agent) implied by the fixed rate offered to be paid by Barclays under a fixed for floating interest rate swap transaction with a remaining Term equal to the period from such date of determination until the "Maturity Date" set forth in Annex B with respect to such Reference Obligation in exchange for the receipt of payments indexed to USD-LIBOR-BBA.
+Collateral Value
+Discount Rate
+"" means, with respect to any Bond that does not bear a stated rate of interest, the original issue discount on such Bond determined by reference to its issue price on the date of issuance thereof. Commercial Paper Discount that is accreted to any date of determination shall be the portion of such original issue discount that has accreted in accordance with a "straight line" accretion method.
+Commercial Paper Discount
+"" means, in the case of any Terminated Obligation, the sum of (a) any actual costs of transfer or assignment paid by the seller under the terms of any Terminated Obligation or otherwise actually imposed on the seller by any applicable administrative agent, borrower or obligor incurred in connection with the sale of such Terminated Obligation and (b) any reasonable expenses incurred by the seller in connection with such sale (including all reasonable legal costs incurred by the seller in connection with such sale), in each case to the extent not already reflected in the Final Price.
+Costs of Assignment
+"" means, with respect to any Reference Obligation on any date of determination, (a) the lower of two Firm Bids with respect to such Reference Obligation obtained by Barclays from two Dealers (other than Barclays or any of its Affiliates) of credit standing acceptable to Barclays in the exercise of its reasonable discretion and (b) if Barclays is unable to obtain two such Firm Bids, the Calculation Agent's determination of the net cash proceeds that would be received from the sale on such date of determination of such Reference Obligation, net of the related Costs of Assignment. The "Current Price" shall be expressed as a percentage of par and will be determined exclusive of accrued interest and without regard to any Commercial Paper Discount.
+Current Price
+"" means a nationally recognized independent dealer in the related Reference Obligation chosen by the Calculation Agent or its designated Affiliate (other than Counterparty or any of its Affiliates); that, except as used in the definition of "Current Price", at least one Dealer may be Barclays or any of its Affiliates.
+Dealer
+provided
+"" means, with respect to any Reference Obligation, any event or circumstance entitling one or more holders of such Reference Obligation or any trustee or other representative acting on their behalf to sell or
+Enforcement Event
+otherwise liquidate collateral, or to terminate one or more financial derivative contracts, securing or otherwise supporting the payment of such Reference Obligation.
+"" means, with respect to any Reference Obligation, the aggregate amount of any payments (other than extensions of credit) due from one or more of the lender(s) in respect of such Reference Obligation (including the Hedge Party), including, without limitation, (a) any expense associated with any amendment, modification or waiver of any of the provisions of the related Reference Obligation Underlying Instrument or any related credit documentation, (b) any reimbursement of any agent under the related Reference Obligation Underlying Instrument or any related credit documentation, (c) any expense incurred in connection with the exercise of remedies or the protection of rights under the Reference Obligation Underlying Instrument or any related credit document, (d) any damages, fines, penalties or other similar amounts owing or alleged to be owing by Barclays or any lender (whether the Hedge Party or otherwise) in respect of such Reference Oblig ation by reason of its acquisition, ownership or disposition by of such Reference Obligation, (e) any losses, claims, damages, costs or other expenses suffered or incurred by or on behalf of Barclays or any lender (whether the Hedge Party or otherwise) in respect of such Reference Obligation arising as a consequence of any actions, proceedings, arbitrations or investigations (whether formal or informal) or threat thereof (or actions in respect thereof) arising out of, based upon or in connection with such Reference Obligation and (f) any indemnity or other similar payment owing under the related Reference Obligation Underlying Instrument or any related credit documentation, in each case, including amounts owed on or after the related Obligation Termination Date in respect of amounts accrued, or in respect of any event that occurred, before the related Obligation Termination Date.
+Expense or Other Payment
+"" means; that Interest and Fee Amounts:
+Interest and Fee Amount
+, for any Fixed Amount Payer Payment Date and any Transaction, the aggregate amount of interest (excluding interest breakage costs), fees (including, without limitation, amendment, consent, tender, facility, letter of credit and other similar fees) and other amounts (other than in respect of principal, interest breakage costs and any compensation paid in respect of withholding taxes in relation to the related Reference Obligation and excluding any principal representing capitalized or deferred interest) paid with respect to the related Reference Obligation (in each case, after deduction of any withholding taxes for which the Reference Entity would not be obligated to reimburse the Reference Holder if it were the registered holder of the related Reference Obligation) during the relevant Fixed Amount Payer Calculation Period
+provided
+(a) shall not include any amounts that accrue prior to the Effective Date or that accrue on or after the Settlement Date or Repayment Date for the related Reference Obligation or portion thereof,
+(b) shall include ; and
+the portion of principal payable at maturity of the related Reference Obligation constituting accreted Commercial Paper Discount
+(c) shall, for the first Fixed Amount Payer Calculation Period, be reduced by all customary and reasonable expenses incurred in connection with the establishment by Barclays or the Hedge Party of any related hedge.
+"" means, with respect to any Terminated Obligation, the latest of (a) the date so designated in the related Accelerated Termination Notice, (b) any date so designated by the Calculation Agent pursuant to Clause 4(b), and (c) in respect of the Scheduled Termination Date, if the related Final Price is not determined in accordance with Clause 4(a), a date so designated by the Calculation Agent in its discretion, occurring during the 30 calendar days preceding the Scheduled Termination Date (or earlier in the case of any Terminated Obligation determined by the Calculation Agent in its sole discretion to be a distressed loan or other obligation) in a manner reasonably likely to cause the final Total Return Payment Date to occur on the Scheduled Termination Date. The Calculation Agent shall notify the parties of any Pricing Date designated by it.
+Pricing Date
+"" means, with respect to any Reference Obligation, a lender in respect of such Reference Obligation under the related Reference Obligation Underlying Instrument having the same tax status (for purposes of determining whether any deduction or withholding is applicable in respect of payments under such Reference Obligation) as Barclays.
+Reference Holder
+"" means, with respect to any Reference Obligation, the indenture, trust agreement, pooling and servicing agreement or other relevant agreement(s) setting forth the terms of such Reference Obligation.
+Reference Obligation Underlying Instrument
+"" means, for any Reference Obligation or Terminated Obligation, (a) the date on which the seller of such Reference Obligation or Terminated Obligation would receive (based on settlement in accordance with the then-current market practice in the principal market for such Reference Obligation or Terminated Obligation) payment of the Final Price determined under Clause 4 in consideration for delivery of such Reference Obligation or Terminated Obligation or (b) if the holder of the Reference Obligation or Terminated Obligation, at its option, elects not to sell or cause the sale of the Reference Obligation or Terminated Obligation upon termination of the related Transaction (or portion thereof), a date so designated by the Calculation Agent.
+Settlement Date
+"" means any Reference Obligation or portion of any Reference Obligation with respect to which the related Transaction (or portion thereof) is terminated in accordance with Clause 3 or as to which there has occurred the related Obligation Termination Date.
+Terminated Obligation
+"" means, with respect to any Terminated Obligation or Repaid Obligation, the fifth Business Day next succeeding the Monthly Period during which the related Settlement Date or Repayment Date, as applicable, occurred.
+Total Return Payment Date
+The "" are as follows:
+Obligation Criteria
+The obligation is a Bond.
+The obligation is denominated in USD.
+The obligation constitutes a legal, valid, binding and enforceable obligation of the applicable Reference Entity, enforceable against such person in accordance with its terms.
+The obligation does not require any future advances to be made to the related issuer or obligor on or after the Trade Date.
+The Notional Amount of such obligation, together with the Notional Amount with respect to all other Reference Obligations that are the subject of Transactions then outstanding, does not exceed the Maximum Portfolio Notional Amount.
+
+
+Exhibit 10.8
+Execution Counterpart
+AMENDMENT NO. 5 (this "") dated as of November 10, 2008 among LEGG MASON, INC. (the ""), the Lenders executing this Amendment No. 5 on the signature pages hereto and Citibank, N.A., in its capacity as administrative agent (the "") under the Credit Agreement referred to below.
+Amendment No. 5
+Borrower
+Administrative Agent
+WHEREAS, the Borrower, the Lenders party thereto and the Administrative Agent are parties to a 5-Year Revolving Credit Agreement dated as of October 14, 2005 (as amended by Amendments No. 1, No. 2, No. 3 and No. 4 thereto, the ""), providing, subject to the terms and conditions thereof, for revolving credit loans to the Borrower.
+Credit Agreement
+NOW THEREFORE, the parties hereto wish now to amend the Credit Agreement in certain respects, and, accordingly, the parties hereto hereby agree as follows:
+Section 1. . Except as otherwise defined in this Amendment No. 5, terms defined in the Credit Agreement are used herein as defined therein.
+Definitions
+Section 2. . Subject to the satisfaction of the conditions precedent specified in Section 4 below, but effective as of the date hereof, the Credit Agreement shall be amended as follows:
+Amendments
+2.01. . References in the Credit Agreement (including references to the Credit Agreement as amended hereby) to "this Agreement" (and indirect references such as "hereunder", "hereby", "herein" and "hereof") shall be deemed to be references to the Credit Agreement as amended hereby.
+References Generally
+2.02. . Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the definition of "AB Exposure", (ii) amending the following definitions to read in their entirety as follows (to the extent already included in said Section 1.01) and (iii) adding the following definitions in the appropriate alphabetical location (to the extent not already included in said Section 1.01):
+Certain Defined Terms
+"" means, as of any date on which (a) the aggregate principal amount of Loans outstanding is less than 33% of the aggregate Commitments, 0% per annum, (b) the aggregate principal amount of Loans outstanding is greater than or equal to 33% but less than 66% of the aggregate Commitments, 0.50% per annum or (c) the aggregate principal amount of Loans outstanding is greater than or equal to 66% of the aggregate Commitments, 0.75% per annum.
+Additional Margin
+1/3
+1/3
+2/3
+2/3
+"" means, while any particular Rating Level applies, the rate per annum set forth below opposite the reference to such Rating Level:
+Applicable Facility Fee Rate
+that if at any time the Debt Ratings of Moody's and S&P would lead to different Rating Levels, the "Applicable Facility Fee Rate" will be determined based on
+provided
+the Rating Level one above the lower Rating Level (Rating Level 1 being the highest and Rating Level 5 being the lowest). Each change in the Applicable Facility Fee Rate resulting from a Rating Level Change shall be effective on the date on which such Rating Level Change is first announced by Moody's or S&P, as the case may be.
+"" means for any Loan of any Type and while any particular Rating Level applies, the rate per annum set forth below opposite the reference to the relevant Rating Level for Loans of such Type:
+Applicable Margin
+that if at any time the Debt Ratings of Moody's and S&P would lead to different Rating Levels, the "Applicable Margin" will be determined based on the Rating Level one above the lower Rating Level (Rating Level 1 being the highest and Rating Level 5 being the lowest). Each change in the Applicable Margin resulting from a Rating Level Change shall be effective on the date on which such Rating Level Change is first announced by Moody's or S&P, as the case may be.
+provided
+"" means, for any period, for the Borrower and its Consolidated Subsidiaries on a Consolidated basis, Consolidated net income for such period , without duplication and to the extent reflected as a charge in the statement of such Consolidated net income for such period, the sum of (a) income tax expense, (b) interest expense, amortization or writeoff of debt discount with respect to Indebtedness (including the Loans), (c) depreciation and amortization expense, (d) amortization of intangibles (including, but not limited to, goodwill) and organization costs, (e) any extraordinary expenses or losses (including, whether or not otherwise includable as a separate item in the statement of such Consolidated net income for such period, losses on sales of assets outside of the ordinary course of business), and (f) any other non-cash charges, and , to the extent included in the statement of such Consolidated net income for such period, the sum of (a) any extraordinary income or gains (including, whether or not otherwise includable as a separate item in the statement of such Consolidated net income for such period, gains on the sales of assets outside of the ordinary course of business)) any other non-cash income, all as determined without duplication on a Consolidated basis in accordance with GAAP, in each case exclusive of the cumulative effect of foreign currency gains or losses. For the purposes of calculating Consolidated EBITDA for any period in connection with any determination of the Leverage Ratio, if during such period the Borrower or any Subsidiary shall have made an acquisition or incurred or assumed any Indebtedness (without duplication of any Indebtedness incurred to refinance such assumed Indebtedness), Consolidated EBITDA for such period shall be calculated after giving pro forma effect thereto as if such acquisition occurred and such Indebtedness had been incurred o r assumed or refinanced on the first day of such period. Notwithstanding the foregoing, "Consolidated EBITDA" shall exclude the effect of cash charges (a) arising from purchases and sales by the Borrower or any of its Consolidated Subsidiaries of, and/or (b) on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with, asset-backed commercial paper, medium term notes or other securities or investments, in each case issued by any Person listed on Annex I or any Affiliate of any such Person, or any other securities or investments into which any such asset-backed commercial paper, medium term notes or other securities or investments may be converted or resulting from the replacement, exchange or restructuring in
+Consolidated EBITDA
+plus
+minus
+and (b
+whatever form of any such asset-backed commercial paper, medium term notes or other securities and investments, whether now or heretofore owned or hereafter acquired (all such asset-backed commercial paper, medium term notes, securities, investments and other securities or investments being referred to herein as ""), except that (i) upon such sale by the Company or any of its Consolidated Subsidiaries of any such Investment and (ii) upon the incurrence of any cash charges by the Company or any of its Consolidated Subsidiaries on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with any such Investment, Consolidated EBITDA for such period shall be reduced (but not increased) by an amount (the "") equal to the total amount of cash charges, net of the total amount of cash gains, borne by the Company and its Consolidated Subsidiaries from the purchase and sale of such Investment and/or on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with any such Investment, to the extent that the aggregate (calculated without duplication) Net AB Charge Amount for all such purchases and sales and/or on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with any such Investment for such period and all prior periods exceeds $2,750,000,000.
+Investments
+Net AB Charge Amount
+2.03 . Section 2.06(a) is hereby amended to read as follows:
+Ordinary Interest
+"(a)  . The Borrower agrees to pay interest on the unpaid principal amount of each Loan, from the date of such Loan until such principal amount shall be paid in full, at the following rates per annum:
+Ordinary Interest
+(i)  . While such Loan is a Base Rate Loan, a rate per annum equal to the Base Rate in effect from time to time the sum of (x) the Applicable Margin for Base Rate Loans as in effect from time to time and (y) the Additional Margin, if applicable, payable quarterly in arrears on the last Business Day of each March, June, September and December and on the date such Base Rate Loan shall be Converted or paid in full.
+Base Rate Loans
+plus
+(ii)  . While such Loan is a Eurodollar Rate Loan, a rate per annum for each Interest Period for such Loan equal to the sum of the Eurodollar Rate for such Interest Period the sum of (x) the Applicable Margin for Eurodollar Rate Loans as in effect from time to time and (y) the Additional Margin, if applicable, payable on the last day of such Interest Period and, if such Interest Period has a duration of more than three months, on each day prior to the last day of such Interest Period that occurs at intervals of three months after the first day of such Interest Period, and on each date on which such Eurodollar Rate Loan shall be Continued, Converted or paid in full."
+Eurodollar Rate Loans
+plus
+2.04. . A new Section 5.02(d) is added to the Credit Agreement reading as follows:
+Incurrence of Indebtedness
+"(d) . It shall at all times comply with Section 5.7(a) of the Note Purchase Agreement dated as of January 14, 2008 between it, KKR I-L Limited, Credit Suisse International, HSBC Bank USA, National Association and Kohlberg Kravis Roberts & Co., L.P., as amended on January 30, 2008, as further modified, waived and supplemented on May 5, 2008, and as further amended, modified, supplemented, waived and from time to time in effect."
+Incurrence of Indebtedness
+2.05. . Section 5.03(a) of the Credit Agreement is hereby amended to read as follows:
+Maximum Leverage Ratio
+"(a) . The Borrower will not permit the Leverage Ratio, as of the last day of any fiscal quarter of the Borrower, to exceed 3.0:1.0."
+Maximum Leverage Ratio
+2.06. . The Credit Agreement is hereby amended by adding at the end thereof an Annex I to read as Annex I hereof.
+Annex I
+Section 3. . The Borrower represents and warrants to the Lenders and the Administrative Agent, as to itself and each of its subsidiaries, that (a) the representations and warranties set forth in Article IV of the Credit Agreement(except (x) to the extent relating to the class action litigations described in the Form 10-K of the Borrower for the fiscal year ended March 31, 2008, Section 4.01(f)(i) thereof, and (y) to the extent relating to the Transaction Agreement and the transactions contemplated thereby, Section 4.01(f)(ii) thereof, and provided that for purposes of this Section 3, the date referred to in the last sentence of Section 4.01(e) thereof shall be deemed to be March 31, 2008 instead of March 31, 2005), and in each of the other Loan Documents, are true and on the date hereof as if made on and as of the date hereof (or, if any such representation or warranty is expressly stated to have been made as of a specific date, such representation or warranty shall be true and correct as of such specific date) and as if each reference in said Article IV to "this Agreement" included reference to this Amendment No. 5 and (b) no Default or Event of Default has occurred and is continuing.
+Representations and Warranties
+correct in all material respects
+in all material respects
+Section 4. . The amendments set forth in Section 2 hereof shall become effective, as of the date hereof, upon satisfaction of the following conditions:
+Conditions Precedent
+4.01. . The Administrative Agent shall have received counterparts of this Amendment No. 5 executed by the Borrower and the Lenders party to the Credit Agreement constituting the Majority Lenders.
+Execution
+4.02. . The Administrative Agent shall have received for the account of each Lender that, not later than 6:00 p.m. New York City time on November 19, 2008, shall have executed a counterpart of this Amendment No. 5 and delivered the same to the Administrative Agent, an amendment fee in such amount as shall have been previously disclosed to the Lenders by the Borrower.
+Amendment Fee
+4.03 . The Borrower shall have paid in full the costs, expenses and fees as set forth in Section 8.04(a) of the Credit Agreement and the Fee Letter dated as of November 10, 2008 among Citigroup Global Markets Inc. and the Borrower.
+Fee and Expenses
+4.04. . The Administrative Agent shall have received favorable opinions of counsel for the Borrower (which counsel shall be reasonably satisfactory to the Administrative Agent), in form and substance reasonably satisfactory to the Administrative Agent and covering such matters (including as to the enforceability of this Amendment No. 5 and the Credit Agreement as amended hereby, the valid organization, good standing and due authorization of the Borrower, and the lack of any conflicts of the Borrower (including with respect to any material agreements)) as the Administrative Agent shall reasonably request.
+Opinion of Counsel to Borrower
+4.05. . The Administrative Agent shall have received certified copies of the charter and by-laws of the Borrower and of all corporate authority for the Borrower (including, without limitation, board of director resolutions and evidence of the incumbency of officers for the Borrower) with respect to the execution, delivery and performance of this Amendment No. 5 and the Credit Agreement as amended hereby (and the Administrative Agent and each Lender may conclusively rely on such certificate until it receives notice in writing from the Borrower to the contrary).
+Corporate Documents
+Section 5. . Except as herein provided, the Credit Agreement shall remain unchanged and in full force and effect. This Amendment No. 5 may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument and any of the parties hereto may execute this Amendment No. 5 by signing any such counterpart. Delivery of a counterpart by electronic transmission shall be effective as delivery of a manually executed counterpart hereof. This Amendment No. 5 shall be governed by, and construed in accordance with, the law of the State of New York.
+Miscellaneous
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment No. 5 to be duly executed by their respective authorized officers as of the day and year first above written.
+ 
+ 
+ 
+
+
+Exhibit 10.13
+EXECUTION COUNTERPART
+ 
+AMENDMENT NO. 4 (this "") dated as of November 10, 2008 among LEGG MASON, INC. (the ""), the Lenders executing this Amendment No. 4 on the signature pages hereto and Citibank, N.A., in its capacity as administrative agent (the "") under the Credit Agreement referred to below.
+Amendment No. 4
+Borrower
+Administrative Agent
+WHEREAS, the Borrower, the Lenders party thereto and the Administrative Agent are parties to a Term Loan Agreement dated as of October 14, 2005 (as amended by Amendments No. 1, No. 2 and No. 3 thereto, the ""), providing, subject to the terms and conditions thereof, for term loans to the Borrower.
+Credit Agreement
+NOW THEREFORE, the parties hereto wish now to amend the Credit Agreement in certain respects, and, accordingly, the parties hereto hereby agree as follows:
+Section 1. . Except as otherwise defined in this Amendment No. 4, terms defined in the Credit Agreement are used herein as defined therein.
+Definitions
+Section 2. . Subject to the satisfaction of the conditions precedent specified in Section 4 below, but effective as of the date hereof, the Credit Agreement shall be amended as follows:
+Amendments
+2.01. . References in the Credit Agreement (including references to the Credit Agreement as amended hereby) to "this Agreement" (and indirect references such as "hereunder", "hereby", "herein" and "hereof") shall be deemed to be references to the Credit Agreement as amended hereby.
+References Generally
+2.02. . The definition of "AB Exposure" in Section 1.01 of the Credit Agreement is hereby deleted.
+AB Exposure
+2.03. . The definition of Applicable Margin in Section 1.01 of the Credit Agreement is hereby amended to read as follows:
+Applicable Margin
+"" means for any Loan of any Type and while any particular Rating Level applies, the rate per annum set forth below opposite the reference to the relevant Rating Level for Loans of such Type:
+Applicable Margin
+that if at any time the Debt Ratings of Moody's and S&P would lead to different Rating Levels, the "Applicable Margin" will be determined based on the Rating Level one above the lower Rating Level (Rating Level 1 being the highest and Rating Level 5 being the lowest). Each change in the Applicable Margin resulting from a Rating Level Change shall be effective on the date on which such Rating Level Change is first announced by Moody's or S&P, as the case may be.
+provided
+ 
+2.04. . The definition of EBITDA is Section 1.01 of the Credit Agreement is hereby amended to read as follows:
+Consolidated EBITDA
+"" means, for any period, for the Borrower and its Consolidated Subsidiaries on a Consolidated basis, Consolidated net income for such period , without duplication and to the extent reflected as a charge in the statement of such Consolidated net income for such period, the sum of (a) income tax expense, (b) interest expense, amortization or writeoff of debt discount with respect to Indebtedness (including the Loans), (c) depreciation and amortization expense, (d) amortization of intangibles (including, but not limited to, goodwill) and organization costs, (e) any extraordinary expenses or losses (including, whether or not otherwise includable as a separate item in the statement of such Consolidated net income for such period, losses on sales of assets outside of the ordinary course of business), and (f) any other non-cash charges, and , to the extent included in the statement of such Consolidated net income for such period, the sum of (a) any extraordinary income or gains (including, whether or not otherwise includable as a separate item in the statement of such Consolidated net income for such period, gains on the sales of assets outside of the ordinary course of business)) any other non-cash income, all as determined without duplication on a Consolidated basis in accordance with GAAP, in each case exclusive of the cumulative effect of foreign currency gains or losses. For the purposes of calculating Consolidated EBITDA for any period in connection with any determination of the Leverage Ratio, if during such period the Borrower or any Subsidiary shall have made an acquisition or incurred or assumed any Indebtedness (without duplication of any Indebtedness incurred to refinance such assumed Indebtedness), Consolidated EBITDA for such period shall be calculated after giving pro forma effect thereto as if such acquisition occurred and such Indebtedness had been incurred o r assumed or refinanced on the first day of such period. Notwithstanding the foregoing, "Consolidated EBITDA" shall exclude the effect of cash charges (a) arising from purchases and sales by the Borrower or any of its Consolidated Subsidiaries of, and/or (b) on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with, asset-backed commercial paper, medium term notes or other securities or investments, in each case issued by any Person listed on Annex I or any Affiliate of any such Person, or any other securities or investments into which any such asset-backed commercial paper, medium term notes or other securities or investments may be converted or resulting from the replacement, exchange or restructuring in whatever form of any such asset-backed commercial paper, medium term notes or other securities and investments, whether now or heretofore owned or hereafter acquired (all such asset-backed commercial paper, me dium term notes, securities, investments and other securities or investments being referred to herein as ""), except that (i) upon such sale by the Company or any of its Consolidated Subsidiaries of any such Investment and (ii) upon the incurrence of any cash charges by the Company or any of its Consolidated Subsidiaries on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with any such Investment, Consolidated EBITDA for such period shall be reduced (but not increased) by an amount (the "") equal to the total amount of cash charges, net of the total amount of cash gains, borne by the Company and its Consolidated Subsidiaries from the purchase and sale of such Investment and/or on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital support or any other support in connection with any such Investment, to the extent that the aggre gate (calculated without duplication) Net AB Charge Amount for all such purchases and sales and/or on account of total return swaps, letters of credit, Guarantees, loans, equity contributions, capital
+Consolidated EBITDA
+plus
+minus
+and (b
+Investments
+Net AB Charge Amount
+support or any other support in connection with any such Investment for such period and all prior periods exceeds $2,750,000,000.
+2.05. . A new Section 5.02(d) is added to the Credit Agreement reading as follows:
+Incurrence of Indebtedness
+"(d) . It shall at all times comply with Section 5.7(a) of the Note Purchase Agreement dated as of January 14, 2008 between it, KKR I-L Limited, Credit Suisse International, HSBC Bank USA, National Association and Kohlberg Kravis Roberts & Co., L.P., as amended on January 30, 2008, as further modified, waived and supplemented on May 5, 2008, and as further amended, modified, supplemented, waived and from time to time in effect."
+Incurrence of Indebtedness
+2.06. . Section 5.03(a) of the Credit Agreement is hereby amended to read as follows:
+Maximum Leverage Ratio
+"(a) . The Borrower will not permit the Leverage Ratio, as of the last day of any fiscal quarter of the Borrower, to exceed 3.0:1.0."
+Maximum Leverage Ratio
+2.07. . The Credit Agreement is hereby amended by adding at the end thereof an Annex I to read as Annex I hereof.
+Annex I
+Section 3. . The Borrower represents and warrants to the Lenders and the Administrative Agent, as to itself and each of its subsidiaries, that (a) the representations and warranties set forth in Article IV of the Credit Agreement(except (x) Section 4.01(k) thereof, (y) to the extent relating to the class action litigations described in the Form 10-K of the Borrower for the fiscal year ended March 31, 2008, Section 4.01(f)(i) thereof, and (z) to the extent relating to the Transaction Agreement and the transactions contemplated thereby, Section 4.01(f)(ii) thereof, and provided that for purposes of this Section 3, the date referred to in the last sentence of Section 4.01(e) thereof shall be deemed to be March 31, 2008 instead of March 31, 2005), and in each of the other Loan Documents, are true and on the date hereof as if made on and as of the date hereof (or, if any such representation or warranty is expressly stated to have been made as of a specific date, such representation or warranty shall be true and correct as of such specific date) and as if each reference in said Article IV to "this Agreement" included reference to this Amendment No. 4 and (b) no Default or Event of Default has occurred and is continuing.
+Representations and Warranties
+correct in all material respects
+in all material respects
+Section 4. . The amendments set forth in Section 2 hereof shall become effective, as of the date hereof, upon satisfaction of the following conditions:
+Conditions Precedent
+4.01. . The Administrative Agent shall have received counterparts of this Amendment No. 4 executed by the Borrower and the Lenders party to the Credit Agreement constituting the Majority Lenders.
+Execution
+4.02. . The Administrative Agent shall have received for the account of each Lender that, not later than 6:00 p.m. New York City time on November 19, 2008, shall have executed a counterpart of this Amendment No. 4 and delivered the same to the Administrative Agent, an amendment fee in such amount as shall have been previously disclosed to the Lenders by the Borrower.
+Amendment Fee
+4.03. . The Borrower shall have paid in full the costs, expenses and fees as set forth in Section 8.04(a) of the Credit Agreement and the Fee Letter dated as of November 10, 2008 among Citigroup Global Markets Inc. and the Borrower.
+Fee and Expenses
+4.04. . The Administrative Agent shall have received favorable opinions of counsel for the Borrower (which counsel shall be reasonably satisfactory to the Administrative Agent), in form and substance reasonably satisfactory to the Administrative Agent and covering such matters (including as to the enforceability of this Amendment No. 4 and the Credit Agreement as amended hereby, the valid organization, good standing and due authorization of the Borrower, and the lack of any conflicts of the Borrower (including with respect to any material agreements)) as the Administrative Agent shall reasonably request.
+Opinion of Counsel to Borrower
+4.05. . The Administrative Agent shall have received certified copies of the charter and by-laws of the Borrower and of all corporate authority for the Borrower (including, without limitation, board of director resolutions and evidence of the incumbency of officers for the Borrower) with respect to the execution, delivery and performance of this Amendment No. 4 and the Credit Agreement as amended hereby (and the Administrative Agent and each Lender may conclusively rely on such certificate until it receives notice in writing from the Borrower to the contrary).
+Corporate Documents
+Section 5. . Except as herein provided, the Credit Agreement shall remain unchanged and in full force and effect. This Amendment No. 4 may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument and any of the parties hereto may execute this Amendment No. 4 by signing any such counterpart. Delivery of a counterpart by electronic transmission shall be effective as delivery of a manually executed counterpart hereof. This Amendment No. 4 shall be governed by, and construed in accordance with, the law of the State of New York.
+Miscellaneous
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment No. 4 to be duly executed by their respective authorized officers as of the day and year first above written.
+
+
+Exhibit 10.13
+THIS CAPITAL SUPPORT AGREEMENT (this "Agreement") is made as of the 1st day of December, 2008, by and among Legg Mason, Inc., a Maryland corporation ("Legg Mason"), LM CAPITAL COMPANY, LLC, a Maryland limited liability company ("LMSub" and, together with Legg Mason, the "Support Providers"), and Liquid Reserves Portfolio, a series of Master Portfolio Trust (the "Fund").
+WITNESSETH:
+WHEREAS, the Master Portfolio Trust is an investment company registered with the Securities and Exchange Commission in accordance with the Investment Company Act of 1940 (as amended, the "1940 Act");
+WHEREAS, the Fund is a money market fund that seeks to maintain a stable net asset value using the Amortized Cost Method as defined in and in accordance with Rule 2a-7 promulgated under the 1940 Act (as amended, "Rule 2a-7");
+WHEREAS, the Fund holds notes and other instruments (the "Notes") issued by structured investment vehicles listed in Schedule A attached hereto (each, an "Issuer");
+WHEREAS, Rule 2a-7(c)(6)(ii) requires a money market fund to "dispose of [a portfolio] security as soon as practicable consistent with achieving an orderly disposition of the security, . . ., absent a finding by the board of directors that disposal of the portfolio security would not be in the best interests of the money market fund (which determination may take into account, among other factors, market conditions that could affect the orderly disposition of the portfolio security)" upon the occurrence of certain events;
+WHEREAS, one or more of the events specified in Rule 2a-7(c)(6)(ii) have occurred with respect to the Notes;
+WHEREAS, on March 4, 2008 Legg Mason obtained from Citibank, N.A. an irrevocable Standby Letter of Credit (the "Letter of Credit") for the benefit of the Fund in a maximum drawing amount of $150,000,000 and, in connection therewith, Legg Mason and the Fund entered into a Letter Agreement dated March 4, 2008 (the "Letter Agreement" and, collectively with the Letter of Credit, the "Initial Support Documents");
+WHEREAS, pursuant to the terms of the Initial Support Documents, the Letter of Credit can be drawn by the Fund in a number of circumstances, including, without limitation, if the Fund realizes certain losses in connection with certain of the Notes (the "Cheyne Notes") issued by one of the Issuers, Cheyne Finance LLC ("Cheyne");
+WHEREAS, after the date of the issuance of the Letter of Credit, a restructuring occurred in respect of the Cheyne Notes (the "Restructuring") and, in connection therewith, the Fund received certain Notes (the "Gryphon Notes") issued by one of the Issuers, Gryphon Funding Limited ("Gryphon");
+WHEREAS, in connection with the Restructuring, the Cheyne Notes were exchanged for the Gryphon Notes and pursuant to the terms thereof the holders of the Cheyne Notes received the Gryphon Notes and retained the Cheyne Notes at the value provided for at the time of the Restructuring;
+WHERES, the Initial Support Documents continue to support the Gryphon Notes as well as the Cheyne Notes;
+WHEREAS, a sale of the Notes under current market conditions is unlikely to result in the full recovery of the Fund's investments, and may cause the Fund to realize losses;
+WHEREAS, Legg Mason is the sole stockholder of the Fund's manager and LMSub is a subsidiary of Legg Mason;
+WHEREAS, the Board of Trustees of the Fund (the "Board") will consider this Agreement in determining whether disposal of the Notes currently would be in the best interest of the Fund:
+NOW, THEREFORE, in consideration of the above premises, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the Support Providers hereby agree as follows:
+1. . In addition to the terms defined elsewhere in the Agreement, the following terms have the meanings indicated:
+Definitions
+"Amortized Cost Value" means, with respect to any Eligible Note held by the Fund, the value of that Eligible Note as determined using the Amortized Cost Method in accordance with Rule 2a-7 on the relevant date. Solely for purposes of calculating the amount of the Loss under this Agreement, if an Eligible Note is received in an exchange or restructuring, the Amortized Cost Value of such Eligible Note shall be increased by the excess, if any, of the Amortized Cost Value of the predecessor Note as of the time immediately preceding the exchange over the sum of the Amortized Cost Value of the Eligible Note and any cash received in such exchange. For purposes of this Agreement, the aggregate Amortized Cost Value of the Notes as of November 24, 2008 is $398,554,786.42.
+(b) "Capital Contribution" means a cash contribution by either Support Provider to the Fund for which the Support Provider does not receive any shares or other consideration from the Fund.
+(c) "Contribution Event" means, with respect to any Eligible Note held by any Fund, any of the following occurrences:
+(i) any sale of the Eligible Note by the Fund for cash in an amount, after deducting any commission or similar transaction costs, less than the Amortized Cost Value of the Eligible Note sold as of the date of settlement;
+(ii) receipt of final payment on the Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+(iii) issuance of orders by a court having jurisdiction over the matter discharging the Issuer from liability for the Eligible Note and providing for payments on that Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received; and
+(iv) receipt of new securities that are "Eligible Securities," as
+defined in paragraph (a)(10) of Rule 2a-7, in exchange for or replacement of Eligible Notes if the Amortized Cost Value of such new securities is less than the Amortized Cost Value of such Eligible Notes on the date of exchange or replacement.
+(d) "Eligible Notes" mean the Notes held by the Fund as portfolio securities on the date hereof or any securities or other instruments received in exchange for, or as a replacement of, the Notes or any Eligible Notes as a result of an exchange offer, debt restructuring, reorganization or similar transaction pursuant to which the Notes or Eligible Notes are exchanged for, or replaced with, new securities of the Issuer or a third party, other than Notes or securities which are or become "Eligible Securities" as defined in paragraph (a)(10) of Rule 2a-7.
+(e) "LC Contribution" means any amounts received by the Fund pursuant to the Initial Support Documents.
+(f) "Loss" incurred as a result of a Contribution Event means the excess of the Amortized Cost Value of the Eligible Notes subject to a Contribution Event over the amount received by the Fund in connection with such Contribution Event.
+(g) "Maximum Contribution Amount" means $135,000,000.
+(h) "Segregated Account" means an account established by LMSub for the benefit of the Fund at a bank which is a qualified custodian under the 1940 Act, which may be an interest-bearing account and/or which account's assets may be invested in money market instruments. On any business day during the term of the Agreement the Segregated Account shall hold cash or cash equivalent securities in an amount equal to the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund. The assets of the Segregated
+Account shall be available to the Fund by means of ACH transfer initiated by the Fund without the requirement of further action or consent by LMSub.
+2. . The Fund agrees that:
+Covenants of the Fund
+(a) To the extent consistent with the Fund's interest, the Board shall consult with the Support Providers with respect to all decisions regarding each Eligible Note (including, but not limited to, any decision to sell the Eligible Note or to forgo the right to any payment) prior to the occurrence of a Contribution Event with respect to that Eligible Note. Nothing in this Agreement shall be construed to cause the delegation by the Board to any person any authority which is not permitted to be delegated under Rule 2a-7.
+(b) The Fund will retain any Capital Contribution and not include the Capital Contribution in any dividend or other distribution to the Fund's shareholders. For the avoidance of doubt, for purposes of this subparagraph, the redemption of the Fund's shares shall not constitute a "distribution" to shareholders.
+(c) Prior to the Fund taking any action or receiving any payment that would result in a Contribution Event under clauses 1(c)(i) or (ii) above, the Fund will provide the Support Providers with no less than one business day's notice that the Fund intends to take such action or expects to receive such payment, and will sell to either of the Support Providers, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) within one business day of the aforesaid notice by the Fund), all of the Eligible Notes that are the subject of the intended action at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes. The Fund will also sell to either of the Support Providers at any time within five business days before the date on which the Fund is required to sell Eligible Notes under clause (d) below, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) hereof, to be received by the Fund at least one business day prior to the date on which the Fund is required to sell the Eligible Notes under clause (d) below), all Eligible Notes that are outstanding and held by the Fund at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes.
+(d) The Fund will promptly sell the Eligible Notes, to the extent they otherwise continue to be held by the Fund, on the business day immediately prior to the date set forth in subparagraph 3(c)(iii).
+3. .
+Contributions to Fund
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount
+equal to the lower of (i) the Loss incurred as a result of such Contribution Event , to the extent not already taken into account in the calculation of Loss, all LC Contributions received by the Fund or which the Fund is entitled to receive under the Letter of Credit, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement.
+minus
+(b) The Support Providers shall make the Capital Contribution to the Fund not later than one business day after the occurrence of a Contribution Event, by 12:00 noon, Eastern Time. Each Capital Contribution made hereunder shall be made in immediately available funds, without deduction, set-off or counterclaim, to the Fund.
+(c) The obligation of the Support Providers to make Capital Contributions pursuant to this Agreement shall terminate upon the earlier of (such occurrence, the "Termination Event"): (i) the Support Providers have made Capital Contributions equal to the Maximum Contribution Amount, (ii) the Fund no longer holds Eligible Notes, or (iii) 5:00 p.m. Eastern Time on March 3, 2009. If an event constitutes both a Termination Event and a Contribution Event, then the Termination Event will not be deemed to have occurred until the Support Providers have made any Capital Contributions required under this Agreement with respect to such Contribution Event.
+(d) The obligations of the Support Providers to make Capital Contributions hereunder shall be joint and several. Any required Capital Contribution hereunder may be made by either Support Provider, in the sole discretion of the Support Providers, , nothing contained herein shall in any manner limit the Fund's rights to receive all amounts due hereunder, including, without limitation, its right to draw funds from the Segregated Account as provided for herein.
+provided, however
+(e) If the Support Providers make a Capital Contribution when due, then the amount that LMSub is obligated to maintain in the Segregated Account shall be reduced to give effect to such Capital Contribution. In the event that the Support Providers do not make a Capital Contribution when due, the Fund will draw funds from the Segregated Account by 4:00 p.m. on the day that such Capital Contribution was required to have been made and in an amount equal to the Capital Contribution that is due. Any amount withdrawn from the Segregated Account shall be deemed to be a Capital Contribution made hereunder by the Support Providers.
+4. . The Support Providers acknowledge and consent to:
+Reliance by the Fund and the Board
+(a) The Board's reliance on the Support Providers' obligations under this Agreement in making any determination required under Rule 2a-7;
+(b) For purposes of calculating the Fund's current mark-to-market net asset value for purposes of Rule 2a-7, the inclusion of the Capital Contribution that would be
+payable under this Agreement if all the Eligible Notes were sold on the date of such calculation for the market value used to calculate such net asset value;
+(c) The inclusion of the Capital Contribution that would be payable to the Fund under this Agreement if all of the Eligible Notes were sold on the date of such net asset value calculation in the Fund's audited or unaudited financial statements, to the extent required by generally accepted accounting principles; and
+(d) The Support Providers' obligations under this Agreement shall be supported by the Segregated Account as defined in Section 1(h) of this Agreement.
+5. . The Support Providers hereby represent and warrant that:
+Representations and Warranties
+(a) They are duly organized and validly existing under the laws of the State of Maryland and are in good standing under such laws;
+(b) They have taken all necessary action to authorize the execution, delivery and performance of this Agreement; and
+(c) Their obligations under this Agreement constitute their legal, valid and binding obligations, enforceable in accordance with its terms subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law).
+6. .
+General
+(a) None of the parties may assign its rights under this Agreement to any person or entity, in whole or in part, without the prior written consent of the other parties.
+(b) No waiver of any provision hereof or of any right or remedy hereunder shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. No delay in exercising, no course of dealing with respect to or no partial exercise of any right or remedy hereunder shall constitute a waiver of any other right or remedy, or future exercise thereof.
+(c) If any provision of this Agreement is determined to be invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted, and the balance of this Agreement shall remain enforceable.
+(d) Subject to the next sentence, all notices shall be in writing and shall be deemed to be delivered when received by certified mail, postage prepaid, return receipt requested, or when sent by facsimile or e-mail confirmed by call back. All notices shall
+be directed to the address set forth under the party's signature or to such other address as either party may, form time to time, designate by notice to the other party.
+(e) No amendment, change, waiver or discharge hereof shall be valid unless in writing and signed by the Support Providers and the Fund, and, to the extent of any change to the date set forth in Section 3(c)(iii) hereof, the approval of the Staff of the Division of Investment Management of the Securities and Exchange Commission (the "Staff"). In addition, the parties hereto hereby agree to provide the Staff with prompt written notice of any amendment, change or waiver to this Agreement which does not otherwise require the Staff's approval.
+(f) This Agreement shall be governed in all respects by the laws of the State of Maryland without regard to its conflict of laws provisions.
+(g) This Agreement constitutes the complete and exclusive statement of all mutual understanding between the parties with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understanding, oral or written.
+(h) This Agreement is solely for the benefit of the Fund and the Support Providers, and no other person shall acquire or have any rights under or by virtue of this Agreement.
+ 
+IN WITNESS WHEREOF, the Support Providers and the Fund have caused this Capital Support Agreement to be duly executed on the date first written above.
+ 
+LEGG MASON, INC.
+Name: Charles J. Daley, Jr. Title: Sr. VP, CFO and Treasurer
+/s/ Charles J. Daley, Jr.
+ADDRESS FOR NOTICES:
+100 Light Street Baltimore, Maryland 21202
+LM CAPITAL COMPANY, LLC
+Name: Charles J. Daley, Jr. Title: President and Treasurer
+/s/ Charles J. Daley, Jr.
+ADDRESS FOR NOTICES:
+100 Light Street Baltimore, Maryland 21202
+LIQUID RESERVES PORTFOLIO, A SERIES OF MASTERPORTFOLIO TRUST
+Name: Frances Guggino Title: CFO and Treasurer
+/s/ Frances Guggino
+ADDRESS FOR NOTICES:
+100 Light Street Baltimore, Maryland 21202
+*While the Cheyne Finance LLC notes were restructured in to the Gryphon Funding LTD notes, and therefore the Gryphon Funding LTD notes represent replacement notes for the original Cheyne Finance LLC notes, the Fund also continues to hold the Cheyne Finance LLC notes.  Cheyne Finance LLC is effectively a shell entity with nominal assets.
+
+
+Exhibit 10.17
+ 
+This Master Amendment No. 2 to Capital Support Agreements is dated as of December 1, 2008 (the ""), by and among , a Maryland corporation (""), , a Maryland limited liability company (""), , a Maryland limited liability company (""), , a Maryland limited liability company (""), , a Maryland limited liability company (""), , a Maryland limited liability company ("" and, collectively with Legg Mason, LMC, LMCSI, LMCSII and LMCSIII, the "" and each, individually, a "") and , a series of Master Portfolio Trust (the ""), amending certain provisions of (a) the Capital Support Agreement dated as of March 31, 2008 by and among Leg g Mason, LMC and the Fund (as amended and in effect from time to time, the ""); (b) the Capital Support Agreement dated as of March 31, 2008 by and among Legg Mason, LMCSI and the Fund (as amended and in effect from time to time, the ""); (c) the Capital Support Agreement dated as of March 31, 2008 by and among Legg Mason, LMCSII and the Fund (as amended and in effect from time to time, the ""); (d) the Capital Support Agreement dated as of March 31, 2008 by and among Legg Mason, LMCSIII and the Fund (as amended and in effect from time to time, the ""); and (e) the Capital Support Agreement dated as of March 31, 2008 by and among Legg Mason, LMCSIV and the Fund (as amended and in effect from time to time, the "" and, collectively with the LMC CSA, the LMCSI CSA, the LMCSII CSA and the LMCSIII CSA, the "" and each, individually, a "").
+Amendment
+LEGG MASON, INC.
+Legg Mason
+LM CAPITAL COMPANY, LLC
+LMC
+LM CAPITAL SUPPORT I, LLC
+LMCSI
+LM CAPITAL SUPPORT II, LLC
+LMCSII
+LM CAPITAL SUPPORT III, LLC
+LMCSIII
+LM CAPITAL SUPPORT IV, LLC
+LMCSIV
+Support Providers
+Support Provider
+LIQUID RESERVES PORTFOLIO
+Fund
+LMC CSA
+LMCSI CSA
+LMCSII CSA
+LMCSIII CSA
+LMCSIV CSA
+Capital Support Agreements
+Capital Support Agreement
+, each Support Provider and the Fund have agreed to modify certain terms and conditions of each Capital Support Agreement to which they are a party as specifically set forth in this Amendment;
+WHEREAS
+, in consideration of the premises and the mutual agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+NOW, THEREFORE
+Legg Mason, LMC and the Fund hereby agree that the LMC CSA is hereby amended as follows:
+Section 1. .
+Amendment to LMC CSA
+(a) the definition of "Maximum Contribution Amount" set forth in Section 1(f) of the LMC CSA is hereby amended by deleting such definition in its entirety and restating it as follows:
+"Maximum Contribution Amount" means $500,000,000.
+(b) Section 3(a) of the LMC CSA is hereby amended by deleting Section 3(a) in its entirety and restating it as follows:
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) seventy 76.92% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement. The parties hereto acknowledge that the Related CSA of the Related LMCS Support Providers provides for a Capital Contribution to be made by the Related LMCS Support Providers under its Related CSA in an amount equal to the lower of (i) 15.39% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMCS Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMCS Support Provider to the Fund under that Related CSA, and the Related CSA of the Related LMCS2 Support Providers provides for a Capital Contribution to be made by the Related LMCS2 Support Providers thereunder in an amount equal to the lower of (i) 7.69% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMCS2 Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMCS2 Support Provider to the Fund under that Related CSA.
+Legg Mason, LMCSI and the Fund hereby agree that Section 3(a) of the LMCSI CSA is hereby amended by deleting Section 3(a) in its entirety and restating it as follows:
+Section 2. .
+Amendment to LMCSI CSA
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) 15.39% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement. The parties hereto acknowledge that the Related CSA of the Related LMC Support Providers provides for a Capital Contribution to be made by the Related LMC Support Providers under its Related CSA in an amount equal to the lower of (i) 76.92% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMC Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMC Support Provider to the Fund under that Related CSA, and the Related CSA of the Related
+LMCS2 Support Providers provides for a Capital Contribution to be made by the Related LMCS2 Support Providers thereunder in an amount equal to the lower of (i) 7.69% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMCS2 Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMCS2 Support Provider to the Fund under that Related CSA.
+Legg Mason, LMCSII and the Fund hereby agree that Section 3(a) of the LMCSII CSA is hereby amended by deleting Section 3(a) in its entirety and restating it as follows:
+Section 3. .
+Amendment to LMCSII CSA
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) 7.69% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement. The parties hereto acknowledge that the Related CSA of the Related LMC Support Providers provides for a Capital Contribution to be made by the Related LMC Support Providers under its Related CSA in an amount equal to the lower of (i) 76.92% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMC Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMC Support Provider to the Fund under that Related CSA, and the Related CSA of the Related L MCS Support Providers provides for a Capital Contribution to be made by the Related LMCS Support Providers thereunder in an amount equal to the lower of (i) 15.39% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA of the Related LMCS Support Providers reduced by the amount of any Capital Contributions previously made by either Related LMCS Support Provider to the Fund under that Related CSA.
+Legg Mason, LMCSIII and the Fund hereby agree that the LMCSIII CSA is hereby amended as follows:
+Section 4. .
+Amendment to LMCSIII CSA
+(a) the definition of "Maximum Contribution Amount" set forth in Section 1(f) of the LMCSIII CSA is hereby amended by deleting such definition in its entirety and restating it as follows:
+"Maximum Contribution Amount" means $200,000,000.
+(b) Section 3(a) of the LMCSIII CSA is hereby amended by deleting Section 3(a) in its entirety and restating it as follows:
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) 72.73% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement. The parties hereto acknowledge that the Related CSA provides for a Capital Contribution to be made by the Related Support Providers under the Related CSA in an amount equal to the lower of (i) 27.27% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA reduced by the amount of any Capital Contributions previously made by either Related Support Provider to the Fund under the Related CSA.
+Legg Mason, LMCSIV and the Fund hereby agree that Section 3(a) of the LMCSIV CSA is hereby amended by deleting Section 3(a) in its entirety and restating it as follows:
+Section 5. .
+Amendment to LMCSIV CSA
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) 27.27% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement. The parties hereto acknowledge that the Related CSA provides for a Capital Contribution to be made by the Related Support Providers under the Related CSA in an amount equal to the lower of (i) 72.73% of the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount provided for in the Related CSA reduced by the amount of any Capital Contributions previously made by either Related Support Provider to the Fund under the Related CSA.
+This Amendment shall not become effective until each party hereto receives a counterpart of this Amendment, executed by each Support Provider and the Fund. In addition, the parties hereto hereby agree to provide the Staff of the Division of Investment Management of the Securities and Exchange Commission with prompt written notice of this Amendment pursuant to, and in accordance with, Section 6(e) of each Credit Support Agreement.
+Section 6. .
+Conditions to Effectiveness
+Section 7.
+Representations and Warranties
+.
+Each Support Provider hereby represents that, on and as of the date hereof, each of the representations and warranties made by it in Section 5 of its applicable Credit Support Agreement remain true as of the date hereof, , that all references therein to the "Agreement" shall refer to such Credit Support Agreement as amended hereby.
+provided
+. Except as expressly amended hereby, each Credit Support Agreement and all documents, instruments and agreements related thereto are hereby ratified and confirmed in all respects by the applicable parties thereto and shall continue in full force and effect. Each Credit Support Agreement and this Amendment shall be read and construed as a single agreement. All references in each Credit Support Agreement or any related agreement or instrument to such Credit Support Agreement shall hereafter refer to such Credit Support Agreement as amended hereby.
+Section 8. ,
+Ratification
+Etc
+Section 9. .
+No Waiver
+Nothing contained herein shall constitute a waiver of, impair or otherwise affect any obligation of any Support Provider or any rights of the Fund consequent thereon.
+. This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
+Section 10.
+Counterparts
+.
+Section 11. .
+Governing Law
+THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF MARYLAND (WITHOUT REFERENCE TO CONFLICT OF LAWS)
+, the parties hereto have executed this Amendment as a document under seal as of the date first above written.
+IN WITNESS WHEREOF
+ 
+LEGG MASON, INC.
+By: Name: Charles J. Daley, Jr. Title: Sr. VP, CFO and Treasurer
+/s/ Charles J. Daley, Jr.
+ 
+LM CAPITAL COMPANY, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LM CAPITAL SUPPORT I, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LM CAPITAL SUPPORT II, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LM CAPITAL SUPPORT III, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LM CAPITAL SUPPORT IV, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LIQUID RESERVES PORTFOLIO, A SERIES OF MASTER PORTFOLIO TRUST
+By: Name: Frances Guggino
+/s/ Frances Guggino
+Title: CFO and Treasurer
+
+
+Exhibit 10.20
+THIS CAPITAL SUPPORT AGREEMENT (this "Agreement") is made as of the 30th day of June, 2008, by and among Legg Mason, Inc., a Maryland corporation ("Legg Mason"), LM Capital Support V, LLC, a Maryland limited liability company ("LMSub" and, together with Legg Mason, the "Support Providers"), and Western Asset Money Market Fund, a series of Legg Mason Partners Money Market Trust (the "Fund").
+WITNESSETH:
+WHEREAS, Legg Mason Partners Money Market Trust is an investment company registered with the Securities and Exchange Commission in accordance with the Investment Company Act of 1940 (as amended, the "1940 Act");
+WHEREAS, the Fund is a money market fund that seeks to maintain a stable net asset value using the Amortized Cost Method as defined in and in accordance with Rule 2a-7 promulgated under the 1940 Act (as amended, "Rule 2a-7");
+WHEREAS, the Fund holds notes and other instruments (the "Notes") issued by structured investment vehicles listed in Schedule A attached hereto (each, an "Issuer");
+WHEREAS, Rule 2a-7(c)(6)(ii) requires a money market fund to "dispose of [a portfolio] security as soon as practicable consistent with achieving an orderly disposition of the security, . . ., absent a finding by the board of directors that disposal of the portfolio security would not be in the best interests of the money market fund (which determination may take into account, among other factors, market conditions that could affect the orderly disposition of the portfolio security)" upon the occurrence of certain events;
+WHEREAS, one or more of the events specified in Rule 2a-7(c)(6)(ii) have occurred with respect to the Notes;
+WHEREAS, a sale of the Notes under current market conditions is unlikely to result in the full recovery of the Fund's investments, and may cause the Fund to realize losses;
+WHEREAS, Legg Mason is the sole stockholder of the Fund's manager and LMSub is a subsidiary of Legg Mason;
+WHEREAS, the Board of Trustees of the Fund (the "Board") will consider this Agreement in determining whether disposal of the Notes currently would be in the best interest of the Fund:
+NOW, THEREFORE, in consideration of the above premises, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the Support Providers hereby agree as follows:
+1. . In addition to the terms defined elsewhere in the Agreement, the following terms have the meanings indicated:
+Definitions
+"Amortized Cost Value" means, with respect to any Eligible Note held by the Fund, the value of that Eligible Note as determined using the Amortized Cost Method in accordance with Rule 2a-7 on the relevant date. Solely for purposes of calculating the amount of the Loss under this Agreement, if an Eligible Note is received in an exchange or restructuring, the Amortized Cost Value of such Eligible Note shall be increased by the excess, if any, of the Amortized Cost Value of the predecessor Note as of the time immediately preceding the exchange over the sum of the Amortized Cost Value of the Eligible Note and any cash received in such exchange.
+(b) "Capital Contribution" means a cash contribution by either Support Provider to the Fund for which the Support Provider does not receive any shares or other consideration from the Fund.
+(c) "Contribution Event" means, with respect to any Eligible Note held by any Fund, any of the following occurrences:
+(i) any sale of the Eligible Note by the Fund for cash in an amount, after deducting any commission or similar transaction costs, less than the Amortized Cost Value of the Eligible Note sold as of the date of settlement;
+(ii) receipt of final payment on the Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+(iii) issuance of orders by a court having jurisdiction over the matter discharging the Issuer from liability for the Eligible Note and providing for payments on that Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received; and
+(iv) receipt of new securities that are "Eligible Securities," as
+defined in paragraph (a)(10) of Rule 2a-7, in exchange for or replacement of Eligible Notes if the Amortized Cost Value of such new securities is less than the Amortized Cost Value of such Eligible Notes on the date of exchange or replacement.
+(d) "Eligible Notes" mean the Notes held by the Fund as portfolio securities on the date hereof or any securities or other instruments received in exchange for, or as a replacement of, the Notes or any Eligible Notes as a result of an exchange offer, debt restructuring, reorganization or similar transaction pursuant to which the Notes or Eligible Notes are exchanged for, or replaced with, new securities of the Issuer or a third party, other than Notes or securities which are or become "Eligible Securities" as defined in paragraph (a)(10) of Rule 2a-7.
+(e) "Loss" incurred as a result of a Contribution Event means the excess of the Amortized Cost Value of the Eligible Notes subject to a Contribution Event over the amount received by the Fund in connection with such Contribution Event.
+(f) "Maximum Contribution Amount" means $20,000,000.
+(g) "Segregated Account" means an account established by LMSub for the benefit of the Fund at a bank which is a qualified custodian under the 1940 Act, which may be an interest-bearing account and/or which account's assets may be invested in money market instruments. On any business day during the term of the Agreement the Segregated Account shall hold cash or cash equivalent securities in an amount equal to the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund. The assets of the Segregated Account shall be available to the Fund by means of ACH transfer initiated by the Fund without the requirement of further action or consent by LMSub.
+2. . The Fund agrees that:
+Covenants of the Fund
+(a) To the extent consistent with the Fund's interest, the Board shall consult with the Support Providers with respect to all decisions regarding each Eligible Note (including, but not limited to, any decision to sell the Eligible Note or to forgo the right to any payment) prior to the occurrence of a Contribution Event with respect to that Eligible Note. Nothing in this Agreement shall be construed to cause the delegation by the Board to any person any authority which is not permitted to be delegated under Rule 2a-7.
+(b) The Fund will retain any Capital Contribution and not include the Capital Contribution in any dividend or other distribution to the Fund's shareholders. For the avoidance of doubt, for purposes of this subparagraph, the redemption of the Fund's shares shall not constitute a "distribution" to shareholders.
+(c) Prior to the Fund taking any action or receiving any payment that would result in a Contribution Event under clauses 1(c)(i) or (ii) above, the Fund will provide the Support Providers with no less than one business day's notice that the Fund intends to take such action or expects to receive such payment, and will sell to either of the Support Providers, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) within one business day of the aforesaid notice by the
+Fund), all of the Eligible Notes that are the subject of the intended action at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes. The Fund will also sell to either of the Support Providers at any time within five business days before the date on which the Fund is required to sell Eligible Notes under clause (d) below, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) hereof, to be received by the Fund at least one business day prior to the date on which the Fund is required to sell the Eligible Notes under clause (d) below), all Eligible Notes that are outstanding and held by the Fund at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes.
+(d) The Fund will promptly sell the Eligible Notes, to the extent they otherwise continue to be held by the Fund, on the business day immediately prior to the date set forth in subparagraph 3(c)(iii).
+3. .
+Contributions to Fund
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement.
+(b) The Support Providers shall make the Capital Contribution to the Fund not later than one business day after the occurrence of a Contribution Event, by 12:00 noon, Eastern Time. Each Capital Contribution made hereunder shall be made in immediately available funds, without deduction, set-off or counterclaim, to the Fund.
+(c) The obligation of the Support Providers to make Capital Contributions pursuant to this Agreement shall terminate upon the earlier of (such occurrence, the "Termination Event"): (i) the Support Providers have made Capital Contributions equal to the Maximum Contribution Amount, (ii) the Fund no longer holds Eligible Notes, or (iii) 5:00 p.m. Eastern Time on March 31, 2009. If an event constitutes both a Termination Event and a Contribution Event, then the Termination Event will not be deemed to have occurred until the Support Providers have made any Capital Contributions required under this Agreement with respect to such Contribution Event.
+(d) The obligations of the Support Providers to make Capital Contributions hereunder shall be joint and several. Any required Capital Contribution hereunder may be made by either Support Provider, in the sole discretion of the Support Providers, , nothing contained herein shall in any manner limit the Fund's rights to receive all amounts due hereunder, including, without limitation, its right to draw funds from the Segregated Account as provided for herein.
+provided, however
+(e) If the Support Providers make a Capital Contribution when due, then the amount that LMSub is obligated to maintain in the Segregated Account shall be reduced to give effect to such Capital Contribution. In the event that the Support Providers do not make a Capital Contribution when due, the Fund will draw funds from the Segregated Account by 4:00 p.m. on the day that such Capital Contribution was required to have been made and in an amount equal to the Capital Contribution that is due. Any amount withdrawn from the Segregated Account shall be deemed to be a Capital Contribution made hereunder by the Support Providers.
+4. . The Support Providers acknowledge and consent to:
+Reliance by the Fund and the Board
+(a) The Board's reliance on the Support Providers' obligations under this Agreement in making any determination required under Rule 2a-7;
+(b) For purposes of calculating the Fund's current mark-to-market net asset value for purposes of Rule 2a-7, the inclusion of the Capital Contribution that would be payable under this Agreement if all the Eligible Notes were sold on the date of such calculation for the market value used to calculate such net asset value;
+(c) The inclusion of the Capital Contribution that would be payable to the Fund under this Agreement if all of the Eligible Notes were sold on the date of such net asset value calculation in the Fund's audited or unaudited financial statements, to the extent required by generally accepted accounting principles; and
+(d) The Support Providers' obligations under this Agreement shall be supported by the Segregated Account as defined in Section 1(g) of this Agreement.
+5. . The Support Providers hereby represent and warrant that:
+Representations and Warranties
+(a) They are duly organized and validly existing under the laws of the State of Maryland and are in good standing under such laws;
+(b) They have taken all necessary action to authorize the execution, delivery and performance of this Agreement; and
+(c) Their obligations under this Agreement constitute their legal, valid and binding obligations, enforceable in accordance with its terms subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law).
+6. .
+General
+(a) None of the parties may assign its rights under this Agreement to any person or entity, in whole or in part, without the prior written consent of the other parties.
+(b) No waiver of any provision hereof or of any right or remedy hereunder shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. No delay in exercising, no course of dealing with respect to or no partial exercise of any right or remedy hereunder shall constitute a waiver of any other right or remedy, or future exercise thereof.
+(c) If any provision of this Agreement is determined to be invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted, and the balance of this Agreement shall remain enforceable.
+(d) Subject to the next sentence, all notices shall be in writing and shall be deemed to be delivered when received by certified mail, postage prepaid, return receipt requested, or when sent by facsimile or e-mail confirmed by call back. All notices shall be directed to the address set forth under the party's signature or to such other address as either party may, form time to time, designate by notice to the other party.
+(e) No amendment, change, waiver or discharge hereof shall be valid unless in writing and signed by the Support Providers and the Fund, and, to the extent of any change to the date set forth in Section 3(c)(iii) hereof, the approval of the Staff of the Division of Investment Management of the Securities and Exchange Commission (the "Staff"). In addition, the parties hereto hereby agree to provide the Staff with prompt written notice of any amendment, change or waiver to this Agreement which does not otherwise require the Staff's approval.
+(f) This Agreement shall be governed in all respects by the laws of the State of Maryland without regard to its conflict of laws provisions.
+(g) This Agreement constitutes the complete and exclusive statement of all mutual understanding between the parties with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understanding, oral or written.
+(h) This Agreement is solely for the benefit of the Fund and the Support Providers, and no other person shall acquire or have any rights under or by virtue of this Agreement.
+ 
+IN WITNESS WHEREOF, the Support Providers and the Fund have caused this Capital Support Agreement to be duly executed this 30th day of June, 2008.
+ 
+ 
+LEGG MASON, INC.
+By:
+/s/ Charles J. Daley, Jr.
+Name: Charles J. Daley, Jr.
+Title: Sr. VP, CFO and Treasurer
+LM CAPITAL SUPPORT V, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+WESTERN ASSET MONEY MARKET FUND, A SERIES OF LEGG MASON PARTNERS MONEY MARKET TRUST
+By:
+/s/ R. Jay Gerken
+Name: R. Jay GerkenTitle: Director
+
+
+Exhibit 10.21
+ 
+This Master Amendment No. 1 to Capital Support Agreements is dated as of December 1, 2008 (the ""), by and among , a Maryland corporation (""), , a Maryland limited liability company ("" and, collectively with Legg Mason, the "" and each, individually, a "") and , a series of Legg Mason Partners Money Market Trust (the ""), amending certain provisions of (a) the Capital Support Agreement dated as of June 30, 2008 by and among Legg Mason, LMCSV and the Fund (as amended and in effect from time to time, the ""); (b) the Capital Support Agreement dated as of June 30, 2008 by and among Legg Mason, LMCSV and the Fund (as amended and in effect from time to time, the ""); and (c) the Capital Support Agreement dated as of June 30, 2008 by and among Legg Mason, LMCSV an d the Fund (as amended and in effect from time to time, the ""; and, collectively with the Cheyne CSA and the Ottimo CSA, the "" and each, individually, a "").
+Amendment
+LEGG MASON, INC.
+Legg Mason
+LM CAPITAL SUPPORT V, LLC
+LMCSV
+Support Providers
+Support Provider
+WESTERN ASSET MONEY MARKET FUND
+Fund
+Cheyne CSA
+Ottimo CSA
+Axon CSA
+Capital Support Agreements
+Capital Support Agreement
+, each Support Provider and the Fund have agreed to modify certain terms and conditions of each Capital Support Agreement to which they are a party as specifically set forth in this Amendment;
+WHEREAS
+, in consideration of the premises and the mutual agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+NOW, THEREFORE
+Legg Mason, LMCSV and the Fund hereby agree that Section 1(f) of the Cheyne CSA is hereby amended by deleting Section 1(f) in its entirety and restating it as follows:
+Section 1. .
+Amendment to Cheyne CSA
+"Maximum Contribution Amount" means $30,000,000.
+Legg Mason, LMCSV and the Fund hereby agree that Section 1(f) of the Ottimo CSA is hereby amended by deleting Section 1(f) in its entirety and restating it as follows:
+Section 2. .
+Amendment to Ottimo CSA
+"Maximum Contribution Amount" means $70,000,000.
+Legg Mason, LMCSV and the Fund hereby agree that Section 1(f) of the Axon CSA is hereby amended by deleting Section 1(f) in its entirety and restating it as follows:
+Section 3. .
+Amendment to Axon CSA
+"Maximum Contribution Amount" means $185,000,000.
+This Amendment shall not become effective until each party hereto receives a counterpart of this Amendment, executed by each Support Provider and the Fund. In addition, the parties hereto hereby agree to provide the Staff of the Division of Investment Management of the Securities and Exchange Commission with prompt written notice of this Amendment pursuant to, and in accordance with, Section 6(e) of each Credit Support Agreement.
+Section 4. .
+Conditions to Effectiveness
+Section 5.
+Representations and Warranties
+.
+Each Support Provider hereby represents that, on and as of the date hereof, each of the representations and warranties made by it in Section 5 of its applicable Credit Support Agreement remain true as of the date hereof, , that all references therein to the "Agreement" shall refer to such Credit Support Agreement as amended hereby.
+provided
+. Except as expressly amended hereby, each Credit Support Agreement and all documents, instruments and agreements related thereto are hereby ratified and confirmed in all respects by the applicable parties thereto and shall continue in full force and effect. Each Credit Support Agreement and this Amendment shall be read and construed as a single agreement. All references in each Credit Support Agreement or any related agreement or instrument to such Credit Support Agreement shall hereafter refer to such Credit Support Agreement as amended hereby.
+Section 6. ,
+Ratification
+Etc
+Section 7. .
+No Waiver
+Nothing contained herein shall constitute a waiver of, impair or otherwise affect any obligation of any Support Provider or any rights of the Fund consequent thereon.
+. This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
+Section 8.
+Counterparts
+.
+Section 9. .
+Governing Law
+THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF MARYLAND (WITHOUT REFERENCE TO CONFLICT OF LAWS)
+ 
+, the parties hereto have executed this Amendment as a document under seal as of the date first above written.
+IN WITNESS WHEREOF
+ 
+LEGG MASON, INC.
+By:
+/s/ Charles J. Daley, Jr.
+Name: Charles J. Daley, Jr.
+Title: Sr. VP, CFO and Treasurer
+LM CAPITAL SUPPORT V, LLC
+By: Name: Charles J. Daley, Jr.
+/s/ Charles J. Daley, Jr.
+Title: President and Treasurer
+WESTERN ASSET MONEY MARKET FUND, A SERIES OF LEGG MASON PARTNERS MONEY MARKET TRUST
+By:
+/s/ Frances Guggino
+Name: Frances GugginoTitle: CFO and Treasurer
+
+
+Exhibit 10.22
+THIS CAPITAL SUPPORT AGREEMENT (this "Agreement") is made as of the 30th day of June, 2008, by and among Legg Mason, Inc., a Maryland corporation ("Legg Mason"), LM Capital Support V, LLC, a Maryland limited liability company ("LMSub" and, together with Legg Mason, the "Support Providers"), and Western Asset Institutional Money Market Fund, a series of Legg Mason Partners Institutional Trust (the "Fund").
+WITNESSETH:
+WHEREAS, Legg Mason Partners Institutional Trust is an investment company registered with the Securities and Exchange Commission in accordance with the Investment Company Act of 1940 (as amended, the "1940 Act");
+WHEREAS, the Fund is a money market fund that seeks to maintain a stable net asset value using the Amortized Cost Method as defined in and in accordance with Rule 2a-7 promulgated under the 1940 Act (as amended, "Rule 2a-7");
+WHEREAS, the Fund holds notes and other instruments (the "Notes") issued by structured investment vehicles listed in Schedule A attached hereto (each, an "Issuer");
+WHEREAS, Rule 2a-7(c)(6)(ii) requires a money market fund to "dispose of [a portfolio] security as soon as practicable consistent with achieving an orderly disposition of the security, . . ., absent a finding by the board of directors that disposal of the portfolio security would not be in the best interests of the money market fund (which determination may take into account, among other factors, market conditions that could affect the orderly disposition of the portfolio security)" upon the occurrence of certain events;
+WHEREAS, one or more of the events specified in Rule 2a-7(c)(6)(ii) have occurred with respect to the Notes;
+WHEREAS, a sale of the Notes under current market conditions is unlikely to result in the full recovery of the Fund's investments, and may cause the Fund to realize losses;
+WHEREAS, Legg Mason is the sole stockholder of the Fund's manager and LMSub is a subsidiary of Legg Mason;
+WHEREAS, the Board of Trustees of the Fund (the "Board") will consider this Agreement in determining whether disposal of the Notes currently would be in the best interest of the Fund:
+NOW, THEREFORE, in consideration of the above premises, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the Support Providers hereby agree as follows:
+1. . In addition to the terms defined elsewhere in the Agreement, the following terms have the meanings indicated:
+Definitions
+"Amortized Cost Value" means, with respect to any Eligible Note held by the Fund, the value of that Eligible Note as determined using the Amortized Cost Method in accordance with Rule 2a-7 on the relevant date. Solely for purposes of calculating the amount of the Loss under this Agreement, if an Eligible Note is received in an exchange or restructuring, the Amortized Cost Value of such Eligible Note shall be increased by the excess, if any, of the Amortized Cost Value of the predecessor Note as of the time immediately preceding the exchange over the sum of the Amortized Cost Value of the Eligible Note and any cash received in such exchange.
+(b) "Capital Contribution" means a cash contribution by either Support Provider to the Fund for which the Support Provider does not receive any shares or other consideration from the Fund.
+(c) "Contribution Event" means, with respect to any Eligible Note held by any Fund, any of the following occurrences:
+(i) any sale of the Eligible Note by the Fund for cash in an amount, after deducting any commission or similar transaction costs, less than the Amortized Cost Value of the Eligible Note sold as of the date of settlement;
+(ii) receipt of final payment on the Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+(iii) issuance of orders by a court having jurisdiction over the matter discharging the Issuer from liability for the Eligible Note and providing for payments on that Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received; and
+(iv) receipt of new securities that are "Eligible Securities," as defined in paragraph (a)(10) of Rule 2a-7, in exchange for or replacement of Eligible Notes if the Amortized Cost Value of such new securities is less than the Amortized Cost Value of such Eligible Notes on the date of exchange or replacement.
+(d) "Eligible Notes" mean the Notes held by the Fund as portfolio securities on the date hereof or any securities or other instruments received in exchange for, or as a replacement of, the Notes or any Eligible Notes as a result of an exchange offer, debt restructuring, reorganization or similar transaction pursuant to which the Notes or Eligible Notes are exchanged for, or replaced with, new securities of the Issuer or a third party, other than Notes or securities which are or become "Eligible Securities" as defined in paragraph (a)(10) of Rule 2a-7.
+(e) "Loss" incurred as a result of a Contribution Event means the excess of the Amortized Cost Value of the Eligible Notes subject to a Contribution Event over the amount received by the Fund in connection with such Contribution Event.
+(f) "Maximum Contribution Amount" means $20,000,000.
+(g) "Segregated Account" means an account established by LMSub for the benefit of the Fund at a bank which is a qualified custodian under the 1940 Act, which may be an interest-bearing account and/or which account's assets may be invested in money market instruments. On any business day during the term of the Agreement the Segregated Account shall hold cash or cash equivalent securities in an amount equal to the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund. The assets of the Segregated Account shall be available to the Fund by means of ACH transfer initiated by the Fund without the requirement of further action or consent by LMSub.
+2. . The Fund agrees that:
+Covenants of the Fund
+(a) To the extent consistent with the Fund's interest, the Board shall consult with the Support Providers with respect to all decisions regarding each Eligible Note (including, but not limited to, any decision to sell the Eligible Note or to forgo the right to any payment) prior to the occurrence of a Contribution Event with respect to that Eligible Note. Nothing in this Agreement shall be construed to cause the delegation by the Board to any person any authority which is not permitted to be delegated under Rule 2a-7.
+(b) The Fund will retain any Capital Contribution and not include the Capital Contribution in any dividend or other distribution to the Fund's shareholders. For the avoidance of doubt, for purposes of this subparagraph, the redemption of the Fund's shares shall not constitute a "distribution" to shareholders.
+(c) Prior to the Fund taking any action or receiving any payment that would result in a Contribution Event under clauses 1(c)(i) or (ii) above, the Fund will provide the Support Providers with no less than one business day's notice that the Fund intends to take such action or expects to receive such payment, and will sell to either of the Support Providers, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) within one business day of the aforesaid notice by the
+Fund), all of the Eligible Notes that are the subject of the intended action at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes. The Fund will also sell to either of the Support Providers at any time within five business days before the date on which the Fund is required to sell Eligible Notes under clause (d) below, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) hereof, to be received by the Fund at least one business day prior to the date on which the Fund is required to sell the Eligible Notes under clause (d) below), all Eligible Notes that are outstanding and held by the Fund at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes.
+(d) The Fund will promptly sell the Eligible Notes, to the extent they otherwise continue to be held by the Fund, on the business day immediately prior to the date set forth in subparagraph 3(c)(iii).
+3. .
+Contributions to Fund
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement.
+(b) The Support Providers shall make the Capital Contribution to the Fund not later than one business day after the occurrence of a Contribution Event, by 12:00 noon, Eastern Time. Each Capital Contribution made hereunder shall be made in immediately available funds, without deduction, set-off or counterclaim, to the Fund.
+(c) The obligation of the Support Providers to make Capital Contributions pursuant to this Agreement shall terminate upon the earlier of (such occurrence, the "Termination Event"): (i) the Support Providers have made Capital Contributions equal to the Maximum Contribution Amount, (ii) the Fund no longer holds Eligible Notes, or (iii) 5:00 p.m. Eastern Time on March 31, 2009. If an event constitutes both a Termination Event and a Contribution Event, then the Termination Event will not be deemed to have occurred until the Support Providers have made any Capital Contributions required under this Agreement with respect to such Contribution Event.
+(d) The obligations of the Support Providers to make Capital Contributions hereunder shall be joint and several. Any required Capital Contribution hereunder may be made by either Support Provider, in the sole discretion of the Support Providers, , nothing contained herein shall in any manner limit the Fund's rights to receive all amounts due hereunder, including, without limitation, its right to draw funds from the Segregated Account as provided for herein.
+provided, however
+(e) If the Support Providers make a Capital Contribution when due, then the amount that LMSub is obligated to maintain in the Segregated Account shall be reduced to give effect to such Capital Contribution. In the event that the Support Providers do not make a Capital Contribution when due, the Fund will draw funds from the Segregated Account by 4:00 p.m. on the day that such Capital Contribution was required to have been made and in an amount equal to the Capital Contribution that is due. Any amount withdrawn from the Segregated Account shall be deemed to be a Capital Contribution made hereunder by the Support Providers.
+4. . The Support Providers acknowledge and consent to:
+Reliance by the Fund and the Board
+(a) The Board's reliance on the Support Providers' obligations under this Agreement in making any determination required under Rule 2a-7;
+(b) For purposes of calculating the Fund's current mark-to-market net asset value for purposes of Rule 2a-7, the inclusion of the Capital Contribution that would be payable under this Agreement if all the Eligible Notes were sold on the date of such calculation for the market value used to calculate such net asset value;
+(c) The inclusion of the Capital Contribution that would be payable to the Fund under this Agreement if all of the Eligible Notes were sold on the date of such net asset value calculation in the Fund's audited or unaudited financial statements, to the extent required by generally accepted accounting principles; and
+(d) The Support Providers' obligations under this Agreement shall be supported by the Segregated Account as defined in Section 1(g) of this Agreement.
+5. . The Support Providers hereby represent and warrant that:
+Representations and Warranties
+(a) They are duly organized and validly existing under the laws of the State of Maryland and are in good standing under such laws;
+(b) They have taken all necessary action to authorize the execution, delivery and performance of this Agreement; and
+(c) Their obligations under this Agreement constitute their legal, valid and binding obligations, enforceable in accordance with its terms subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law).
+6. .
+General
+(a) None of the parties may assign its rights under this Agreement to any person or entity, in whole or in part, without the prior written consent of the other parties.
+(b) No waiver of any provision hereof or of any right or remedy hereunder shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. No delay in exercising, no course of dealing with respect to or no partial exercise of any right or remedy hereunder shall constitute a waiver of any other right or remedy, or future exercise thereof.
+(c) If any provision of this Agreement is determined to be invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted, and the balance of this Agreement shall remain enforceable.
+(d) Subject to the next sentence, all notices shall be in writing and shall be deemed to be delivered when received by certified mail, postage prepaid, return receipt requested, or when sent by facsimile or e-mail confirmed by call back. All notices shall be directed to the address set forth under the party's signature or to such other address as either party may, form time to time, designate by notice to the other party.
+(e) No amendment, change, waiver or discharge hereof shall be valid unless in writing and signed by the Support Providers and the Fund, and, to the extent of any change to the date set forth in Section 3(c)(iii) hereof, the approval of the Staff of the Division of Investment Management of the Securities and Exchange Commission (the "Staff"). In addition, the parties hereto hereby agree to provide the Staff with prompt written notice of any amendment, change or waiver to this Agreement which does not otherwise require the Staff's approval.
+(f) This Agreement shall be governed in all respects by the laws of the State of Maryland without regard to its conflict of laws provisions.
+(g) This Agreement constitutes the complete and exclusive statement of all mutual understanding between the parties with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understanding, oral or written.
+(h) This Agreement is solely for the benefit of the Fund and the Support Providers, and no other person shall acquire or have any rights under or by virtue of this Agreement.
+ 
+IN WITNESS WHEREOF, the Support Providers and the Fund have caused this Capital Support Agreement to be duly executed this 30th day of June, 2008.
+ 
+LEGG MASON, INC.
+By: Name: Charles J. Daley, Jr. Title: Sr. Vice President, CFO and Treasurer
+/s/ Charles J. Daley, Jr.
+LM CAPITAL COMPANY, LLC
+By: Name: Charles J. Daley, Jr. Title: President and Treasurer
+/s/ Charles J. Daley, Jr.
+ 
+LM CAPITAL SUPPORT V, LLC
+By: Name: Charles J. Daley, Jr. Title: President and Treasurer
+/s/ Charles J. Daley, Jr.
+ 
+WESTERN ASSET INSTITUTIONAL MONEY MARKET FUND, SERIES OF LEGG MASON PARTNERS INSTITUTIONAL TRUST
+By: Name: R. Jay Gerken
+/s/ R. Jay Gerken
+Title: Director
+ 
+
+
+Exhibit 10.23
+THIS CAPITAL SUPPORT AGREEMENT (this "Agreement") is made as of the 18th day of September, 2008, by and among Legg Mason, Inc., a Maryland corporation ("Legg Mason"), LM CAPITAL COMPANY, LLC, a Maryland limited liability company ("LMSub" and, together with Legg Mason, the "Support Providers"), and Western Asset Institutional Money Market Fund, a series of Legg Mason Partners Institutional Trust (the "Fund").
+WITNESSETH:
+WHEREAS, Legg Mason Partners Institutional Trust is an investment company registered with the Securities and Exchange Commission in accordance with the Investment Company Act of 1940 (as amended, the "1940 Act");
+WHEREAS, the Fund is a money market fund that seeks to maintain a stable net asset value using the Amortized Cost Method as defined in and in accordance with Rule 2a-7 promulgated under the 1940 Act (as amended, "Rule 2a-7");
+WHEREAS, the Fund holds notes and other instruments (the "Notes") issued by structured investment vehicles listed in Schedule A attached hereto (each, an "Issuer");
+WHEREAS, Rule 2a-7(c)(6)(ii) requires a money market fund to "dispose of [a portfolio] security as soon as practicable consistent with achieving an orderly disposition of the security, . . ., absent a finding by the board of directors that disposal of the portfolio security would not be in the best interests of the money market fund (which determination may take into account, among other factors, market conditions that could affect the orderly disposition of the portfolio security)" upon the occurrence of certain events;
+WHEREAS, one or more of the events specified in Rule 2a-7(c)(6)(ii) have occurred with respect to the Notes;
+WHEREAS, a sale of the Notes under current market conditions is unlikely to result in the full recovery of the Fund's investments, and may cause the Fund to realize losses;
+WHEREAS, Legg Mason is the sole stockholder of the Fund's manager and LMSub is a subsidiary of Legg Mason;
+WHEREAS, the Board of Trustees of the Fund (the "Board") will consider this Agreement in determining whether disposal of the Notes currently would be in the best interest of the Fund:
+NOW, THEREFORE, in consideration of the above premises, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the Support Providers hereby agree as follows:
+1. . In addition to the terms defined elsewhere in the Agreement, the following terms have the meanings indicated:
+Definitions
+"Amortized Cost Value" means, with respect to any Eligible Note held by the Fund, the value of that Eligible Note as determined using the Amortized Cost Method in accordance with Rule 2a-7 on the relevant date. Solely for purposes of calculating the amount of the Loss under this Agreement, if an Eligible Note is received in an exchange or restructuring, the Amortized Cost Value of such Eligible Note shall be increased by the excess, if any, of the Amortized Cost Value of the predecessor Note as of the time immediately preceding the exchange over the sum of the Amortized Cost Value of the Eligible Note and any cash received in such exchange.
+(b) "Capital Contribution" means a cash contribution by either Support Provider to the Fund for which the Support Provider does not receive any shares or other consideration from the Fund.
+(c) "Contribution Event" means, with respect to any Eligible Note held by any Fund, any of the following occurrences:
+(i) any sale of the Eligible Note by the Fund for cash in an amount, after deducting any commission or similar transaction costs, less than the Amortized Cost Value of the Eligible Note sold as of the date of settlement;
+(ii) receipt of final payment on the Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+(iii) issuance of orders by a court having jurisdiction over the matter discharging the Issuer from liability for the Eligible Note and providing for payments on that Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received; and
+(iv) receipt of new securities that are "Eligible Securities," as defined in paragraph (a)(10) of Rule 2a-7, in exchange for or replacement of Eligible Notes if the Amortized Cost Value of such new securities is less than the Amortized Cost Value of such Eligible Notes on the date of exchange or replacement.
+(d) "Eligible Notes" mean the Notes held by the Fund as portfolio securities on the date hereof or any securities or other instruments received in exchange for, or as a replacement of, the Notes or any Eligible Notes as a result of an exchange offer, debt restructuring, reorganization or similar transaction pursuant to which the Notes or Eligible Notes are exchanged for, or replaced with, new securities of the Issuer or a third party, other than Notes or securities which are or become "Eligible Securities" as defined in paragraph (a)(10) of Rule 2a-7.
+(e) "Loss" incurred as a result of a Contribution Event means the excess of the Amortized Cost Value of the Eligible Notes subject to a Contribution Event over the amount received by the Fund in connection with such Contribution Event.
+(f) "Maximum Contribution Amount" means $20,000,000.
+(g) "Segregated Account" means an account established by LMSub for the benefit of the Fund at a bank which is a qualified custodian under the 1940 Act, which may be an interest-bearing account and/or which account's assets may be invested in money market instruments. On any business day during the term of the Agreement the Segregated Account shall hold cash or cash equivalent securities in an amount equal to the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund. The assets of the Segregated Account shall be available to the Fund by means of ACH transfer initiated by the Fund without the requirement of further action or consent by LMSub.
+2. . The Fund agrees that:
+Covenants of the Fund
+(a) To the extent consistent with the Fund's interest, the Board shall consult with the Support Providers with respect to all decisions regarding each Eligible Note (including, but not limited to, any decision to sell the Eligible Note or to forgo the right to any payment) prior to the occurrence of a Contribution Event with respect to that Eligible Note. Nothing in this Agreement shall be construed to cause the delegation by the Board to any person any authority which is not permitted to be delegated under Rule 2a-7.
+(b) The Fund will retain any Capital Contribution and not include the Capital Contribution in any dividend or other distribution to the Fund's shareholders. For the avoidance of doubt, for purposes of this subparagraph, the redemption of the Fund's shares shall not constitute a "distribution" to shareholders.
+(c) Prior to the Fund taking any action or receiving any payment that would result in a Contribution Event under clauses 1(c)(i) or (ii) above, the Fund will provide the Support Providers with no less than one business day's notice that the Fund intends to take such action or expects to receive such payment, and will sell to either of the Support Providers, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) within one business day of the aforesaid notice by the
+Fund), all of the Eligible Notes that are the subject of the intended action at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes. The Fund will also sell to either of the Support Providers at any time within five business days before the date on which the Fund is required to sell Eligible Notes under clause (d) below, if either elects to purchase (with such election to be in the form of a written notice delivered to the Fund by such Support Provider in accordance with the notice provisions of Section 6(d) hereof, to be received by the Fund at least one business day prior to the date on which the Fund is required to sell the Eligible Notes under clause (d) below), all Eligible Notes that are outstanding and held by the Fund at a cash price equal to the greater of (i) the Amortized Cost Value of such Eligible Notes, including all accrued and unpaid interest thereon and (ii) the market value of such Eligible Notes.
+(d) The Fund will promptly sell the Eligible Notes, to the extent they otherwise continue to be held by the Fund, on the business day immediately prior to the date set forth in subparagraph 3(c)(iii).
+3. .
+Contributions to Fund
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Provider will make a Capital Contribution in an amount equal to the lower of (i) the Loss incurred as a result of such Contribution Event, or (ii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund under this Agreement.
+(b) The Support Providers shall make the Capital Contribution to the Fund not later than one business day after the occurrence of a Contribution Event, by 12:00 noon, Eastern Time. Each Capital Contribution made hereunder shall be made in immediately available funds, without deduction, set-off or counterclaim, to the Fund.
+(c) The obligation of the Support Providers to make Capital Contributions pursuant to this Agreement shall terminate upon the earlier of (such occurrence, the "Termination Event"): (i) the Support Providers have made Capital Contributions equal to the Maximum Contribution Amount, (ii) the Fund no longer holds Eligible Notes, or (iii) 5:00 p.m. Eastern Time on September 30, 2009. If an event constitutes both a Termination Event and a Contribution Event, then the Termination Event will not be deemed to have occurred until the Support Providers have made any Capital Contributions required under this Agreement with respect to such Contribution Event.
+(d) The obligations of the Support Providers to make Capital Contributions hereunder shall be joint and several. Any required Capital Contribution hereunder may be made by either Support Provider, in the sole discretion of the Support Providers, , nothing contained herein shall in any manner limit the Fund's rights to receive all amounts due hereunder, including, without limitation, its right to draw funds from the Segregated Account as provided for herein.
+provided, however
+(e) If the Support Providers make a Capital Contribution when due, then the amount that LMSub is obligated to maintain in the Segregated Account shall be reduced to give effect to such Capital Contribution. In the event that the Support Providers do not make a Capital Contribution when due, the Fund will draw funds from the Segregated Account by 4:00 p.m. on the day that such Capital Contribution was required to have been made and in an amount equal to the Capital Contribution that is due. Any amount withdrawn from the Segregated Account shall be deemed to be a Capital Contribution made hereunder by the Support Providers.
+4. . The Support Providers acknowledge and consent to:
+Reliance by the Fund and the Board
+(a) The Board's reliance on the Support Providers' obligations under this Agreement in making any determination required under Rule 2a-7;
+(b) For purposes of calculating the Fund's current mark-to-market net asset value for purposes of Rule 2a-7, the inclusion of the Capital Contribution that would be payable under this Agreement if all the Eligible Notes were sold on the date of such calculation for the market value used to calculate such net asset value;
+(c) The inclusion of the Capital Contribution that would be payable to the Fund under this Agreement if all of the Eligible Notes were sold on the date of such net asset value calculation in the Fund's audited or unaudited financial statements, to the extent required by generally accepted accounting principles; and
+(d) The Support Providers' obligations under this Agreement shall be supported by the Segregated Account as defined in Section 1(g) of this Agreement.
+5. . The Support Providers hereby represent and warrant that:
+Representations and Warranties
+(a) They are duly organized and validly existing under the laws of the State of Maryland and are in good standing under such laws;
+(b) They have taken all necessary action to authorize the execution, delivery and performance of this Agreement; and
+(c) Their obligations under this Agreement constitute their legal, valid and binding obligations, enforceable in accordance with its terms subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law).
+6. .
+General
+(a) None of the parties may assign its rights under this Agreement to any person or entity, in whole or in part, without the prior written consent of the other parties.
+(b) No waiver of any provision hereof or of any right or remedy hereunder shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. No delay in exercising, no course of dealing with respect to or no partial exercise of any right or remedy hereunder shall constitute a waiver of any other right or remedy, or future exercise thereof.
+(c) If any provision of this Agreement is determined to be invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted, and the balance of this Agreement shall remain enforceable.
+(d) Subject to the next sentence, all notices shall be in writing and shall be deemed to be delivered when received by certified mail, postage prepaid, return receipt requested, or when sent by facsimile or e-mail confirmed by call back. All notices shall be directed to the address set forth under the party's signature or to such other address as either party may, form time to time, designate by notice to the other party.
+(e) No amendment, change, waiver or discharge hereof shall be valid unless in writing and signed by the Support Providers and the Fund, and, to the extent of any change to the date set forth in Section 3(c)(iii) hereof, the approval of the Staff of the Division of Investment Management of the Securities and Exchange Commission (the "Staff"). In addition, the parties hereto hereby agree to provide the Staff with prompt written notice of any amendment, change or waiver to this Agreement which does not otherwise require the Staff's approval.
+(f) This Agreement shall be governed in all respects by the laws of the State of Maryland without regard to its conflict of laws provisions.
+(g) This Agreement constitutes the complete and exclusive statement of all mutual understanding between the parties with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understanding, oral or written.
+(h) This Agreement is solely for the benefit of the Fund and the Support Providers, and no other person shall acquire or have any rights under or by virtue of this Agreement.
+ 
+IN WITNESS WHEREOF, the Support Providers and the Fund have caused this Capital Support Agreement to be duly executed this 18th day of September, 2008.
+ 
+LEGG MASON, INC.
+By: Name: Michael P. McAllister Title: Vice President
+/s/ Michael P. McAllister
+LM CAPITAL COMPANY, LLC
+By: Name: Michael P. McAllister Title: Vice President
+/s/ Michael P. McAllister
+ 
+LM CAPITAL SUPPORT V, LLC
+By: Name: Michael P. McAllister Title: Vice President
+/s/ Michael P. McAllister
+ 
+WESTERN ASSET INSTITUTIONAL MONEY MARKET FUND, SERIES OF LEGG MASON PARTNERS INSTITUTIONAL TRUST
+By: Name: Frances Guggino
+/s/ Frances Guggino
+Title: CFO and Treasurer
+ 
+
+
+Exhibit 10.24
+ 
+This Master Amendment No. 1 to Capital Support Agreements is dated as of December 1, 2008 (the ""), by and among , a Maryland corporation (""), , a Maryland limited liability company (""), , a Maryland limited liability company ("" and, collectively with Legg Mason and LMC, the "" and each, individually, a "") and , a series of Legg Mason Partners Institutional Trust (the ""), amending certain provisions of (a) the Capital Support Agreement dated as of September 18, 2008 by and among Legg Mason, LMC and the Fund (as amended and in effect from time to time, the ""); and (b) the Capital Support Agreement dated as of June 30, 2008 by and among Legg Mason, LMCSV and the Fund (as amended and in effect from time to time, the ""; and, collectively with the LMC CSA, the "" and each, individually, a "").
+Amendment
+LEGG MASON, INC.
+Legg Mason
+LM CAPITAL COMPANY, LLC
+LMC
+LM CAPITAL SUPPORT V, LLC
+LMCSV
+Support Providers
+Support Provider
+WESTERN ASSET INSTITUTIONAL MONEY MARKET FUND
+Fund
+LMC CSA
+LMC SV CSA
+Capital Support Agreements
+Capital Support Agreement
+, each Support Provider and the Fund have agreed to modify certain terms and conditions of each Capital Support Agreement to which they are a party as specifically set forth in this Amendment;
+WHEREAS
+, in consideration of the premises and the mutual agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+NOW, THEREFORE
+Legg Mason, LMC and the Fund hereby agree that Section 1(f) of the LMC CSA is hereby amended by deleting Section 1(f) in its entirety and restating it as follows:
+Section 1. .
+Amendment to LMC CSA
+"Maximum Contribution Amount" means $30,000,000.
+Legg Mason, LMCSV and the Fund hereby agree that Section 1(f) of the LMCSV CSA is hereby amended by deleting Section 1(f) in its entirety and restating it as follows:
+Section 2. .
+Amendment to LMCSV CSA
+"Maximum Contribution Amount" means $30,000,000.
+This Amendment shall not become effective until each party hereto receives a counterpart of this Amendment, executed by each Support Provider and the Fund. In addition, the parties hereto hereby agree to provide the Staff of the Division of Investment Management of the Securities and Exchange Commission with prompt written notice of this Amendment pursuant to, and in accordance with, Section 6(e) of each Credit Support Agreement.
+Section 3. .
+Conditions to Effectiveness
+Section 4.
+Representations and Warranties
+.
+Each Support Provider hereby represents that, on and as of the date hereof, each of the representations and warranties made by it in Section 5 of its applicable Credit Support Agreement remain true as of the date hereof, , that all references therein to the "Agreement" shall refer to such Credit Support Agreement as amended hereby.
+provided
+. Except as expressly amended hereby, each Credit Support Agreement and all documents, instruments and agreements related thereto are hereby ratified and confirmed in all respects by the applicable parties thereto and shall continue in full force and effect. Each Credit Support Agreement and this Amendment shall be read and construed as a single agreement. All references in each Credit Support Agreement or any related agreement or instrument to such Credit Support Agreement shall hereafter refer to such Credit Support Agreement as amended hereby.
+Section 5. ,
+Ratification
+Etc
+Section 6. .
+No Waiver
+Nothing contained herein shall constitute a waiver of, impair or otherwise affect any obligation of any Support Provider or any rights of the Fund consequent thereon.
+. This Amendment may be executed in one or more counterparts, each of which shall be deemed an original but which together shall constitute one and the same instrument.
+Section 7.
+Counterparts
+.
+Section 8. .
+Governing Law
+THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF MARYLAND (WITHOUT REFERENCE TO CONFLICT OF LAWS)
+ 
+, the parties hereto have executed this Amendment as a document under seal as of the date first above written.
+IN WITNESS WHEREOF
+ 
+LEGG MASON, INC.
+By: Name: Charles J. Daley, Jr. Title: Sr. VP, CFO and Treasurer
+/s/ Charles J. Daley, Jr.
+LM CAPITAL COMPANY, LLC
+By:
+/s/ Charles J. Daley, Jr.
+Name: Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+LM CAPITAL SUPPORT V, LLC
+By:
+/s/ Charles J. Daley, Jr.
+Name: Charles J. Daley, Jr.
+Title: President and Treasurer
+ 
+WESTERN ASSET INSTITUTIONAL MONEY MARKET FUND, SERIES OF LEGG MASON PARTNERS INSTITUTIONAL TRUST
+By:
+/s/ Frances Guggio
+Name: Frances Guggino
+Title: CFO and Treasurer
+
+
+Exhibit 10.25
+THIS AMENDED & RESTATED CAPITAL SUPPORT AGREEMENT (this "Agreement") dated December 1, 2008 amends and restates in its entirety the Capital Support Agreement dated June 30,2008 (hereinafter "Capital Support Agreement") by and among Legg Mason, Inc., a Maryland corporation ("Legg Mason"), LM Capital Support V, LLC, a Maryland limited liability company ("LM Sub" and, together with Legg Mason, the "Support Providers"), and Legg Mason Global Funds plc, an umbrella investment company, with segregated liability between its sub-funds, organized under the laws of the Republic of Ireland (the "Company").
+WHEREAS, subject to the terms of the Capital Support Agreement, the Support Providers have agreed to provide support to the Company's Western Asset U.S. Money Market Fund (the "Fund"), up to a maximum amount of US$20,000,000 for losses realized on the notes and other instruments (the "Notes") held by the Fund issued by Issuer Entity LLC (successor to Ottimo Funding Ltd.) that are listed on Schedule A attached hereto (the "Issuer");
+WHEREAS, LM Sub, the Fund's investment manager and sub-investment managers are wholly owned subsidiaries of Legg Mason;
+WHEREAS, the Fund is a money market fund that seeks to maintain a stable net asset value for its distributing share classes (the "Distributing Share Classes") using the Amortized Cost Method of valuing its assets; and
+WHEREAS, the Support Providers desire to increase to support the Fund's net asset value by increasing the Maximum Contribution Amount as provided herein.
+NOW, THEREFORE, in consideration of the above premises, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the parties hereto hereby agree to amend and restate the Capital Support Agreement in its entirety and agree as follows:
+1. . In addition to the terms defined elsewhere in this Agreement, the following terms have the meanings indicated:
+Definitions
+(a) "Amortized Cost Value" means, with respect to any Note or Replacement Note held by the Fund, the value of that Note or Replacement Note determined using the Amortized Cost Method.
+(b) "Amortized Cost Method" means calculating the net asset value of any share class of the Fund by valuing the Fund's portfolio securities at the Fund's acquisition cost as adjusted for amortization of premium or accretion of discount in accordance with the Fund's Prospectus.
+(c) "Capital Contribution" means a cash contribution by either Support Provider to the Fund for which the Support Provider does not receive any shares or other consideration from the Fund.
+(d) "Collateral" means the cash or securities contained in a securities account that has been pledged to the Fund by LM Sub to secure its obligations under this Agreement.
+(e) "Contribution Event" means, with respect to any Eligible Note held by the Fund, any of the following occurrences:
+any sale of the Eligible Note by the Fund for cash in an amount less than the Amortized Cost Value of the Eligible Note sold as of the date of settlement;
+receipt of final payment on the Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+issuance of orders by a court having jurisdiction over the matter discharging the Issuer from liability for the Eligible Note and providing for payments on that Eligible Note in an amount less than the Amortized Cost Value of that Eligible Note as of the date such payment is received;
+receipt of new securities in exchange for or replacement of the Eligible Note if the Amortized Cost Value of such new securities is less than the Amortized Cost Value of such Eligible Notes on the date used to determine securities values in such exchange or replacement; and
+the Eligible Note continues to be held by the Fund on December 1, 2009.
+(f) "Eligible Notes" means the Notes held by the Fund as portfolio securities on the date hereof and any Replacement Notes.
+(g) "Loss" incurred as a result of a Contribution Event means (i) for an event listed Section 1(e)(i), (ii), (iii) or (iv) above, the excess of the Amortized Cost Value of the Eligible Notes subject to such Contribution Event over the amount received by the Fund in connection with such Contribution Event, and (ii) for an event listed in Section 1(e)(v) above, the amount, if any, by which the aggregate Amortized Cost Value of the Eligible Notes held by the Fund on the date of such Contribution Event exceeds the aggregate value of such Eligible Notes on such date used in the calculation of the Fund's Mark-to-Market NAV.
+ 
+(h) "Mark-to-Market NAV" means the current net asset value per share of a particular share class of the Fund calculated by marking to market the value of Fund's portfolio holdings in accordance with the valuation procedures set forth in the Fund's prospectus.
+(i) "Maximum Contribution Amount" means twenty five million U.S. dollars (US$25,000,000).
+(j) "NAV Deviation" means the difference, if any, of the current Mark-to-Market NAV of a Distributing Share Class and $1.00 per share for purposes of distribution, redemption and repurchase of its shares calculated using the Amortized Cost Method.  
+(k) "Permissible NAV Deviation" means US$0.0025.
+(l) "Replacement Notes" means any securities or other instruments received in exchange for, or as a replacement of, the Notes or any Replacement Notes as a result of an exchange offer, debt restructuring, reorganization or similar transaction pursuant to which the Notes or such Replacement Notes are exchanged for, or replaced with, new securities of the Issuer or a third party.
+(m) "Required Contribution Amount" means for the Fund on the date of any Contribution Event: (i) in the event that the NAV Deviation of any Distributing Share Class, after giving effect to any Contribution Events and all payments received by the Fund in respect of the Eligible Notes, exceeds the Permissible NAV Deviation, a Capital Contribution in the amount sufficient to reduce the NAV Deviation of any such Distributing Share Class to such Permissible NAV Deviation after giving effect to such Capital Contribution, or (ii) in any other event, zero.
+2. . The Company agrees that:
+Covenants of the Company on behalf of the Fund
+(a) To the extent consistent with the Fund's interest, the Board of Directors of the Company shall consult with the Support Providers with respect to all decisions regarding each Eligible Note (including, but not limited to, any decision to sell the Eligible Note or to forgo the right to any payment) prior to the occurrence of a Contribution Event with respect to that Eligible Note.
+(b) The Fund will retain any Capital Contribution and not include the Capital Contribution in any dividend or other distribution to the Fund's shareholders. For the avoidance of doubt, for purposes of this subparagraph, the redemption of the Fund's shares shall not constitute a "distribution" to shareholders.
+(c) The Fund will reimburse the Support Providers for all Capital Contributions made pursuant to this Agreement (i) in the case of Capital Contribution Events described in clauses 1(e)(i), 1(e)(ii), 1(e)(iii) or 1(e)(iv) above, to the extent the Fund receives payments with respect to a Note or Replacement Note (including repayments from the issuer thereof or payments upon a sale or other disposition thereof) that exceed the Amortized Cost Value of
+such Note or Replacement Note, and (ii) in the case of Capital Contributions made in response to a Contribution Event described in clause 1(e)(v) above, to the extent the Fund receives payments with respect to all Notes and Replacement Notes that are held by the Fund on the date of such Capital Contribution (including repayments from the issuer thereof or payments upon a sale or disposition thereof) that exceed the difference between the Amortized Cost Value of all such Notes and Replacement Notes (calculated by adding the highest Amortized Cost Value for each Note (or, if greater, a Replacement Note with respect to such Note) on the books of the Fund at any time) less the amount of all Capital Contributions under this Agreement.
+.
+(d) At any time within the four days prior to December 1, 2009, the Fund will sell all or any portion of the Eligible Notes that it holds at that time to the Support Providers at a purchase price equal to the greater of (i) the Amortized Cost Value of the Eligible Notes to be sold and (ii) the market value of the Eligible Notes to be sold if the Support Providers elect, in their sole discretion, to purchase such Eligible Notes.
+3. .
+Contributions to the Fund
+(a) If a Contribution Event occurs prior to the occurrence of a Termination Event, the Support Providers will make a Capital Contribution in an amount equal to the lower of (i) the Loss incurred as a result of such Contribution Event and (ii) the Required Contribution Amount, and (iii) the Maximum Contribution Amount reduced by the amount of any Capital Contribution previously made by either Support Provider to the Fund.
+ 
+(b) The Support Providers shall make the Capital Contribution to the Fund not later than one business day after the occurrence of a Contribution Event, by 12:00 noon, Eastern Time. Each Capital Contribution made hereunder shall be made in immediately available funds, without deduction, set-off or counterclaim, to the Fund. In the event that the Support Providers do not make a Capital Contribution when due, the Fund will draw upon the Collateral. Any amounts drawn from such Collateral shall be deemed to be a Capital Contribution made hereunder by the Support Providers.
+(c) The obligation of the Support Providers to make Capital Contributions pursuant to this Agreement shall terminate upon the earliest to occur of (such occurrence, the "Termination Event") (i) the repayment, in cash, or sale by the Fund of all Eligible Notes, (ii) the Support Providers having made Capital Contributions equal to the Maximum Contribution Amount, (iii) a restructuring of all Eligible Notes held by the Fund into Replacement Notes that are rated A-1 and P-1 by Standard & Poor's and Moody's Investor Services, respectively, and (iv) 5:00 p.m. Eastern Time on December 1, 2009. If an event constitutes both a Termination Event and a Contribution Event, then the Termination Event will not be deemed to have occurred until the Support Providers have made any Capital Contributions required under this Agreement with respect to such Contribution Event.
+(d) The obligations of the Support Providers to make Capital Contributions hereunder shall be joint and several. Any required Capital Contribution hereunder may be made by either Support Provider, in the sole discretion of the Support Providers.
+4. . The Support Providers acknowledge and consent to:
+Reliance by the Fund and the Board of Directors
+(a) For purposes of calculating the NAV Deviation of any Distributing Share Class, the inclusion of the Capital Contribution that would be payable to the Fund under this Agreement if all of the Eligible Notes were sold on the date of such calculation for the market value used to calculate such NAV Deviation; and
+(b) The inclusion of such amount in the Fund's audited or unaudited financial statements, to the extent required by generally accepted accounting principles.
+5. . The Support Providers hereby represent and warrant that:
+Representations and Warranties
+(a) They are duly organized and validly existing under the laws of the State of Maryland and are in good standing under such laws;
+(b) They have taken all necessary action to authorize the execution, delivery and performance of this Agreement;
+(c) Their obligations under this Agreement constitute their legal, valid and binding obligations, enforceable in accordance with its terms (subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law)); and
+ 
+(d) LM Sub's obligations under this Agreement will be supported by a pledge of Collateral that has a value at least equal to the Maximum Contribution Amount.
+6. .
+General
+(a) The Fund may not assign its rights under this Agreement to any person or entity, in whole or in part, without the prior written consent of the Support Providers.
+(b) No waiver of any provision hereof or of any right or remedy hereunder shall be effective unless in writing and signed by the party against whom such waiver is sought to be enforced. No delay in exercising, no course of dealing with respect to or no partial exercise of any right or remedy hereunder shall constitute a waiver of any other right or remedy, or future exercise thereof.
+(c) If any provision of this Agreement is determined to be invalid under any applicable statute or rule of law, it is to that extent to be deemed omitted, and the balance of the Agreement shall remain enforceable.
+(d) Subject to the next sentence, all notices shall be in writing and shall be deemed to be delivered when received by certified mail, postage prepaid, return receipt
+requested, or when sent by facsimile or e-mail confirmed by call back. All notices shall be directed to the address set forth under the party's signature or to such other address as either party may, from time to time, designate by notice to the other party.
+(e) No amendment, change, waiver or discharge hereof shall be valid unless in writing and signed by the Support Providers and the Fund.
+(f) This Agreement shall be governed in all respects by the laws of the State of Maryland without regard to its conflict of laws provisions.
+(g) This Agreement constitutes the complete and exclusive statement of all mutual understandings between the parties with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.
+(h) This Agreement is solely for the benefit of the Fund and the Support Providers, and no other person shall acquire or have any rights under or by virtue of this Agreement.
+(i) This Agreement shall terminate upon the occurrence of a Termination Event; provided that, if the Support Providers have made Capital Contributions prior to such occurrence, this Agreement will terminate after the Fund has fully complied with its obligations under Section 2(c). Upon the occurrence of a Termination Event, the Fund will release the pledge and security interest in the Collateral.
+IN WITNESS WHEREOF, the Support Providers and the Fund have caused this Agreement to be duly executed this 1 day of December, 2008.
+ST
+ 
+ 
+ 
+ 
+
+
+For Immediate Release
+Contact:
+Mary Athridge
+410-454-4421
+mkathridge@leggmason.com
+Baltimore, MD  December 1, 2008  Legg Mason, Inc. (NYSE:LM) today announced additional support for four money market funds with exposure to securities issued by Structured Investment Vehicles and other similar conduits (SIVs).  Legg Mason also announced that it had renewed for one year a total return swap with a major banking institution in support of $355 million of SIV securities.   In addition, to provide flexibility during a time of prolonged market turmoil, Legg Mason has obtained amendments to its existing debt covenants.
+The Company also announced it has already identified in excess of $100 million in sustainable cost reductions from its corporate operating budget and is on track to realize an aggregate $120 million annually, effective on a run rate basis at March 31, 2009.
+Mark R. Fetting, the company's chief executive officer, commented: "Legg Mason continues to manage its resources and to take proactive steps in support of our money market funds during difficult market conditions.   Today's actions give us financial and operating flexibility to handle potential further market deterioration.   We are actively pursuing a number of options to eliminate exposure to SIVs in the money market funds.    Additionally, we have moved aggressively to restructure our organization and improve our cost profile to reflect current realities.   We have the ability and the resolve to work through these challenging markets as we act in support of our clients, our funds and our shareholders."   
+Legg Mason put in additional support for certain SIV securities in four funds by increasing by $420 million the maximum capital contribution obligation of the Company under existing Capital Support Agreements ("CSAs") and, in one case, providing an additional CSA to a fund.  The Company has fully collateralized these additional obligations.   Neither the funds nor their shareholders incurred a loss in these transactions.  As of November 30, 2008, the par value of SIV exposure in the funds was $2.8 billion, down from $10 billion as of October 31, 2007.      
+The Company also announced that it had renewed a total return swap with a major banking institution that supports $355 million in SIV securities that were transferred to
+the bank in 2007.  The securities covered by the swap decreased from $890 million in December 2007, as certain principal payments were received throughout the year.  The renewed agreement expires on November 24, 2009. The company has provided $209 million in total to collateralize the swap.
+The Company's amended debt covenants change the maximum permissible leverage ratio of total debt to EBITDA from 2.5 to 3.0 to provide increased flexibility.  The debt covenants were also amended to change the definition of EBITDA used in the financial covenants to increase the exclusion of any SIV-related cash charges to $2.75 billion from $750 million, as the Company seeks options to reduce its SIV exposures.   The changes affect $500 million in an outstanding revolving credit facility and $550 million in an outstanding term loan.
+The Company also confirmed that it is on track to achieve a total reduction of $120 million, or 20%, in its annual corporate operating budget on a run rate basis by the end of the current fiscal year. These reductions do not include additional expense reductions already taken and continuing within Legg Mason investment affiliates.  The corporate savings will come from across-the-board reductions that provide greater operating efficiency in the core areas of investment support, distribution and service management.
+Impact on Quarterly Earnings
+Reflecting the actions announced today as well as incremental mark-to-market charges attributable to previous money market fund support, the Company expects to incur gross charges of $523 million in its quarter to date operating results ($316 million net of adjustments to operating expenses and taxes, or $2.24 per diluted share).
+About Legg Mason
+Legg Mason is a global asset management firm, with $842 billion in assets under management at September 30, 2008.  The Company provides active asset management in many major investment centers throughout the world. Legg Mason is headquartered in Baltimore, Maryland, and its common stock is listed on the New York Stock Exchange (symbol: LM).
+ 
+
+
+
+
+

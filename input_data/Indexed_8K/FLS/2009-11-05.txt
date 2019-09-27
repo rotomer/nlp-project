@@ -1,0 +1,902 @@
+FILE:FLS/FLS-8K-20091105103922.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+On October 30, 2009, Flowserve Corporation, a New York corporation (the "Company"), Flowserve B.V. and certain other foreign subsidiaries of the Company entered into a Letter of Credit Agreement with Calyon, as an issuing bank, mandated lead arranger and administrative agent, and the other financial institutions named therein (the "Agreement"). Pursuant to the Agreement, the lenders commit for a 364-day period to issue letters of credit to the Company and its subsidiaries in an aggregate face amount not to exceed 125,000,000 at any time, with an initial commitment of 125,000,000. The Agreement replaces the Company's existing Letter of Credit Agreement (the "Existing LOC"), under which Calyon is an issuing bank, that was originally entered into in September 2007 and is expiring on November 9, 2009.
+The initial commitment includes commitments of Calyon and other issuing banks currently existing under the Existing LOC, and these commitments will remain outstanding under the terms of the Agreement and will be permitted to expire pursuant to their terms. New commitments from Calyon and other banks will be made under the Agreement to replace the Existing LOC commitments as they expire.
+Under the Agreement, the Company will pay an annual commitment fee of 40 basis points on the aggregate unutilized commitments of the issuing banks, and the Company will pay a letter of credit utilization fee at a rate of 135 basis points per annum. As of October 30, 2009, the Company's annual fees equaled 1.35%.
+The aggregate commitment of the facility may be decreased by the Company so long as it equals or exceeds the aggregate face amount of all letters of credit and any disbursements outstanding at the time. The Company will guarantee any and all obligations and liabilities of its subsidiaries and itself under the Agreement for any issued letter of credit or related disbursement by a lender.
+The Company may request extensions of the availability period of the Agreement for additional 364-day periods upon 45 days notice to Calyon.
+The above discussion of the Agreement is a summary description and is qualified in its entirety by reference to the Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+The disclosures required by this Item 2.03 are incorporated herein by reference to the disclosures contained under Item 1.01 above.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+Exhibit 10.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+is dated 30 October 2009 and made between:
+THIS AGREEMENT
+as follows:
+IT IS AGREED
+SECTION 1  INTERPRETATION
+In this Agreement:
+ 
+"" means a bank or financial institution which is rated by a Rating Agency and which has a rating for its long-term unsecured and non credit-enhanced debt obligations of A or higher by S&P or A2 or higher by Moody's.
+Acceptable Bank
+"" means a document substantially in the form set out in Schedule 7 ().
+Accession Letter
+Form of Accession Letter
+"" means:
+Accounting Principles
+"" means 31 December.
+Accounting Reference Date
+"" has the meaning given to that term in Schedule 5 ().
+Additional Cost Rate
+Mandatory Cost Formula
+"" means a company which becomes a LG User in accordance with Clause 28 ().
+Additional LG User
+Changes to the Obligors
+"" means the Administrative Agent's spot rate of exchange for the purchase of the relevant currency with the Base Currency in the Paris foreign exchange market on the relevant Reuters screen at or about 5:00 p.m, Paris time on a particular day or, in respect of the definition of Dollar Exchange Rate, for the purchase of the relevant currency with Dollars in Paris at 5:00 p.m, Paris time on a particular day.
+Administrative Agent's Spot Rate of Exchange
+"" has the meaning given to such term in Clause 10.2 ().
+Affected LG User
+Obligors' Liabilities
+"" means, with respect to any person, a Subsidiary of that person or a Holding Company of that person or any other Subsidiary of that Holding Company.
+Affiliate
+ 
+"" has the meaning given to such term in Clause 10.2 ().
+Amount of the Claim
+Obligors' Liabilities
+"" has the meaning given to it in Clause 23 ().
+Annual Consolidated Financial Statement
+Information Undertakings
+"" means, for any person, all applicable provisions of all (i) constitutions, treaties, statutes, laws, rules, regulations and ordinances of any Governmental Authority, (ii) authorisation of any Governmental Authority and (iii) orders, decisions, judgments, awards and decrees of any Governmental Authority, in each case, applicable to or binding upon such person or any of its properties.
+Applicable Law
+"" means Price Waterhouse Coopers LLP and its Affiliates or any other firm approved in advance by the Majority Participating Banks (such approval not to be unreasonably withheld or delayed).
+Auditors
+"" means an authorisation, consent, approval, resolution, licence, exemption, filing, notarisation or registration.
+Authorisation
+"" means the period from and including the Signing Date to and including the date falling one (1) year after the Signing Date.
+Availability Period
+"" means, in relation to a Participating Bank, its Commitment minus:
+Available Commitment
+as adjusted in accordance with Clause 8 ().
+Existing Letters of Credit
+For the purposes of calculating a Participating Bank's Available Commitment in relation to any proposed Utilisation, that Participating Bank's participation in Letters of Credit that are due to be cancelled on or before the proposed Issuance Date shall not be deducted from that Participating Bank's Commitment.
+"" means the aggregate for the time being of each Participating Bank's Available Commitment.
+Available Facility
+"" means:
+Banking Facility
+ 
+"" means, as amended, the credit agreement dated as of 12 August 2005 entered into between the Company, Bank of America N.A. and the financial institutions named therein, and any refinancing thereof.
+Bank of America Credit Agreement
+"" means the euro.
+Base Currency
+"" means the amount specified in the Issuance Request delivered by a LG User for that Utilisation (or, if the amount requested is not denominated in the Base Currency, that amount converted into the Base Currency at the Administrative Agent's Spot Rate of Exchange on the date which is three Business Days before the Issuance Date or, if later, on the date the Administrative Agent receives the Issuance Request in accordance with the terms of this Agreement), as adjusted under Clause 6 (Reduction of a Letter of Credit) at three monthly intervals.
+Base Currency Amount
+"" means Banco Bilbao, Vizcaya Argentaria, S.A., whose registered office is located at Plaza San Nicolas, n4 -48005 Bilbao- Vizcaya, Spain.
+BBVA
+"" means a beneficiary under a Letter of Credit as identified therein.
+Beneficiary
+shall mean the Board of Governors of the Federal Reserve System of the United States of America.
+"Board"
+"" means any budget delivered by the Company to the Administrative Agent in respect of that period pursuant to Clause 23.5 ().
+Budget
+Budget
+"" means a day (other than a Saturday or Sunday) on which banks are open for general business in Paris and:
+Business Day
+"" means any obligation under a lease that is required to be capitalized for financial reporting purposes in accordance with the Accounting Principles, and the amount of debt represented by such obligation shall be the capitalized amount of such obligations determined in accordance with the Accounting Principles and the stated maturity thereof shall be the date of the last payment of rent or any other amount due under such lease prior to the first date upon which such lease may be terminated by the lessee without payment of a penalty.
+Capital Lease Obligation
+"" of any person means any and all common shares, preferred shares or other equivalent equity interests, howsoever designated, in the capital stock of a body corporate, equity preferred or common interests in a limited liability company, limited or general partnership interests in a partnership or any other equivalent ownership interest, or the interest of a beneficiary under a trust), in each case, whether outstanding on the Signing Date or issued thereafter, and any rights, warrants or options exchangeable for or convertible into such Capital Stock (but excluding any debt security that is convertible into, or exchangeable for, Capital Stock).
+Capital Stock
+ 
+"" means the sum of cash on hand and any Cash Equivalent Investments.
+Cash and Cash Equivalent Investments
+"" means:
+Cash Equivalent Investments
+"" has the meaning given to it in Clause 26.15 ().
+Change of Control
+Change of Control
+"" has the meaning given to such term in Clause 10.1 ().
+Claim
+Issuing Bank Liabilities
+"" has the meaning given to such term in Clause 10.2 ().
+Claim Notification
+Obligors' Liabilities
+"" means the date on which the first Utilisation is made.
+Closing Date
+ 
+"" means the Internal Revenue Code of 1986, as amended from time to time, and the regulations promulgated and rulings issued thereunder.
+Code
+"" means:
+Commitment
+as it may be cancelled, reduced or transferred under this Agreement.
+"" means a certificate substantially in the form set out in Schedule 8 () or otherwise in form and substance satisfactory to the Administrative Agent (acting reasonably).
+Compliance Certificate
+Form of Compliance Certificate
+"" means all information relating to the Company, any other Obligor, the Flowserve Group, the Finance Documents or the Facility in respect of which a Finance Party becomes aware in its capacity as, or for the purpose of becoming, a Finance Party or which is received by a Finance Party in relation to, or for the purpose of becoming a Finance Party under, the Finance Documents or a Facility from either:
+Confidential Information
+in whatever form, and includes information given orally and any document, electronic file or any other way of representing or recording information which contains or is derived or copied from such information but excludes information that:
+"" means either a confidentiality undertaking substantially in the latest recommended LMA form or any other form agreed between the Company and the Administrative Agent.
+Confidentiality Undertaking
+ 
+"" has the meaning given to such term in Clause 24.1 ().
+Consolidated EBITDA
+Financial definitions
+"" has the meaning given to such term in Clause 24.1 ().
+Consolidated Interest Expense
+Financial definitions
+" has the meaning given to such term in Clause 24.1 ().
+"Consolidated Net Income
+Financial definitions
+"" means an Event of Default or any event or circumstance which would (with the expiry of a grace period, the giving of notice, the making of any determination in each case under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
+Default
+"" means any Participating Bank:
+Defaulting Participating Bank
+unless, in the case of paragraph (c) above:
+"" has the meaning given to such term in Clause 34.7 ().
+Designated Website
+Use of websites
+"" means Deutsche Bank AG, whose registered office is located at Theodor-Heuss-Allee 70, D 60486 Frankfurt am Main, Germany registered with RC / HRB Frankfurt No. 30.000, acting, for the purposes of this Agreement, through its Paris branch located at 3 avenue de Friedland, 75008 Paris, France.
+Deutsche Bank AG, Paris Branch
+"" has the meaning given to such term in Clause 41 ().
+Dispute
+Enforcement  Jurisdiction of French Courts
+"" means either or both of:
+Disruption Event
+ 
+and which (in either such case) is not caused by, and is beyond the control of, the Party whose operations are disrupted.
+"" or "" means the United States of America dollar.
+Dollar
+$
+"" means the amount in any currency (other than Dollars) converted in Dollars, at the time a determination is made in accordance with this Agreement, using the Dollar Exchange Rate.
+Dollar Equivalent
+"" means, on any day with respect to any currency (other than Dollars), the rate at which such currency (other than Dollars) may be exchanged into Dollars (or, for purposes of any provision of this Agreement requiring or permitting the conversion of an currency (other than Dollars) to Dollars, the rate at which Dollars may be exchanged into a currency (other than Dollars)), based on the Administrative Agent's Spot Rate of Exchange.
+Dollar Exchange Rate
+"" means:
+Eligible Country
+and in each case, whose long term debt is rated AA- or higher by S&P or Aa3 or higher by Moody's.
+"" means the legislative measures of the European Union for the introduction of, change over to, or operation of the euro in one or more member states.
+EMU Legislation
+"" shall mean all applicable laws (including common law), treaties, regulations, rules, ordinances, codes, decrees, judgments and orders (including consent orders), in each case, relating to protection of the environment, natural resources, human health and safety as related to Hazardous Materials or the presence, Release of, or exposure to, Hazardous Materials, or the generation, manufacture, processing, distribution, use, treatment, storage, transport, recycling or handling of, or the arrangement for such activities with respect to, Hazardous Materials.
+Environmental Laws
+ 
+"" shall mean liabilities, obligations, claims, actions, suits, judgments or orders under or relating to any Environmental Law for any damages, injunctive relief, losses, fines, penalties, fees, expenses (including fees and expenses of attorneys and consultants) or costs, including those arising from or relating to:
+Environmental Liability
+"" shall mean the U.S. Employee Retirement Income Security Act of 1974, as the same may be amended from time to time, together with all rules, regulations, and interpretations thereunder or related thereto.
+ERISA
+"" shall mean any person that for purposes of Title I or Title IV of ERISA or Section 412 of the Code would be deemed at any relevant time to be a single employer or otherwise aggregated with the Company or any of its Subsidiaries under Section 414 of the Code or Section 4001 of ERISA.
+ERISA Affiliate
+"" means any one or more of the following:
+ERISA Event
+ 
+"" means, in relation to any amount to be owing by an Obligor under a Finance Document in euro on which interest is to accrue on a specific day:
+EONIA
+as of the Specified Time on the Target Day immediately following such specific day.
+"" has the meaning given to such term in Clause 22.25 ().
+EU Regulation
+Centre of main interests and establishments
+"" means any event or circumstance specified as such in Clause 26 ().
+Event of Default
+Events of Default
+"" means, as amended, the letter of credit agreement dated as of 14 September 2007 entered into between the Company and the financial institutions named therein.
+Existing Credit Agreement
+"" has the meaning given to such term in paragraph (i) of the definition of Permitted Security.
+Existing Guarantees
+"" has the meaning given to such term in Clause 8 ().
+Existing Letter of Credit
+Existing Letters of Credit
+"" has the meaning given to such term in Clause 27.1 ().
+Existing Participating Bank
+Assignments and transfers by the Participating Banks
+ 
+"" means, for a Letter of Credit, the last day of its Term.
+Expiry Date
+"" means a written notice, substantially in the form set out in Schedule 4 (), requesting an extension of a Letter of Credit.
+Extension Request
+Extension Request
+"" has the meaning given to that term in Clause 2.1 ().
+Facility
+The Facility
+"" means:
+Facility Office
+"" means, with respect to any asset or property, the sale value that would be obtained in an arm's-length free market transaction between an informed and willing seller under no compulsion to sell and an informed and willing buyer under no compulsion to buy.
+Fair Market Value
+"" means any letter or letters dated on or about the Signing Date between the Arranger and the Company and/or the Administrative Agent and the Company setting out any of the fees referred to in Clause 16 ().
+Fee Letter
+Fees
+"" means this Agreement, any Accession Letter, the TEG Letter, the Flowserve Corporation Guarantee, any Compliance Certificate, any Fee Letter, any Issuance Request, each Letter of Credit, any Extension Request and any other document designated as a "Finance Document" by the Administrative Agent (acting on the instructions of the Majority Participating Banks) and the Company.
+Finance Document
+"" means the Administrative Agent, the Arranger, the Participating Banks and the Issuing Bank, and "" shall mean any of them.
+Finance Parties
+Finance Party
+"" means the Interest Coverage Ratio, the Leverage Ratio and the Net Worth.
+Financial Covenants
+"" means either of the six-Month periods of each Financial Year commencing on the first day of the Financial Year and ending on 30 June.
+Financial Semester
+"" means the annual accounting period of the Flowserve Group ending on the Accounting Reference Date in each year.
+Financial Year
+"" has the meaning given to such term in Clause 19.1 ().
+First Currency
+Currency Indemnity
+"" has the meaning given to such term in Part I () of Schedule 1 ().
+Flowserve B.V.
+The Original LG Users
+The Original Parties
+ 
+"" means Flowserve Corporation a publicy-traded corporation organized and existing under the laws of the State of New York and having its address at 5215 N. O'Connor Blvd., Suite 2300, Irving, Texas USA 75039.
+Flowserve Corporation
+"" means the French language first demand guarantee to be issued by the Company on the Signing Date an English translation (for information) of which is set out in Schedule 11 () .
+Flowserve Corporation Guarantee
+Form of Flowserve Corporation Guarantee
+"" means Flowserve GB Limited a private company organized and existing under the laws of the United Kingdom and having its address at P.O. Box 17, Lowfield Works, Newark, Notts NG24 3EN, United Kingdom.
+Flowserve GB Limited
+"" means, from time to time, the Company, the other Obligors, and each of their respective consolidated Subsidiaries on a combined basis.
+Flowserve Group
+"" has the meaning given to such term in Clause 24.1 ().
+Flowserve Group Indebtedness
+Financial definitions
+"" means an entity part of the Flowserve Group.
+Flowserve Group Member
+"" means Flowserve Hamburg GmbH a limited liability company organized and existing under the laws of Germany and having its address at Friedrich-Ebert-Damm 105, 22047 Hamburg, Germany.
+Flowserve Hamburg GmbH
+"" means Flowserve Pompes SAS a French "" organized and existing under the laws of France and having its address at Route d'Angers, 72230 Arnage, France.
+Flowserve Pompes SAS
+socit par actions simplifie
+"means Flowserve Spain S.L.U. a private company organized and existing under the laws of Spain and having its address at Av. Fuentemar, 26-28, Poligono Industrial, 28820 Coslada (Madrid), Spain.
+Flowserve Spain S.L.U"
+"" shall mean, with respect to any Foreign Pension Plan:
+Foreign Benefit Event
+ 
+"" shall mean any benefit plan fund or similar program established, contributed to, or maintained outside the United States by the Company or any of its Subsidiaries primarily for the benefit of employees of the Company or such Subsidiaries residing outside the United States, which plan, fund or other similar program, other than a trust or funding vehicle maintained exclusively by a Governmental Authority, is not subject to ERISA or the Code.
+Foreign Pension Plan
+"" shall mean, as the case may be, any federal, state, local or foreign court or governmental agency, authority, instrumentality or regulatory body of France, the United State, the Netherlands, Germany and Spain or other foreign governmental authority having jurisdiction over any Party or any of their respective businesses, operations, assets or properties.
+Governmental Authority
+"" means, without duplication, any obligation (whatever called) of any person to pay, guarantee, stand as surety for, purchase, provide funds (whether by the advance of money, the purchase of or subscription for shares or other securities, the purchase of assets or services, the indemnification in respect of letters of credit and letters of guarantee issued in respect of Indebtedness for Borrowed Money, or otherwise) for the payment of, or to indemnify against the consequences of default in the payment of, or otherwise be responsible for, any Indebtedness for Borrowed Money of any other person.
+Guarantees
+"" means the Company and any other entity becoming a "guarantor" under the terms of this Agreement.
+Guarantor
+"" means (a) any petroleum products or byproducts and all other hydrocarbons, coal ash, radon gas, asbestos, urea formaldehyde foam insulation, polychlorinated biphenyls, chlorofluorocarbons and all other ozone-depleting substances, in each case regulated by any Environmental Law, and (b) any chemical, material, substance or waste that is prohibited, limited or regulated by or pursuant to any Environmental Law.
+Hazardous Materials
+"" means, in relation to a company or corporation, any other company or corporation in respect of which it is a Subsidiary.
+Holding Company
+"" means the Administrative Agent at any time when:
+Impaired Administrative Agent
+ 
+unless, in the case of paragraph (a) or (c) above:
+payment is made within 5 Business Days of its due date; or
+"" has the meaning given to such term in Clause 18.1 ().
+Increased Costs
+Increased costs
+"" means any obligation (whether present or future, actual or contingent, secured or unsecured, as principal, surety or otherwise) of a person for the payment or repayment of money borrowed or raised (whether or not for a cash consideration), by whatever means, including, without limitation, obligations under or in respect of:
+Indebtedness for Borrowed Money
+but excluding reimbursement obligations in respect of advance payments made by or on behalf of third party customers in relation to purchase orders to any Flowserve Group Member.
+"" means with respect to any person, the occurrence of any of the following events:
+Insolvency Event
+ 
+ 
+"" has the meaning given to such term in Clause 24.1 ().
+Interest Coverage Ratio
+Financial definitions
+"" shall mean that the credit rating of the Company's senior unsecured, non-credit-enhanced long-term debt (the "Senior Unsecured Debt" ) is (a) BBB- or higher, as determined by S&P or (b) Baa3 or higher, as determined by Moody's.
+Investment Grade Ratings
+"" means the U.S. Internal Revenue Service.
+IRS
+"" means the date on which a Letter of Credit is issued under this Agreement.
+Issuance Date
+"" means a written notice, substantially in the form set out in Schedule 3 (), requesting an Utilisation.
+Issuance Request
+Issuance Request
+"" means with respect to the Letters of Credit issued under this Agreement, Calyon.
+Issuing Bank
+"" means any legal opinion delivered to the Administrative Agent under Clause 3.1 () or Clause 28 ().
+Legal Opinion
+Conditions precedent to Signing
+Changes to the Obligors
+"" means the limitation of enforcement by laws relating to bankruptcy, insolvency, liquidation, reorganisation, court schemes, moratoria, administration and other laws generally affecting the rights of creditors;
+Legal Reservations
+"" means any performance stand by letter of credit subject to RUU 600 (ICC Revision 2007) or ISP 98 (ICC Publication 590), documentary credit, letters of guarantee, bid bonds, performance bonds, performance guarantees, advance payment bonds, retention money bonds, with the exception of non-trade related instruments, issued pursuant to this Agreement by the Issuing Bank at the request of and for the account of a LG User pursuant to an Issuance Request, in the form agreed upon pursuant to Clause 4.6 (). For the avoidance of doubt, Letters of Credit do not comprise Existing Letters of Credit.
+Letter of Credit
+Issuance of Letters of Credit
+"" has the meaning given to such term in Clause 24.1 ().
+Leverage Ratio
+Financial definitions
+ 
+"" means the Original LG Users and any Subsidiary of the Company acceding to this Agreement in accordance with Clause 28.2 () as Additional LG User.
+LG Users
+Additional LG Users
+"" means Lloyds TSB Bank plc, whose registered office is located at 25 Gresham St, London, EC2V 7HN, United Kingdom
+Lloyds TSB Bank plc
+"" means the Loan Market Association.
+LMA
+"" means:
+Majority Participating Banks
+"" means the percentage rate per annum calculated by the Administrative Agent in accordance with Schedule 5 ().
+Mandatory Cost
+Mandatory Cost Formula
+"" means Regulations T, U and X of the Board as from time to time in effect and all official rulings and interpretations thereunder or thereof.
+Margin Regulations
+"" means "margin stock" as defined in the Margin Regulations.
+Margin Stock
+"" means a material adverse effect on the financial condition, business or business prospects of the Company and its Subsidiaries, taken as a whole, which, in any such case, in the reasonable opinion of the Majority Participating Banks, affects or would affect the ability of the Obligors to pay or refinance, when due, amounts owing under the Finance Documents.
+Material Adverse Effect
+"" means:
+Material Subsidiary
+ 
+Compliance with the conditions set out in paragraphs (b) (ii) and (b) (iii) shall be determined by reference to the latest Annual Consolidated Financial Statements of the Company.
+A report by the Auditors of the Company that a Subsidiary is or is not a Material Subsidiary shall, in the absence of manifest error, be conclusive and binding on all Parties.
+"" means the date falling five (5) years after the Signing Date.
+Maturity Date
+"" means a period starting on one day in a calendar Month and ending on the numerically corresponding day in the next calendar Month, except that:
+Month
+The above rules will only apply to the last Month of any period. "monthly" shall be construed accordingly.
+"" means Moody's Investors Service, Inc.
+Moody's
+"" shall mean a multiemployer plan as defined in Section 4001(a)(3) of ERISA, (a)(i) which is contributed to by (or to which there is an obligation to contribute of) the Company, any of its Subsidiaries, or any ERISA Affiliate, and (ii) each such plan for the five-year period immediately following the latest date on which the Company, any of its Subsidiaries, or any ERISA Affiliate contributed to or had an obligation to contribute to such plan, or (b) with respect to which the Company, any of its Subsidiaries, or any ERISA Affiliate may incur any liability.
+Multiemployer Plan
+"" has the meaning given to such term in Clause 24.1 ().
+Net Worth
+Financial definitions
+"" has the meaning given to such term in Clause 27.1 ().
+New Participating Bank
+Assignments and transfers by the Participating Banks
+"" means a Participating Bank:
+Non-Acceptable Participating Bank
+"" has the meaning given to such term in Clause 38.4 ().
+Non-Consenting Participating Bank
+Replacement of Participating Banks
+ 
+"" has the meaning given to such term in Clause 32.2 ().
+Obligations
+Distributions by the Administrative Agent
+"" means a LG User or the Guarantor.
+Obligor
+"" means the Company, appointed to act on behalf of each Obligor in relation to the Finance Documents pursuant to Clause 2.3 ().
+Obligors' Administrative Agent
+Obligors' Administrative Agent
+"" means the Organization for Economic Cooperation and Development.
+OECD
+"" means a currency (other than the Base Currency) which complies with the conditions set out in Clause 4.4 ().
+Optional Currency
+Conditions relating to Optional Currencies
+"" means:
+Original Financial Statements
+"" means the Company in such capacity, Flowserve B.V., Flowserve Hamburg GMBH, Flowserve Pompes S.A.S., Flowserve GB Limited, Worthington S.R.L. and Flowserve Spain S.L.U.
+Original LG Users
+"" means an Original LG User or the Guarantor.
+Original Obligor
+"" means a Participating Bank having signed this Agreement on the Signature Date and appearing as such under the heading "Commitment" in () of ()
+Original Participating Bank
+Error! Reference source not found.
+Error! Reference source not found.
+Error! Reference source not found.
+Error! Reference source not found.
+"" means that the Company ceases to beneficially own, directly or indirectly, and free and clear of any Security (other than a Permitted Security) shares or other participation interests carrying the right to exercise 100 per cent of the total voting power attached to all classes of the outstanding Voting Capital Stock of each other Obligor.
+Ownership Threshold Event
+"" has the meaning given to such term in Clause 34.7 ().
+Paper Form Participating Bank
+Use of websites
+"" means:
+Participating Bank
+ 
+which in each case has not ceased to be a Participating Bank in accordance with the terms of this Agreement.
+"" means any member state of the European Communities that adopts or has adopted the euro as its lawful currency in accordance with legislation of the European Union relating to Economic and Monetary Union.
+Participating Member State
+"" means a party to this Agreement.
+Party
+"" has the meaning given to such term in Clause 10.2 ().
+Payment Date
+Obligors' Liabilities
+"shall mean the U.S. Pension Benefit Guaranty Corporation referred to and defined in ERISA, or any successor thereto.
+PBGC"
+"" means that the Company or any Subsidiary may acquire all or substantially all the assets of a person or line of business of such person, or not less than 100% of the Capital Stock or other equity interests of a person (hereafter, in this definition, an "Acquired Entity") provided that:
+Permitted Acquisition
+ 
+All calculations required to be made pursuant to this definition shall (i) include only those adjustments that would be permitted or required by Regulation S-X under the Securities Act of 1933, as amended, are reviewed by the Company's Auditors and are based on reasonably detailed written assumptions reasonably acceptable to the Administrative Agent and (ii) be certified to by a legal representative of the Company as having been prepared in good faith based upon reasonable assumptions.
+pro forma
+"means, at any time, any one or more of the following:
+Permitted Investments"
+ 
+"" means, as at any time, any one or more of the following:
+Permitted Security
+ 
+"" means any "employee benefit plan" (as defined in Section 3(3) of ERISA), other than a Multiemployer Plan, maintained or contributed to by the Company, any of its Subsidiaries, or any ERISA Affiliate, or to which the Company, any of its Subsidiaries, or any ERISA Affiliate has an obligation to contribute, and each such plan subject to the provisions of Title IV of ERISA or Section 412 of the Code or Section 302 of ERISA for the five-year period immediately following the latest date on which the Company, any of its Subsidiaries, or any ERISA Affiliate maintained, contributed to, had or may have an obligation to contribute to (or is deemed under Section 4069 of ERISA to have maintained or contributed to or to have had an obligation to contribute to, or otherwise to have liability with respect to) such plan.
+Plan
+"" means in relation to a Participating Bank in respect of any Letter of Credit, the proportion (expressed as a percentage) borne by that Participating Bank's Available Commitment to the Available Facility immediately prior to the issuance of that Letter of Credit, adjusted to reflect any assignment or transfer under this Agreement to or by that Participating Bank.
+Proportion
+ 
+"" means any Capital Stock other than Redeemable Capital Stock.
+Qualified Capital Stock
+"" has the meaning given to that term in Clause 17 ().
+Qualifying Participating Bank
+Tax Gross Up and Indemnities
+"" means, in relation to any period (or day) for which an interest rate or an exchange rate is to be determined:
+Quotation Day
+unless market practice differs in the Relevant Interbank Market for a currency, in which case the Quotation Day for that currency will be determined by the Administrative Agent in accordance with market practice in the Relevant Interbank Market (and if quotations would normally be given by leading banks in the Relevant Interbank Market on more than one day, the Quotation Day will be the last of those days).
+"" shall mean each of S&P and Moody's.
+Rating Agency
+"" has the meaning given to such term in Clause 31.1 ().
+Recovering Finance Party
+Payments to Finance Parties
+"" means any Capital Stock that, either by its terms or by the terms of any security into which it is convertible or exchangeable or otherwise, matures or is, or upon the happening of an event or passage of time would be, required to be redeemed prior to the Maturity Date or is redeemable at the option of the holder thereof at any time prior to the Maturity Date, or is convertible into or exchangeable for debt securities at any time prior to the Maturity Date at the option of the holder thereof.
+Redeemable Capital Stock
+"" means, in relation to EONIA the principal Paris offices of HSBC, Socit Gnrale and BNP Paribas or such other banks as may be appointed by the Administrative Agent in consultation with the Company.
+Reference Banks
+"" means Regulation S-X promulgated by the Securities and Exchange Commission as in effect on the date hereof.
+Regulation S-X
+"" means the business and activities currently or formerly engaged in by any of the Obligors or their respective Subsidiaries and any business, activity or service that is complementary, incidental, related, ancillary or similar thereto or is a reasonable extension, development or expansion thereof or of the technologies, know-how or processes developed or used therein.
+Related Business
+"" in relation to a fund (the ""), means a fund which is managed or advised by the same investment manager or investment adviser as the first fund or, if it is managed by a different investment manager or investment adviser, a fund whose investment manager or investment adviser is an Affiliate of the investment manager or investment adviser of the first fund.
+Related Fund
+first fund
+ 
+"" mean any release, spill, emission, leaking, dumping, injection, pouring, deposit, disposal, discharge, dispersal, leaching or migration into or through the environment or within or upon any building, structure, facility or fixture.
+Release
+"" means in relation to euro, the European interbank market and, in relation to any other currency, the London interbank market.
+Relevant Interbank Market
+"" means, in relation to an Obligor:
+Relevant Jurisdiction
+"" means each period of twelve (12) Months ending on the last day of the Financial Year and each period of six (6) Months ending on the last day of each Financial Semester.
+Relevant Period
+"" has the meaning given to that term in Clause 22.29 ().
+Repeating Representations
+Times when representations made
+"" has the meaning given to such term in Clauses 38.4 () and 38.6 ().
+Replacement Participating Bank
+Replacement of Participating Banks
+Replacement of a Non-Acceptable Participating Bank
+"" means any delegate, Administrative Agent, manager, administrator, nominee, attorney, trustee or custodian.
+Representative
+"" means any obligation of any Flowserve Group Member to provide funds to indemnify another person against a loss or deficiency suffered by such person in the stipulated value of a product manufactured or supplied by any Flowserve Group Member.
+Residual Value Guarantee
+"" means any payment or transfer in cash or in kind by any Flowserve Group Member to any non-Flowserve Group Affiliate in respect of the following:
+Restricted Payment
+ 
+"" means, in relation to the European Overnight Index Average (EONIA), the percentage rate per annum determined daily for deposits in Euros by the European Central Bank and currently displayed on the immediately following Target Day on page EONIA of the Reuters Monitor Rates Services. If this page is replaced or service ceases to be available, the Administrative Agent may specify another page or service displaying the appropriate rate after consultation with the Company and the Participating Banks.
+Screen Rate
+"" has the meaning given to such term in Clause 19.1 ().
+Second Currency
+Currency indemnity
+"" means the Securities Act of 1933 enacted by the Congress of the United States of America on 27 May 1933, as amended.
+Securities Act of 1933
+"" means the Securities and Exchange Commission of the United States of America.
+Securities and Exchange Commission
+"" means a mortgage, charge, pledge, lien or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+Security
+"" has the meaning given to such term in Clause 31.1 ().
+Sharing Payment
+Payments to Finance Parties
+"" means the date of signature of this Agreement.
+Signing Date
+"" means Standard & Poor's Rating Services, a division of The McGraw-Hill Companies, Inc.
+S&P
+"" means a time determined in accordance with ().
+Specified Time
+Error! Reference source not found.
+Error! Reference source not found.
+"" means representations, warranties, covenants and indemnities entered into by any Obligor or any of its respective Subsidiaries that are reasonably customary in receivables or inventory financing facilities, including, without limitation, servicing of the obligations thereunder.
+Standard Securitization Undertakings
+"" means, as at any time, any one or more of the following:
+Statutory Security
+ 
+"" means the group structure chart in the agreed form.
+Structure Chart
+"" means Indebtedness for Borrowed Money of any Flowserve Group Member which either:
+Subordinated Debt
+"" of a person means any company a majority of whose Voting Capital Stock, is owned directly or indirectly, beneficially or otherwise, by such person (but excluding a trust with respect to which such person does not have the ability to appoint a majority of the trustees) and a person will be deemed to be a Subsidiary of another person if it is a Subsidiary of a person that is that other person's Subsidiary.
+Subsidiary
+"" has the meaning given to such term in Clause 19.1 ().
+Sum
+Currency indemnity
+"" means the Trans-European Automated Real-time Gross Settlement Express Transfer payment system which utilises a single shared platform and which was launched on 19 November 2007.
+TARGET2
+ 
+"" means any day on which TARGET2 is open for the settlement of payments in euro.
+TARGET Day
+"" means any tax, levy, impost, duty or other charge or withholding of a similar nature (including any penalty or interest payable in connection with any failure to pay or any delay in paying any of the same).
+Tax
+"" has the meaning given to that term in Clause 15.2 ().
+TEG Letter
+Effective Global Rate (Taux Effectif Global)
+"" means each period for which the Issuing Bank is under a liability under a Letter of Credit, which will be the term of the relevant Letter of Credit, and which shall not be longer than 5 years and in any case shall not extend beyond sixty (60) Business Days before the Maturity Date.
+Term
+"" means the European Union directive No. 2005/60/CE dated 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing.
+Third Anti-Money Laundering European Directive
+"" means the sum, in the Base Currency Amount, of the Commitments of all the Participating Banks being the amount set forth in the line "Total Commitment", in () of () and as it may be cancelled or reduced pursuant to this Agreement.
+Total Commitment
+Error! Reference source not found.
+Error! Reference source not found.
+Error! Reference source not found.
+Error! Reference source not found.
+"" means an agreement substantially in the form set out in () or any other form agreed between the Administrative Agent and the Company.
+Transfer Agreement
+Error! Reference source not found.
+Error! Reference source not found.
+"" means, in relation to a transfer, the later of:
+Transfer Date
+"" has the meaning given to such term in Clause 17.1 ().
+Treaty
+Definitions
+"of any Plan shall mean the amount, if any, by which the value of the accumulated plan benefits under the Plan, determined on a plan termination basis in accordance with actuarial assumptions at such time consistent with those prescribed by the PBGC for purposes of Section 4044 of ERISA, exceeds the fair market value of all plan assets allocable to such liabilities under Title IV of ERISA (excluding any accrued but unpaid contributions).
+Unfunded Pension Liability"
+"" means any sum due and payable but unpaid on its due date by an Obligor under the Finance Documents.
+Unpaid Sum
+"" has the meaning given to such term in Clause 10.3 ().
+Unreimbursed Amount
+Participating Banks' Liabilities
+"" means the issuance of a Letter of Credit.
+Utilisation
+ 
+"" means any tax imposed in accordance with the Council directive of 28 November 2006 on the Common System of the value added tax (EC Directive 2006/112), whether imposed in a member State of the European Union or elsewhere in substitution for or levied in addition to such tax.
+VAT
+"" means the capital stock (whether common shares, preferred shares or other equivalent equity interests, howsoever designated, in the capital stock of a body corporate, equity preferred or common interests in a limited liability company, limited or general partnership interests in a partnership or any other equivalent ownership interest, or the interest of a beneficiary under a trust) of a company which carries voting rights, provided that capital stock which carries the right to vote conditionally upon the happening of an event shall not be considered Voting Capital Stock until the occurrence of such event and then only during the continuance of such event.
+Voting Capital Stock
+"" means Worthington S.R.L. a private company organized and existing under the laws of Italy and having its address at Via Rossini 90/92, 20033 Desio (Milan), Italy.
+Worthington S.R.L.
+ 
+ 
+and the amount by which a Letter of Credit is repaid or prepaid under paragraphs (f)(i) and (f)(ii) above is the amount of the relevant cash cover or reduction.
+Subject to the terms of this Agreement, the Participating Banks make available to the LG Users a multicurrency letter of credit facility in an aggregate amount not to exceed the Base Currency Amount which is equal to the Total Commitment (the "") and pursuant to which Facility, the Issuing Bank agrees to issue, on account of the relevant LG Users, Letters of Credit in favour of certain Beneficiaries.
+Facility
+ 
+ 
+The LG Users shall apply each Letter of Credit issued under the Facility towards guaranteeing the contractual obligations (other than Indebtedness for Borrowed Money), owed by the LG Users in the ordinary course of business, towards the relevant Beneficiaries.
+No Finance Party is bound to monitor or verify the application of any Letter of Credit issued pursuant to this Agreement.
+The Participating Banks acknowledge that all of the documents and other evidence listed in () have been delivered to the Administrative Agent in form and substance satisfactory to the Participating Banks.
+Error! Reference source not found.
+Error! Reference source not found.
+3.2 Conditions Precedent to each Utilisation
+Subject to Clause 3.1 (), the Issuing Bank will only be obliged to issue any Letter of Credit, if on the date of the Issuance Request and on the proposed Issuance Date:
+Conditions precedent to Signing
+The Facility shall only be utilised by way of issuance of Letters of Credit.
+ 
+A LG User (or the Company on its behalf) may request a Letter of Credit to be issued by delivery to the Administrative Agent of a duly completed Issuance Request not later than the Specified Time.
+ 
+ 
+The Available Commitments, which, at that time, are unutilized shall be immediately cancelled at the end of the Availability Period.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Obligor will be entitled to any right of contribution or indemnity from any Finance Party in respect of any payment it may make under this Clause 11.
+SECTION 2  REPAYMENT AND CANCELLATION
+All Letters of Credit shall be repaid in full no later than their Expiry Date and in any case on the Maturity Date.
+If it becomes unlawful in any applicable jurisdiction for a Participating Bank to perform any of its obligations as contemplated by this Agreement or to fund or maintain its participation in any Letter of Credit:
+If it becomes unlawful for the Issuing Bank to issue or leave outstanding any Letter of Credit, then:
+ 
+The Company may, if it gives the Administrative Agent not less than 10 Business Days' (or such shorter period as the Majority Participating Bank may agree) prior notice, prepay the whole of Participating Banks' outstanding liabilities under a Letter of Credit by providing cash collateral to the Administrative Agent in an amount equal to the Participating Banks' liabilities under such Letter of Credit.
+ 
+Any notice of cancellation, prepayment or authorisation given by any Party under Clause 13 () shall (subject to the terms of this Clause) be irrevocable and, unless a contrary indication appears in this Agreement, any such notice shall specify the date or dates upon which the relevant cancellation or prepayment is to be made and the amount of that cancellation or prepayment.
+Illegality, Voluntary Prepayment and Cancellation
+Any prepayment under this Agreement shall be made together with accrued interest and fees on the amount prepaid but otherwise without premium or penalty.
+No LG User shall repay or prepay all or any part of the Letters of Credit or cancel all or any part of the Commitments except at the times and in the manner expressly provided for in this Agreement.
+No amount of the Commitments or of the Total Commitment cancelled under this Agreement may be subsequently reinstated.
+ 
+If the Administrative Agent receives a notice under Clause 13 (), it shall promptly forward a copy of that notice or election to either the Company or the affected Participating Bank, as appropriate.
+Illegality, Voluntary Prepayment and Cancellation
+SECTION 3  COSTS OF UTILISATION
+For the purposes of articles L.313-1 , R.313-1 and R.313-2 of the French , the Parties acknowledge that by virtue of certain characteristics of the Facility the cannot be calculated at the Signing Date. However, the LG Users acknowledge that they have received from the Administrative Agent a letter containing an indicative calculation of the , based on examples calculated on assumptions as to the and set out in the letter (the ""). The Parties acknowledge that such letter forms part of this Agreement.
+et seq.
+Code de la consommation
+taux effectif global
+taux effectif global
+taux de priode
+dure de priode
+TEG Letter
+ 
+The Company shall pay to the Administrative Agent (for the account of each Participating Bank) a participation fee at the rate of 0.35 per cent on such Participating Bank Commitment up front at the Signing Date.
+The Company shall pay to the Administrative Agent (for its own account) an agency fee in the amount and at the times agreed in a Fee Letter.
+The Company shall pay to the Arranger an arrangement fee in the amount and at the times agreed in a Fee Letter.
+Each LG User shall pay to the Issuing Bank (for its own account), in respect of the Letters of Credit issued at such LG User's request, an issuance fee in the amount and at the times agreed in a Fee Letter. This issuance fee does not take into account the local reissuing bank and stamps fees that may be paid by the Issuing Bank to the local reissuing bank in the case of an issuance of a Letter of Credit made through a local bank and charged to the Issuing Bank which shall be added to the Issuance fee and paid by the Company.
+ 
+SECTION 4  ADDITIONAL PAYMENT OBLIGATIONS
+"" has the meaning given to such term in Clause 17.6 ().
+Recipient
+Value added tax
+"" has the meaning given to such term in Clause 17.6 ().
+Subject Party
+Value added tax
+"" has the meaning given to such term in Clause 17.6 ().
+Supplier
+Value added tax
+"" means a credit against, relief or remission for, or repayment of any Tax.
+Tax Credit
+"" means a deduction or withholding for or on account of Tax from a payment under a Finance Document.
+Tax Deduction
+"" means either the increased in a payment made by the Company or an Obligor to a Finance Party under Clause 17.2 () or a payment under Clause 17.3 ().
+Tax Payment
+Tax gross-up
+Tax indemnity
+"" means a Participating Bank which:
+Treaty Participating Bank
+ 
+ 
+if that Tax (other than tax deducted or withheld from any payments) is imposed on or calculated by reference to the net income received or receivable (but not any sum deemed to be received or receivable) by that Finance Party; or
+ 
+If the Company or the relevant Obligor makes a Tax Payment and the relevant Finance Party determines that:
+the Finance Party shall (to the extent that that Finance Party can do so without prejudicing the amount of the Tax Credit and the right of that Finance Party to obtain any other benefit, relief or allowance which may be available to it) pay an amount to the Company or the relevant Obligor which that Finance Party determines will leave it (after that payment) in the same after-Tax position as it would have been in had the Tax Payment not been required to be made by the Obligor.
+The Company shall pay and, within three Business Days of demand, indemnify each Finance Party against any cost, loss or liability that such Finance Party incurs in relation to all stamp duty, registration and other similar Taxes payable in respect of any Finance Document.
+ 
+ 
+ 
+The Company shall (or shall procure that an Obligor will), within three Business Days of demand, indemnify each Finance Party against any cost, loss or liability incurred by it as a result of:
+ 
+in all cases, whether or not caused by or arising, in whole or in part, out of the comparative, contributory or sole negligence of the Indemnitee; provided that such indemnity shall not, as to any Indemnitee, be available to the extent that such losses, claims, damages, liabilities or related expenses are determined by a court of competent jurisdiction by final and non-appealable judgment to have resulted from the gross negligence or willful misconduct of such Indemnitee.
+To the extent permitted by Applicable Law, each Obligor waives any claim against any Indemnitee under any theory of liability for special, indirect, consequential or punitive damages (as opposed to direct or actual damages) arising out of or in connection with the Finance Documents, the transactions contemplated by the Finance Documents, any Letter of Credit or the use of the proceeds thereof.
+The Company shall promptly indemnify the Administrative Agent against any cost, loss or liability incurred by the Administrative Agent (acting reasonably) as a result of:
+ 
+The Company shall promptly on demand pay the Administrative Agent, the Arranger and the Issuing Bank the amount of all costs and expenses (including legal fees) reasonably incurred by any of them in connection with the negotiation, preparation, printing, execution, syndication and perfection of:
+If (a) an Obligor requests an amendment, waiver or consent or (b) an amendment is required pursuant to Clause 32.10 (), the Company shall, within three Business Days of demand, reimburse the Administrative Agent for the amount of all costs and expenses (including legal fees) reasonably incurred by the Administrative Agent in responding to, evaluating, negotiating or complying with that request or requirement.
+Change of currency
+The Company shall, within three Business Days of demand, pay to the Arranger and each other Finance Party the amount of all costs and expenses (including legal fees) incurred by it in connection with the enforcement of or the preservation of any rights under any Finance Document.
+SECTION 5  REPRESENTATIONS, UNDERTAKINGS AND EVENTS OF DEFAULT
+Each Obligor makes the representations and warranties set out in this Clause 22 to each Finance Party.
+ 
+This Agreement has been duly executed and delivered by the Company and the other Obligors party hereto and constitutes, and each other Finance Document when executed and delivered by each Obligor thereto will, subject to the Legal Reservations, constitute, a legal, valid and binding obligation of such Obligor enforceable against such Obligor in accordance with its terms and subject to any general principles of law limiting such obligations which are specifically referred to in a Legal Opinion.
+1
+ 
+No Authorisation by any Governmental Authority is or will be required in connection with the entry into and performance by an Obligor of, and the transactions contemplated by, the Finance Documents and the granting of the Flowserve Corporation Guarantee, except for such as have been made or obtained and are in full force and effect.
+Since 31 December 2008, no event, change or condition has occurred that has had, or could reasonably be expected to have, a Material Adverse Effect.
+ 
+ 
+Neither the Company nor any Other Obligor is an "investment company" as defined in, or subject to regulation under, the Investment Company Act of 1940.
+The Obligors will request the issuance of Letters of Credit linked to performance obligations pursuant to commercial contracts (other than Indebtedness for Borrowed Money) permitted under this Agreement and incurred by the Obligors in the ordinary course of business.
+The Company and each of its Subsidiaries:
+None of any information, report, financial statement, exhibit or schedule furnished by or on behalf of the Company or any other Obligor to the Administrative Agent or any Participating Bank in connection with the negotiation of any Finance Document or included therein or delivered pursuant thereto contained, contains or will contain any material misstatement of fact or omitted, omits or will omit to state any material fact necessary to make the statements therein, in the light of the circumstances under which they were, are or will be made, not misleading; provided that to the extent any such information, report, financial statement, exhibit or schedule was based upon or constitutes a forecast or projection, the Company and each other Obligor represents only that it acted in good faith and utilized reasonable assumptions and due care in the preparation of such information, report, financial statement, exhibit or schedule.
+ 
+Each Plan is in compliance in all respects in form and operation with its terms and with the applicable provisions of ERISA and the Code, and all other Applicable law, except where such non-compliance, individually or in the aggregate, could not reasonably be expected to result in a Material Adverse Effect. No ERISA Event has occurred or is reasonably expected to occur that, when taken together with all other ERISA Events, could reasonably be expected to result in a Material Adverse Effect. There exists no Unfunded Pension Liability with respect to Plans in the aggregate (taking into account only Plans with positive Unfunded Pension Liability) in excess of US $1,000,000. Each Plan (and each related trust, if any) which is intended to be qualified under Section 401(a) of the Code has received a favorable determination letter from the IRS to the effect that it meets the requirements of Sections 401(a) and 501(a) of the Code covering all applicable tax law changes or is comprised of a master or prototype plan that has received a favorable opinion letter from the IRS, and, nothing has occurred since the date of such determination that would adversely affect such determination. There are no actions, suits or claims pending against or involving a Plan (other than routine claims for benefits) or, to the knowledge of the Company, any of its Subsidiaries, or any ERISA Affiliate, threatened, which could reasonably be expected to be asserted successfully against any Plan and, if so asserted successfully, could reasonably be expected either singly or in the aggregate to have a Material Adverse Effect. No Plan which is subject to Section 412 of the Code or Section 302 of ERISA has applied for or received an extension of any amortization period, within the meaning of Section 412 of the Code or Section 303 or 304 of ERISA. None of the Company, any of its Subsidiaries, or any ERISA Affiliate has ceased operations at a facility so as to become subject to the provisions of Section 4068(a) of ERISA, withdrawn as a substantial employer so as to become subject to the provisions of Section 4063 of ERISA or ceased making contributions to any Plan subject to Section 4064(a) of ERISA to which it made contributions. None of the Company, any of its Subsidiaries, or any ERISA Affiliate has incurred or reasonably expects to incur any liability to PBGC save for any liability for premiums due in the ordinary course or other liability which could not reasonably be expected to have a Material Adverse Effect, and no lien imposed under the Code or ERISA on the assets of the Company, any of its Subsidiaries, or any ERISA Affiliate exists or is likely to arise on account of any Plan. None of the Company, any of its Subsidiaries, or any ERISA Affiliate has any liability under Section 4069 or 4212(c) of ERISA.
+Except with respect to any other matters that, individually or in the aggregate, could not reasonably be expected to result in a Material Adverse Effect, neither the Company, nor any of its Subsidiaries:
+ 
+The Company and its Subsidiaries have insurance in such amounts and covering such risks and liabilities as are in accordance with normal industry practice.
+On the Signing Date and immediately following the issuance of each Letter of Credit and after giving effect to the drawing of each Letter of Credit, (a) the fair value of the assets of each Obligor, at a fair valuation, will exceed its debts and liabilities, subordinated, contingent or otherwise; (b) the present fair saleable value of the property of each Obligor will be greater than the amount that will be required to pay the probable liability of its debts and other liabilities, subordinated, contingent or otherwise, as such debts and other liabilities become absolute and matured; (c) each Obligor will be able to pay its debts and liabilities, subordinated, contingent or otherwise, as such debts and liabilities become absolute and matured; and (d) each Obligor will not have unreasonably small capital with which to conduct the business in which it is engaged as such business is now conducted and is proposed to be conducted following the Signing Date.
+All Indebtedness for Borrowed Money owed by an Obligor (other than an Obligor incorporated in the United States of America) to the Company or to another Obligor is Subordinated Debt.
+ 
+The Structure Chart delivered to the Administrative Agent pursuant to Schedule 2 () is true, complete and accurate in all material respects as at the Signing Date.
+Conditions Precedent
+For the purposes of The Council of the European Union Regulation No. 1346/2000 on Insolvency Proceedings (the ""), the centre of main interest (as that term is used in Article 3(1) of the EU Regulation) of the Obligors incorporated in the European Union, is situated in its jurisdiction of incorporation and it has no "establishment" (as that term is used in Article 2(h) of the EU Regulations) in any other jurisdiction.
+EU Regulation
+Subject to the Legal Reservations:
+ 
+The undertakings in this Clause 23 shall remain in force from the Signing Date for so long as any amount is outstanding under the Finance Documents or any Commitment is in force.
+In this Clause 23:
+"" means the financial statement delivered pursuant to Clause 23.1 ().
+Annual Financial Statements
+Financial statements
+"" means the financial statement delivered pursuant to Clause 23.1 ().
+Annual Consolidated Financial Statements
+Financial statements
+"" means the financial statement delivered pursuant to Clause 23.1 ().
+Semester Consolidated Financial Statements
+Financial statements
+"" means the financial statement delivered pursuant to Clause 23.1 ().
+Semester Financial Statements
+Financial statements
+ 
+The Company shall supply to the Administrative Agent in sufficient copies for all the Participating Banks and the Issuing Bank:
+ 
+unless, in relation to any set of financial statements, the Company notifies the Administrative Agent that there has been a change in the Accounting Principles or the accounting practices and its Auditors (or, if appropriate, the Auditors of the relevant Obligor) deliver to the Administrative Agent:
+Any reference in this Agreement to any financial statements shall be construed as a reference to those financial statements as adjusted to reflect the basis upon which the Original Financial Statements were prepared.
+The Obligors shall not change the Flowserve Group's Financial Year and shall procure that each member of the Flowserve Group's Financial Year end will not change.
+ 
+The Company shall supply to the Administrative Agent (in sufficient copies for all the Participating Banks and the Issuing Bank, if the Administrative Agent so requests) or notify the Administrative Agent of:
+ 
+ 
+ 
+"" means, in relation to any person, for any Relevant Period (i) the annual Consolidated Net Income or loss for such period determined in accordance with the Accounting Principles, (ii) minus the gains or plus the losses incurred in connection with any special items as reported in the financial statements of such person, (iii) minus any other non-cash gains that have been added in determining net income or loss, in each case to the extent included in the calculation of net income or loss for such Relevant Period in accordance with the Accounting Principles, (iv) plus any other non-cash losses that have been deducted in determining net income or loss, in each case to the extent included in the calculation of net income or loss for such period in accordance with the Accounting Principles, plus (v) all amounts deducted in computing the net income or loss for such period in respect of depreciation and amortization expense, Consolidated Interest Expense and income tax expense without taking into account any re-valuation of assets. With respect to Flowserve Group, EBITDA is calculated on each Financial Year, and "special items" means extraordinary items in accordance with the Accounting Principles, and items reported as special items in the Annual or Semester Consolidated Financial Statement to the extent that such items are non cash and non recurring.
+Consolidated EBITDA
+"" for any Relevant Period, means all interest expense (including discount and acceptance fees in respect of bankers' acceptances, depository bills or depository notes and other financing fees paid or required to be paid during such period (whether subsequently capitalized or not) under any Banking Facility or in respect of Subordinated Debt, in each case calculated on a consolidated basis and otherwise in accordance with the Accounting Principles.
+Consolidated Interest Expense
+"" for any Relevant Period means, the net income or loss of the Company and its Affiliate for such Relevant Period determined on a consolidated basis in accordance with the Accounting Principles.
+Consolidated Net Income
+"" means the aggregate amount of Indebtedness for Borrowed Money of the Flowserve Group on a consolidated basis.
+Flowserve Group Indebtedness
+"" means the ratio of Flowserve Group Indebtedness to Consolidated EBITDA.
+Leverage Ratio
+ 
+"" means the ratio of Consolidated EBITDA to Consolidated Interest Expense in respect of any Relevant Period.
+Interest Coverage Ratio
+"" means total shareholder's equity (including capital stock, additional paid in capital and retained earnings after deducting treasury stock) that would appear on the balance sheet of the respective Obligor and its Affiliates on a consolidated basis in accordance with the Accounting Principles.
+Net Worth
+The financial covenants set out in Clause 24.2 shall be calculated in accordance with the Accounting Principles and tested by reference to each of the consolidated financial statements of the Company delivered pursuant to paragraph (a) of Clause 23.1 () and/or each Compliance Certificate delivered pursuant to Clause 23.2 ().
+Financial statements
+Provision and contents of Compliance Certificate
+The undertakings in this Clause 25 shall remain in force from the Signing Date for so long as any amount is outstanding under the Finance Documents or any Commitment is in force.
+Each Obligor shall (and shall procure (in accordance with article 1120 of the French ()) that each of its Subsidiaries will):
+Code civil
+promesse de porte-fort
+ 
+Each Obligor shall (and shall procure (in accordance with article 1120 of the French ()) that each of its Subsidiaries will):
+Code civil
+promesse de porte-fort
+Each Obligor shall (and shall procure (in accordance with article 1120 of the French ()) that each of its Subsidiaries will) pay its Indebtedness for Borrowed Money promptly and in accordance with their terms and pay and discharge promptly when due all taxes, assessments and governmental charges or levies imposed upon it or upon its income or profits or in respect of its property, before the same shall become delinquent or in default, as well as all lawful claims for labor, materials and supplies or otherwise that, if unpaid, might give rise to a Security upon such properties or any part thereof; provided, however, that such payment and discharge shall not be required with respect to any such tax, assessment, charge, levy or claim so long as:
+Code civil
+promesse de porte-fort
+ 
+Each Obligor shall (and shall procure (in accordance with article 1120 of the French ()) that each of its Subsidiaries will):
+Code civil
+promesse de porte-fort
+The Obligors undertake to request the issuance of Letters of Credit for contingent obligations (including obligations as an account party under any letter of credit) solely in respect of surety and performance bonds, bank guarantees and similar obligations in respect of contractual obligations of the Obligors or of the contractual obligations of a wholly-owned Subsidiary of the relevant LG User other than Indebtedness for Borrowed Money, provided that in all cases:
+Each Obligor shall (and shall procure (in accordance with article 1120 of the French ()) that each of its Subsidiaries will) maintain its bank accounts segregated from, and not commingled with, any bank accounts of a non-Flowserve Group Member.
+Code civil
+promesse de porte-fort
+Each Obligor undertakes to execute and/or deliver any and all further documents, agreements and instruments, and take (or authorize) all further action (including delivery local counsel opinions) that may be required under Applicable Law in order to effectuate the transactions contemplated by the Finance Documents.
+ 
+No Obligor shall (and the Company shall procure (in accordance with article 1120 of the French ()) that none of its Subsidiaries will) issue or have outstanding any Guarantee with respect to any indebtedness or other obligations of the Flowserve Group except for certain specified immaterial, ordinary course transactions not relating to Banking Facilities, and except for the Guarantees granted under the Existing Credit Agreement and the Bank of America Credit Agreement.
+Code civil
+promesse de porte-fort
+No Obligor shall (and the Company shall procure (in accordance with article 1120 of the French ) that none of its Subsidiaries will) engage in any business other than a Related Business, except to such extent as would not be material to the LG Users or the Flowserve Group, taken as a whole.
+Code civil (promesse de porte-fort)
+No Obligor shall (and the Company shall procure (in accordance with article 1120 of the French ) that none of its Subsidiaries will) create, incur, assume or allow to subsist any Security over any of its present or future assets so as to secure any of its obligations under or in connection with any Banking Facility, other than Permitted Security.
+Code civil (promesse de porte-fort)
+Without prejudice to any other provisions of this Agreement, the Company, in its capacity as the Company, shall not (and shall procure (in accordance with article 1120 of the French ) that none of its Affiliate will) create, incur, assume or allow to subsist any Security on or over the Capital Stock of any Flowserve Corporation Affiliate if such Security would cause an Event of Default under Clause 25.10 in connection with Banking Facilityabove.
+Code civil (promesse de porte-fort)
+(Security
+)
+ 
+ 
+No Obligor shall (and the Company shall procure (in accordance with article 1120 of the French ) that none of its Material Subsidiaries will) change its Accounting Reference Date or the end of any of its fiscal quarters.
+Code civil (promesse de porte-fort)
+ 
+The Company shall procure (in accordance with article 1120 of the French that none of its Material Subsidiaries will issue any Capital Stock to any person other than to the Company or a wholly-owned Subsidiary of the Company.
+Code civil (promesse de porte-fort)
+No Obligor shall (and the Company shall procure (in accordance with article 1120 of the French ()) that none of its Subsidiaries will) enter into cash pooling transaction, cash management or other netting agreement except if all other parties to such agreements are Flowserve Group Members or banks ().
+Code civil
+promesse de porte-fort
+tablissements de crdit
+The Company shall not, itself, contract, create, incur, assume or suffer to exist any Indebtedness for Borrowed Money, except as permitted as far as it is concerned under clause 6.01 () of the Bank of America Credit Agreement.
+Indebtedness
+No Obligor (other than the Company) shall (and the Company shall procure (in accordance with article 1120 of the French ()) that none of its Subsidiaries will) contract, create, incur, assume or suffer to exist any Indebtedness for Borrowed Money, except;
+Code civil
+promesse de porte-fort
+ 
+No Obligor (other than the Company) shall (and the Company shall procure (in accordance with article 1120 of the French that none of its Subsidiaries will) directly or indirectly, make loans or advances to or make, retain or have outstanding any investments (whether through purchase of equity interests or obligations or otherwise) in, any person or enter into any partnerships or joint ventures, or purchase or own a futures contract or otherwise become liable for the purchase or sale of currency or other commodities at a future date in the nature of a futures contract, except that this Clause shall not prevent:
+Code civil (promesse de porte-fort)
+ 
+Without prejudice of the rights and remedies of the Finance Parties under this Agreement, the Company shall procure that, as soon as it becomes aware of it (and in compliance with the provisions of Clause 23.8 (), paragraph (c), any person becoming a Holding Company of the Guarantor accede as additional Guarantor in compliance with and subject to the provisions of Clause 28 ().
+"Know your customer" checks
+Changes to the Obligors
+Before the 30th November 2009, the Company shall provide to the Administrative Agent a certified copy of the audited Financial Statements of Flowserve BV for the Financial Year ended 31 December 2008, together with the Auditor report relating thereto and such report shall not reveal qualification(s) made by the Auditors having a Material Adverse Effect.
+The Company shall provide to the Administrative Agent, no later than two (2) months before the contemplated date of such refinancing, the following information in relation to the refinancing of the Bank of America Credit Agreement: (i) the proposed amount of the refinancing, (ii) the maturity date of the proposed facility and (iii) the type of Guarantee to be granted by the Flowserve Group Members in connection with such refinancing.
+Each of the events or circumstances set out in this Clause 26 is an Event of Default (save for Clause 26.19).
+An Obligor does not pay on the due date any amount payable pursuant to a Finance Document at the place at and in the currency in which it is expressed to be payable (except to the extent the same is paid by the Guarantor) unless payment (other than payment in respect of a Claim) is made within seven Business Days of its due date.
+ 
+(a) One or more ERISA Events shall have occurred; (b) there is or arises an Unfunded Pension Liability (taking into account only Plans with positive Unfunded Pension Liability); or (c) there is or arises any potential withdrawal liability under Section 4201 of ERISA, if the Company, any of its Subsidiaries, or any ERISA Affiliate were to withdraw completely from any and all Multiemployer Plans; and the liability of any or all of the Company, its Subsidiaries, and the ERISA Affiliates contemplated by the foregoing clauses (a), (b), and (c), either individually or in the aggregate, exceeds or would be reasonably expected to exceed $10,000,000.
+Any Obligor or a Material Subsidiary is subject to an Insolvency Event.
+ 
+Any representation or statement made or deemed to be made by an Obligor in the Finance Documents or any other document delivered by or on behalf of any Obligor under or in connection with any Finance Document is or proves to have been materially incorrect or misleading when made or deemed to be made, unless the failure to comply is capable of remedy and is remedied within 15 Business Days of the earlier of the Administrative Agent giving written notice to the Company or to the relevant Obligor.
+Any Obligor or its Material Subsidiaries taken as a whole, cease, or threaten to cease, to carry on all or a substantial part of its business unless all amounts owing under the Finance Documents have been fully repaid, or full cash collateral provided in respect of all contingent obligations, no later than the date of the cessation.
+ 
+Any Obligor (other than the Company) is not or ceases to be, directly or indirectly, a wholly-owned Subsidiary of the Company unless:
+Any event or circumstance occurs which the Majority Participating Banks reasonably believe has or is reasonably likely to have a Material Adverse Effect.
+ 
+An Ownership Thresholds Event occurs and, at any time thereafter, the Administrative Agent (acting on instruction of the Majority Participating Banks) has given notice to the Company and 30 days have elapsed from the date of that notice.
+The Company or any of its Subsidiaries creates, incurs, assumes or allows to subsist any Security (other than a Permitted Security under paragraphs (h) and (i)) of the definition of Permitted Security) over shares or other participation interest held by it, directly or indirectly carrying the right to exercise any voting power attached to any class of the outstanding Voting Capital Stock of the Company or another Obligor or so as to result in an Ownership Thresholds Event.
+and any Finance Party, in its opinion acting reasonably, considers that its rights under the Finance Documents may be prejudiced thereby.
+On and at any time after the occurrence of an Event of Default which is continuing, the Issuing Bank (in the case of paragraph (a) below) or the Administrative Agent may without or any other judicial or extra judicial step, and shall if so directed by the Majority Participating Banks, by notice to the Company:
+mise en demeure
+ 
+SECTION 6  CHANGES TO PARTIES
+ 
+ 
+The New Participating Bank shall, on the date upon which an assignment or transfer takes effect, pay to the Administrative Agent (for its own account) a fee of 2,500.
+ 
+The Administrative Agent shall, as soon as reasonably practicable after it has executed a Transfer Agreement, send to the Company a copy of that Transfer Agreement.
+Without prejudice to the rights granted to the Participating Banks pursuant to this Clause 27, each Participating Bank may, at any time, without consulting with or obtaining any authorization from an Obligor, pledge, grant a Security over or assign as a security in any manner whatsoever (by way of assignment as security or by any other mean) all or part of its rights pursuant to any Finance Document in order to secure the obligations of such Participating Bank, including:
+ 
+Provided that such pledge, assignment security or other Security cannot have the effect to:
+No Obligor may assign any of its rights or transfer any of its rights or obligations under the Finance Documents, except in accordance with Clause 25.13(c) and subject to the provisions of Clause 25.13(d).
+ 
+Delivery of an Accession Letter constitutes confirmation by the relevant Subsidiary that the representations and warranties referred to in paragraph (a) of Clause 22.29 () are true and correct in relation to it as at the date of delivery as if made by reference to the facts and circumstances then existing.
+Times when representations made
+SECTION 7  THE FINANCE PARTIES
+ 
+Except as specifically provided in the Finance Documents, the Arranger has no obligations of any kind to any other Party under or in connection with any Finance Document.
+ 
+The Administrative Agent, the Arranger and the Issuing Bank may accept deposits from, lend money to and generally engage in any kind of banking or other business with any member of the Flowserve Group.
+ 
+None of the Administrative Agent, the Arranger or the Issuing Bank:
+ 
+Each Participating Bank shall (in proportion to its share of the Total Commitment or, if the Commitments are then zero, to its share of the Total Commitment and outstanding Utilisations) indemnify the Administrative Agent, within three Business Days of demand, against any duly documented cost, loss or liability (including, without limitation, for negligence or any other category of liability whatsoever) incurred by the Administrative Agent (otherwise than by reason of the Administrative Agent's gross negligence or wilful misconduct) (or, in the case of any cost, loss or liability pursuant to Clause 32.11 () notwithstanding the Administrative Agent's negligence, gross negligence or any other category of liability whatsoever but not including any claim based on the fraud of the Administrative Agent in acting as Administrative Agent under the Finance Documents (unless the Administrative Agent has been reimbursed by an Obligor pursuant to a Finance Document)).
+Disruption to Payment Systems etc.
+ 
+ 
+ 
+Without affecting the responsibility of any Obligor for information supplied by it or on its behalf in connection with any Finance Document, each Participating Bank and the Issuing Bank confirms to the Administrative Agent, the Arranger and the Issuing Bank that it has been, and will continue to be, solely responsible for making its own independent appraisal and investigation of all risks arising under or in connection with any Finance Document including but not limited to:
+Any amount payable to the Administrative Agent under Clause 19.4 (), Clause 21 () and Clause 29.10 () shall include the cost of utilising the Administrative Agent's management time or other resources and will be calculated on the basis of such reasonable and documented daily or hourly rates as the Administrative Agent may notify to the Company and the Participating Banks, and is in addition to any fee paid or payable to the Administrative Agent under Clause 16 ().
+Indemnity to the Administrative Agent
+Costs and Expenses
+Participating Banks' indemnity to the Administrative Agent
+Fees
+If any Party owes an amount to the Administrative Agent under the Finance Documents the Administrative Agent may, after giving notice to that Party, deduct an amount not exceeding that amount from any payment to that Party which the Administrative Agent would otherwise be obliged to make under the Finance Documents and apply the amount deducted in or towards satisfaction of the amount owed. For the purposes of the Finance Documents that Party shall be regarded as having received any amount so deducted.
+Each Finance Party confirms that each of the Arranger and the Administrative Agent has authority to accept on its behalf (and ratifies the acceptance on its behalf of any letters or reports already accepted by the Arranger or Administrative Agent) the terms of any reliance letter or engagement letters relating to any reports or letters provided by accountants in connection with the Finance Documents or the transactions contemplated in the Finance Documents and to bind it in respect of those reports or letters and to sign such letters on its behalf and further confirms that it accepts the terms and qualifications set out in such letters.
+ 
+No provision of this Agreement will:
+If a Finance Party (a "") receives or recovers any amount from an Obligor (including following a set-off) other than in accordance with Clause 32 () and applies that amount to a payment due under the Finance Documents then:
+Recovering Finance Party
+Payment Mechanics
+The Administrative Agent shall treat the Sharing Payment as if it had been paid by the relevant Obligor and distribute it between the Finance Parties (other than the Recovering Finance Party) in accordance with Clause 32.6 ().
+Partial payments
+ 
+If any part of the Sharing Payment received or recovered by a Recovering Finance Party becomes repayable and is repaid by that Recovering Finance Party, then:
+ 
+SECTION 8  ADMINISTRATION
+The Administrative Agent may (with the consent of the Obligor or in accordance with Clause 33 ()) apply any amount received by it for that Obligor in or towards payment (on the date and in the currency and funds of receipt) of any amount due from that Obligor under the Finance Documents or in or towards purchase of any amount of any currency to be so applied.
+Set-Off
+ 
+ 
+ 
+If either the Administrative Agent determines (in its discretion) that a Disruption Event has occurred or the Administrative Agent is notified by the Company that a Disruption Event has occurred:
+ 
+ 
+Promptly upon receipt of notification of an address or fax number or change of address or fax number pursuant to Clause 34.2 () or changing its own address or fax number, the Administrative Agent shall notify the other Parties.
+Addresses
+If the Administrative Agent is an Impaired Administrative Agent the Parties may, instead of communicating with each other through the Administrative Agent, communicate with each other directly and (while the Administrative Agent is an Impaired Administrative Agent) all the provisions of the Finance Documents which require communications to be made or notices to be given to or by the Administrative Agent shall be varied so that communications may be made and notices given to or by the relevant Parties directly. This provision shall not operate after a replacement Administrative Agent has been appointed.
+ 
+The Company may satisfy its obligation under this Agreement to deliver any information in relation to those Participating Banks (the "") who accept this method of communication by posting (through the Administrative Agent) this information onto an electronic website designated by the Company and the Administrative Agent (the "") if:
+Website Participating Banks
+Designated Website
+ 
+In any litigation or arbitration proceedings arising out of or in connection with a Finance Document, the entries made in the accounts maintained by a Finance Party are evidence of the matters to which they relate.
+prima facie
+Any certification or determination by a Finance Party of a rate or amount under any Finance Document is, in the absence of manifest error, conclusive evidence of the matters to which it relates.
+Any interest, commission or fee accruing under a Finance Document will accrue from day to day and is calculated on the basis of the actual number of days elapsed and a year of 360 days or, in any case where the practice in the Relevant Interbank Market differs, in accordance with that market practice.
+If, at any time, any provision of the Finance Documents is or becomes illegal, invalid or unenforceable in any respect under any law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions nor the legality, validity or enforceability of such provision under the law of any other jurisdiction will in any way be affected or impaired.
+ 
+No failure to exercise, nor any delay in exercising, on the part of any Finance Party, any right or remedy under the Finance Documents shall operate as a waiver, nor shall any single or partial exercise of any right or remedy prevent any further or other exercise or the exercise of any other right or remedy. The rights and remedies provided in this Agreement are cumulative and not exclusive of any rights or remedies provided by law.
+Notwithstanding the provisions of this Clause 38 but subject to Clause 29.1(b), the Administrative Agent may without consulting the Participating Banks, decide upon purely administrative matters and, without referring to the Participating Banks, enter into amendments of a purely technical nature to fix errors which are manifest upon reading this Agreement.
+ 
+ 
+ 
+unless it has received notice to the contrary from the Participating Bank concerned (together with any supporting evidence reasonably requested by the Administrative Agent) or the Administrative Agent is otherwise aware that the Participating Bank has ceased to be a Defaulting Participating Bank
+to a Participating Bank or other bank, financial institution, trust, fund or other entity (a "") selected by the Company, which is an Acceptable Bank and which is acceptable to the Issuing Bank (acting reasonably), which confirms its willingness to assume and does assume all the obligations or all the relevant obligations of the transferring Participating Bank (including the assumption of the transferring Participating Bank's participations or unfunded participations (as the case may be) on the same basis as the transferring Participating Bank including in respect of outstanding Letters of Credit) for a purchase price in cash payable at the time of transfer equal to the outstanding principal amount of such Participating Bank's participation in the payments made by the Participating Bank hereunder and not yet refunded to it, together with all accrued interest and/or Letter of Credit fees and other amounts payable in relation thereto under the Finance Documents.
+Replacement Participating Bank
+ 
+ 
+in each case, such Confidential Information as that Finance Party shall consider appropriate if:
+This Clause 39 () constitutes the entire agreement between the Parties in relation to the obligations of the Finance Parties under the Finance Documents regarding Confidential Information and supersedes any previous agreement, whether express or implied, regarding Confidential Information.
+Confidentiality
+SECTION 9  GOVERNING LAW AND ENFORCEMENT
+ 
+Without prejudice to any other mode of service allowed under any relevant law, each Obligor (other than an Obligor otherwise domiciled in France) irrevocably elects domicile at c/o Flowserve Pompes SAS, 13 rue Maurice Trintignant, 72234 Arnage, France, for the purpose of serving any judicial or extra-judicial documents in relation to any action or proceedings referred to above.
+This Agreement has been entered into on the date stated at the beginning of this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,331 @@
+FILE:NVDA/NVDA-8K-20100217165056.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+ 
+ 
+SECTION 2 - Financial Information
+ 
+Item 2.02 Results of Operations and Financial Condition.
+On , NVIDIA Corporation issued a press release announcing its results for the three months and fiscal year ended January 31, 2010. The press release is attached as Exhibit 99.1 and is incorporated herein by reference.
+February 17, 2010
+Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by David L. White, Executive Vice President and Chief Financial Officer of NVIDIA, regarding results of the quarter ended January 31, 2010, or the CFO Commentary.  The CFO Commentary will be posted to www.nvidia.com/ir immediately after the filing of this Current Report.
+ 
+The press release and CFO Commentary are furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by NVIDIA Corporation, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+ 
+SECTION 9 - Financial Statements and Exhibits
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+(d) Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+ 
+
+FOR IMMEDIATE RELEASE:
+   
+EXHIBIT 99.1
+ 
+   
+   
+   
+  &# 160;
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+&# 160;  
+  
+ 
+ 
+For further information, contact:
+Michael Hara                                                                                      Robert Sherbin
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+Investor Relations                                                                                     Corporate Communications
+   
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+  
+NVIDIA Corporation                                                                                      NVIDIA Corporation
+   
+   
+   
+   
+   
+   
+  
+   
+   
+   
+   
+   
+   
+ 
+(408) 486-2511                                                                                     (408) 566-5150
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+mhara@nvidia.com                                                                                    rsherbin@nvidia.com
+   
+   
+   
+   
+0;  
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+   
+   
+   
+    ;
+   
+   
+   
+   
+   
+   
+EXHIBIT 99.2
+Commencing with the fourth quarter, non-GAAP is now defined to include stock based compensation.  As a result, stock-based compensation will no longer be a reconciling item between GAAP and non-GAAP measures. All historical non-GAAP measures presented below have been prepared on this basis.
+Summary Results
+Revenue for the fourth quarter of fiscal 2010 was $982.5 million, up nearly 9 percent from $903.2 million in the prior quarter and higher than our guidance of around 2 percent growth. Revenue more than doubled from that of a year ago, and represented our fourth consecutive quarter of strong revenue growth.
+GAAP gross margin for the quarter was 44.7 percent, up 1.3 points over the prior quarters GAAP gross margin of 43.4 percent and also above our guidance of 40 to 42 percent.  The companys third quarter results included a $25.1 million credit for insurance proceeds, of which $24.1 million was recorded as a benefit to cost of revenue.  Excluding this benefit, non-GAAP gross margin improved 4.0 points from the third to fourth quarters.
+GAAP net income for the quarter was $131.1 million, or $0.23 per diluted share, compared with a GAAP net income of $107.6 million, or $0.19 per share, in the prior quarter.  Excluding the aforementioned insurance benefit and the associated tax impact, third quarter non-GAAP net income was $77.4 million, or $0.13 share.
+Revenue
+ 
+Our GPU business, which includes desktop, notebook and memory, was up 23 percent sequentially.   Demand was strong in both the desktop and notebook segments, with many customers experiencing periods of allocation during the quarter.  While the availability of 40nm products remained in tight supply throughout the quarter, 40nm process yield continued to improve.  As a result, 40nm revenues were up 178 percent over the prior quarter.
+The desktop segment of our GPU business was up approximately 19 percent quarter over quarter, primarily due to increases in high-end and mainstream sales.  While channel inventories remained lean throughout the quarter, they recovered slightly to about five weeks of supply, up approximately one week from last quarters record low of four weeks.
+The notebook segment of our GPU business was up approximately 27 percent quarter over quarter.  Notebook demand was particularly strong as our 40nm design wins on Calpella notebooks started to ramp.
+Our MCP business represented 20 percent of total revenue and was down 19 percent sequentially.  Two main factors contributed to this decline: typical seasonality in the desktop channel, and inventory management ahead of a first quarter product transition.  We expect this business to be up in the first quarter as this product ramps.
+Revenue for our Professional business, which includes workstation graphics and computing, represented 16 percent of total revenue.   Our workstation business continued to experience strong recovery in demand with revenue up 25 percent sequentially.  Improved product mix helped lift ASPs and gross margins for this segment as well.   The computing segment of this business was down slightly quarter over quarter as customers anticipated the availability of our newest GPU computing architecture, called Fermi, which is currently in volume production and will commence shipping later this quarter.
+Our Consumer and Other business, which includes cell phone products, as well as embedded entertainment, represented 5 percent of total revenue.
+ 
+ 
+Gross Margin
+ 
+GAAP gross margin for the fourth quarter was 44.7 percent and was up 1.3 points sequentially.  Non-GAAP gross margin was also 44.7 percent and was up 4.0 points sequentially.  This was the fourth consecutive quarterly increase.  The major components of this 4.0 point increase are:
+Expenses and Other
+GAAP operating expenses for the fourth quarter were $304.4 million, in line with guidance.  Sequentially, operating expenses were up $20.5 million, largely due to bring-ups of various new products, some salary reinstatements following company-wide reductions last year, and the fact that it was a 14 week quarter.
+NVIDIAs worldwide employment at the end of the quarter stood at 5,706.
+Balance Sheet
+Accounts receivable at the end of the quarter were down $22.9 million sequentially, notwithstanding $79.3 million of higher revenues.  DSO at quarter-end was 37 days, a 3-day improvement over the prior quarter.
+Inventories at the end of the quarter, which amounted to $330.7 million, were 19 percent higher than the previous quarter.  Inventory days on hand at quarter-end was 60, versus 49 at the end of the third quarter.  Substantially all of the inventory increase in the fourth quarter related to 40nm products that we ramped to meet Q4 demand and position us for increased Q1 demand.
+Depreciation and amortization expense for the fourth quarter amounted to approximately $47.9 million.  Capital expenditures were $22.6 million.
+Cash flow from operating activities was $69.2 million during the fourth quarter.  Free cash flow for the fourth quarter of $46.6 million was down from the prior quarter as a result of increased inventory and a higher than normal payout of certain accruals.
+Cash, cash equivalents and marketable securities at the end of the quarter were approximately $1.73 billion, up approximately $94.1 million from the third quarter, with the principle contributors being cash earnings (net income after adding back non-cash expenses) less increases in working capital due to higher revenues and capital expenditures.
+Reporting segments
+Effective with the first quarter of fiscal 2011, we will no longer separate our MCP and GPU segments as such segmentation no longer reflects the way we manage these businesses.  As weve indicated previously, as a result of our on-going dispute with Intel over the terms of our cross licensing agreement we have ceased development of all future MCP products.  Furthermore, our MCP and GPU products serve the same customer needs, brands cross both segments and the teams now currently report into the same general manager.  We will, however, continue to give qualitative information about each segment.
+ 
+ 
+ 
+First Quarter Outlook
+ 
+Our outlook for the first quarter of fiscal 2011 is as follows:
+We estimate stock-based compensation expense in the first quarter to be $25 million and depreciation and amortization and capital expenditures to be relatively flat when compared to the fourth quarter.
+Diluted shares for the first quarter are expected to be approximately 591million.
+ 
+For further information, contact:
+Michael Hara                                                                                         Robert Sherbin
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+   
+  
+Investor Relations                                                                                         Corporate Communications
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+   
+  
+NVIDIA Corporation                                                                                      NVIDIA Corporation
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+(408) 486-2511                                                                                  (408) 566-5150
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+mhara@nvidia.com                                                                                     rsherbin@nvidia.com
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+Non-GAAP Measures
+ 
+ 
+To supplement NVIDIAs Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP net income, non-GAAP net income per share and free cash flow. In order for NVIDIAs investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude a charge related to the weak die/packaging material set that was used in certain versions of NVIDIAs previous generation chips, net of insurance reimbursements, a non-recurring charge related to a tender offer purchase, a non-recurring charge against cost of revenue related to a royalty dispute, a non-recurring restructuring charge against operating expenses, a non-recurring contract termination charge against operating expenses, and the associated tax impact of these items, where applicable.  Free cash flow is calculated as GAAP net cash provided by operating activities less purchases of property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the companys historical financial performance. The presentation of the companys non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the companys financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+ 
+Certain statements in this document including, but not limited to, statements as to: NVIDIAs financial projections for the first quarter of fiscal 2011 are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; development of more efficient or faster technology; design, manufacturing or software defects; the impact of technological development and competition; changes in consumer preferences and demands; customer adoption of different standards or our competitor's products; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission including its Form 10-Q for the fiscal period ended October 25, 2009. Copies of reports filed with the SEC are posted on our website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+ 2010 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, Tesla, CUDA, GeForce and Tegraare trademarks and/or registered trademarks of NVIDIA Corporation in the U.S.and other countries. Other company and product names may be trademarks of therespective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

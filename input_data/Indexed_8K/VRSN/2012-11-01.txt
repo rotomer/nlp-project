@@ -1,0 +1,81 @@
+FILE:VRSN/VRSN-8K-20121101135819.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): November 1, 2012
+VERISIGN, INC.
+(Exact Name of Registrant as Specified in its Charter)
+ 
+Delaware
+(State or Other Jurisdiction of
+Incorporation)
+ 
+ 
+(703) 948-3200
+(Registrants Telephone Number, Including Area Code)
+ 
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+On November 1, 2012, VeriSign, Inc. (VeriSign or the Company) issued a statement regarding its renewal of its .com Registry Agreement. A copy of this statement is attached hereto as Exhibit 99.1.
+ 
+(d)
+Exhibits
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Exhibit Index
+ 
+
+Exhibit 99.1
+        
+Verisign Statement on .com Registry Agreement Renewal
+RESTON, VA - Nov. 1, 2012 -
+VeriSign, Inc. (NASDAQ: VRSN), the trusted provider of Internet infrastructure services for the networked world, today provided a statement on the pending review by the Department of Commerce of Verisign's .com Registry Agreement renewal with Internet Corporation for Assigned Names and Numbers (ICANN) to serve as the authoritative registry operator for the .com registry.
+The .com Registry Agreement was approved by Verisign's Board of Directors on June 16, 2012, ICANN's Board of Directors on June 23, 2012, and tendered by Verisign to the Commerce Department for its review and approval on June 26, 2012. The Commerce Department is reviewing the .com Registry Agreement as required by the Cooperative Agreement (
+http://www.ntia.doc.gov/page/verisign-cooperative-agreement
+) between the Commerce Department and Verisign. While the authority to approve the renewal rests exclusively with the Commerce Department, the Commerce Department seeks inputs from other U.S. agencies, which includes the Department of Justice.
+Both the Commerce Department and Justice Department were involved in reviewing the current .com Registry Agreement in 2006. The Commerce Department approved the current .com Registry Agreement as being in the public interest in 2006. The approved version of 2006 included pricing terms and the ability to raise prices in four of six years. This price increase structure, among other restrictions, was negotiated with the Justice Department in order to cap Verisign's ability to increase prices, a structure deemed then by the Commerce Department to be in the public interest. The proposed .com Registry Agreement tendered to the Commerce Department for review and approval in June 2012 is virtually identical to the current .com Registry Agreement approved by the Commerce Department in 2006 except for new provisions regarding indemnification, audit rights and more stringent service levels (SLAs).
+The Commerce Department and Verisign entered into Amendment 30 (
+http://www.ntia.doc.gov/files/ntia/publications/amend30_11292006.pdf
+) to the Cooperative Agreement in 2006 to address renewals of the .com Registry Agreement in 2012 and thereafter. The renewal of the .com Registry Agreement in 2012 is the first exercise of the renewal process described in Amendment 30 of the Cooperative Agreement.
+Amendment 30 of the Cooperative Agreement provides that Verisign shall not enter into any renewal of the .com Registry Agreement under Section 4.2 (
+http://www.icann.org/en/about/agreements/registries/com
+) of the agreement (which is the specific provision of the .com Registry Agreement under which Verisign and ICANN have approved the renewal) without the Commerce Department's prior written approval. Amendment 30 provides that the Commerce Department shall provide such written approval if it concludes that approval will serve the public interest in (a) the continued security and stability of the Internet domain name system and the operation of the .com registry, and (b) the provision of .com registry services offered at reasonable prices, terms and conditions.
+Amendment 30 provides that the Commerce Department and Verisign have an expectancy of renewal of the .com Registry Agreement. Amendment 30 requires Verisign to apply to the Commerce Department for approval of the renewal 90 days prior to the expiration of the current term on Nov. 30, 2012, which meant applying on or before Sept. 1, 2012. Verisign completed the renewal of the .com Registry Agreement with ICANN, following a public comment period and approval by the board of directors of ICANN and the board of directors of Verisign, on June 23, 2012. Verisign applied to the Commerce Department on June 26, 2012, over two months ahead of the date for application specified in the Cooperative Agreement. If the Commerce Department does not approve or needs more time to review the renewal prior to Nov. 30, 2012, then Amendment 30 provides that the Commerce Department shall agree to an extension of the term of the .com Registry Agreement for six months or such other term as the Commerce Department and Verisign shall mutually agree.
+The Commerce Department has acknowledged Verisign's record on security and stability, the first criteria of the public interest determination under Amendment 30. Verisign was informed in October 2012 that the Commerce Department, with input from
+the Justice Department, is reviewing the pricing terms in the .com Registry Agreement under the second prong of the Amendment 30 public interest test: The provision of .com registry services offered at reasonable prices, terms and conditions.
+Verisign operates the .com registry at the highest SLAs of any generic Top-Level Domain and the new .com Registry Agreement approved by the Boards of Directors of ICANN and Verisign impose even more stringent SLAs than the current .com Registry Agreement. The .com registry has an unequaled record of achievement, with full availability of DNS resolution in .com for more than 15 consecutive years. The economic activity supported by the .com registry is significant by any measure in an environment where the consequences of a failure of even a very short duration or degradation of the Domain Name System (DNS) resolution service, due to either a cyber attack or failure of hardware, software, or personnel, would have significant economic and non-economic impacts to the global economy. The reliability of .com over the years has provided the stable platform on which stakeholders have made substantial economic investment.
+The level of security and stability offered by Verisign is only possible with investments in overcapacity and redundancy, network security, intellectual property (IP) and in human capital: The engineers and employees at Verisign who operate the .com registry and ensure its security and stability. The pricing terms of the .com Registry Agreement enable Verisign to make these investments, develop the necessary IP, know-how and purpose-built systems, respond to new threats to stability as they emerge, and recruit and retain the specialized talent necessary to maintain our network, including dozens of globally distributed constellation sites and data centers in the U.S. and elsewhere.
+Verisign believes that under the terms of Amendment 30 the public interest is served in the security and stability of the DNS and through Verisign's operation of the .com registry. The stakeholders that rely on the availability and secure functioning of the DNS are numerous, including businesses large and small, and individual Internet users.
+Verisign also believes that under the terms of Amendment 30 the public interest is served by the provision of .com registry services offered at reasonable prices, terms and conditions. Verisign believes that $7.85 per year for a .com domain name and the increases contemplated by the current pricing terms are reasonable prices for unlimited access to .com resolution services, given the security and stability offered by the .com registry, and particularly in light of accelerating query loads and increasing cyber threats. The current pricing terms are also reasonable because, unlike other registry service providers, Verisign offers performance and reliability under the most stringent contract-mandated SLAs, may not monetize any user registration data, and has the most restrictive price caps on its service of any gTLD. The current price of a .com domain name was anticipated in 2006 when the current .com Registry Agreement was approved by the Commerce Department as in the public interest. Any review of the pricing terms of the .com Registry Agreement by the Commerce and Justice Departments is bounded by the provisions of Amendment 30.
+Under Amendment 30's standard that renewal of the .com Registry Agreement serve the public interest in (1) the continued security and stability of the Internet DNS and the operation of the .com registry, and (2) the provision of .com registry services offered at reasonable prices, terms and conditions, coupled with the Amendment 30's expectancy of renewal, Verisign believes it serves the public interest for the Commerce Department to approve the renewal of the .com Registry Agreement as approved by the Board of Directors of ICANN and Verisign in June 2012.
+While the review process with the Commerce Department may extend beyond Nov. 30, 2012, it could also be concluded by Nov. 30, 2012. In either case, Verisign expects to continue to run the .com registry. Verisign believes that as of this date, the Department of Justice has substantially concluded its own review process.
+Verisign will provide updates when appropriate regarding new information on the .com Registry Agreement renewal.
+About VeriSign
+VeriSign, Inc. (NASDAQ: VRSN) is the trusted provider of Internet infrastructure services for the networked world. Billions of times each day, Verisign helps companies and consumers all over the world connect between the dots. Additional news and information about the company is available at
+www.verisigninc.com
+.
+Information available on, or accessible through, websites mentioned in this statement is not incorporated herein by reference.
+VRSNF
+###
+Statements in this announcement other than historical data and information constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. These statements involve risks and uncertainties that could cause Verisign's actual results to differ materially from those stated or implied by such forward-looking statements. The potential risks and uncertainties include, among others, the uncertainty of whether the .com Registry Agreement renewal will occur on or before November 30, 2012, if at all, and if the .com Registry Agreement is renewed, whether it will be renewed on the terms previously approved by ICANN's and Verisign's Board of Directors; the uncertainty of future revenue and profitability and potential fluctuations in quarterly operating results due to such factors as increasing competition, pricing pressure from competing services offered at prices below our prices and changes in marketing and advertising practices, including those of third-party registrars; changes in search engine algorithms and advertising payment practices; challenging global economic conditions; challenges to ongoing privatization of Internet administration; the outcome of legal or other challenges resulting from our activities or the activities of registrars or registrants, or litigation generally; new or existing governmental laws and regulations; changes in customer behavior, Internet platforms and web-browsing patterns; the uncertainty of whether Verisign will successfully develop and market new services; the uncertainty of whether our new services will achieve market acceptance or result in any revenues; system interruptions; security breaches; attacks on the Internet by hackers, viruses, or intentional acts of vandalism; whether Verisign will be able to continue to expand its infrastructure to meet demand; the uncertainty of the expense and timing of requests for indemnification, if any, relating to completed divestitures; and the impact of the introduction of new gTLDs, any delays in their introduction and whether our gTLD applications or the applicants' gTLD applications for which we have contracted to provide back-end registry services will be successful. More information about potential factors that could affect the Company's business and financial results is included in Verisign's filings with the Securities and Exchange Commission, including in the Company's Annual Report on Form 10-K for the year ended December 31, 2011, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Verisign undertakes no obligation to update any of the forward-looking statements after the date of this announcement.
+Contacts:
+Investor Relations: David Atchley,
+datchley@verisign.com
+, 703-948-4643
+Media Relations: Jeannie McPherson,
+jmcpherson@verisign.com
+, 571-420-1753
+2012 VeriSign, Inc. All rights reserved. VERISIGN, the VERISIGN logo, and other trademarks, service marks, and designs are registered or unregistered trademarks of VeriSign, Inc. and its subsidiaries in the United States and in foreign countries. All other trademarks are property of their respective owners.
+
+

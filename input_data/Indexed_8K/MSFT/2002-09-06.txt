@@ -1,0 +1,68 @@
+FILE:MSFT/MSFT-8K-20020906081311.txt.gz
+EVENTS:	
+TEXT:
+ITEM: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 9.    Regulation FD Disclosure.
+ 
+Attached as an exhibit to this report are Microsoft Corporation's consolidated balance sheets as of June 30, 2001 and 2002, and the related consolidated statements of income, cash flows, and stockholders' equity for each of the three years in the period ended June 30, 2002 formatted in XBRL (Extensible Business Reporting Language). These documents are presented for illustration purposes only. These are not the official publicly filed financial statements of Microsoft Corporation. No representation is made that the information presented is accurate or complete and they are not to be used for investment purposes.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+Overview of Providing XBRL Financial Statements
+ 
+The XBRL Financial Statements are provided in this alternative format to provide global business information users with a more structured expression of the financial statements. XBRL is an XML-based schema created and maintained by XBRL International that allows business reporting to be represented in a "digital language". XBRL streamlines the way companies report and publish their financial data, and how analysts and investors can review that information. With XBRL, financial data is tagged in a consistent format that allows the data to be easily transported and analyzed (by XBRL-aware applications). As more companies provide their financial statements in XBRL, it is expected that this will enhance the ability to more quickly understand the contents of financial statements (and business information in general).
+ 
+Overview of XBRL International
+ 
+XBRL International is a consortium of over 170 organizations originally formed by the American Institute of Certified Public Accountants ("AICPA"). XBRL International got its start in the Fall of 1999 when 13 companies came together to discuss the value and benefits of tagging financial information using XML, and Microsoft was one of the 13 "charter" members. The initial goal of XBRL is to provide an XML-based framework that global business information users will use to create, exchange, and analyze financial reporting information.
+ 
+Microsoft Financial Reporting in XBRL
+ 
+Key to creating XBRL versions of financial information is the use of XBRL taxonomies or dictionaries. For this filing, Microsoft has used a draft version of the forthcoming US GAAP CI (Commercial and Industrial) 2.0 taxonomy. XBRL taxonomies are collections of terms and mathematical and presentation relationships of financial reporting concepts. In addition to the draft of the US GAAP CI taxonomy, Microsoft also had to create an extension taxonomy that extends the terms found in the US GAAP CI. Both taxonomies are contained in this filing, and more information can be found in the "Instructions" section below.
+ 
+The present EDGAR system does not allow the receipt of XBRL/XML files unless it is in an altered form. The XBRL specification requires use of tags that are not permitted in an EDGAR filing. Therefore, Microsoft has embedded all of the required XBRL documents as either .JPG or .GIF files to conform to the present EDGAR system. Please see the "Instructions" below for extracting the XBRL files for your review and use.
+ 
+Instructions
+ 
+In order to submit the XBRL documents as part of Form 8-K, the following changes have been made to the original Microsoft XBRL XML files:
+ 
+ 
+ 
+The following is a complete listing of all files attached to this Form 8-K:
+ 
+ 
+The "g13261msft-instance.jpg" file contains the core financial statements (Income Statement, Balance Sheet, Cash Flow and Stockholders Equity Statements) in XBRL format. The remaining files are the taxonomy or dictionary files used to create the "g13261msft-instance.jpg" file.
+ 
+Each graphic file will be listed as a separate document, typically at the end. If you would like to access or view the XBRL Financial Statements or XBRL Taxonomies, please follow these instructions:
+ 
+ 
+ 
+ 
+ 
+ 
+The SEC's EDGAR site provides hyperlinks to each of the image files individually. Access to these files will vary depending on the EDGAR information provider; please ask your EDGAR provider for additional information on accessing files within an EDGAR filing. For questions or comments specific to Microsoft's XBRL documents, please contact robblake@microsoft.com.
+
+

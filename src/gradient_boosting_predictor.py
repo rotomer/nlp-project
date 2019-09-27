@@ -1,3 +1,4 @@
+import os
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -36,7 +37,9 @@ class GradientBoostingPredictor(object):
         self._encode_data_frame(df, self._encoders)
 
         X, y = self._create_X_y_data_frames(df, feature_column_names, target_column_name)
-        output = self._classifier.predict(X)
+        #output = self._classifier.predict(X)
+
+        output = self._validate(X, y, self._classifier)
 
         return self._create_output_data_frame(df, y, output)
 
@@ -46,7 +49,8 @@ class GradientBoostingPredictor(object):
                                        target_column_name: str,
                                        encoded_column_names: List[str],
                                        should_optimize: bool = False,
-                                       should_train_test_split: bool = False):
+                                       should_train_test_split: bool = False,
+                                       split_save_dir: str = None):
         """
         :param training_df: input data frame to train upon. See sample input csv and query for more info.
         :param feature_column_names: column names that should be used for the prediction.
@@ -56,6 +60,8 @@ class GradientBoostingPredictor(object):
         parameters.
         :param should_train_test_split: true iff should train on only part of the input set and use the rest for
         validation.
+        :param split_save_dir: not None iff should save the split data set to disk. Has no effect if
+        should_train_test_split is False.
         """
 
         encoders = GradientBoostingPredictor._fit_encoders(training_df, encoded_column_names)
@@ -67,6 +73,12 @@ class GradientBoostingPredictor(object):
             X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y)
             classifier = GradientBoostingPredictor._fit_classification_model(X_train, y_train, should_optimize)
             GradientBoostingPredictor._validate(X_test, y_test, classifier)
+            if split_save_dir is not None:
+                X_train[target_column_name] = y_train
+                X_test[target_column_name] = y_test
+                X_train.to_csv(os.path.join(split_save_dir, 'train.csv'))
+                X_test.to_csv(os.path.join(split_save_dir, 'test.csv'))
+
         else:
             classifier = GradientBoostingPredictor._fit_classification_model(X, y, should_optimize)
 
@@ -120,12 +132,11 @@ class GradientBoostingPredictor(object):
         print('started fitting the regression.')
         if should_optimize:
             base_model = GradientBoostingClassifier()
-            param_dist = {"learning_rate": [0.01, 0.05],
-                          "max_depth": [3, 4],
+            param_dist = {"learning_rate": [0.005, 0.01, 0.05],
+                          "max_depth": [3, 4, 5],
                           "min_samples_leaf": [3, 4],
                           'min_samples_split': [2, 3],
-                          'loss': ['ls', 'huber'],
-                          'n_estimators': [500, 1000]}
+                          'n_estimators': [500, 1000, 2000]}
 
             classifier = RandomizedSearchCV(base_model, param_dist, cv=10, n_iter=10, random_state=5, verbose=2,
                                             scoring='neg_mean_squared_error', n_jobs=4)
@@ -179,6 +190,8 @@ class GradientBoostingPredictor(object):
 
         f1 = f1_score(y_test, output)
         print('F1: %.4f' % f1)
+
+        return output
 
     @staticmethod
     def _create_output_data_frame(df: pd.DataFrame,

@@ -1,0 +1,79 @@
+FILE:EMC/EMC-8K-20110317171821.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 8.01. Other Events.
+On March 17, 2011, RSA, the Security Division of EMC ("RSA"), posted an open letter from Arthur W. Coviello, Jr., Executive Chairman, RSA, to its customers on its website and issued a SecurCare Online note directly to its customers. Based on what EMC Corporation ("EMC") currently knows, EMC does not believe that the matter described in the letter and note will have a material impact on its financial results. The letter and note are being furnished as Exhibit 99.1 and Exhibit 99.2 hereto and are incorporated by reference herein.
+Item 9.01. Financial Statements and Exhibits.
+(d) Exhibits
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Date: March 17, 2011
+ 
+ 
+
+Exhibit 99.1
+Open Letter to RSA Customers
+Like any large company, EMC experiences and successfully repels multiple cyber attacks on its IT infrastructure every day. Recently, our security systems identified an extremely sophisticated cyber attack in progress being mounted against RSA. We took a variety of aggressive measures against the threat to protect our business and our customers, including further hardening our IT infrastructure. We also immediately began an extensive investigation of the attack and are working closely with the appropriate authorities.
+Our investigation has led us to believe that the attack is in the category of an Advanced Persistent Threat (APT). Our investigation also revealed that the attack resulted in certain information being extracted from RSA's systems. Some of that information is specifically related to RSA's SecurID two-factor authentication products. While at this time we are confident that the information extracted does not enable a successful direct attack on any of our RSA SecurID customers, this information could potentially be used to reduce the effectiveness of a current two-factor authentication implementation as part of a broader attack. We are very actively communicating this situation to RSA customers and providing immediate steps for them to take to strengthen their SecurID implementations.
+We have no evidence that customer security related to other RSA products has been similarly impacted. We are also confident that no other EMC products were impacted by this attack. It is important to note that we do not believe that either customer or employee personally identifiable information was compromised as a result of this incident.
+Our first priority is to ensure the security of our customers and their trust. We are committed to applying all necessary resources to give our SecurID customers the tools, processes and support they require to strengthen the security of their IT systems in the face of this incident. Our full support will include a range of RSA and EMC internal resources as well as close engagement with our partner ecosystems and our customers' relevant partners.
+We regret any inconvenience or concern that this attack on RSA may cause for customers, and we strongly urge you to follow the steps we've outlined in our SecurCare Online note. APT threats are becoming a significant challenge for all large corporations, and it's a topic I have discussed publicly many times. As appropriate, we will share our experiences from these attacks with our customers, partners and the rest of the security vendor ecosystem and work in concert with these organizations to develop means to better protect all of us from these growing and ever more sophisticated forms of cyber security threat.
+Sincerely,
+/s/ Art Coviello
+Art Coviello
+Executive Chairman
+
+Exhibit 99.2
+SCOL Note Title:
+Required Actions for SecurID Installations
+Dear RSA SecurCare Online Customer,
+Summary:
+We have determined that a recent attack on RSA's systems has resulted in certain information being extracted from RSA's systems that relates to RSA's SecurID two-factor authentication products. While at this time we are confident that the information extracted does not enable a successful direct attack on any of our RSA SecurID customers, this information could potentially be used to reduce the effectiveness of a current two-factor authentication implementation as part of a broader attack. RSA urges immediate action.
+Description:
+Recently EMC's security systems identified an extremely sophisticated cyber attack in progress, targeting our RSA business unit. We took a variety of aggressive measures against the threat to protect our business and our customers, including further hardening of our IT infrastructure. We also immediately began an extensive investigation of the attack and are working closely with the appropriate authorities.
+Our investigation has revealed that the attack resulted in certain information being extracted from RSA's systems. Some of that information is related to RSA's SecurID two-factor authentication products. While at this time we are confident that the information extracted does not enable a successful direct attack on any of our RSA SecurID customers, this information could potentially be used to reduce the effectiveness of a current two-factor authentication implementation as part of a broader attack.
+We strongly urge immediate customer attention to this advisory, and we are providing immediate remediation steps for customers to take to strengthen their RSA SecurID implementations.
+Affected Products:
+The affected products are RSA SecurID implementations.
+Overall Recommendations:
+RSA strongly urges customers to follow both these overall recommendations and the recommendations available in the best practices guides linked to this note.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For RSA product-specific recommendations, please follow the links below to the Security Best Practices Guides for each product. If you are unable to access the files via RSA SecurCare, please contact support at:
+U.S.: 1-800-782-4362, Option #5 for RSA, Option #1 for SecurCare note
+Canada: 1-800-543-4782, Option #5 for RSA, Option #1 for SecurCare note
+International: +1-508-497-7901, Option #5 for RSA, Option #1 for SecurCare note
+
+

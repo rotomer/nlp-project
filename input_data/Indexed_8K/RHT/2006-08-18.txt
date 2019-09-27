@@ -1,0 +1,309 @@
+FILE:RHT/RHT-8K-20060818171124.txt.gz
+EVENTS:	Financial Statements and Exhibits
+TEXT:
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+Item 9.01 Financial Statements and Exhibits
+On June 8, 2006, Red Hat, Inc. ("Red Hat") filed a Form 8-K describing its acquisition of JBoss, Inc. and its subsidiaries ("JBoss") on June 2, 2006. Red Hat hereby amends such Form 8-K to provide certain financial statements required by Item 9.01 of Form 8-K with respect to JBoss and pro forma condensed combined financial information with respect to the acquisition of JBoss.
+ 
+Audited Consolidated Balance Sheet of JBoss, Inc. as of December 31, 2005 and the related Consolidated Statement of Operations, Consolidated Stockholders' Deficit and Consolidated Statement of Cash Flows for the year ended December 31, 2005 and the notes related thereto are attached hereto as Exhibit 99.1.
+Unaudited Consolidated Balance Sheet of JBoss, Inc. as of March 31, 2006 and the related Consolidated Statements of Operations and Consolidated Statements of Cash Flows for the three months ended March 31, 2006 and March 31, 2005 and the notes related thereto are attached hereto as Exhibit 99.2.
+ 
+The pro forma financial information with respect to Red Hat's acquisition of JBoss is attached hereto as Exhibit 99.3.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 23.1
+We hereby consent to the incorporation by reference in the Registration Statements on Form S-3 (No. 333-45434, 333-135323) and Form S-8 (No. 333-121507, 333-112557, 333-71912, 333-59306, 333-55968, 333-45980, 333-45042, 333-37884, 333-96163, 333-88159, and 333-135237) of Red Hat, Inc. of our report dated June 2, 2006 relating to the financial statements of JBoss, Inc., which appears in the Current Report on Form 8-K/A of Red Hat, Inc. dated August 18, 2006.
+PricewaterhouseCoopers LLP
+Raleigh, North Carolina
+August 18, 2006
+
+Exhibit 99.1
+JBoss, Inc.
+Index
+December 31, 2005
+ 
+To the Board of Directors and
+Stockholders of JBoss, Inc.
+In our opinion, the accompanying consolidated balance sheet and the related consolidated statements of operations, stockholders' deficit and cash flows present fairly, in all material respects, the financial position of JBoss, Inc. and its subsidiaries at December 31, 2005, and the results of their operations and their cash flows for the year then ended in conformity with accounting principles generally accepted in the United States of America. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit of these statements in accordance with auditing standards generally accepted in the United States of America. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audit. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+As discussed in Note 13, the Company was acquired on June 2, 2006.
+ 
+June 2, 2006
+Boston, Massachusetts
+ 
+JBoss, Inc.
+Consolidated Balance Sheet
+December 31, 2005
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+JBoss, Inc.
+Consolidated Statement of Operations
+Year Ended December 31, 2005
+ 
+ 
+JBoss, Inc.
+Consolidated Statement of Stockholder's Deficit
+Year Ended December 31, 2005
+ 
+ 
+JBoss, Inc.
+Consolidated Statement of Cash Flows
+Year Ended December 31, 2005
+ 
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+JBoss, Inc. (the "Company" or "JBoss") was incorporated as a Delaware corporation in January, 2004. The Company is pioneering a second generation open source business model that the Company refers to as Professional Open Source.
+The JBoss business model is currently based on a suite of middleware software products produced through open source communities and JBoss employees around the world, made available without charge to users, and enhanced by the use with the JBoss Network and JBoss Professional Services.
+In 2005, JBoss introduced the JBoss Enterprise Middleware System ("JEMS") and the JBoss Network in order to meet the more broad-based desires of enterprise customers. JEMS is an architecture developed via open source technologies, and designed for "plug and play" with other leading technologies to bring greater flexibility and technology choice to the end user.
+The Company derives its revenue by providing free access to its software products and charging for maintenance and technical support for its users. The Company also provides professional services and training. However, the Company is still devoting extensive efforts toward product research and development and accordingly is subject to a number of risks common to rapidly growing, technology-based companies, including a limited operating history, dependence on key individuals, competition from established companies, the development of commercially viable products, the uncertainty of future profitability and the continued availability of capital resources necessary to fund product development.
+The Company was acquired by Red Hat, Inc. on June 2, 2006 (Note 13).
+ 
+The accompanying financial statements reflect the application of certain accounting policies as described below and elsewhere in these notes to financial statements.
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates relate to the valuation of accounts receivables, carrying value of the Company's intangible assets, and accrued liabilities. Actual results could differ from those estimates.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Revenue Recognition
+The Company recognizes revenue in accordance with Statement of Position No. 97-2, ("SOP 97-2"), as amended by Statement of Position No. 98-9, and Staff Accounting Bulletin No. 104. The Company establishes persuasive evidence of an arrangement for each type of revenue transaction based on either a signed contract with the end customer or, in the case of individual training seats, through receipt of payment which indicates acceptance of the Company's training agreement terms.
+Software Revenue Recognition
+Modification of SOP 97-2,
+Subscription Revenue
+Subscription revenue is comprised of direct and indirect sales of JBoss support offerings for the JBoss suite of software products. Support offerings include maintenance and technical support for users. Accounts receivable and deferred revenue are recorded at the time a customer enters into a binding subscription agreement for the purchase of a subscription, the subscription services are made available to the customer and the customer is billed. The deferred revenue amount is recognized ratably over the life of the subscription. JBoss subscriptions are generally offered from one- to three-year base subscription periods; the majority of the Company's subscriptions have one-year terms.
+Subscription arrangements with large enterprise customers often have contracts with multiple elements (e.g., support, training, consulting and other services). The Company allocates revenue to each element of the arrangement based on vendor-specific objective evidence of its fair value when the Company can demonstrate sufficient evidence of the fair value of at least the elements that are undelivered. The fair value of each element in multiple element arrangements is established by either (i) providing the customer with the ability during the term of the support arrangement to renew at a specified rate or price or (ii) selling the services on a stand-alone basis.
+Services Revenue
+Services revenue includes revenues derived from the sale of consulting and training services. Consulting services consist of daily arrangements, and revenue is recognized as these services are performed. Revenue for customer training is recognized on the dates the services are delivered.
+Cash and Cash Equivalents
+The Company considers investments in money market type mutual funds and highly liquid investments purchased with maturities of three months or less at the date of acquisition to be cash equivalents.
+Restricted Cash
+The Company has restricted cash consisting of a certificate of deposit, supporting a letter of credit, of $108,000 at December 31, 2005 in connection with its facility lease maturing in 2010.
+Fair Value of Financial Instruments
+The carrying amounts of the Company's financial instruments, which include cash equivalents, investments, accounts receivable, accounts payable and other accrued expenses, approximate their fair values due to the short term nature of these instruments. Based on borrowing rates currently available to the Company for loans with similar terms, the carrying value of notes payable approximates their fair value.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Concentration of Credit Risk and Significant Customers
+Statement of Financial Accounting Standards ("SFAS") No. 105, requires disclosure of any significant off-balance-sheet risks and credit risk concentrations. The Company has no financial instruments with off-balance-sheet risk such as foreign exchange contracts, option contracts or other foreign hedging arrangements. Financial instruments that potentially subject the Company to credit risk consist of cash equivalents and accounts receivable. The Company maintains its cash and cash equivalents with financial institutions of a high credit rating which invest predominantly in US Government instruments, investment-grade corporate bonds and certificates of deposit guaranteed by banks which are members of the FDIC. The Company has cash deposited outside the United States of America of approximately $900,000 to fund international operations. The concentration of credit risk with respect to accounts receivable is minimized by the Company's assessment of the creditworthiness of its customers. At December 31, 2005, no customer accounted for more than 10% of accounts receivable. For the year ended December 31, 2005, no customer accounted for more than 10% of total revenues.
+Disclosure of Information about Financial Instruments with Off-Balance-Sheet Risk and Financial Instruments with Concentrations of Credit Risk,
+Accounts Receivable and Allowance for Doubtful Accounts
+Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The allowance for doubtful accounts is the Company's estimate of the amount of probable credit losses in the Company's existing accounts receivable balances. The Company determines the allowance based on historical write-off experience, and reviews this allowance quarterly. Past due balances over 90 days are reviewed individually for collectibility.
+Property and Equipment
+Property and equipment are carried at cost and depreciated over the estimated useful lives using the straight-line method. Expenditures for repairs and maintenance are charged to expense as incurred. When assets are retired or disposed of, the assets and related accumulated depreciation are eliminated from the accounts and any resulting gain or loss is included in the determination of net income or loss.
+ 
+The Company accounts for operating lease incentive payments received from the lessor in accordance with SFAS No. 13, ("SFAS 13"). Under SFAS 13, leasehold improvements made by lessee that are funded by landlord incentives or allowances under an operating lease should be recorded by the lessee as leasehold improvement assets and amortized over the shorter of their economic lives or the lease term. The Company records landlord incentives received as deferred rent incentive and amortizes those amounts as deductions to lease expense over the lease term.
+Accounting for Leases
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Impairment of Long-Lived Assets
+The Company evaluates the recoverability of its property and equipment and other long-lived assets in accordance with Statement of Financial Accounting Standards No. 144, ("SFAS 144"). SFAS 144 requires that one accounting model be used for long-lived assets to be disposed of by sale, whether previously held and used or newly acquired, and broadens the presentation of discontinued operations to include more disposal transactions. An impairment loss is recognized when the net book value of such assets exceeds the estimated future undiscounted cash flows attributable to the assets or the business to which the assets relate. Impairment losses are measured as the amount by which the carrying value exceeds the fair value of the assets. The Company did not recognize any expense in 2005 related to impairment of long-lived assets.
+Accounting for the Impairment or Disposal of Long-Lived Assets
+Research and Development Software Development Costs
+Costs incurred in the research and development of the Company's products are expensed as incurred. Costs associated with the development of computer software are expensed prior to establishment of technological feasibility and capitalized thereafter until the product is available for general release to customers. No software development costs were capitalized during 2005, since costs incurred subsequent to establishment of technological feasibility were not material.
+Accounting for Stock-Based Compensation
+The Company accounts for its stock-based compensation in accordance with APB Opinion No. 25, and related interpretations for options granted to employees and directors. SFAS No. 123, established the fair-value-based method of accounting for stock-based compensation. The Company has adopted the disclosure-only requirements for options granted to employees and directors under SFAS No. 123, which requires disclosure of the pro forma effects on earnings as if SFAS No. 123 had been adopted, as well as certain other information.
+Accounting for Stock Issued to Employees,
+Accounting for Stock-Based Compensation,
+The assumptions used to calculate the fair value of stock options issued for the year ended December 31, 2005:
+ 
+The following table illustrates the effect on net income if the Company had applied the fair value recognition provisions of SFAS No. 123:
+ 
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+The Company recorded deferred compensation of $2.7 million during the year ended December 31, 2005, to reflect the difference between the aggregate market value of the underlying shares of stock and the exercise price of all stock options granted with an exercise price below the fair value of the Company's common stock at the date of the grant. Deferred compensation is amortized over the vesting period of the related stock options and restricted stock. The Company recognized $523,000 in noncash stock-based compensation expense related to amortization of deferred compensation during the year ended December 31, 2005.
+Cost of Revenue
+Cost of revenue includes personnel costs associated with training, maintenance, professional services and amortization of technology-related intangible assets.
+Advertising Costs
+The Company charges the cost of advertising to expense as incurred, and includes those costs in selling and marketing expenses in the statement of operations. Such costs were immaterial for the year ended December 31, 2005.
+Deferred Taxes
+The Company accounts for income taxes using the liability method that requires the recognition of deferred tax assets or liabilities for the temporary differences between financial reporting and tax bases of its assets and liabilities and for tax carryforwards at enacted statutory tax rates in effect for the years in which the differences are expected to reverse. The Company has recorded a full valuation allowance against its net deferred tax assets due to uncertainty of realization of these deferred tax assets. No provision for income taxes was recorded for the year ended December 31, 2005 due to the recurring losses incurred.
+Foreign Currency Translation
+The local currency has been determined to be the functional currency for the Company's foreign operations.
+Foreign exchange gains and losses, which result from the process of remeasuring foreign currency transactions into the appropriate functional currency, are included in other income in the Company's consolidated statement of operations. The translation of foreign currency financial statements into U.S. dollars is included in other comprehensive income, which is a separate component of stockholders' equity. Net foreign exchange losses, included in other income, was $11,000 for the year ended December 31, 2005.
+Comprehensive Income
+SFAS No. 130, requires a full set of general purpose financial statements to be expanded to include the reporting of "comprehensive income." Comprehensive income is comprised of two components, net income and other comprehensive income. For the year ended December 31, 2005, the only items qualifying as other comprehensive income were unrealized gain on investments and foreign currency translation.
+Reporting Comprehensive Income,
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Property and equipment consists of the following:
+ 
+Depreciation expense totaled $481,000 for the year ended December 31, 2005.
+ 
+Other assets are primarily identifiable finite-life intangible assets which consist primarily of purchased technologies, trademarks, and copyrights, which are amortized over their estimated useful life. Useful lives range from three to five years for purchased technologies to ten years for trademarks, copyrights and patents.
+For the year ended December 31, 2005, the Company amortized $500,000 of the intangible assets. Estimated future amortization is $1,229,000, $1,104,000, $784,000 and $113,000 for fiscal years ending December 31, 2006, 2007, 2008 and 2009, respectively.
+ 
+In September 2005, the Company entered into a loan and security agreement with a lender that provided an $8 million loan commitment to the Company. On September 30, 2005, the Company issued a promissory note in the amount of $4 million under the loan and security agreement. The note provided for an interest rate of prime plus 3.5%, which amounted to 10.25% at December 31, 2005.
+Amounts outstanding under the loan agreements as of December 31, 2005 are due as follows:
+ 
+The Note carries certain nonfinancial covenants including periodic financial reporting. The Company was in compliance with the nonfinancial covenants at December 31, 2005.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+In connection with issuance of the Note, the Company issued warrants to purchase 160,000 shares of the Company's Series A redeemable convertible preferred stock ("Series A preferred stock") at $2.50 per share, subject to certain antidilutive adjustments. The purchase rights represented by the warrants are exercisable at the option of the holder. The warrants are convertible into shares of Series A preferred stock any time during the term of the warrants. The warrants have been valued at $178,000 using an option valuation model, assuming a weighted-average risk free rate of return of 4.07%, an expected life of three years, 75% volatility and no dividends. The Company recorded the fair value of the warrants to additional paid-in capital and the corresponding deferred financing costs in other assets. For the year ended December 31, 2005, $15,000 of the deferred financing cost was amortized as interest expense.
+ 
+Accrued liabilities consist of the following:
+ 
+ 
+In February 2004, the Company issued 9,974,533 shares of Series A redeemable convertible preferred stock ("Series A preferred stock") at a price of $1.0025532 per share for gross proceeds of $10,000,000.
+The following are the rights and preferences of Series A preferred stock:
+Voting
+The holders of the Series A preferred stock are entitled to vote, together with the holders of common stock, on all matters submitted to stockholders for a vote. Each preferred stockholder is entitled to the number of votes equal to the number of shares of common stock into which each preferred share is convertible at the time of such vote.
+Dividends
+The holders of the Series A preferred stock are entitled to receive cumulative dividends at the rate of $0.0501277 per share per annum, payable in preference and priority to any payment of any dividend on common stock whether or not earned or declared by the Board of Directors. No dividends or other distributions shall be made with respect to the common stock, until all declared dividends on the Series A preferred stock have been paid. Through December 31, 2005, no dividends have been declared or paid by the Company.
+Liquidation Preference
+In the event of any liquidation, dissolution or winding up of the affairs of the Company, the holders of the then outstanding Series A preferred stock shall receive for each share an amount equal to the sum of $1.0025532 per share of Series A preferred stock, respectively, plus any accrued dividends whether or not declared, payable in preference and priority to any payments made to the holders of the then outstanding common stock.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Conversion
+Each share of preferred stock, at the option of the holder, is convertible into a number of fully paid shares of common stock as determined by dividing the respective preferred stock issue price by the conversion price in effect at the time. The initial conversion price of Series A preferred stock is $1.0025532, and is subject to adjustment in accordance with antidilution provisions contained in the Company's Articles of Incorporation. Conversion is automatic immediately upon the closing of a firm commitment underwritten public offering in which the public offering price equals or exceeds $3.0076596 per share (adjusted to reflect subsequent stock dividends, stock splits or recapitalization) and the aggregate proceeds raised exceed $25,000,000. At December 31, 2005, 9,974,533 shares of the Company's common stock have been reserved for conversion.
+Redemption
+The holders of at least a majority of the outstanding Series A preferred stock may, by written request delivered after February 19, 2009, require the Company to redeem the preferred stock by paying in cash a sum equal to 100% of the original purchase price of the preferred stock plus any accrued but unpaid dividends. Payments may be made in three annual installments commencing 60 days after the Company has received the redemption request.
+If the Company does not have sufficient funds legally available to redeem all shares of Series A preferred stock to be redeemed at the redemption date, then the Company shall redeem such shares ratably to the extent possible and shall redeem the remaining shares as soon as sufficient funds are legally available.
+ 
+At December 31, 2005, the Company has authorized 69,676,553 shares of which 59,702,020 shares are designated as common stock and 9,974,533 are designated as preferred stock. The preferred stock is designated as 9,974,533 shares of Series A preferred stock, all of which are issued and outstanding as of December 31, 2005 (Note 7).
+Each share of common stock is entitled to one vote. The holders of common stock are also entitled to receive dividends whenever funds are legally available and when declared by the Board of Directors, subject to the prior rights of the holders of the Series A preferred stock.
+In addition, at December 31, 2005, the Company has outstanding shares of common stock which are subject to stock restriction agreements (the "Restriction Agreements"). Pursuant to the Restriction Agreements, the Company has the right to repurchase any unvested shares of common stock in the event of termination of employment. The restrictions lapse beginning in February 2005 through February 2007. At December 31, 2005, 918,751 shares remain subject to restrictions under these agreements and are recorded in accrued liabilities on the balance sheet.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+In 2004, the Company adopted the 2004 Stock Option and Incentive Plan (the "Plan") under which 8,977,300 shares of the Company's common stock were reserved for issuance to employees, directors and consultants. In September 2005, the Company amended the Plan to reserve 10,500,000 shares of the Company's common stock for issuance. Options granted under the Plan may be incentive stock options or nonqualified stock options. Stock purchase rights may also be granted under the Plan. Incentive stock options may only be granted to employees. The Board of Directors determines the period over which options become exercisable; however, except in the case of options granted to officers and directors, options shall become exercisable at a rate of not less than 25% per year over four years from the date the options are granted. The exercise price of incentive stock options and nonqualified stock options shall be set at the Board's discretion.
+The following table summarizes the activity of the Company's stock option plan:
+ 
+The following table summarizes information about stock options outstanding at December 31, 2005:
+ 
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+Reconciliation between expected income taxes computed at the federal rate and the provision for income taxes is as follows at December 31, 2005:
+ 
+The worldwide loss of $10.96 million is comprised of $8.79 million and $2.17 million federal and foreign losses from operations, respectively. The components of deferred income taxes as of December 31, 2005 are as follows:
+ 
+The Company has federal and state NOL carryforwards at December 31, 2005 of approximately $13.6 million. The NOL carryforwards will begin to expire in 2024. There is also a capital loss carryforward of $27,000 at December 31, 2005 that will expire in 2010.
+Due to historical losses, the Company has not recorded any tax benefit provisions in its income statement since the future realization of such losses is uncertain. In 2005, the Company recorded a full valuation allowance against its U.S. net deferred tax assets due to the uncertainty of ultimate realization. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+differences are deductible. In making this determination, management considers all available positive and negative evidence affecting specific deferred tax assets, including the Company's past and anticipated future performance, the reversal of deferred tax liabilities, and the implementation of tax planning strategies.
+The Company considers the undistributed earnings of certain foreign subsidiaries to be permanently reinvested under APB 23. Accordingly, no provision for U.S. federal and state income taxes has been made thereon.
+ 
+During 2004, the Company established a defined contribution savings plan under Section 401(k) of the Internal Revenue Code. This plan covers substantially all employees who meet minimum age and service requirements and allows participants to defer a portion of their annual compensation on a pre-tax basis. Company contributions to the plan may be made at the discretion of the Board of Directors. Through December 31, 2005 there were no contributions made to the plan by the Company.
+ 
+The Company leases its office space and certain office equipment under noncancelable operating leases. Total rent expense under these operating leases was $575,000 for the year ended December 31, 2005.
+Future minimum lease payments under noncancelable operating leases at December 31, 2005 are as follows:
+ 
+Guarantor Agreements
+Under the Company's by-laws, the Company must indemnify its officers and directors against all liabilities incurred or threatened by reason of serving in such capacity. The maximum potential amount of future payments the Company could be required to make under these, indemnification agreements in unlimited; however, the Company has a Director and Officer insurance policy that limits its exposure and enables the Company to recover a portion of any future amounts paid. As a result of the Company's insurance policy coverage, it believes the estimated fair value of these indemnification arrangements is minimal.
+ 
+JBoss, Inc.
+Notes to Consolidated Financial Statements
+December 31, 2005
+ 
+On April 7, 2006, the Company entered into an Agreement and Plan of Merger (the "Merger Agreement"), pursuant to which, upon the satisfaction or waiver of the conditions in the Merger Agreement, the Company will be acquired by Red Hat, Inc., a Delaware corporation. The base consideration to be paid by Red Hat at the closing pursuant to the Merger Agreement for all the outstanding equity of JBoss is approximately $350 million. Red Hat is also obligated to pay up to an additional $70 million pursuant to the Merger Agreement at specified times during the two years after the closing depending upon achievement of certain performance milestones related to sales of JBoss products and services during calendar years 2006 and 2007. The consideration to be paid by Red Hat in connection with the merger will consist of approximately 40% in cash and approximately 60% in shares of Red Hat common stock. The number of shares to be issued by Red Hat will be calculated based on the average closing price for such shares over a 20-trading day period preceding the closing. The amount of consideration to be paid is subject to adjustment based on the net working capital of JBoss on the closing date. The closing of the transaction is conditioned upon customary closing conditions, including the receipt of any necessary regulatory approvals. The stockholders of JBoss approved the merger on April 7, 2006.
+The acquisition of JBoss by Red Hat closed on June 2, 2006.
+ 
+
+Exhibit 99.2
+ 
+ 
+ 
+ 
+ 
+ 
+Unaudited Interim Financial Information
+The unaudited interim consolidated balance sheet as of March 31, 2006 and the unaudited statements of operations and statements of cash flow for the three months ended March 31, 2006 and March 31, 2005 have been prepared by JBoss pursuant to the rules and regulations of the Securities and Exchange Commission (the "SEC") for interim financial reporting. These consolidated statements are unaudited and, in the opinion of management, include all adjustments (consisting of normal recurring adjustments and accruals) necessary to present fairly the consolidated balance sheet, consolidated statements of operations, and consolidated statements of cash flows for the periods presented in accordance with accounting principles generally accepted in the United States of America. Operating results for the three month period ended March 31, 2006 are not necessarily indicative of the results that may be expected for the year ending December 31, 2006. Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been omitted in accordance with the SEC's rules and regulations for interim reporting.
+Share-Based Compensation
+Prior to January 1, 2006, JBoss accounted for share-based compensation pursuant to the provisions of Accounting Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, and accordingly no compensation expense was recorded for stock options or other share-based awards to employees and non-employee directors that were granted with an exercise price equal to or above the market value per share of the JBoss' stock on the grant date. For awards granted with an exercise price less than the market value of the stock on the grant date, the award's intrinsic value was recorded as deferred compensation and reported as a separate component of stockholders' deficit. The deferred compensation was amortized to compensation expense over the vesting period of the award.
+For the three months ended March 31, 2006, share-based compensation expense is considered immaterial.
+ 
+
+Exhibit 99.3
+The accompanying Unaudited Pro Forma Condensed Combined Balance Sheet as of February 28, 2006 and the Unaudited Pro Forma Condensed Combined Statements of Operations for the year ended February 28, 2006 combine the historical Red Hat, Inc. and JBoss, Inc. consolidated balance sheets and consolidated statement of operations as if Red Hat's acquisition of JBoss, which occurred on June 2, 2006, had been completed on February 28, 2006 for purposes of the presentation of the Unaudited Pro Forma Condensed Combined Balance Sheet and March 1, 2005 for purposes of the presentation of the Unaudited Pro Forma Condensed Combined Statements of Operations. The accompanying unaudited pro forma condensed combined financial statements have been developed based on, and should be read in conjunction with, the audited consolidated financial statements of Red Hat contained in its Annual Report on Form 10-K for the fiscal year ended February 28, 2006 and the audited consolidated financial statements of JBoss for the year ended December 31, 2005, which are included as Exhibit 99.1 to the Current Report on Form 8-K to which this exhibit relates. These unaudited pro forma condensed combined financial statements are prepared using the purchase method of accounting with Red Hat treated as the acquirer.
+As of the date of the Current Report on Form 8-K to which this exhibit relates, Red Hat has not completed the detailed valuation studies necessary to arrive at the required estimates of the fair market value of the JBoss assets acquired and the JBoss liabilities assumed and the related allocations of purchase price, nor has Red Hat identified all adjustments necessary, if any, to conform JBoss's accounting policies to Red Hat's accounting policies. However, as indicated in Note (a) to the unaudited pro forma condensed combined financial statements, Red Hat has made certain adjustments to the December 31, 2005 historical book values of the assets and liabilities of JBoss to reflect certain preliminary estimates of the fair values necessary to prepare the unaudited pro forma condensed combined financial statements. Any excess purchase price over the estimated fair values of net assets acquired has been recorded as goodwill. Actual results may differ from these unaudited pro forma condensed combined financial statements once Red Hat has determined the final purchase price for JBoss and has completed the valuation studies necessary to finalize the required purchase price allocations and identified any necessary conforming accounting changes for JBoss. There can be no assurance that such finalization will not result in material changes.
+The accompanying unaudited pro forma condensed combined financial statements are provided for illustrative purposes only and do not purport to represent what the actual consolidated results of operations or the consolidated financial position of Red Hat would have been had the JBoss merger occurred on the dates assumed, nor are they necessarily indicative of future consolidated results of operations or consolidated financial position. The unaudited pro forma condensed combined financial statements do not include cost savings, if any, that may be realized from operating efficiencies or restructuring costs, if any, that may be incurred in connection with Red Hat's acquisition of JBoss.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Red Hat has not completed an assessment of the fair value of assets and liabilities of JBoss and the related business integration plans. The table below represents a preliminary allocation of the total consideration to Red Hat's tangible and identifiable intangible assets and liabilities based on management's preliminary estimate of their respective fair values as of the date of the merger.
+ 
+Upon completion of the fair value assessment, Red Hat anticipates that the ultimate purchase price and purchase price allocation may differ from the preliminary assessment outlined above. Any changes to the initial estimates of fair value of the assets and liabilities will be recorded as adjustments to those assets and liabilities and residual amounts will be allocated to goodwill.
+Red Hat is also obligated to pay up to approximately $70 million at specified times during the two years after the closing upon the achievement of certain performance milestones related to sales of JBoss products and services during calendar years 2006 and 2007. Any additional payments will be recorded as an adjustment to goodwill.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

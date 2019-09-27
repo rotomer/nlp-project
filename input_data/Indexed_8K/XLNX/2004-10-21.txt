@@ -1,0 +1,170 @@
+FILE:XLNX/XLNX-8K-20041021163041.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+Item 2.02. Results of Operations and Financial Condition
+ 
+On October 21, 2004, Xilinx, Inc. issued a press release announcing results for the quarter ended October 2, 2004.  A copy of this press release is furnished as Exhibit 99.1 to this report.
+ 
+Financial Statements and Exhibits:
+Item 9.01
+                                            
+ 
+(c)  Exhibits
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 99.1
+ 
+Investor Relations Contact:
+Lori Owen
+Xilinx, Inc.
+(408) 879-6911
+ir@xilinx.com
+ 
+XILINX REPORTS 53% INCREASE IN PROFITS; NEW PRODUCTS POST STRONG REVENUE GROWTH
+ 
+SAN JOSE, CA, OCTOBER 21, 2004
+ Xilinx, Inc. (Nasdaq: XLNX) today announced revenues of $403 million in the second quarter of fiscal 2005, a sequential decrease of 5% from the prior quarter and an increase of 28% from the same quarter a year ago.  Net income was $86 million or $0.24 per diluted share compared to $56 million and $0.16 per diluted share in the prior year.
+ 
+Xilinx also announced today that the company's Board of Directors declared a quarterly cash dividend of $0.05 per outstanding share of common stock, payable on December 1, 2004 to all stockholders of record at the close of business on November 17, 2004.
+ 
+Additional fiscal second quarter comparisons are represented in the chart below.
+ 
+Quarterly Information
+(In millions, except EPS)
+ 
+ 
+European revenues, which are typically seasonally slow in the September quarter, were better than expected increasing 3% sequentially and 45% versus the same quarter a year ago. Much of this increase was driven by strength in the communications, industrial and automotive sectors.  However, sales to Asia Pacific were weak during the quarter, declining 15% sequentially. Much of this weakness was attributable to excess inventories at a few US-based customers with manufacturing operations in Asia Pacific and a slowdown within the China market for technology products.
+ 
+"New product sales increased 44% sequentially and represented 17% of total Xilinx sales, up from 6% a year ago.  This is a strong testament to the customer acceptance and design win momentum of these products," said Wim Roelandts, Xilinx's chairman and chief executive officer.  "Virtex-II Pro FPGA sales increased nearly 70% sequentially as several customer design wins began moving into volume production.  CoolRunner-II CPLD sales nearly doubled sequentially.  Additionally, sales from the Spartan family of FPGAs increased to nearly 22% of total Xilinx revenues, up from 19% in the same quarter a year ago.  Most of this growth was driven by Spartan-IIe and Spartan-3 products, which are found in wide ranging applications such as digital television, media servers, automotive telematics and multi-function printers."
+Business Review  September Quarter FY05
+ 
+Xilinx generated $69 million in cash flow from operations.
+ - 
+                 
+Total inventory days at Xilinx and distribution were 156 days, up from 131 days last quarter.
+ - 
+                 
+Accounts receivables days sales outstanding were 46, up from 45 in the prior quarter.
+ - 
+                 
+Capital expenditures and depreciation were both $13 million.
+ - 
+                 
+ 
+Revenue by Geography:
+ 
+ 
+Revenue by End Market:
+ 
+ 
+Revenue by Product*:
+ 
+ 
+*Products are classified as follows:
+ 
+and CoolRunner II products
+New products:  Virtex-4, Virtex-II Pro, Spartan-IIe, Spartan-3, Easypath
+-
+Mainstream products: Virtex-II, Spartan-II, SpartanXL, CoolRunner, Virtex-E and Virtex products
+Base products: XC3000, XC3100, XC4000, XC4000XL, XC4000XLA, XC4000XV, XC4000E, XC4000EX, XC5200, XC9500, XC9500XL, XC9500XV and Spartan products
+, Software & Support/Services
+Support products: Configuration solutions, HardWire
+ 
+Product Highlights:
+ 
+Xilinx began shipping two additional Virtex-4 devices during the quarter bringing the total number of devices shipping to three. Manufactured using the world's first triple-oxide 90nm CMOS technology with 11-layer metal interconnect, Virtex-4 devices offer significant performance and power advantages versus competing solutions.  Additionally, Xilinx introduced its latest generation software, ISE 6.3i, which supports up to 200,000 logic cells and 500 MHz performance. The combination of ISE 6.3i and Virtex-4 FPGAs enables up to 40% faster FPGA fabric performance than the nearest competing offering.
+ - 
+                               
+ 
+Xilinx continues to be the only PLD company in volume production at 90-nanometer technology.  Xilinx is currently shipping its Spartan-3 and Virtex-4 FPGAs on 90nm technology and has shipped over one million 90nm devices since its introduction of the Spartan-3 family in April, 2003.
+ - 
+                               
+Xilinx recently announced a strategic foundry relationship with Toshiba.  Together, the companies have achieved a key manufacturing milestone with the successful production of functional 90nm silicon at Toshiba's state-of-the-art 300mm wafer fabrication facility at Oita, in Kyushu, Japan.
+ - 
+                               
+ 
+Xilinx announced the creation of Digital Signal Processing (DSP) and Embedded Processing Divisions, demonstrating the importance of these two technologies in future PLD design. By focusing resources in these critical areas, Xilinx will be able to capitalize on an incremental market opportunity estimated by Gartner Dataquest to be approximately $7 billion.
+ - 
+                               
+ 
+Business Outlook  December Quarter FY05
+ 
+ - 
+                 
+Revenues expected to be down 2% to 6% sequentially.
+ - 
+                 
+Gross margin expected to be approximately 64%.
+ - 
+                 
+Operating expenses expected to be approximately flat sequentially.
+ - 
+                 
+Other income expected to be approximately $7 million.
+ - 
+                 
+Tax rate expected to be 22%.
+ - 
+                 
+Fully diluted share count expected to remain approximately flat at 358 million shares.
+ 
+Business Update  December Quarter FY05
+ 
+A third quarter business update will be issued in the form of a press release after the market closes on Wednesday, December 8, 2004.  Financial guidance to the investment community will be limited to the points mentioned in the business update document.  Please sign up for a push email alert, which is available from our investor relations web site at http://www.investor.xilinx.com.
+ 
+This release contains forward-looking statements and projections. Actual events and results may differ materially from those in the forward-looking statements and are subject to risks and uncertainties including the general health of global economies as well as of the semiconductor industry, the health of our end markets and our customers' customers, our ability to forecast end customer demand, potential impact to customer ordering patterns, customer acceptance of our new products, the ability of our customers to manage their inventories, higher-than-anticipated product delinquencies, more customer volume discounts than expected, fluctuations in manufacturing yields, our ability to deliver product in a timely manner, our ability to secure meaningful wafer capacity from our suppliers, our ability to successfully manage production at multiple foundries, currency fluctuations and their respective impact to customer purchasing power, variability in wafer pricing, and other risk factors listed in our most recent Form 10K.
+ 
+About Xilinx
+ 
+Xilinx, Inc. (NASDAQ: XLNX) is the worldwide leader of programmable logic solutions. Additional information about Xilinx is available athttp://www.xilinx.com.
+ 
+30
+ 
+#04109
+ 
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+ 
+(Unaudited)
+ 
+(In thousands, except per share amounts)
+ 
+ 
+XILINX, INC.
+ 
+CONDENSED CONSOLIDATED BALANCE SHEETS
+ 
+(In thousands)
+ 
+ 
+(1) Derived from audited financial statements
+ 
+Xilinx, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+(In thousands)
+ 
+
+

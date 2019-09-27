@@ -1,0 +1,97 @@
+FILE:NTAP/NTAP-8K-20090520170535.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+ 
+ 
+Item 2.02 Results of Operations and Financial Condition
+     On May 20, 2009, NetApp, Inc. (the "") issued a press release announcing its earnings for the fourth quarter and fiscal year ended April 24, 2009. The press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information set forth on Exhibit 99.1 shall not be deemed to be "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the ""), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended (the ""), or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Company
+Exchange Act
+Securities Act
+     The Company's Condensed Consolidated Statements of Income for the fourth quarter and fiscal year ended April 24, 2009, Condensed Consolidated Balance Sheets as of April 24, 2009, and Condensed Consolidated Statements of Cash Flow for the fourth quarter and fiscal year ended April 24, 2009, which are contained in the press release in Exhibit 99.1 and are attached as Exhibit 99.2, are filed herewith for purposes of Section 18 of the Exchange Act and therefore may be incorporated by reference into filings under the Securities Act and the Exchange Act.
+Item 8.01 Other Information
+     The disclosure in Item 2.02 of this Current Report on Form 8-K is incorporated hereby by reference.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+     The following exhibits are being filed or furnished herewith:
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+
+Exhibit 99.1
+NetApp (NASDAQ: NTAP) today reported results for the fourth fiscal quarter and fiscal year 2009. Revenues for the fourth fiscal quarter of 2009 totaled $880 million compared to revenues of $938 million for the same period a year ago.
+SUNNYVALE, Calif.  May 20, 2009 
+     For the fourth fiscal quarter, GAAP net income was $75 million, or $0.23 per share compared to GAAP net income of $90 million, or $0.26 per share for the same period in the prior year. Non-GAAP net income for the fourth fiscal quarter was $103 million, or $0.31 per share, compared to non-GAAP net income of $131 million, or $0.38 per share for the same period a year ago.
+1
+2
+     For fiscal year 2009, GAAP revenues totaled $3.4 billion, an increase of 3% compared to GAAP revenues of $3.3 billion for fiscal year 2008. Non-GAAP revenues for fiscal year 2009, excluding the impact of the $129 million GSA settlement, were $3.5 billion. For fiscal year 2009, GAAP net income was $87 million, or $0.26 per share, compared to GAAP net income of $310 million, or $0.86 per share for fiscal year 2008. Non-GAAP net income for fiscal year 2009 was $364 million, or $1.09 per share, compared to non-GAAP net income of $455 million, or $1.26 per share for fiscal year 2008.
+     "The NetApp team performed admirably to close a challenging fiscal year 2009," said Dan Warmenhoven, chairman and CEO. "With revenues up and expenses well contained, NetApp has delivered three consecutive quarters of increasing operating margins. Storage efficiency and storage for virtual server environments continue to be the primary demand drivers during this difficult economic period. Customers are increasingly turning to NetApp for help solving their storage and data management challenges in the face of shrinking budgets."
+ 
+Outlook
+Given the reduced visibility caused by the recent changes in the macroeconomic environment, NetApp will not be providing revenue guidance for the first quarter of fiscal year 2010.
+Quarterly Highlights
+     In the fourth quarter of fiscal year 2009, NetApp introduced several new solutions to help customers transform their data center architectures through greater storage efficiency, greater power and space savings, and innovative data management techniques. The company also received industry recognition for its market leadership, product performance, and channel success.
+     This quarter, NetApp and Cisco announced that they are teaming up to provide customers with unified, dynamic data center solutions that are based on the Cisco Unified Computing System and NetApp unified storage architecture.
+     NetApp announced new storage and data management advances for VMware View to help customers deploy and operate virtual desktop environments faster and more efficiently, including NetApp's new Rapid Cloning Utility 2.0, which simplifies the way administrators clone VMware virtual machines and datastores. NetApp also announced the integration and certification of its storage platforms with VMware vSphere 4, which provides a path to virtualized data centers and cloud computing.
+     During the quarter, NetApp extended its virtualization guarantee to include EMC, IBM, HP, and HDS storage systems by offering a guarantee that customers will decrease their non-NetApp primary storage capacity for virtual server environments by 35% using NetApp V-Series
+3
+ 
+and deduplication technology. NetApp deduplication has been delivered to more than 5,000 customers worldwide, comprising more than 30,000 systems containing 385PB of storage capacity.
+     NetApp unveiled V-Series support for Texas Memory Systems' RamSan-500 solid-state disk (SSD) array. NetApp V-Series and Texas Memory Systems combine the full benefits of the NetApp Data ONTAP operating system with SSD storage to improve application performance and offer advanced features such as thin provisioning, Snapshot copies, and deduplication to improve storage efficiency and management.
+     Also this quarter, NetApp introduced new functionalities for NetApp MetroCluster that offer customers continuous data availability in virtualized environments, the ability to perform nondisruptive software and hardware upgrades, and integration with NetApp deduplication technology for enhanced storage efficiency.
+     During the quarter, NetApp received the following third party recognitions:
+ 
+Webcast and Conference Call Information
+     The NetApp quarterly results conference call will be broadcast live on the Internet at on Wednesday, May 20, 2009, at 2:00 p.m. Pacific Time. This press release and any other information related to the call will also be posted on the Web site at that location. The conference call will also be available live in a listen-only format at (800) 638-4930 in the United States and (617) 614-3944 outside the United States. The pass code for both numbers is 57400475. A replay will be available for 72 hours following the completion of the live call by dialing (888) 286-8010 in the United States and (617) 801-6888 outside the United States, using replay code 92143343. The Webcast replay will be posted on our Web site for at least one year.
+http://investors.netapp.com
+About NetApp
+NetApp creates innovative storage and data management solutions that accelerate business breakthroughs and deliver outstanding cost efficiency. Discover NetApp's passion for helping companies around the world go further, faster at .
+www.netapp.com
+"Safe Harbor" Statement Under U.S. Private Securities Litigation Reform Act of 1995
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include all of the statements under the Outlook section relating to our forecasted operating results and metrics for the first quarter of fiscal year 2010 and the benefits that we expect our customers to realize from using our products. These forward-looking statements involve risks and uncertainties, and actual results could vary. Important factors that could cause actual results to differ materially from those in the forward-looking statements include the material and adverse global economic and market conditions that currently exist and that are expected to persist throughout calendar 2009; our ability to build
+ 
+nondeferred backlog to levels consistent with our past results and to increase our revenue over the next several quarters; risks associated with the anticipated growth in network storage and content delivery markets; our ability to deliver new product architectures and enterprise service offerings; competition risks, including our ability to design products and services that compete effectively from a price and performance perspective; risks with new product introductions; our reliance on a limited number of suppliers; our ability to accurately forecast demand for our products and successfully manage our relationships with our contract manufacturers; our ability to expand our direct sales operations and reseller distribution channels; our ability to develop, maintain, and strengthen our relationships and product offerings with strategic partners; risks associated with international operations; our ability to successfully acquire and integrate complementary businesses and technologies, including our ability to consummate our acquisition of Data Domain and integrate its operations into ours; foreign currency exchange rate fluctuations; and other important factors as described in NetApp reports and documents filed from time to time with the Securities and Exchange Commission (SEC), including the factors described under the sections captioned "Risk Factors" in our most recently submitted 10-K and 10-Q. We disclaim any obligation to update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise.
+ 
+NetApp, the NetApp logo Go further, faster, Data ONTAP, and Snapshot are trademarks or
+ 
+registered trademarks of NetApp, Inc. in the United States and/or other countries. All other brands or products are trademarks or registered trademarks of their respective holders and should be treated as such.
+NetApp Usage of Non-GAAP Financials
+The Company refers to the non-GAAP financial measures cited above in making operating decisions because they provide meaningful supplemental information regarding the Company's operational performance. Non-GAAP revenues exclude the GSA settlement. Non-GAAP results of operations exclude the GSA settlement, amortization of intangible assets, stock-based compensation expenses, asset impairment, acquisition related costs, prior acquisition related costs, restructuring and other charges, net gain or loss on investments, and the related effects on income taxes, as well as certain discrete GAAP tax provision items and the tax effect on sale of investments. We have excluded these items in order to enhance investors' understanding of our ongoing operations. The use of these non-GAAP financial measures has material limitations because they should not be used to evaluate our company without reference to their corresponding GAAP financial measures. As such, we compensate for these material limitations by using these non-GAAP financial measures in conjunction with GAAP financial measures.
+These non-GAAP financial measures facilitate management's internal comparisons to the Company's historical operating results and comparisons to competitors' operating results. We include these non-GAAP financial measures in our earnings announcement because we believe they are useful to investors in allowing for greater transparency with respect to supplemental information used by management in its financial and operational decision making, such as employee compensation planning. In addition, we have historically reported similar non-GAAP financial measures to our investors and believe that the inclusion of comparative numbers provides consistency in our financial reporting at this time.
+NetApp Use of Corporate Web Site
+In accordance with SEC guidance published on August 22, 2008 , NetApp will begin to disseminate material information about the company through its corporate Web site within the next several fiscal quarters. NetApp intends to designate a separate portion of its corporate Web site for purposes of these disclosures and will include a prominent link on its Web site to allow visitors to locate this material information, which will be routinely updated. The Web site will supplement, rather than replace, NetApp's current existing channels of information distribution.
+(Release No. 34-58288)
+Additional Information and Where to Find It
+NetApp plans to file with the SEC a Registration Statement on Form S-4 in connection with the transaction and Data Domain plans to file with the SEC and mail to its stockholders a Proxy Statement/Prospectus in connection with the transaction. The Registration Statement and the Proxy Statement/Prospectus will contain important information about NetApp, Data Domain, the
+ 
+transaction and related matters. Investors and security holders are urged to read the Registration Statement and the Proxy Statement/Prospectus carefully when they are available. Investors and security holders will be able to obtain free copies of the Registration Statement and the Proxy Statement/Prospectus and other documents filed with the SEC by NetApp and Data Domain through the web site maintained by the SEC at and by contacting NetApp Investor Relations at (408) 822-7098 or Data Domain Investor Relations at (408) 980-4909. In addition, investors and security holders will be able to obtain free copies of the documents filed with the SEC on NetApp's website at and on Data Domain's website at .
+www.sec.gov
+www.NetApp.com
+www.datadomain.com
+Participants in the Acquisition of Data Domain
+NetApp, Data Domain and their respective directors, executive officers and certain other members of management and employees may be deemed to be participants in the solicitation of proxies in respect of the proposed transaction. Information regarding these persons who may, under the rules of the SEC, be considered participants in the solicitation of Data Domain stockholders in connection with the proposed transaction will be set forth in the Proxy Statement/Prospectus described above when it is filed with the SEC. Additional information regarding NetApp's executive officers and directors is included in NetApp's definitive proxy statement, which was filed with the SEC on July 14, 2008, and additional information regarding Data Domain's executive officers and directors is included in Data Domain's Annual Report on Form 10-K/A for fiscal year ended December 31, 2008, which was filed with the SEC on April 30, 2009. You can obtain free copies of these documents from NetApp or Data Domain using the contact information above.
+ 
+ 
+ 
+ 
+ 
+
+Exhibit 99.2
+ 
+ 
+
+

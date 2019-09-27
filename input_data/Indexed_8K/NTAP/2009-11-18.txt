@@ -1,0 +1,198 @@
+FILE:NTAP/NTAP-8K-20091118162641.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[  ]   Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[  ]   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[  ]   Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[  ]   Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+  
+ 
+ 
+ 
+ 
+ 
+  
+Item 2.02.  Results of Operations and Financial Condition
+ 
+On November 18, 2009, NetApp, Inc. (the ) issued a press release announcing its earnings for the second quarter ended October 30, 2009. The press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information set forth on Exhibit 99.1 shall not be deemed to be filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended (the ), or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Company
+Exchange Act
+Securities Act
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+NetApp, Inc.s November 18, 2009 press release is hereby furnished as Exhibit 99.1 to this Form 8-K in connection with the disclosures under Item 2.02 of this Form 8-K.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit 99.1
+ 
+ 
+ 
+NetApp Announces Results for Second Quarter of Fiscal Year 2010
+ 
+Revenue Up 9% Sequentially and Nearly Flat Year Over Year
+ 
+SUNNYVALE, CA--(Marketwire - November 18, 2009) - NetApp (NASDAQ: ) today reported results for the second quarter of fiscal year 2010, which ended October 30, 2009. Revenues for the second quarter of fiscal 2010 were $910 million, compared to revenues of $912 million for the same period one year ago.
+NTAP
+ 
+For the second fiscal quarter of 2010, GAAP net income was $96 million, or $0.27 per share(1) compared to GAAP net income of $43 million, or $0.13 per share for the same period in the prior year. Non-GAAP(2) net income for the second fiscal quarter of 2010 was $130 million, or $0.37 per share, compared to non-GAAP net income of $92 million, or $0.28 per share for the same period one year ago.
+ 
+Revenues for the first six months of the current fiscal year totaled $1.75 billion, compared to revenues of $1.78 billion for the first six months of the prior fiscal year, a decrease of 2% year over year.
+ 
+GAAP net income for the first six months of the current fiscal year totaled $147 million, or $0.43 per share, compared to GAAP net income of $78 million, or $0.23 per share for the first six months of the prior fiscal year. Non-GAAP net income for the first six months of the current fiscal year totaled $206 million, or $0.60 per share, compared to non-GAAP net income of $168 million, or $0.50 per share for the first six months of the prior fiscal year.
+ 
+"NetApp delivered a strong quarter with record gross margins, record revenue from our SAN products, and overall revenue that exceeded our expectations," said Tom Georgens, president and chief executive officer. "Our value proposition resonates particularly well with customers who look to gain efficiency and streamline operations as they begin to build out their next-generation virtualized data centers. Driven by this demand, NetApp is forecasting record revenues for our next fiscal quarter."
+ 
+ 
+ 
+Outlook
+ 
+ 
+ 
+ 
+Quarterly Highlights
+ 
+In the second quarter of fiscal year 2010, NetApp unveiled its cloud strategy and introduced several new products and solutions to help customers transform their data center architectures to achieve greater storage efficiency through innovative data management techniques. NetApp also received numerous industry accolades for its work environment, products, innovative use of technology, and executive leadership.
+ 
+The makeup of the data center is changing drastically as companies seek to take advantage of virtualization and highly efficient infrastructures. NetApp is primed to take advantage of this major shift in the market by offering enterprises industry-leading storage efficiency and data management solutions that are well suited for both internal and external cloud deployments.
+ 
+This quarter NetApp introduced Data ONTAP 8, the culmination of years of engineering effort to integrate the Data ONTAP 7G operating system with a next-generation scale-out architecture. Data ONTAP 8 will provide seamless data mobility and secure multi-tenancy, both of which are key requirements for the most sophisticated cloud infrastructures. In addition, Data ONTAP 8 provides a more robust platform for the next 10 years of innovation from NetApp.
+ 
+ 
+ 
+NetApp also introduced the following new products and enhancements that uniquely complement VMware vSphere 4 and VMware View to help customers optimize their desktop and cloud computing environments: Virtual Storage Console, SnapManager for Virtual Infrastructure, and Rapid Cloning Utility.
+ 
+Showing its commitment to midsize enterprise and distributed enterprise customers, NetApp announced the new FAS2040 storage system, providing customers with increased performance and capacity to handle demanding Microsoft Windows consolidation and virtualization workloads all on the same system. NetApp also announced significant price reductions for its FAS2020 systems and associated software, which are now preconfigured with high-capacity drives and include all protocols.
+ 
+During the quarter, NetApp extended its leadership in Ethernet storage with standards-based products that support converged Ethernet (FCoE, iSCSI, NFS, CIFS) data access and help customers streamline their data centers and maximize ROI. With partners such as Cisco and QLogic, NetApp is expanding Ethernet as a storage infrastructure.
+ 
+In an effort to help customers maximize the value of their existing storage investments, NetApp unveiled a program to help customers achieve greater storage efficiency in their data centers. Under the terms of the Zero Investment Promise(3) Program ("ZIP Program"), customers with EMC and HP SANs that deploy NetApp V-Series can reduce storage capacity and the associated costs of their existing third-party storage investments. If after 90 days the customer files an approved claim that the storage savings are not achieved, the customer will keep the equipment at no charge.
+ 
+Finally, in addition to NetApp's various solution and program announcements during the quarter, the company received the following awards and industry recognition:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Webcast and Conference Call Information
+ 
+ 
+ 
+ 
+About NetApp
+ 
+NetApp creates innovative storage and data management solutions that accelerate business breakthroughs and deliver outstanding cost efficiency. Discover NetApp's passion for helping companies around the world go further, faster at .
+www.netapp.com
+ 
+ 
+ 
+"Safe Harbor" Statement Under U.S. Private Securities Litigation Reform Act of 1995
+ 
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include all of the statements under the Outlook section relating to our forecasted operating results, share count and metrics for the third quarter of fiscal year 2010 and the benefits that we expect our customers to realize from using our products. These forward-looking statements involve risks and uncertainties, and actual results could vary. Important factors that could cause actual results to differ materially from those in the forward-looking statements include risks associated with the anticipated growth in network storage and content delivery markets; our ability to deliver new product architectures and enterprise service offerings; competition risks, including our ability to design products and services that compete effectively from a price and performance perspective; our reliance on a limited number of suppliers; our ability to accurately forecast demand for our products; and other important factors as described in NetApp reports and documents filed from time to time with the Securities and Exchange Commission (SEC), including the factors described under the sections captioned "Risk Factors" in our most recently submitted 10-K. We disclaim any obligation to update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise.
+ 
+(1) Earnings per share is calculated using the diluted number of shares for all periods presented.
+ 
+(2) Non-GAAP results of operations exclude amortization of intangible assets, stock-based compensation expenses, merger termination proceeds (net of related expenses), restructuring and other charges, noncash interest expense associated with our convertible debt, net loss or gain on investments, and our GAAP tax provision, including discrete items, but includes a proforma tax provision based upon our projected annual proforma effective tax rate.
+ 
+(3) The ZIP Program is limited to the terms set forth in .
+www.netapp.com/zip
+ 
+NetApp, the NetApp logo, Go further, faster, Data ONTAP, and SnapManager are trademarks or registered trademarks of NetApp, Inc. in the United States and/or other countries. All other brands or products are trademarks or registered trademarks of their respective holders and should be treated as such.
+ 
+ 
+ 
+NetApp Usage of Non-GAAP Financials
+ 
+The Company refers to the non-GAAP financial measures cited above in making operating decisions because they provide meaningful supplemental information regarding the Company's operational performance. Non-GAAP results of operations exclude amortization of intangible assets, stock-based compensation expenses, merger termination proceeds (net of related expenses), restructuring and other charges, noncash interest expense associated with our convertible debt, net loss or gain on investments, and our GAAP tax provision, including discrete items, but includes a proforma tax provision based upon our projected annual proforma effective tax rate. We have excluded these items in order to enhance investors' understanding of our ongoing operations. The use of these non-GAAP financial measures has material limitations because they should not be used to evaluate our company without reference to their corresponding GAAP financial measures. As such, we compensate for these material limitations by using these non-GAAP financial measures in conjunction with GAAP financial measures.
+ 
+These non-GAAP financial measures facilitate management's internal comparisons to the Company's historical operating results and comparisons to competitors' operating results. We include these non-GAAP financial measures in our earnings announcement because we believe they are useful to investors in allowing for greater transparency with respect to supplemental information used by management in its financial and operational decision making, such as employee compensation planning. In addition, we have historically reported similar non-GAAP financial measures to our investors and believe that the inclusion of comparative numbers provides consistency in our financial reporting at this time.
+ 
+NetApp Use of Corporate Web Site
+ 
+In accordance with SEC guidance published on August 22, 2008 (Release No. 34-58288), NetApp will begin to disseminate material information about the company through its corporate Web site within the next several fiscal quarters. NetApp intends to designate a separate portion of its corporate Web site for purposes of these disclosures and will include a prominent link on its Web site to allow visitors to locate this material information, which will be routinely updated. The Web site will supplement, rather than replace, NetApp's current existing channels of information distribution.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Press Contact:
+NetApp
+Jodi Baumann
+Ph: (408) 822-3974
+Jodi.Baumann@netapp.com
+Investor Contacts:
+NetApp
+Tara Dhillon
+Ph: (408) 822-6909
+tara@netapp.com
+NetApp
+Billie Fagenstrom
+Ph: (408) 822-6428
+billief@netapp.com
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,461 @@
+FILE:CSC/CSC-8K-20101112083749.txt.gz
+EVENTS:	Financial Statements and Exhibits
+TEXT:
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Item 7.01.                      Regulation FD Disclosure
+On November 10, 2010, Computer Sciences Corporation (the Company) held a teleconference to discuss the Companys second quarter results, a transcript of which is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information included in this Current Report on Form 8-K, including the transcript attached as Exhibit 99.1, is incorporated by reference into this Item 7.01 in satisfaction of the public disclosure requirements of Regulation FD. This information is furnished and not filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Securities Exchange Act of 1934 or the Securities Act of 1933 only if and to the extent such subsequent filing specifically references the information incorporated by reference herein.
+Item 9.01.                      Financial Statements and Exhibits
+Exhibit
+99.1                      Transcript of the Registrant dated November 10, 2010 (furnished herewith).
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+ 
+ 
+ 
+Exhibit
+99.1                      Transcript of the Registrant dated November 10, 2010 (furnished herewith).
+ 
+ 
+ 
+
+FINAL TRANSCRIPT
+Conference Call Transcript
+CSC - Q2 2011 Computer Sciences Corporation Earnings Conference Call
+Event Date/Time: Nov 10, 2010 / 04:00PM  GMT
+CORPORATE PARTICIPANTS
+ 
+ Bryan Brady
+ CSC - VP of IR
+ 
+ Mike Laphen
+ CSC - Chairman, President and CEO
+ 
+ Mike Mancuso
+ CSC - VP and CFO
+ 
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+ Darrin Peller
+ Barclays Capital - Analyst
+ 
+ David Grossman
+ Stifel Nicolaus - Analyst
+ 
+ Adam Frisch
+ Morgan Stanley - Analyst
+ 
+ Joseph Vafi
+ Jefferies & Company - Analyst
+ 
+ Joseph Foresi
+ Janney Montgomery Scott - Analyst
+ 
+ Bryan Keane
+ Credit Suisse - Analyst
+ 
+ Ashwin Shirvaikar
+ Citi - Analyst
+ 
+ Jason Kupferberg
+ UBS - Analyst
+ 
+ Michael Blasi
+ Voyant - Analyst
+ 
+ 
+ 
+1
+ 
+ PRESENTATION
+ 
+ 
+Operator
+ 
+ Good day, everyone, and welcome to the CSC fiscal year 2011 second-quarter earnings call. Today's call is being recorded. For opening remarks and introductions, I would like to turn the call over to Mr. Bryan Brady, Vice President of Investor Relations. Please go ahead, sir.
+ 
+ Bryan Brady
+- CSC - VP of IR
+ 
+ Thank you, operator. Well, good morning, everyone, and a warm welcome to CSC's earnings call for the second quarter of our fiscal year 2011. We issued our financial results earlier this morning, so hopefully you've had a good opportunity to review them.
+With me today are Mike Laphen, our Chairman and Chief Executive Officer, and Mike Mancuso, our Chief Financial Officer.
+As usual, the call is being webcast at CSC.com, and we've also posted slides to our website to accompany our discussion.
+So moving to slide 2, you'll see a reminder that statements made during this call that are not historical facts may be considered forward-looking statements under the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements are subject to known and unknown risks and uncertainties, which could cause actual results to differ materially. Additional information concerning these risks and uncertainties is contained in the Company's filings with the SEC. Copies of these filings are available from the SEC, from our website and from our Investor Relations department.
+On slide 3, you'll see our acknowledgment that CSC's presentation includes certain non-GAAP financial measures. In accordance with SEC rules, a reconciliation of these metrics to GAAP metrics is included in the tables of the earnings release and in the appendix to our slides. Both documents are available for your review at the Investor Relations section of the CSC website.
+Finally, I'd like to remind our listeners that CSC assumes no obligation to update the information presented on this conference call, except of course as required by law.
+Now if you'll kindly move to slide number 4, I am pleased to turn the call over to Mike Laphen.
+ 
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ 
+ Thank you, Bryan. Good morning, ladies and gentlemen, and thank you for joining us today as we discuss our financial results for the second quarter.
+We ended our last earnings call indicating that we expected our second-quarter revenue to be similar to that of the first quarter, and that the majority of this year's growth would occur in the second half.
+Consistent with that earlier view, we delivered modest sequential revenue growth in our second quarter. However, ongoing market improvements, the resolution of a protest on some key public-sector awards, and the ramp-up of new business initiated in the first half all reinforced our belief that we will experience meaningful topline growth in our second half.
+ 
+2
+ 
+On the new business front, bookings strengthened to $4.5 billion for the quarter and $7.7 billion for the first half. Based on this first-half performance, as well as current activity, we've increased our full-year bookings estimate by $500 million.
+Across our global commercial businesses, we see definite signs of recovery. Pipelines are building constructively, customers are actively engaging in the exploration of new initiatives, and most importantly, buying decisions are being made.
+Business utilization and billing rates have improved, and demand for services has increased. Our consulting pipelines are robust and total 3 times trailing-12-months revenue.
+Win rates remain strong, indicating market acceptance of our vertical and consulting solutions and traction for our BPO and industry-focused value propositions. Accordingly, BSS delivered second-quarter year-over-year growth of 6%, net of M&A and in constant currency. We expect this growth to continue, if not accelerate, in the second half.
+Demand for outsourcing services remains positive. MSS revenues increased 2% for the quarter and 2.1% for the half in constant currency, and we expect this growth to continue in the second half. The demand for application management services is particularly strong, and we project that this segment of the business will grow at low-double-digit rates year over year.
+The outsourcing pipeline for qualified opportunities scheduled for award by the close of our fiscal year '11 stands at $12 billion, driving our optimism for strong second-half bookings. We are particularly pleased to start off our third quarter by welcoming VF Corporation, the world's largest apparel company, as a new CSC client.
+Demand for cloud services continues across our markets, and we achieved a number of significant accomplishments. First, we successfully transitioned over 15,000 users across 36 of the city of Los Angeles' 40 departments through our Google-based cloud platform.
+We also recently announced our win on the state of California program for Microsoft BPOS cloud services. Additionally, we were selected by AMP, one of Australia's leading wealth management companies, to implement our cloud-based solution for e-mail and collaborative services. This solution is based on the V-Block technology resulting from our announced alliance with the VCE coalition, a collaboration of Cisco, EMC and VMware.
+For our groundbreaking implementation of cloud-based office services to 28,000 Royal Mail Group employees, CSC just received the National Outsourcing Association's award for innovation in outsourcing.
+These accomplishments evidence CSC's leadership position in the implementation of cloud services across both the public and private sectors.
+Within our cyber business, we won several new contracts having a combined TCV of $50 million. We are continuing to see a growing pipeline of cyber opportunities across both the public and commercial sectors. To strengthen our portfolio of cyber IP and to expand into some new market segments within the world of cyber, we've recently completed the strategic acquisition of a small but important cyber company, VRL. This transaction has already generated considerable positive discussion within the community.
+ 
+3
+ 
+Our federal sector business, NPS, delivered strong second-quarter bookings totaling approximately $2.9 billion, which provides a good foundation for second-half growth. These second-quarter new business bookings include over $600 million of new TCV across the federal healthcare market space, with wins at the Health and Human Services' Centers for Medicare & Medicaid Services, the National Institutes of Health, the Department of Defense Health Affairs, and the Department of Labor Office of Workers' Compensation Programs.
+Other important second-quarter NPS wins totaling over $1 billion in TCV include delivery orders for the Department of State Visa Support Services in Mexico, the US Army Flight School XXI, IT infrastructure services for a major intelligence agency, and an important win at the Social Security Agency for information technology support.
+In addition to this solid first-half bookings result, the NPS pipeline remains strong, with $18 billion of qualified opportunities that are scheduled to be awarded over the next 12 months, $9 billion of which is scheduled for award by the end of CSC's fiscal year.
+Our constructive view of NPS growth in the second half is also based on the resolution of two important protests, including the TSA ITIP program. Work finally started on this program in September and is now in its late stages of the planned 90-day transition phase.
+I would now like to provide some updates to several of the investor topics of interest we discussed during our last earnings call.
+With respect to our business with the US federal government, we divested at the end of the quarter a subsidiary of NPS, Mission Solutions Engineering, Inc., resolving government concerns of conflicts of interest with other current CSC programs at the Missile Defense Agency and the US Navy.
+The recent US midterm elections bring in a new Congress that we expect will prove to be a moderating force on reforms such as the government's in-sourcing initiative, but one that will attempt to address concerns over budget deficits and their impact on the discretionary spending across the government. We continue to believe that our capabilities in delivering cost-effective operational services and IT solutions which improve productivity are well aligned with the leadership objectives to achieve more with less in government programs.
+During last quarter's call, we also discussed the US federal government's IT reform initiatives that focused on financial systems and high-profile IT programs. I thought it would be useful to take a couple minutes on this call to provide some color on two of CSC's mission-critical programs.
+CSC's Army Logistics Modernization Program, LMP, is one of the largest, if not the largest, ERP implementation in the world, with over 21,000 users globally. After this system successfully closed its financial books for the government fiscal year ending in September, this solution was deployed to its final tranche of users stationed at 29 locations across the globe. This massive go-live event successfully completes the LMP deployments, which will now transition, upon approval, to operations and support.
+Release 3 of the FAA's Traffic Flow Management Modernization Program went live on August 21. Since then, if you have flown anywhere within the continental United States, both the air traffic controllers and your flight crew have relied on this software release to help ensure your safe and timely flight.
+Each of these mission-critical systems is essential to the functioning of its agency and to delivery of the goods and services we expect from government. As such, we strongly believe that the sponsors of mission-critical undertakings will continue to ensure their success, including the prioritization and allocation of scarce resources.
+ 
+4
+ 
+Turning to NHS, we have been engaged with NHS in detailed discussions over the past quarter. We are optimistic that an agreed MOU is forthcoming on CSC's local service provider contract for the North, Midlands and East of England. This program is being realigned in light of the NHS's changed agenda and in response to the UK government's initiative to significantly reduce its overall expenditure.
+As previously announced by the NHS, the contract value will be reduced by approximately GBP500 million and includes scope adjustments. Our revised guidance reflects the expected impact of this realignment.
+After successfully completing the Lorenzo Release 1.9 implementation at the four early-adopter trusts, CSC will then move on to the full deployment of this solution. To this end, I am pleased to note that Birmingham Women's NHS Foundation Trust became the third early adopter of our Lorenzo Release 1.9 solution, as they went live on November 1. Early indications are positive and demonstrate further progress in the maturation of the solution and the go-live process that has resulted from the early-adopter program.
+In summary, we look forward to a positive second half and solid full-year results. I will now turn it over to Mike Mancuso for further details of our second-quarter results and our outlook for the remainder of fiscal year '11, including guidance modifications and the Nordic accounting adjustments reflected in our press release.
+ 
+ Mike Mancuso
+- CSC - VP and CFO
+ 
+ Thanks, Mike, and good morning, ladies and gentlemen.
+I think Mike Laphen's remarks very clearly articulated the healthy status of our markets, our solid positioning in those markets, and the very favorable outlook for CSC as this economic recovery gains momentum. My mission this morning is to provide you with the necessary insight into our financial results for the quarter to enhance your understanding of our performance.
+I will start out by saying we feel good about the quarter. We feel good about where we stand at the halfway point of our fiscal year. And we remain optimistic we will achieve the full-year targets we have set for ourselves.
+I will begin with chart 7. Sequentially, we achieved our goal of continuous improvement in each quarter throughout the year. Every important financial metric is better than the previous quarter.
+Year-over-year comparisons of revenue, operating earnings, margin and EPS require several adjustments to normalize for divestitures, claims settlements, the Nordics adjustment, and a significantly different tax rate.
+If you'll turn now to chart 8. This chart entitled Backlog to Revenue is intended to support our revenue forecast by laying out how much in-the-year revenue will come from existing backlog. The message on the chart can be found at the top of the pyramid, in that only 2% of our in-year revenue is dependent on new business that is not now in backlog.
+Chart 9 displays the new booking profile over the last six quarters. Our positioning through the first two fiscal quarters of this year is quite similar to last year's pattern, where we achieved over $19 billion in new business for the year. Our identified qualified pipeline that Mike Laphen referred to gives us the confidence that our $18.5 billion-plus guidance target is achievable.
+Chart number 10 addresses currency. 64% of our cost and revenue is denominated in US dollars, and as you can see, our second-largest currency is the British pound at 11%.
+ 
+5
+ 
+Assuming the November 8 spot rate, we do not see currency as an issue for us in FY '11. Also worthy to note is that the bulk of our cost is denominated and paid for in local currency, creating a natural hedge. Our primary risk, such that it is, is translation for reporting purposes.
+Chart 11 displays year-over-year revenue by our three lines of business. NPS has the only negative variance from last year, a result of the slowdown of federal government awards in the first half and the large one-time $65 million claims settlement reflected in the FY '10 revenue. BSS would have a more significant increase if adjusted for a divestiture.
+I also want to point out that the Nordics margin adjustments also included a $36 million revenue reversal. Adjusting both years for the claims settlement, divestiture impact and the Nordic reversal, year-over-year revenue would have increased by $70 million or 2%.
+Slide 12 reflects operating income by line of business. The message on this chart is threefold. NPS, despite lower revenue, is $22 million better than last year. MSS is dramatically lower, predominantly impacted by the charges taken in our Nordics business to correct misapplication of internal accounting policies, US GAAP and accounting irregularities. And BSS has increased over $10 million on very modest revenue growth.
+Chart 13% presents the year-over-year P&L comparison. There are two important points to be made. If you focus on the Other Income expense line, you will see income of $35 million this year. Roughly two-thirds represents the gain on the sale of our MSE business that Mike Laphen mentioned.
+The second item is the tax rate, which is significantly higher this year. The MSE gain somewhat offsets the Nordics adjustment impact on operating income, and normalizing for the tax rate makes for a more meaningful comparison of year-over-year results.
+Chart 14 attempts to further normalize for the year-over-year variations, including margin rate. But for the Nordics events, our rate would compare more favorably to last year.
+Chart 15, first-half results -- first half to first half, we are about where we were last year, but better positioned this year for second-half revenue growth in a recovering economy.
+Chart 16 reflects the balance sheet comparisons to last year. Cash is $250 million higher at quarter end, liabilities are much lower, plus higher equity and much-improved ratios. Not reflected on this chart is the fact that earlier this quarter, using our cash, we paid down $750 million of our drawn $1.5 billion bank line.
+Turning to chart 17, it displays our days receivables for the last five quarters. While our trendline is good, we did have an uptick in days from last quarter. There are no underlying issues, and we expect to meet our reduction target for the year.
+Chart 18, selected cash flow items for the first half versus last year. Cash flow from earnings is unchanged. Operating cash flow has improved, but offset by the increased CapEx, which accounts for the variance in free cash flow. This is a timing variance, and we expect CapEx to decline in the second half.
+Chart 19 is our quarterly EPS guidance. We have increased our EPS guidance for the full year by $0.05. Our third- and fourth-quarter range is not dramatically different than prior guidance. We expect our tax rate for the full year to decrease from our prior guidance of 32% to below 30%. And for those of you that are looking for a specific number, I would use 29% for now.
+ 
+6
+ 
+Chart 20 reflects our updated guidance. Our strong pipeline gives us the confidence to raise our bookings number to $18.5 billion-plus from the $18 billion-plus prior. We still believe revenue will grow appreciably in the second half of the year. But because of the delays in the federal procurement awards, the MSE divestiture, and an anticipated modest reduction in NHS revenue, we have lowered the top end of our range from $17.2 billion to $17 billion, and the lower end from $16.8 billion to $16.5 billion.
+The Nordics issue and its lingering cost structure issues caused us to adjust the margin range downward for now. You'll recall we expected 25 to 50 basis points of improvement for the year, and 9.25% was our top end. We have adjusted it to 9%.
+We have increased our EPS on the strength of our tax rate reduction and remain confident that free cash flow will exceed 90% of net income.
+In reflecting on how you should think about the Nordics adjustment, try to keep in mind that a business as geographically dispersed as ours will present control challenges from time to time. And we are in 94 countries. The good news is we found it, fixed it and put it behind us.
+So, again, to summarize how we feel, we are still bullish on the year. We feel good about our second-half revenue growth. The accounting issues in the Nordics are nonrecurring and should be thought on as a bump in the road to an otherwise positive first half.
+That being said, I'll turn it back to Bryan to kick off the Q&A.
+ 
+ Bryan Brady
+- CSC - VP of IR
+ 
+ Okay. Well, thank you, Mike. So, ladies and gentlemen, we are now ready for the question-and-answer session. Operator, could you please announce our first caller?
+ 
+ 
+ 
+ 
+7
+ 
+QUESTION AND ANSWER
+ 
+Operator
+ (Operator Instructions). Darrin Peller, Barclays Capital.
+ Darrin Peller
+- Barclays Capital - Analyst
+ First question on the margin front, your new full-year margin guidance has, as you just said, Mike, the top end of 9% in terms of range for the year. But help us understand what it is without the Nordics adjustment for the full year.
+ Mike Mancuso
+- CSC - VP and CFO
+ Off the top of my head, Darrin, the Nordics adjustment is approximately $40 million, net, at this point. So if you were to add back $40 million of OI for the year, you'd have about a 0.25-point impact on the year, roughly.
+ Darrin Peller
+- Barclays Capital - Analyst
+ All right, so basically your guidance would've been unchanged on the margin front had that not occurred?
+ Mike Mancuso
+- CSC - VP and CFO
+ Right. And that's not to say we are sitting back on our heels now and have accepted this bump in the road, so to speak, as a fait accompli. We are striving to get back, obviously, to where we were, not ready to predict that at this point in time, but there's plenty of runway left. So you should think of it now as reasonable guidance for the moment, but efforts still underway.
+ Darrin Peller
+- Barclays Capital - Analyst
+ Got it. Another point to just touch on, on BSS, the segment growth looked pretty strong to us. Clearly, you're in positive territory now on constant-currency basis, a pretty -- a couple of percent growth now. I think it does illustrate some of your strength that you've had in some of the cloud areas, some of the new growth areas -- cloud and cyber and kind of potentially desktop virtualization looking pretty good.
+What type of growth would you say is sort of more normalized for that side, at least going into next year or over the course of the next 12 months?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I think we are looking for at least similar growth in the second half. And I think -- being a bit optimistic, I would say -- I think upper single digit next year is quite doable, from what we see at this point.
+ 
+8
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ And then, yes, in terms of just contracts you're coming up to, your competition -- you seem to obviously be winning a certain amount of these contracts. Is it pricing-related? Is it just your expertise? Can you help us understand that?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, frankly, I think we're doing a very good job investing in new solutions and new technology development. Clearly -- and cloud and cyber are great examples of that, and as you said, the virtual desktop as well. So I think we are getting out front and leading the market in some key technology areas. And I would say that's complemented by our strategic thrust to align ourselves along an industry front. So coupling industry capability now with that technology that we've always had I think is paying dividends right now.
+ Bryan Brady
+- CSC - VP of IR
+ Okay. Thank you, Darrin.
+ Darrin Peller
+- Barclays Capital - Analyst
+ Thanks, guys.
+Operator
+ David Grossman, Stifel Nicolaus.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ You know, Mike Mancuso, there were a lot of moving pieces I think that both impacted the quarter and the guidance. And I was wondering, you gave us the breakdown I think for the Nordics in terms of its impact on margin. But can you take the major items, including NHS, and help us understand both the revenue impact and the margin impact as we go forward for each of these different items?
+ Mike Mancuso
+- CSC - VP and CFO
+ If I understand your question, David, it's the margin wrapped around the revenue guidance change. Is that the root of your question?
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Well, really just for the different things -- you had a divestiture, you had rescoping of the NHS, and then we had the Nordic issue. Those three things seem to be impacting the outlook. And I was wondering if you could just help us understand both the revenue and margin impact of each of those three different things.
+ 
+9
+ 
+ Mike Mancuso
+- CSC - VP and CFO
+ Yes, I think as you think about it -- first of all, I'm not going to get into the revenue impact on the NHS. But I would tell you that the margin rate itself is not affected in terms of its rate. The revenue line will be smaller, to some degree, not much, but some. But the margin -- there's not a change in the margin. It's just the contribution of the NHS in the year for margin will be less than it was and was anticipated in the prior guidance.
+As far as the other impacts, the Nordics was $40 million-plus, $40 million-ish, was the problem there. Other than that, margins are intact. We don't have any other issues, underperforming businesses, etc., etc.
+The Nordics region itself is soft, frankly. It's lagging the European recovery. We have what we refer to as redundancy issues there. We have excess staff to the amount of business that they've been able to capture for the moment. That is creating a going-forward drain on our margins. We have to deal with that.
+As you know, the European severance rules are rather expensive, and if we shed the workforce, it comes with a price tag. If we shed this workforce and then there's an uptick in revenue, we have to bring them back. So it's a balancing act.
+So that's about the best color I can give you on the numbers.
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ The only thing I would add to that, David, is the divestiture we made was at the very end of the quarter, so it really doesn't impact the second-quarter numbers. It obviously impacts the second-half numbers, and you can think in terms of that being at the average NPS margin level. So, again, from a margin perspective, pretty neutral.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ And how much of revenue was that, Mike, the divestiture on a run rate, annualized basis?
+ Mike Mancuso
+- CSC - VP and CFO
+ It's roughly $100 million on an annual basis. So think about it -- but the second half will be perturbated by about $50 million of the absence of the MSE business.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Okay. And in terms of the margins themselves on a year-over-year basis, I was looking at your chart -- which is very helpful -- just kind of backing out all the noise in the quarter, and it looks like you are up roughly 6 basis points year over year.
+Is this just an unusual quarter, which -- because, obviously, the year-over-year margin expansion had been much more robust leading up to this quarter. Was there just so much noise going on that it really distorts the numbers, or is the pace of expansion slowing, if you will, as we go forward?
+ 
+10
+ 
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, David, one part of it is that it's the summer months, so it's a lower utilization of a lot of our staff. So you will see a higher utilization in the third and fourth quarter, which drives our profitability, and also the growth of the new business, which we will leverage more broadly, which would drive our margin as well. So I wouldn't read too much into that second-quarter difference.
+ David Grossman
+- Stifel Nicolaus - Analyst
+ Okay. And just one last question on the NHS. Is it fair to say that from where you sit right now and the revised guidance that you've given, that you have reasonably good visibility on the rescoping, even though the final MOU hasn't come out yet?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Yes, I believe so. I'm hoping that we are days away from a signed MOU versus weeks away. We've obviously jointly put a lot of time and effort into this. And as I said, hopefully we will conclude this shortly.
+I've met face to face with the NHS leadership on the program just recently. And I believe both CSC is fully committed to go-forward plan, and my sense is that that's the same for the NHS. So, yes, I think we have pretty good clarity at this point.
+ Bryan Brady
+- CSC - VP of IR
+ Okay, thank you, David. Could we take the next question?
+Operator
+ Adam Frisch, Morgan Stanley.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ You showed good management in the quarter by hitting EPS despite the margin headwinds. Can you give us just a better sense of what was in Other Income, and how should we think about this going forward?
+ Mike Mancuso
+- CSC - VP and CFO
+ There's two pieces, Adam, in other income. One is, as I said, two-thirds of that $35 million is the gain on the sale of the MSE business. And the other third is predominantly hedging gains on foreign currency.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Got it, okay. Sorry if I missed that at first.
+ 
+11
+ 
+ Mike Mancuso
+- CSC - VP and CFO
+ And going forward -- it's hard to predict hedging -- don't see any other divestiture gains going forward as it relates to Other Income.
+ Adam Frisch
+- Morgan Stanley - Analyst
+ Okay. A little bit more color on NPS and what's causing -- what are the conditions right now in the decision-making process? Was it the election? Is it concern over budgets? And now that we are heading into a new fiscal year for the government, what should we expect from the speed of decision-making going forward, do you think?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I think we're going to continue to see some delays in procurements. And I think we're going to continue to see the escalated level of protest. So, unfortunately, I think that's here for the foreseeable future.
+On the other hand, on the positive side, we've booked some tremendous business recently, and we've got some of the protests behind us. So we feel that we've got a good growth profile going forward.
+I would think in terms of mid-single digits for that part of our business at this point in time for both the second half and probably going into next fiscal year.
+ Mike Mancuso
+- CSC - VP and CFO
+ And, Adam, to add to that, just to remind you -- you've probably seen it throughout the quarter -- as Mike said, we had significant IDIQ wins in the quarter. They are hard to obviously calculate what the contribution of those will be, because you have to win the task orders, some of which we're sole-source for, in particular large ones. Other ones we will compete for. But a very sizable amount of IDIQ awards in the quarter, which, again, don't reflect in backlog yet, but still provide comfort and opportunity as we look out beyond this year.
+ Bryan Brady
+- CSC - VP of IR
+ Okay. Thanks, Adam. Could we have the next question, Operator, please?
+Operator
+ Joseph Vafi, Jefferies & Company.
+ Joseph Vafi
+- Jefferies & Company - Analyst
+ Thanks for taking my question. I was wondering if we could go back to the Backlog to Revenue slide, and it looks like you're looking at only 2% new business in order to hit your numbers for the year. What kind of backlog-to-revenue conversion assumptions are in that slide? Is this a normal backlog-to-revenue conversion assumption, or is there anything special going on there that we should be aware of?
+ 
+12
+ 
+ Mike Mancuso
+- CSC - VP and CFO
+ Joe, it's the second quarter in a row we've used this slide. If I had included the first-quarter slide, you'd see that the blue area has grown a few percentage points. The top of the pyramid has shrunk a few percentage points. Our backlog is almost unchanged in rounding; it still rounds to $42 billion in the quarter.
+The IDIQ potential, if you looked last quarter, it was $6 billion. We've thrown a little plus sign into it this time. That's to indicate that the amount of additional IDIQ award work that we won in the second quarter, that we are trying to refine, so that we can upgrade this particular number to a more current status.
+So, a long-winded answer; there aren't anything different, unique or whatever in this particular chart other than the top of the pyramid is shrinking.
+ Joseph Vafi
+- Jefferies & Company - Analyst
+ Okay. That's helpful. And then I know -- I think I heard in your remarks that you actually paid down a little bit more of the debt here post the quarter. But you are still sitting on a couple billion dollars of cash. I was wondering if you had any updated thoughts on balance sheet deployment for shareholder purposes here.
+ Mike Mancuso
+- CSC - VP and CFO
+ We have ongoing thoughts about how -- our balance sheet and return to shareholders, etc. We continue to posture ourselves. As you know, we are looking at growing by internal investment, by acquisition, etc. So all of those factors or opportunities are being cranked into our thinking.
+We also have a large revolver that we want to get ourselves out from under in anticipation of which way interest rates are going to go. So I think you'll see more from us in this particular area as we rethink our debt profiles and the makeup of our debt, etc. And of course, as we continue to generate cash flow, that will present opportunity for us.
+ Bryan Brady
+- CSC - VP of IR
+ Okay. Joe, thank you very much. Operator, to the next caller, please.
+Operator
+ Joseph Foresi, Janney Montgomery Scott.
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ Two quick questions here. First, I know you talked about the IDIQs increasing in the back half of the year. Can you just help us reconcile that with your comments about there being maybe delays on some of the government decision-making? Are these mission-critical IDIQs? Is that the reason why you have confidence that they're going to come through even though they are getting signed?
+ 
+13
+ 
+ Mike Mancuso
+- CSC - VP and CFO
+ That's a good question, Joe. It's a tough one to answer, to try and clarify it for you. There has been, if you look at the year, I think you'd see that the second quarter included significantly more IDIQ activity in general in the US government versus the first quarter. There are still a number of key positions in the government that are unfilled.
+By virtue of the fact they are awarding the IDIQs, that's good news. The yet-to-follow good news is how quickly they can turn those into specific task orders. And that's where we're being conservative in the sense that the government has to move -- in the second half of the year, the government has to move more quickly and more nimble than they have in the first half of the year.
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Yes, Joe, I would just add that I think historically, we have called out upper-single-digit growth in that market. You heard me a few moments ago refer to mid-single digits. And I think that reflects our caution around what's going to happen in the IDIQs and in the protest arena. So we've backed off a little bit to reflect what we see out there at this point in time.
+ Joseph Foresi
+- Janney Montgomery Scott - Analyst
+ Okay. So the assumption is that IDIQs are increasing, but you are taking a more conservative approach to the rate at which they get decided on. Am I phrasing that correctly?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Yes, I think that's fair. And I would say that IDIQs are going to become a bigger and bigger portion of our federal contract base. I mean, that's the contract vehicle of choice these days. I don't see that changing. So I think we are just going to have to learn to live with this.
+ Bryan Brady
+- CSC - VP of IR
+ Okay, thank you very much, Joe. Operator?
+Operator
+ Bryan Keane, Credit Suisse.
+ Bryan Keane
+- Credit Suisse - Analyst
+ Just looking at the revenue guidance, for the second half, it looks like the growth rate will be, to hit the midpoint of the revenue guidance, it's going to be at least 7% growth. So just trying to get some color around how that's going to look between quarters, the third quarter and the fourth quarter. Should it be balanced equally? And where does the pop in revenue come from? I know we talked about the NAP business, but do we also see it in BSS and MSS as well?
+ 
+14
+ 
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I would say in terms of the third quarter and fourth quarter, it will be more weighted to the fourth quarter than the third quarter. The pops are coming from a number of the opportunities that we have -- one, that are coming in more directly into the revenue line. Again, that brings you back to Zurich, UBS on the commercial side.
+On the federal side, I referred earlier to the TSA contract coming through the transition period and now moving into full scale. Our recent award on Social Security is a direct task order that will get started up shortly. So there's a lot of things in the mix there that we are expecting to contribute to that growth number that you've referred to.
+ Bryan Keane
+- Credit Suisse - Analyst
+ Okay. In Zurich and UBS, have they already started to ramp? And do they accelerate here in the third and the fourth quarters?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Yes, they accelerate in the third and fourth quarter.
+ Bryan Keane
+- Credit Suisse - Analyst
+ Okay, just a quick one -- I was just going to ask a quick one on operating margins. It looked like the operating margins improved quite a bit in the NPS and BSS businesses. Should we think about those as sustainable levels? I mean, the increase year over year was pretty impressive.
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ I think on the BSS, we expect to continue to see good margin improvement. The NPS had a very good quarter, and I wouldn't project that at a straight line going out. I would go back to our normal guidance on NPS.
+ Bryan Brady
+- CSC - VP of IR
+ Okay, Bryan, thanks a lot. Operator?
+Operator
+ Ashwin Shirvaikar, Citi.
+ 
+15
+ 
+ Ashwin Shirvaikar
+- Citi - Analyst
+ If you go back to the federal business, as we sort of look at the lame duck Congress, and maybe the first calendar quarter of next year has the impact of Congressional committee changes, are you basically looking at a lot of spending or of spending pent-up demand coming in in the early part of the next fiscal year for you? Is that how things get pushed out?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I would say what we are reflecting right now into the second half and into at least the first half of next year is the business that we have recently won that will contribute to the revenue line. So I wouldn't say so much pent-up; I would say it's the business that we have captured most recently. We've done quite well in the marketplace there.
+You know, looking past that, I think there's -- it would be difficult to project what the new Congress is going to do and how they are going to square with the administration on federal spending. So I think we have good visibility in the second half of this year, going into the first half of next year, but I think I will have to leave it at that for this point.
+ Ashwin Shirvaikar
+- Citi - Analyst
+ Okay. And to follow up on the accounting issue that hurt MSS, is there sort of a high confidence level that the accounting irregularity was sort of limited to the Nordics? Have you gone through other jurisdictions, geographies, those kind of things?
+ Mike Mancuso
+- CSC - VP and CFO
+ Ashwin, of course we have. I mean, we've obviously looked at the issues in the Nordics -- for example, misapplication of accounting policy, etc., etc. We looked across the corporation to satisfy ourselves that it is not pervasive, etc., but it's localized. We are confident at this point that it is localized and don't think and are fairly -- very confident you won't see that kind of behavior repeat itself. Certainly it won't in the Nordics, because the people aren't there anymore.
+ Ashwin Shirvaikar
+- Citi - Analyst
+ Okay, thank you.
+Operator
+ Jason Kupferberg, UBS.
+ 
+16
+ 
+ Jason Kupferberg
+- UBS - Analyst
+ So I guess it has been about a year since you outlined new long-term financial guidance, the average organic revenue growth 6% to 8% through fiscal '13, I believe, and the operating margin of at least 10% by fiscal '13, et cetera.
+So I guess based on how fiscal '11 is coming in and what you see in your end markets going forward, are you still comfortable with this forecast? And can you give us a sense of what elements of this forecast could potentially be most at risk?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I would give you this input, Jason. I think that forecast is still a reasonable expectation of our aspirations and expectations. We are going through our strategic -- annual strategic plan process right now where we are taking a forward look of the next couple years and we will, if appropriate, we will modify them at that point in time.
+We will probably come out to the Street sometime in the first quarter of next calendar year with some sort of investors' day event that we would share with you the outcome of our efforts on the strategic plan and projections.
+ Jason Kupferberg
+- UBS - Analyst
+ Okay. And just to follow up from an earlier question regarding the balance sheet, I mean, obviously, there's been a lot of chatter in the marketplace around the potential for CSC to lever up and be an LBO candidate. Mike, maybe just in your position as Chairman, can you give us any sense of how the Board thinks philosophically about that potential, and then also any specific thoughts around share buyback?
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, I'm not going to speak for the Board and how they think philosophically. I think we have a robust business, and we will continue to be a robust business. So I don't think we spend a whole lot of time going down that path, thinking about that possibility.
+In terms of stock buybacks, again, that will be part of the consideration, as all of the capital structure will be, as we go through our strategic plan in the December processing and go through with a Board review at that point in time.
+ Bryan Brady
+- CSC - VP of IR
+ Thank you, Jason. Operator, I think we've got time for one more question.
+Operator
+ Michael Blasi, Voyant.
+ 
+17
+ 
+ Michael Blasi
+- Voyant - Analyst
+ Thanks for taking my call. Just looking for some additional clarity here on the Nordic adjustments. It sounds like there was an internal control deficiency. I was wondering if we were still going to see the 10-Q today. You usually file on the same day that you report.
+ Mike Mancuso
+- CSC - VP and CFO
+ You certainly will, Michael, and it will probably be filed very early afternoon, if it's not there by the time this call ends.
+ Michael Blasi
+- Voyant - Analyst
+ And were these issues related to POC contracts from prior periods? I am just trying to determine here -- you had referenced a misapplication of GAAP -- what the reason -- yes, go ahead.
+ Mike Mancuso
+- CSC - VP and CFO
+ For the most part, they were not POC contracts. There was -- I don't want to get into a lot of the details -- it was capitalizing expense items and things of that ilk. We have internal accounting policies on transition costs and things like that where their capitalization is capped, and it's -- to capitalize the items, it's very careful consideration kind of thing. So it was kind of a broad-brush, broad-based misapplication of all the appropriate accounting rules.
+ Michael Blasi
+- Voyant - Analyst
+ Right, I understand. Just some commentary as to how you determined not to restate versus taking the adjustments in this period.
+ Mike Mancuso
+- CSC - VP and CFO
+ The adjustments were not material to that threshold, and we will elucidate more on it when you read the Q.
+ Michael Blasi
+- Voyant - Analyst
+ Okay. One more on the uptick in receivables. Is there a reason for that?
+ Mike Mancuso
+- CSC - VP and CFO
+ No, there's no systemic reason that you should read into that. It is just a timing issue.
+ Bryan Brady
+- CSC - VP of IR
+ Michael, thanks for your questions. And Operator, I think we are now ready to wrap up the call. And Mike Laphen will close it down for us now.
+ 
+18
+ 
+ Mike Laphen
+- CSC - Chairman, President and CEO
+ Well, again, thank you, everyone, for joining us today. I hope we've provided the clarity for you. We understand there was some complexity in this quarter's results. But hopefully, we have given the clarity you need to do a proper assessment of our performance, which we think was solid and good. As I said earlier, we are pleased with our underlying performance. And we look forward to the second half and to a good, solid fiscal year. Thank you very much.
+Operator
+ And ladies and gentlemen, that will conclude today's teleconference. Thank you again for your participation.
+ 
+19
+ 
+
+

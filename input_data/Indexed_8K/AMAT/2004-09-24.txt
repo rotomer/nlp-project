@@ -1,0 +1,322 @@
+FILE:AMAT/AMAT-8K-20040924172146.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+ 
+On September 20, 2004, Applied Materials, Inc. ("Applied") entered into a Binding Memorandum of Understanding (the "MOU") with Novellus Systems, Inc. ("Novellus"). The MOU effects a full settlement of lawsuits for patent infringement pending in the United States District Court for the Northern District of California, Case Nos. C-97-20523-RMW and C-97-20551-RMW, without either party admitting any liability. The MOU provides for Applied to pay $8 million to Novellus by September 24, 2004, and to waive approximately $3.5 million that Applied claimed was owed under a 1997 settlement agreement between the parties. In addition, patent licenses previously granted by each of Novellus and Applied in the prior settlement agreement become fully paid up, as well as revocable only in limited circumstances.
+ 
+The MOU contains additional covenants and restrictions, which in general establish a structure that is expected to help avoid patent infringement lawsuits in the future. The MOU limits the ability of each party (including subsidiaries and permitted successors and assigns) to sue the other, and the other's customers and (with some exceptions) suppliers and distributors, for infringement of any of the parties' respective patents covering products in technology areas in which both parties engaged in business as of September 3, 2004 (the "effective date"), as follows: (i) for a period of five years from the effective date of the MOU as to existing products, and (ii) for a period of two years from the effective date (with the possibility to extend for an additional year) as to new products introduced after the effective date (the "covenants not to sue"). The following technology areas are expressly covered by the covenants not to sue: integrated anneal, CVD (chemical vapor deposition), PVD (physical vapor deposition), PECVD (plasma-enhanced chemical vapor deposition), HDP-PECVD (high density plasma-enhanced chemical vapor deposition, ALD (atomic layer deposition), ECD (electrochemical deposition) and, with some exceptions, CMP (chemical mechanical polishing). Technology areas in which neither party or only one party engaged in business as of the effective date are specifically excluded from the covenants not to sue (the "excluded product areas"), including stand-alone wet-clean, ion implant, flat panel display processes and production equipment, stand-alone metrology and optical or e-beam inspection of wafers or masks, mask writing, photoresist strip, etch, epitaxial deposition, and RTP (rapid thermal processing).
+ 
+The parties further agreed to notice and cure periods prior to filing suit on products subject to a covenant not to sue that has expired. No damages for infringement will accrue during the covenant not to sue and cure periods. The MOU permits each party to continue to provide support (including certain replacement parts and consumables) to customers for products (other than those in excluded product areas) sold during any covenant not to sue or cure period. The MOU contains other conditions pertaining to, and requiring binding arbitration of, claims regarding certain consumables and replacement parts (other than those in excluded product areas). The MOU does not confer any rights or benefits upon any person or entity not a party to the MOU.
+ 
+The MOU contains a general release of all claims arising prior to the effective date that either Applied or Novellus may have had against the other and the other's customers and (with some exceptions) suppliers and distributors, relating to infringement of the party's patents by any of the other party's products (other than those in excluded product areas). Trial on the liability portion of Novellus' lawsuit had been scheduled to begin on September 20, 2004. For additional information regarding the history of these lawsuits,
+please refer to the "Legal Proceedings" section of Applied's most recent reports on Forms 10-Q and 10-K.
+ 
+General
+ 
+The MOU is attached hereto as Exhibit 10.38 and is incorporated herein by this reference. The foregoing summary does not purport to be complete and is qualified in its entirety by reference to the MOU. Any information disclosed in this Current Report on Form 8-K or the exhibits hereto shall not be construed as an admission that such information is material.
+ 
+Forward-looking statements
+ 
+This report contains certain forward-looking statements, including statements relating to the avoidance of future patent infringement lawsuits and other effects of the MOU. These forward-looking statements can be identified by use of such words as "expect," are based on management's assessments as of the date hereof, and include the assumptions that underlie such assessments. These forward-looking statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. These risks include changes in each party's competitive position, changes in the semiconductor equipment industry, as well as other risks described in the "Trends, Risks and Uncertainties" section of Applied's SEC reports. Applied undertakes no obligation to update any forward-looking statements in this Form 8-K.
+ 
+Item 7.01 Regulation FD Disclosure.
+ 
+On September 24, 2004, Applied issued a press release, the text of which is attached hereto as Exhibit 99.1.
+ 
+The information in this Item 7.01, including Exhibit 99.1, is furnished and shall not be deemed "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into the filings of the Company under the Securities Act of 1933, as amended.
+ 
+Item 9.01. Financial Statements and Exhibits.
+ 
+(c) Exhibits
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+Exhibit 10.38
+ 
+ 
+THIS MEMORANDUM OF UNDERSTANDING (this "") is entered into between Novellus Systems, Inc. (""), and Applied Materials, Inc. (""), as of the Effective Date (as defined below), with reference to the following facts:
+MOU
+Novellus
+Applied
+ 
+ 
+A. Novellus and Applied (each a "" and collectively, the ") are entering into this MOU for the major purposes of (i) resolving certain litigation, (ii) covenanting not to sue each other for Patent Infringement (as defined below) for specified periods and product categories, (iii) avoiding unnecessary future litigation by mandating cure periods prior to either Party instituting Patent Infringement actions against the other Party, and (iv) protecting each Party's respective Customers, Suppliers and Distributors (each as defined below) from certain future Patent disputes that may arise between the Parties, as set forth below.
+Party
+Parties"
+ 
+B. The Parties intend to enter into a definitive agreement implementing this MOU (the "") as soon as practicable, and no later than the close of business on September 24, 2004, unless an extension is agreed to by both Parties in writing, with the understanding that if a Definitive Agreement is not entered into by that date, this MOU shall be and remain legally binding between the Parties. If a Definitive Agreement is reached, it shall extinguish and supersede this MOU.
+Definitive Agreement
+ 
+Accordingly, the Parties hereto agree as follows:
+ 
+ 
+"" means claims that any of Novellus, its Subsidiaries, Suppliers or Distributors Infringe Applied's Patents directed at CMP technology.
+Applied CMP Claims
+ 
+"" means materials and components that either are expected to be consumed, in a period of less than one year, on a continual basis, during the operation of a product (for example, without limitation, process gasses) or are expected to be replaced periodically (but within a period of less than one year) throughout the life of the product (for example, without limitation, targets, shields, and the like). Consumables do not include Window Pads.
+Consumables
+ 
+"" is an end-user of a Party's Product, but only to the extent of such use (for example, without limitation, if a company purchases product X from a Party and product Y from a non-Party, then that company is a Customer with respect to product X but not with respect to product Y).
+Customer
+ 
+"" is an authorized distributor of a Party's Products to a Party's Customers or Suppliers in countries where the Party does not sell to Customers directly or through a Subsidiary, but only to the extent of such distribution (for example, without limitation, Company A is a distributor to a Customer of a Party; if Company A is also a distributor to a different company that is not a Customer of a Party because it distributes product B to such other company, then, with respect to product B, Company A is not a Distributor). However, notwithstanding the provisions of this definition, (i) authorized distributors of Novellus's CMP products as of the Effective Date may include authorized distributors in countries where Novellus sells to Customers directly or through a Subsidiary and (ii) authorized distributors of entities acquired by a Party after the Effective Date (which acquisition results in "control" over such entity, as defined in the definition of Subsidiary) may include authorized distributors in countries where the acquiring Party sells to Customers directly or though a Subsidiary.
+Distributor
+ 
+"" means September 3, 2004.
+Effective Date
+ 
+"" means specifically identifiable and reasonably distinguishable product areas in which neither Party or only one Party engages in business as of the Effective Date. A non-exclusive list of Excluded Product Areas includes (1) stand-alone wet-cleaning, (2) ion implant, (3) flat panel display processes and production equipment, (4) stand-alone metrology and optical or e-beam inspection of wafers or masks, (5) mask writing, (6) photoresist strip, (7) etch, (8) epitaxial deposition and (9) RTP (Rapid thermal processing). For the avoidance of doubt, the following areas, without limitation, shall conclusively be deemed to not be Excluded Product Areas: (1) integrated anneal, (2) CVD (Chemical vapor deposition), (3) PVD (Physical vapor deposition), (4) PECVD (Plasma-enhanced chemical vapor deposition), (5) HDP-PECVD (High density plasma-enhanced chemical vapor deposition), (6) ALD (Atomic layer deposition), (7) ECD (Electrochemical deposition) and (8) CMP (Chemical mechanical planarization) (except for Permitted Applied CMP Claims and Permitted Novellus CMP Claims).
+Excluded Product Areas
+ 
+"" means the following components, in complete or essentially complete (, incomplete in only a respect) form: (1) chambers, (2) mainframes, (3) platforms and (4) Window Pads.
+Excluded Replacement Parts
+i.e.
+de minimus
+ 
+"" means the following components, in complete or essentially complete (, incomplete in only a respect) form: (1) chambers, (2) mainframes, (3) platforms and (4) Window Pads.
+Excluded Supplies
+i.e.
+de minimus
+ 
+"" means a product, process, Consumable, or tool (and features incorporated in the foregoing) that, (A) with respect to hardware, was sold or shipped as of the Effective Date, or one product per Party subject to a purchase option in effect as of the Effective Date with a ship date not later than
+Existing Product
+ 
+December 31, 2004 (including, in each case, sales, shipments or options on a trial or evaluation basis without consideration), by a Party to at least one Customer or prospective Customer, whether in Alpha, Beta, or other stage of development and (B) with respect to processes, was documented by a Party in a formal document such as "Best Known Method," "Process of Record," or other comparable formalization and had been provided to at least one Customer of a Party as of the Effective Date. Without limitation, a product, process, Consumable, or tool (and features incorporated in the foregoing) shall presumptively be deemed to have been shipped, sold or optioned, as applicable, on or prior to the Effective Date to the extent that ordinary course business documentation (purchase orders, shipping documentation, confirmations and other business paper) so states. For the avoidance of doubt, products, processes, Consumables, or tools (and features incorporated in the foregoing) owned by Subsidiaries not "controlled" (as defined in the definition of Subsidiary) by a Party as of the Effective Date shall not be Existing Products.
+bona fide
+ 
+"" or "" means all forms of patent infringement, including direct infringement, indirect infringement, contributory infringement and inducing infringement.
+Infringe
+Infringement
+ 
+"" are products, processes, Consumables, or tools (and features incorporated in the foregoing) that are not Existing Products and that: (1) have a form, fit or function different from Existing Products; (2) are publicly announced to the industry; or (3) have had their name changed in a substantial way after the Effective Date. For the avoidance of doubt, New Products include products, processes, Consumables, or tools (and features incorporated in the foregoing) of Subsidiaries acquired after the Effective Date.
+New Products
+ 
+"" means claims that Applied, its Subsidiaries, Suppliers or Distributors Infringe Novellus' Patents directed at CMP technology.
+Novellus CMP Claims
+ 
+"" and "" includes a Party's respective Subsidiaries and successors and assigns permitted by Section 1 of Exhibit A.
+Party
+Parties
+ 
+"" means all patents and patent applications, present or future, issued in the United States or any foreign country, that are assigned to, owned by, or exclusively licensed or exclusively sublicensed (with the right to sublicense or grant a covenant not to sue) to a Party or its Subsidiaries or any of their respective successors and assigns permitted by Section 1 of Exhibit A.
+Patent
+ 
+"" is an Existing Product or New Product. For the avoidance of doubt, any Party's product, process, Consumable, or tool (and features incorporated in the foregoing) sold, shipped, optioned or provided to a Customer (including, in each case, sales, shipments or options on a trial or evaluation basis without consideration) must either be an Existing Product or a New Product.
+Product
+ 
+"" means, with respect to a Party or other entity, an entity directly, or indirectly, that is, through one or more intermediaries, controlled or under common control with, the Party or other entity (where "control" shall mean ownership of greater than 50% of the voting power or shares entitled to vote for the election of directors or greater than 50% of the equity interest of the entity having the powers to direct management policies; , , that an entity shall be deemed to be a "Subsidiary" for only so long as such ownership or control exists, and an entity may become a "Subsidiary" after the Effective Date if such ownership or control is thereafter obtained).
+Subsidiary
+provided
+however
+ 
+"" is an authorized seller or provider of components or materials for use with or in a Party's Products, other than "Excluded Supplies", but only to the extent of such sale or provision and for such use (, Company W is a Supplier to a Party or a Party's Customers; if Company W is also a supplier for a company that is not a Party or a Party's Customers because it supplies product Z to such other company, then, with respect to product Z, Company W is not a Supplier).
+Supplier
+e.g.
+ 
+"" means (i) polishing systems or methods that use a polishing pad or pads that have at least one solid light transmissive portion, (ii) polishing pads that have at least one solid light transmissive portion and (iii) methods for making polishing pads that have at least one solid light transmissive portion, it being understood that, without limitation, the insertion of an optical fiber or fibers through a hole in a polishing pad does not constitute "at least one solid light transmissive portion". However, the insertion of an optical fiber or fibers through a hole in a polishing pad that otherwise contains a solid light transmissive portion shall not exclude such a polishing pad from the scope of this provision.
+Window Pads
+ 
+"" means claims that Novellus, its Subsidiaries, Suppliers or Distributors Infringe any of the claims in Applied's Patents that require Window Pads. It is understood that a Window Pad claim cannot lie against a product, system or method that lacks a Window Pad as defined herein.
+Window Pad Claims
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the Parties have executed this MOU as of the Effective Date.
+ 
+ 
+ 
+ 
+ 
+Section 1.
+ 
+(a) No Party may assign any of its rights under this MOU, or delegate any performance of its obligations under this MOU, except with the prior written consent of the other Party, which it may give or withhold in its sole discretion (subject to the balance of this Section 1). All assignments of rights and delegations of obligations are prohibited under this subsection, whether they are voluntary or involuntary, by merger, consolidation, dissolution, operation of law or any other manner. For purposes of this Section 1, a "change of control" (as defined below) is deemed an assignment of rights and a delegation of performance of obligations, and a "merger" refers to any merger in which a Party participates, whether or not it is the surviving or disappearing corporation. Any purported assignment of rights or delegation of performance in violation of this Section 1 is void.
+ 
+(b) Notwithstanding the foregoing Section 1(a), either Party hereto may assign its rights and delegate its performance of obligations under this MOU, without the prior written consent of the other Party, if such Party experiences a "change of control" (as hereinafter defined) and the other conditions set forth in this Section 1 are fulfilled. For purposes of this MOU, a change of control of a Party shall be deemed to have occurred at such time as: (i) any person or entity (or "group" of persons or entities, as defined in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended) shall have acquired (whether by way of merger, consolidation, amalgamation, other corporate transaction, purchase or in any other manner) beneficial ownership (within the meaning of Rule 13(d)-3 under the Securities Exchange Act of 1934, as amended) of securities of the applicable Party (or other securities convertible into such securities) representing more than fifty percent (50%) of the combined voting power of all outstanding securities of such Party entitled to vote in the election of directors; or (ii) any person or entity (or "group" of persons or entities, as defined in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended) shall have acquired all or substantially all of the assets of a Party.
+ 
+(c) The "other conditions" referred to in Section 1(b) above are that: (a) the acquiring person, entity or group in the change of control (the "") expressly agrees in writing to be bound by each and every term and condition of this MOU, and be liable for each and every liability and obligation of the acquired Party hereunder, and (b) the Acquiror provides written notice to the other Party of the fact of the acquisition and the identity of the Acquiror within five (5) business days of the closing of any such change of control. If an assignment of rights is permitted and occurs pursuant to this Section 1, a contemporaneous delegation is deemed to have occurred and the assignee is deemed to have assumed the assignor's performance obligations in favor of the nonassigning party, but without releasing the assigning party of any obligations or liabilities hereunder.
+Acquiror
+ 
+(d) Notwithstanding the foregoing, the rights and obligations set forth in this MOU will not be assignable by either Party as a debtor-in-possession, or by a bankruptcy trustee or receiver, to any third party in connection with any proceeding under applicable bankruptcy law.
+ 
+(e) Assuming the "other conditions" referred to above are complied with, if, in addition, an Acquiror expressly agrees in a writing delivered to all Parties prior to the consummation of the change of control that that the definition of the term "Patents" in this MOU shall include all of the Acquiror's and its Subsidiaries' existing and future Patents (a ""), then, upon the consummation of the change of control, the Acquiror shall be entitled to assert the protections of this MOU, subject to all limitations herein, as if it were the Party being acquired, other than Paragraph 5 ("5-Year Covenant Not to Sue For Existing Products") and any associated Cure Period provisions, it being understood that the products, processes, Consumables, or tools (and features incorporated in the foregoing) of the Acquiror shall, in this case, be deemed New Products. For example, in such case all of the Acquiror's products shall be protected as if they were a Party's New Products, subject to the terms, conditions and limitations herein. If the Acquiror does not give a Patent Undertaking, then, assuming the "other conditions" referred to above are complied with, upon the consummation of the change of control, the definition of the terms "Patents", "Existing Products" and "New Products" shall thereafter be deemed to include solely those Patents, Existing Products and New Products which, immediately prior to the change of control, the Party acquired by the Acquiror would then properly be bound by or could properly assert. For example, although the Acquiror will be able to assert the benefits of this MOU as to the Existing Products and New Products of the Party that it acquired, as they existed immediately prior to the change of control, it shall not be entitled to assert this MOU as to its own products; nor will it be obligated to observe the restrictions herein as to its own Patents; , , that to the extent either Existing Products or New Products of the Party acquired, as they existed immediately prior to the change of control, are re-sold, without substantial modification, by the Acquiror (regardless of the name under which they are sold), or are included, without substantial modification, into a product suite of the Acquiror, then such Existing Products and New Products shall continue to be entitled to the protections of this MOU. Nothing in this Section 1(e) shall affect any disputes or legal actions in effect by a Party against an Acquiror prior to the date of the change of control.
+Patent Undertaking
+provided
+however
+ 
+Section 2. The Parties, and each of them, represent and warrant to the other that: they have the corporate power and authority to enter into this MOU; this MOU has been duly authorized, executed and delivered by such Party, including the releases and covenants contained herein, and that they and their counsel have the authority to execute and file the stipulated dismissal referred to in Paragraph 2 of this MOU; that the execution, delivery and performance of this MOU does not and will not violate or breach (a) the article of incorporation or bylaws of such Party, or (b) any contract, agreement, judgment, order or decree applicable to, or which binds, such Party; that this MOU constitutes the legal, valid, and binding obligation of each of them, enforceable in accordance with its terms this MOU shall be binding upon, and inure to the benefit of, the Parties and each of their respective Subsidiaries, divisions, officers, directors, employees,
+ 
+agents, attorneys, legal representatives, and (to the extent permitted by Section 1) successors, and assigns; they have not transferred or assigned or purported to transfer or assign any of the claims, causes of action, demands, costs, obligations, damages, or liabilities being released under this MOU, and each party agrees to indemnify the other from and against any claim based upon, connected with, or arising out of any such assignment or transfer or purported assignment or transfer.
+ 
+Section 3. Except as otherwise provided herein, the terms and provisions of this MOU and the negotiations and communications leading to it are confidential and shall not be disclosed by any Party to anyone other than counsel for such Party. The foregoing notwithstanding, each Party may (a) disclose to third parties only the fact that the Parties have settled and dismissed the above-referenced litigations with prejudice and that each Party is to bear its own costs and fees; (b) disclose this MOU and its terms to a third party in connection with a financing, merger or acquisition, or stock offering; provided, that, except for portions of this MOU that have been disclosed publicly in compliance with this Section 3, the Party seeking to disclose this MOU shall use [****] MOU in connection with such transaction to agree to a confidentiality agreement covering this MOU [****], it being understood that [****] regarding any disclosure pursuant to this clause (b) or to provide copies of a confidentiality agreement referred to herein, if one is entered into, nor will the [****] for failure to obtain the aforementioned confidentiality agreement; (c) make such disclosures of this MOU and its terms as are mutually agreed upon by all Parties in writing; (d) make such disclosure of this MOU and its terms as are required under Securities and Exchange Commission rules and regulations; (e) issue a press release in form and substance agreeable to them mutually; and (f) make such other disclosure of the MOU and its terms as are required by law, that (A) with respect to clause (d), it is understood that each Party [****] and that each Party shall [****] provided by the other Party [****], including [****] regarding the content of the disclosure required and whether [****], it being understood that neither Party is [****], and (B) respect solely to this clause (f), the Party required to make the disclosure shall notify all other Party at least fourteen (14) days in advance of any such disclosure, shall allow the other Party to intervene in any proceeding (at such other Parties' own cost and expense, in a reasonable manner, and in consultation with all Parties hereto) to protect the confidentiality of this MOU and its terms, and shall undertake reasonable efforts ([****] that would reasonably result in [****]) to require the continued confidentiality of this MOU and its terms (for example, by requesting that [****]). Notwithstanding the foregoing, all portions of this MOU that have been publicly disclosed in compliance with this Section 3 shall no longer be subject to the limitations on disclosure in this Section 3.
+provided
+ 
+ 
+Section 4. This MOU and the dismissals, as well as the fact that the Parties have entered into this MOU and the dismissals, shall not be admissible against either Party for any purpose in any future litigation between the Parties except to enforce the terms of the MOU. Nothing herein shall be construed as an admission of liability on the part of any Party hereto. In addition, neither Party shall assert that compliance with this MOU or any Definitive Agreement supports in any way a defense of estoppel, laches, or similar defenses; , , that nothing herein shall be deemed to toll any Patent statute of limitations that is otherwise applicable. Any determination of as to Infringement, validity or enforceability of a Patent pursuant to the royalty arbitration provided for in Paragraph 9 of this MOU, and any royalties paid pursuant thereto, shall not have legal effect (whether by way of claim or issue preclusion or otherwise) in any court proceeding that may arise in connection with the Patents at issue in the arbitration.
+provided
+however
+ 
+Section 5. Any legal action relating to or arising out of this MOU, and all other Patent Infringement or other legal disputes or claims (whether or not related to Patents or covered by this MOU) between the Parties shall be commenced and maintained in the sole and exclusive jurisdiction of the United States District Court for the Northern District of California, unless subject matter jurisdiction does not lie in such court, in which case all such legal actions, disputes or claims shall be commenced and maintained in the sole and exclusive jurisdiction of the Santa Clara County Superior Court, San Jose, California. The parties hereto consent to the jurisdiction of said court, as applicable, and to service of process outside of the State of California pursuant to the requirement of such court in any matter subject to it. This MOU shall be deemed to have been entered into in the State of California and shall be interpreted and construed in accordance with the laws of the State of California applicable to agreement executed and to be performed therein by each party (and without giving effect to the conflict of laws provisions of such state).
+in personam
+in personam
+ 
+Section 6. Except as provided in Paragraph 11 of this MOU, in the event that either Party is required to defend any claim brought by the other Party that is released by this MOU or the subject of the covenants not to sue granted herein, the prevailing Party shall be entitled [****] to enforce this MOU.
+ 
+Section 7. The Parties hereto agree that irreparable damage would occur in the event that any of the provisions of this MOU were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that, except where injunctive relief is expressly prohibited by this MOU, the Parties shall be entitled to an injunction or injunctions to prevent breaches of this MOU and to enforce specifically the terms and provisions hereof in any court permitted by Section 5, this being in addition to any other remedy to which they are entitled at law or in equity.
+ 
+Section 8. Unless otherwise specified herein, all notices, requests, demands, consents and other communications hereunder shall be transmitted in writing and shall be deemed to have been duly given when hand delivered; upon delivery when sent by express mail, courier, overnight mail or other recognized overnight or next day delivery service, charges prepaid; three (3) days following the date mailed when sent by registered
+ 
+ 
+or certified United States mail, postage prepaid, return receipt requested; when deposited with a public telegraph company for immediate transmittal, charges prepaid; or when sent by telecopier, with a confirmation copy sent by recognized overnight courier, next day delivery, charges prepaid, in each case addressed as follows.
+ 
+Notices to Novellus:
+ 
+[****]
+[****]
+Novellus Systems, Inc.
+400 North First Street
+San Jose, CA 95134
+ 
+With a copy to (which does not constitute notice):
+ 
+Morgan Chu, Esq.
+Jonathan Steinberg, Esq.
+IRELL & MANELLA LLP
+1800 Avenue of the Stars, Suite 900
+Los Angeles, California 90067-4276
+Facsimile: (310) 203-7199
+ 
+Notices to Applied:
+ 
+[****]
+[****]
+Applied Materials, Inc.
+3050 Bowers Avenue, M/S 2065
+Santa Clara, CA 95054
+ 
+With a copy to (which does not constitute notice):
+ 
+Matthew D. Powers, Esq.
+Jared Bobrow, Esq.
+WEIL GOTSHAL & MANGES LLP
+201 Redwood Shores Parkway
+Redwood Shores, CA 94065
+Facsimile: (650) 802-3100
+ 
+or such other address or facsimile number as may be designated by either party hereto by written notice to the other in accordance with this Section 8.
+ 
+Section 9. This MOU may not be amended, supplemented or modified, except in a writing duly signed by duly authorized officers of all Parties hereto. Any such amendment, supplement or modification shall not require additional consideration to be effective.
+ 
+Section 10. This MOU (including its exhibits, agreements and schedules attached hereto or specifically called for herein) constitutes a single integrated contract expressing the entire agreement of the Parties with respect to the subject matter hereof, and supercedes all prior or contemporaneous oral and written agreements and discussions
+ 
+ 
+with respect to the subject matter hereof and, except as specifically set forth herein, there are no other agreements, written or oral, express or implied, between the Parties hereto with respect to the subject matter of this MOU.
+ 
+Section 11. This MOU may be executed in multiple counterparts, each of which, for all purposes, shall be deemed an original, but all of which taken together shall constitute one single agreement between the Parties.
+ 
+Section 12. If any provision of this MOU is held to be illegal, invalid or unenforceable under any present or future law by a court of competent jurisdiction, and if the rights or obligations of any Party hereto under this MOU will not be materially and adversely affected thereby, (a) such provision will be fully severable, (b) this MOU will be construed and enforced as if such illegal, invalid or unenforceable provision had never comprised a part hereof, (c) the remaining provisions of this MOU will remain in full force and effect and will not be affected by the illegal, invalid or unenforceable provision or by its severance herefrom and (d) in lieu of such illegal, invalid or unenforceable provision, there will be added as a part of this MOU a legal, valid and enforceable provision as similar in terms to such illegal, invalid or unenforceable provision as may be possible.
+ 
+Section 13. This MOU has been fully reviewed and negotiated by the Parties hereto and their respective counsel under the aegis of Judge Eugene Lynch of JAMS. Accordingly, in interpreting this MOU, no weight shall be placed upon which Party hereto or its counsel drafted the provision being interpreted and prior drafts of this MOU shall be disregarded and inadmissible as proof or indication of the intent of the Parties or for any other purpose in the event of any other controversy regarding the meaning, construction or interpretation of this MOU.
+ 
+Section 14. Nothing in this MOU is intended or shall be deemed to confer any rights or benefits upon any person or entity other than the Parties hereto or to make or render any such other person or entity a third-party beneficiary of this MOU.
+ 
+Section 15. No release, discharge or waiver of any provision hereof shall be enforceable against or binding upon either party hereto unless in writing and executed by a duly authorized officer of each of the parties hereto. Neither the failure to insist upon strict performance of any of the agreements, terms, covenants or conditions hereof, nor the acceptance of monies due hereunder with knowledge of a breach of this MOU, shall be deemed a waiver of any rights or remedies that either party hereto may have or a waiver of any subsequent breach or default in any of such agreements, terms, covenants and conditions.
+ 
+Section 16. The recitals hereto are incorporated herein as if set forth in this place.
+ 
+Section 17. Except as may be expressly set forth herein, nothing in this MOU shall be construed as:
+ 
+(a) a transfer of any technology, trade secrets, know-how or show-how;
+ 
+(b) a warranty, representation or promise by either Party relating to any patents, including, without limitation, the validity, enforceability, scope or suitability for any purpose of any patent or the non-Infringement of intellectual property rights or other rights owned by third parties;
+ 
+(c) an obligation by either Party to furnish any manufacturing or technical information to the other Party;
+ 
+(d) an obligation by either Party to bring or prosecute actions or suits against third parties, or defend actions or suits brought against the other Party, or to indemnify the other Party for any reason;
+ 
+(e) imposing any liability on either Party, or conferring any right upon the other Party to recover any damages, with respect to the manufacture, use, importation or sale of products or services by the other Party or by third parties;
+ 
+(f) conferring upon either Party the right to use in advertising, publicity, or otherwise any trademark, service mark, or trade name of the other Party; or
+ 
+(g) conferring upon either Party, by implication, estoppel or otherwise, any right or license under any patents or other industrial or intellectual property rights (including, without limitation, trademarks, service marks, trade names, and copyrights) except for the rights expressly granted herein, or an inducement by either Party to the other Party to use any patents or to make, use, import or sell products covered by the other Party's patents, or an inducement of a Party's customers to purchase or otherwise use products covered by the patents of the other Party.
+ 
+Section 18. Except as otherwise expressly provided in this MOU, the following rules shall apply hereto: (i) the singular includes the plural and the plural includes the singular; (ii) "or" is not exclusive and "include" and "including" are not limiting; (iii) a reference to any agreement or other contract includes any permitted modifications, supplements, amendments and replacements; (iv) a reference in this MOU to a Paragraph, section or exhibit is to the Paragraph, section of or exhibit to this MOU unless otherwise expressly provided; (v) a reference to a section or Paragraph in this MOU shall, unless the context clearly indicates to the contrary, refer to all sub-parts or sub-components of any said section or Paragraph; (vi) words such as "hereunder," "hereto," "hereof," and "herein," and other words of like import shall, unless the context clearly indicates to the contrary, refer to the whole of this MOU and not to any particular clause hereof; and (vii) the headings of the various Paragraphs, sections and subparagraphs and subsections of this MOU have been inserted for convenience only and shall not affect in any way the meaning or interpretation of this MOU.
+ 
+ 
+
+Exhibit 99.1
+ 
+Release:  Immediate
+ 
+ 
+ 
+SANTA CLARA, Calif., September 24, 2004  Applied Materials, Inc. today announced that it has entered into an agreement with Novellus Systems, Inc. to dismiss all pending lawsuits between the companies involving allegations of patent infringement and to establish a structure that is expected to help avoid patent infringement lawsuits in the future.
+ 
+"This agreement produces a positive result for both companies and demonstrates strong motivation not to infringe each other's patents," said Joseph J. Sweeney, Group Vice President, Legal Affairs and Intellectual Property, and Corporate Secretary. "By putting these legal matters behind us, Applied Materials is able to better focus on customer requirements and to compete in the market based on the merits of our products and technology."
+ 
+The agreement provides for a payment to Novellus of $8 million and waives a claim for unpaid royalties of approximately $3.5 million. The agreement also contains provisions limiting for specified time periods each party's ability to sue each other (and each other's customers and, in certain circumstances, suppliers and distributors) for infringement of their respective patents covering products in certain technology areas. For existing products, the specified time period is five years, and for new products, it is two years. There is no new license of technology in the agreement. The agreement ends all pending lawsuits between the companies without either party admitting any liability. Additional details of the agreement are disclosed in Applied Materials' Form 8-K filed today.
+ 
+This press release contains certain forward-looking statements, including statements relating to the avoidance of future patent infringement lawsuits and other effects of the agreement. These forward-looking statements can be identified by use of such words as "expect," are based on management's assessments as of the date hereof, and include the assumptions that underlie such assessments. These forward-looking statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. These risks include changes in each party's competitive position, changes in the semiconductor equipment industry, as well as other risks described in the "Trends, Risks and Uncertainties" section of Applied's SEC reports. Applied undertakes no obligation to update any forward-looking statements in this press release.
+ 
+Applied Materials, Inc. (Nasdaq: AMAT) is the largest supplier of equipment and services to the global semiconductor industry. Applied Materials' web site is .
+www.appliedmaterials.com
+ 
+
+

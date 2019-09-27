@@ -1,0 +1,134 @@
+FILE:PHM/PHM-8K-20080205164432.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+On February 1, 2008, Pulte Mortgage LLC (the "Company") entered into an Eighth Omnibus Amendment (the "Amendment") to its asset-backed commercial paper program. The Amendment was entered into by and among the Company, the lenders, administrative agent, and others listed therein, with Calyon New York Branch serving as Administrative Agent. The Amendment provides the participating banks with an optional maturity date acceleration if any of Moody's Investors Service, Standard and Poor's Corporation, or Fitch Ratings rate any of the Company's senior unsecured debt at or below Ba2, BB, or BB, respectively. Total capacity has also been decreased to $150 million from $300 million.
+A copy of the Eighth Amendment is filed as an exhibit to this Current Report on Form 8-K and is incorporated herein by reference.
+Exhibit 10(a) Eighth Omnibus Amendment, dated February 1, 2008.
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+Exhibit 10(a)
+          THIS EIGHTH OMNIBUS AMENDMENT (this ""), dated as of February 1, 2008, is entered into by and among PULTE FUNDING, INC., as the borrower (the "") and as the buyer (the ""), PULTE MORTGAGE LLC (""), as a seller (the "") and the servicer (the ""), ATLANTIC ASSET SECURITIZATION LLC, as an issuer (""), LA FAYETTE ASSET SECURITIZATION LLC, as an issuer (""), CALYON NEW YORK BRANCH, as a bank (""), as a managing agent and as the administrative agent (the ""), LLOYDS TSB BANK PLC, as a bank (""), JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, as a bank and as a managing agent (""), JS SILOED TRUST (""), successor in interest to JUPITER SECURITIZATION COMPANY LLC (formerly known as Jupiter Securitization Corporation), as an issuer, and LASALLE BANK NATIONAL ASSOCIATION, as the collateral agent (""). Capitalized terms used and not otherwise defined herein are used as defined in the related Operative Documents (as defined below).
+Amendment
+Borrower
+Buyer
+Pulte Mortgage
+Seller
+Servicer
+Atlantic
+La Fayette
+Calyon New York
+Administrative Agent
+Lloyds
+JPMC
+JUSI Trust
+LaSalle
+          WHEREAS, the Borrower, Atlantic, La Fayette, JUSI Trust, Calyon New York, as a bank, a managing agent and as Administrative Agent, JPMC, as a bank and as a managing agent, Lloyds, as a bank, and the Servicer entered into that certain Second Amended and Restated Loan Agreement, dated as of August 19, 2005, as amended, modified or supplemented to date (the "");
+Loan Agreement
+          WHEREAS, the Borrower, the Administrative Agent and LaSalle entered into that certain Second Amended and Restated Collateral Agency Agreement, dated as of August 19, 2005, as amended, modified or supplemented to date (the "");
+Collateral Agency Agreement
+          WHEREAS, the Seller and the Buyer entered into that certain Master Repurchase Agreement, dated as of December 22, 2000, as supplemented by the Second Amended and Restated Addendum to Master Repurchase Agreement, dated as of August 19, 2005, between the Seller and the Buyer, as amended, modified or supplemented to date (the "");
+Repurchase Agreement
+          WHEREAS, certain parties hereto entered into the Transaction Documents (as defined in the Loan Agreement) (the Loan Agreement, Collateral Agency Agreement, the Repurchase Agreement and the Transaction Documents collectively, the "");
+Operative Documents
+          WHEREAS, the parties hereby desire and consent to amend the Operative Documents as provided in this Amendment.
+          NOW, THEREFORE, the parties agree as follows:
+ 
+     Section 1. .
+Amendments to the Loan Agreement
+          (a) With effect from the date hereof and on payment of all amounts owing to Lloyds under the Loan Agreement, Lloyds shall cease to be a party to the Loan Agreement, its Bank Commitment shall be reduced to zero and its rights and obligations under the Loan Agreement, other than those that by their terms survive the termination of the Loan Agreement, shall terminate. Terms such as "Bank" and "Lender" any other term referencing Lloyds as a current party to the Loan Agreement shall no longer include reference to Lloyds.
+          (b) The definition of "Advance Rate" in Section 1.1 of the Loan Agreement is hereby amended by deleting the definition in its entirety and replacing it with the following:
+"Advance Rate" means (i) with respect to a Conforming Loan ninety-three percent (93%), or, with respect to an FHA Loan or a VA Loan, if a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (ii) with respect to an Alt-A Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iii) with respect to a Jumbo Loan, not including a Super Jumbo Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iv) with respect to a Super Jumbo Loan, eighty-nine percent (89%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (v) with respect to a Special Mortgage Loan, one percent (1%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (iv) above, which corresponds to the type of Mortgage Loan which the Special Mortgage Loan is and (vi) with respect to a Mortgage Loan that has been an Eligible Mortgage Loan for greater than 60 days, five percent (5%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (v) above, which corresponds to the type of Mortgage Loan which such Mortgage Loan is.
+          (c) The definition of "Collateral Value" in Section 1.1 of the Loan Agreement is hereby amended by deleting clause (c) in its entirety and replacing it with the following:
+(c)(i) at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, shall not exceed five percent (5%) of the Maximum Facility Amount; at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, with a principal amount greater than $600,000 but not in excess of $1,000,000 shall not exceed one and a half (1.5%) of the Maximum Facility Amount which represents 30% of the 5% set forth in this clause (c)(i) above; (A) if an Obligor on any Alt-A Loan shall have a FICO Score of less than 650, or (B) if an Alt-A Loan shall have a Loan-to-Value Ratio or a Combined Loan-to-Value Ratio of more
+provided that
+provided further that
+ 
+than 95%, such Mortgage Loan shall have a Collateral Value of zero; (ii) at any time, the portion of Collateral Value attributable to Forty Year Alt-A Loans shall be zero; (iii) at any time, the portion of Collateral Value that may be attributable to Pay Option ARMs shall be zero; and (iv) at any time, the portion of Collateral Value attributable to Alt-A Loans with a principal amount in excess of $1,000,000 shall be zero.
+          (d) Section 1.1 of the Loan Agreement is hereby amended by adding the following definition:
+"Collection Period" means each calendar month, beginning on the first day of each month and ending on the last day of the month.
+          (e) The definition of "Eligible Mortgage Loan" in Section 1.1 of the Loan Agreement is hereby amended by adding the following to the end of clause (b) of such definition: "and not a mortgage loan secured by an Investment Property".
+          (f) Section 1.1 of the Loan Agreement is hereby amended by adding the following definition:
+"Investment Property" means a property which, (i) at the time of origination, the Obligor represented would not be used as the Obligor's primary residence or second home or (ii) is or was not used as the Obligor's primary residence or second home.
+          (g) Section 1.1 of the Loan Agreement is hereby amended by deleting the definition of "Lloyds Extension Date" in its entirety.
+          (h) The definition of "Maximum Facility Amount" in Section 1.1 of the Loan Agreement is hereby amended by deleting the amount of $300,000,000 and replacing it with $150,000,000.
+          (i) Section 2.1(b) of the Loan Agreement is hereby amended by deleting the following paragraph from the beginning of such Section:
+Calyon may, from time to time by written request to Lloyds (each such notice being a "Lloyds Extension Request") given not later than 90 days and not sooner than 120 days prior to each Lloyds Extension Date, request an extension of the then applicable Lloyds Extension Date. If Lloyds and Calyon consent, in their sole discretion, to such Lloyds Extension Request, then the Lloyds Extension Date shall be extended as described in the definition of "Lloyds Extension Date." Any such extension may be accompanied by such additional fees as the parties shall mutually agree. Notwithstanding anything else to the contrary, the Bank Commitment of Lloyds shall be zero and the Maximum Facility Amount shall be reduced automatically by the amount of the Bank Commitment of Lloyds in effect immediately prior to such reduction without further action on the part of the Lenders, the Managing Agents or the Administrative Agent, on the then current Lloyds Extension Date unless a Lloyds Extension Request has been granted pursuant to this paragraph.
+ 
+          (j) Section 2.1(d) of the Loan Agreement is hereby amended by deleting subclause (ii) in its entirety and replacing it with the following:
+(ii) If any of Moody's, S&P or Fitch rate any publicly traded investment securities evidencing senior unsecured debt of the Performance Guarantor at or below Ba2, BB or BB, respectively, then the Administrative Agent on behalf of the Managing Agents may, and shall at the direction of either Bank, do any one or both of the following: (1) declare the entire unpaid balance of the Obligations immediately due and payable, whereupon it shall be due and payable 10 Business Days after notification by the Administrative Agent to the Borrower; and (2) declare the Drawdown Termination Date to have occurred, terminate the Bank Commitments and reduce the Maximum Facility Amount to zero which shall be effective upon notification by the Administrative Agent to the Borrower.
+          (k) Section 2.7(c)(iii)(B) of the Loan Agreement is hereby amended by deleting such subclause in its entirety and replacing it with the following:
+(B) (i) On the last day of each Interest Period for any CP Allocation that is "tranche funded" for any Advance that bears interest at the Commercial Paper Rate (ii) on the Settlement Date for any CP Allocation that is "pool funded" for any Advance that bears interest at the Commercial Paper Rate and (iii) on the last day of each Interest Period for any Eurodollar Advance, the Servicer shall deposit an amount equal to accrued interest on such Advance, which amount shall be paid to the applicable Managing Agent's Account for the related Lenders. On each Settlement Date, the Servicer shall deposit an amount equal to accrued interest on each Advance that bears interest at the Alternate Base Rate to the applicable Managing Agent's Account.
+          (l) Section 2.7(c)(iv)(C) of the Loan Agreement is hereby amended by deleting subclause (C) in its entirety and replacing it with the following:
+(C) (i) On the last day of each Interest Period for any CP Allocation that is "tranche funded" for any Advance that bears interest at the Commercial Paper Rate (ii) on the Settlement Date for any CP Allocation that is "pool funded" for any Advance that bears interest at the Commercial Paper Rate and (iii) on the last day of each Interest Period for any Eurodollar Advance, an amount equal to accrued interest on each such Advance shall be paid to the applicable Managing Agent's Account. On each Settlement Date, an amount equal to accrued interest on Advances that bear interest at the Alternate Base Rate shall be paid to the applicable Managing Agent's Account.
+          (m) Section 2.11 of the Loan Agreement is hereby amended by adding the following to the end of such Section:
+The Managing Agents agree to provide to the Borrower on a daily basis an indication of the rates then in effect for an advance, which, if made, would be included in the CP Allocation that is "pool funded;" provided however that such indicated rates shall neither be binding upon the Managing Agents or the Lenders nor affect the rate of interest which thereafter is actually in effect.
+ 
+          (n) Section 2.15(a) of the Loan Agreement is hereby amended by deleting subclause (a) in its entirety and replacing it with the following:
+          (o) "" means (A) with respect to any Advance included in the CP Allocation that is "tranche funded," each period (i) commencing on, and including, the date that such Advance was initially designated by the related Managing Agent as comprising a part of the CP Allocation hereunder, or the last day of the immediately preceding Interest Period for such Advance (whichever is latest); and (ii) ending on, but excluding, the date that falls such number of days (not to exceed 30 days) thereafter as such Managing Agent shall select; , , that no more than ten Interest Periods (five per Issuer) shall be in effect at any one time with respect to Advances included in the CP Allocation and (B) with respect to any Advance included in the CP Allocation that is "pool funded," with respect to each Settlement Date, the most recently ended Collection Period.
+Interest Period
+provided
+however
+          (p) Section 8.2(c) the Loan Agreement is hereby amended by deleting subclause (ii) in its entirety and replacing it with the following: "(ii) declare the Drawdown Termination Date to have occurred, terminate the Bank Commitments and reduce the Maximum Facility Amount to zero."
+          (q) Schedule I to the Loan Agreement is hereby deleted in its entirety and replaced with Schedule I attached as Annex A hereto.
+     Section 2. .
+Amendments to the Collateral Agency Agreement
+          (a) Because Lloyds has ceased to be a party to the Loan Agreement, terms such as "Bank" and "Lender" any other term referencing Lloyds as a current party to the Loan Agreement shall no longer include reference to Lloyds.
+          (b) The definition of "Advance Rate" in Exhibit D-1 of the Collateral Agency Agreement is hereby amended by deleting the definition in its entirety and replacing it with the following:
+"Advance Rate" means (i) with respect to a Conforming Loan ninety-three percent (93%), or, with respect to an FHA Loan or a VA Loan, if a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (ii) with respect to an Alt-A Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iii) with respect to a Jumbo Loan, not including a Super Jumbo Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iv) with respect to a Super Jumbo Loan, eighty-nine percent (89%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the
+ 
+Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (v) with respect to a Special Mortgage Loan, one percent (1%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (iv) above, which corresponds to the type of Mortgage Loan which the Special Mortgage Loan is and (vi) with respect to a Mortgage Loan that has been an Eligible Mortgage Loan for greater than 60 days, five percent (5%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (v) above, which corresponds to the type of Mortgage Loan which such Mortgage Loan is.
+          (c) The definition of "Collateral Value" in Exhibit D-1 of the Collateral Agency Agreement is hereby amended by deleting clause (c) in its entirety and replacing it with the following:
+(c)(i) at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, shall not exceed five percent (5%) of the Maximum Facility Amount; at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, with a principal amount greater than $600,000 but not in excess of $1,000,000 shall not exceed one and a half (1.5%) of the Maximum Facility Amount which represents 30% of the 5% set forth in this clause (c)(i) above; (A) if an Obligor on any Alt-A Loan shall have a FICO Score of less than 650, or (B) if an Alt-A Loan shall have a Loan-to-Value Ratio or a Combined Loan-to-Value Ratio of more than 95%, such Mortgage Loan shall have a Collateral Value of zero; (ii) at any time, the portion of Collateral Value attributable to Forty Year Alt-A Loans shall be zero; (iii) at any time, the portion of Collateral Value that may be attributable to Pay Option ARMs shall be zero; and (iv) at any time, the portion of Collateral Value attributable to Alt-A Loans with a principal amount in excess of $1,000,000 shall be zero;
+provided that
+provided further that
+          (d) The definition of "Eligible Mortgage Loan" in Exhibit D-1 of the Collateral Agency Agreement is hereby amended by adding the following to the end of clause (b) of such definition: "and not a mortgage loan secured by an Investment Property;".
+          (e) Exhibit D-1 of the Collateral Agency Agreement is hereby amended by adding the following definition:
+"Investment Property" means a property which, (i) at the time of origination, the Obligor represented would not be used as the Obligor's primary residence or second home or (ii) is or was not used as the Obligor's primary residence or second home.
+          (f) The definition of "Maximum Facility Amount" in Exhibit D-1 of the Collateral Agency Agreement is hereby amended by deleting the amount of $300,000,000 and replacing it with $150,000,000.
+ 
+     Section 3. .
+Amendments to the Repurchase Agreement
+          (a) Because Lloyds has ceased to be a party to the Loan Agreement, terms such as "Bank" and "Lender" any other term referencing Lloyds as a current party to the Loan Agreement shall no longer include reference to Lloyds.
+          (b) The definition of "Advance Rate" in Section 1.01 of the Repurchase Agreement is hereby amended by deleting the definition in its entirety and replacing it with the following:
+"Advance Rate" means (i) with respect to a Conforming Loan ninety-three percent (93%), or, with respect to an FHA Loan or a VA Loan, if a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (ii) with respect to an Alt-A Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iii) with respect to a Jumbo Loan, not including a Super Jumbo Loan, ninety-one percent (91%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (iv) with respect to a Super Jumbo Loan, eighty-nine percent (89%), or, if a FICO Score Trigger Event, a Loan-to-Value Ratio Trigger Event or a Combined Loan-to-Value Ratio Trigger Event has occurred and is continuing, as reported to the Collateral Agent by the Servicer in the most recent Servicer Monthly Report, then zero, (v) with respect to a Special Mortgage Loan, one percent (1%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (iv) above, which corresponds to the type of Mortgage Loan which the Special Mortgage Loan is and (vi) with respect to a Mortgage Loan that has been an Eligible Mortgage Loan for greater than 60 days, five percent (5%) less than the Advance Rate otherwise applicable to the type of Mortgage Loan in clauses (i)  (v) above, which corresponds to the type of Mortgage Loan which such Mortgage Loan is.
+          (c) The definition of "Collateral Value" in Section 1.01 of the Repurchase Agreement is hereby amended by deleting clause (c) in its entirety and replacing it with the following:
+(c)(i) at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, shall not exceed five percent (5%) of the Maximum Facility Amount; at any time, the portion of total Collateral Value that may be attributable to Alt-A Loans, with a principal amount greater than $600,000 but not in excess of $1,000,000 shall not exceed one and a half (1.5%) of the Maximum Facility Amount which represents 30% of the 5% set forth in this clause (c)(i) above; (A) if an Obligor on any Alt-A Loan shall have a FICO Score of less than 650, or (B) if an Alt-A Loan shall have a Loan-to-Value Ratio or a Combined Loan-to-Value Ratio of more than 95%, such Mortgage Loan shall have a Collateral Value of zero; (ii) at any time, the
+provided that
+provided further that
+ 
+portion of Collateral Value attributable to Forty Year Alt-A Loans shall be zero; (iii) at any time, the portion of Collateral Value that may be attributable to Pay Option ARMs shall be zero; and (iv) at any time, the portion of Collateral Value attributable to Alt-A Loans with a principal amount in excess of $1,000,000 shall be zero;
+          (d) The definition of "Eligible Mortgage Loan" in Section 1.01 of the Repurchase Agreement is hereby amended by adding the following to the end of clause (b) of such definition: "and is not a mortgage loan secured by an Investment Property".
+          (e) Section 1.01 of the Repurchase Agreement is hereby amended by adding the following definition:
+"Investment Property" means a property which, (i) at the time of origination, the Obligor represented would not be used as the Obligor's primary residence or second home or (ii) is or was not used as the Obligor's primary residence or second home.
+     Section 4. .
+Operative Documents in Full Force and Effect as Amended
+          Except as specifically amended hereby, all of the provisions of the Operative Documents and all of the provisions of all other documentation required to be delivered with respect thereto shall remain in full force and effect from and after the date hereof.
+     Section 5. .
+Miscellaneous
+          (a) This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which, when so executed, shall be deemed to be an original and all of which, when taken together, shall not constitute a novation of any Operative Document but shall constitute an amendment thereof. The parties hereto agree to be bound by the terms and conditions of each Operative Document, as amended by this Amendment, as though such terms and conditions were set forth herein.
+          (b) The descriptive headings of the various sections of this Amendment are inserted for convenience of reference only and shall not be deemed to affect the meaning or construction of any of the provisions hereof.
+          (c) This Amendment may not be amended or otherwise modified except as provided in each respective Operative Agreement.
+          (d) This Amendment and the rights and obligations of the parties under this Amendment shall be governed by, and construed in accordance with, the laws of the state of New York (without giving effect to the conflict of laws principles thereof, other than Section 5-1401 of the New York General Obligations Law, which shall apply hereto).
+ 
+          IN WITNESS WHEREOF, the parties have agreed to and caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written.
+ 
+ 
+ 
+ 
+ACKNOWLEDGED AND AGREED to as of the first date written above by:
+LLOYDS TSB BANK PLC,
+ 
+ANNEX A
+ 
+
+

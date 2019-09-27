@@ -1,0 +1,671 @@
+FILE:IBM/IBM-8K-20051018082732.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+ 
+Attachment I of this Form 8-K is the transcript of IBM's Chief Financial Officer Mark Loughridge's third quarter earnings presentation to securities analysts on October 17, 2005.  Attachment II are the charts for such presentation and certain reconciliation and other information.  All of the information in Attachment I and II is hereby filed except for the information set forth below, which is furnished but not filed.
+ 
+Attachment I (Transcript):
+ 
+The following statement on Page 2:
+ 
+"Without PCs, revenue was up 4 percent."
+ 
+The following statements on Page 3:
+ 
+"Revenue was up 4 percent, both as reported and at constant currency."
+ 
+"Our pre-tax income was up 18 percent."
+ 
+The following statements on Page 4:
+ 
+"but up 4 percent without the PC business."
+ 
+"Without the PC business, hardware was up 7 percent, and up 6 percent at constant currency."
+ 
+The following statement on Page 5:
+ 
+"China, Brazil, India and Russia, together grew 33 percent in the third quarter without PCs, or 20 percent at constant currency."
+ 
+The following statements on Page 8:
+ 
+"Without the improvement from divesting the low margin PC business, margin was up six tenths of a point."
+ 
+"but was down 1.4 points without PCs."
+ 
+The following statements on Page 9:
+ 
+"If we back out this charge from last year, expenses would be down 3 percent."
+ 
+"Without PC results, and the pension settlement charge in 2004, Expense and Other Income was up about a half a percent."
+"Based on revenue growth of 4 percent without PCs, expense-to-revenue improved about one point year-to-year.  Underneath this, we improved our SG&A expense- to- revenue ratio by 9 tenths of a point, down to 21.5 percent."
+ 
+"Excluding the one-time pension impact in 2004, retirement- related plans were a hurt of $218 million.  We continue to expect the year-to-year impact in 2005 to be one billion dollars."
+ 
+Attachment II (Charts):
+ 
+In the chart on Page 3 (IBM 3Q05 FINANCIAL SUMMARY):
+ 
+                - the data in the column entitled "IBM Results without Non-Recurring Item" for the rows identified as "Tax Rate $", "Tax Rate %", and "Net Income".
+                - the data in the column entitled "B/(W) Yr/Yr*" for the row identified as "Net Income".
+                - all the data in the column entitled "B/(W) Yr/Yr* w/o 2004 PC Results" except the data in the row identified as "EPS".
+ 
+In the chart on Page 4 (IBM REVENUE), all the data in the two rows identified as "w/o PC".
+ 
+In the chart on Page 5 (IBM GEOGRAPHIC REVENUE), all the data in the two columns identified as "@ CC w/o PC".
+ 
+In the chart on Page 6 (IBM REVENUE - KEY INDUSTRY SALES UNITS), all the data in the two columns identified as "w/o PC Yr/Yr".
+ 
+In the chart on Page 7 (IBM GROSS PROFIT MARGIN), all the data in the two rows identified as "w/o PC".
+ 
+In the chart on Page 8 (IBM EXPENSE SUMMARY),
+the data in the third column ("2Q05*") and the final column ("B/(W) Yr/Yr** w/o Non-Recurring") except the data in the rows identified in each such column as "RD&E", "IP and Custom Dev. Income", and "Interest Expense".
+ 
+In the chart on Page S-1 (IBM 3Q05 YTD FINANCIAL SUMMARY), the data in the final column ("without Non-Recurring & PC Results") except the data in final two rows.
+ 
+The charts on S-2 (PC RESULTS), S-3 (PC RESULTS), S-5 (EQUITY-BASED COMPENSATION), S-14 (RECONCILIATION OF INCREASE IN PENSION EXPENSE), S-15 (RECONCILIATION OF GROWTH IN EMERGING COUNTRIES) and S-16 (RECONCILIATION OF SG&A EXPENSE TO REVENUE RATIO).
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/). IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ATTACHMENT I
+ 
+INTRODUCTION
+ 
+Thank you.  This is Patricia Murphy, Vice President of Investor Relations for IBM.  Here with me today is Mark Loughridge, IBM's Senior Vice President and Chief Financial Officer.  Thank you for joining our third quarter earnings presentation.
+ 
+By now, the opening page of the presentation should have automatically loaded, and you should be on the title page, Chart 1.
+ 
+You'll recall that last quarter we introduced the capability for the charts to automatically advance as we move through the presentation.  If you prefer to manually control the charts, at any time you can un-check the synchronize button on the left of the presentation.
+ 
+As always, the prepared remarks will be available in roughly an hour, and a replay of this webcast will be posted to our Investor Relations website by this time tomorrow.
+ 
+This presentation includes certain non-GAAP financial measures, in an effort to provide additional information to investors.
+ 
+All non-GAAP measures have been reconciled to their related GAAP measures in accordance with SEC rules.  You will find reconciliation charts at the end, and in the Form 8-K to be filed with the SEC immediately following this call.
+ 
+For those of you who are manually controlling the charts, please click on the Next button for Chart 2.
+ 
+Certain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from us in Investor Relations.
+ 
+Now, let's go to Chart 3, and I'll turn the call over to Mark Loughridge.
+RESULTS
+ 
+Thanks Patricia.
+ 
+IBM's third quarter results demonstrate the strength and breadth of our business model  across our hardware business, software business, and services business.
+ 
+In hardware, we continued our strong performance in midrange systems, and successfully launched our z9 platform.
+ 
+In software, our key middleware brands had solid growth that should result in share gains.
+ 
+Our services signings grew double-digits for the second consecutive quarter, and we had improved margin performance, driven by benefits from our recently implemented productivity initiatives.
+ 
+To describe IBM's results, I'll use a format similar to the one we used last quarter.
+ 
+First I'll start with results as reported.  Then, I'll adjust for two non-recurring items,   one in this period, and one in last year's third quarter, to provide a more accurate view of our ongoing operational performance.  Then finally, I'll show you how our results compare to last year's third quarter without the PC business.
+ 
+So starting with the reported results, for the third quarter:
+ 
+We delivered $21.5 billion in revenue, which was down 8 percent as reported and at constant currency.  Without PCs, revenue was up 4 percent.
+ 
+Our pre-tax income was $2.9 billion.
+ 
+And we delivered 94 cents of earnings per share.
+ 
+Turning to the non-recurring items:
+ 
+Earlier this quarter, we announced that we would bring cash back to the U.S. under the "Homeland" repatriation provision of the American Jobs Creation Act of 2004.  This quarter, we recorded a one-time tax charge of $525 million, associated with the planned repatriation of $9.5 billion.
+Remember also that in September of last year we recorded a one-time pre-tax charge of $320 million to settle legal claims against IBM's pension plan.
+ 
+When you exclude the non-recurring charges, IBM delivered $1.26 of earnings per share, up 22 percent over last year's third quarter.
+ 
+But the most appropriate comparison is to last year's third quarter without the recently-divested PC business. 
+The details and description of the PC results are included in our supplemental charts.
+ 
+On this comparable basis 
+ 
+Revenue was up 4 percent, both as reported and at constant currency.
+ 
+Our pre-tax income was up 18 percent.
+ 
+And earnings per share was up 25 percent
+ 
+With this third quarter performance, year-to-date through September we have delivered earnings per share growth of 7%.  Without the non-recurring items I just mentioned, and those from the second quarter, EPS was up 14%.  And, if you then take out the PC business, EPS grew 17%.
+ 
+Our third quarter profit performance reflects the breadth and flexibility of our business model, and puts us back on track for the year.
+ 
+Now, let's get into the details starting with revenue, Chart 4.
+REVENUE
+ 
+Total revenue in the third quarter was down 8 percent year-to-year as reported, but up 4 percent without the PC business.
+ 
+Global Services was up 3 percent year-to-year as reported and at constant currency.
+ 
+While total signings were up 13 percent year-to-year, short term signings were essentially flat.  Our strategic outsourcing signings were up significantly year-to-year, which will provide a benefit over the longer term.
+ 
+Hardware revenue was down 32 percent as reported.  But, as we just discussed, the third quarter of last year included $2.7 billion of PC revenue.  Without the PC business, hardware was up 7 percent, and up 6 percent at constant currency.
+ 
+We had double-digit growth in pSeries, iSeries, and xSeries servers, Total Storage, and our microelectronics OEM business.
+ 
+We successfully launched our z9 product in mid-September.  With the benefit of the new product late in the quarter, we had 18 percent MIPS growth, while revenue was down 4 percent.
+ 
+Software revenue grew 5 percent as reported and at constant currency.
+ 
+We had good growth across all of our key middleware brands, and once again grew in all geographies.
+ 
+Global Financing revenue was down 6 percent as reported, or 7 percent at constant currency, driven by a continued decline in the asset base and yields.
+ 
+Now let's turn to revenue by geography, Chart 5.
+REVENUE  GEOGRAPHIC
+ 
+To provide the best view of our ongoing geographic performance, I'll focus my comments on the results without PCs.
+ 
+Looking at the major geographies 
+ 
+Americas performance was driven by solid execution.
+ 
+All regions grew, led by Latin America.
+ 
+Overall demand remains good, with particular strength in the small and mid- market.  The shift in customer buying behavior to solutions is continuing, as customers are focusing more on business value than cost take-out.
+ 
+Growth in Europe improved without the benefit of currency.
+ 
+This quarter we implemented our new operating model, with a more streamlined management system.  We are managing through the transition with little disruption.
+ 
+Performance in the geography remained mixed.  Of the major countries, the UK, France and Spain grew, while Germany and Italy once again declined in a challenging economic environment.
+ 
+Asia Pacific posted the weakest results of the major geographies.
+ 
+Japan, which represents about 60 percent of the Asia Pacific revenue base, once again declined at constant currency in a soft but improving economic environment.  Execution issues impacted performance.  We are in the process of implementing actions to improve our execution in the highly competitive Asian markets.
+ 
+On the other hand, ASEAN grew by double digits for the 13th consecutive quarter.
+ 
+Across all of these geographies, we continued our pattern of strong growth in emerging countries.
+ 
+China, Brazil, India and Russia, together grew 33 percent in the third quarter without PCs, or 20 percent at constant currency.  I've mentioned in the past that growth in these emerging countries is driven by customer investment to build out their infrastructures, especially in the financial services sector.  This quarter, Brazil
+performance reflected large infrastructure rollouts based on the new z9 platform.  Last year, we had significant growth in China, led by Agricultural Bank of China.  This shows up in the relative growth rates.  At constant currency, Brazil grew 26 percent, while China declined 1 percent.  India grew 51 percent and Russia grew 88 percent.
+ 
+Finally, our OEM growth was 12 percent, driven by the ramp up in our game chip processors.
+ 
+Now we'll move on to revenue by customer set, Chart 6.
+REVENUE  SALES UNITS
+ 
+This chart reflects our five worldwide industry sectors, as well as our Small and Medium Business customers.  It excludes our OEM business.
+ 
+As in the geographic discussion, I'll focus my comments on the results without PCs.
+ 
+Our Small and Medium Business organization posted its second consecutive quarter of double-digit growth in the third quarter. The growth was led by the Americas, where customers continue to focus on cost, efficiency and business value in their IT decisions.  Customers see the value in IBM solutions, including the Express offerings that we take to market through our strong network of business partners and ISVs.
+ 
+Turning to the industry sectors 
+ 
+Financial Services revenue growth was led by Banking and Insurance, as these customers continue to focus on back office efficiencies.
+ 
+Public sector performance was led by Healthcare, as we launch new solutions to improve healthcare quality and lower cost, driving growth at both new and existing accounts.
+ 
+Within the Industrial sector, we had growth in Chemicals and Petroleum, Electronics, and Aerospace and Defense, but sales to Automotive clients continued to trend down.
+ 
+Distribution sector was led by Consumer Products and Travel and Transportation, offset by a decline in Retail revenue.
+ 
+Communications sector performance was impacted by a slowdown in Telecom growth.
+ 
+Overall, our performance this quarter again indicates that clients increasingly are recognizing the value of IBM's unique industry-specific capabilities  and shifting from point-product sales to solutions.
+ 
+Now, we'll turn to Chart 7 for gross profit.
+GROSS PROFIT MARGIN
+ 
+Gross profit margin in the thirdquarter was 40.6 percent, up 4.1 points year-to-year.  Without the improvement from divesting the low margin PC business, margin was up six tenths of a point.
+ 
+Global Services gross profit margin was up 1.7 points year-to-year.  Key drivers included yield from our productivity initiatives, and a better contract profile.I'll discuss the productivity initiatives, and the margin dynamics for services later in the presentation.
+ 
+ 
+Hardware gross profit margin improved almost 9 points year-to-year, but was down 1.4 points without PCs.  A decline in storage margins due to a heavy mix of mid-range disk, and the revenue decline in our high-margin zSeries platform were key factors, partially offset by an improvement in our microelectronics margin.
+ 
+In software, gross profit margin improved two tenths of a point.
+ 
+Global Financing gross profit margin was down almost six points, primarily due to the changing short term interest rate environment.  As we've discussed in the past, this business is more appropriately measured on Return on Equity.  This quarter, Global Financing's Return on Equity was 30 percent.
+ 
+Now, let's turn to expense, Chart 8.
+EXPENSE SUMMARY
+ 
+Total Expense and Other Income declined 8 percent in the third quarter, as reported, but that reflects the $320 million pension settlement charge we took in last year's third quarter.  If we back out this charge from last year, expenses would be down 3 percent.
+ 
+Without PC results, and the pension settlement charge in 2004, Expense and Other Income was up about a half a percent.
+ 
+Based on revenue growth of 4 percent without PCs, expense-to-revenue improved about one point year-to-year.  Underneath this, we improved our SG&A expense-to-revenue ratio by 9 tenths of a point, down to 21.5 percent.
+ 
+We executed well on our second quarter productivity initiatives, and by the end of September nearly 90 percent of the resources had exited the business.  These departures drove a high level of savings in the third quarter yielding a large benefit to cost and expense in the period.  We continue to expect essentially all of the resources to leave by the end of the year.
+ 
+In the short term, more of the cost reduction goes to the bottom line.  Over the longer term, these actions give us a more competitive cost structure, more pricing flexibility, and allow us to better deal with escalating labor costs, such as pension.
+ 
+Let me turn now to our "roadmap" of items that materially impacted earnings growth.
+ 
+Retirement-related plans, both pension and health, were a year-to-year help of $102 million as reported, including last year's pension settlement charge.  Excluding the one-time pension impact in 2004, retirement-related plans were a hurt of $218 million.  We continue to expect the year-to-year impact in 2005 to be one billion dollars.
+ 
+The impact of retirement-related plans in 2006 will depend on several factors worldwide, including market performance throughout 2005, our funding decisions, and the dynamics of the interest rate yield curves at year-end, with the short end impacting the crediting rate in our cash balance plan, and the long end affecting the net present value calculation of the pension obligations.  I'll provide an update in January.
+Partially offsetting this pension impact, total equity compensation, including the cost for restricted stock units and performance based awards, was down $148 million year-to-year. We've included additional information on our equity compensation in the supplemental charts.
+ 
+A/R provisions were down $50 million, reflecting the improved credit quality of our customers, and the reduced level of Global Financing receivables.
+ 
+This roadmap of items reflects different items every quarter.  Let me mention some activity that we expect will be reflected in our fourth quarter operational results.
+ 
+As part of our ongoing management of real estate, we have initiated actions to rebalance our portfolio in the fourth quarter.  My best assessment at this time is that we could record a pre-tax benefit of $75 million in the fourth quarter.
+ 
+The first of these transactions is the sale of a building in Japan, which has been signed and is expected to close later this month. The sale will result in a pre-tax gain of approximately $300 million in the fourth quarter.  In addition, a couple of other transactions are currently going through our internal review and approval process.  If these are completed, we expect them to result in a pre-tax charge of approximately $225 million.
+ 
+We'll give you more information on these transactions in our 10-Q filing at the end of this month, and at our fourth quarter earnings call in January.  For the sake of clarity, we're excluding these items from our closing discussion on performance for fourth quarter and the year.
+ 
+Finally, before I move on, I'll make a brief comment on currency.
+ 
+The US dollar has generally strengthened since year-end, especially against the European currencies.  IBM hedges its major cross-border cash flows and, as a result, mitigates the effect of currency volatility in the year-over-year results.  The impact of these hedging programs is principally reflected in Other Income and Expense, as well as cost of goods sold.
+ 
+I'm not going to predict future currency moves, but at current spot rates, currency will hurt revenue growth, and to a lesser extent earnings, in the next few quarters.  Over an extended period of time, a stronger US dollar negatively impacts IBM's revenue and earnings.
+The supplemental chart at the end of the presentation benchmarks currency's potential future impact on revenue, assuming Friday's exchange rates.
+ 
+Now let's turn to Cash Flow, Chart 9.
+CASH FLOW
+ 
+Through the third quarter, we had strong cash flow from operations, excluding the funding of our US pension plan in the first quarter.
+ 
+This cash flow analysis chart has one primary difference from the FAS 95 format.  It considers our Global Financing Receivables as an investment to generate profit, not as Working Capital that should be minimized for efficiency.
+ 
+Year-to-date, Net Cash Provided from Operations, excluding the change in Global Financing Receivables, was $5.3 billion, down $1.2 billion from last year.
+ 
+You will recall that we funded $1.7 billion in US pension contributions in the first quarter.
+ 
+We also sold our PC business which we estimate had a negative impact on working capital.
+ 
+This quarter, we received $775 million from Microsoft in settlement of certain anti-trust claims, which was offset by about $800 million of restructuring payments associated with our second quarter actions.
+ 
+Total inventory was essentially flat year-to-year.  However, adjusted for the sale of the PC business, inventory was up approximately $150 million.  The increase was driven by the continued ramp up for game chips in our 300 millimeter fab.
+ 
+Overall, we continued improvements in working capital, driven by better receivable collections and declines in aged receivables.
+ 
+Turning to our use of cash for investments:
+ 
+Net Capital Expenditures were approximately $3.1 billion year-to-date, an increase of $300 million year-to-year primarily due to lower asset sales.
+ 
+Let me make a subtotal here since many investors look at cash flow after Capital Expenditures. We had a cash source of about $2.3 billion, $1.5 billion less than last year.
+We spent approximately $1.3 billion on acquisitions year-to-date, primarily for the second quarter acquisition of Ascential.  And we had net proceeds from divestitures of about $650 million driven by the sale of the PC business.
+ 
+We returned $7.6 billion to investors year-to-date, an increase of $2.4 billion year-to-year.
+ 
+Six-point-seven billion dollars of this was through share repurchase.
+ 
+We bought back over 78 million shares year-to-date, and average diluted shares stood at 1.6 billion, down 4.5 percent from a year ago.
+ 
+We have approximately $2 billion remaining from our last Board authorization at the end of September.
+ 
+And, through the third quarter, we have paid out over $900 million in dividends.
+ 
+Moving on to Chart 10, we'll discuss the Balance Sheet.
+BALANCE SHEET
+ 
+Our balance sheet remains strong through the first nine months of 2005.
+ 
+Our cash on hand was $8.3 billion.
+ 
+Ninety-six percent of our total debt of $21 billion was driven by our Global Financing business, and Global Financing was leveraged at an appropriate 6.8 to 1.
+ 
+The remaining non-financing debt level was about $900 million with Non-Global Financing debt-to-capital at 3.1 percent.
+ 
+Our Balance Sheet remains very strong and we are well positioned to capitalize on future opportunities and meet our cash needs.
+ 
+Now let's turn to our three key businesses, starting with Global Services, Chart 11.
+GLOBAL SERVICES
+ 
+Global Services delivered revenue of $11.7 billion, growing 3 percent both as reported and at constant currency.  The segment profit was up 16 percent year-to-year, and the pre-tax margin improved to 9.3 percent.
+ 
+Signings for Services this quarter were $11.7 billion at spot rates, or $11 billion at constant currency.  This was up 13 percent year-to-year in the quarter, and up 18 percent year-to-date.  We signed nine deals larger than $100 million this quarter.
+ 
+Our backlog is estimated at $113 billion, up $3 billion from a year ago.  This increase was driven by long term signings growth over the last two quarters, and a return to lower levels of erosion.
+ 
+Turning to the three major segments:
+ 
+Strategic Outsourcing
+,
+which was over 40 percent of Global Services, grew signings 18 percent.  Revenue was up 2 percent as reported.
+ 
+Third quarter signings growth was led by strong year-to-year performance in the Americas.  Our largest signing this quarter was for $1.7 billion with ABN AMRO.
+ 
+This is the second consecutive quarter of double-digit signings growth, and our fourth quarter pipeline is up both quarter-to-quarter and year-to-year.  Although signings do not translate immediately to revenue growth, they provide substantial benefits over longer periods of time.
+ 
+Integrated Technology Servicesxcluding Maintenance
+e
+was up 1 percent year-to-year as reported.
+ 
+ITS signings this quarter were down 8 percent, with signings declines in the Americas and Asia Pacific.  However, we did see a return to growth in EMEA, which was up 9 percent year-to-year.
+ 
+We are working to rebalance our ITS portfolio of offerings, and shift our business development and delivery capabilities and skills to higher growth areas.
+ 
+Business Consulting Services
+grew 6 percent year-to-year.  This was led by growth in the Americas and Europe, offset by declines in Asia Pacific.
+Business Consulting Services signings were up 18 percent over last year, with Consulting and Systems Integration up 14 percent, and Business Transformation Outsourcing up 45 percent.
+ 
+Our Consulting and Systems Integration business had many areas of high growth.
+ 
+Sector performance was strong in the Financial Services and Industrial Sectors.   Faster-growing practices included Strategy and Change, and Supply Chain.
+ 
+This overall growth was mitigated by weakness in Japan, Germany, and our Federal Business in the US.
+ 
+Across all practices we drove improved utilization, and pricing trends remained stable to improving.
+ 
+Our Business Transformation Outsourcing business continued its pattern of strong year-to-year growth, led by strength in our Human Resources and Finance and Administration offerings.
+ 
+BTO is an important offering to address the Business Performance Transformation Services opportunity.  Other elements include the Strategy and Change practice, Engineering and Technology Services, and Business Performance Software.  Through the third quarter, we had BPTS revenue of almost $2.9 billion, up 35 percent year-to-year.
+ 
+Turning to margin, Global Servicesgross margin improved 1.7 points year-to-year, while pre-tax margin improved 1.1 points year-to-year to 9.3 percent.
+ 
+The year-to-year improvement in pre-tax margin was primarily driven by a better contract profile, benefits from our restructuring action, and C&SI utilization improvements.
+ 
+As we told you last quarter, Global Services is primarily a resource-based business resulting in services margins being more impacted by both pension and equity compensation expense.  In 2005, the year-to-year declines in equity comp help to mitigate the increase in pension expense.
+ 
+So to wrap up:
+Global Services grew signings double-digits for the second consecutive quarter and year-to-date,
+ 
+increased backlog by $3 billion since the third quarter of last year,
+ 
+and improved both gross and pre-tax margins by over a point year-to-year.
+ 
+Looking forward,
+ 
+we will continue to focus on building our pipeline,
+ 
+converting that pipeline into both long and short term signings growth,
+ 
+and driving the productivity actions to improve our competitiveness and margins.
+ 
+ 
+Let's move on to Chart 12, Systems and Technology.
+SYSTEMS AND TECHNOLOGY
+ 
+Systems and Technology Group revenue of $5 billion grew 7 percent year-to-year, or 6 percent at constant currency, on the continued strength of our midrange platforms and Engineering and Technology Services.
+ 
+MIPS grew 18 percent year-to-year while revenue declined 4 percent.
+zSeries 
+ 
+This MIPS growth was driven by our new System z9.  In late September, we began shipping the IBM System z9, which delivers a new level of secure and resilient computing to our customers.  In the third quarter, we saw particularly strong performance in emerging markets, such as Brazil and Russia.
+ 
+zSeries customers continue to add new workloads to this platform as they build their on demand infrastructure.  These new workloads have accelerated Java and Linux adoption on the z platform.
+ 
+revenue grew 25 percent year-to-year, driven by broad demand for business solutions on our Power5-based products.
+iSeries 
+ 
+This second consecutive quarter of double-digit growth reflects an increased commitment to the platform from ISVs, resellers and customers.
+ 
+servers had another strong quarter with growth of 15 percent, growing in all geographies.
+pSeries 
+ 
+Based on a rolling four quarter average, IDC recently named IBM the market share leader in UNIX  surpassing both HP and Sun. We expect our double-digit growth this quarter to extend that market lead.
+ 
+Earlier this month, we announced our new Power5+ processors which include the industry's first Quad Core Module, which puts four processor cores on a single piece of ceramic.  IBM microelectronics was the first to offer a dual core processor four years ago, and is again first-to-market with this technology advancement.
+ 
+server revenue grew 11 percent year-to-year driven by strong performance in emerging markets.
+xSeries 
+Despite strong competitive pressure in Europe and Asia, particularly in France and Japan, we believe we have maintained our market share in all three major geographies.
+ 
+Our momentum in Blades remains strong, with revenue growth of about 90 percent year-to-year, extending our market leadership position.
+ 
+delivered year-to-year growth of 11 percent driven by strong mid-range disk performance.
+Total Storage
+ 
+External disk grew 19 percent.  When the information becomes available, we believe we will have gained share again in this space, and will maintain our market leadership in tape.
+ 
+The mix impact of our strong mid-range performance, along with intensified competition, reduced margins this quarter.
+ 
+revenue grew 14 percent year-to-year.
+Microelectronics
+ 
+Yields on our game processors were above our initial expectations as we ramped production.  OEM revenue from our 300 millimeter products more than doubled compared to a year ago.  Partially offsetting that benefit was a softening of demand for some of our older technologies.
+ 
+The primary mission of our microelectronics business continues to be providing technology to our systems business.  Both the new z9 and Power5+ processors are two examples of technology leadership only available from IBM.
+ 
+had another strong quarter with revenue growth of 68 percent year-to-year.
+Engineering and Technology Services
+ 
+This unit focuses on providing technical services to our clients enabling them to leverage IBM's technology in their research and development.
+ 
+E&TS has enabled us to collaborate with existing clients in areas outside the data center in the development of their own products and offerings.  These collaborative relationships have translated into incremental sales for IBM, especially within Systems and Technology Group.
+Now, we'll move on to Software, Chart 13.
+SOFTWARE
+ 
+Software, at $3.8 billion, was up 5 percent year-to-year as reported and at constant currency.
+ 
+Total middleware grew 6 percent while Operating Systems were down 2 percent.
+ 
+There was strong growth in many of our strategic offerings as evidenced by branded middleware growth of 10 percent.
+ 
+Other middleware, which represents 37 percent of total middleware, was flat.
+ 
+The software market remains highly competitive but demand for IBM software was good in the third quarter.  We saw growth in all geographies led by the Americas.
+ 
+In the third quarter, we believe we held share in total middleware and grew share in each of the five key brands.
+ 
+The WebSphere family of software grew 14 percent year-to-year.
+ 
+.
+WebSphere Portal grew 17 percent, and WebSphere Business Integration Software grew 13 percent.  In the quarter, we announced WebSphere Process Server, which is an integral part of our Services Oriented Architecture
+ 
+We continue to extend our market-leading position over our nearest competitor.
+ 
+Information Management software grew 10 percent and reflects strong growth from Ascential.
+ 
+Our DB2 database family of software was up 4 percent year-to-year.
+ 
+We are continuing to build our Information Management portfolio with advances in Content Management, Information Integration and the core database technologies.
+ 
+Lotus software was up 12 percent year-to-year.
+ 
+This is the third consecutive quarter of double-digit growth in Lotus, which is fueled by strong acceptance of our Notes Domino Version 7 Software as well as continued growth in Lotus Workplace.
+Rational software was up 12 percent year-to-year, with strong growth in all three geographies.
+ 
+This has been the best quarter of growth since our acquisition.  We saw strong demand from our large customers and closed the largest single transaction for Rational since acquisition.
+ 
+Tivoli Software was up 8 percent year-to-year.
+ 
+Tivoli delivered double-digit revenue growth in the security and storage software businesses.  Our security products were powered by our new SOA Security offerings, which have been well received.
+ 
+Our storage software products were especially strong, with customer adoption of our virtualization technologies continuing to gain traction.
+ 
+We have received a number of questions on our software strategy in the context of recent industry announcements.  Let me take a minute to comment.
+ 
+On-demand businesses require application integration and flexibility based on open standards.  Our middleware portfolio is designed to provide these characteristics regardless of how the application market evolves.  We will continue to partner with thousands of ISVs and Systems Integrators, and will support in-house application development with software that provides the openness and interoperability that customers' desire.
+ 
+Overall, our Software business had a good quarter.  We believe we gained share in each of the five middleware brands and held share overall.  Profitability improved as well, with solid growth in segment PTI margins.
+ 
+Now, I'll wrap up, Chart 14.
+CLOSING REMARKS
+ 
+IBM delivered solid profit performance in the third quarter, reflecting the breadth and flexibility of our business model.
+ 
+Revenue growth continued at a pace consistent with the second quarter.
+ 
+In Hardware, we had strong performance in midrange servers, and we successfully launched a new mainframe product.
+ 
+Within Software, we continued the momentum in our key middleware brands.
+ 
+We continue to drive growth in the key opportunity areas of emerging countries and Business Performance Transformation Services.
+ 
+Our SMB organization continued its strong growth, and, we had solid execution in a good demand environment in the Americas  and Europe's performance improved.
+ 
+Turning to the productivity and cash elements of our model.
+ 
+We had improved margin performance, with our portfolio actions, and
+the execution of our productivity initiatives yielding benefits in the quarter.
+ 
+And, our strong cash and balance sheet position allowed us to continue to return value to shareholders through share buyback and dividends.
+ 
+This all added up to good profit growth, and offsets the shortfall in first quarter, to put us back on track through three quarters.  Based on this performance, you should roll through the third quarter EPS overachievement to full year estimates.  This positions us to achieve performance consistent with our longer term model of double-digit EPS growth through the fourth quarter and the full year 2005.
+ 
+And while it is early to comment on next year, based on what we know now, we remain confident in our longer term model.
+Our strategies, investments and operational actions are all designed to deliver on our business model based on innovation, and balance performance across our hardware, software, and services businesses. 
+ 
+Now, Patricia and I will take your questions.
+CLOSING - PAM
+ 
+Thanks, Mark.
+ 
+Before we begin the Q&A let me comment on two items.
+ 
+First, as always, we have a few supplemental charts at the end of the deck that complement Mark's prepared remarks.  Don't forget to turn off the slide synchronization to freely navigate within the presentation.
+ 
+Second, as always, please refrain from multi-part questions.  This will allow us to take questions from more callers.
+ 
+OK operator, let's open it up for questions.
+ATTACHMENT II
+I
+BM 3Q 2005
+Earnings Presentation
+ 
+October 2005
+Ce
+rtain comments made in this presentation may be characterized as forward looking under the Private Securities Litigation Reform Act of 1995.
+ 
+Those statements involve a number of factors that could cause actual results to differ materially.
+ 
+Additional information concerning these factors is contained in the Company's filings with the SEC.  Copies are available from the SEC, from the IBM web site, or from IBM Investor Relations.
+ 
+*
+                
+2004 adjusted for pre-tax pension settlement charge of $320M
+May not add due to rounding
+ 
+May not add due to rounding
+ 
+Reclassified to conform with current presentation
+May not add due to rounding
+ 
+ 
+ 
+ 
+* without non-recurring items
+**  without $0.3B pension settlement charge in 2004
+May not add due to rounding
+ 
+ 
+May not add due to rounding
+ 
+ 
+* Excluding Cash & Marketable Securities
+ 
+May not add due to rounding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 
+Double-digit key middleware growth
+                 
+ - 
+                 
+Gained market share in all middleware brands
+ 
+ 
+*
+                
+Excludes non-recurring items:  "Homeland", pension settlement charge, and 2Q05 items - restructuring action, gain from sale of PC business and Microsoft settlement
+ 
+ 
+*
+                
+Intercompany sales and profits eliminated in consolidation
+**
+         
+Allocations in support of PC operations which are not contractually recoverable under Lenovo relationship and effectively remain with IBM
+ 
+See non-GAAP reconciliation for additional description, chart S10
+ 
+*
+                
+Intercompany sales and profits eliminated in consolidation
+**
+         
+Allocations in support of PC operations which are not contractually recoverable under Lenovo relationship and effectively remain with IBM
+ 
+See non-GAAP reconciliation for additional description, chart S10
+ 
+ 
+ 
+Negative Yr/Yr growth signifies a translation hurt
+ 
+ 
+ 
+ 
+*
+                
+Expensed beginning 1Q05.  Employee Stock Purchase Plan rendered non-compensatory in 2Q05
+**
+         
+Forfeitures credited to PC sale ($12M) and incremental restructuring ($3M) for stock options; forfeitures credited to incremental restructuring ($1M) and award modification charges to PC sale of $4M for RSUs / Performance Units
+ 
+May not add due to rounding
+ 
+ 
+May not add due to rounding
+ 
+ 
+May not add due to rounding
+ 
+ 
+May not add due to rounding
+ - 
+                 
+In an effort to provide investors with additional information regarding the Company's results as determined by generally accepted accounting principles (GAAP), the Company also discloses the following non-GAAP information which management believes provides useful information to investors:
+ 
+ - 
+                 
+Management has presented certain financial results excluding the effects of one-time items such as (1) the gain on the sale of the company's PC business, (2) a gain related to a settlement agreement reached with Microsoft, (3) charges related to the company's restructuring initiatives, (4) a one-time tax charge for the planned repatriation of foreign earnings, (5) a one-time charge recorded in 2004 for the partial settlement of certain legal claims related to IBM's pension plan and (6) the operational performance of the company's divested PC business. Given the unique and non-recurring nature of these items, management believes that presenting certain financial information without these items is more representative of the company's operational performance and provides additional insight into, and clarifies the basis for, historical and/or future performance, which may be more useful for investors.
+ - 
+                 
+On April 30, 2005, IBM sold its PC business. IBM's reported results for the quarter ended September 30, 2005 do not include operational performance of the company's PC business while the reported results for the comparable period in the prior year include three months of operational performance of the PC business. Further, IBM's reported results for the nine month period ended September 30, 2005 include four months of operational performance of the PC business, as compared to nine months in the comparable period of the prior year. Management believes that it is important to investors to understand the financial results of the company adjusted for the impact of its divested PCD operations in order to show IBM's results on a comparable basis year-to-year, and to best present ongoing operational performance. Accordingly, management has presented certain financial results excluding the effects of the PC business.
+ 
+In accordance with segment reporting, revenues and pre-tax income include transactions between segments that are intended to reflect an arm's-length transfer price and include intercompany profit. Management believes that a more appropriate measure of the financial impacts that the divestiture of the PC business has on IBM's consolidated financial results should exclude any revenues associated with internal sales and intercompany profits, which are eliminated in consolidation. Accordingly, the results of the PC business have been adjusted from the reported PC segment. The basis for these adjustments are to give effect to intercompany and certain allocated expenses and the adjusted results are intended to display the impact on the IBM consolidated results on a basis comparable to which the company operates post-PC divestiture which management believes is meaningful and useful to investors.
+ - 
+                 
+Management includes a presentation of cash flows that excludes the effect of Global Financing Receivables and subtracts net capital investments from Net Cash from Operations.   For a financing business, increasing receivables is the basis for growth.  Receivables are viewed as an investment and an income-producing asset. Capital investments are necessary to grow and sustain the business. Therefore, management presents financing receivables as an investing activity, which has the effect of lowering cash from operations, and net capital investments as a reduction of Net cash from Operations.  Management's view is that this presentation gives the investor the best perspective of cash available for investment or for distribution to shareholders.
+ 
+ - 
+                 
+Management refers to growth rates at constant currency or adjusting for currency so that the business results can be viewed without the impact of changing foreign currency exchange rates, thereby facilitating period-to-period comparisons of the Company's businesses performance.  Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates.
+ - 
+                 
+The complexity and volatility associated with the accounting and financial reporting for pension plans has been a major focus of the Company's management and investors. To help investors better understand the estimates, judgments and performance of the plans, in the 2004 Annual Report, the Company provided significant disclosures. Management has presented certain historical and forecasted financial results excluding a one-time charge recorded in 2004 for the partial settlement of certain legal claims related to IBM's pension plan. Given the unique and non-recurring nature of this charge, management believes that presenting such financial items without the charge is useful to investors in better understanding the company's business performance. The Company believes the magnitude of these impacts can affect investors' understanding of the Company's overall business performance.  Management further believes that investors' understanding is enhanced when the year-to-year dynamics associated with pension cost is rendered explicit in the discussion of the Company's financial results. Therefore, while giving appropriate prominence to the GAAP based financial measures in presenting such results, the Company believes it is appropriate and useful to investors to include certain non-GAAP measures.
+ 
+ 
+May not add due to rounding
+
+

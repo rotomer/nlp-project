@@ -1,0 +1,165 @@
+FILE:RHT/RHT-8K-20060106115313.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( General Instruction A.2. below):
+see
+ 
+ 
+ 
+ 
+ 
+Item 1.01. Entry into a Material Definitive Agreement.
+ 
+Red Hat, Inc. ("Red Hat") and Matthew J. Szulik, Chairman, President and CEO of Red Hat (the "Optionee") are parties to a Non-Qualified Stock Option Agreement and a Restricted Stock Award Agreement, each dated December 17, 2003 (collectively, the "December 17, 2003 Agreements"), pursuant to which the Optionee received stock options under Red Hat's 1999 Stock Option and Incentive Plan (the "Stock Options"). Effective December 30, 2005, Red Hat and Optionee amended the December 17, 2003 Agreements by entering into (a) an Amendment to Non-Qualified Stock Option Agreement and (b) an Amendment to a Restricted Stock Award Agreement (collectively, the "Amendments").
+ 
+The Amendments are intended to conform the December 17, 2003 Agreements to the requirements of Internal Revenue Code Section 409A ("Section 409A") and to qualify the Stock Options for exemptions from unfavorable tax effects imposed by Section 409A. The Amendments contemplate that, in 2005, the Optionee voluntarily make irrevocable advance elections to exercise the portions of the Stock Options that were not vested on December 31, 2004 (the "Vesting Options") on a specified date in the future that is prior to the previously scheduled expiration date of the Stock Options (the "Election Date").
+ 
+Pursuant to the Amendments, the Vesting Options must be exercised either on the Election Date or, if earlier, upon the expiration of a period of time elected by the Optionee after the Optionee's death, termination of employment or disability or a change of control of Red Hat, but not later than the previously scheduled expiration of date of the Stock Options.
+ 
+In addition, the Amendments change the definition of "Change in Control" to conform to the definition contained in the Internal Revenue Code Service interpretations issued with respect to Section 409A and implement other technical changes in conformity with Section 409A.
+ 
+The foregoing descriptions are qualified by the terms of the Amendments, filed herewith.
+ 
+Item 9.01. Financial Statements and Exhibits.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 10.1
+ 
+ 
+ 
+WHEREAS, Red Hat, Inc. (the "Company"), a Delaware corporation, and Matthew Szulik (the "Optionee") entered into a Non-Qualified Stock Option Agreement (the "Agreement), as of December 17, 2003, in connection with the grant by the Company to the Optionee of an option to purchase 500,000 shares of the Company's common stock, $.0001 par value per share at a per share exercise price of $6.70; and
+ 
+WHEREAS, the Company and the Optionee desire to amend the Agreement in certain respects; and
+ 
+NOW, THEREFORE, the Agreement is amended as set forth below, effective as of December 30, 2005, only with respect to the option shares that were not vested shares as of December 31, 2004. The Agreement shall be applied without regard to this Amendment with respect to the option shares that were vested shares as of December 31, 2004.
+ 
+1. Section 5 is amended in its entirety to read as follows:
+ 
+5. .
+Death; Disability; Change of Control
+ 
+If the Optionee dies while maintaining a Business Relationship with the Company, this option shall expire on the earlier of 180 days after the date of death or the scheduled expiration date, except as provided in the Employment Agreement between the Company and the Employee entered into effective July 24, 2002 (the "Employment Agreement").
+(a) .
+Death
+ 
+If the Optionee's Business Relationship with the Company is terminated by reason of his disability, this option shall expire on the earlier of 180 days after such cessation of the Business Relationship or the scheduled expiration date, except as provided in the Employment Agreement. For purposes hereof, "disability" shall mean "permanent and total disability" as defined in Section 22(c)(3) of the Code.
+(b)
+Disability
+.
+ 
+For purposes of this Agreement, "Change of Control" shall have the meaning set forth on Appendix 1.
+(c) .
+Change of Control
+ 
+2. Section 6 is amended in its entirety to read as follows:
+ 
+This option shall be exercised in accordance with the Optionee's election of Stock Option Exercise Dates executed in December, 2005 (the "Election").
+6. .
+Exercise
+3. Section 9 is amended in its entirety to read as follows:
+ 
+On each exercise date specified in the Election, the Optionee shall make payment to the Company of the full purchase price of such shares in accordance with Section 7, and the Company shall deliver a certificate or certificates representing such shares as soon as practicable after each such exercise date. Such certificate or certificates shall be registered:
+9. .
+Exercise Price; Certificates
+ 
+(a) If the exercise date is prior to the Optionee's death, in the name of the Optionee (or, if the Optionee shall so request in writing prior to the exercise of this option, in the name of the Optionee and another person jointly, with right of survivorship); or
+ 
+(b) If the exercise date is on or after the Optionee's death in the name of the Optionee's estate, personal representative or beneficiary to whom this option has been transferred pursuant to Section 10.
+ 
+4. A new Appendix 1 is added to read as follows:
+ 
+ 
+"Change of Control" means and shall be deemed to have occurred as of the date of the first to occur of the following events:
+ 
+(a) Any Person or Group acquires stock of the Company that, together with stock held by such Person or Group, constitutes more than 50% of the total fair market value or total voting power of the stock of the Company. However, if any Person or Group is considered to own more than 50% of the total fair market value or total voting power of the stock of the Company, the acquisition of additional stock by the same Person or Group is not considered to cause a Change of Control. An increase in the percentage of stock owned by any Person or Group as a result of a transaction in which the Company acquires its stock in exchange for property will be treated as an acquisition of stock for purposes of this subsection. This paragraph (a) applies only when there is a transfer of stock of the Company (or issuance of stock of the Company) and stock in the Company remains outstanding after the transaction;
+ 
+(b) Any Person or Group acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such Person or Group) ownership of stock of the Company possessing 35% or more of the total voting power of the stock of the Company. However, if any Person or Group is considered to own 35% of the total voting power of the stock of the Company, the acquisition of additional stock by the same Person or Group is not considered to cause a Change of Control;
+ 
+(c) A majority of members of the Company's Board is replaced during any 12-month period by Directors whose appointment or election is not endorsed by a majority of the members of the Company's Board prior to the date of the appointment or election; or
+ 
+(d) Any Person or Group acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such Person or Group) assets from the Company that have a total gross fair market value equal to or more than 40% of the total gross fair market value of all of the assets of the Company immediately prior to such acquisition or acquisitions. For this purpose, gross fair market value means the value of the assets of the Company, or the value of the assets being disposed of, determined without regard to any liabilities associated with such assets. However, no Change of Control shall be deemed to occur under this paragraph (d) as a result of a transfer to:
+ 
+(i) A shareholder of the Company (immediately before the asset transfer) in exchange for or with respect to its stock;
+ 
+(ii) An entity, 50% or more of the total value or voting power of which is owned, directly or indirectly, by the Company;
+ 
+(iii) A Person or Group that owns, directly or indirectly, 50% or more of the total value or voting power of all the outstanding stock of the Company; or
+ 
+(iv) An entity, at least 50% of the total value or voting power of which is owned, directly or indirectly, by a person described in clause (iii) above.
+ 
+For these purposes, the term "Person" shall mean an individual, Company, association, joint stock company, business trust or other similar organization, partnership, limited liability company, joint venture, trust, unincorporated organization or government or agency, instrumentality or political subdivision thereof. The term "Group" shall have the meaning set forth in Rule13d-5 of the Securities Exchange Commission, modified to the extent necessary
+ 
+to comply with Proposed Treasury Regulation Section 1.409A-3(g)(5)(v)(B), or any successor thereto in effect at the time a determination of whether a Change of Control has occurred is being made.
+ 
+IN WITNESS WHEREOF, the Company and the Optionee have caused this Amendment to be executed effective as of the date set forth above.
+ 
+ 
+
+Exhibit 10.2
+ 
+ 
+ 
+WHEREAS, Red Hat, Inc. (the "Company"), a Delaware corporation, and Matthew Szulik (the "Employee") entered into a Restricted Stock Award Agreement (the "Agreement), as of December 17, 2003, in connection with the grant by the Company to the Employee of an option to purchase 500,000 shares of the Company's common stock, $.0001 par value per share at a per share exercise price of $0.50; and
+ 
+WHEREAS, the Company and the Employee desire to amend the Agreement in certain respects; and
+ 
+NOW, THEREFORE, the Agreement is amended as set forth below, effective as of December 30, 2005, only with respect to the shares subject to the Agreement that were not vested (i.e., were restricted shares) as of December 31, 2004. The Agreement shall be applied without regard to this Amendment with respect to the shares subject to the Agreement that were vested (i.e., were not restricted shares) as of December 31, 2004.
+ 
+1. Section 1 is amended by the addition of the following at the end thereof:
+ 
+The Employee may purchase the Restricted Shares only in accordance with the Employee's election of Stock Option Exercise Dates executed in December, 2005 (the "Election").
+ 
+2. Section 3 is amended by deleting the last sentence thereof and substituting therefore the following:
+ 
+The rights set forth in Section 1, and as limited by Sections 2 and 3, are cumulative and may be exercised only before the earlier of (a) the scheduled expiration date, which is ten (10) years from the date of this Agreement or (b) the date which is 120 days following Employee's last day of employment, except as provided in the Employment Agreement between the Company and the Employee entered into effective July 24, 2002. For purposes of this Agreement, "disability" shall mean "permanent and total disability" as defined in Section 22(c)(3) of the Code, and "Change of Control" shall have the meaning set forth on Appendix 1.
+ 
+3. A new Appendix 1 is added to read as follows:
+ 
+ 
+"Change of Control" means and shall be deemed to have occurred as of the date of the first to occur of the following events:
+(a) Any Person or Group acquires stock of the Company that, together with stock held by such Person or Group, constitutes more than 50% of the total fair market value or total voting power of the stock of the Company. However, if any Person or Group is considered to own more than 50% of the total fair market value or total voting power of the stock of the Company, the acquisition of additional stock by the same Person or Group is not considered to cause a Change of Control. An increase in the percentage of stock owned by any Person or Group as a result of a transaction in which the Company acquires its stock in exchange for property will be treated as an acquisition of stock for purposes of this subsection. This paragraph (a) applies only when there is a transfer of stock of the Company (or issuance of stock of the Company) and stock in the Company remains outstanding after the transaction;
+ 
+(b) Any Person or Group acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such Person or Group) ownership of stock of the Company possessing 35% or more of the total voting power of the stock of the Company. However, if any Person or Group is considered to own 35% of the total voting power of the stock of the Company, the acquisition of additional stock by the same Person or Group is not considered to cause a Change of Control;
+ 
+(c) A majority of members of the Company's Board is replaced during any 12-month period by Directors whose appointment or election is not endorsed by a majority of the members of the Company's Board prior to the date of the appointment or election; or
+ 
+(d) Any Person or Group acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such Person or Group) assets from the Company that have a total gross fair market value equal to or more than 40% of the total gross fair market value of all of the assets of the Company immediately prior to such acquisition or acquisitions. For this purpose, gross fair market value means the value of the assets of the Company, or the value of the assets being disposed of, determined without regard to any liabilities associated with such assets. However, no Change of Control shall be deemed to occur under this paragraph (d) as a result of a transfer to:
+ 
+(i) A shareholder of the Company (immediately before the asset transfer) in exchange for or with respect to its stock;
+ 
+(ii) An entity, 50% or more of the total value or voting power of which is owned, directly or indirectly, by the Company;
+ 
+(iii) A Person or Group that owns, directly or indirectly, 50% or more of the total value or voting power of all the outstanding stock of the Company; or
+ 
+(iv) An entity, at least 50% of the total value or voting power of which is owned, directly or indirectly, by a person described in clause (iii) above.
+ 
+For these purposes, the term "Person" shall mean an individual, Company, association, joint stock company, business trust or other similar organization, partnership, limited liability company, joint venture, trust, unincorporated organization or government or agency, instrumentality or political subdivision thereof. The term "Group" shall have the meaning set forth in Rule13d-5 of the Securities Exchange Commission, modified to the extent necessary to comply with Proposed Treasury Regulation Section 1.409A-3(g)(5)(v)(B), or any successor thereto in effect at the time a determination of whether a Change of Control has occurred is being made.
+ 
+IN WITNESS WHEREOF, the Company and the Employee have caused this Amendment to be executed effective as of the date set forth above.
+ 
+ 
+
+

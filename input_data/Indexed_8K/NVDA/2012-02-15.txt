@@ -1,0 +1,179 @@
+FILE:NVDA/NVDA-8K-20120215164020.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+Date of Report (Date of earliest event reported):
+February 15, 2012
+ 
+ 
+ 
+Registrants telephone number, including area code:
+(408) 486-2000
+ 
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+SECTION 2 - Financial Information
+  
+Item 2.02 Results of Operations and Financial Condition.
+ 
+On February 15, 2012, NVIDIA Corporation issued a press release announcing its results for the quarter and fiscal year ended January 29, 2012. The press release is attached as Exhibit 99.1 and is incorporated herein by reference.
+  
+Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Karen Burns, Vice President and Interim Chief Financial Officer of NVIDIA Corporation, regarding results of the quarter and fiscal year ended  January 29, 2012, or the CFO Commentary. The CFO Commentary will be posted to www.nvidia.com/ir immediately after the filing of this Current Report.
+  
+The press release and CFO Commentary are furnished and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or subject to the liabilities of that Section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information in this Current Report shall not be incorporated by reference in any filing with the U.S. Securities and Exchange Commission made by NVIDIA Corporation, whether made before or after the date hereof, regardless of any general incorporation language in such filing.
+ 
+SECTION 9 - Financial Statements and Exhibits
+  
+Item 9.01 Financial Statements and Exhibits.
+  
+(d) Exhibits
+ 
+SIGNATURE
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+EXHIBIT INDEX
+ 
+
+FOR IMMEDIATE RELEASE:
+NVIDIA Reports Financial Results for Annual and Fourth Quarter Fiscal 2012
+SANTA CLARA, Calif.-Feb. 15, 2012-
+NVIDIA (NASDAQ: NVDA) today reported revenue for fiscal 2012 ended Jan. 29, 2012 of $4.00 billion, up 12.8 percent from $3.54 billion in fiscal 2011. GAAP earnings per share for the year were $0.94 per diluted share, an increase of 118.6 percent over $0.43 in fiscal 2011. Non-GAAP earnings per share for fiscal 2012 were $1.19, up 46.9 percent over $0.81 in fiscal 2011.
+Revenue for the fourth quarter of fiscal 2012 was $953.2 million, down 10.6 percent from the prior quarter, and up 7.5 percent from $886.4 million in the same period a year earlier.
+I am pleased with our achievements last year. Our GPU business grew sharply.  And, with the success of Tegra, we established our position in the mobile market, said Jen-Hsun Huang, president and chief executive officer of NVIDIA. We expect continued growth ahead, as Tegra 3 powers a new wave of quad-core super phones and Kepler, our next-generation GPU architecture, sets new standards in visual and parallel computing.
+On a GAAP basis, the company recorded net income of $116.0 million, or $0.19 per diluted share, for the fourth quarter of fiscal 2012. That compares with net income of $178.3 million, or $0.29 per diluted share, in the prior quarter and $171.7 million, or $0.29 per diluted share, in the same period a year earlier.
+On a non-GAAP basis - which excludes certain charges or credits, as applicable in the fiscal quarter, and the tax impact associated with such items, including: stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and legal settlements - net income was $158.1 million, or $0.26 per diluted share. That compares with non-GAAP net income of $217.0 million, or $0.35 per diluted share, in the prior quarter, and net income of $142.4 million, $0.24 per share, in the same period a year earlier.
+GAAP gross margin was 51.4 percent, compared with 52.2 percent in the previous quarter and 48.1 percent in the same period a year earlier. Non-GAAP gross margin, which excludes stock-based compensation and a legal settlement charge, was 52.5 percent and compares with 52.5 percent in the previous quarter and 48.3 percent in the same period a year earlier.
+Outlook
+Our outlook for the first quarter of fiscal 2013, is as follows:
+We estimate depreciation and amortization for the first quarter to be approximately $52 million to $56 million. Capital expenditures are expected to be in the range of $35 to $45 million.
+Diluted shares for the first quarter are expected to be approximately 622.5 million.
+Fourth Quarter Fiscal 2012 Highlights:
+CFO Commentary
+Commentary on the quarter by Karen Burns, NVIDIA interim chief financial officer, is available at www.nvidia.com/ir.
+Conference Call and webcast Information
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter fiscal 2012 financial results and current financial prospects today at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time). To listen to the call, please dial (706) 679 2572. A live webcast (listen-only mode) of the conference call will be accessible at the NVIDIA investor relations web site
+www.nvidia.com/ir
+and at
+www.streetevents.com
+. The webcast will be recorded and available for replay until the company's conference call to discuss its financial results for its first quarter fiscal 2013.
+Non-GAAP Measures
+To supplement NVIDIA's Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income tax expense, non-GAAP net income, and non-GAAP net income, or earnings, per share. In order for NVIDIA's investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude legal settlements, a charge related to the weak die/packaging material set that was used in certain versions of the NVIDIA's previous generation MCP and GPU products, net of insurance reimbursement, stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and the associated tax impact of these items, where applicable. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company's historical financial performance. The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+About NVIDIA
+NVIDIA
+(NASDAQ: NVDA) awakened the world to computer graphics when it invented the
+GPU
+in 1999. Today, its
+processors
+power a broad range of products from
+smart phones
+to
+supercomputers
+. NVIDIA's
+mobile processors
+are used in 
+cell phones
+,
+tablets
+and
+auto infotainment systems
+.
+PC gamers
+rely on GPUs to enjoy spectacularly immersive worlds. Professionals use them to create visual effects in movies and design everything from golf clubs to jumbo jets. And researchers utilize GPUs to advance the frontiers of science with
+high-performance computing
+. The company holds more than 2,200 patents worldwide, including ones covering ideas essential to modern computing. For more information, see
+www.nvidia.com
+.
+Certain statements in this press release including, but not limited to statements as to: the company's financial outlook for the first quarter of fiscal 2013; the benefits of NVIDIA Maximus technology; the company's continued growth; the success and momentum of Tegra 3; the impact of the company's next-generation Kepler architecture; and the effects of the company's patents on modern computing are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 30, 2011. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+ 2012 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, Maximus, GeForce, Tegra and Tesla are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+###
+For further information, contact:
+NVIDIA CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In thousands, except per share data)
+(Unaudited)
+
+CFO Commentary on Annual and Fourth Quarter Fiscal Year 2012 Results
+The following information has been prepared on a GAAP basis except where noted.
+FY 2012 Summary
+GAAP net income grew 129.5 percent, resulting in earnings of $0.94 per diluted share, an increase of 118.6 percent over the prior fiscal year of $0.43 per diluted share.
+Non-GAAP net income grew 54.2 percent, resulting in earnings of $1.19 per diluted share, an increase of 46.9 percent over the prior fiscal year of $0.81 per diluted share. Non-GAAP earnings excluded certain charges or credits, as applicable in the fiscal year, and the tax impact associated with such items, including: stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, a weak die/packaging material set charge, and legal settlements.
+The growth in earnings over the prior fiscal year was largely attributable to the success of our consumer GPU business, led by strength in our Fermi-generation GPUs in desktop and notebook, and our royalty revenues related to our patent cross licensing agreement with Intel.
+Revenue
+Revenue for fiscal 2012 was $4.00 billion, up 12.8 percent from $3.54 billion in the prior fiscal year. This increase was largely attributable to significant growth in our Consumer Products business - which includes our Tegra smart phone and tablet products, Icera baseband processors and RF transceivers, our embedded products, and license, royalty, and other revenue associated with game consoles - which increased 199.2 percent over the prior fiscal year. Our Consumer Products business was greatly accelerated in fiscal year 2012 with the success of our Tegra 2 dual-core products for smart phones and tablets.
+Our consumer GPU business - which includes desktop, notebook, memory, chipset (MCP) products and revenue from our patent cross license agreement with Intel - grew 0.6 percent over the prior fiscal year. This growth was despite the significant decline in our chipset product revenue as we discontinued these product lines. Excluding chipset product revenue, our consumer GPU business grew 27.4 percent over the prior fiscal year. This growth was largely attributable to strength in desktop and share gain in notebook Fermi-generation GPUs.
+In fiscal 2012, we recognized $220.0 million in revenue from a patent cross licensing agreement with Intel that provides in aggregate $1.58 billion in revenue to be recognized over the six-year term.
+Our Professional Solutions business - which includes workstation graphics and computing - had record revenue in fiscal year 2012 of $864.3 million, an increase of 5.6 percent over the prior fiscal year of $818.6 million. This increase was driven by a record revenue year in our Quadro professional graphics business.
+Gross Margin
+We had record gross margins for the fiscal year 2012 with GAAP gross margin for the fiscal year of 51.4 percent, up 11.6 percentage points from the prior fiscal's GAAP gross margin of 39.8 percent. Non-GAAP gross margin, which excluded, as applicable in the fiscal year, stock-based compensation, a net charge associated with a weak die/packaging material set, and a legal settlement charge, was 51.9 percent compared with 45.1 percent in the prior year, up 6.8 percentage points.
+Expenses and Other
+GAAP operating expenses for fiscal 2012 were $1.41 billion, up $254.9 million from the prior year of $1.15 billion. Non-GAAP operating expenses for fiscal 2012 were $1.25 billion, up $149.3 million from the prior year of $1.10 billion. Non-GAAP operating expenses excluded certain charges or credits, as applicable in the fiscal year, including: stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, a weak die/packaging material set charge, and a legal settlement. The increase in operating expenses over the prior year was primarily due to investments made in our Consumer Products business to build our next generation mobile computing architecture, Tegra 3, as well to build our next generation GPU architecture, Kepler, and other key initiatives to fuel our future growth.
+Non-GAAP operating expenses excluded:
+GAAP income tax expense for the fiscal year was $82.3 million, an effective tax rate of 12.4 percent. Non-GAAP income tax expense, excluding stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and a legal settlement charge, was $110.1 million or an effective tax rate of 13.0 percent.
+Q4 FY 2012 Summary
+ 
+GAAP net income decreased 34.9 percent, with earnings of $0.19 per diluted share, a decrease of 34.5 percent over the prior quarter of $0.29 per diluted share.
+Non-GAAP net income decreased 27.1 percent, with earnings of $0.26 per diluted share, a decrease of 25.7 percent over the prior quarter of $0.35 per diluted share. Non-GAAP earnings excluded certain charges or credits, as applicable in the fiscal quarter, and the tax impact associated with such items, including: stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and a legal settlement.
+The decrease in our earnings as compared with the prior quarter was primarily due to the negative impact of the global hard disk-drive (HDD) shortage and the decline of our Tegra 2 mobile business ahead of the production ramp of devices based on the Tegra 3 processor, which reduced our sales volume and revenue in certain segments of our business.
+Revenue
+Revenue for fourth quarter of fiscal 2012 was $953.2 million, down 10.6 percent from $1.07 billion in the prior quarter.
+Our consumer GPU business - which includes desktop, notebook, memory, chipset (MCP) products and license revenue from our patent cross license agreement with Intel - was down 3.6 percent as compared with the previous quarter, at $621.5 million.
+The decline in our GPU business over the prior quarter was largely attributable to the impact the global HDD shortage had on the PC industry. As a result, our mainstream desktop and notebook GPU businesses suffered, with a decline in sales volume and revenue over the prior quarter.
+Revenue for our Professional Solutions business - which includes workstation graphics and computing - was down 3.6 percent from the prior quarter, at $221.9 million. Revenue from our Quadro professional graphics business decreased slightly as compared with our record revenue achieved in the prior quarter. Revenue from our Tesla business increased slightly over the prior quarter.
+Our Consumer Products business - which includes Tegra smart phone and tablet products, Icera baseband processors and RF transceivers, our embedded products, and license, royalty, and other revenue associated with game consoles - was down 42.5 percent over the prior quarter, at $109.8 million. The decrease was primarily related to the decline in our Tegra 2 mobile business ahead of the production ramp of devices based on our Tegra 3 processors. Our game console royalties also decreased significantly in the current quarter due primarily to seasonality, as well as some impact believed to be a result of the HDD shortage, as each game console requires a HDD.
+Gross Margin
+GAAP gross margin for the quarter was 51.4 percent, down 0.8 percentage points from the prior quarter's GAAP gross margin of 52.2 percent and lower than our original expectations as a result of an additional charge related to a legal settlement with Rambus, not originally anticipated. Non-GAAP gross margin, which excluded stock-based compensation and a legal settlement charge, was 52.5 percent, maintaining our record gross margin on a non-GAAP basis reached in the prior quarter of 52.5 percent.
+Our gross margins remained very strong in the quarter as a result of continued strength in the high-end segments of our desktop GPU and Quadro professional graphics businesses.
+ 
+Expenses and Other
+GAAP operating expenses for the fourth quarter were $367.7 million, up $8.1 million from the prior quarter of $359.6 million. Non-GAAP operating expenses were $325.2 million, up $7.6 million from the prior fiscal quarter of $317.6 million. Non-GAAP operating expenses excluded certain charges or credits, as applicable in the fiscal quarter, including: stock-based compensation, amortization of acquisition-related intangible assets, and other acquisition-related costs.
+The increase in our operating expenses over the prior quarter was in support of ramping new generation products on 28nm into production and planned hiring to support our strategic businesses.
+Non-GAAP operating expenses excluded:
+GAAP income tax expense for the quarter was $8.6 million, an effective tax rate of 6.9 percent. Non-GAAP income tax expense, excluding stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and a legal settlement charge, was $19.3 million or an effective tax rate of 10.9 percent. Our GAAP and non-GAAP income tax expense were both below our original estimates, driven primarily by an increase in profits above our expectations within jurisdictions where the statutory tax rate is less than the U.S. statutory rates, and the catch-up adjustment necessary in the current quarter for the related annual effective tax rate of 12.4 percent and 13.0 percent on a GAAP and non-GAAP basis, respectively.
+Balance Sheet
+Cash, cash equivalents and marketable securities at the end of the quarter were $3.13 billion, up 13.9 percent or $381.2 million over the prior quarter and up 25.7 percent or $639.0 million over the prior fiscal year. The increase in the quarter and the fiscal year was primarily due to the strength in our business and the resulting cash flow from operating activities of $410.5 million in the current quarter and $909.2 million in the fiscal year.
+Accounts receivable at the end of the quarter were $336.1 million, down 9.5 percent from $371.3 million in the prior quarter, and down 3.6 percent from $348.8 million in the prior year. Our DSO at the fourth and third quarter of fiscal 2012 was 32 days. Our DSO for the fiscal year 2012 was 31 days, down 5 days as compared with our DSO for fiscal year 2011 of 36 days. We experienced improved shipment linearity in fiscal 2012 as well as continued strong receivable collections.
+Inventories at the end of the quarter were $340.3 million, up 6.5 percent from $319.6 million in the prior quarter, and down 1.5 percent from $345.5 million in the prior year. Our DSI at quarter-end was 67 days, up 10 days from 57 days in the prior quarter. Our DSI for fiscal years 2012 and 2011 was 64 days and 59 days, respectively. Our DSI increased as we ramped production builds for new generation products and transitioned to 28nm.
+Depreciation and amortization expense for the fourth quarter amounted to $51.9 million. Capital expenditures were $45.2 million.
+Cash flow from operating activities was $410.5 million in the fourth quarter, up 68.0 percent or $166.1 million compared with $244.4 million in the prior quarter. For the fiscal year 2012, cash flow from operating activities was $909.2 million, up 34.5 percent or $233.4 million compared with $675.8 million in the prior fiscal year.  The increase over the prior quarter was primarily related to the annual royalty payment we received during the quarter under a patent cross licensing agreement with Intel. The increase over the prior year was primarily attributable to an increase in our net income.
+ 
+First Quarter Outlook
+Our outlook for the first quarter of fiscal 2013, is as follows:
+We estimate depreciation and amortization for the first quarter to be approximately $52 million to $56 million. Capital expenditures are expected to be in the range of $35 million to $45 million.
+Diluted shares for the first quarter are expected to be approximately 622.5 million.
+______________
+For further information, contact:
+Non-GAAP Measures
+To supplement NVIDIA's Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income tax expense, non-GAAP net income, and non-GAAP net income, or earnings, per share. In order for NVIDIA's investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude legal settlements, a charge related to the weak die/packaging material set that was used in certain versions of the NVIDIA's previous generation chipset (MCP) and GPU products, net of insurance reimbursement, stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, and the associated tax impact of these items, where applicable. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company's historical financial performance. The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+Certain statements in this CFO Commentary including, but not limited to, statements as to: the company's financial outlook for the first quarter of fiscal 2013;impact of key initiatives to fuel future growth; and seasonal strength for our products are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 30, 2011. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+# # #
+ 2012 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, Quadro, Tesla, Tegra, Fermi and Kepler
+are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S.
+and/or other countries. Other company and product names may be trademarks of the
+respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice
+.
+
+

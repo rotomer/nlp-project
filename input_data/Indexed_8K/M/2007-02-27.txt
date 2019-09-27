@@ -1,0 +1,586 @@
+FILE:M/M-8K-20070227104749.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+FEBRUARY 26, 2007 ACCELERATED SHARE REPURCHASE TRANSACTION
+To: Federated Department Stores, Inc. 7 West Seventh Street Cincinnati, OH   45202  
+From: Credit Suisse, New York Branch Eleven Madison Avenue New York, NY  10010
+________________________________________________________________________________
+Dear Sirs:
+This letter agreement (this "") confirms the terms and conditions of the accelerated share repurchase transaction (the "") to be entered into between Federated Department Stores, Inc. ("") and Credit Suisse, New York Branch ("") on the Trade Date specified below.  This Confirmation constitutes a "Confirmation" under the Agreement specified below.
+Confirmation
+Transaction
+Counterparty
+CSNY
+1.     The definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions (the "") (as published by the International Swaps and Derivatives Association, Inc.) are incorporated into this Confirmation.  References herein to a "Transaction" shall be deemed to be references to a "Share Forward Transaction" for purposes of the Definitions.  This Confirmation evidences a complete binding agreement between Counterparty and CSNY as to the terms of the Transaction to which this Confirmation relates.
+Definitions
+        This Confirmation shall supplement, form a part of, and be subject to an agreement (the "") in the form of the 1992 ISDA Master Agreement (Multicurrency - Cross Border), as if, on the date hereof, CSNY and Counterparty had executed that agreement (but without any Schedule other than the provisions in Section 15 of this Confirmation).  In the event of any inconsistency between the Definitions and the Agreement, the Definitions will govern.  In the event of any inconsistency between this Confirmation, on the one hand, and the Definitions or the Agreement, on the other hand, this Confirmation will govern.
+Agreement
+2.     The following terms and conditions shall govern the Transaction:
+General Terms:
+               Trade Date:                           February 27, 2007.
+               Buyer:                                   Counterparty.
+               Seller:                                    CSNY.
+            Shares:                                  The common stock, par value $0.01 of Counterparty (sometimes also referred to as the "").
+Issuer
+               Price Adjustment Period
+               Termination Date:                  The earlier of July 26, 2007 and the Exchange Business Day that immediately follows the Scheduled Trading date as of which the aggregate Daily Number of Shares equals the Number of Shares; subject to adjustment as provided in "Market Disruption Event" below.
+               Price Adjustment Period:       The period commencing on and including the Scheduled Trading Day immediately following the Initial Share Delivery Date and ending on but excluding the Price Adjustment Period Termination Date.
+Initial Settlement:
+               Prepayment:                          Applicable.
+               Prepayment Amount:             USD 990,800,000
+               Prepayment Date:                  Counterparty will pay to CSNY the Prepayment Amount  on the Initial Share Delivery Date.
+               Share Price:                           USD 44.20
+               Number of Shares:                 22,500,000
+               Initial Share Delivery:             CSNY shall deliver a number of shares equal to the Number of Shares to Counterparty on the Initial Share Delivery Date in accordance with Section 9.4 of the Definitions (with the Initial Share Delivery Date deemed to be a "Settlement Date" for purposes of such Section 9.4), against payment by Counterparty of the Prepayment Amount.
+               Initial Share Delivery Date:                                     The day that is three (3) Clearance System Business Days after the date hereof.
+               Exchange:                              New York Stock Exchange
+               Related Exchange(s):             All Exchanges
+Final Settlement:
+               Net Share Settlement:            Subject to the "Cash Settlement" provisions hereof, and notwithstanding anything to the contrary in the Definitions, (i) if the Net Share Amount is negative, CSNY shall deliver to Counterparty the CSNY Share Delivery Amount, and (ii) if the Net Share Amount is positive, Counterparty shall deliver to CSNY the Counterparty Share Delivery Amount, in either case on the Settlement Date.
+               CSNY Share Delivery
+                Amount:                                A number of Shares, rounded down to the nearest whole Share, equal to the absolute value of the Net Share Amount.
+               Counterparty Share
+               Delivery Amount:                   A number of Shares, rounded down to the nearest whole Share, equal to the Net Share Amount; that if Counterparty delivers Unregistered Shares, Counterparty shall deliver a number of Shares, rounded down to the nearest whole Share, equal to the product of the Counterparty Share Delivery Amount and 1.0075.
+provided
+               Net Share Amount:                The sum of the Daily Net Share Amounts for all Valuation Dates in the Price Adjustment Period, providedthatin no event shall the Net Share Amount exceed 45,000,000 (as such number may be adjusted for stock splits or similar events).
+               Settlement Date:                    The day that is three (3) Exchange Business Days following the Price Adjustment Period Termination Date.
+               Daily Net Share Amount:       For each Valuation Date, a number of Shares (which may be positive or negative) equal to (a) the Daily Difference for such Valuation Date (b) the Daily 10b-18 VWAP Price for such Valuation Date (c) the Daily Number of Shares for such Valuation Date.
+divided
+by
+multiplied
+by
+               Daily Difference:                    For each Valuation Date, an amount (which may be positive or negative) equal to (a) the Daily 10b-18 VWAP Price for such Valuation Date (b) USD 0.02 (c) the Share Price.
+plus
+minus
+               Daily 10b-18 VWAP
+               Price:                                     For each Valuation Date, the 10b-18 volume-weighted average price per Share on the Exchange on such day as published on Bloomberg Page "FD.N <Equity> AQR SEC" or any successor page thereto.
+               Daily Number of
+               Shares:                                  For any Valuation Date that is not in a Plan Period, the number of Shares specified by Counterparty by notice to CSNY no later than 8:45 a.m., New York City time, on such date, which number shall be no greater than the maximum number of Shares that CSNY may purchase on such Valuation Date under Rule 10b-18 (as defined below); that if Counterparty does not timely provide such notice on any Valuation Date, the Daily Number of Shares shall be 300,000 for such date.  For any Valuation Date in a Plan Period, the Daily Number of Shares shall be 300,000.  Notwithstanding the foregoing, (i) the aggregate of the Daily Number of Shares for all valuation Dates shall not exceed the Number of Shares and (ii) the Daily Number of Shares for the Final Valuation Date shall equal the Number of Shares the aggregate of the Daily Number of Shares for all prior Valuation Dates.
+provided
+minus
+               Plan Period:                           The period that commences on the date on which  Counterparty notifies CSNY that the Transaction shall constitute a plan or agreement of the type contemplated in Rule 10b5-1(c) of the Exchange Act (as defined below) (a "") and ends on the earlier of the Settlement Date or the Cash Settlement Date, as the case may be, or the next Plan Termination Date.
+Plan
+               Plan Termination Date:           The date on which Counterparty notifies CSNY that the Transaction shall no longer constitute a Plan.
+               Valuation Date:                      Any Scheduled Trading Day in the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, that is not a Valuation Disruption Day.
+               Valuation Disruption Day:      A Scheduled Trading Day designated as such pursuant to the provisions of .
+Market Disruption Event
+               Market Disruption Event:       Section 6.3(a) of the Definitions is hereby amended by replacing clause (ii) thereof in its entirety with the following: "(ii) an Exchange Disruption at any time prior to the relevant Valuation Time on the relevant Valuation Date, or" and inserting immediately following clause (iii) thereof the following: "; in each case that the Calculation Agent determines is material."
+              
+                                                            Notwithstanding anything to the contrary in the Definitions, for each Scheduled Trading Day in the Price Adjustment Period or the Cash Settlement Pricing Period (i) that is a Disrupted Day or a day designated as a Disrupted Day pursuant to Section 5.6 or Section 7 hereof or (ii) on which CSNY or its affiliates (collectively, "") reasonably determine that it would be appropriate, in light of any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by CS), for CS to refrain from purchasing Shares in connection with this Transaction or to purchase fewer than the number of Shares that it would otherwise purchase in connection with this Transaction on such day, CSNY may, by written notice to Counterparty at any time on or prior to the Price Adjustment Period Termination Date or the final Scheduled Trading Day of the Cash Settlement Pricing Period, as the case may be, in its good faith sole discretion, elect to designate such day a Valuation Disruption Day and extend the Price Adjustment Period or the Cash Settlement Pricing Period, as applicable, and postpone the Price Adjustment Period Termination Date by an additional Scheduled Trading Day.
+CS
+               Cash Settlement:                    Counterparty may, in lieu of its obligation to deliver Shares in accordance with the "Net Share Settlement" provisions hereof, by written notice to CSNY at any time no later than the opening of trading on the fifth Scheduled Trading Day prior to the Price Adjustment Period Termination Date, elect to pay to CSNY on the Cash Settlement Date an amount in cash equal to the Cash Settlement Amount.
+               Cash Settlement Date:            The Exchange Business Day immediately following the last day of the Cash Settlement Pricing Period.
+               Cash Settlement Amount:       The Counterparty Share Delivery Amount the arithmetic average of the Daily 10b-18 VWAP Prices for each Valuation Date during the Cash Settlement Pricing Period.
+multiplied
+by
+               Cash Settlement Pricing
+               Period:                                  The number of Valuation Dates so specified by CSNY following receipt by CSNY of the notice described in the Cash Settlement provision hereof, commencing on the Scheduled Trading Day immediately following the Price Adjustment Period Termination Date.
+               Calculation Agent:                  CSNY.
+               Credit Support Documents:    CSNY:             None
+                                                            Counterparty:   None
+            Share Adjustments:
+            Potential Adjustment
+            Events: Section 11.2(e)(iii) of the Definitions shall be deleted in its entirety.        
+            Method of Adjustment:             Calculation Agent Adjustment
+           
+            Extraordinary Events:
+                 Consequences of Merger Events:
+                 (a)   Share-for-Share:           Modified Calculation Agent Adjustment; , any adjustment shall not be made to account for changes in expected dividends or stock loan rate.
+provided however
+                 (b)   Share-for-Other:           Cancellation and Payment (Calculation Agent Determination);, the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate.
+provided however
+                 (c)   Share-for-Combined:    Component Adjustment
+                        Determining Party:        CSNY
+                 Tender Offer:                       Applicable
+                 Consequences of Tender Offer:
+                 (a)   Share-for-Share:           Modified Calculation Agent Adjustment; , any adjustment shall not be made to account for changes in expected dividends or stock loan rate.
+provided however
+                 (b)   Share-for-Other:           Cancellation and Payment (Calculation Agent Determination);, the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate.
+provided however
+                 (c)   Share-for-Combined:    Component Adjustment
+                         Determining Party:       CSNY
+               Nationalization, Insolvency
+               or Delisting:                           Cancellation and Payment (Calculation Agent Determination);, the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate; in addition to the provisions of Section 12.6(a)(iii) of the Definitions, it shall also constitute a Delisting if the Shares are not immediately re-listed, re-traded or re-quoted on any of the New York Stock Exchange, the American Stock Exchange, the NASDAQ Global Market or the NASDAQ Global Select Market (or their respective successors); if the Shares are immediately re-listed, re-traded or re-quoted on any such exchange or quotation system, such exchange or quotation system shall be deemed to be the Exchange.
+provided however
+provided further
+Additional Disruption Events:
+                  (a) Change-in-Law:            Applicable
+                  (b) Insolvency Filing:           Applicable
+Determining Party:                                CSNY
+Additional Termination Event:                CSNY may designate any Scheduled Trading Day as an Early Termination Date with respect to the Transaction if at any time during the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, Counterparty declares a cash dividend the amount per share of which differs from its Ordinary Cash Dividend Amount. In such case, this Transaction shall be the sole Affected Transaction and Counterparty shall be the sole Affected Party.  "" means USD 0.1275 per Share for the first dividend or distribution, USD 0.1300 per Share or USD 0.1275 per Share for the second dividend or distribution, in each case, on the Shares for which the ex-dividend date falls within a regular dividend period of the Issuer, and zero for any subsequent dividend or distribution on the Shares for which the ex-dividend date falls within the same regular dividend period of the Issuer.  In calculating any payment payable by one party to the other pursuant to an Additional Termination Event, CSNY shall not take into account any expected dividends or stock loan rate.
+Ordinary Cash Dividend Amount
+Non-Reliance/ Agreements and Acknowledgments Regarding Hedging Activities/ Additional Acknowledgments:                               Applicable
+CSNY's Contact Details for Purpose of Giving
+Notice:                                                 Address for notices and communications to CSNY (other than by facsimile)(for all purposes):
+                                             Credit Suisse, New York Branch
+ 
+                                             Eleven Madison Avenue
+                                             New York, NY 10010
+                                             Attn: Senior Legal Officer
+                                             Tel: (212) 538-4488
+                                             Fax: (212) 325-4585
+ 
+For payments and deliveries:
+Attn: DSG Settlements Manager
+Tel: (212) 538-9810
+Fax: (212) 325-0275
+ 
+For all other communications:
+Attn: DSG Equities Documentation Manager
+Tel: (212) 538-4437
+Fax: (212) 325-8719
+Counterparty's Contact Details for Purpose of Giving Notice:                                       Federated Department Stores, Inc.                                                             7 West Seventh Street                                                             Cincinnati, OH 45202                                                             Attention:  Dennis J. Broderick,                                                             Senior Vice President, General Counsel and Secretary                                                             Tel:  (513) 579-7560                                                             Fax:  (513) 579-7354
+With a copy to: Federated Department Stores, Inc. 7 West Seventh Street Cincinnati, OH 45202 Attention:  Brian Szames, Treasurer Tel:  (513) 579-7182 Fax:  (513) 579-7393
+3.     :
+Share Settlement
+3.1   Upon (x) the occurrence or effective designation of an Early Termination Date in respect of the Transaction or (y) the occurrence of an Extraordinary Event that results in the cancellation or termination of the Transaction pursuant to Section 12.2, 12.3, 12.6 or 12.9 of the 2002 Definitions (any such event as described in clause (x) or (y) above, an "") (except, in the case of clause (y), an Extraordinary Event that is a Nationalization, Insolvency, a Merger Event or a Tender Offer, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash), if one party would owe any amount to the other party pursuant to Section 6(d)(ii) of the Agreement or any Cancellation Amount pursuant to Section 12.2, 12.3, 12.6 or 12.9 of the 2002 Definitions (any such amount, a ""), then on the date on which any Payment Amount is due, in lieu of any payment or delivery of such Payment Amount, Buyer may elect, by prior written notice to Seller, that the party owing such amount shall deliver to the other party a number of Shares (or, in the case of a Merger Event, Tender Offer, Nationalization or Insolvency, a number of units, each comprising the number or amount of the securities or property that a hypothetical holder of one Share would receive in such Extraordinary Event (each such unit, an "" and, the securities or property comprising such unit, "")) with a value equal to the Payment Amount based on the market value of the Shares (or such Alternative Termination Property) as of the Early Termination Date or the date as of which the Cancellation Amount is determined, as the case may be, as determined by the Calculation Agent; that, notwithstanding anything to the contrary in the Definitions or the Agreement, any Payment Amount shall be determined without taking into account any expected dividend, interest rate, stock loan rate or liquidity relevant to the Shares; that in determining the composition of any Alternative Termination Delivery Unit, if the relevant Extraordinary Event involves a choice of consideration to be received by holders, such holder shall be deemed to have elected to receive the maximum possible amount of cash.   
+Early Termination Event
+Payment Amount
+Alternative Termination Delivery Unit
+Alternative Termination Property
+provided
+provided further
+3.2   Notwithstanding anything to the contrary in this Confirmation, Counterparty acknowledges and agrees that CSNY's right to receive or CSNY's obligation to deliver, as the case may be, any Shares (or any other class of voting securities of Counterparty) shall be suspended, in whole or in part, if such delivery or receipt would result in the ultimate parent entity of CSNY directly or indirectly beneficially owning  (as such term is defined for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended (the "")) in excess of 9.0% of the outstanding Shares or any other class of voting securities of Counterparty.
+Exchange Act
+        If, on any day, any delivery or receipt of Shares by CSNY is suspended, in whole or in part, as a result of this provision, (i) any purported receipt or delivery of Shares shall be void and have no effect; and (ii) the respective obligations of Counterparty and CSNY to make or accept such receipt or delivery shall not be extinguished and such receipt or delivery shall be effected over time as promptly as practicable after CSNY determines, in a commercially reasonable manner, that such receipt or delivery would not result in its ultimate parent entity directly or indirectly beneficially owning in excess of 9.0% of the outstanding Shares or any other class of voting securities of Counterparty.
+3.3   Notwithstanding Section 9.11 of the Definitions, but subject to the last paragraph of this Section 3.3, the parties acknowledge that Shares delivered as part of Counterparty Share Delivery Amount or pursuant to this Section 3 may be Unregistered Shares.  For the purposes hereof, "" means Shares that have not been registered pursuant to an effective registration statement under the Securities Act of 1933, as amended (the "") or any state securities laws ("") or Shares that cannot otherwise be freely sold, transferred, pledged or otherwise disposed of without registration under the Securities Act unless such sale, transfer, pledge or other disposition is made in a transaction exempt from or not subject to registration thereunder.
+Unregistered Shares
+Securities Act
+Blue Sky Laws
+        Upon request by CS, Counterparty agrees to promptly remove, or cause to be removed, any legends referring to any transfer restrictions from such Unregistered Shares upon delivery by CS to Counterparty of a seller's representation letter in the form customarily delivered by CS in connection with resales of restricted securities pursuant to Rule 144 under the Securities Act in order to substantiate the legality of such resale, each without any further requirement for the delivery of any certificate, consent, agreement, opinion of counsel, notice or any other document, any transfer tax stamps or payment of any other amount or any other action by CS; that at the time of such request, CS has satisfied all holding period and other requirements of Rule 144 applicable to CS.
+provided
+        Notwithstanding anything to the contrary in this Confirmation, at the election of CS by notice to Counterparty no later than two Exchange Business Days prior to the Price Adjustment Period Termination Date, any delivery of Shares by Counterparty as part of the Counterparty Share Delivery Amount or pursuant to this Section 3 shall comply with the terms of Annex A hereof.
+4.     :
+Additional Agreements of the Parties
+4.1   For the avoidance of doubt, the last sentence of the first paragraph of 6(e) of the Agreement shall not apply with respect to this Transaction.
+4.2   CSNY agrees that in the event of the bankruptcy of Counterparty, CSNY shall not have rights or assert a claim that is senior in priority to the rights and claims available to the shareholders of the common stock of Counterparty; that nothing herein shall limit or shall be deemed to limit CSNY's right to pursue remedies in the event of a breach by Counterparty of its obligations and agreements with respect to this Transaction; and that in pursuing a claim against Counterparty in the event of a bankruptcy, insolvency or dissolution with respect to Counterparty, CSNY's rights hereunder shall rank on a parity with the rights of a holder of Shares enforcing similar rights under a contract involving Shares.
+provided, however,
+provided further
+4.3   The parties acknowledge that this Transaction is not secured by any collateral that would otherwise secure the obligations of Counterparty hereunder.
+4.4   The parties intend that (A) each of the Agreement and this Confirmation is a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code (Title 11 of the United States Code) (the ""), with respect to which each payment and delivery hereunder or thereunder or in connection herewith or therewith is a "settlement payment" within the meaning of Sections 362 and 546 of the Bankruptcy Code, (B) the rights given to CSNY under the Agreement and under this Confirmation upon the occurrence of an Event of Default constitute a "contractual right" to cause the liquidation, termination or acceleration of, and to offset or net out termination values or payment amounts and set off mutual debts and claims under or in connection with, a "securities contract" as such terms are used in Sections 555, 561, and 362(b)(6) of the Bankruptcy Code, and (C) CSNY is entitled to the protections afforded by, among other sections, Sections 362(b)(6), 362(o), 546(e), 555 and 561 of the Bankruptcy Code.
+Bankruptcy Code
+5.     :
+Rule 10b-18
+ 
+5.1   Any purchases or sales of Shares by CS will be conducted independently of Counterparty.  The timing of any CS purchases or sales of Shares, the number of Shares thus purchased or sold on any day, the price paid or received per Share for any CS purchases or sales of Shares and the manner in which any CS purchases or sales of Shares are made, including without limitation whether such CS purchases or sales are made on any securities exchange or privately, shall be within the sole discretion of CS.
+5.2   CS shall effect any purchases of Shares in connection with this Transaction in a manner that would, if CS were Counterparty or an "affiliated purchaser" (as such term is defined under Rule 10b-18 ("") under the Exchange Act) of Counterparty, be subject to the safe harbor provided by Rule 10b-18(b) or otherwise in a manner that CS, in good faith, believes is in compliance with applicable requirements.
+Rule 10b-18
+5.3   From the date hereof to the Price Adjustment Period Termination Date and on any day during the Cash Settlement Pricing Period, Counterparty will effect all of its purchase transactions in Shares through Credit Suisse Securities (USA) LLC. 
+5.4   Upon request by CSNY, Counterparty shall, at least one day prior to the first day of the Price Adjustment Period, notify CSNY of the total number of Shares purchased in Rule 10b-18 purchases of blocks pursuant to the once-a-week block exception contained in Rule 10b-18(b)(4) by or for Counterparty or any of its affiliated purchasers during each of the four calendar weeks preceding the first day of the Price Adjustment Period and during the calendar week in which the first day of the Price Adjustment Period occurs ("Rule 10b-18 purchase", "blocks" and "affiliated purchaser" each being used as defined in Rule 10b-18).
+5.5   Neither Counterparty nor any of its affiliates shall take any action that would cause any CS purchases of Shares in connection with this Transaction not to meet the requirements of the safe harbor provided by Rule 10b-18 under the Exchange Act if such purchases were made by Counterparty.  Without limiting the foregoing, Counterparty shall not designate a Daily Number of Shares for any Valuation Date in excess of the Number of Shares it would be permitted to purchase on such date pursuant to the safe harbor in Rule 10b-18(b) (taking into account any other purchases by Counterparty or its "affiliated purchasers" (as defined in Rule 10b-18) on such day).
+5.6   Notwithstanding anything to the contrary herein or in the Definitions, to the extent that an Announcement Date for a potential Merger Transaction occurs during the Price Adjustment Period:
+(a)    Promptly after request from CSNY, Counterparty shall provide CSNY with written notice specifying (i) Counterparty's average daily Rule 10b-18 purchases (as defined in Rule 10b-18) during the three full calendar months immediately preceding the Announcement Date that were not effected through CS, and (ii) the number of Shares purchased pursuant to the proviso in Rule 10b-18(b)(4) for the three full months preceding the Announcement Date.  Such written notice shall be deemed to be a certification by Counterparty to CSNY that such information is true and correct.  Counterparty understands that CSNY will use this information in calculating the trading volume for purposes of Rule 10b-18; and
+(b)   CSNY may in its good faith sole discretion, if it determines the resulting reduction in permissible volume of Rule 10b-18 purchases to be material, designate one or more Scheduled Trading Days in the period from and including the public announcement thereof to and including the earlier of the completion of such transaction or the completion of the vote by target shareholders to be Disrupted Days and extend the Price Adjustment Period Termination Date by the number of Disrupted Days so designated.
+For the avoidance of doubt, "" in this Section 5.6 means any merger, acquisition or similar transaction involving a recapitalization as contemplated by Rule 10b-18(a)(13)(iv).
+Merger Transaction
+6.     :
+Indemnification and Contribution
+6.1  
+Indemnification by Counterparty:
+ 
+Counterparty agrees to indemnify and hold harmless CSNY, its affiliates, their respective directors, officers, employees, agents, advisors, brokers and representatives and each person who controls CSNY or its affiliates within the meaning of either the Securities Act or the Exchange Act against, and Counterparty agrees that no indemnified party shall have any liability to Counterparty or any of its affiliates, officers, directors, or employees for, any losses, claims, damages, liabilities (whether direct or indirect, in contract, tort or otherwise) or expenses, joint or several, to which any indemnified party may become subject under the Securities Act, the Exchange Act or other federal or state statutory law or regulation, at common law or otherwise, insofar as such losses, claims, damages, liabilities or expenses (or actions, claims, investigations or proceedings in respect thereof, whether commenced or threatened) (i) arise out of or relate to (A) actions or failures to act by Counterparty or (B) actions or failures to act by an indemnified party with the consent of, upon the direction of, Counterparty or (ii) otherwise arise out of or relate to the Transaction or any related transactions. The foregoing provisions of this Section 6.1 shall not apply to the extent that any loss, claim, damage, liability or expense is found in a final and nonappealable judgment by a court to have resulted primarily from a material breach by CSNY of the Agreement or the gross negligence or willful misconduct of CSNY. Counterparty agrees to reimburse promptly each such indemnified party for any legal or other expenses reasonably incurred by them in connection with investigating or defending any such loss, claim, damages, liability, expense or action.  This indemnity agreement will be in addition to any liability which Counterparty may otherwise have.
+ 
+6.2  :
+Contribution
+        If the indemnification provided for above is unavailable to any indemnified party in respect of any losses, claims, damages, liabilities or expenses referred to herein, then Counterparty, in lieu of indemnifying such indemnified party, shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages, liabilities or expenses, in such proportion as is appropriate to reflect not only the relative fault of Counterparty on the one hand and of CSNY on the other in connection with the statements or omissions which resulted in such losses, claims, damages, expenses or liabilities, but also any other relevant equitable considerations.  The relative fault of Counterparty on the one hand and CSNY on the other shall be determined by reference to, among other considerations, whether the misstatement or alleged misstatement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by Counterparty or by CSNY and the parties' relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.  The amount paid or payable by a party as a result of the losses, claims, damages, liabilities and expenses referred to above shall be deemed to include any legal or other fees or expenses reasonably incurred by such party in connection with investigating or defending any action or claim.  The parties agree that it would not be just and equitable if contribution pursuant to this Section 6.2 were determined by a method of allocation that does not take account of the equitable considerations referred to in this paragraph.  No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+7.     :
+Distribution Event
+        Counterparty represents that it is not engaged as of the Trade Date in a distribution, as such term is used in Regulation M under the Exchange Act, other than a distribution referred to in Rules 102(b) and 102(c) of Regulation M (a "").  On any day prior to the second Scheduled Trading Day immediately following the last day of the later of the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, neither Counterparty nor any of its affiliates or agents shall make a Distribution of Shares, or any security for which the Shares are a reference security (as defined in Regulation M) that would, in the view of CSNY, preclude Counterparty from purchasing Shares or cause any such purchases to violate any law, rule or regulation.  If, notwithstanding the provisions of this Section 7, on any Scheduled Trading Day during the Price Adjustment Period or the Cash Settlement Pricing Period Counterparty or any of its affiliates or agents shall engage in any Distribution, CSNY may, in its good faith sole discretion, designate such day a Disrupted Day and, in connection with such designation, extend the Price Adjustment Period Termination Date or the Cash Settlement Pricing Period, as applicable, by one Valuation Day for each day that such Distribution continues.
+Distribution
+        If a Distribution occurs, then Counterparty agrees that it will provide to CSNY at least one Scheduled Trading Day's notice of such Distribution and will use its reasonable efforts to cause such Distribution to be completed or otherwise terminated as soon as reasonably practicable given the circumstances of the Distribution, it being understood that it is fully within Counterparty's discretion to undertake transactions pursuant to Regulation M.
+8.     :
+Additional Representations and Warranties of Counterparty
+8.1   Counterparty hereby represents and warrants to CSNY that:
+(a)    This Transaction shall be entered into
+(i)          in connection with the continuation of a duly authorized Share repurchase program to be publicly announced on the Trade Date; and
+            (ii)         solely for the purposes stated in such public disclosures.
+(b)    As of the Trade Date, each Valuation Date that is not in a Plan Period and the date, if any, as of which Counterparty elects that "Cash Settlement" shall apply, it has complied with all applicable law, rules and regulations in connection with disclosure of all material information with respect to its business, operations or condition (financial or otherwise), and has filed such disclosure as required.  As of the date hereof after giving effect to the Transaction and as of each day until its obligations under this Transaction are satisfied it can purchase the Number of Shares in compliance with applicable law.
+(c)    As of the Trade Date, each Valuation Date that is not in a Plan Period and the date, if any, as of which Counterparty elects that "Cash Settlement" shall apply, all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act, when considered as a whole (with the more recent such reports and documents deemed to amend or supersede inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or any omission of a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.  On the Trade Date, each Valuation Date that is not in a Plan Period and the date on which Counterparty elects "Cash Settlement", Counterparty is not in possession of any material nonpublic information regarding Counterparty or the Shares.
+(d)    During a Plan Period, (i) the parties intend for the Transaction to comply with the requirements of Rule 10b5-1(c)(1)(i)(B) under the Exchange Act and this Confirmation and the Agreement to constitute a binding contract, instruction or plan satisfying the requirements of 10b5-1(c) and to be interpreted to comply with the requirements of Rule 10b5-1(c); (ii) the parties agree that they will not communicate in any way regarding CS's purchases;  (iii) Counterparty and its agents or representatives shall not have, and shall not attempt to exert, any influence over how, when or whether CS effects purchases of Shares and (iv) Counterparty has not entered into or altered any hedging transaction relating to the Shares corresponding to or offsetting the Transaction.
+(e)  Counterparty is entering into this Transaction in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b5-1. Counterparty also acknowledges and agrees that any amendment, modification, waiver or termination of this Confirmation must be effected in accordance with the requirements for the amendment or termination of a "plan" as defined in Rule 10b5-1(c).  Without limiting the generality of the foregoing, any such amendment, modification, waiver or termination during a Plan Period shall be made in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b-5, and no such amendment, modification, waiver or termination shall be made during a Plan Period at any time at which Counterparty is aware of any material non-public information regarding Counterparty or the Shares.
+(f)     Counterparty is, and shall be as of the date of any payment or delivery by Counterparty hereunder, solvent and able to pay its debts as they come due, with assets having a fair value greater than liabilities and with capital sufficient to carry on the businesses in which it engages.
+8.2   Counterparty hereby represents and warrants that, based on the facts and circumstances existing as of the date hereof, it is not prohibited by law, contract or otherwise from purchasing the Number of Shares, and that on each Valuation Date that is not in a Plan Period, it is not prohibited by law, contract or otherwise from purchasing Shares in a number equal to the Daily Number of Shares for such date.
+9.     :
+Additional Covenants of Counterparty
+        Counterparty shall not at any time prior to the termination of this Transaction communicate, directly or indirectly, any material nonpublic information concerning itself or the Shares or purchases or sales of Shares by CS to any Relevant CSNY Personnel.  For purposes hereof, "" means any employee of CS, except employees that CSNY has notified Counterparty in writing are not Relevant CSNY Personnel.
+Relevant CSNY Personnel
+10.   :
+Additional Representations, Warranties and Covenants
+10.1 As this Transaction constitutes, or may constitute, the sale by CSNY to Counterparty of a security or securities (as defined in the Securities Act), in addition to the representations contained in Section 3 of the Agreement, Counterparty hereby represents to CSNY, in accordance with Section 3 of the Agreement, as follows:
+        (a)            Counterparty is acquiring such securities for its own account as principal, for investment purposes only, and not with a view to, or for, resale, distribution or fractionalisation thereof, in whole or in part, and no other person has a direct or indirect beneficial interest in any such securities acquired by Counterparty;
+        (b)           Counterparty represents and warrants that it qualifies as an "eligible contract participant" as that term is defined in the U.S. Commodity Exchange Act, as amended, and is a "qualified investor" as that term is defined in the Exchange Act;
+        (c)            Counterparty represents and warrants that it is not an "investment company" as that term is defined in the Investment Company Act of 1940, as amended;
+(d)           Counterparty understands that the offer and sale by CSNY of such securities are intended to be exempt from registration under the Securities Act.  In furtherance thereof, Counterparty represents and warrants that (i) it has the financial ability to bear the economic risk of its investment and has adequate means of providing for its current needs and other contingencies, (ii) it is experienced in investing in options and similar instruments and has determined that such securities are a suitable investment for it, (iii) it is an institution that qualifies as an "accredited investor" as that term is defined in Regulation D under the Securities Act; and
+        (e)            Counterparty has been given the opportunity to ask questions of, and receive answers from, CSNY concerning the terms and conditions of such securities and concerning the financial condition and business operations of CSNY and has been given the opportunity to obtain such additional information necessary in order for Counterparty to evaluate the merits and risks of purchase of such securities to the extent CSNY possesses such information or can acquire it without unreasonable effort or expense.
+10.2 Counterparty hereby acknowledges that it understands and agrees that disposition of any such securities is restricted under the Agreement, the Securities Act and state securities laws.  For example, such Securities have not been registered under the Securities Act or under the securities laws of certain states and, therefore, cannot be resold, pledged, assigned or otherwise disposed of unless they have been registered under the Securities Act and under the applicable laws of such states or an exemption from such registration is available.
+10.3 CSNY hereby represents and warrants to Counterparty that, for U.S. federal income tax purposes: (i) it is a beneficial owner of each payment received or to be received under this Confirmation; (ii) each such payment received under this Confirmation will be effectively connected with its conduct of a trade or business in the United States; and (iii) Credit Suisse Securities (USA) LLC is an entity that is disregarded as separate from its owner, Credit Suisse (USA) Inc., which is a "United States person" as defined in Section 7701(a)(30) of the Internal Revenue Code.  Any successor entity to CSNY or Credit Suisse Securities (USA) LLC shall make such representations and provide such documents as are necessary to ensure that any payments made pursuant to this transaction are free of U.S. withholding tax, but only to the extent that it is reasonably feasible, legally and commercially, to do so.
+11.   :
+Transfer
+ 
+        Notwithstanding anything to the contrary in the Agreement, CSNY may assign or transfer its rights or obligations under this Transaction, in whole or in part, to any of its affiliates without the prior written consent of Counterparty, the senior unsecured debt rating ("") of such affiliate (or any guarantor of its obligations under the transferred Transaction) is equal to or greater than the Credit Rating of CSNY as of the Trade Date, as specified by S&P or Moody's, and that Counterparty shall not incur any additional costs, expenses or other economic loss (including any costs or expenses relating to any additional withholding) as a result of any such assignment or transfer.
+provided that
+Credit Rating
+provided further
+12.   :
+Account Details
+        Payments to CSNY:                     To be advised
+        Payments to Counterparty:            To be advised
+13.   :
+Governing Law; Waiver of Jury Trial
+13.1     The Agreement and this Confirmation, and all disputes arising out of or in connection with the Agreement and this Confirmation or the subject matter hereof, will be governed by and construed in accordance with the laws of the State of New York without reference to choice of law doctrine and each party hereby submits to the non-exclusive jurisdiction of the Courts of the State of New York or the U.S. federal courts in each case located in the Borough of Manhattan in New York City.
+13.2    
+CSNY and Counterparty hereby irrevocably waive any and all right to trial by jury in any legal proceeding
+arising out of or related to the Agreement, this Confirmation or the Transaction contemplated hereby.
+14.   :
+Tax Disclosure
+Notwithstanding any provision in this Confirmation, in connection with Section 1.6011-4 of the Treasury Regulations, the parties hereby agree that each party (and each employee, representative, or other agent of such party) may disclose to any and all persons, without limitation of any kind, the U.S. tax treatment and U.S. tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to such party relating to such U.S. tax treatment and U.S. tax structure, other than any information for which nondisclosure is reasonably necessary in order to comply with applicable securities laws.
+15.  
+Additional Elections:
+ 
+(a)        The Termination Currency shall be U.S. dollars.
+            (b)        For purposes of Section 6(e) of the Agreement, Second Method and Loss shall apply.
+            (c)        The "Cross-Default" provisions of Section 5(a)(vi) of the Agreement shall apply to CSNY and Counterparty.  "Specified Entity" for purposes of Section 5(a)(vi) of the Agreement shall  mean any entity that is a "significant subsidiary" (as defined in Rule 1-02(w) of Regulation S-X) of CSNY or Counterparty, as applicable.  The "Threshold Amount" shall be shall be $100,000,000 with respect to CSNY and shall be $100,000,000 with respect to Counterparty.  Instead of the definition in Section 14 of the Agreement, "Specified Indebtedness" shall mean any obligation (whether present or future, contingent or otherwise, as principal or surety or otherwise) (a) in respect of borrowed money, and/or (b) in respect of any Specified Transaction (except that, for this purpose only, the words "and any other entity" shall be substituted for the words "and the other party to this Agreement (or any Credit Support Provider of such other party or any applicable Specified Entity of such other party)" where they appear in the definition of Specified Transaction).
+            (d)        The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the ISDA Master Agreement shall apply to CSNY and Counterparty.
+(e)        The "Automatic Early Termination" provision of Section 6(a) of the ISDA Master Agreement will not apply to CSNY and will not apply to Counterparty.
+Please confirm that the foregoing correctly sets forth the terms of our agreement by signing and returning to us a copy of this Confirmation.
+                                                                           Yours sincerely,
+                                                                          
+                                                                           CREDIT SUISSE,                                                                            NEW YORK BRANCH
+                                                                          
+                                                                           By:     ____________________________
+                                                                           Name:          
+                                                                           Title: 
+Agreed to as of the date first above written.
+FEDERATED DEPARTMENT STORES, iNC.
+By:   
+                                                  
+Name: 
+Title:    
+ 
+ 
+Share Delivery Conditions
+1.         If CSNY has elected that this Annex A applies to the delivery of Shares by Counterparty, Counterparty may only deliver Shares if:
+(a)        a registration statement covering public resale of such Shares by CSNY (the "") shall have been filed with, and declared effective by, the Securities and Exchange Commission under the Securities Act on or prior to the Price Adjustment Period Termination Date (or, with respect to Shares delivered pursuant to Section 3 of the Confirmation, the Merger Date, the Tender Offer Date or the date of the occurrence of the Insolvency, Delisting or the Early Termination Date (as the case might be)) (the ""), and no stop order shall be in effect with respect to the Registration Statement; a printed prospectus relating to the Shares (including any prospectus supplement thereto, the "") shall have been delivered to CSNY, in such quantities as CSNY shall reasonably have requested, on or prior to the Registration Date;
+Registration Statement
+Registration Date
+Prospectus
+(b)        the form and content of the Registration Statement and the Prospectus (including, without limitation, any sections describing the plan of distribution) shall be satisfactory to CSNY;
+(c)        as of or prior to the Registration Date, CSNY and its agents shall have been afforded a reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities and the results of such investigation are satisfactory to CSNY, in its discretion; and
+(d)        as of the Registration Date, an agreement (the "") shall have been entered into with CSNY in connection with the public resale of the Shares by CSNY substantially similar to underwriting agreements customary for underwritten offerings of equity securities, in form and substance satisfactory to CSNY, which Underwriting Agreement shall include, without limitation, provisions substantially similar to those contained in such underwriting agreements relating to the indemnification of, and contribution in connection with the liability of, CSNY and its affiliates.
+Underwriting Agreement
+2.         If CSNY has elected that this Annex A applies to the delivery of Shares by Counterparty, but Counterparty is unable to comply with any of the terms of paragraph 1 above, or CSNY elects that this Paragraph 2 shall apply in lieu of Paragraph 1, Counterparty shall either:
+(a)        deliver a number of Unregistered Shares equal to (x) the Cash Settlement Amount (calculated based on the average Daily 10b-18 VWAP Price for one or more Scheduled Trading Days as determined by CSNY) or other applicable amount to be paid by delivery of Shares by Counterparty under the Confirmation (y) the price per Unregistered Share that CS is able to secure from buyers by commercially reasonable efforts, (i) all such Unregistered Shares shall be delivered to CSNY (or any affiliate of CSNY designated by CSNY) pursuant to the exemption from the registration requirements of the Securities Act provided by Section 4(2) thereof; (ii) as of or prior to the Registration Date, CSNY and any potential purchaser of any such shares from CSNY (or any affiliate of CSNY designated by CSNY) identified by CSNY shall have been afforded a commercially reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for private placements of equity securities (including, without limitation, the right to have made available to them for inspection all financial and other records, pertinent corporate documents and other information reasonably requested by them); and (iii) as of the Registration Date, an agreement (a "") shall have been entered into between Counterparty and CSNY (or any affiliate of CSNY designated by CSNY) in connection with the private placement of such shares by Counterparty to CSNY (or any such affiliate) and the private resale of such shares by CSNY (or any such affiliate), substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance commercially reasonably satisfactory to CSNY, which Private Placement Agreement shall include, without limitation, provisions substantially similar to those contained in such private placement purchase agreements relating to the indemnification of, and contribution in connection with the liability of, CSNY and its affiliates, and shall provide for the payment by Counterparty of all reasonable fees and expenses in connection with such resale, including all reasonable fees and expenses of counsel for CSNY, and shall contain representations, warranties and agreements of Counterparty reasonably necessary or advisable to establish and maintain the availability of an exemption from the registration requirements of the Securities Act for such resales; or
+divided
+by
+provided that
+Private Placement Agreement
+(b)        elect that Cash Settlement shall apply in lieu of Net Share Settlement, provided that CSNY shall in its reasonable discretion determine the commencement date of the Cash Settlement Pricing Period to account for Counterparty's failure to elect Cash Settlement in accordance with the terms of the Transaction, or, if applicable, pay in cash the amount that would have been owed but for the application of Section 3 of the Confirmation.
+3.         Counterparty acknowledges that any Unregistered Shares sold pursuant hereto may be sold at prices that are less than the prices that might otherwise be available if such Shares were to be sold pursuant to a registered public offering or at prices observed in the secondary market.
+
+ 
+FEBRUARY 26, 2007 VARIABLE TERM ACCELERATED SHARE REPURCHASE TRANSACTION
+To: Federated Department Stores, Inc. 7 West Seventh Street Cincinnati, OH   45202
+From: Credit Suisse, New York Branch Eleven Madison Avenue New York, NY  10010
+________________________________________________________________________________
+Dear Sirs:
+This letter agreement (this "") confirms the terms and conditions of the accelerated share repurchase transaction (the "") to be entered into between Federated Department Stores, Inc. ("") and Credit Suisse, New York Branch ("") on the Trade Date specified below.  This Confirmation constitutes a "Confirmation" under the Agreement specified below.
+Confirmation
+Transaction
+Counterparty
+CSNY
+1.     The definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions (the "") (as published by the International Swaps and Derivatives Association, Inc.) are incorporated into this Confirmation.  References herein to a "Transaction" shall be deemed to be references to a "Share Forward Transaction" for purposes of the Definitions.  This Confirmation evidences a complete binding agreement between Counterparty and CSNY as to the terms of the Transaction to which this Confirmation relates.
+Definitions
+        This Confirmation shall supplement, form a part of, and be subject to an agreement (the "") in the form of the 1992 ISDA Master Agreement (Multicurrency - Cross Border), as if, on the date hereof, CSNY and Counterparty had executed that agreement (but without any Schedule other than the provisions in Section 15 of this Confirmation).  In the event of any inconsistency between the Definitions and the Agreement, the Definitions will govern.  In the event of any inconsistency between this Confirmation, on the one hand, and the Definitions or the Agreement, on the other hand, this Confirmation will govern.
+Agreement
+2.     The following terms and conditions shall govern the Transaction:
+General Terms:
+               Trade Date:                           February 27, 2007
+               Buyer:                                   Counterparty.
+               Seller:                                    CSNY.
+            Shares:                                  The common stock, par value $0.01 of Counterparty (sometimes also referred to as the "").
+Issuer
+               Price Adjustment Period
+               Termination Date:                  The earlier of:
+                                                            (i)         the Scheduled Termination Date; and
+                                                            (ii)        the Scheduled Trading Day immediately preceding the Accelerated Termination Date.
+               Scheduled Termination
+               Date:                                     July 26, 2007; subject to adjustment as provided in "Market Disruption Event" below.
+               Accelerated Termination
+               Date:                                     Any Exchange Business Day after April 23, 2007 and prior to the Scheduled Termination Date that is so designated by CSNY by written notice to Counterparty of its intention to terminate the Price Adjustment Period (it being understood that such notice may be given on the Accelerated Termination Date).
+               Price Adjustment Period:       The period commencing on and including the Scheduled Trading Day immediately following the Initial Share Delivery Date and ending on and including the Price Adjustment Period Termination Date.
+Initial Settlement:
+               Prepayment:                          Applicable.
+               Prepayment Amount:             USD 994,500,000
+               Prepayment Date:                  Counterparty will pay to CSNY the Prepayment Amount on the Initial Share Delivery Date.
+               Initial Share Price:                  USD 44.20
+               Number of Shares:                 22,500,000
+               Initial Share Delivery:             CSNY shall deliver a number of shares equal to the Number of Shares to Counterparty on the Initial Share Delivery Date in accordance with Section 9.4 of the Definitions (with the Initial Share Delivery Date deemed to be a "Settlement Date" for purposes of such Section 9.4), against payment by Counterparty of the Prepayment Amount.
+               Initial Share Delivery
+               Date:                                     The day that is three (3) Clearance System Business Days after the date hereof.
+               Exchange:                              New York Stock Exchange
+               Related Exchange(s):             All Exchanges
+                                                                                   
+Final Settlement:
+               Net Share Settlement:            Subject to the "Cash Settlement" provisions hereof, and notwithstanding anything to the contrary in the Definitions, (i) if the Average Reference Price is less than the Initial Share Price, CSNY shall deliver to Counterparty the CSNY Share Delivery Amount, and (ii) if the Average Reference Price is greater than the Initial Share Price, Counterparty shall deliver to CSNY the Counterparty Share Delivery Amount, in either case on the Settlement Date.
+               CSNY Share Delivery
+               Amount:                                A number of Shares, rounded down to the nearest whole Share, equal to (a) the Prepayment Amount the Average Reference Price (b) the Number of Shares, thatin no event shall CSNY be required to deliver more than 45,000,000 Shares (as such number may be adjusted for stock splits or similar events) or as otherwise agreed by the parties.
+divided
+by
+minus
+provided
+               Counterparty Share
+               Delivery Amount:                   A number of Shares, rounded down to the nearest whole Share, equal to (a) the Number of Shares (b) the Prepayment Amount the Average Reference Price, that that if Counterparty delivers Unregistered Shares, Counterparty shall deliver a number of Shares, rounded down to the nearest whole Share, equal to the product of the Counterparty Share Delivery Amount and 1.0075; , in no event shall Counterparty be required to deliver more than 45,000,000 Shares (as such number may be adjusted for stock splits or similar events) or as otherwise agreed by the parties.
+minus
+divided
+by
+provided
+provided
+further
+               Settlement Date:                    The day that is three Exchange Business Days following the Price Adjustment Period Termination Date.
+               Daily Share Reference
+               Price:                                     For each Valuation Date, (a) the 10b-18 volume-weighted average price per Share on the Exchange on such day as published on Bloomberg Page "FD.N <Equity> AQR SEC" (the "") or any successor page thereto, (b) the Daily Reference Price Adjustment specified in Schedule I.
+Daily 10b-18 VWAP Price
+minus
+               Average Reference Price:       The arithmetic average of the Daily Share Reference Prices for each Valuation Date during the Price Adjustment Period.
+               Valuation Date:                      Any Scheduled Trading Day in the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, that is not a Valuation Disruption Day.
+               Valuation Disruption Day:      A Scheduled Trading Day designated as such pursuant to the provisions of .
+Market Disruption Event
+               Market Disruption Event:       Section 6.3(a) of the Definitions is hereby amended by replacing clause (ii) thereof in its entirety with the following: "(ii) an Exchange Disruption at any time prior to the relevant Valuation Time on the relevant Valuation Date, or" and inserting immediately following clause (iii) thereof the following: "; in each case that the Calculation Agent determines is material."
+                                                                       
+Notwithstanding anything to the contrary in the Definitions, for each Scheduled Trading Day in the Price Adjustment Period or the Cash Settlement Pricing Period (i) that is a Disrupted Day or a day designated as a Disrupted Day pursuant to Section 5.6 or Section 7 hereof or (ii) on which CSNY or its affiliates (collectively, "") reasonably determine that it would be appropriate, in light of any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by CS), for CS to refrain from purchasing Shares in connection with this Transaction or to purchase fewer than the number of Shares that it would otherwise purchase in connection with this Transaction on such day, CSNY may, by written notice to Counterparty at any time on or prior to the Price Adjustment Period Termination Date or the final Scheduled Trading Day of the Cash Settlement Pricing Period, as the case may be, in its good faith sole discretion, elect to designate such day a Valuation Disruption Day and extend the Price Adjustment Period or the Cash Settlement Pricing Period, as applicable, by an additional Valuation Date.
+CS
+               Cash Settlement:                    Counterparty may, in lieu of its obligation to deliver Shares in accordance with the "Net Share Settlement" provisions hereof, by written notice to CSNY at any time no later than the opening of trading on the fifth Scheduled Trading Day prior to the Scheduled Termination Date (or, in the case of an Accelerated Termination Date, immediately following receipt of notice from CSNY of the designation of such Accelerated Termination Date), elect to pay to CSNY on the Cash Settlement Date an amount in cash equal to the Cash Settlement Amount.
+               Cash Settlement Date:            The Exchange Business Day immediately following the last day of the Cash Settlement Pricing Period.
+               Cash Settlement Amount:       The Counterparty Share Delivery Amount the arithmetic average of the Daily 10b-18 VWAP Prices for each Valuation Date during the Cash Settlement Pricing Period.
+multiplied
+by
+               Cash Settlement Pricing
+               Period:                                  The number of Valuation Dates so specified by CSNY following receipt by CSNY of the notice described in the Cash Settlement provision hereof, commencing on the Scheduled Trading Day immediately following the Price Adjustment Period Termination Date.
+               Calculation Agent:                  CSNY.
+               Credit Support Documents:    None
+            Share Adjustments:
+                 Potential Adjustment
+                 Events:                                 Section 11.2(e)(iii) of the Definitions shall be deleted in its entirety.        
+                 Method of Adjustment:        Calculation Agent Adjustment.
+           
+            Extraordinary Events:
+                 New Shares:                        In the definition of New Shares in Section 12.1(i) of the Definitions, the text in clause (i) shall be deleted in its entirety and replaced with "publicly quoted, traded or listed on any of the New York Stock Exchange, the American Stock Exchange, the NASDAQ Global Select Market or the NASDAQ Global Market (or their respective successors)".
+                 Consequences of Merger Events:
+                 (a)   Share-for-Share:           Modified Calculation Agent Adjustment; , any adjustment shall not be made to account for changes in expected dividends or stock loan rate.
+provided however
+                 (b)   Share-for-Other:           Cancellation and Payment (Calculation Agent Determination);, the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate.
+provided however
+                 (c)   Share-for-Combined:    Component Adjustment
+                        Determining Party:        CSNY
+                 Tender Offer:                       Applicable
+                 Consequences of Tender Offer:
+                 (a)   Share-for-Share:           Modified Calculation Agent Adjustment; , any adjustment shall not be made to account for changes in expected dividends or stock loan rate.
+provided however
+                 (b)   Share-for-Other:           Cancellation and Payment (Calculation Agent Determination);, the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate.
+provided however
+                 (c)   Share-for-Combined:    Component Adjustment
+                         Determining Party:       CSNY
+Additional Termination Event:                CSNY may designate any Scheduled Trading Day as an Early Termination Date with respect to the Transaction if at any time during the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, Counterparty declares a cash dividend the amount per share of which differs from its Ordinary Cash Dividend Amount. In such case, this Transaction shall be the sole Affected Transaction and Counterparty shall be the sole Affected Party.  "" means USD 0.1275 per Share for the first dividend or distribution, USD 0.1300 per Share or 0.1275 per Share for the second dividend or distribution, in each case, on the Shares for which the ex-dividend date falls within a regular dividend period of the Issuer, and zero for any subsequent dividend or distribution on the Shares for which the ex-dividend date falls within the same regular dividend period of the Issuer.  In calculating any payment payable by one party to the other pursuant to an Additional Termination Event, CSNY shall not take into account any expected dividends or stock loan rate.
+Ordinary Cash Dividend Amount
+Nationalization, Insolvency
+or Delisting:                                          Cancellation and Payment (Calculation Agent Determination); , the calculation of Cancellation Amount shall not take into account any changes in expected dividends or stock loan rate; , in addition to the provisions of Section 12.6(a)(iii) of the Definitions, it shall also constitute a Delisting if the Shares are not immediately re-listed, re-traded or re-quoted on any of the New York Stock Exchange, the American Stock Exchange, the NASDAQ Global Market or the NASDAQ Global Select Market (or their respective successors); if the Shares are immediately re-listed, re-traded or re-quoted on any such exchange or quotation system, such exchange or quotation system shall be deemed to be the Exchange.
+provided however
+provided further
+ 
+Additional Disruption Events:
+                    (a)    Change-in-Law:            Applicable
+                    (b)    Insolvency Filing:           Applicable
+                    (c)     Hedging Disruption:      Applicable
+Determining Party:                                      CSNY
+Non-Reliance/ Agreements and Acknowledgments Regarding Hedging Activities/ Additional Acknowledgments:                               Applicable
+CSNY's Contact Details for Purpose of Giving Notice:                                                 Address for notices and communications to CSNY (other than by facsimile)(for all purposes):
+                                             Credit Suisse, New York Branch
+                                             Eleven Madison Avenue
+                                             New York, NY 10010
+                                             Attn: Senior Legal Officer
+                                             Tel: (212) 538-4488
+                                             Fax: (212) 325-4585
+ 
+For payments and deliveries:
+Attn: DSG Settlements Manager
+Tel: (212) 538-9810
+Fax: (212) 325-0275
+ 
+For all other communications:
+Attn: DSG Equities Documentation Manager
+Tel: (212) 538-4437
+Fax: (212) 325-8719
+Counterparty's Contact Details for Purpose of Giving Notice:                                       Federated Department Stores, Inc.                                                              7 West Seventh Street                                                              Cincinnati, OH 45202                                                              Attention:  Dennis J. Broderick,                                                              Senior Vice President, General Counsel and Secretary                                                              Tel:  (513) 579-7560                                                              Fax:  (513) 579-7354
+With a copy to:
+Federated Department Stores, Inc. 7 West Seventh Street Cincinnati, OH 45202 Attention:  Brian Szames, Treasurer Tel:  (513) 579-7182 Fax:  (513) 579-7393
+3.     :
+Share Settlement
+3.1   Upon (x) the occurrence or effective designation of an Early Termination Date in respect of the Transaction or (y) the occurrence of an Extraordinary Event that results in the cancellation or termination of the Transaction pursuant to Section 12.2, 12.3, 12.6 or 12.9 of the 2002 Definitions (any such event as described in clause (x) or (y) above, an "") (except, in the case of clause (y), an Extraordinary Event that is a Nationalization, Insolvency, a Merger Event or a Tender Offer, in each case, in which the consideration or proceeds to be paid to holders of Shares consists solely of cash), if one party would owe any amount to the other party pursuant to Section 6(d)(ii) of the Agreement or any Cancellation Amount pursuant to Section 12.2, 12.3, 12.6 or 12.9 of the 2002 Definitions (any such amount, a ""), then on the date on which any Payment Amount is due, in lieu of any payment or delivery of such Payment Amount, Buyer may elect, by prior written notice to Seller, that the party owing such amount shall deliver to the other party a number of Shares (or, in the case of a Merger Event, Tender Offer, Nationalization or Insolvency, a number of units, each comprising the number or amount of the securities or property that a hypothetical holder of one Share would receive in such Extraordinary Event (each such unit, an "" and, the securities or property comprising such unit, "")) with a value equal to the Payment Amount based on the market value of the Shares (or such Alternative Termination Property) as of the Early Termination Date or the date as of which the Cancellation Amount is determined, as the case may be, as determined by the Calculation Agent; that, notwithstanding anything to the contrary in the Definitions or the Agreement, any Payment Amount shall be determined without taking into account any expected dividend, interest rate, stock loan rate or liquidity relevant to the Shares; that in determining the composition of any Alternative Termination Delivery Unit, if the relevant Extraordinary Event involves a choice of consideration to be received by holders, such holder shall be deemed to have elected to receive the maximum possible amount of cash.
+Early Termination Event
+Payment Amount
+Alternative Termination Delivery Unit
+Alternative Termination Property
+provided
+provided further
+3.2   Notwithstanding anything to the contrary in this Confirmation, Counterparty acknowledges and agrees that CSNY's right to receive or CSNY's obligation to deliver, as the case may be, any  Shares (or any other class of voting securities of Counterparty) shall be suspended, in whole or in part, if such delivery or receipt would result in the ultimate parent entity of CSNY directly or indirectly beneficially owning  (as such term is defined for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended (the "")) in excess of 9.0% of the outstanding Shares or any other class of voting securities of Counterparty.   
+Exchange Act
+        If, on any day, any delivery or receipt of Shares by CSNY is suspended, in whole or in part, as a result of this provision, (i) any purported receipt or delivery of Shares shall be void and have no effect; and (ii) the respective obligations of Counterparty and CSNY to make or accept such receipt or delivery shall not be extinguished and such receipt or delivery shall be effected over time as promptly as practicable after CSNY determines, in a commercially reasonable manner, that such receipt or delivery would not result in its ultimate parent entity directly or indirectly beneficially owning in excess of 9.0% of the outstanding Shares or any other class of voting securities of Counterparty.   
+3.3   Notwithstanding Section 9.11 of the Definitions, but subject to the last paragraph of this Section 3.3, the parties acknowledge that Shares delivered as part of Counterparty Share Delivery Amount or pursuant to this Section 3 may be Unregistered Shares.  For the purposes hereof, "" means Shares that have not been registered pursuant to an effective registration statement under the Securities Act of 1933, as amended (the "") or any state securities laws ("") or Shares that cannot otherwise be freely sold, transferred, pledged or otherwise disposed of without registration under the Securities Act unless such sale, transfer, pledge or other disposition is made in a transaction exempt from or not subject to registration thereunder.
+Unregistered Shares
+Securities Act
+Blue Sky Laws
+        Upon request by CS, Counterparty agrees to promptly remove, or cause to be removed, any legends referring to any transfer restrictions from such Unregistered Shares upon delivery by CS to Counterparty of a seller's representation letter in the form customarily delivered by CS in connection with resales of restricted securities pursuant to Rule 144 under the Securities Act in order to substantiate the legality of such sale, each without any further requirement for the delivery of any certificate, consent, agreement, opinion of counsel, notice or any other document, any transfer tax stamps or payment of any other amount or any other action by CS; that at the time of such request, CS has satisfied all holding period and other requirements of Rule 144 applicable to CS.
+provided
+Notwithstanding anything to the contrary in this Confirmation, at the election of CS by notice to Counterparty no later than two Exchange Business Days prior to the Scheduled Termination Date (or in the case of an Accelerated Termination Date, no later than the time of designation thereof), any delivery of Shares by Counterparty as part of the Counterparty Share Delivery Amount or pursuant to this Section 3 shall comply with the terms of Annex A hereof.
+4.     :
+Additional Agreements of the Parties
+4.1   For the avoidance of doubt, the last sentence of the first paragraph of 6(e) of the Agreement shall not apply with respect to this Transaction.
+4.2   CSNY agrees that in the event of the bankruptcy of Counterparty, CSNY shall not have rights or assert a claim that is senior in priority to the rights and claims available to the shareholders of the common stock of Counterparty; that nothing herein shall limit or shall be deemed to limit CSNY's right to pursue remedies in the event of a breach by Counterparty of its obligations and agreements with respect to this Transaction; and that in pursuing a claim against Counterparty in the event of a bankruptcy, insolvency or dissolution with respect to Counterparty, CSNY's rights hereunder shall rank on a parity with the rights of a holder of Shares enforcing similar rights under a contract involving Shares.
+provided, however,
+provided further
+4.3   The parties acknowledge that this Transaction is not secured by any collateral that would otherwise secure the obligations of Counterparty hereunder.
+4.4   The parties intend that (A) each of the Agreement and this Confirmation is a "securities contract," as such term is defined in Section 741(7) of the Bankruptcy Code (Title 11 of the United States Code) (the ""), with respect to which each payment and delivery hereunder or thereunder or in connection herewith or therewith is a "settlement payment" within the meaning of Sections 362 and 546 of the Bankruptcy Code, (B) the rights given to CSNY under the Agreement and under this Confirmation upon the occurrence of an Event of Default constitute a "contractual right" to cause the liquidation, termination or acceleration of, and to offset or net out termination values or payment amounts and set off mutual debts and claims under or in connection with, a "securities contract" as such terms are used in Sections 555, 561, and 362(b)(6) of the Bankruptcy Code, and (C) CSNY is entitled to the protections afforded by, among other sections, Sections 362(b)(6), 362(o), 546(e), 555 and 561 of the Bankruptcy Code.
+Bankruptcy Code
+5.     :
+Rule 10b-18
+ 
+5.1   Any purchases or sales of Shares by CS will be conducted independently of Counterparty.  The timing of any CS purchases or sales of Shares, the number of Shares thus purchased or sold on any day, the price paid or received per Share for any CS purchases or sales of Shares and the manner in which any CS purchases or sales of Shares are made, including without limitation whether such CS purchases or sales are made on any securities exchange or privately, shall be within the sole discretion of CS.
+5.2   CS shall effect any purchases of Shares in connection with this Transaction in a manner that would, if CS were Counterparty or an "affiliated purchaser" (as such term is defined under Rule 10b-18 ("") under the Exchange Act) of Counterparty, be subject to the safe harbor provided by Rule 10b-18(b) or otherwise in a manner that CS, in good faith, believes is in compliance with applicable requirements.
+Rule 10b-18
+5.3   From the date hereof to the Price Adjustment Period Termination Date and on any day during the Cash Settlement Pricing Period, Counterparty will effect all of its purchase transactions in Shares through Credit Suisse Securities (USA) LLC. 
+5.4   Upon request by CSNY, Counterparty shall, at least one day prior to the first day of the Price Adjustment Period, notify CSNY of the total number of Shares purchased in Rule 10b-18 purchases of blocks pursuant to the once-a-week block exception contained in Rule 10b-18(b)(4) by or for Counterparty or any of its affiliated purchasers during each of the four calendar weeks preceding the first day of the Price Adjustment Period and during the calendar week in which the first day of the Price Adjustment Period occurs ("Rule 10b-18 purchase", "blocks" and "affiliated purchaser" each being used as defined in Rule 10b-18).
+5.5   Neither Counterparty nor any of its affiliates shall take any action that would cause any CS purchases of Shares in connection with this Transaction not to meet the requirements of the safe harbor provided by Rule 10b-18 under the Exchange Act if such purchases were made by Counterparty.
+5.6   Notwithstanding anything to the contrary herein or in the Definitions, to the extent that an Announcement Date for a potential Merger Transaction occurs during the Price Adjustment Period:
+(a)    Promptly after request from CSNY, Counterparty shall provide CSNY with written notice specifying (i) Counterparty's average daily Rule 10b-18 purchases (as defined in Rule 10b-18) during the three full calendar months immediately preceding the Announcement Date that were not effected through CS, and (ii) the number of Shares purchased pursuant to the proviso in Rule 10b-18(b)(4) for the three full months preceding the Announcement Date.  Such written notice shall be deemed to be a certification by Counterparty to CSNY that such information is true and correct.  Counterparty understands that CSNY will use this information in calculating the trading volume for purposes of Rule 10b-18; and
+(b)   CSNY may in its good faith sole discretion, if it determines the resulting reduction in permissible volume of Rule 10b-18 purchases to be material, designate one or more Scheduled Trading Days in the period from and including the public announcement thereof to and including the earlier of the completion of such transaction or the completion of the vote by target shareholders to be Disrupted Days and extend the Scheduled Termination Date by the number of Disrupted Days so designated.
+For the avoidance of doubt, "" in this Section 5.6 means any merger, acquisition or similar transaction involving a recapitalization as contemplated by Rule 10b-18(a)(13)(iv).
+Merger Transaction
+6.     :
+Indemnification and Contribution
+6.1  
+Indemnification by Counterparty:
+ 
+Counterparty agrees to indemnify and hold harmless CSNY, its affiliates, their respective directors, officers, employees, agents, advisors, brokers and representatives and each person who controls CSNY or its affiliates within the meaning of either the Securities Act or the Exchange Act against, and Counterparty agrees that no indemnified party shall have any liability to Counterparty or any of its affiliates, officers, directors, or employees for, any losses, claims, damages, liabilities (whether direct or indirect, in contract, tort or otherwise) or expenses, joint or several, to which any indemnified party may become subject under the Securities Act, the Exchange Act or other federal or state statutory law or regulation, at common law or otherwise, insofar as such losses, claims, damages, liabilities or expenses (or actions, claims, investigations or proceedings in respect thereof, whether commenced or threatened) (i) arise out of or relate to (A) actions or failures to act by Counterparty or (B) actions or failures to act by an indemnified party with the consent of, upon the direction of, Counterparty or (ii) otherwise arise out of or relate to the Transaction or any related transactions. The foregoing provisions of this Section 6.1 shall not apply to the extent that any loss, claim, damage, liability or expense is found in a final and nonappealable judgment by a court to have resulted primarily from a material breach of the Agreement by CSNY or the gross negligence or willful misconduct of CSNY. Counterparty agrees to reimburse promptly each such indemnified party for any legal or other expenses reasonably incurred by them in connection with investigating or defending any such loss, claim, damages, liability, expense or action.  This indemnity agreement will be in addition to any liability which Counterparty may otherwise have.
+ 
+6.2  :
+Contribution
+        If the indemnification provided for above is unavailable to any indemnified party in respect of any losses, claims, damages, liabilities or expenses referred to herein, then Counterparty, in lieu of indemnifying such indemnified party, shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages, liabilities or expenses, in such proportion as is appropriate to reflect not only the relative fault of Counterparty on the one hand and of CSNY on the other in connection with the statements or omissions which resulted in such losses, claims, damages, expenses or liabilities, but also any other relevant equitable considerations.  The relative fault of Counterparty on the one hand and CSNY on the other shall be determined by reference to, among other considerations, whether the misstatement or alleged misstatement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by Counterparty or by CSNY and the parties' relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.  The amount paid or payable by a party as a result of the losses, claims, damages, liabilities and expenses referred to above shall be deemed to include any legal or other fees or expenses reasonably incurred by such party in connection with investigating or defending any action or claim.  The parties agree that it would not be just and equitable if contribution pursuant to this Section 6.2 were determined by a method of allocation that does not take account of the equitable considerations referred to in this paragraph.  No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+7.     :
+Distribution Event
+        Counterparty represents that it is not engaged as of the Trade Date in a distribution, as such term is used in Regulation M under the Exchange Act, other than a distribution referred to in Rules 102(b) and 102(c) of Regulation M (a "").  On any day prior to the second Scheduled Trading Day immediately following the last day of the later of the Price Adjustment Period or the Cash Settlement Pricing Period, as the case may be, neither Counterparty nor any of its affiliates or agents shall make a Distribution of Shares, or any security for which the Shares are a reference security (as defined in Regulation M) that would, in the view of CSNY, preclude Counterparty from purchasing Shares or cause any such purchases to violate any law, rule or regulation.  If, notwithstanding the provisions of this Section 7, on any Scheduled Trading Day during the Price Adjustment Period or the Cash Settlement Pricing Period Counterparty or any of its affiliates or agents shall engage in any Distribution, CSNY may, in its good faith sole discretion, designate such day a Disrupted Day and, in connection with such designation, extend the Scheduled Termination Date or the Cash Settlement Pricing Period, as applicable, by one Valuation Day for each day that such Distribution continues.
+Distribution
+        If a Distribution occurs, then Counterparty agrees that it will provide to CSNY at least one Scheduled Trading Day's notice of such Distribution and will use its reasonable efforts to cause such Distribution to be completed or otherwise terminated as soon as reasonably practicable given the circumstances of the Distribution, it being understood that it is fully within Counterparty's discretion to undertake transactions pursuant to Regulation M.
+8.     :
+Additional Representations and Warranties of Counterparty
+8.1   Counterparty hereby represents and warrants to CSNY that:
+(a)    This Transaction shall be entered into
+(i)          in connection with the continuation of a duly authorized Share repurchase program publicly to be announced on the Trade Date and
+            (ii)         solely for the purposes stated in such public disclosures.
+(b)    As of the Trade Date and the date, if any, as of which Counterparty elects that "Cash Settlement" shall apply, it has complied with all applicable law, rules and regulations in connection with disclosure of all material information with respect to its business, operations or condition (financial or otherwise), and has filed such disclosure as required; and as of the date hereof after giving effect to the Transaction and as of each day until its obligations under this Transaction are satisfied can purchase the Number of Shares in compliance with applicable law.
+(c)    As of the Trade Date and the date, if any, as of which Counterparty elects that "Cash Settlement" shall apply, all reports and other documents filed by Counterparty with the Securities and Exchange Commission pursuant to the Exchange Act, when considered as a whole (with the more recent such reports and documents deemed to amend  or supersede inconsistent statements contained in any earlier such reports and documents), do not contain any untrue statement of a material fact or any omission of a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances in which they were made, not misleading.  As of each such date, Counterparty is not in possession of any material nonpublic information regarding Counterparty or the Shares.
+(d)    Any purchases made by CS during the Price Adjustment Period or the Cash Settlement Pricing Period will be made by CS as principal (and not as an agent of Counterparty) and will be proprietary in nature and not for the benefit or pursuant to the direction of Counterparty.  Without limiting the generality of the foregoing, during the Price Adjustment Period and the Cash Settlement Pricing Period, the parties agree that they will not communicate in any way regarding CS's purchases.  The parties further agree that during the Price Adjustment Period and the Cash Settlement Pricing Period, Counterparty and its agents or representatives shall not have, and shall not attempt to exert, any influence over how, when or whether CS effects purchases of Shares.  The parties intend that this Confirmation shall constitute a binding contract satisfying the requirements of Rule 10b-5(1)(C) under the Exchange Act.  Counterparty is entering into this Transaction in good faith and not as part of a plan or scheme to evade compliance with the federal securities laws, including, without limitation, Rule 10b-5 under the Exchange Act.  Counterparty has not entered into or altered any hedging transaction relating to the Shares corresponding to or offsetting the Transaction.
+(e)    Counterparty is, and shall be as of the date of any payment or delivery by Counterparty hereunder, solvent and able to pay its debts as they come due, with assets having a fair value greater than liabilities and with capital sufficient to carry on the businesses in which it engages.
+8.2   In addition, Counterparty hereby represents and warrants that based on the facts and circumstances existing on the date hereof, it is not currently prohibited by law, contract or otherwise from purchasing Shares in a number equal to the Number of Shares during the term of this Transaction.
+9.     :
+Additional Covenants of Counterparty
+        Counterparty shall not at any time prior to the termination of this Transaction communicate, directly or indirectly, any material nonpublic information concerning itself or the Shares or purchases or sales of Shares by CS to any Relevant CSNY Personnel.  For purposes hereof, "" means any employee of CS, except employees that CSNY has notified Counterparty in writing are not Relevant CSNY Personnel.
+Relevant CSNY Personnel
+10.   :
+U.S.
+Private Placement Representations
+10.1   As this Transaction constitutes, or may constitute, the sale by CSNY to Counterparty of a security or securities (as defined in the Securities Act), in addition to the representations contained in Section 3 of the Agreement, Counterparty hereby represents to CSNY, in accordance with Section 3 of the Agreement, as follows:
+        (a)            Counterparty is acquiring such securities for its own account as principal, for investment purposes only, and not with a view to, or for, resale, distribution or fractionalisation thereof, in whole or in part, and no other person has a direct or indirect beneficial interest in any such securities acquired by Counterparty;
+        (b)           Counterparty represents and warrants that it qualifies as an "eligible contract participant" as that term is defined in the U.S. Commodity Exchange Act, as amended, and is a "qualified investor" as that term is defined in the Exchange Act;
+        (c)            Counterparty represents and warrants that it is not an "investment company" as that term is defined in the Investment Company Act of 1940, as amended;
+(d)           Counterparty understands that the offer and sale by CSNY of such securities are intended to be exempt from registration under the Securities Act.  In furtherance thereof, Counterparty represents and warrants that (i) it has the financial ability to bear the economic risk of its investment and has adequate means of providing for its current needs and other contingencies, (ii) it is experienced in investing in options and similar instruments and has determined that such securities are a suitable investment for it, (iii) it is an institution that qualifies as an "accredited investor" as that term is defined in Regulation D under the Securities Act; and
+        (e)            Counterparty has been given the opportunity to ask questions of, and receive answers from, CSNY concerning the terms and conditions of such securities and concerning the financial condition and business operations of CSNY and has been given the opportunity to obtain such additional information necessary in order for Counterparty to evaluate the merits and risks of purchase of such securities to the extent CSNY possesses such information or can acquire it without unreasonable effort or expense.
+10.2 Counterparty hereby acknowledges that it understands and agrees that disposition of any such securities is restricted under the Agreement, the Securities Act and state securities laws.  For example, such Securities have not been registered under the Securities Act or under the securities laws of certain states and, therefore, cannot be resold, pledged, assigned or otherwise disposed of unless they have been registered under the Securities Act and under the applicable laws of such states or an exemption from such registration is available.
+10.3 CSNY hereby represents and warrants to Counterparty that, for U.S. federal income tax purposes: (i) it is a beneficial owner of each payment received or to be received under this Confirmation; (ii) each such payment received under this Confirmation will be effectively connected with its conduct of a trade or business in the United States; and (iii) Credit Suisse Securities (USA) LLC is an entity that is disregarded as separate from its owner, Credit Suisse (USA) Inc., which is a "United States person" as defined in Section 7701(a)(30) of the Internal Revenue Code.  Any successor entity to CSNY or Credit Suisse Securities (USA) LLC shall make such representations and provide such documents as are necessary to ensure that any payments made pursuant to this transaction are free of U.S. withholding tax, but only to the extent that it is reasonably feasible, legally and commercially, to do so.
+11.   :
+Transfer
+ 
+        Notwithstanding anything to the contrary in the Agreement, CSNY may assign or transfer its rights or obligations under this Transaction, in whole or in part, to any of its affiliates without the prior written consent of Counterparty, the senior unsecured debt rating ("") of such affiliate (or any guarantor of its obligations under the transferred Transaction) is equal to or greater than the Credit Rating of CSNY as of the Trade Date, as specified by S&P or Moody's, and that Counterparty shall not incur any additional costs, expenses or other economic loss (including any costs or expenses relating to any additional withholding) as a result of any such assignment or transfer.
+provided that
+Credit Rating
+provided further
+12.   :
+Account Details
+        Payments to CSNY:                     To be advised
+        Payments to Counterparty:            To be advised
+13.   :
+Governing Law; Waiver of Jury Trial
+13.1     The Agreement and this Confirmation, and all disputes arising out of or in connection with the Agreement and this Confirmation or the subject matter hereof, will be governed by and construed in accordance with the laws of the State of New York without reference to choice of law doctrine and each party hereby submits to the non-exclusive jurisdiction of the Courts of the State of New York or the U.S. federal courts in each case located in the Borough of Manhattan in New York City.
+13.2    
+CSNY and Counterparty hereby irrevocably waive any and all right to trial by jury in any legal proceeding
+arising out of or related to the Agreement, this Confirmation or the Transaction contemplated hereby.
+14.   :
+Tax Disclosure
+Notwithstanding any provision in this Confirmation, in connection with Section 1.6011-4 of the Treasury Regulations, the parties hereby agree that each party (and each employee, representative, or other agent of such party) may disclose to any and all persons, without limitation of any kind, the U.S. tax treatment and U.S. tax structure of the Transaction and all materials of any kind (including opinions or other tax analyses) that are provided to such party relating to such U.S. tax treatment and U.S. tax structure, other than any information for which nondisclosure is reasonably necessary in order to comply with applicable securities laws.
+15.  
+Additional Elections:
+(a)        The Termination Currency shall be U.S. dollars.
+(b)        For purposes of Section 6(e) of the Agreement, Second Method and Loss shall apply.
+(c)       The "Cross-Default" provisions of Section 5(a)(vi) of the Agreement shall apply to Counterparty and CSNY.  "Specified Entity" for purposes of Section 5(a)(vi) of the Agreement shall mean any entity that is a "significant subsidiary" (as defined in Rule 1-02(w) of Regulation S-X) of CSNY or Counterparty, as applicable.  The "Threshold Amount" shall be shall be $100,000,000 for CSNY and $100,000,000 for Counterparty.  Instead of the definition in Section 14 of the Agreement, "Specified Indebtedness" shall mean any obligation (whether present or future, contingent or otherwise, as principal or surety or otherwise) (a) in respect of borrowed money, and/or (b) in respect of any Specified Transaction (except that, for this purpose only, the words "and any other entity" shall be substituted for the words "and the other party to this Agreement (or any Credit Support Provider of such other party or any applicable Specified Entity of such other party)" where they appear in the definition of Specified Transaction).
+(d)       The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the ISDA Master Agreement shall apply to CSNY and Counterparty.
+(e)       The "Automatic Early Termination" provision of Section 6(a) of the ISDA Master Agreement will not apply to CSNY and will not apply to Counterparty.
+Please confirm that the foregoing correctly sets forth the terms of our agreement by signing and returning to us a copy of this Confirmation.
+                                                                           Yours sincerely,
+                                                                          
+                                                                           CREDIT SUISSE,                                                                            NEW YORK BRANCH
+                                                                          
+                                                                           By:     ____________________________
+                                                                           Name:                                                                                      Title: 
+Agreed to as of the date first above written.
+Federated Department Stores, Inc.
+By:   
+                                                  
+Name:  Title:    
+SCHEDULE 1
+ 
+Daily Reference Price Adjustment:                       USD 0.74 per Share
+ 
+ANNEX A
+   
+Share Delivery Conditions
+1.         If CSNY has elected that this Annex A applies to the delivery of Shares by Counterparty, Counterparty may only deliver Shares if:
+(a)        a registration statement covering public resale of such Shares by CSNY (the "") shall have been filed with, and declared effective by, the Securities and Exchange Commission under the Securities Act on or prior to the Price Adjustment Period Termination Date (or, with respect to Shares delivered pursuant to Section 3 of the Confirmation, the Merger Date, the Tender Offer Date or the date of the occurrence of the Insolvency, Delisting or the Early Termination Date (as the case might be)) (the ""), and no stop order shall be in effect with respect to the Registration Statement; a printed prospectus relating to the Shares (including any prospectus supplement thereto, the "") shall have been delivered to CSNY, in such quantities as CSNY shall reasonably have requested, on or prior to the Registration Date;
+Registration Statement
+Registration Date
+Prospectus
+(b)        the form and content of the Registration Statement and the Prospectus (including, without limitation, any sections describing the plan of distribution) shall be satisfactory to CSNY;
+(c)        as of or prior to the Registration Date, CSNY and its agents shall have been afforded a reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for underwritten offerings of equity securities and the results of such investigation are satisfactory to CSNY, in its discretion; and
+(d)        as of the Registration Date, an agreement (the "") shall have been entered into with CSNY in connection with the public resale of the Shares by CSNY substantially similar to underwriting agreements customary for underwritten offerings of equity securities, in form and substance satisfactory to CSNY, which Underwriting Agreement shall include, without limitation, provisions substantially similar to those contained in such underwriting agreements relating to the indemnification of, and contribution in connection with the liability of, CSNY and its affiliates.
+Underwriting Agreement
+2.         If CSNY has elected that this Annex A applies to the delivery of Shares by Counterparty, but Counterparty is unable to comply with any of the terms of paragraph 1 above, or CSNY elects that this Paragraph 2 shall apply in lieu of Paragraph 1, Counterparty shall either:
+(a)        deliver a number of Unregistered Shares equal to (x) the Cash Settlement Amount (calculated based on the average Daily 10b-18 VWAP Price for one or more Scheduled Trading Days as determined by CSNY) or other applicable amount to be paid by delivery of Shares by Counterparty under the Confirmation (y) the price per Unregistered Share that CS is able to secure from buyers by commercially reasonable efforts, (i) all such Unregistered Shares shall be delivered to CSNY (or any affiliate of CSNY designated by CSNY) pursuant to the exemption from the registration requirements of the Securities Act provided by Section 4(2) thereof; (ii) as of or prior to the Registration Date, CSNY and any potential purchaser of any such shares from CSNY (or any affiliate of CSNY designated by CSNY) identified by CSNY shall have been afforded a commercially reasonable opportunity to conduct a due diligence investigation with respect to Counterparty customary in scope for private placements of equity securities (including, without limitation, the right to have made available to them for inspection all financial and other records, pertinent corporate documents and other information reasonably requested by them); and (iii) as of the Registration Date, an agreement (a "") shall have been entered into between Counterparty and CSNY (or any affiliate of CSNY designated by CSNY) in connection with the private placement of such shares by Counterparty to CSNY (or any such affiliate) and the private resale of such shares by CSNY (or any such affiliate), substantially similar to private placement purchase agreements customary for private placements of equity securities, in form and substance commercially reasonably satisfactory to CSNY, which Private Placement Agreement shall include, without limitation, provisions substantially similar to those contained in such private placement purchase agreements relating to the indemnification of, and contribution in connection with the liability of, CSNY and its affiliates, and shall provide for the payment by Counterparty of all commercially reasonable fees and expenses in connection with such resale, including all commercially reasonable fees and expenses of counsel for CSNY, and shall contain representations, warranties and agreements of Counterparty reasonably necessary or advisable to establish and maintain the availability of an exemption from the registration requirements of the Securities Act for such resales; or
+divided
+by
+provided that
+Private Placement Agreement
+(b)        elect that Cash Settlement shall apply in lieu of Net Share Settlement, provided that CSNY shall in its reasonable discretion determine the commencement date of the Cash Settlement Pricing Period to account for Counterparty's failure to elect Cash Settlement in accordance with the terms of the Transaction, or, if applicable, pay in cash the amount that would have been owed but for the application of Section 3 of the Confirmation.
+3.         Counterparty acknowledges that any Unregistered Shares sold pursuant hereto may be sold at prices that are less than the prices that might otherwise be available if such Shares were to be sold pursuant to a registered public offering or at prices observed in the secondary market.
+
+Exhibit 99.1
+ 
+     CINCINNATI, Ohio, February 27, 2007 - Federated Department Stores, Inc. today announced that its Board of Directors has authorized a $4 billion increase in the company's stock buyback program. At the current share price, this buyback would represent about 18 percent of Federated's common shares outstanding at the end of fiscal 2006.
+     Federated has used a portion of this authorization to effect the immediate repurchase of 45 million outstanding shares for an initial payment of approximately $2 billion through accelerated share repurchase agreements. Credit Suisse and Goldman Sachs both advised the company with respect to the accelerated share repurchase program. The repurchased shares are subject to a future purchase price adjustment following the completion of the program, such that Federated may receive, or may be required to pay, a price adjustment based on share prices during specified periods as provided in its agreements. The remaining authorization can be used by the company to repurchase shares from time to time in the open market or in other negotiated transactions.
+     "The Board's decision reinforces its confidence in the future of our company as we continue to implement strategies for building Macy's and Bloomingdale's as nationwide brands," said Terry J. Lundgren, Federated's chairman, president and chief executive officer. "We believe that repurchasing shares is a very productive use of excess cash and balance sheet capacity."
+     Federated's accelerated share repurchase program is being funded initially by excess cash and short-term borrowings.
+      (Editor's Note: Federated this morning issued three additional news releases - one reporting fourth quarter and fiscal 2006 financial results, one declaring a regular quarterly dividend, and another announcing plans for a corporate name change.)
+     The Board's additional authorization extends a repurchase program that resumed in the second quarter of 2006 as Federated paid down short-term borrowings associated with its acquisition of The May Department Stores Company. Approximately $2.5 billion was used to repurchase shares in fiscal 2006, and approximately $170 million of authorization remained at year-end.
+     Federated, with corporate offices in Cincinnati and New York, is one of the nation's premier retailers, with fiscal 2006 sales of $27 billion. Federated operates more than 850 department stores in 45 states, the District of Columbia, Guam and Puerto Rico under the names of Macy's and Bloomingdale's. The company also operates macys.com, bloomingdales.com and Bloomingdale's By Mail.
+     All statements in this press release that are not statements of historical fact are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current beliefs and expectations of Federated's management and are subject to significant risks and uncertainties. Actual results could differ materially from those expressed in or implied by the forward-looking statements contained in this release because of a variety of factors, including conditions to, or changes in the timing of, proposed transactions, prevailing interest rates, competitive pressures from specialty stores, general merchandise stores, manufacturers' outlets, off-price and discount stores, new and established forms of home shopping (including the Internet, mail-order catalogs and television) and general consumer spending levels, including the impact of the availability and level of consumer debt, the effect of weather and other factors ide ntified in documents filed by the company with the Securities and Exchange Commission.
+(NOTE: Additional information on Federated, including past news releases, is available at www.fds.com/pressroom)
+
+

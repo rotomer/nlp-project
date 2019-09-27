@@ -1,0 +1,126 @@
+FILE:IBM/IBM-8K-20070718162030.txt.gz
+EVENTS:	Results of Operations and Financial Condition
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 8-K
+CURRENT REPORT PURSUANT TO SECTION 13 OR 15 (d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report:  July 18, 2007
+(Date of earliest event reported)
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+ 
+914-499-1900
+(Registrant's telephone number)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+              
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+              
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+              
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+              
+ 
+ 
+ 
+Item 2.02.   Results of Operations and Financial Condition.
+The registrant's press release dated July 18, 2007, regarding its financial results for the periods ended June 30, 2007, including consolidated financial statements for the periods ended June 30, 2007, is Attachment I of this Form 8-K. Attachment II are the slides for IBM's Chief Financial Officer Mark Loughridge's second quarter earnings presentation on July 18, 2007, as well as certain reconciliation and other information ("Non-GAAP Supplementary Materials") for information in Attachment I (press release), Attachment II (slides) and in Mr. Loughridge's presentation. All of the information in Attachments I and II is hereby filed except for the information set forth below, which is furnished but not filed:
+Press Release
+The following statement on Page 1:  "Without the gain, income from continuing operations of $2.2 billion in the second quarter of 2007 increased $167 million, or 8 percent versus the comparable period last year."
+The following statements on Page 2:  "and increased 12 percent without the gain from the PSD sale."
+"Without the benefit, other (income) and expense contributed income of $172 million in the quarter."
+"Excluding the impact of the gain from the PSD sale, the second-quarter 2007 tax rate was 28.5 percent"
+The following statement on page 3: "Without the gain, income from continuing operations for the six months ended June 30, 2007 was $4.0 billion"
+Slides
+On Slide 4 (2Q07 FINANCIAL SUMMARY), the data in the columns entitled "IBM without Printer Gain" and "B/(W) Yr/Yr", in each case for the rows identified as "Expense" "PTI", "Tax Rate" and "Net Income".
+On Slide 7 (EXPENSE SUMMARY), the data in the column entitled "w/o Printer Gain" for the rows identified as "Other Income and Expense**" and "Total Expense and Other Income".
+On Slide S8 (2Q07 FINANCIAL SUMMARY), the data in the column entitled "B/(W) Yr/Yr without Printer Gain" for the row identified as "Pre-Tax Income".
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+2
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ 
+ 
+3
+ATTACHMENT I
+Total revenues of $23.8 billion, up 9 percent as reported;
+                                         
+Global Services revenues up 10 percent, Software revenues up 13 percent;
+                                         
+Diluted earnings of $1.55 per share, including a gain from sale of Printing Systems; earnings per share were $1.50, up 15 percent without the gain;
+                                         
+Gross profit margin increased year to year for the 12th consecutive quarter.
+                                         
+ARMONK, N.Y., July 18, 2007 . . . IBM (NYSE: IBM) today announced second-quarter 2007 diluted earnings of $1.55 per share from continuing operations, including 5 cents per share for a pre-tax gain of $81 million relating to the sale of the Printing Systems Division (PSD), an increase of 19 percent as reported, compared with diluted earnings of $1.30 per share in the second quarter of 2006.  Diluted earnings for the second-quarter 2007 were $1.50 per share, excluding this gain, an increase of 15 percent year over year.
+Second-quarter income from continuing operations was $2.3 billion, including the gain from the sale of PSD, compared with $2.0 billion in the second quarter of 2006, an increase of 12 percent.  Without the gain, income from continuing operations of $2.2 billion in the second quarter of 2007 increased $167 million, or 8 percent versus the comparable period last year.  Total revenues for the second quarter of 2007 of $23.8 billion increased 9 percent (6 percent, adjusting for currency) from the second quarter of 2006.
+"This quarter's strong revenue growth  our best since 2001  underscores IBM's global capabilities, as well as the higher value that clients place on our expanding software product line and wide range of services offerings that are helping them transform their businesses," said Samuel J. Palmisano, IBM chairman, president and chief executive officer.  "Our overall results again demonstrate the strength of our business model and our ability to achieve profitable growth and strong cash generation.  Earlier this year we described to our investors IBM's objective for earnings per share growth through 2010.  While this is a long-term goal, our first-half results represent solid progress on major elements of this roadmap, including earnings growth, margin expansion, and revenue growth in key areas: emerging markets, acquisitions and service oriented architecture opportunities."
+From a geographic perspective, the Americas' second-quarter revenues were $10.1 billion, an increase of 6 percent as reported (5 percent, adjusting for currency) from the 2006 period.  Revenues from Europe/Middle East/Africa were $8.2 billion, up 13 percent (6 percent, adjusting for currency).  Asia-Pacific revenues increased 10 percent (10 percent, adjusting for currency) to $4.6 billion.  OEM revenues were $852 million, down 9 percent compared with the 2006 second quarter.
+Total Global Services revenues grew 10 percent (7 percent, adjusting for currency), led by growth in Asia Pacific.  Global Business Services segment revenues, which benefited from strong client demand for SOA offerings and global delivery capabilities, increased 10 percent (8 percent, adjusting for currency) to $4.3 billion.  Global Technology Services segment revenues increased 10 percent (7 percent, adjusting for currency) to $8.8 billion, with significant growth from existing clients.  IBM signed services contracts totaling $11.7 billion, up 22 percent year over year, and ended the second quarter with an estimated services backlog, including Strategic Outsourcing, Business Transformation Outsourcing, Integrated Technology Services, Global Business Services and Maintenance, of $116 billion, an increase of $7 billion year to year.
+ 
+ 
+- 1 -
+Revenues from the Systems and Technology segment totaled $5.1 billion for the quarter, up 2 percent (flat, adjusting for currency).  Systems and Technology revenues from the System p UNIX server products increased 7 percent compared with the 2006 period and revenues from the System x servers increased 16 percent.  Revenues from System z server products increased 4 percent compared with the year-ago period.  Total delivery of System z computing power, which is measured in MIPS (millions of instructions per second), increased 45 percent,marking eight consecutive quarters of year-to-year MIPS growth.  Revenues from the System i servers decreased 15 percent.  Revenues from System Storage increased 6 percent and revenues from Microelectronics decreased 9 percent.
+Revenues from the Software segment were $4.8 billion, an increase of 13 percent (9 percent, adjusting for currency) compared with the second quarter of 2006.  Revenues from IBM's middleware products, which primarily include WebSphere, Information Management, Tivoli, Lotus and Rational products, were $3.7 billion, up 16 percent versus the second quarter of 2006.  Operating systems revenues of $568 million increased 2 percent compared with the prior-year quarter.
+For the WebSphere family of software products, which facilitate customers' ability to manage a wide variety of business processes using open standards to interconnect applications, data and operating systems, revenues increased 28 percent.  Revenues for Information Management software, which enables clients to leverage information on demand, increased 21 percent.  Revenues from Tivoli software, infrastructure software that enables clients to centrally manage networks including security and storage capability, increased 33 percent, and revenues for Lotus software, which allows collaborating and messaging by clients in real-time communication and knowledge management, increased 12 percent year over year.  Revenues from Rational software, integrated tools to improve the processes of software development, increased 11 percent compared with the year-ago quarter.
+Global Financing segment revenues increased 4 percent (1 percent, adjusting for currency) in the second quarter to $597 million.
+The company's total gross profit margin was 41.8 percent in the 2007 second quarter compared with 41.2 percent in the 2006 period  the 12th consecutive quarter of year-to-year increase.
+Total expense and other income increased 11 percent to $6.8 billion compared with the prior-year period, and increased 12 percent without the gain from the PSD sale.  SG&A expense increased 15 percent to $5.6 billion.  RD&E expense increased 1 percent compared with the year-ago period.  Intellectual property and custom development income increased to $246 million compared with $188 million a year ago.  Other (income) and expense contributed income of $253 million in the second quarter of 2007, including the gain from the PSD sale, versus income of $196 million in the second quarter of 2006.  Without the benefit, other (income) and expense contributed income of $172 million in the quarter.
+IBM's effective tax rate in the second-quarter 2007 was 28.0 percent compared with 30.0 percent in the second quarter of 2006.  Excluding the impact of the gain from the PSD sale, the second-quarter 2007 tax rate was 28.5 percent compared with 30.0 percent in the year-ago quarter.
+Shares repurchased in the second quarter were approximately $14.6 billion, including $12.5 billion executed through accelerated share repurchase agreements in May.  The repurchases are part of the $15 billion authorization for the company's stock repurchase program approved by the IBM board of directors on April 24.
+The weighted-average number of diluted common shares outstanding in the second-quarter 2007 was 1.46 billion compared with 1.56 billion shares in the same period of 2006.  As of June 30, 2007, there were 1.36 billion basic common shares outstanding.
+Debt, including Global Financing, totaled $34.7 billion, compared with $22.7 billion at year-end 2006.  From a management segment view, the non-global financing debt-to-capitalization ratio was 46.7 percent at the end of June 30, 2007, reflecting increased financial leverage associated with the accelerated share repurchase agreements.  Global Financing debt increased $658 million from year-end 2006 to a total of $22.9 billion, resulting in a debt-to-equity ratio of 7.0 to 1.
+- 2 -
+Year-To-Date 2007 Results
+Income from continuing operations for the six months ended June 30, 2007 was $4.1 billion, including the gain for the sale of PSD, compared with $3.7 billion in the year-ago period.  Diluted earnings per share from continuing operations were $2.75 compared with $2.37 per diluted share for the 2006 period.  Without the gain, income from continuing operations for the six months ended June 30, 2007 was $4.0 billion, or $2.70 per diluted share.  Revenues from continuing operations for the six-month period totaled $45.8 billion, an increase of 8 percent (5 percent, adjusting for currency) compared with $42.5 billion for the six months of 2006.
+Forward-Looking and Cautionary Statements
+Except for the historical information and discussions contained herein, statements contained in this release may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.  These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, including the company's failure to continue to develop and market new and innovative products and services and to keep pace with technological change; competitive pressures; failure to obtain or protect intellectual property rights; quarterly fluctuations in revenues and volatility of stock prices; the company's ability to attract and retain key personnel; adverse affects from tax matters; currency fluctuations and customer financing risks; customer credit risk on trade receivables; the company's failure to maintain the adequacy of its internal controls; the company's use of certain estimates and assumptions; dependence on certain suppliers; changes in the financial or business condition of the company's distributors or resellers; the company's ability to successfully manage acquisitions and alliances; failure to have sufficient insurance; legal, political, health and economic conditions; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company's Form 10-Q, Form 10-K and in the company's other filings with the U.S. Securities and Exchange Commission (SEC) or in materials incorporated therein by reference.  The company assumes no obligation to update or revise any forward-looking statements.
+Presentation of Information in this Press Release
+In an effort to provide investors with additional information regarding the company's results as determined by generally accepted accounting principles (GAAP), the company has also disclosed in this press release the following non-GAAP information which management believes provides useful information to investors:
+IBM Results 
+              certain financial results adjusted for the gain associated with the divestiture of the Printing Systems business,
+              adjusting for currency (i.e., at constant currency).
+The rationale for management's use of non-GAAP measures is included as part of the supplementary materials presented within the second-quarter earnings materials.  These materials are available on the IBM investor relations Web site at www.ibm.com/investor and are being included in Attachment II ("Non-GAAP Supplementary Materials") to the Form 8-K that includes this press release and is being submitted today to the SEC.
+Conference Call and Webcast
+IBM's regular quarterly earnings conference call is scheduled to begin at 4:30 p.m. EDT, today.  Investors may participate by viewing the Webcast at www.ibm.com/investor/2q07.  Presentation charts will be available on the Web site prior to the Webcast.
+(certain amounts may not add due to use of rounded numbers; percentages presented are calculated from the underlying whole-dollar amounts).
+Financial Results Attached
+- 3 -
+ 
+ 
+- 4 -
+ 
+ 
+- 5 -
+ 
+ 
+ 
+ 
+ 
+ 
+- 6 -
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 7 -
+ATTACHMENT II
+
+

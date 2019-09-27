@@ -1,0 +1,258 @@
+FILE:WFC/WFC-8K-20040604212641.txt.gz
+EVENTS:	Financial statements and exhibits
+TEXT:
+ITEM: Financial statements and exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibits are filed herewith in connection with the Registration Statement on Form S-3 (File No. 333-103711) filed by Wells Fargo & Company with the Securities and Exchange Commission.
+ 
+On June 4, 2004, Wells Fargo & Company issued its Notes Linked to the Wells Fargo Headline Commodity Index
+SM
+due June 5, 2006.
+ 
+The purpose of this Current Report is to file with the Securities and Exchange Commission the form of the Note related to such issuance and the consent of Faegre & Benson LLP, Wells Fargo & Company's special tax counsel, to the use of its name under the caption "United States Federal Income Tax Consequences" in the prospectus supplement related to such issuance.
+ 
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on June 4, 2004.
+ 
+ 
+ 
+ 
+
+EXHIBIT 4.1
+ 
+ 
+Unless this certificate is presented by an authorized representative of The Depository Trust Company, a New York corporation (""), to the Company or its agent for registration of transfer, exchange or payment, and any certificate issued is registered in the name of Cede & Co. or in such other name as requested by an authorized representative of DTC (and any payment is made to Cede & Co. or such other entity as is requested by an authorized representative of DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL inasmuch as the registered owner hereof, Cede & Co., has an interest herein.
+DTC
+ 
+REGISTERED NO. 1
+ 
+ 
+ 
+WELLS FARGO & COMPANY, a corporation duly organized and existing under the laws of the State of Delaware (hereinafter called the "," which term includes any successor corporation under the Indenture hereinafter referred to), for value received, hereby promises to pay to CEDE & Co., or registered assigns, an amount equal to the Maturity Payment Amount (as defined below), in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts, on the Stated Maturity Date (as defined below). This Security shall not bear any interest.
+Company
+ 
+Any payments on this Security at Maturity will be made against presentation of this Security at the office or agency of the Company maintained for that purpose in the City of Minneapolis, Minnesota.
+ 
+Determination of Maturity Payment Amount
+ 
+"" shall mean, for each $1,000 Face Amount of this Security, the greater of (i) $900 and (ii) the Alternative Maturity Amount.
+Maturity Payment Amount
+ 
+Set forth below are certain defined terms used in this Security in connection with the determination of the Maturity Payment Amount.
+"" shall mean, for each $1,000 Face Amount of this Security, $1,000 plus the product of:
+Alternative Maturity Amount
+ 
+ 
+ 
+Initial Index Level
+ 
+"" shall mean any day other than a Saturday, Sunday or a day on which banking institutions are authorized or required by law, regulation or executive order to close in New York City or Minneapolis, Minnesota.
+Business Day
+ 
+"" shall mean the Calculation Agency Agreement dated as of June 4, 2004 between the Company and the Calculation Agent, as amended from time to time.
+Calculation Agency Agreement
+ 
+"" shall mean the Person that has entered into the Calculation Agency Agreement with the Company providing for, among other things, the determination of the Final Index Level and the Maturity Payment Amount, which term shall, unless the context otherwise requires, include its successors under such Calculation Agency Agreement. The initial Calculation Agent shall be Wells Fargo Securities, LLC. Pursuant to the Calculation Agency Agreement, the Company may appoint a different Calculation Agent from time to time after the initial issuance of the Securities of this series without the consent of the Holders of the Securities of this series and without notifying the Holders of the Securities of this series.
+Calculation Agent
+ 
+"" means any Trading Day on which a Market Disruption Event has not occurred.
+Calculation Day
+ 
+"" shall mean the period of three Calculation Days beginning on and including the fourth Trading Day before June 5, 2006 to and including the second Trading Day before June 5, 2006; provided, however, that if one or more of such Trading Days is not a Calculation Day, the Calculation Period shall be extended to such date as is necessary so that the Calculation Period consists of three Calculation Days.
+Calculation Period
+ 
+The "" of the Index on any day shall be the sum of the products resulting from multiplying (i) the Market Price of each commodity included in the Index on such day by (ii) the Multiplier for such commodity. The Closing Level resulting from this calculation shall be rounded up or down to the nearest 0.01, with 0.005 being rounded upward.
+Closing Level
+ 
+"" shall mean, when used with respect to any Security or Securities of this series, the amount set forth on the face of such Security or Securities as its or their "Face Amount."
+Face Amount
+ 
+The "" shall be determined by the Calculation Agent and shall equal the average (i.e., arithmetic mean) of the Closing Levels of the Index determined on each of the three Calculation Days during the Calculation Period.
+Final Index Level
+ 
+"" shall mean the Wells Fargo Headline Commodity Index comprised of the following five commodities: crude oil; gas oil; copper; gold; and silver.
+Index
+ 
+"" shall mean 1000.
+Initial Index Level
+ 
+The "" of a commodity included in the Index on any day shall be:
+Market Price
+ 
+ 
+ 
+ 
+ 
+ 
+The term "" for a commodity on any day shall refer to the futures contract for that commodity with the expiration date closest to such day.
+first nearby month futures contract
+ 
+The "" shall mean: 8.20120284, in the case of crude oil; 0.63643596, in the case of gas oil; 0.10598834, in the case of copper; 0.25429116, in the case of gold; and 0.16220600 in the case of silver.
+Multiplier
+ 
+The "" shall mean 0.90.
+Participation Rate
+ 
+"" shall mean June 5, 2006; provided, however, that if a Market Disruption Event occurs during the period beginning on and including the fourth Trading Day before June 5, 2006 to and including the second Trading Day before June 5, 2006 such that one or more of such Trading Days is not a Calculation Day, the Stated Maturity Date will be two Business Days after the final day of the Calculation Period.
+Stated Maturity Date
+ 
+"" shall mean each Monday, Tuesday, Wednesday, Thursday and Friday that is a day on which the IPE and the LME are open for trading and the Gold Fixing Limited and the Silver Fixing Limited are conducting fixing activities.
+Trading Day
+ 
+Market Disruption Events
+ 
+The occurrence or continuance on any Trading Day of any one or more market disruption events with respect to any of the commodities included in the Index will be a "" for that Trading Day.
+Market Disruption Event
+ 
+A "market disruption event" with respect to crude oil means: (i) a material limitation or suspension of trading in the first nearby month futures contract for IPE Brent crude oil traded on the IPE; or (ii) the failure of the IPE to announce the IPE Brent Crude Price.
+ 
+A "market disruption event" with respect to gas oil means: (i) a material limitation or suspension of trading in the first nearby month futures contract for IPE gas oil traded on the IPE; or (ii) the failure of the IPE to announce the IPE Gas Oil Price.
+ 
+A "market disruption event" with respect to copper means: (i) a material limitation or suspension of trading in copper Grade A on the LME; or (ii) the failure of the LME to announce the LME Copper Grade A Price.
+ 
+A "market disruption event" with respect to gold means: (i) a material limitation or suspension of trading in the London P.M. gold fixing market; or (ii) the failure of the Gold Fixing Limited to announce or publish the London Gold Fixing Price.
+ 
+A "market disruption event" with respect to silver means: (i) a material limitation or suspension of trading in the London silver fixing market; or (ii) the failure of the Silver Fixing Limited to announce or publish the London Silver Fixing Price.
+ 
+For purposes of the foregoing, a limitation on the hours or number of days of trading will not constitute a Market Disruption Event if it results from an announced change in the regular business hours of the relevant trading facility.
+ 
+Discontinuance Of Quotations; Alteration Of Manner Of Quotations
+ 
+If the IPE, the LME, the Gold Fixing Limited or the Silver Fixing Limited discontinues quoting the Market Price for any of the commodities included in the Index as provided herein and another entity publishes a quotation that the Calculation Agent determines, in its sole discretion, to be comparable to the discontinued quotation, then any subsequent Closing Level will be determined by reference to the quotation of such Market Price provided by such successor entity (in any such case, referred to herein as a "") at 5:30 p.m., New York City time, on the date that any Closing Level is to be determined.
+Successor Quotation Source
+ 
+Upon any selection by the Calculation Agent of a Successor Quotation Source the Company will promptly give notice to the Holders of the Securities of this series.
+ 
+If the IPE, the LME, the Gold Fixing Limited or the Silver Fixing Limited discontinues quoting the Market Price for any of the commodities included in the Index as provided herein and the Calculation Agent determines that no Successor Quotation Source for such Market Price is available at such time, then any subsequent Closing Level will be determined by reference to the Calculation Agent's good faith estimate of the Market Price for such commodity.
+ 
+If a Successor Quotation Source is selected or the Calculation Agent calculates a Market Price in the absence of a successor quotation, such Successor Quotation Source or Market Price will be used for all purposes with respect to calculation of the Closing Level, including for purposes of determining whether a Market Disruption Event exists.
+ 
+If the method of quoting a Market Price as provided herein is changed in a material respect by the IPE, the LME, the Gold Fixing Limited or the Silver Fixing Limited or a Successor Quotation Source, then the Calculation Agent shall, at 5:30 p.m., New York City time, on the date that the Closing Level is to be determined, make such calculations and adjustments as, in its good faith judgment, may be necessary in order to arrive at a Market Price for such commodity as if such changes had not been made. The Calculation Agent will calculate the Closing Level with reference to the Market Price, as adjusted.
+ 
+Calculation Agent
+ 
+The Calculation Agent will determine the Maturity Payment Amount. In addition, the Calculation Agent will:
+ 
+ 
+ 
+ 
+The Company covenants that, so long as any of the Securities of this series are Outstanding, there shall at all times be a Calculation Agent (which shall be a broker-dealer, bank or other financial institution) with respect to the Securities of this series.
+ 
+All determinations made by the Calculation Agent with respect to the Securities of this series will be at the sole discretion of the Calculation Agent and, in the absence of manifest error, will be conclusive for all purposes and binding on the Company and the Holders of the Securities of this series. Except with respect to the calculation of the Closing Level, all percentages and other amounts resulting from any calculation with respect to the Securities of this series will be rounded at the Calculation Agent's discretion.
+ 
+Reference is hereby made to the further provisions of this Security set forth on the reverse hereof, which further provisions shall for all purposes have the same effect as if set forth at this place.
+ 
+Unless the certificate of authentication hereon has been executed by the Trustee referred to on the reverse hereof by manual signature or its duly authorized agent under the Indenture referred to on the reverse hereof by manual signature, this Security shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+ 
+IN WITNESS WHEREOF, the Company has caused this instrument to be duly executed under its corporate seal.
+ 
+DATED:
+                    
+ 
+ 
+TRUSTEE'S CERTIFICATE OF
+AUTHENTICATION
+ 
+This is one of the Securities of the
+series designated therein described
+in the within-mentioned Indenture.
+ 
+ 
+ 
+ 
+ 
+This Security is one of a duly authorized issue of securities of the Company (herein called the ""), issued and to be issued in one or more series under an indenture dated as of July 21, 1999, as amended or supplemented from time to time (herein called the ""), between the Company and Citibank, N.A., as Trustee (herein called the "," which term includes any successor trustee under the Indenture), to which Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitations of rights, duties and immunities thereunder of the Company, the Trustee and the Holders of the Securities, and of the terms upon which the Securities are, and are to be, authenticated and delivered. This Security is one of the series designated on the face hereof, limited in aggregate Face Amount to $20,340,000; , that the Company may, so long as no Event of Default has occurred and is continuing, without the consent of the Holders of the Securities of this series, issue additional Securities with the same terms as the Securities of this series, and such additional Securities shall be considered part of the same series under the Indenture as the Securities of this series.
+Securities
+Indenture
+Trustee
+provided, however
+ 
+The Securities of this series are not subject to redemption at the option of the Company or repayment at the option of the Holder hereof prior to the Stated Maturity Date. The Securities of this series will not be entitled to any sinking fund.
+ 
+The Company agrees, to the extent permitted by law, not to voluntarily claim the benefits of any laws concerning usurious rates of interest against a Holder of Securities of this series.
+ 
+If an Event of Default, as defined in the Indenture, with respect to Securities of this series shall occur and be continuing, the Maturity Payment Amount (calculated as set forth in the next sentence) of the Securities of this series may be declared due and payable in the manner and with the effect provided in the Indenture. The amount payable to the Holder hereof upon any acceleration permitted under the Indenture will be equal to the Maturity Payment Amount hereof calculated as though the date of acceleration was the Stated Maturity Date. Upon payment of the amount so declared due and payable, all of the Company's obligations in respect of payment of the Maturity Payment Amount shall terminate. The Securities of this series will not bear a default rate of interest after the occurrence of an Event of Default or an acceleration under the Indenture.
+ 
+The Company agrees, and by acceptance of a beneficial ownership interest in this Security each beneficial owner of this Security will be deemed to have agreed, for United States federal income tax purposes (i) to treat this Security as a single debt instrument subject to the Treasury regulations governing contingent payment debt instruments, (ii) to report all income (or loss) with respect to this Security according to those Treasury regulations, and (iii) to be bound by the Company's determination of the "comparable yield" and the "projected payment schedule" (within
+ 
+the meaning of such Treasury regulations) for this Security, unless such beneficial owner timely discloses and justifies in its federal income tax return the use of a different comparable yield and projected payment schedule.
+ 
+The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Company and the rights of the Holders of the Securities of each series to be affected under the Indenture at any time by the Company and the Trustee with the consent of the Holders of a majority in principal amount of the Securities at the time Outstanding of all series to be affected, acting together. The Indenture also contains provisions permitting the Holders of a majority in principal amount of the Securities of all series at the time Outstanding affected by certain provisions of the Indenture, acting together, on behalf of the Holders of all Securities of such series, to waive compliance by the Company with those provisions of the Indenture. Certain past defaults under the Indenture and their consequences may be waived under the Indenture by the Holders of a majority in principal amount of the Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series. Solely for the purpose of determining whether any consent, waiver, notice or other action or Act to be taken or given by the Holders of Securities pursuant to the Indenture has been given or taken by the Holders of Outstanding Securities in the requisite aggregate principal amount, the principal amount of this Security will be deemed to be equal to its Face Amount. Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and of any Security issued upon the registration of transfer hereof or in exchange herefor or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+ 
+Section 403 and Article Fifteen of the Indenture and the provisions of clause (ii) of Section 401(1)(B) of the Indenture, relating to defeasance at any time of (a) the entire indebtedness on this Security and (b) certain restrictive covenants and certain Events of Default, upon compliance by the Company with certain conditions set forth therein, shall not apply to this Security. The remaining provisions of Section 401 of the Indenture shall apply to this Security.
+ 
+Upon due presentment for registration of transfer of this Security at the office or agency of the Company in the City of Minneapolis, Minnesota, a new Security or Securities of this series in authorized denominations for an equal aggregate Face Amount will be issued to the transferee in exchange herefor, as provided in the Indenture and subject to the limitations provided therein and to the limitations described below, without charge except for any tax or other governmental charge imposed in connection therewith.
+ 
+This Security is exchangeable for definitive Securities in registered form only if (x) the Depositary notifies the Company that it is unwilling or unable to continue as Depositary for this Security or if at any time the Depositary ceases to be a clearing agency registered under the Securities Exchange Act of 1934, as amended, and a successor depositary is not appointed within 90 days after the Company receives such notice or becomes aware of such ineligibility, (y) the Company in its sole discretion determines that this Security shall be exchangeable for definitive Securities in registered form and notifies the Trustee thereof or (z) an Event of Default with respect to the Securities represented hereby has occurred and is continuing. If this Security is exchangeable pursuant to the preceding sentence, it shall be exchangeable for definitive Securities in registered form, having the same terms and of authorized denominations aggregating a like amount.
+ 
+This Security may not be transferred except as a whole by the Depositary to a nominee of the Depositary or by a nominee of the Depositary to the Depositary or another nominee of the Depositary or by the Depositary or any such nominee to a successor of the Depositary or a nominee of such successor. Except as provided above, owners of beneficial interests in this Security will not be entitled to receive physical delivery of Securities in definitive form and will not be considered the Holders hereof for any purpose under the Indenture.
+ 
+No reference herein to the Indenture and no provision of the Indenture shall alter or impair the obligation of the Company, which is absolute and unconditional, to pay the Maturity Payment Amount at the times and place, and in the coin or currency, herein prescribed, except as otherwise provided in this Security.
+ 
+Prior to due presentment of this Security for registration of transfer, the Company, the Trustee and any agent of the Company or the Trustee may treat the Person in whose name this Security is registered as the owner hereof for all purposes, whether or not this Security be overdue, and neither the Company, the Trustee nor any such agent shall be affected by notice to the contrary.
+ 
+No recourse shall be had for the payment of the Maturity Payment Amount, or for any claim based on this Security, or otherwise in respect hereof, or based on or in respect of the Indenture or any indenture supplemental thereto, against any incorporator, stockholder, officer or director, as such, past, present or future, of the Company or any successor corporation, whether by virtue of any constitution, statute or rule of law, or by the enforcement of any assessment or penalty or otherwise, all such liability being, by the acceptance hereof and as part of the consideration for the issuance hereof, expressly waived and released.
+ 
+All terms used in this Security which are defined in the Indenture shall have the meanings assigned to them in the Indenture unless otherwise defined in this Security.
+ 
+This Security shall be governed by and construed in accordance with the laws of the State of New York.
+ 
+ 
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations:
+ 
+ 
+UNIF GIFT MIN ACT  Custodian
+                                                         
+                                                             
+(Cust)                                                                     (Minor)
+ 
+ 
+Additional abbreviations may also be used though not in the above list.
+ 
+the undersigned hereby sell(s) and transfer(s) unto
+FOR VALUE RECEIVED,
+ 
+ 
+ 
+the within Security of WELLS FARGO & COMPANY and does hereby irrevocably constitute and appoint attorney to transfer the said Security on the books of the Company, with full power of substitution in the premises.
+                            
+ 
+Dated:
+                    
+ 
+ 
+NOTICE: The signature to this assignment must correspond with the name as written upon the face of the within instrument in every particular, without alteration or enlargement or any change whatever.
+ 
+
+EXHIBIT 23.1
+ 
+ 
+Wells Fargo & Company
+420 Montgomery Street
+San Francisco, California 94163
+ 
+Ladies and Gentlemen:
+ 
+Reference is made to the Prospectus Supplement dated May 28, 2004 relating to Wells Fargo & Company's Notes Linked to the Wells Fargo Headline Commodity Index
+SM
+due June 5, 2006 (the" Prospectus Supplement"), filed with the Securities and Exchange Commission under the Securities Act of 1933, as amended. We hereby consent to the inclusion of our opinion and to the reference to us under the heading "United States Federal Income Tax Consequences" in the Prospectus Supplement.
+ 
+
+

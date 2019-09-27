@@ -1,0 +1,737 @@
+FILE:MCHP/MCHP-8K-20081002214115.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+Item 8.01.  Other Events.
+ 
+On October 2, 2008, Microchip Technology Incorporated ("") and ON Semiconductor Corporation ("") held a conference call to discuss a proposal to acquire Atmel Corporation ("").  A transcript of the conference call, along with the prepared joint presentation made during the course of the conference call and posted on October 2, 2008 by Microchip to www.microchip.com, are attached hereto as Exhibits 99.1 and 99.2, respectively, and are incorporated herein by reference.
+Microchip
+ON Semiconductor
+Atmel
+ 
+Item 9.01.  Financial Statements and Exhibits.
+ 
+(d)           Exhibits
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+Exhibit 99.1
+ 
+FINAL TRANSCRIPT
+ 
+ 
+Conference Call Transcript
+ 
+MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Event Date/Time: Oct. 02. 2008 / 9:00AM ET
+ 
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+CORPORATE PARTICIPANTS
+ 
+Steve Sanghi
+Microchip Technology Incorporated - President and CEO
+ 
+Keith Jackson
+ON Semiconductor Corporation - CEO
+ 
+Don Colvin
+ON Semiconductor Corporation - CFO
+ 
+Ganesh Moorthy
+Microchip Technology Incorporated - EVP
+ 
+Gordon Parnell
+Microchip Technology Incorporated - CFO
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+Craig Hettenbach
+Goldman Sachs - Analyst
+ 
+Chris Danely
+JPMorgan - Analyst
+ 
+Uchechi Orji
+UBS - Analyst
+ 
+John Barton
+Cowen & Co. - Analyst
+ 
+Craig Berger
+Friedman, Billings, Ramsey - Analyst
+ 
+Craig Ellis
+Citigroup - Analyst
+ 
+Edwin Mok
+Needham & Co. - Analyst
+ 
+Doug Freedman
+American Technology Research - Analyst
+ 
+John Pitzer
+Credit Suisse - Analyst
+ 
+PRESENTATION
+ 
+Operator
+ 
+Good day and welcome to the Microchip and ON Semiconductor announcement conference call. Today's conference is being recorded. During the presentation all lines will be in a listen-only mode. Following will be a question-and-answer session for the financial community only.
+ 
+At this time I would like to turn the conference over to your host, Mr. Steve Sanghi. Please go ahead, sir.
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Thank you very much and good morning everyone. I am Steve Sanghi, President and CEO of Microchip Technology and welcome to this conference call hosted by Microchip and ON Semiconductor. Joining me on this call today from Microchip are Ganesh Moorthy, Executive Vice President, and Gordon Parnell, Chief Financial Officer of Microchip. Also joining me from ON Semiconductor are Keith Jackson, President and CEO, and Don Colvin, Chief Financial Officer of ON Semiconductor.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+Before we begin today, we would like to remind you that during this conference call both Microchip and ON Semiconductor may make some forward-looking statements regarding future events, the proposed acquisition of Atmel, and the future financial performance of Microchip, ON Semiconductor and Atmel. We caution you that these statements involve predictions and that actual events and results may differ materially.
+ 
+We refer you to today's press release of Microchip and ON Semiconductor and Microchip's and ON Semiconductor's most recent 1 0Ks and 1 0-Qs for discussions of risk factors that may cause actual results to differ materially from those discussed today. We make these statements as of today, October 2, 2008 and disclaim any duty to update them except to the extent required by law.
+ 
+Now I will briefly describe today's joint announcement then I will walk you through a short presentation regarding the transaction rationale for Microchip. Following that, Keith Jackson will review the transaction rationale for ON Semiconductor. I will then wrap up the prepared comments and executives from both companies will be available to take investor and analyst questions.
+ 
+Microchip and ON Semiconductor today announced that we have sent a proposal to the Board of Directors of Atmel regarding a proposal to acquire Atmel for $5 per share in cash. This proposal which is being led by Microchip implies a premium of 52.4% to Atmel's closing price of $3.28 on October 1, 2008, and values Atmel at $2.3 billion. The full text of the letter to the Board of Directors of Atmel was attached to a press release which was issued this morning.
+ 
+As the lead participant, Microchip would acquire Atmel in a cash merger subject to Atmel's potential desire for some common stock. The transaction would be financed with a combination of cash from Microchip and proceeds from the sale of certain Atmel assets to ON Semiconductor. With respect to the latter, ON Semiconductor would acquire the assets related to Atmel's non-volatile memory and RF and automotive businesses immediately prior to the merger closing. ON Semiconductor would finance its purchase using a combination of existing cash resources, borrowings under its existing credit facility, and additional financing.
+ 
+Although not a condition to our offer, Microchip intends to dispose of Atmel's ASIC business upon completing the acquisition or shortly thereafter. Microchip is confident that it could divest the business and has engaged recently in discussions with a third party who has expressed interest in acquiring it. The ASIC business will be accounted for as an asset held for sale if it is not sold prior to closing.
+ 
+Now I will walk you through Microchip's presentation and after that, I will turn the call over to Keith Jackson. So let's go to the presentation which you have and the second slide is the Safe Harbor. I will let you read the large verbiage of the Safe Harbor statement yourself. I covered a shorter version at the start of this conference call.
+ 
+With that, we will go to page three which is titled transaction summary. Microchip and ON Semiconductor have submitted a joint proposal to acquire Atmel. Microchip will acquire the microcontroller business which had a trailing 12-month revenue of $513 million. And we will acquire the ASIC business which had a trailing 12-month revenue of $496 million. ON Semiconductor to acquire the nonvolatile memory business which had a $385 million revenue in the last 12 months, and they would also acquire the RF and auto businesses, which had revenue of $282 million in the last 12 months.
+ 
+Now Microchip intends to sell the ASIC business either before completing the transaction or shortly thereafter. But it is not a closing condition. The ASIC business will be accounted for as an asset held for sale if it is not sold prior to close. The price in this offer is $5 per share in cash. It represents 52.4% premium to Atmel's closing price on October 1, 2008. Transaction has a total equity value of $2.3 billion on a fully diluted basis. Transaction is expected to be accretive to Microchip's non-GAAP earnings per share in the first full year and the transaction is expected to be accretive to ON Semiconductor's non-GAAP earnings per share in the first full year.
+If you go to slide four titled Microchip transaction rationale. This transaction combines complementary businesses of Microchip and Atmel. Atmel has strong momentum in its proprietary AVR architecture and it has a broad product line with 8- and 32-bit solutions; a broad base of technology building blocks including memory, connectivity, touch sense and security. All those businesses will be quite complementary with similar businesses at Microchip.
+ 
+It broadens the market presence. It enhances Microchip's opportunities in the 8-bit segment, it extends Microchip's 32-bit offering and segment opportunities with AVR32 as well as ARM based solutions. And it expands Microchip's fast growing mTouch solution with Atmel's QTouch solutions for touch sensing application.
+ 
+It also drives significant efficiencies through scale, significant opportunities to drive operational synergies across cost of goods sold, SG&A and R&D. It leverages sales channels to broaden reach of MCU products. It will optimize our redundant R&D spending. It will exploit the low-cost manufacturing capabilities of both companies and it will eliminate some redundant G&A costs providing a very, very good transaction rationale for Microchip.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+The next slide, number five, describes a little bit more of the Atmel's MCU business. So the last 12 months of revenue was $513 million consisting of some AVR architecture-based products and ARM-based products. The compounded annual growth rate from calendar year 04 to calendar year 07 was about 11%, Atmel has 8-bit AVR products, 32-bit AVR products and then ARM-based microcontroller products and it also has the 8051 8-bit product. So those are the various architectures. All or thereabout 100 AVR products in the portfolio, it is a proprietary architecture and a high-performance, low-power, high-core density, flash program memory and our highly integrated circuits are some of the hallmarks of those products.
+ 
+In the ARM-based area based on standard 32-bit ARM7 and ARM9 architectures, our license from ARM and it has a valuable 200 plus MIPS 32-bit flash MCU technology. In the 8051 area, it is based on the standard 8051 CPU and it has 2 kb to 128 kb of embedded flash memory product.
+ 
+If you go to page six which shows the MCU product line synergy, you can see a side by side architectures from Microchip and from Atmel. In the 8-bit area, we have our PIC architecture with PIC1 0, PIC1 2, PIC1 6 and PIC1 8 and Atmel's 8-bit AVR and 8051. All those together provide significant growth opportunity. In the 16-bit area, we have a PIC24 and a dsPIC and in the 16-bit area it is a Microchip strength and it is our fastest-growing 16-bit segment providing significant growth opportunity.
+ 
+And in the 32-bit area, we have PIC32 which was launched less than a year ago so it is much newer and the Atmel's case, they have AVR32 as well as ARM7 and ARM9 and in the 32-bit area, it is the Atmel's strength and together we will have products from ARM architecture, MIPS architecture and AVR32, hence providing significant growth opportunities there also.
+ 
+And in the touch sense technology, Microchip's  one of the Microchip's fastest-growing segment is the mTouch technology and in the case of Atmel  in the case of Microchip, we developed that technology in house in the last few years. And in the case of Atmel, their QTouch technology came from an acquisition of Quantum Research Group in the last year. But those two together provide best in class solutions and a significant growth opportunity for the combined company.
+ 
+With that, I will pass it on to Keith Jackson, President and CEO of ON Semiconductor, who will walk you through slide number seven which shows the ON Semiconductor transaction rationale. Keith?
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+Thank you, Steve. We are very excited at the prospect of acquiring Atmel's nonvolatile memory and RF and automotive businesses. ON Semiconductor has been a strong proponent of consolidation in the semiconductor industry. Based on our recent experiences with the acquisition of the CPU Voltage and PC Thermal Monitoring business from Analog Devices and the acquisition of AMIS Holdings Inc., we believe there are significant synergies that can be harvested for shareholders, customers and employees by consolidating the operations of semiconductor companies focused in similar end markets.
+We believe the potential acquisition of the Atmel assets as outlined in the press release this morning is a powerful and compelling business combination for all involved companies and our respective shareholders and customers.
+ 
+ON Semiconductor has taken and will continue to take a disciplined financial approach to acquisitions. Similar to our historical acquisitions, we are interested in assets and businesses that we can purchase at approximately 1 to 2 times trailing 12-month sales and approximately 5 to 6 times EBITDA after the execution of identifiable synergies that can also generate strong free cash flow.
+ 
+We expect that after diligence, we will conclude that the acquired assets of Atmel, which have trailing revenues of more than $650 million meet our strict financial criteria and can be accretive to our shareholders. So based on this information, we would expect that ON Semiconductor's purchase price for the Atmel assets could be up to $1 billion.
+ 
+We expect to finance the acquisition of the Atmel assets through a combination of cash on hand of greater than $410 million at the end of September; cash that we will generate in the period up to closing which we anticipate to be approximately $60 to $75 million per quarter; borrowings of approximately $260 million under ON Semiconductor's existing credit facility and additional financing.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+With ON Semiconductor's strong run rate EBITDA and track record of integrating acquisitions similar to the Atmel assets, we are confident that we will be able to obtain any additional required financing even in the current environment. We are in a process of deciding how to structure permanent financing for the transaction on the most attractive terms to ON Semiconductor.
+From a transaction rationale standpoint, the proposed acquisition of the nonvolatile memory and RF and automotive product lines will help ON Semiconductor create an automotive and nonvolatile memory leader and extends ON Semiconductor's analog transformation. The product lines ON Semiconductor is looking to acquire also integrate into our existing manufacturing infrastructure. ON Semiconductor also has significant automotive presence with customers in Europe and throughout the world that will complement Atmel's automotive and RF business.
+ 
+ON Semiconductor's sales to the automotive end market are currently running north of $450 million on an annualized basis and can provide Atmel's customers and employees additional scale and resources necessary to succeed in today's challenging global marketplace.
+ 
+The Atmel nonvolatile memory product line broadens our standard product portfolio and technology offering to this marketplace and can benefit from our strong sales force, sales channels and manufacturing capabilities. ON Semiconductor's Gresham Oregon wafer facility can also permit the development of innovative, low-cost RF auto and nonvolatile memory products. ON Semiconductor's low-cost, high-volume assembly and test facilities can also help reduce costs and improve the profitability of the acquired businesses.
+ 
+We further believe our high-volume planning, IT and customer service organization can further enhance the business success of the acquired businesses. We also anticipate operating expense synergies by leveraging ON Semiconductor's automotive design and customer support infrastructure and expect the contemplated transaction to be accretive to non-GAAP EPS in the first full year.
+ 
+Over the last three years, ON Semiconductor has acquired significant assets and businesses to accelerate our growth and financial performance. Our experience and success with these acquisitions has encouraged us to pursue this strategy. We are confident we have the people, the processes and the manufacturing assets to make this potential acquisition a big success for ON Semiconductor shareholders, customers and employees.
+ 
+I'd like to turn it back over to Steve now to walk through some of the details of the transaction. Steve?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Thank you, Keith. I will take you now to slide number eight which is titled all cash premium proposal versus the status quo of Atmel's incomplete turnaround plan. Atmel has struggled to execute on its transformation plan. Atmel's strategy continues to include its underperforming ASIC and auto businesses, which do not have the scale to successfully compete in the marketplace.
+ 
+The changes Atmel has implemented have only led to modest improvements in operating results. Operating margin for Atmel's microcontroller business continues to significantly lag behind Microchip. The current competitive and macroeconomic landscape only serve to magnify Atmel's operational challenges.
+ 
+Despite implementing some strategic changes, Atmel's stock has dropped by 46% over the past two years. Over the same period, Microchip and ON Semiconductor have performed significantly better than Atmel.
+ 
+So slide nine, the final slide, says next steps to transaction completion. Microchip and ON Semiconductor are committed to moving forward on an expedited basis to complete the transaction. Microchip and ON Semiconductor are prepared to begin confirmatory due diligence immediately, then commence also the regulatory process. Atmel, Microchip and ON Semiconductor then negotiate and sign merger agreement and ancillary purchase agreement. Then the customary conditions to closing, including receipt of regulatory approvals and then the transaction closes.
+ 
+Microchip and ON Semiconductor are fully committed to completing the transaction and have not ruled out any potential options.
+ 
+With that, operator, will you please open it up for questions?
+ 
+QUESTION AND ANSWER
+ 
+Operator
+ 
+(Operator Instructions) and Craig Hettenbach, Goldman Sachs.
+ 
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Craig Hettenbach
+- Goldman Sachs - Analyst
+ 
+Yes, thank you. Steve, you touched on that Atmel's operating margins significantly lags behind Microchip. Can you also talk about gross margin and then what type of timeframe do you think you can get their margins if you can over time to your corporate average?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, it is too early to be putting specific timeframes on that improvement. Atmel has not allowed us any diligence so far but we believe that with Microchip's assets and many years of track record, we can rapidly improve their operating results to get them closer to Microchip.
+ 
+Craig Hettenbach -
+Goldman Sachs - Analyst
+ 
+Okay and then a question for Steve and Keith. Just on the financing and the current state of the financial markets, can you just go into maybe a little more detail in terms of your confidence in being able to secure financing to complete the deal?
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Keith?
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+I will turn that one over to Don Colvin for the ON Semiconductor portion.
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+Thank you, Keith. Obviously, it's a surprise to no one that the current markets have their challenges but we are very confident that working with our partner, Microchip, we have a strong cash balance on our balance sheet. We project over $400 million at the end of this quarter; Microchip will have over $1 billion well over that. So together we have a huge amount of cash available. Our business generates  both the businesses generate a lot of cash. The ON business is generating $50 to $70 million, $75 million a quarter of cash on an ongoing basis.
+ 
+We have access to the accordion feature in our existing bank facility for over $200 million and then a whole multitude of other financing sources. We have discussed with our financial advisors and they are really confident that a deal of this quality that adds additional EBITDA to our already strong cash generation should be financable even in the current tough markets. So we faced these similar challenges before when we purchased AMI and we are very confident that we will solve that with this purchase also.
+ 
+Craig Hettenbach
+- Goldman Sachs - Analyst
+ 
+If I could just quickly follow up. For each company, is there a specific cash balance post this deal that you would like to maintain or at least have on your balance sheet for flexibility?
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+Well, since I answered the last time  for ON Semiconductor, we are very comfortable with a cash balance above $150 million. So we have a significant amount of cash available to support this cash generating acquisition.
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+The numbers are very similar for Microchip. We have $1.55 billion of cash on our balance sheet so the financing from outside on our part of the deal is really not an issue.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Craig Hettenbach
+- Goldman Sachs - Analyst
+ 
+Okay, thank you.
+ 
+Operator
+ 
+Chris Danely, JPMorgan.
+ 
+Chris Danely
+- JPMorgan - Analyst
+ 
+Steve, can you give us I guess some estimate of how much lower you think the Atmel microcontroller gross and operating margins are versus yours?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, we have not done any diligence at Atmel so the numbers that we have are basically whatever the publicly available numbers are. They have not broken out the gross margins by product segment. But they have broken out the operating margins by product segment and we have those and they are substantially, substantially lower than any of Microchip's numbers are as you know.
+ 
+So we think it represents a very significant opportunity for Microchip to be able to improve those through cost reduction, extended product line, significant synergies, in R&D, in SG&A and in expanded sales channel.
+ 
+Chris Danely
+- JPMorgan - Analyst
+ 
+Donald or Keith, can you talk about the gross in operating margins on the RF and auto business versus your own business?
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+Yes, this is Keith Jackson. From the implied data we have publicly, their margins appear to be kind of mid-40s, so very similar to ON Semiconductor's current numbers. And again as we have experienced with our other transactions, we do expect there are some significant synergies very quickly to drive that up. And then over the longer term with our very strong manufacturing base to get this business north of the corporate average on a long-term basis.
+ 
+Chris Danely
+- JPMorgan - Analyst
+ 
+Last question, it sounds like you guys went to them with this idea and they said thanks but no thanks. Can you just give us their reasoning why they didn't take it?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I cannot tell you their reasoning but we had a very friendly chat with them and approached them to really do this deal and the answer we got was that the Board of Atmel did not want to do this deal under any circumstances, under any terms at this time. We think our proposal is just too compelling not to take it directly to the shareholders with such a large premium that brings forward the value that Atmel can create over several years and the significant risk that Atmel shareholders have on a go-it-alone plan especially with these challenging economic environments and our proposal brings that value forward. So we thought it was just too compelling not to take it to the shareholders.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+Chris Danely
+- JPMorgan - Analyst
+ 
+Again, Steve, when do you think will have an answer or some resolution on the decision on this offer?
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+We believe that and our preference continues to be really a very friendly negotiated deal with Atmel. And we want their Board and their management to sit down with us to negotiate such a deal. If that can be done immediately, then there is no reason why this transaction could not be signed in the current quarter in the December quarter and then closed in the March quarter.
+ 
+Chris Danely
+- JPMorgan - Analyst
+ 
+Got it. Thanks a lot, guys.
+ 
+Operator
+ 
+Uchechi Orji, UBS.
+ 
+Uchechi Orji
+- UBS - Analyst
+ 
+Two questions for you. First, after you have used up  as you mean this was accepted at the higher price and it is a cash deal, how will this affect your dividend policy? Because one of the things that has been interesting is how you pay dividends quarterly for some time now. Will that change?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+It will not change. Our dividend is largely funded by the quarterly cash generation. We are generating over $100 million of cash per quarter. So this really wouldn't change the dividend. It still leaves a very substantial amount of cash on our balance sheet even after paying cash so investors need not be concerned about any changes in dividend.
+ 
+Uchechi Orji
+- UBS - Analyst
+ 
+That is one. The second question is one of the things that affected Atmel is some of the facilities they have, particularly in Europe. How do you plan to take this on assuming this passes? I know you haven't done diligence but I think this is fairly obvious on some of the (inaudible) solutions they have to have some manufacturing. What will you do about that? Because I think that is an issue that is not that easy to resolve unless those plants are sold. So is there something you can give us some thought to?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, we are very clear in our announcement that Microchip will sell the ASIC business either prior to the transaction close or soon after. We already have interest on that business and have had discussions with one party and to our knowledge from publicly available information, a fair amount of work that is done in France which is the only remaining European facility  the other facilities all have been sold  does a really large amount of ASIC business. So that really will go with the ASIC business.
+ 
+There is a fair amount of manufacturing which is intertwined in various plants and as we divide the assets between ON Semiconductor and Microchip, we will have a purchase agreement between the two companies to be able to take product from each other as we unwind dollars manufacturing happening in each other's facility over time.
+Uchechi Orji
+- UBS - Analyst
+ 
+Just one last point. Are there any concerns you may have in terms of the antitrust issues? Certainly the combined marketshare package becomes quite significant but do you think you are within a threshold where that would be a concern?
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+We do not have any antitrust concerns in this. We have done a significant review of that and we think we will get the antitrust clearance quite quickly.
+ 
+Uchechi Orji
+- UBS - Analyst
+ 
+Thank you very much.
+ 
+Operator
+ 
+John Barton, Cowen & Company.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+Thank you very much. Steve, I heard your comments that you wanted this to be a friendly negotiation, etc., etc. To some extent it's a little beyond that point by having to publish this letter. I'm curious what your  both Keith and Steve your views are on the importance of retaining the employees that are at Atmel, probabilities of retaining them. And then potentially future dilution particularly in the stock area that we may encounter a year down the road in an effort to repaying them?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, we absolutely made a friendly gesture to Atmel. We have been working on this transaction for some time. We came to this measure only after we got a very clear message from the Board that they were not interested in this transaction at this time under any terms. So you are correct that it has really gone beyond that point. But both Microchip and ON Semiconductor have substantial infrastructures in these products. Microchip understands these products very, very well. We know a lot about the company, its products and its employees and others and we think after the transaction closes, we will be able to retain lots of valuable employees in both companies.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+And you think you can do that without substantial stock option grants or the like to lock them up?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I think the stock option grants and retaining grants are  on a $2.3 billion deal, they are not that many meaningful.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+Okay. As a follow-up to that, obviously an interesting structure, a portion of the business going ON, a portion going to Microchip and then potentially the ASIC business going elsewhere. You talked about mutual manufacturing agreements between the parties involved, etc. How much challenge do you foresee with respect to personnel that are involved with all those businesses or IP involved with all those businesses being spread across potentially three buyers?
+ 
+And also if I'm not mistaken, some of the stuff that ON would be acquiring would put ON in competition with Microchip directly particularly in nonvolatile. Is there any challenges associated with that that you foresee?
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+This is Keith Jackson, I will speak up, John. You know we have done this before with acquisitions with manufacturing service agreements. They tend to work very well. Both Microchip and ON are quite good manufacturing operators and really don't see that there is significant issues to be had between them.
+ 
+Relative to the competition comment. It seems that at least from an ON perspective, we are in competition with everybody in the semiconductor industry and it is not something we have shied away from. It is not necessarily a problem or a significant issue for us. So again, we all do foundry business. It's very common to do that with people you compete with and again, I just don't see that as an issue.
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I might add that back in 2001 when we acquired TelCom Semiconductor, there was a supply agreement between TelCom Semiconductor and ON Semiconductor which then Microchip assumed after we bought TelCom. So we supplied them the product at the same time we competed. We still compete with each other on analog business although it is a much smaller business for Microchip and a much larger one for ON.
+ 
+ON Semiconductor also has a pending acquisition of Catalyst Semiconductor which puts them into the serial e squared and NVM business. So we already are headed down the line of competing and they will simply add more to that and I will echo on Keith's comments that in this business we compete with everybody. So that is not an issue.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+Great, thank you very much.
+ 
+Operator
+ 
+(Operator Instructions) Craig Berger, FBR Capital.
+ 
+Craig Berger
+- Friedman, Billings, Ramsey - Analyst
+ 
+Thanks for taking my question. I guess first one for Don, why are you willing to pay up to 1.5 times sales when peers with similar operating margins are trading for half that?
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+Well, I'm not so sure that companies can be acquired at $0.75 on the dollar of sales, Craig. We have always said to investors and this is exactly in the same range that we acquired AMI last year. We said we are interested in one to two times sales. This is in the sweet spot, 1.5. But more importantly for investors, the cash generation that this asset can bring to ON Semiconductor.
+As Keith mentioned, we see this being in line with our corporate average so in the 40s in gross margin, with a much lower operating expense. Obviously we need to do our diligence to get comfortable with that but clearly running our own automotive business and having done extensive due diligence on the Catalyst business give us a lot of market references on where this business can go.
+ 
+So we are highly confident that this will be a very attractive, accretive addition to our line of business. It is something, as Keith mentioned, fits very well into our existing manufacturing infrastructure both using our Gresham facility and our extensive low-cost assembly and test facilities in Asia plus also our existing highly structured automotive infrastructure in Europe.
+ 
+So all these things make us confident that this will be an attractive financial proposition. And as you know, ON Semiconductor has a very attractive tax rate and this also fits into our tax model so we don't expect a big tax leakage. So when we do a bottom up, again only based upon public information that we see adding a nice level of revenue, taking us to a different scale, a nice level of incremental cash contribution after deducting an amount  an appropriate amount for cash interest expense, we see this adding a significant surplus to our earnings and that is why we believe this will be accretive.
+ 
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+Can you remind us what the EV to sales multiple was you paid when that AMI deal closed and also what you are proposing to pay for Catalyst?
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+It is a very similar estimate. I don't want to get into say what  for Catalyst you are looking at AMI because that I think that is more appropriate. Catalyst was a smaller company. AMI, this acquisition is similar in revenue to AMI and would be a similar based upon our estimates a similar EV to EBITDA multiple based upon what we think we could run the business to what we paid for AMI. Comes in very, very close within a few percent.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+How long do you think it takes to requalify the automotive products? And do you intend on moving those within your existing fab network or would you put them into foundries?
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+So our understanding again from public information, they have already announced their intention to sell the wafer fab - the automotive products work in to another party and transition those products to other factories. So I think that groundwork has already been laid. We have a very extensive amount of automotive manufacturing in our Belgium facility and it is at least from all the checks we can do a very similar capability factory and could become a very natural home.
+ 
+John Barton
+- Cowen & Co. - Analyst
+ 
+Are you guys prepared to fight a proxy battle?
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+We are not discussing all of the options at this time. We are leaving them all open but certainly not going to speculate on what could happen. As Steve mentioned, we are hoping this becomes a friendly transaction very quickly.
+John Barton
+- Cowen & Co. - Analyst
+ 
+Thank you.
+ 
+Operator
+ 
+Craig Ellis, Citi.
+ 
+Craig Ellis
+- Citigroup - Analyst
+ 
+Keith, I will start with you. Can you just talk qualitatively about this proposed deal, how relative to AMI? Should investors think that it offers the similar type of accretion potential that AMI ultimately looks like it can offer the company?
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+Yes, I think you can, Craig. As Donald mentioned, ratios are very similar. But more importantly, these businesses fit extraordinarily well into our now even more strong infrastructure for automotive and standard products. Really if anything I would expect the ratios, initial ratios to be similar to AMI but I would expect the gains we can get to be a little quicker because of that now much stronger infrastructure we are plugging them into.
+ 
+Craig Ellis
+- Citigroup - Analyst
+ 
+Okay, just 
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+Sorry, just one addition here. This is not  we are not  we are buying assets or buying a division so we are not buying the whole company. So the infrastructure, particularly the operating expense infrastructure that will come with this will not be the same as you would get with buying a company. So just to emphasize Keith's last point, Craig.
+ 
+Craig Ellis
+- Citigroup - Analyst
+ 
+Yes, that is a good clarification, Don. The follow-up is to you Steve. Steve, as we think about what this transaction would mean to you and the way you think about the opportunity, is this more of an opportunity that helps you grow earnings per share or is this something that really helps accelerate top line growth? How do we think about the real driver for Microchip here?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+It is really both. On the earnings-per-share side, we believe that with Microchip's expertise in the microcontroller business in products, in development tools, in sales infrastructure, in channels, on design wins and technology and others, together with Atmel's products and architecture, we believe it provides Microchip the opportunity to very substantially improve the operating performance of that business, both on gross margin as well as operating margin, which will help accrete the earnings-per-share.
+ 
+And on the growth side of the business, there again the combined intellectual property portfolio of both companies will allow us to post some of our intellectual property on their products and some of their intellectual property on our products, and hence, accelerate the time to market on a number of future products and roadmaps that the joint customers require faster than each company would be able to do by themselves; and get there faster and at the same time get there with higher R&D efficiency by jointly developing the ITs and putting them onto both portfolios.
+ 
+Therefore, we believe that we can accelerate the revenue growth going forward, as well as improve the earnings-per-share on the top of that because of operating efficiency improvement.
+ 
+Craig Ellis
+- Citigroup - Analyst
+ 
+Thanks, guys.
+ 
+Operator
+ 
+Edwin Mok, Needham & Company.
+ 
+Edwin Mok
+- Needham & Co. - Analyst
+ 
+Thanks for taking my question. I have a question regarding the value here. So based on what Keith was saying, you are saying that you will see one to two times trailing sales, right? The midpoint of that, that is 1.5 times sales. If I apply that to Atmel's trailing sales, right, that would make Atmel worth around $6.20 per share.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+So I am a little confused. Are we saying that we think the microcontroller piece is worth less, or am I just confused on how to value this thing?
+ 
+Don Colvin
+- ON Semiconductor
+Corporation
+- CFO
+ 
+Donald here. We said we wanted two times sales for the two divisions that we are interested in, nonvolatile memory and RF and auto. Steve mentioned he is after microcontroller, but there is also the loss-making ASIC division and mixture. So you can't apply that to the total lump of businesses.
+ 
+One thing that has come through and I would emphasize to you is that the combination of Microchip and ON Semiconductor brings to the table very significant manufacturing assets and infrastructure which will allow us to accelerate the renewal of the core product lines that we will retain. Steve also mentioned that he is considering and is examining the possibility of selling the troubled ASIC division.
+ 
+So the key thing is that we bring our manufacturing and operating muscle to the businesses that we retain and accelerate through that the regeneration and profit improvement of these businesses. Something that will be incredibly difficult for the company to do on a stand-alone basis particularly in this difficult macroeconomic environment.
+ 
+Edwin Mok
+- Needham & Co. - Analyst
+ 
+That is great. So it is fair to say that you believe the ASIC piece is not worth a lot and is essentially less than that one to two times sales range. Is it fair to say that?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, we do not want the speculation on what ASIC business could be worth. We are in discussion with one party privately, we can have more open discussions now once the good news is in public domain. There may be interest from other parties. So I would rather not speculate really what that is worth (multiple speakers) can't put a public price on it.
+ 
+Edwin Mok
+- Needham & Co. - Analyst
+ 
+Great. That is fair. One more question regarding the deal. I'm just trying to figure out the timing of  did you guys just approach them yesterday or was that has been in discussion for a period of time and how do we move forward from here? Are you just waiting for them to give you a response or how do we look at that?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+We have had discussions with Atmel over several months now. As the letter clearly stated a date on it, I met with them on September 5. That was not the first meeting, that was the last meeting. And subsequent to that meeting, they came back and absolutely did not want to proceed forward leading us to be making this public offer. We still want a friendly deal. Even though this action has taken it a little bit past that but we expect that Atmel's board and management will sit down with Microchip and ON Semiconductor and work out a very amicable agreement that would be good for all parties.
+th
+ 
+Edwin Mok
+- Needham & Co. - Analyst
+ 
+Great and one last question. Regarding you mentioned that you are willing to entertain a stock portion of it. How do we view that? Is that a way to get a higher value potentially than the $5 that you are offering right now?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+It is a very full and fair cash offer, but when we meet with Atmel if they would rather have a portion of the purchase price in Microchip stock, we would consider so; a portion of it, we haven't identified how much.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+Edwin Mok
+- Needham & Co. - Analyst
+ 
+Okay, great. Thanks.
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+You also should think this way that Microchip has bought well over $1 billion of its stock back in the last six months. Well, well above $1 billion over the last one year, yes, over the last one year. So offering a little bit of the stock back into the transaction would not be an issue for Microchip.
+ 
+Operator
+ 
+(Operator Instructions) Doug Freedman, American Technology Research.
+ 
+Doug Freedman
+- American Technology Research - Analyst
+ 
+Thanks for taking my question, guys. Steve, can you talk a little bit about how you would handle the management of the product overlap that is going to be created if you were to be successful?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I will hand that to Ganesh Moorthy.
+ 
+Ganesh Moorthy
+- Microchip Technology Incorporated - EVP
+ 
+What we see is a very good product line in AVR that complements what Microchip has with our PIC microcontrollers. We expect that the AVR line will continue on, that our set of customers for whom that roadmap is important and we will continue to maintain that roadmap for them. As you look at the 32-bit part of their portfolio, their 32-bit has two architectures, one which is ARM-based, one that is an AVR 32  kind of an offshoot of the AVR for 32-bit.
+ 
+Certainly we see those as being complementary to what Microchip has done with our PIC32 product line which is a MIPS-based architecture. There is a substantially larger 32-bit business that they have today and we expect that for those customers the current products are what we will continue to grow and build.
+ 
+If you look at the product lines, they have strengths in many areas that we don't have. We have strengths in many areas they don't have and we see the two fitting together very nicely building on the portfolio we have and adding to it with their product lines.
+ 
+Doug Freedman
+- American Technology Research - Analyst
+ 
+Alright, great. Can you also spend a little bit of time talking  I mean you have mentioned what you are going to do as far as some of the fab assets. Can you talk a little bit about how quickly you think you can assimilate this deal?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+There are two companies involved and I will let Keith answer his question of it. I believe that we understand the microcontroller piece of the business quite well and we would be able to rapidly assimilate the microcontroller part of the deal. We are going to, as Ganesh said, maintain both roadmaps to start using joint intellectual property across the portfolios. So we feel quite comfortable that we will able to assimilate it very, very rapidly.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+ 
+ 
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+ 
+The ASIC is the one that we are not going to assimilate. If it is not sold prior to the completion of the transaction, then we will hold the business as an asset held for sale and essentially put that as a similar line below the operating profit line and the business is largely a breakeven type so it would not change the aesthetics of the P&L in any way. So that is the one we are not going to assimilate and then sell it either before or soon after.
+ 
+Doug Freedman
+- American Technology Research - Analyst
+ 
+Can you discuss why the ASIC business is not anyone's interest presently? Why ON or Microchip are not interested in that business?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I will speak for Microchip. We are in the standard business, all of our products are standard field programmable, microcontrollers, every one of our products goes to thousands of customers around the world. Microchip has 63,000 customers around the world. So our expertise is really understanding the common needs of a large number of customers and then developing products which through a broad distribution and direct channels will sell to thousands of customers around the world in various market segments like consumer, industrial, automotive, communication and personal computer segment. Our business is not trying to make one mask set for one customer which is really what ASIC is.
+ 
+So in our business model, we do not consider that business to be scalable. Atmel has now tried for many years and that is the worst performing business in its portfolio also. Having said that, they are a company that does a very, very good job at it. And I think many of those companies will see that as a very valuable portfolio and those are some of the ones we will be talking to. I will let Keith talk from his part of it.
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+On the ON side, the ASIC business really doesn't fit the model I described earlier of having a strong alignment with our current manufacturing supply chain and customer base. So really we are looking for things that will take advantage of the strengths that ON Semiconductor has in a very fast fashion for return not only to our customers but to the  or to our shareholders but to the customers and employees as well. So just really doesn't fit from what we can tell publicly.
+ 
+Doug Freedman
+- American Technology Research - Analyst
+ 
+Alright, my last question for you both. In looking at the deal knowing that Microchip and ON Semiconductor both sell to a very broad array of customers, is any of the Atmel customer base additive for either one of you?
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Well, we are going to find that we do business with 63,000 customers and Atmel does business with thousands of customers. We will definitely find customers where they have won and we did not and customers where we have won and they did not and customers where we shipped to jointly. So I think you are going to find all combinations of that question.
+ 
+Keith Jackson
+- ON Semiconductor Corporation - CEO
+ 
+And in ON's case although the customer base I believe is very similar, what you do find is that different depths of relationships are present with different companies out there. And we think that actually Atmel has some very good relationships in areas that would make ON a little stronger and vice versa, where we have got some great relationships to open their product base to some of our other customers. So the net of it is we do think we will be stronger at more customers with the combination.
+ 
+Doug Freedman
+- American Technology Research - Analyst
+ 
+Thank you.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Operator, one last question if you have one.
+Operator
+ 
+John Pitzer, please go ahead.
+ 
+John Pitzer
+- Credit Suisse - Analyst
+ 
+Good morning, appreciate taking the call. I apologize  I jumped on a little bit late but I am kind of curious as to why now on the deal? There's a lot of concern in the market place that because of the financial crisis we could be seeing a couple of quarters of fairly poor end demand for technology in general and typically, albeit not always, acquisitions tend to mark the bottom of the cycle, not necessarily occur when the market is concerned that we are going into it.
+ 
+So I guess why now and if we are or go into a period of poor demand because of the financial crisis, how does that change your ability to integrate this acquisition or anything on that front? Thanks.
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+I think that is the best time to do so because that is the best time to retain employees, it's the best time to combine it and possibility to take some of the redundant assets out. It is the best time to get the synergies and use the remaining assets and fully utilizing them when some of the growth opportunities are less available because of the difficult marketplace. So I will turn your question around  I think you are answering your own question a little bit.
+ 
+John Pitzer
+- Credit Suisse - Analyst
+ 
+(multiple speakers) Steve, to play devils advocate a little bit. Relative to the valuation you are paying, that perception might change fairly dramatically over the next couple of quarters.
+ 
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+That is represented in a 52.4% premium. So we think that is a very, very handsome premium. In a different time, that premium would have been a lot lower. So I think through that hefty premium, we are paying the fair and full value of it that you would pay in a different time.
+ 
+Don Colvin
+- ON Semiconductor Corporation - CFO
+ 
+Just one thing. It's Donald here. We are just completing the last stages of the AMI integration. As Steve stated, this will take a quarter or two at best to complete. So the timing for us is perfect in the sense it will dovetail nicely through the last stages of the AMI and we have some resources available for that. So at a time when Wall Street is telling us don't count for much growth in the near term, it is appropriate that we turn our resources towards earnings enhancement activities like integrating companies and adding to our cash flow and our profitability.
+ 
+John Pitzer
+- Credit Suisse - Analyst
+ 
+Great, thanks guys. That is the one question I had. I appreciate it.
+ 
+Operator
+ 
+That does conclude our question-and-answer session today. And I will go ahead and turn it back over to Mr. Steve Sanghi.
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+FINAL TRANSCRIPT
+ 
+Oct. 02. 2008 / 9:00AM ET, MCHP - Microchip Technology and ON Semiconductor Proposed Acquisition of Atmel Corporation
+Steve Sanghi
+- Microchip Technology Incorporated - President and CEO
+ 
+Yes, thank you all for joining us this morning, both on behalf of a ON Semiconductor and Microchip. We look forward to updating you as we move through this process. Thank you very much.
+ 
+Operator
+ 
+Ladies and gentlemen, that concludes today's conference call. Thank you for your participation and have a wonderful day.
+ 
+DISCLAIMER
+ 
+Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+ 
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+ 
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION  PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+ 
+ 2005, Thomson StreetEvents All Rights Reserved.
+ 
+ 2008 Thomson Financial. Republished with permission. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of Thomson Financial.
+
+Exhibit 99.2
+ 
+
+

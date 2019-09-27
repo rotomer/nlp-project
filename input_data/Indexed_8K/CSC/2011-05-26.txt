@@ -1,0 +1,489 @@
+FILE:CSC/CSC-8K-20110526174507.txt.gz
+EVENTS:	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Item 7.01.                      Regulation FD Disclosure
+On May 25, 2011, Computer Sciences Corporation (the Company) held a teleconference to discuss the Companys fourth quarter and year end results, a transcript of which is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+The information included in this Current Report on Form 8-K, including the transcript attached as Exhibit 99.1, is incorporated by reference into this Item 7.01 in satisfaction of the public disclosure requirements of Regulation FD. This information is furnished and not filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Securities Exchange Act of 1934 or the Securities Act of 1933 only if and to the extent such subsequent filing specifically references the information incorporated by reference herein.
+Item 9.01.                      Financial Statements and Exhibits
+Exhibit
+99.1                      Transcript of the Registrant dated May 25, 2011 (furnished herewith).
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+ 
+ 
+ 
+ 
+Exhibit
+99.1                      Transcript of the Registrant dated May 25, 2011 (furnished herewith).
+ 
+ 
+ 
+
+ 
+ 
+CORPORATE PARTICIPANTS
+ 
+ Bryan Brady
+ Computer Sciences Corporation - VP of IR
+ 
+ Mike Laphen
+ Computer Sciences Corporation - Chairman, President and CEO
+ 
+ Mike Mancuso
+ Computer Sciences Corporation - VP and CFO
+ 
+ 
+CONFERENCE CALL PARTICIPANTS
+ 
+ David Grossman
+ Stifel Nicolaus - Analyst
+ 
+ Nathan Rozof
+ Morgan Stanley - Analyst
+ 
+ Bryan Keane
+ Credit Suisse - Analyst
+ 
+ Darrin Peller
+ Barclays Capital - Analyst
+ 
+ Rod Bourgeois
+ Sanford C. Bernstein & Company, Inc. - Analyst
+ 
+ 
+ PRESENTATION
+ 
+ 
+Operator
+ 
+ Good day, everyone, and welcome to the CSC fiscal year 2011 fourth-quarter earnings conference. Today's call is being recorded. Now, for opening remarks and introductions, I'd like to turn the conference over to Mr. Bryan Brady, Vice President of Investor Relations. Please go ahead.
+ 
+1
+ 
+Final Transcript
+ 
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ Thank you, Operator. Good afternoon, ladies and gentlemen, and welcome to CSC's earnings call for the fourth quarter of our fiscal year 2011. We issued our preliminary financial results earlier this afternoon, so hopefully, you've had an opportunity to review them.
+With me today are Mike Laphen, our Chairman and Chief Executive Officer, and Mike Mancuso, our Chief Financial Officer. As usual, this call is being webcast at CSC.com and we've also posted slides to our website to accompany our discussion.
+So moving to slide two, you'll see a reminder that statements made during this call that are not historical facts may be considered forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to known and unknown risks and uncertainties, which could cause actual results to differ materially. Additional information concerning these risks and uncertainties is contained in the Company's filings with the SEC. Copies of these filings are available from the SEC, from our website, and from our Investor Relations Department.
+On slide three, you'll see our acknowledgement that CSC's presentation includes certain non-GAAP financial measures. So, in accordance with SEC rules, a reconciliation of these metrics to GAAP metrics is included in the tables of the earnings release and in the appendix to our slides. Both documents are available for you to review at the Investor Relations section of the CSC website.
+Please refer to slide four for a statement on the ongoing investigation related to the Nordics. And Mike will comment further on this.
+Finally, I'd like to remind the listeners that CSC assumes no obligation to update the information presented on this conference call, except, of course, as required by law. Now if you'll kindly move on to slide number six, I'm pleased to turn the call over to Mike Laphen.
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ Thank you, Bryan. Good afternoon, ladies and gentlemen, and thank you for joining us today.
+As I'm sure you've seen in our earnings release, we are presenting preliminary unaudited financial results today, with the expected completion of our audit and filing of our 10-K by no later than June 15. This delay is necessary to allow our Audit Committee to accomplish some additional investigative work related to our previously disclosed accounting irregularities in our MSS Nordics region, and to allow our auditors to then finalize the audit. We have filed a Form 12b-25 with the SEC today, confirming that we expect to file our 10-K by no later than June 15.
+Although fiscal year '11 was challenging, given the NHS uncertainty, the unexpected difficulties in the Nordics, and the delays in the federal budgets, we are pleased with the positive revenue growth in our commercial business, both sequentially and year-over-year. Importantly, excluding these challenges, our underlying business is where we said it would be in terms of operating margin and free cash flow.
+Additionally, we significantly strengthened our balance sheet by paying down debt; initiated a payment of a dividend; defined and activated an open market stock buyback program; and secured a new backstop credit facility. We also continued to implement our strategy with positive results that signal we're on the right path for future success. Our acquisitions have been focused on our high-growth segments in cybersecurity, acquiring important intellectual property for our healthcare vertical, and expanding in Brazil, a key geography.
+ 
+2
+ 
+Final Transcript
+ 
+With respect to new business, our fiscal year '11 bookings totaled $14 billion. As we indicated at our recent Investors Conference, circumstances did not accommodate the timeframe we and our clients had envisioned for some $2 billion of additional awards. Of this amount, we are pursuing approximately $1.7 billion of pending awards, which are either sole-source or for which we have been down-selected and are the only party in active client negotiations. Additionally, there were further delays of some $1 billion of US federal government opportunities whose award announcements were anticipated to have closed in the fourth quarter.
+In the first few weeks at April, four of these opportunities, worth approximately $200 million, were awarded to CSC. These and the others that follow will now be booked as fiscal year '12 awards.
+Cash performance for fiscal year '11 was solid, as we delivered $620 million of free cash flow. While this is only 84% of net income, the performance in the rest of the business overcame 25 of the 35 points of negative cash impact resulting from the NHS program.
+With respect to the NHS program, as you know, we've been in protracted negotiations on a non-binding agreement in principle, or MOU, to realign our contract with the direction the NHS wants to take the program. The UK government is currently conducting a review of the entire NHS national program. The proposed MOU terms are included within the scope of this review, and therefore, signing an agreement is dependent upon the completion of the government's process. The financial impact of our proposed MOU terms are included in our Q4 and full-year results. Mike Mancuso will provide further details in his comments.
+Our commercial markets continue to improve throughout fiscal year '11. Our MSS and BSS segments each delivered positive year-over-year growth in every quarter throughout fiscal year '11 as reported. Overall, commercial business grew 2.7% for the fourth quarter and 2.2% for the full year as reported, and inclusive of all NHS impacts.
+Our pipeline for commercial opportunities stands at $16 billion with several deals in the late stages of negotiation. These, together with some of the late wins in the fourth quarter, will provide the opportunity for revenue ramp-ups in fiscal year '12.
+In summary, our commercial markets have turned positive and our commercial business is growing. Setting aside the Nordics and the one-time adjustments in the NHS program, the underlying profitability of the current portfolio in fiscal year '11 was about 9%. This provides a constructive basis for a positive overall result in fiscal year '12.
+Turning then to our US federal business. Throughout our fourth quarter, the US federal government operated without an agreed budget. Our government clients remained unsure of their fiscal situation and were unable to initiate new programs while operating under continuing resolutions. Those awards that were announced continued to be heavily contested, with further substantial delays caused by contract protest. As a result, basic market operating conditions slowed tremendously, impacting both revenue and booking projections.
+Adding to these uncertainties, many companies operating in U.S. Federal market have been required to divest business units due to government concerns over organizational conflict of interest, or OCI. We were similarly impacted. And as a result, in fiscal year '11, we divested two business units due to these OCI concerns. The financial impacts of these actions are expressed as discontinued operations in our fourth-quarter and full-year results.
+As we look forward, the US Federal market remains an attractive $500 billion marketplace. Within this market, we expect the topline IT budgets will be slightly positive. However, within that spend, there will be significant shift in the type and mix of spending, as IT departments focus on achieving greater efficiencies. We believe these shifts in expenditures are favorable to the types of services offerings that CSC provides, and represents an opportunity for our public sector business.
+ 
+3
+ 
+Final Transcript
+ 
+Additionally, our strategic market segments continue to grow, and we plan to continue to invest in these high-growth market segments, which include data center consolidation, virtualization and cloud, health IT, cybersecurity, and identity and privacy.
+Currently, we have more than $6 billion in submitted proposals awaiting award by the government, and a 12-month pipeline of some $20 billion of opportunities, more than half of which are in our selected high-growth segments. Given the approved DoD budget for the remainder of the government fiscal year, we are hopeful that some of our clients will now be able to announce awards more expeditiously.
+In summary, uncertainty still exists within our Federal market while our commercial markets have continued to strengthen. We are projecting top line growth for fiscal year '12 in the range of 3% to 6%, based on a range of 0% to 3% for the Federal business, and 5% to 8% for our commercial business. We expect slightly higher EPS growth in the range of 4% to 6%, based on continuing improvement and mix, cost controls, and execution improvements.
+We are forecasting operating margins in the range of 8.75% to 9.25%, given our normalized performance of 9% in fiscal year '11 and the absence of further Nordic or NHS adjustments. We're also projecting cash performance will return to our normal projection of greater than 90% of net income.
+I'll now turn it over to Mike Mancuso for further details of our fourth-quarter results and our outlook for fiscal year '12.
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Thanks, Mike, and good afternoon. Let's get right to the numbers. I'll begin with Chart 8, which, at a high level, attempts to walk you from our February 9th guidance through the significant changes that led to our May 2nd revised guidance and to our preliminary FY '11 results.
+When we issued the February guidance, we did not contemplate the discontinued operations accounting treatment of the gains on the sale of the two businesses -- one sale that had occurred in our first half and the second that was anticipated in our fourth quarter. The gains were large enough to classify as discontinued operations. For the purposes of this chart, the guidance includes the disco ops revenue, margin and EPS. The preliminary results revenue excludes disco ops.
+As noted on the chart, the preliminary EPS result includes the disco ops gains, which were assumed in our February guidance. We were also very clear in February that our guidance did not include any impact from the NHS MOU negotiations. Other than the NHS impact, the other single most significant change from our February guidance is a 100-plus basis point increase in our tax rate, which accounts for most of the $0.11 in the middle column on the chart. There are a myriad of other plus and minuses in that $0.11, including a Nordics-related prior-period adjustment of approximately $0.04.
+With regard to NHS, we will not get into the details of the MOU-related changes, but I do want to clarify some confusion around surrounding a $0.34 EPS adjustment. It represents an inception-to-date margin adjustment on the previously recognized revenue. In other words, the anticipated overall estimated margin on the program at completion is now lower than what we had historically booked.
+But to remind you, the assumed margin rate is accretive to the FY '14 target we discussed at our May 11th Investors Conference. And before I get off this chart, I want to direct your attention to the free cash flow anticipated 84% result, despite the negative 35% NHS impact.
+ 
+4
+ 
+Final Transcript
+ 
+Now, if you'll turn to Chart 9, we expect bookings of $14 billion in FY '11 and $17 billion in FY '12. Mike Laphen gave you the insight into the FY '11 performance. Bookings in our business tend to be very lumpy. And to remind you, the MSS FY '10 actual of $8.7 billion included the $2.9 billion Zurich booking.
+Chart 10 displays our preliminary FY '11 Q4 P&L with a comparison to Q4 FY '10 on a continuing ops basis. Revenue is flat; margin lower, primarily due to the NHS adjustment, but largely offset by lower corporate G&A and interest expense. A much higher assumed FY '11 tax rate is creating the significant year-over-year disparity in EPS.
+Chart 11 displays the full-year P&L comparison. The lower OI in FY '11 is primarily the result of the Nordics corrections and the NHS adjustment. Lower corporate G&A and interest expense offset about two-thirds of the OI dilution. The significant difference in the tax rate results in a much lower EPS.
+Chart 12 displays revenue by line of business. As Michael Laphen commented earlier, we did realize respectable revenue growth in our commercial segments in line with our peers, but we are seeing a decline in our public sector revenue.
+Chart 13, operating income by line of business -- you can see year-over-year reduction in MSS and BSS are driven by the Nordics and NHS adjustments discussed earlier. Our balance sheet on Chart 14 represents solid year-over-year improvement. By paying down our $1.5 billion fully drawn revolver, we dramatically improved our debt ratios. We enter FY '12 with ample liquidity.
+On Chart 15, you can see a significant sequential reduction in days sales outstanding, or DSOs, and a respectable improvement over last year. And as depicted on Chart 16, although we didn't match last year's 99% free cash flow to net income ratio, we feel very good about the 84%, given the lower NHS receipts.
+Chart 17 reiterates our FY '12 guidance, with revenue growth in the 3% to 6% range; a significant improvement on OI margin; and a 4% to 6% increase in EPS despite a much higher FY '12 tax rate. This does assume the NHS program proceeds within the framework of the anticipated MOU. And, as the chart footnote says, this guidance excludes any impact from the pending iSOFT acquisition. We will update our guidance after the transaction is completed. On Chart 18, we've taken our best shot at quarterly EPS guidance, at least for the first two quarters.
+So, in summary, obviously, there are a lot of moving parts with many unsettled activities underway. However, the basic fundamentals of CSC are solid. We have the right strategy, technology, people, and resources, and we are committed to delivering on our potential.
+Now I'll turn it back to Bryan to start the Q&A.
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ Thank you, Mike. We'll now hold our Q&A session, ladies and gentlemen. So, Operator, would you please advise everyone of the process and announce our first caller, please?
+ 
+5
+ 
+Final Transcript
+ 
+ 
+QUESTION AND ANSWER
+ 
+ 
+Operator
+ 
+ Of course. (Operator Instructions). Our first question will come from David Grossman, Stifel Nicolaus.
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ I was wondering -- there's obviously been a lot of noise in the press recently about the NHS contract. Can you help us understand whether the assumptions that you're making in your fiscal '12 guidance are more or less consistent with what we're reading now? Or should we kind of think about this as a continued work in process, where there could be fairly substantial adjustments either up or down to what you're assuming in your guidance?
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ Well, David, our guidance assumes the terms that we have negotiated on the pending MOU. So, whatever adjustments would come along with the signing of that MOU have already been incorporated in our fourth-quarter and fiscal year '11 results. So, given the signing of the MOU, as it stands today, there would be no further adjustments.
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ And when was that signed, Mike?
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ No, it's not signed yet -- that's what I'm saying -- when it would be signed. So we're awaiting the final approval process to go through. There is a review underway as we speak, and we would expect that that will be finalized in the June timeframe. But, of course, the government runs its own timetable, so I can't guarantee that, David. But that's what our expectation would be, is that around the June timeframe.
+ 
+6
+ 
+Final Transcript
+ 
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ I see. And then, in terms of getting back to the guidance -- and maybe this is for you, Mike Mancuso -- I'm having a little trouble backing into the EPS number. Just using even the low end of the revenue and margin guidance, I'm getting a number substantially higher. Is there something in there that perhaps I'm missing, that may get you to the $4.70 to $4.80? I'm actually getting a substantially higher number.
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Well, David, you pick your revenue number and you pick your OI number in the range that we're talking about. And if you assume reasonable behavior in the below-the-line items of corporate G&A, interest expense and the like, you assume no additional gains from divested businesses in the numbers, and you apply a 32% tax rate, I think you should zero right in on that $4.70 or $4.80 kind of number.
+The tax rate alone is worth about $0.40 to $0.50 year-over-year. So you could -- if we applied the FY '11 tax rate to FY '12, you could add $0.50 to that EPS and get yourself up around $5.25, $5.30 real quick. So that's the best I can tell you on that.
+Now, David, the story on FY '11 is really not EPS. And this is not an attempt to divert your attention away from it. The story on FY '12 is -- and I mean FY '12 -- is about revenue. If we achieve the revenue growth we're expecting, the EPS numbers are going to be significantly perturbated by whatever happens with the iSOFT acquisition, assuming it closes and when it closes.
+We'll be converting IFRS to GAAP; there will be significant adjustments in the accounting, which will affect EPS, including spending integration costs. So, not to divert you away from the EPS number, but if you want to think about us, think about the revenue, whether it's achievable, et cetera, et cetera. The rest of it will fall to the bottom line as it does. And yes, the tax rate can move around, kind of thing, but for now, that $4.70 to $4.80 is in the proper ballpark, given the revenue ranges and margin ranges we're giving you.
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ I see. Well, thank you for that. And then just one last question then is -- looking at the verbiage about what's going on in the Nordics and the SEC verbiage -- or the verbiage around the investigation, what you're doing internally, how much of that is incremental, vis-a-vis what we talked about, I guess, when this came out several weeks ago?
+And then, secondly, at least from your internal investigations, is that pretty much complete now? And are you waiting for the SEC? Or are you still internally in the process of getting your arms around any potential incremental exposure?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ David, as best we know at the moment from our own activities, notwithstanding the investigation that's going on, any accounting adjustments out of the Nordics have already been reflected in the numbers you're looking at, including, as I said earlier, a $0.04 adjustment in the fourth quarter itself. The investigation, we can't comment, obviously, on the details of it, the progress of it, the length of it. It's not in our control. We're obviously cooperating, but the accounting reflects the best that we know at this point in time.
+ 
+7
+ 
+Final Transcript
+ 
+ 
+ David Grossman
+- Stifel Nicolaus - Analyst
+ 
+ Very good. Thank you.
+ 
+Operator
+ 
+ Nathan Rozof, Morgan Stanley.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Thanks for taking my question. Just to touch a little bit more on the MSS issue -- Mike Mancuso, I know you were real proactive at looking beyond the Nordic region to make sure there weren't any similar problems elsewhere. I just wanted to confirm from you whether or not the SEC or the Board's independent review has also expanded beyond the Nordic region as well?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Nathan, frankly, I'm not in a position to be able to comment on the investigation.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Okay, that's fair. And then, just on the federal business and the discontinued ops, can you give us a sense for what the revenue growth rate -- I assume that's not reflected in the fourth quarter -- what it would have been if those business units hadn't gone to disco ops? And what the underlying growth rate would have been in FY '12 in that business without the impact of that as well?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Well, the revenue impact of the divested businesses in FY '11 -- and it's, hopefully, to help you answer your question -- would have been about $100 million. So, we're going into FY '12 without that $100 million of divested revenue.
+Now on the other hand, we have made some modest acquisitions in the federal business in FY '11 that will create revenue in FY '12, and for the most part offset, if you will, the revenue that evaporated with the divestitures. So, it's really not about acquisition impact in the federal business. It's all about what happens with the budget and the clarity in the budget, and when that clarity is introduced -- be it in the early fall or we drift to continuing resolutions, et cetera, et cetera. So, best I can tell you on that one.
+ 
+8
+ 
+Final Transcript
+ 
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Okay. That's fair. And then just last question for me. On the iSOFT acquisition, I realize that F '12 doesn't include that, given that it isn't closed yet. But it's -- I mean, it makes sense from a strategic rationale in terms of why you'd move into that business in the healthcare space. But given that it's a relatively small business in terms of revs, but is loss making under its current corporate structure? Can you help us think about what the parameters might be, in terms of the dilutive impact for CSC and F '12, assuming you close it kind of mid-year?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ I can't tell you exactly that number, and that's why we haven't effected it into our guidance, Nathan. On the revenue comment you made, roughly, on a full-year basis, iSOFT generates $300 million to $400 million of revenue -- their numbers, their historical and forecasted performance kind of thing. So, again, not insignificant. Obviously, we'll convert the accounting from IFRS to GAAP. That will affect revenue. When we close it will affect revenue and so on.
+Integration costs and the accounting will affect the dilution. But again, there's too many moving parts to try and pin a number around it. It is a strategic acquisition and you really need to think about iSOFT in terms of FY '13. If it closes at a reasonable time within FY '12, we'll be through the integration activities and the rationalization activities. And the real impact of it will be felt FY '13 and beyond.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ So it will be accretive in FY '13?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Yes.
+ 
+ Nathan Rozof
+- Morgan Stanley - Analyst
+ 
+ Okay. Great. Thanks so much, guys.
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ Thanks, Nathan. Next, Operator.
+ 
+9
+ 
+Final Transcript
+ 
+ 
+Operator
+ 
+ We'll hear next from Bryan Keane, Credit Suisse.
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ I just wanted to get a breakout of the discontinued ops. Is there a way to break it out, just, say, different pieces there for the $0.22?
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ I'm sorry, could you repeat that again?
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ The discontinued operations, I think it totals $0.22. I just wanted to get -- is that a bunch of different pieces? I know there's a federal piece in there. I just want to get (multiple speakers) --
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ No, it's the two businesses and the sales of which we announced earlier, Bryan. It's all in the federal space, those two businesses.
+As I said, it was about $100 million worth of FY '11 revenue. The gains, top of my head, were approximately $40 million -- $50 million-plus on the divested businesses. That's not tax-effected, so apply the tax rate to it and divide by 157 million or 158 million shares, and you've got your number.
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ I would just add that we're not aware of any other OCI possibilities in our contract base. And when you look at $100 million, all in all against a $16 billion base, and approximately a $6 billion base in our federal business, that was a pretty minor impact of OCI relative to what we're seeing some of our peers experience. So we think that's all behind us now, and, at least at this point, don't expect any additional impacts.
+ 
+10
+ 
+Final Transcript
+ 
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ Okay. That's helpful. And then, Mike Mancuso, just on the first-quarter EPS of $0.65 to $0.70 -- that's quite a bit lower than, I think -- than consensus. Is there some one-timers in there that drops that number in particular? I mean, I assume it's going to be margins will be down significantly year-over-year in Q1?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Well, any right-sizing or workforce adjustments that take place across the business take place primarily in the first quarter, so that we see the yield in the year. So that's been a factor.
+Obviously, historically, our first quarter is always the lowest quarter in the year. Another factor -- the Nordics business, to remind you is, its run rate is quite low at the point. As a matter of fact, there's a strike going on right now in the Nordics business that will be affecting income generation in the first quarter. So, lots of -- a handful of items in the first quarter, Bryan. No one significant jumping out at you kind of thing.
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ Is there anything -- any lower margin expected that's putting extra pressure on Q1 from the NHS contract?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ (multiple speakers) No.
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ No. NHS is budgeted at the revised MOU rates, so, no, that's not impacting it.
+I would just amplify a little bit on Mike's remarks that we're being a bit more aggressive this fiscal year, in terms of our right-sizing than we were last year. That all neutralizes itself throughout the year as we recover the savings. And we have a couple of startup programs as well that we're investing in, in the first quarter. So I guess you could look at that as more of a one-off than anything else.
+So it's a little bit impacted by that as well. But other than that, it's a typically normal Q1, just a little bit more aggressive in some of the rightsizing.
+ 
+11
+ 
+Final Transcript
+ 
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ Okay. And then just last question for me. The revenue guidance has still shown a pretty considerable growth rate. Did you guys consider at all maybe starting with more conservative level and then waiting for maybe the business to come in? Just wanted to get your thoughts on the revenue guidance.
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Well, we were worried about your first-quarter EPS number and margin rates, so we -- Bryan, we've been criticized for being too aggressive. We could be criticized for being too conservative. I think Mike elaborated at the Investors Conference that we were adopting a reasonable growth pattern in the commercial business, which is supported by what we're seeing right now in the commercial businesses. And a rather conservative approach to the federal government business, with fundamentally a 0% to 3% kind of growth number in the federal business.
+So I think on balance, it's about the right number based on what we know and what we're seeing right now. It assumes continued recovery on the commercial side. And it assumes a rather very gradual recovery on the federal side.
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ You know, I would -- again, I would just add that Q4, our commercial business, excluding NHS, was up a bit over 5%, and that's coming off of a comparable number in the -- well, the full year is 4%, so obviously trending up. And we would expect something similar to that in Q1 right now for a go-forward basis. And, as Mike said, we're probably flat to slightly negative or slightly positive on the federal business. I think that's still a wait-and-see a bit.
+ 
+ Bryan Keane
+- Credit Suisse - Analyst
+ 
+ Okay. Very helpful, thanks.
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ (multiple speakers) Thanks, Bryan. Next, Operator.
+ 
+Operator
+ 
+ (Operator Instructions). We'll hear our next question from Darrin Peller, with Barclays Capital.
+ 
+12
+ 
+Final Transcript
+ 
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ Thanks. Just first on the Nordics adjustments taken again this quarter, can you just comment on what it actually related to this time? And just given it's been ongoing for a few quarters now, what really gives you confidence that it's completed now?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Intensive oversight, Darrin, in a nutshell. I mean, we've obviously been all over the Nordics from the time the situation surfaced. We're continuing over it. We pore over everything. You put enough people to work on everything and potentially you could find some things you may have missed earlier. It was a capitalization -- it was an over-capitalization issue on a piece of equipment. The numbers were wrong and we reflected the proper level of depreciation and capitalization.
+There are literally thousands of assets that have been capitalized across the businesses, so just to try and give you an order of magnitude in terms of the work that's ongoing. We're confident that we've found it all, but we could be proven wrong.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ All right. On the commercial segment, just a little more color on the growth. I mean, you still seem to be expecting some acceleration in the commercial segments beyond this quarter. Can you just give us a little idea as to what's really driving that?
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ Yes, I would say on the commercial side, our Business Solutions and Services side, we're expecting some good growth numbers on that side of the business. And we also -- if we complete the MOU in a timely way with the NHS government, we would also expect an uptick in revenue on the NHS contract as well.
+So I would say that's the primary area. I think the MSS business will be essentially in the low single digits. So as we have planned and as our strategic direction is taking us, we see BSS as our growth engine. And that's proving out to be correct.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ Okay. Just one last question on the outlook. I mean, when you think about the guidance you're giving of $16.5 million, $17 million on revenues, what would you say is, on a percentage basis, is something that you actually have visibility into right now, in the sense of deals that have been locked in and are ready to go?
+ 
+13
+ 
+Final Transcript
+ 
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ $16.5 billion to $17 billion. Darrin, that's based on our backlog. It's based on what's in negotiation now. It's based on presumed signings and win ratios and budgets, and end-of-year revenue and so on. So it's a combination of our visibility.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ And then have you completed anything on the share buyback initiative?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Only what's been reported in the press release. It's an open market purchase, so we're obviously governed by blackout periods and other privileged information, which precludes us from being able to be in the market.
+ 
+ Darrin Peller
+- Barclays Capital - Analyst
+ 
+ Okay. All right, thanks, guys.
+ 
+Operator
+ 
+ We'll move on to our next caller which comes from Rod Bourgeois, Bernstein.
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Company, Inc. - Analyst
+ 
+ Yes, guys, can you just give us an update on your latest unbilled receivables balance and your latest balance of outsourcing contract costs as well?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ No, we can't, Rod. We don't have that kind of detail in front of us here. Happy to provide it to you offline.
+ 
+14
+ 
+Final Transcript
+ 
+ 
+ Rod Bourgeois
+- Sanford C. Bernstein & Company, Inc. - Analyst
+ 
+ Okay. And then just in terms of the -- in light of the Nordic region accounting irregularities, have you conducted any extensive effort to scrub the accounting and margins on key contracts in other parts of the business, just to make sure that some of those similar issues like over-capitalization aren't occurring elsewhere in the Company?
+ 
+ Mike Mancuso
+- Computer Sciences Corporation - VP and CFO
+ 
+ Of course we have. But I'm not going to comment on the details of the investigation of our efforts.
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ Okay, thanks, Rod. Operator, I think we're -- that concludes the Q&A session. And Mike, would you like to summarize it?
+ 
+ Mike Laphen
+- Computer Sciences Corporation - Chairman, President and CEO
+ 
+ Well, thank you for joining us. As you might expect, we look forward to filing our 10-K not later than June 15 and put fiscal year '11 behind us.
+We're excited about fiscal year '12. We think we have great opportunity. We think we have great market position. And as we've said during this call, we think our core business is performing well, and we expect it to continue to perform well. And our strategic direction is proving out to be the right direction for us to have topline success.
+So, thank you very much for joining us.
+ 
+ Bryan Brady
+- Computer Sciences Corporation - VP of IR
+ 
+ Thank you.
+ 
+Operator
+ 
+ And once again, everyone, this does conclude today's conference call. We thank you all for your participation.
+ 
+15
+ 
+Final Transcript
+ 
+ 
+16
+ 
+
+

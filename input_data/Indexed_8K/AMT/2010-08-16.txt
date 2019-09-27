@@ -1,0 +1,510 @@
+FILE:AMT/AMT-8K-20100816073734.txt.gz
+EVENTS:	Other Events	Financial Statements and Exhibits
+TEXT:
+ITEM: Other Events
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On August 12, 2010, American Tower Corporation (the "Company") issued a press release announcing that it had priced its registered public offering of senior unsecured notes due 2020 (the "Notes") on August 11, 2010. The Notes will have an interest rate of 5.050% per annum and are being issued at a price equal to 99.88% of their face value. The Company's press release, dated August 12, 2010, is filed herewith as Exhibit 99.1, and is incorporated herein by reference.
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+
+Exhibit 4.1
+ 
+ 
+ 
+ 
+(the ""), dated as of , between American Tower Corporation, a Delaware corporation (the ""), and The Bank of New York Mellon Trust Company, N.A., a national banking association, as trustee (the "").
+SUPPLEMENTAL INDENTURE NO. 1
+Supplemental Indenture
+                    
+Company
+Trustee
+WHEREAS, the Company and the Trustee have executed and delivered a base indenture, dated as of May 13, 2010 (as amended, supplemented or otherwise modified from time to time, the "," and, together with this Supplemental Indenture, as amended, supplemented or otherwise modified from time to time, the "") to provide for the future issuance of the Company's senior debt securities to be issued from time to time in one or more series; and
+Base Indenture
+Indenture
+WHEREAS, pursuant to the terms of the Base Indenture, the Company desires to provide for the establishment of a series of its Securities, to be titled as its "5.050% Senior Notes due 2020," the form and substance of such Securities and the terms, provisions and conditions thereof to be set forth as provided in the Indenture;
+Each party agrees as follows for the benefit of the other party and for the equal and ratable benefit of the Holders of the Securities.
+ 
+Capitalized terms used herein without definition shall have the respective meanings ascribed to them in the Base Indenture. The following definitions supplement, and, to the extent inconsistent with, replace the definitions in Article I of the Base Indenture:
+"" means resolutions duly adopted by the Board of Directors of the Company and delivered to the Trustee in an Officers' Certificate providing for issuance of Additional Securities.
+Additional Security Board Resolution
+"" means a supplement to this Indenture duly executed and delivered by the Company and the Trustee pursuant to Article 7 of the Base Indenture.
+Additional Security Supplemental Indenture
+"" means the Company's Securities originally issued hereunder after the Issue Date pursuant to Section 2.13 hereof, except for Securities authenticated and delivered upon registration of, transfer of, or in exchange for, or in lieu of other Securities pursuant to Section 3.07, 3.09, 7.05 or 9.06 of the Base Indenture, or 4.01(b) hereof, as specified in the relevant Additional Security Board Resolutions or Additional Security Supplemental Indenture issued therefor in accordance with this Indenture.
+Additional Securities
+"" means, for the 12-month period preceding the calculation date, for the Company and its Subsidiaries on a consolidated basis in accordance with GAAP, the sum of (a) Net Income, plus (b) to the extent deducted in determining Net Income, the sum of (i) Interest Expense, (ii) income tax expense, including, without limitation, taxes paid or accrued based on income, profits or capital, including state, franchise and similar taxes and foreign withholding taxes, (iii) depreciation and amortization (including, without limitation, amortization of goodwill and other intangible assets), (iv) extraordinary losses and non-recurring non-cash charges and expenses, (v) all other non-cash charges, expenses and interest (including, without limitation, any non-cash losses in respect of Commodity Agreements, Currency Agreements or Interest Rate Agreements, non-cash impairment charges, non-cash valuation charges for stock option grants or vesting of restricted stock awards or any other non-cash compensation charges, and losses from the early extinguishment of Indebtedness) and (vi) non-recurring charges and expenses, restructuring charges, transaction expenses (including, without limitation, transaction expenses incurred in connection with any merger or acquisition) and underwriters' fees or discounts, and severance and retention payments in connection with any merger or acquisition, in each case for such period, less extraordinary gains and cash payments (not otherwise deducted in determining net income) made during such period with respect to non-cash
+Adjusted EBITDA
+charges that were added back in a prior period; , , (I) with respect to any Person that became a Subsidiary, or was merged with or consolidated into the Company or any Subsidiary, during such period, or any acquisition by the Company or any Subsidiary of the assets of any Person during such period, "Adjusted EBITDA" shall, at the option of the Company in respect of any or all of the foregoing, also include the Adjusted EBITDA of such Person or attributable to such assets, as applicable, during such period as if such acquisition, merger or consolidation had occurred on the first day of such period and (II) with respect to any Person that has ceased to be a Subsidiary during such period, or any material assets of the Company or any Subsidiary sold or otherwise disposed of by the Company or any Subsidiary during such period, "Adjusted EBITDA" shall exclude the Adjusted EBITDA of such Person or attributable to such assets, as applicable, during such period as if such sale or disposition of such Subsidiary or such assets had occurred on the first day of such period.
+provided
+however
+"" means, with respect to any redemption date:
+Adjusted Treasury Rate
+(1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated "H.15(519)" or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption "Treasury Constant Maturities," for the maturity corresponding to the Comparable Treasury Issue (if no maturity is within three months before or after the Remaining Life, yields for the two published maturities most closely corresponding to the Comparable Treasury Issue shall be determined and the Adjusted Treasury Rate shall be interpolated or extrapolated from such yields on a straight line basis, rounding to the nearest month); or
+(2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per annum equal to the semi-annual equivalent yield to maturity of the Comparable Treasury Issue, calculated using a price for the Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the Comparable Treasury Price for such redemption date.
+The Adjusted Treasury Rate shall be calculated on the third Business Day preceding the redemption date.
+"" has the meaning assigned to such term in Rule 13d-3 and Rule 13d-5 under the Exchange Act, except that in calculating the beneficial ownership of any particular "person" (as that term is used in Section 13(d)(3) of the Exchange Act), such "person" will be deemed to have beneficial ownership of all securities that such "person" has the right to acquire by conversion or exercise of other securities, whether such right is currently exercisable or is exercisable only upon the occurrence of a subsequent condition. The terms "Beneficially Owns" and "Beneficially Owned" have a corresponding meaning.
+Beneficial Owner
+"" means, at the time any determination is to be made, the amount of the liability in respect of a capital lease that would at that time be required to be capitalized on a balance sheet in accordance with GAAP.
+Capital Lease Obligation
+"" means:
+Capital Stock
+(1) in the case of a corporation, corporate stock;
+(2) in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock;
+(3) in the case of a partnership or limited liability company, partnership or membership interests (whether general or limited); and
+(4) any other interest or participation that confers on a Person the right to receive a share of the profits and losses of, or distributions of assets of, the issuing Person.
+"" means the occurrence of any of the following:
+Change of Control
+(1) the adoption of a plan relating to the liquidation or dissolution of the Company;
+ 
+(2) any "person," as such term is used in Section 13(d)(3) of the Exchange Act, becomes the Beneficial Owner, directly or indirectly, of more than 50% of the voting power of the Voting Stock of the Company; provided that a transaction in which the Company becomes a Subsidiary of another Person shall not constitute a Change of Control if (a) the stockholders of the Company immediately prior to such transaction Beneficially Own, directly or indirectly through one or more intermediaries, 50% or more of the voting power of the outstanding Voting Stock of such other Person of whom the Company is a Subsidiary immediately following such transaction and (b) immediately following such transaction no person (as defined above) other than such other Person, Beneficially Owns, directly or indirectly, more than 50% of the voting power of the Voting Stock of the Company; or
+(3) the first day on which a majority of the members of the Board of Directors of the Company are not Continuing Directors.
+"" has the meaning set forth in Section 4.01(b).
+Change of Control Offer
+"" has the meaning set forth in Section 4.01(b).
+Change of Control Payment
+"" has the meaning set forth in Section 4.01(b).
+Change of Control Payment Date
+"" means the occurrence of both a Change of Control and a Ratings Decline (as defined below).
+Change of Control Triggering Event
+"" of any Person means any commodity forward contract, commodity swap agreement, commodity option agreement or other similar agreement or arrangement to which such Person is a party.
+Commodity Agreement
+"" means the United States Treasury security selected by an Independent Investment Banker (as defined below) as having a maturity comparable to the remaining term of the Securities that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of the Securities ("").
+Comparable Treasury Issue
+Remaining Life
+"" means, for any redemption date, (1) the average of four Reference Treasury Dealer Quotations (as defined below) for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+Comparable Treasury Price
+"" means a director who either was a member of the Company's Board of Directors on the Issue Date or who becomes a member of the Company's Board of Directors subsequent to the Issue Date and whose appointment, election or nomination for election by the Company's stockholders is duly approved by a majority of the Continuing Directors on the Company's Board of Directors at the time of such approval, either by specific vote or by approval of the proxy statement issued by the Company on behalf of the Company's Board of Directors in which such individual is named as nominee for director. Solely for purposes of this definition, the term "Board of Directors" shall be defined without regard to the words "or any authorized committee of the Board of Directors of such Person or any officer of such Person duly authorized by the Board of Directors of such Person to take a specific action" in such definition.
+Continuing Directors
+"" of any Person means any foreign exchange contract, currency swap agreement or other similar agreement or arrangement as to which such Person is a party.
+Currency Agreement
+"" means any event which is, or after notice or passage of time or both would be, an Event of Default.
+Default
+"" means any Capital Stock that, by its terms (or by the terms of any security into which it is convertible, or for which it is exchangeable, in each case at the option of the holder of the Capital Stock), or upon the happening of any event, matures or is mandatorily redeemable, pursuant to a sinking fund obligation or otherwise, or redeemable at the option of the holder of the Capital Stock, in whole or in part, on or prior to the Stated Maturity of the Securities.
+Disqualified Stock
+ 
+"" means The Depository Trust Company, its nominees and successors.
+DTC
+"" means the Securities Exchange Act of 1934, as amended, and the rules and regulations of the SEC promulgated thereunder.
+Exchange Act
+"" means that certain mortgage loan more fully described in the Offering Memorandum dated April 27, 2007 regarding the $1,750,000,000 American Tower Trust I Commercial Mortgage Pass-Through Certificates, Series 2007-1.
+Existing SpectraSite Indebtedness
+"" means, with respect to any asset, the price that (after taking into account any liabilities relating to such asset) would be paid in an arm's-length transaction between an informed and willing seller under no compulsion to sell and an informed and willing buyer under no compulsion to buy, as determined in good faith by the Board of Directors, whose determination shall be conclusive if evidenced by a Board Resolution.
+Fair Market Value
+"" means Fitch, Inc. or any successor to the rating agency business thereof.
+Fitch
+"" means, with respect to any Person, (a) any Subsidiary of such Person that is not organized or existing under the laws of, and whose principal business is conducted outside of, the United States, any state thereof, the District of Columbia, or any territory thereof (for purposes of this definition only, the "United States"), or (b) any Subsidiary of such Person that is organized or existing under the laws of the United States whose only material assets are the Capital Stock of Foreign Subsidiaries meeting clause (a) of this definition.
+Foreign Subsidiary
+"" means generally accepted accounting principles set forth in the standards, statements and pronouncements of the Financial Accounting Standards Board, or in such other statements by such other entity as may be approved by a significant segment of the accounting profession of the United States, which are in effect on the Issue Date.
+GAAP
+"" means a guarantee (other than by endorsement of negotiable instruments for collection in the ordinary course of business), direct or indirect, in any manner (including, without limitation, by way of a pledge of assets or through letters of credit or reimbursement agreements in respect thereof), of all or any part of any Indebtedness. The term "Guarantee" used as a verb has a corresponding meaning.
+Guarantee
+"" means, with respect to any specified Person, any indebtedness of such Person, whether or not contingent:
+Indebtedness
+(1) in respect of borrowed money;
+(2) evidenced by bonds, notes, debentures or similar instruments or letters of credit (or reimbursement agreements in respect thereof);
+(3) in respect of banker's acceptances;
+(4) representing Capital Lease Obligations;
+(5) representing the balance deferred and unpaid of the purchase price of any property, except any such balance that constitutes an accrued expense or trade payable;
+(6) representing obligations under any Interest Rate Agreements, Commodity Agreements and Currency Agreements except for those entered into for the purpose of fixing, hedging or swapping interest rate, commodity price or foreign currency exchange risk; or
+ 
+(7) in respect of all Disqualified Stock issued by such Person with the amount of Indebtedness represented by such Disqualified Stock being equal to the greater of its voluntary or involuntary liquidation preference and its maximum fixed repurchase price, but excluding accrued dividends, if any; provided that (a) if the Disqualified Stock does not have a fixed repurchase price, such maximum fixed repurchase price shall be calculated in accordance with the terms of the Disqualified Stock as if the Disqualified Stock were purchased on any date on which Indebtedness shall be required to be determined pursuant to the applicable indenture, and (b) if the maximum fixed repurchase price is based upon, or measured by, the fair market value of the Disqualified Stock, the fair market value shall be the Fair Market Value thereof;
+if and to the extent any of the preceding items (other than letters of credit and obligations under Interest Rate Agreements, Commodity Agreements and Currency Agreements) would appear as a liability upon a balance sheet of such Person prepared in accordance with GAAP. In addition, the term "Indebtedness" includes all Indebtedness of others secured by a Lien on any asset of such Person whether or not such Indebtedness is assumed by such Person (the amount of such Indebtedness as of any date being deemed to be the lesser of the Fair Market Value of such property or assets as of such date or the principal amount of such Indebtedness of such other Person so secured) and, to the extent not otherwise included, the Guarantee by such Person of any Indebtedness of any other Person.
+The amount of any Indebtedness outstanding as of any date shall be:
+(1) the accreted value of the Indebtedness, in the case of any Indebtedness issued with original issue discount; and
+(2) the principal amount of the Indebtedness, together with any interest on the Indebtedness that is more than 30 days past due, in the case of any other Indebtedness.
+"" means one of the Reference Treasury Dealers appointed by the Company.
+Independent Investment Banker
+"" means, for any period, all cash interest expense (including imputed interest with respect to Capital Lease Obligations and commitment fees) with respect to any Indebtedness of the Company and of its Subsidiaries' Indebtedness on a consolidated basis during such period pursuant to the terms of such Indebtedness.
+Interest Expense
+"" of any Person means any interest rate protection agreement, interest rate future agreement, interest rate option agreement, interest rate swap agreement, interest rate cap agreement, interest rate collar agreement, interest rate hedge agreement, option or future contract or other similar agreement or arrangement as to which such Person is a party.
+Interest Rate Agreement
+"" means a rating equal to or greater than BBB- by S&P and Fitch and Baa3 by Moody's or the equivalent thereof under any new ratings system if the ratings system of any such agency shall be modified after the date hereof, or the equivalent rating or any other Ratings Agency selected by the Company as provided in the definition of Ratings Agency.
+Investment Grade Rating
+"" means .
+Issue Date
+                        
+"" means, collectively, any telephone, microwave, radio transmissions, personal communications or other license, authorization, certificate of compliance, franchise, approval or permit, whether for the construction, ownership or operation of any communications tower facilities, granted or issued by the Federal Communications Commission (or other similar or successor agency of the federal government administering the Communications Act of 1934 or any similar or successor federal statute) and held by the Company or any of its Subsidiaries.
+Licenses
+"" means, with respect to any property or assets, including Capital Stock, any mortgage, lien, pledge, charge, security interest or encumbrance of any kind in respect of such asset, whether or not filed, recorded or otherwise perfected under applicable law (including any conditional sale or other title retention agreement, any lease in the nature thereof, any option or other agreement to sell or give a security interest in and any filing of or agreement to give any financing statement under the Uniform Commercial Code (or equivalent statutes) of any jurisdiction).
+Lien
+ 
+"" means Moody's Investors Services, Inc. or any successor to the rating agency business thereof.
+Moody's
+"" means, for any period of determination, net income (loss) of the Company and its Subsidiaries, on a consolidated basis, determined in accordance with GAAP.
+Net Income
+"" means a newly created direct or indirect Subsidiary of the Company that is formed or organized after the Issue Date; provided that neither the Company nor any Subsidiary of the Company shall have transferred, or may in the future transfer, any assets (other than cash or cash equivalents) to such Newly Created Subsidiary for so long as such Newly Created Subsidiary remains designated as an Unrestricted Subsidiary.
+Newly Created Subsidiary
+"" has the meaning set forth in Section 2.02.
+Original Securities
+"" has the meaning set forth in Section 2.03.
+Paying Agent
+"" means, on any date, an amount equal to 3.5 times Adjusted EBITDA as of the most recent fiscal quarter for which financial statements of the Company are internally available immediately preceding such date.
+Permitted Amount
+"" means:
+Permitted Liens
+(1) Liens in favor of the Company or its Subsidiaries;
+(2) Liens existing on the Issue Date (other than those securing Existing SpectraSite Indebtedness) and renewals and replacements thereof;
+(3) Liens for taxes, assessments or governmental charges or claims that are not yet delinquent or that are being contested in good faith by appropriate proceedings promptly instituted and diligently conducted; provided that any reserve or other appropriate provision as shall be required in conformity with GAAP shall have been made therefor;
+(4) Liens of carriers, warehousemen, mechanics, vendors (solely to the extent arising by operation of law), laborers and materialmen incurred in the ordinary course of business for sums not yet due or being diligently contested in good faith, if reserves or appropriate provisions shall have been made therefor;
+(5) Liens incurred in the ordinary course of business in connection with worker's compensation and unemployment insurance, social security obligations, assessments or government charges which are not overdue for more than 60 days;
+(6) restrictions on the transfer of Licenses or assets of the Company or any of its Subsidiaries imposed by any of the Licenses as in effect on the Issue Date or imposed by the Communications Act of 1934, any similar or successor federal statute or the rules and regulations of the Federal Communications Commission (or other similar or successor agency of the federal government administering such Act or successor statute) thereunder, all as the same may be in effect from time to time;
+(7) Liens arising by operation of law in favor of purchasers in connection with the sale of an asset; provided, however, that such Lien only encumbers the property being sold;
+(8) Liens to secure performance of statutory obligations, surety or appeal bonds, performance bonds, bids or tenders;
+(9) judgment Liens;
+ 
+(10) Liens in connection with escrow or security deposits made in connection with any acquisition of assets;
+(11) Liens securing Indebtedness since the Issue Date represented by Capital Lease Obligations, mortgage financings or purchase money obligations, in each case incurred for the purpose of financing all or any part of the purchase price or cost of construction or improvement of property, plant or equipment used in any business of the Company or any Subsidiary of the Company in an aggregate principal amount, including all Indebtedness incurred to refund, refinance or replace any other Indebtedness incurred pursuant to this clause (11), not to exceed $500.0 million at any time outstanding for the Company and any Subsidiaries of the Company;
+(12) Liens securing obligations under Interest Rate Agreements, Commodity Agreements and Currency Agreements not for speculative purposes;
+(13) easements, rights-of-way, zoning restrictions, licenses or restrictions on use and other similar encumbrances on the use of real property that:
+(a) are not incurred in connection with the borrowing of money or the obtaining of advances or credit (other than trade credit in the ordinary course of business); and
+(b) do not in the aggregate materially detract from the value of the property or materially impair the use thereof in the operation of business by the Company and its Subsidiaries;
+(14) Liens on property of the Company or a Subsidiary of the Company at the time the Company or such Subsidiary acquired the property, including acquisition by means of a merger or consolidation with or into the Company or any Subsidiary, or an acquisition of assets, and any replacement thereof, provided, however, that such Liens are not created, incurred or assumed in connection with or in contemplation of such acquisition, and provided further that such Liens may not extend to any other property owned by the Company or any Subsidiary of the Company;
+(15) leases and subleases of real property in the ordinary course of business (for the avoidance of doubt, excluding sale and lease-back transactions) which do not materially interfere with the ordinary conduct of the business; and
+(16) banker's Liens, rights of set-off or similar rights and remedies as to deposit accounts or other funds maintained with a depositary institution; provided that:
+(a) such deposit account is not a dedicated cash collateral account and is not subject to restrictions against access in excess of those set forth by regulations promulgated by the Federal Reserve Board or other applicable law; and
+(b) such deposit account is not intended to provide collateral to the depositary institution.
+"" or "" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, estate, unincorporated organization or government or other agency or political subdivision thereof or any other entity.
+Person
+person
+"" means (1) S&P, Moody's and Fitch; and (2) if any of S&P, Moody's and Fitch ceases to rate the Securities or ceases to make a rating on the Securities publicly available, an entity registered as a "nationally recognized statistical rating organization" (registered as such pursuant to Rule 17g-1 of the Exchange Act) then making a rating on the Securities publicly available selected by the Company (as certified by an Officers' Certificate), which shall be substituted for S&P, Moody's or Fitch, as the case may be.
+Ratings Agencies
+"" means the occurrence of the following on, or within 90 days after, the date of the public notice of the occurrence of a Change of Control or of the intention by the Company or any third-party to effect a Change of Control (which period shall be extended for so long as the rating of the securities is under publicly
+Ratings Decline
+ 
+announced consideration for possible downgrade by any of the Ratings Agencies if such period exceeds 90 days): (1) in the event that the Securities have an Investment Grade Rating by all three Ratings Agencies, the Securities cease to have an Investment Grade Rating by two of the three Rating Agencies, (2) in the event that the Securities have an Investment Grade Rating by only two Ratings Agencies, the Securities cease to have an Investment Grade Rating by both such Rating Agencies, or (3) in the event that the Securities do not have an Investment Grade Rating, the rating of the Securities by two of the three Ratings Agencies (or if there are less than three Rating Agencies rating the securities, the rating of each Rating Agency) decreases by one or more gradations (including gradations within ratings categories as well as between rating categories) or is withdrawn.
+"" means any of the primary U.S. Government securities dealers in New York City.
+Reference Treasury Dealer
+"" means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker at 5:00 p.m., New York City time, on the third Business Day preceding such redemption date.
+Reference Treasury Dealer Quotations
+"" has the meaning set forth in Section 2.03.
+Registrar
+"" means Standard & Poor Rating Services, a division of The McGraw-Hill Companies, Inc., or any successor to the rating agency business thereof.
+S&P
+"" means the Securities and Exchange Commission.
+SEC
+"" means the 5.050% Senior Notes due 2020 established by this Supplemental Indenture and issued by the Company pursuant to the Indenture.
+Securities
+"" means the Securities Act of 1933, as amended, and the rules and regulations of the SEC promulgated thereunder.
+Securities Act
+"" means any Registrar, Paying Agent, or co-Registrar or co-agent.
+Securities Agent
+"" means, with respect to the payment of principal on the Securities, September 1, 2020.
+Stated Maturity
+"" means, with respect to any Person, (1) any corporation, limited liability company, association or other business entity of which more than 50% of the voting power of the outstanding Voting Stock is owned, directly or indirectly, by such Person and one or more other Subsidiaries of such Person or (2) any partnership (A) the sole general partner or the managing general partner of which is such Person or a Subsidiary of such Person or (B) the only general partners of which are such Person or one or more Subsidiaries of such Person (or any combination thereof). The term "Subsidiary" with respect to the Company shall not include any Unrestricted Subsidiary.
+Subsidiary
+"" means the Trust Indenture Act of 1939 (15 U.S. Code  77aaa-77bbbb) as amended and in effect from time to time.
+TIA
+"" means (a) any Foreign Subsidiary or Newly Created Subsidiary of the Company that is designated by the Board of Directors as an Unrestricted Subsidiary until such time as the Board of Directors may designate it to be a Subsidiary, provided that no Default or Event of Default would occur or be existing following such designation, and (b) any subsidiary of an Unrestricted Subsidiary. Any such designation by the Board of Directors shall be evidenced to the Trustee by filing a Board Resolution with the Trustee giving effect to such designation. At the time of designation of an Unrestricted Subsidiary as a Subsidiary, such Subsidiary shall be deemed to incur outstanding Indebtedness and grant any existing Liens.
+Unrestricted Subsidiary
+ 
+"" of any Person as of any date means the Capital Stock of such Person that is normally entitled to vote in the election of the board of directors, managers or trustees of such Person.
+Voting Stock
+ 
+Whenever this Indenture refers to a provision of the TIA, the provision is incorporated by reference in and made a part of this Indenture.
+The following TIA terms used in this Indenture have the following meanings:
+"" means the SEC;
+Commission
+"" means the Securities;
+indenture securities
+"" means a Securityholder or a Holder;
+indenture security holder
+"" means this Indenture; and
+indenture to be qualified
+"" on the indenture securities means the Company or any successor.
+obligor
+All other terms used in this Indenture that are defined by the TIA, defined by the TIA by reference to another statute or defined by SEC rule under the TIA and not otherwise defined herein have the meanings so assigned to them.
+ 
+Unless the context otherwise requires:
+(i) a term has the meaning assigned to it;
+(ii) an accounting term not otherwise defined has the meaning assigned to it in accordance with generally accepted accounting principles in effect from time to time;
+(iii) "or" is not exclusive;
+(iv) "including" means "including without limitation";
+(v) words in the singular include the plural and in the plural include the singular;
+(vi) provisions apply to successive events and transactions;
+(vii) "herein," "hereof" and other words of similar import refer to this Indenture as a whole and not to any particular Article, Section or other subdivision of this Indenture; and
+(viii) references to currency shall mean the lawful currency of the United States of America, unless the context requires otherwise.
+In addition, to the extent that the terms of this Supplemental Indenture are inconsistent or conflict with the terms of the Base Indenture, then, for purposes of the Securities, the terms of this Supplemental Indenture shall apply to the extent of such inconsistency or conflict.
+ 
+ 
+The Securities and the Trustee's certificate of authentication shall be substantially in the form set forth in Exhibit A, which is incorporated in and forms a part of this Indenture. The Securities may have notations, legends or endorsements required by law, stock exchange rule or usage. Each Security shall be dated the date of its authentication.
+The Securities shall be issued initially in the form of one or more Global Securities, substantially in the form set forth in Exhibit A, deposited with the Trustee, as custodian for DTC (who shall be the initial Depositary with respect to the Securities), duly executed by the Company and authenticated by the Trustee and bearing the legend set forth in Exhibit B. The aggregate principal amount of the Global Security may from time to time be increased or decreased by adjustments made on the records of the Trustee, as custodian for the Depository, as hereinafter provided; , that, except as permitted by Section 2.13, in no event shall the aggregate principal amount of the Global Security or Global Securities exceed $700,000,000.
+provided
+Securities in the form of Physical Securities issued in exchange for Securities represented by interests in a Global Security pursuant to Section 3.08 of the Base Indenture may be issued in the form of permanent certificated Securities in registered form in substantially the form set forth in Exhibit A and, if applicable, bearing any legends required hereby.
+The Securities shall be denominated in Dollars, and all cash payments due thereon shall be made in Dollars. The Securities shall be issuable only in registered form without interest coupons and only in denominations of $2,000 principal amount and integral multiples of $1,000 in excess thereof.
+ 
+Upon a Company Order, the Trustee shall authenticate Securities for original issue in the aggregate principal amount of $700,000,000 (the "").
+Original Securities
+ 
+The Company shall maintain an office or agency where Securities may be presented for registration of transfer or for exchange ("") and an office or agency where Securities may be presented for payment (""). The Corporate Trust Office shall serve as the office or agency for the aforementioned purposes. The Registrar shall keep a register of the Securities and of their transfer and exchange. The Company may appoint or change one or more co-Registrars, one or more additional paying agents upon reasonable prior written notice to the Trustee and may act in any such capacity on its own behalf. The term "" includes any co-Registrar and the term "" includes any additional paying agent.
+Registrar
+Paying Agent
+Registrar
+Paying Agent
+The Company shall enter into an appropriate agency agreement with any Securities Agent not a party to this Indenture. The agreement shall implement the provisions of this Indenture that relate to such Securities Agent. The Company shall notify the Trustee in writing of the name and address of any Securities Agent not a party to this Indenture. If the Company fails to maintain a Registrar or Paying Agent, the Trustee shall act as such.
+The Company initially appoints the Trustee as Paying Agent and Registrar.
+For purposes of the Securities, the Payment Office shall be the Corporate Trust Office.
+ 
+Each Paying Agent shall hold in trust for the benefit of the Securityholders or the Trustee all moneys held by the Paying Agent for the payment of the Securities, and shall notify the Trustee in writing of any Default by the Company in making any such payment. While any such Default continues, the Trustee may require a Paying Agent
+ 
+to pay all money held by it to the Trustee. The Company at any time may require a Paying Agent to pay all money held by it to the Trustee. Upon payment over to the Trustee, the Paying Agent shall have no further liability for such money. If the Company acts as Paying Agent, it shall segregate and hold as a separate trust fund all money held by it as Paying Agent.
+ 
+The Company or the Trustee, as the case may be, shall not be required to register the transfer of or exchange any Security selected for redemption in whole or in part, in accordance with this Indenture, except the unredeemed portion of Securities being redeemed in part.
+No service charge shall be made for any transfer or exchange of Securities, but the Company may require payment of a sum sufficient to cover any transfer tax or similar governmental charge that may be imposed in connection with any transfer or exchange of Securities, other than exchanges pursuant to Section 3.11 or Section 7.05 of the Base Indenture or Section 4.01(b) or Article III, not involving any transfer.
+ 
+The Securities outstanding at any time are all the Securities authenticated by the Trustee except for those canceled by it, those delivered to it for cancellation, those reductions in the interest in a Global Security effected by the Trustee in accordance with the provisions hereof, and those described in this Section and the Base Indenture as not outstanding. Except as set forth in Section 3.13 of the Base Indenture, a Security does not cease to be outstanding because the Company or an affiliate of the Company holds the Security.
+If a Security is replaced pursuant to Section 3.09 of the Base Indenture, it ceases to be outstanding unless the Trustee receives proof satisfactory to it that the replaced Security is held by a bona fide purchaser.
+If the principal amount of any Security is considered paid under Section 4.01 of the Base Indenture, it ceases to be outstanding and interest on it ceases to accrue.
+If the Paying Agent (other than the Company, a Subsidiary or an affiliate of any thereof) holds, on a redemption date or maturity date, money sufficient to pay Securities payable on that date, then on and after that date such Securities shall be deemed to be no longer outstanding and shall cease to accrue interest.
+ 
+The Interest Payment Dates for the Securities shall be March 1 and September 1 of each calendar year, beginning with, and including, March 1, 2011. The Regular Record Date for an Interest Payment Date that falls on March 1 shall be the immediately preceding February 15, and the Regular Record Date for an Interest Payment Date that falls on September 1 shall be the immediately preceding August 15.
+ 
+There shall be no sinking fund with respect to the Securities.
+ 
+If and to the extent the Company defaults in a payment of interest on the Securities, the Company shall pay in cash the defaulted interest in any lawful manner plus, to the extent not prohibited by applicable statute or case law, interest on such defaulted interest at the rate provided in the Securities and in this Section 2.09. The Company may pay the defaulted interest (plus interest on such defaulted interest) to the persons who are Securityholders on a subsequent record date as provided in Section 3.05(c) of the Base Indenture.
+The Company shall pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue principal on the Securities at the rate equal to 1% per annum in excess of the then applicable
+ 
+interest rate on the Securities of that series to the extent lawful; it shall pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue installments of interest (without regard to any applicable grace period) on the Securities of any series at the same rate to the extent lawful.
+ 
+The Company in issuing the Securities may use one or more CUSIP and ISIN numbers, and, if so, the Trustee shall use the CUSIP and ISIN numbers in notices of repurchase or exchange as a convenience to Holders; , , that no representation is hereby deemed to be made by the Trustee as to the correctness or accuracy of the CUSIP and ISIN numbers printed on the notice or on the Securities; , that reliance may be placed only on the other identification numbers printed on the Securities, and the effectiveness of any such notice shall not be affected by any defect in, or omission of, such CUSIP and ISIN numbers. The Company shall promptly notify the Trustee of any change in the CUSIP and ISIN numbers.
+provided
+however
+provided further
+ 
+The Securities shall initially be issued in the form of one of more Global Securities, and the provisions of the Base Indenture (including, but not limited to, Section 3.06 and Section 3.08) relating to Global Securities shall apply to the Securities.
+ 
+The indebtedness of the Company arising under or in connection with this Indenture and every outstanding Security issued under this Indenture from time to time constitutes and will constitute a senior unsecured obligation of the Company, ranking in right of payment with each other and with all other existing and future senior unsecured obligations of the Company. Unless the context otherwise requires, the Securities shall be considered collectively to be a single class for all purposes of this Indenture, including without limitation waivers, amendments, redemptions and Change of Control Offers.
+pari passu
+ 
+The Company may, from time to time, subject to compliance with any other applicable provisions of this Indenture, without the consent of the Holders, create and issue pursuant to this Indenture additional securities ("") having terms and conditions identical to those of the Securities, except that Additional Securities:
+Additional Securities
+(i) may have a different issue date from the Securities;
+(ii) may have a different amount of interest payable on the first Interest Payment Date after issuance than is payable on other Securities; and
+(iii) may have terms specified in the Additional Securities Board Resolution or Additional Securities Supplemental Indenture for such Additional Securities making appropriate adjustments to Article II and Exhibit A (and related definitions) applicable to such Additional Securities in order to conform to and ensure compliance with the Securities Act (or other applicable securities laws) and any other agreement applicable to such Additional Securities, which are not adverse in any material respect to the Holder of any Securities (other than such Additional Securities);
+, that no adjustment pursuant to this Section 2.13 shall cause such Additional Securities to constitute, as determined pursuant to an Opinion of Counsel, a different class of securities than the Original Securities for U.S. federal income tax purposes. The Original Securities and any Additional Securities would rank equally and ratably and would be treated as a single series of debt securities for all purposes under the Indenture.
+provided
+ 
+ 
+If the Company elects to redeem Securities pursuant to the optional redemption provisions of Section 3.02 hereof, it shall furnish to the Trustee, at least 30 days but not more than 60 days before a redemption date, an Officers' Certificate setting forth (1) the redemption date, (2) the principal amount of Securities to be redeemed and (3) the redemption price (expressed as a percentage of the principal amount).
+ 
+(a) The Securities are redeemable at the Company's election, in whole or in part, at any time at a redemption price equal to the greater of:
+(1) 100% of the principal amount of the Securities to be redeemed then outstanding; and
+(2) as determined by an Independent Investment Banker, the sum of the present values of the remaining scheduled payments of principal and interest on the securities to be redeemed (not including any portion of such payments of interest accrued to the date of redemption) discounted to the redemption date on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Adjusted Treasury Rate for such securities, plus 37.5 basis points;
+plus, in either of the above cases, accrued and unpaid interest to the date of redemption on the securities to be redeemed.
+If the optional redemption date is on or after a Regular Record Date and on or before the related Interest Payment Date, the accrued and unpaid interest, if any, will be paid to the person in whose name the security is registered at the close of business on such Regular Record Date.
+(b) Any redemption pursuant to this Section 3.02 shall be made pursuant to Section 3.01 hereof and the provisions of Article 9 of the Base Indenture.
+ 
+The Company shall not be required to make mandatory redemption or sinking fund payments with respect to the Securities.
+ 
+In addition to those Covenants set forth in Article 4 of the Base Indenture, the Company shall comply with following covenants:
+(a) Limitation on Liens.
+The Company shall not, and shall not permit any of its Subsidiaries to, allow any Lien on any of the Company's or its Subsidiaries' property or assets (which includes Capital Stock) securing Indebtedness, unless the Lien secures the Securities equally and ratably with, or prior to, any other Indebtedness secured by such Lien, so long as such other Indebtedness is so secured, other than Permitted Liens.
+Notwithstanding the foregoing, the Company may, and may permit any of its Subsidiaries to, incur Liens securing Indebtedness without equally and ratably securing the Securities if, after giving effect to the incurrence of such Liens, the aggregate amount (without duplication) of the Indebtedness secured by Liens (other than Permitted Liens) on the property or assets (which includes Capital Stock) of the Company and its Subsidiaries shall not exceed
+ 
+the Permitted Amount at the time of the incurrence of such Liens (it being understood that Liens securing Existing SpectraSite Indebtedness shall be deemed to be incurred pursuant to this paragraph). For the avoidance of doubt, "incur" means to create, incur, issue, assume, guarantee or otherwise become directly liable, contingently or otherwise.
+(b) Repurchase of the Securities Upon a Change of Control Triggering Event.
+Upon the occurrence of a Change of Control Triggering Event, each Holder of Securities shall have the right to require the Company to repurchase all or any part, equal to $2,000 or an integral multiple of $1,000 thereafter, of that Holder's Securities pursuant to an offer (the "") on the terms set forth in this Indenture at an offer price in cash equal to 101% of the aggregate principal amount of Securities repurchased plus accrued and unpaid interest on the Securities up to but excluding the applicable date of repurchase (the ""). Within 30 days following any Change of Control Triggering Event, if the Company had not, prior to the Change of Control Triggering Event, sent a redemption notice for all the Securities in connection with an optional redemption permitted by Section 3.02 hereof, the Company shall mail or caused to be mailed a notice to each registered Holder briefly describing the transaction or transactions that constitute a Change of Control Triggering Event and offering to repurchase Securities on the date specified in such notice (the ""), which date shall be no earlier than 30 days and no later than 60 days from the date the notice is mailed, pursuant to the procedures required by this Indenture and described in such notice.
+Change of Control Offer
+Change of Control Payment
+Change of Control Payment Date
+The Company shall comply with the requirements of Rule 14e-1 under the Exchange Act and any other securities laws and regulations thereunder to the extent such laws and regulations are applicable to any Change of Control Offer. To the extent that the provisions of any securities laws or regulations conflict with the provisions of this Section 4.01(b), the Company shall comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under the provisions of this Section 4.01(b) by virtue of such conflict.
+On the Change of Control Payment Date, the Company shall, to the extent lawful:
+(1) accept for payment all Securities or portions thereof properly tendered pursuant to the Change of Control Offer;
+(2) deposit with the Paying Agent an amount equal to the Change of Control Payment in respect of all Securities or portions thereof properly tendered; and
+(3) deliver or cause to be delivered to the Trustee the Securities so accepted together with an Officers' Certificate stating the aggregate principal amount of Securities or portions thereof being purchased by the Company.
+The Paying Agent will promptly mail to each registered Holder of Securities so tendered the Change of Control Payment for such Securities, and the Trustee will promptly authenticate and mail (at the Company's expense), or cause to be transferred by book entry, to each Holder a new Security equal in principal amount to any unpurchased portion of the Securities surrendered, if any; that each such new Security shall be in a principal amount of $2,000 or an integral multiple of $1,000 thereafter. Any Security so accepted for payment shall cease to accrue interest on and after the Change of Control Payment Date.
+provided
+This Section 4.01(b) shall be applicable, except as described in this Section 4.01(b), regardless of whether or not any other provisions of this Indenture are applicable.
+Notwithstanding the foregoing, the Company shall not be required to make a Change of Control Offer upon a Change of Control Triggering Event if a third party makes the Change of Control Offer in the manner, at the times and otherwise in compliance with the requirements set forth in this Section 4.01(b) applicable to a Change of Control Offer made by the Company and purchases all Securities properly tendered and not withdrawn under the Change of Control Offer.
+ 
+The Company may make a Change of Control Offer in advance of a Change of Control Triggering Event, and conditional upon the occurrence of such Change of Control Triggering Event, if a definitive agreement is in place for the Change of Control Triggering Event at the time of making the Change of Control Offer.
+ 
+If and to the extent that any provision of this Supplemental Indenture limits, qualifies or conflicts with another provision included in this Supplemental Indenture by operation of Sections 310 to 317, inclusive, of the Trust Indenture Act (an "incorporated provision"), such incorporated provision shall control.
+ 
+The parties may sign any number of copies of this Supplemental Indenture. Each signed copy shall be an original, but all of them together represent the same agreement. Delivery of an executed counterpart by facsimile shall be effective as delivery of a manually executed counterpart thereof.
+ 
+THE INTERNAL LAW OF THE STATE OF NEW YORK SHALL GOVERN AND BE USED TO CONSTRUE THIS SUPPLEMENTAL INDENTURE AND THE SECURITIES WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY.
+ 
+This Supplemental Indenture and the Base Indenture may not be used to interpret another indenture, loan or debt agreement of the Company or its Subsidiaries or of any other Person. Any such indenture, loan or debt agreement may not be used to interpret this Supplemental Indenture or the Base Indenture.
+ 
+All the covenants, stipulations, promises and agreements in this Supplemental Indenture contained by or in behalf of the Company shall bind their successors and assigns, whether so expressed or not. All the covenants, stipulations, promises and agreements in this Supplemental Indenture contained by or in behalf of the Trustee shall bind their successors and assigns, whether so expressed or not.
+ 
+If any provision of this Supplemental shall be held to be invalid, illegal or unenforceable under applicable law, then the remaining provisions hereof shall be construed as though such invalid, illegal or unenforceable provision were not contained herein.
+ 
+The Article and Section headings in this Supplemental Indenture and the Table of Contents are for convenience only and shall not affect the construction hereof.
+ 
+, the parties hereto have caused this Supplemental Indenture to be duly executed as of the date first above written.
+IN WITNESS WHEREOF
+ 
+EXHIBIT A
+Certificate No.
+                
+American Tower Corporation, a Delaware corporation (the ""), for value received, hereby promises to pay to Cede & Co., or its registered assigns, the principal sum of dollars ($ ) on September 1, 2020 and to pay interest thereon, as provided on the reverse hereof, until the principal and any unpaid and accrued interest are paid or duly provided for.
+Company
+                    
+                    
+                    
+Interest Payment Dates: March 1 and September 1, with the first payment to be made on March 1, 2011.
+Regular Record Dates: February 15 and August 15.
+The provisions on the back of this certificate are incorporated as if set forth on the face hereof.
+ 
+, American Tower Corporation has caused this instrument to be duly signed.
+IN WITNESS WHEREOF
+ 
+Dated
+                        
+ 
+TRUSTEE'S CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+T B N Y M T C, N.A., as Trustee
+HE
+ANK
+OF
+EW
+ORK
+ELLON
+RUST
+OMPANY
+ 
+ 
+ 
+1. . American Tower Corporation, a Delaware corporation (the ""), promises to pay interest on the principal amount of this Security at the rate shown above. The Company will pay interest, payable semi-annually in arrears, on March 1 and September 1 of each year, with the first payment to be made on March 1, 2011. Interest on the Securities will accrue on the principal amount from, and including, the most recent date to which interest has been paid or provided for or, if no interest has been paid, from, and including, , in each case to, but excluding, the next Interest Payment Date or the Stated Maturity for the payment of principal on the Securities, as the case may be; that if there is no existing Default in the payment of interest, the Company shall pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue principal and premium, if any, from time to time on demand at a rate that is 1% per annum in excess of the rate then in effect; it shall pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue installments of interest (without regard to any applicable grace periods) from time to time on demand at the same rate to the extent lawful. Interest will be computed on the basis of a 360-day year of twelve 30-day months.
+Interest
+Company
+per annum
+                    
+provided
+2. . The Securities will mature on September 1, 2020.
+Maturity
+3. . Except as provided in the Indenture (as defined below), the Company will pay interest on the Securities to the persons who are Holders of record of Securities at the close of business on the Regular Record Date set forth on the face of this Security next preceding the applicable Interest Payment Date. Holders must surrender Securities to a Paying Agent to collect the principal amount. The Company will pay, in money of the United States that at the time of payment is legal tender for payment of public and private debts, all amounts due in cash with respect to the Securities, which amounts shall be paid (A) in the case this Security is a Global Security, by wire transfer of immediately available funds to the account designated by the Depository for the Securities or its nominee; and (B) in the case this Security is a Physical Security, by mailing a check to the address of the relevant Holder set forth in the Security Register for the Securities. The Company shall pay, in cash, interest on any overdue amount (including, to the extent permitted by applicable law, overdue interest) at the rate borne by the Securities.
+Method of Payment
+4. . Initially, The Bank of New York Mellon Trust Company, N.A. (the "") will act as Paying Agent and Registrar. The Company may change any Paying Agent or Registrar upon prior written notice to the Trustee. The Company or any of its Subsidiaries may act in any such capacity.
+Paying Agent and Registrar
+Trustee
+5. . The Company issued the Securities under an indenture dated as of May 13, 2010 (the "") between the Company and the Trustee, as amended, supplemented or otherwise modified by the Supplemental Indenture No. 1 (the ""), dated as of , between the Company and the Trustee (the Base Indenture, as amended, supplemented or otherwise modified by the Supplemental Indenture, the ""). The terms of the Securities include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act of 1939 (15 U.S. Code  77aaa-77bbbb) (the "") as amended and in effect from time to time. The Securities are subject to all such terms, and Holders are referred to the Indenture and the TIA for a statement of such terms. To the extent any provision of this Security conflicts with the express provisions of the Indenture, the provisions of the Indenture shall govern and be controlling. The Securities are general unsecured senior obligations of the Company. The Original Securities are limited to $700,000,000 aggregate principal amount, except as otherwise provided in the Indenture (except for Securities issued in substitution for destroyed, mutilated, lost or stolen Securities). Subject to the conditions set forth in the Indenture and without the consent of the Holders, the Company may issue Additional Securities. All Securities, including any Additional Securities, will be treated as a single class of securities under the Indenture. Terms used herein without definition and which are defined in the Indenture have the meanings assigned to them in the Indenture.
+Indenture
+Base Indenture
+Supplemental Indenture
+                    
+Indenture
+TIA
+ 
+6. . The Securities are redeemable at the Company's election, in whole or in part, at any time at redemption price equal to the greater of:
+Optional Redemption
+(1) 100% of the principal amount of the Securities to be redeemed then outstanding; and
+(2) as determined by an Independent Investment Banker, the sum of the present values of the remaining scheduled payments of principal and interest on the Securities to be redeemed (not including any portion of such payments of interest accrued to the date of redemption) discounted to the redemption date on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Adjusted Treasury Rate, plus 37.5 basis points;
+plus, in either of the above cases, accrued and unpaid interest to the date of redemption on the Securities to be redeemed.
+If the Company selects a redemption date that is on or after a Regular Record Date and on or before the related Interest Payment Date, the accrued and unpaid interest, if any, shall be paid to the person in whose name the Security is registered at the close of business on such Regular Record Date.
+The Company will mail or caused to be mailed a notice of redemption at least 30 days, but not more than 60 days, before the redemption date to each Holder of the Securities to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a redemption date if the notice is issued in connection with a defeasance of the Securities or a satisfaction and discharge of the Indenture. Notices of redemption may not be conditional.
+Unless the Company defaults in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the Securities or portions thereof called for redemption. Securities called for redemption become due on the date fixed for redemption.
+For purposes of the foregoing, the following terms shall have the following meanings:
+"" means, with respect to any redemption date:
+Adjusted Treasury Rate
+(1) the yield, under the heading which represents the average for the immediately preceding week, appearing in the most recently published statistical release designated "H.15(519)" or any successor publication which is published weekly by the Board of Governors of the Federal Reserve System and which establishes yields on actively traded United States Treasury securities adjusted to constant maturity under the caption "Treasury Constant Maturities," for the maturity corresponding to the Comparable Treasury Issue (as defined below) (if no maturity is within three months before or after the Remaining Life (as defined below), yields for the two published maturities most closely corresponding to the Comparable Treasury Issue shall be determined and the Adjusted Treasury Rate shall be interpolated or extrapolated from such yields on a straight line basis, rounding to the nearest month); or
+(2) if such release (or any successor release) is not published during the week preceding the calculation date or does not contain such yields, the rate per annum equal to the semi-annual equivalent yield to maturity of the Comparable Treasury Issue, calculated using a price for the Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the Comparable Treasury Price (as defined below) for such redemption date.
+The Adjusted Treasury Rate shall be calculated on the third Business Day preceding the redemption date.
+"" means the United States Treasury security selected by an Independent Investment Banker (as defined below) as having a maturity comparable to the remaining term of the Securities that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of the Securities ("").
+Comparable Treasury Issue
+Remaining Life
+ 
+"" means, for any redemption date, (1) the average of four Reference Treasury Dealer Quotations (as defined below) for such redemption date, after excluding the highest and lowest Reference Treasury Dealer Quotations, or (2) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+Comparable Treasury Price
+"" means one of the Reference Treasury Dealers appointed by the Company.
+Independent Investment Banker
+"" means any of the primary U.S. Government securities dealers in New York City.
+Reference Treasury Dealer
+"" means, with respect to each Reference Treasury Dealer and any redemption date, the average, as determined by the Independent Investment Banker, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as a percentage of its principal amount) quoted in writing to the Independent Investment Banker at 5:00 p.m., New York City time, on the third Business Day preceding such redemption date.
+Reference Treasury Dealer Quotations
+7. The Company shall not be required to make mandatory redemption payments with respect to the Securities.
+No Mandatory Redemption.
+8. . Upon the occurrence of a Change of Control Triggering Event, and subject to certain conditions set forth in the Indenture, the Company will be required to offer to purchase all of the outstanding Securities at a purchase price equal to 101% of the principal amount thereof, plus accrued and unpaid interest, if any, thereon to the date of repurchase.
+Repurchase at Option of Holder
+9.  Notice of redemption shall be mailed at least 30 days but not more than 60 days before the redemption date to each Holder whose Securities are to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a redemption date if the notice is issued in connection with Article 10 or Article 11 of the Base Indenture. Securities in denominations larger than $2,000 may be redeemed in part but only in whole multiples of $1,000, unless all of the Securities held by a Holder are to be redeemed. Unless the Company defaults in payment of the redemption price, on and after the redemption date interest ceases to accrue on Securities or portions thereof called for redemption.
+Notice of Redemption.
+10. . The Securities are in registered form, without coupons, in denominations of $2,000 principal amount and integral multiples of $1,000 principal amount. The transfer of Securities may be registered and Securities may be exchanged as provided in the Indenture. The Registrar may require a Holder, among other things, to furnish appropriate endorsements and transfer documents. No service charge shall be made for any such registration of transfer or exchange, but the Company may require payment of a sum sufficient to cover any tax or similar governmental charge that may be imposed in connection with certain transfers or exchanges. The Company shall not be required to register the transfer of or exchange any Security selected for redemption, except for the unredeemed portion of any Security being redeemed in part. Also, the Company need not exchange or register the transfer of any Securities for a period of 15 days next preceding the first mailing of notice of redemption of Securities to be redeemed.
+Denominations, Transfer, Exchange
+11. . The registered Holder of a Security may be treated as the owner of such Security for all purposes.
+Persons Deemed Owners
+12. . The Company shall not consolidate with or merge with or into, or sell, transfer, lease, convey or otherwise dispose of all or substantially all of its property or assets to, another Person (including pursuant to a statutory arrangement), whether in a single transaction or series of related transactions, unless it complies with Article 8 of the Base Indenture.
+Merger or Consolidation
+13. . The Indenture or the Securities may be amended or supplemented as provided in the Indenture.
+Amendments, Supplements and Waivers
+ 
+14. . The Events of Default relating to the Securities are defined in Section 5.01 of the Base Indenture. If any Event of Default occurs and is continuing, the Trustee or the Holders of at least 25% in principal amount of the then outstanding Securities may declare the principal, premium, if any, interest and any other monetary obligations on all the then outstanding Securities to be due and payable immediately. Notwithstanding the foregoing, in the case of an Event of Default arising from certain events of bankruptcy or insolvency, all outstanding Securities will become due and payable immediately without further action or notice.
+Defaults and Remedies
+Holders may not enforce the Indenture or the Securities except as provided in the Indenture. Subject to certain limitations, Holders of a majority in aggregate principal amount of the then outstanding Securities may direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of the Securities notice of any continuing Default (except a Default relating to the payment of principal, premium, if any, or interest) if it determines that withholding notice is in their interest. The Holders of a majority in aggregate principal amount of the Securities then outstanding by notice to the Trustee may on behalf of the Holders of all of the Securities waive any existing Default or and its consequences under the Indenture except a continuing Default in payment of the principal of, premium, if any, or interest, if any, on, any of the Securities held by a non-consenting Holder. The Company is required to deliver to the Trustee annually a statement regarding compliance with the Indenture, and the Company is required upon becoming aware of any Default or Event of Default, to deliver to the Trustee a statement specifying such Default or Event of Default.
+15. . The Trustee, in its individual or any other capacity, may make loans to, accept deposits from, and perform services for the Company or its affiliates, and may otherwise deal with the Company or its affiliates, as if it were not the Trustee.
+Trustee Dealings with the Company
+16. .A director, officer, employee, incorporator or stockholder, of the Company, as such, shall not have any liability for any obligations of the Company under the Securities or the Indenture or for any claim based on, in respect of, or by reason of, such obligations or their creation. Each Holder by accepting a Security waives and releases all such liability. The waiver and release are part of the consideration for the issuance of the Securities.
+No Recourse Against Others
+17. . This Security shall not be valid until authenticated by the manual signature of the Trustee or an authenticating agent in accordance with the Indenture.
+Authentication
+18. . Customary abbreviations may be used in the name of a Holder or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+Abbreviations
+19. . Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Company has caused CUSIP and ISIN numbers to be printed on the Securities and the Trustee may use CUSIP and ISIN numbers in notices of redemption as a convenience to Holders. No representation is made as to the accuracy of such numbers either as printed on the Securities or as contained in any notice of redemption and reliance may be placed only on the other identification numbers placed thereon
+CUSIP and ISIN Numbers
+THE COMPANY WILL FURNISH TO ANY HOLDER UPON WRITTEN REQUEST AND WITHOUT CHARGE A COPY OF THE BASE INDENTURE OR THE SUPPLEMENTAL INDENTURE. REQUESTS MAY BE MADE TO:
+ 
+ 
+ 
+If you want to elect to have only part of the Security purchased by the Company pursuant to Section 4.01(b) of the Supplemental Indenture, state the amount you elect to have purchased:
+ 
+ 
+ 
+ 
+The initial principal amount of this Global Security is $700,000,000. The following exchanges of a part of this Global Security for an interest in another Global Security or for Securities in certificated form, have been made:
+ 
+ 
+ 
+EXHIBIT B
+Any Global Security authenticated and delivered hereunder shall bear a legend in substantially the following form:
+THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF THE DEPOSITARY OR A NOMINEE OF THE DEPOSITARY, WHICH MAY BE TREATED BY THE COMPANY, THE TRUSTEE AND ANY AGENT THEREOF AS OWNER AND HOLDER OF THIS SECURITY FOR ALL PURPOSES.
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, TO THE COMPANY OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY (AND ANY PAYMENT HEREON IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY SHALL BE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES OF THE DEPOSITORY TRUST COMPANY OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR'S NOMINEE.
+ 
+
+Exhibit 12.1
+The following table reflects the computation of the ratio of earnings to fixed charges for the periods presented (in thousands):
+ 
+ 
+
+Exhibit 99.1
+Contact: Leah Stearns
+Director, Investor Relations
+Telephone: (617) 375-7500
+American Tower Corporation (NYSE: AMT) today announced the pricing of its registered public offering of senior unsecured notes due September 2020 in an aggregate principal amount of $700 million. The notes will have an interest rate of 5.05% per annum and are being issued at a price equal to 99.88% of their face value. The net proceeds of the offering are expected to be approximately $693.8 million, after deducting underwriting discounts and estimated offering expenses.
+Boston, Massachusetts  August 12, 2010:
+The Company intends to use the net proceeds from this offering to finance its acquisition of Essar Telecom Infrastructure Private Limited and other recent and potential acquisitions, including the refinancing of a portion of borrowings under the Company's $1.25 billion senior unsecured revolving credit facility, and for general corporate purposes.
+Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, J.P. Morgan Securities Inc. and RBS Securities Inc. are acting as joint book-running managers for the offering of the notes.
+This press release shall not constitute an offer to sell or a solicitation to buy any securities, nor shall there be any sale of these securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction. The offering is being made only by means of a prospectus and related prospectus supplement, which may be obtained by visiting the Securities and Exchange Commission's website at . Alternatively, you may request these documents by writing to Citigroup Global Markets Inc., Prospectus Department, Brooklyn Army Terminal, 140 58th Street, 8th Floor, Brooklyn, New York 11220 or by calling toll-free at 1-877-858-5407, by calling J.P. Morgan Securities Inc. at 1-212-834-4533, by calling Credit Suisse Securities (USA) LLC toll-free at 1-800-221-1037 or by calling RBS Securities Inc. toll-free at 1-866-884-2071.
+www.sec.gov
+About American Tower
+American Tower is a leading independent owner, operator and developer of broadcast and wireless communications sites. American Tower currently owns and operates over 32,000 communications sites in the United States, Mexico, Brazil, Chile, Peru and India. For more information about American Tower, please visit .
+www.americantower.com
+Cautionary Language Regarding Forward-Looking Statements
+This press release contains statements about future events and expectations, or "forward-looking statements", all of which are inherently uncertain. We have based those forward-looking statements on management's current expectations and assumptions and not on historical facts. Examples of these statements include, but are not limited to, statements regarding the Company's expectations of the dollar amount to be received in net proceeds, the Company's ability to complete the offering, and the Company's expectations for the use of proceeds from the offering. These forward-looking statements involve a number of risks and uncertainties. Among the important factors that could cause actual results to differ materially from those indicated in such forward-looking statements include market conditions for corporate debt generally, for the securities of telecommunications companies and for the Company's indebtedness in particular. For other important factors that may cause actual results to differ materially from those indicated in our forward-looking statements, we refer you to the information contained in Item 1A of the Form 10-Q for the quarter ended June 30, 2010 under the caption "Risk Factors" and in other filings we make with the Securities and Exchange Commission. We undertake no obligation to update the information contained in this press release to reflect subsequently occurring events or circumstances.
+
+

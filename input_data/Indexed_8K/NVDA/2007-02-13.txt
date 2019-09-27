@@ -1,0 +1,82 @@
+FILE:NVDA/NVDA-8K-20070213165417.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+SECTION 2 - Financial Information
+ 
+Item 2.02 Results of Operations and Financial Condition.
+ 
+On February 13, 2007, NVIDIA Corporation issued a press release announcing its operating results for the three months and the fiscal year ended January 28, 2007. The press release is furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 (the Exchange Act), or subject to the liabilities of that Section. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. The information in this Current Report shall not be incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+SECTION 9 - Financial Statements and Exhibits.
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+(d) Exhibits
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+
+Exhibit 99.1
+ 
+SANTA CLARA, CAFEBRUARY 13, 2007
+NVIDIA Corporation (Nasdaq: NVDA) today reported financial results for the fourth quarter of fiscal 2007 and the fiscal year ended January 28, 2007.
+For the fourth quarter of
+fiscal 200
+7, revenue increased to a record $878.9 million, compared to $633.6 million for the fourth quarter of fiscal 2006, an increase of 39 percent.  Net income computed in accordance with U.S. generally accepted accounting principles (GAAP) for the fourth quarter of fiscal 2007 was $163.5 million, or $0.41 per diluted share, compared to net income of $97.4 million, or $0.26 per diluted share, for the fourth quarter of fiscal 2006, a net income increase of 68 percent.
+Non-GAAP net income for the fourth quarter of fiscal 2007, which excludes a charge for in-process research and development related to our acquisition of Portal Player, Inc., plus SFAS 123R and other stock-based compensation charges and the associated payroll tax impact, was $205.6 million, or $0.53 per diluted share.
+Revenue for the fiscal year ended January 28, 2007 was a record $3.07 billion, compared to revenue of $2.38 billion for the fiscal year ended January 29, 2006, an increase of 29 percent. GAAP net income for the fiscal year ended January 28, 2007 was $448.8 million, or $1.15 per diluted share, compared to GAAP net income of $301.2 million, or $0.82 per diluted share, for the fiscal year ended January 29, 2006, a net income increase of 49 percent.
+Non-GAAP net income for the fiscal year ended January 28, 2007, which excludes a charge for in-process research and development related to the acquisition of Portal Player, Inc., a one-time charge associated with licensing certain patents, plus SFAS 123R and other stock-based compensation charges and the associated payroll tax impact, was $577.9 million, or $1.50 per diluted share.
+Fiscal 2007 was an outstanding year, stated Jen-Hsun Huang, president and CEO of NVIDIA. Our record year is a result of intense focus on building market-defining products and financial performance. We established the number one position in multiple categories - desktop GPUs, notebook GPUs, workstation GPUs, and AMD chipsets. Most importantly, we significantly enhanced our strategic position in the markets we serve.
+Looking ahead into fiscal 2008, we expect multiple growth drivers - driving deeper into the Intel segment with our branded motherboard GPUs, delivering our first application processor for the handheld market, and launching the GPU Computing era with GPUs designed to dramatically accelerate high-performance computing. This is the year the industry ramps three very new applications that are enhanced with our GPUs - Vista, DX10, and HD/Blu-ray DVD. It is exciting that the GPU is becoming an increasingly central part of our computing experience, added Mr. Huang.
+Fourth Quarter Fiscal 2007 Highlights:
+NVIDIA will conduct a conference call with analysts and investors to discuss its fourth quarter fiscal 2007 financial results and current financial prospects today at 2:00 P.M. Pacific Time (5:00 P.M. Eastern Time). To listen to the call, please dial (706) 679-0543. A live Web cast (listen-only mode) of the conference call will be held at the NVIDIA investor relations Web site
+http://nvidia.com/ir
+and at
+http://www.streetevents.com
+. The Web cast will be recorded and available for replay until the Companys conference call to discuss its financial results for its first quarter fiscal 2008.
+Non-GAAP Measures
+To supplement the Companys Consolidated Statements of Income presented in accordance with GAAP, we use non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP net income, non-GAAP basic and diluted net income per share, and other non-GAAP line items from the Consolidated Statements of Income, including cost of revenue information, gross profit, gross margin, operating expenses (including research and development, and sales, general and administrative expenses) and income tax expense. In order for our investors to be better able to compare our current results with those of previous periods, we have shown a non-GAAP presentation of our Consolidated Statements of Income as reconciled against the GAAP presentation. Our non-GAAP results adjust our GAAP results to exclude stock-based compensation, in-process R&D related to acquisitions, certain non-recurring charges associated with settling IP matters, and related tax differences. We believe the presentation of our non-GAAP results enhances the user's overall understanding of our historical financial performance. The presentation of our non-GAAP financial results is not meant to be considered in isolation or as a substitute for our financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from non-GAAP measures used by other companies.
+About NVIDIA
+NVIDIA Corporation is the worldwide leader in programmable graphics processor technologies. The Company creates innovative, industry-changing products for computing, consumer electronics, and mobile devices. NVIDIA is headquartered in Santa Clara, CA and has offices throughout Asia, Europe, and the Americas. For more information, visit
+www.nvidia.com
+.
+Certain statements in this press release including, but not limited to, statements as to: the features, uses, capabilities and performance of NVIDIA GPUs, workstations and chipsets; growth drivers; target markets; delivering our first application process in the handheld market; applications that are enhanced by our products; the role of the GPU; and the use of non-GAAP financial measures are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: delays in ramping new products into production; loss of performance when technologies are integrated; slower than expected growth of a target market; loss of an opportunity in a target market; delays in the launch of new products or technologies; manufacturing or software defects; market or customer acceptance of a competitor's product instead of ours; development of faster or more efficient GPUs; the impact of technological development and competition; our dependence on third-party manufacturers; general industry trends; changes in industry standards and interfaces as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission including its Form 10-Q for the quarter ended October 29, 2006. Copies of reports filed with the SEC are posted on our website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+# # #
+Copyright  2007 NVIDIA Corporation.  All rights reserved.  All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

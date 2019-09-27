@@ -1,0 +1,2596 @@
+FILE:AIZ/AIZ-8K-20090505172201.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On May 5, 2009, Assurant, Inc. (the "Company") issued a press release announcing the entry by certain of its subsidiaries (the "Subsidiaries") into two reinsurance agreements (the "Reinsurance Agreements") with Ibis Re Ltd., a reinsurance company domiciled in the Cayman Islands ("Ibis Re"), in connection with a fully collateralized catastrophe reinsurance bond program. A copy of the press release describing the transaction is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+Ibis Re funded the catastrophe reinsurance coverage through the issuance of two classes of catastrophe bonds in an aggregate amount of $150 million (the "CAT Bonds") to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended. In connection with the issuance of the CAT Bonds, Ibis Re set up two insurance trusts to hold certain investments to secure payments to the Subsidiaries under the Reinsurance Agreements and the repayment of principal to the bondholders, as applicable, and entered into two related swap agreements (each a "Swap") with Goldman Sachs International (the "Swap Counterparty").
+A Swap may be terminated as a result of certain events, including but not limited to a payment default by the Swap Counterparty, the insolvency of the Swap Counterparty, certain changes in law with regard to the Swap Counterparty, or certain merger transactions involving the Swap Counterparty (each a "Swap Counterparty Event"). In the event of such termination, the Company may elect either to replace the Swap Counterparty and enter into an interim swap agreement (the "Interim Swap Agreement"), acting as an interim swap counterparty opposite Ibis Re, or to appoint another swap counterparty to replace the Swap Counterparty. Following a termination of a Swap as the result of a Swap Counterparty Event, if either the Company or a designated affiliate does not upon two (2) business days notice indicate its intention to enter into the Interim Swap Agreement with Ibis Re or appoint another swap counterparty to replace the Swap Counterparty, then the related class of CAT Bond will be subject to early redemption on the next following quarterly payment date for such CAT Bond.
+Copies of the Reinsurance Agreements are attached hereto as Exhibits 10.1 and 10.2 and are incorporated herein by reference. The foregoing description is qualified in its entirety by reference to Exhibits 10.1 and 10.2.
+ 
+ 
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Date: May 5, 2009
+ 
+ 
+ 
+
+Exhibit 10.1
+THIS REINSURANCE AGREEMENT (this ""), dated as of May 5, 2009, is made by and among American Security Insurance Company, a stock insurance company domiciled in the State of Delaware, American Bankers Insurance Company of Florida, a stock insurance company domiciled in the State of Florida, and Standard Guaranty Insurance Company, a stock insurance company domiciled in the State of Delaware (collectively, the "") and Ibis Re Ltd., a Cayman Islands exempted company licensed as a Class B Insurer in the Cayman Islands (the "") (each of the Reinsurer and the Ceding Insurer, a "" and collectively, the ""). One or more New Parties (as defined herein) may be added to this Reinsurance Agreement as part of the Ceding Insurer in accordance with Article IX.
+Reinsurance Agreement
+Ceding Insurer
+Reinsurer
+Party
+Parties
+The Ceding Insurer hereby cedes to the Reinsurer and the Reinsurer hereby reinsures the Ceding Insurer to the extent and on the terms and conditions and subject to the exceptions, exclusions and limitations hereinafter set forth in this Reinsurance Agreement.
+Unless defined herein, all capitalized terms in this Reinsurance Agreement shall have the meaning ascribed to them in (i) the Indenture attached hereto as and (ii) the Series Supplement attached hereto as , both of which are incorporated herein.
+Annex IV
+Annex V
+"" shall have the meaning ascribed to it in .
+Additional Premium
+Section 8.1(c)(ii)
+"" shall mean a day other than (i) a Saturday, (ii) a Sunday or (iii) a day on which banking institutions or trust companies in any of the Cayman Islands, the City of London, England or the City of New York, New York are authorized or required by applicable law, regulation or executive order to remain closed.
+Business Day
+"" shall occur if the Calculation Agent fails to perform its duties and obligations under the Calculation Agent Agreement.
+Calculation Agent Failure Event
+"" shall have the meaning ascribed to it in .
+Calculation Agent Failure Notice
+Section 18.3(a)
+"" shall have the meaning ascribed to it in the preamble.
+Ceding Insurer
+"" shall mean a failure on the part of the Ceding Insurer to pay, when due, any Premium or Ceding Insurer Payment.
+Ceding Insurer Default
+"" shall have the meaning ascribed to it in .
+Ceding Insurer Payment
+Section 6.3
+"" shall have the meaning ascribed to it in .
+Ceding Insurer Replacement Calculation Agent Notice
+Section 18.3(b)
+"" shall have the meaning ascribed to it in .
+Coverage
+Section 3.1
+"" shall mean the Outstanding Principal Amount of the Notes in support of the Coverage provided under this Reinsurance Agreement.
+Coverage Limit
+"" shall mean the District of Columbia and the following states: Alabama, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Texas, Vermont, Virginia and West Virginia.
+Covered Area
+"" or "" shall include, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, the Ceding Insurer's own costs and legal expenses incurred in direct connection with declaratory judgment actions brought to determine the Ceding Insurer's defense and/or indemnification obligations between the Ceding Insurer and its insured(s) that are assignable to specific claims arising out of policies reinsured by this Reinsurance Agreement, regardless of whether the declaratory judgment action is successful or unsuccessful. Any Declaratory Judgment Expense shall be deemed to have been fully incurred by the Ceding Insurer on the same date as the original loss (if any) giving rise to the action.
+Declaratory Judgment Expense
+Declaratory Judgment Expenses
+"" shall mean (i) with respect to an Early Termination Event I, II, III, IV and V, the first Payment Date that occurs at least thirty-five (35) calendar days after the date of such Early Termination Event, , if such Early Termination Event occurs less than 35 calendar days prior to the Scheduled Termination Date or the relevant Extended Termination Date, then the Early Termination Date shall be the Scheduled Termination Date or the Extended Termination Date, as the case may be, or if such day is not a Business Day, on the next succeeding Business Day and (ii) with respect to an Early Termination Event VI, the next following June 15 Payment Date, provided that the Early Termination Event VI occurs on or prior to June 1 of that year or, if an Early Termination Event VI occurs on any date following June 1, 2011, the Scheduled Termination Date.
+Early Termination Date
+provided that
+"" shall mean an Early Termination Event I, an Early Termination Event II, an Early Termination Event III, an Early Termination Event IV, an Early Termination Event V or an Early Termination Event VI.
+Early Termination Event
+ 
+"" shall have the meaning ascribed to it in .
+Early Termination Event I
+Section 16.1(i)
+"" shall have the meaning ascribed to it in .
+Early Termination Event II
+Section 16.1(ii)
+"" shall have the meaning ascribed to it in .
+Early Termination Event III
+Section 16.1(iii)
+"" shall have the meaning ascribed to it in .
+Early Termination Event IV
+Section 16.1(iv)
+"" shall have the meaning ascribed to it in .
+Early Termination Event V
+Section 16.1(v)
+"" shall have the meaning ascribed to it in .
+Early Termination Event VI
+Section 16.1(vi)
+"" shall mean May 5, 2009.
+Effective Date
+"" shall have the meaning ascribed to it in .
+Event Notice Request
+Section 18.2
+"" shall mean the date to which the maturity of the Notes may be extended following one or more Extension Events (or if such day is not a Business Day, the next succeeding Business Day), but in no event will such date be later than the Final Extended Termination Date.
+Extended Termination Date
+"" shall mean the date which is no later than three Business Days prior to the Scheduled Termination Date or any applicable Extended Termination Date, as the case may be.
+Extension Determination Date
+"" shall mean an Extension Event I, an Extension Event II, or an Extension Event III.
+Extension Event
+"" shall have the meaning ascribed to it in Section .
+Extension Event I
+17.1
+"" shall have the meaning ascribed to it in Section .
+Extension Event II
+17.2
+"" shall have the meaning ascribed to it in Section .
+Extension Event III
+17.3
+"" shall have the meaning ascribed to it in .
+Extension Notice
+Section 17.4
+"" or "" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, 100% of any punitive, exemplary, compensatory or consequential damages paid or payable by the Ceding Insurer, not covered by any other provision of this Reinsurance Agreement and which arise from the handling of any claim on business subject to this
+Extra Contractual Obligation
+Extra Contractual Obligations
+ 
+Reinsurance Agreement, such liabilities arising because of, but not limited to, failure by the Ceding Insurer to settle within the policy limits or by reason of the Ceding Insurer's alleged or actual negligence, fraud (except by an officer or director of the Ceding Insurer as hereinafter provided) or bad faith in rejecting an offer of settlement or in the preparation of the defense or in the trial of an action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such an action. An Extra Contractual Obligation shall be deemed, in all circumstances, to have occurred on the same date as the loss covered or alleged to be covered under the policy. Extra Contractual Obligation shall not include Extra Contractual Obligations incurred due to the fraud or criminal act of a member of the board of directors, an officer, an agent or an employee of the Ceding Insurer, or any other person or organization involved in the presentation, defense or settlement of any claim covered hereunder, whether acting individually or collectively or in collusion with any person or organization.
+"" shall mean, following an Extension Event, the earlier of the Payment Date immediately succeeding (i) 18 months from the Date of Loss of the most recent Loss Event with respect to the Notes, and (ii) the Event Reporting Date when PCS has released all Catastrophe Bulletins with final resurvey estimates for all Loss Events associated with the Notes.
+Final Extended Termination Date
+"" shall have the meaning ascribed to it in .
+Final Settlement
+Section 15.1
+"" shall mean, with respect to each Loss Event, the date that occurs 18 months from the Payment Date when the last of the final Reinsurer Payment or final Ceding Insurer Payment was made with respect to such Loss Event.
+Final Settlement Date
+"" shall have the meaning ascribed to it in .
+Florida Inuring Coverage Update Notice
+Section 13.4
+"" shall mean any event that is assigned a number by PCS as a "catastrophe," where the perils identified by PCS with respect to such catastrophe include the peril of Hurricane.
+Hurricane
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, liabilities for future payments on losses from a Loss Event that have already occurred but have not yet been reported to the Ceding Insurer and the expected future development on claims already reported to the Ceding Insurer from a Loss Event.
+Incurred But Not Reported Losses
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, losses that have been reported and either paid or reserved for future payment by the Ceding Insurer from a Loss Event.
+Incurred Losses
+"" shall mean the indenture dated as of May 5, 2009 by and among the Reinsurer, Deutsche Bank Trust Company Americas, as Indenture Trustee, and Deutsche Bank AG, London Branch, as Paying Agent.
+Indenture
+ 
+"" shall mean 1.65%.
+Initial Modeled Attachment Probability
+"" shall mean 1.09%.
+Initial Modeled Expected Loss
+"" shall have the meaning ascribed to it in .
+Initial Premium
+Section 8.1(c)(i)
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, expenses assignable to the investigation, appraisal, adjustment, settlement, litigation, defense, or appeal of claims, regardless of how such expenses are classified for statutory reporting purposes. Loss Adjustment Expense shall include, but not be limited to, interest on judgments, expenses of outside adjusters, expenses and a pro rata share of salaries of the Ceding Insurer's field employees and expenses of other employees of the Ceding Insurer who have been temporarily diverted from their normal and customary duties and assigned to the adjustment of losses covered by this Reinsurance Agreement, expenses of the Ceding Insurer's officials incurred in connection with coverage questions and legal actions connected thereto, advertising or other extraordinary communication expense as a result of a Loss Event, costs of supersedeas and appeal bonds and monitoring counsel expenses. Loss Adjustment Expense shall not include normal office expenses or salaries of the Ceding Insurer's officials.
+Loss Adjustment Expense
+"" shall mean any Hurricane with a Date of Loss within the Risk Period and identified by PCS as having caused insured industry personal property losses in the Covered Area.
+Loss Event
+"" shall have the meaning ascribed to it in .
+Loss Event Net Payment
+Section 6.1
+"" or "" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, 100% of any amount paid or payable by the Ceding Insurer in excess of its policy limits, but otherwise within the terms of its policy, such loss in excess of the Ceding Insurer's policy limits having been incurred because of, but not limited to, failure by the Ceding Insurer to settle within the policy limits or by reason of the Ceding Insurer's alleged or actual negligence, fraud (except by an officer or director of the Ceding Insurer as herein after provided) or bad faith in rejecting an offer of settlement or in the preparation of the defense or in the trial of an action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such an action. A Loss in Excess of Policy Limits shall be deemed, in all circumstances, to have occurred on the same date as the loss covered or alleged to be covered under the policy. Notwithstanding anything stated herein, Loss in Excess of Policy Limits shall not include Loss in Excess of Policy Limits incurred by the Ceding Insurer as a result of any fraudulent and/or criminal act by any officer or director of the Ceding Insurer acting individually or collectively or in collusion with any individual or corporation or any other organization or party involved in the presentation, defense or settlement of any claim covered hereunder.
+Loss in Excess of Policy Limits
+Losses in Excess of Policy Limits
+ 
+"" shall mean a Loss Payment, as defined in the Series Supplement, with respect to the Notes.
+Loss Payment
+"" shall have the meaning ascribed to it in Article IX.
+New Party
+"" shall mean the $75,000,000 Series 2009-1 Class A Variable Rate Notes due May 10, 2012.
+Notes
+"" shall mean $75,000,000.
+Original Coverage Limit
+"" or "" shall have the meaning ascribed to it in the preamble.
+Party
+Parties
+"" shall mean a failure by the Ceding Insurer to cure a Ceding Insurer Default within five (5) Business Days of receipt of notice, substantially in the form attached hereto as , from the Reinsurer of such Ceding Insurer Default.
+Payment Event of Default
+Exhibit A
+"" shall have the meaning ascribed to it in .
+Payout Factors Update Notice
+Section 13.3
+"" shall have the meaning ascribed to it in the Reinsurance Trust Agreement.
+Permitted Investments
+"" shall have the meaning ascribed to it in .
+Premium Payment
+Section 8.1(a)
+"" shall have the meaning ascribed to it in .
+Proof of Loss Claim
+Section 15.2
+"" shall have the meaning ascribed to it in the preamble.
+Reinsurance Agreement
+"" shall have the meaning ascribed to it in .
+Reinsurance Trust Account
+Section 12.1
+"" shall have the meaning ascribed to it in .
+Reinsurance Trust Agreement
+Section 12.1
+"" shall mean Deutsche Bank Trust Company Americas.
+Reinsurance Trustee
+"" shall have the meaning ascribed to it in the preamble.
+Reinsurer
+"" shall have the meaning ascribed to it in .
+Reinsurer's Agent
+Section 18.3
+"" shall have the meaning ascribed to it in .
+Reinsurer Payment
+Section 6.2
+ 
+"" shall mean any entity acceptable to the Ceding Insurer which, in the event of a Calculation Agent Failure Event, shall be appointed as the Replacement Calculation Agent and which will be unaffiliated with the Ceding Insurer.
+Replacement Calculation Agent
+"" shall mean, the period commencing at 12:00 a.m., New York time on the date immediately following the Effective Date to and including the earlier of (i) 11:59 p.m., New York time on May 5, 2012, or (ii) in the event of an Early Termination Event, 11:59 p.m. New York time on the date on which such Early Termination Event occurs.
+Risk Period
+"" shall mean May 10, 2012.
+Scheduled Termination Date
+"" shall mean the $75,000,000 Series 2009-1 Class A Variable Rate Notes due May 10, 2012 and the $75,000,000 Series 2009-1 Class B Variable Rate Notes due May 10, 2012.
+Series 2009-1 Notes
+"" shall mean the Series Supplement in respect of the Notes by and between the Reinsurer and Deutsche Bank Trust Company Americas, as Indenture Trustee and series agent.
+Series Supplement
+"" shall mean (i) the earlier to occur of the Early Termination Date or the Scheduled Termination Date, as applicable, or (ii) following an Extension Event, the relevant Extended Termination Date or the Early Termination Date, as the case may be.
+Termination Date
+"" shall have the meaning ascribed to it in Article XIV.
+Ultimate Net Loss
+"" shall have the meaning ascribed to it in the Reinsurance Trust Agreement.
+U.S. Treasury Money Market Fund
+2.1 . This Reinsurance Agreement shall become effective on the Effective Date and shall remain in force until the Termination Date, , that if a Loss Payment has been made to the Ceding Insurer prior to the Termination Date, this Reinsurance Agreement shall terminate on the Final Settlement Date for the Loss Event that provides the lattermost Final Settlement Date.
+Term
+provided, however
+3.1 . This Reinsurance Agreement covers insured or reinsured losses of the Ceding Insurer arising during the Risk Period from one or more Loss Events on a per occurrence basis to real property (including manufactured housing)
+Coverage
+ 
+and personal property under policies of insurance issued by the Ceding Insurer or assumed by the Ceding Insurer and not otherwise excluded under subparagraph 9 of Article X hereof ("").
+Coverage
+3.2 . Notwithstanding any Extension Event, nor the Ceding Insurer's election to extend the term of the Reinsurance Agreement, the Risk Period will not be extended and the Reinsurer will not be liable for any payments in relation to any Hurricane occurring during any Extension Period.
+Extension Period
+3.3 . Except as set forth in Article XX, nothing contained in this Reinsurance Agreement shall in any manner create any obligations of or establish any rights against the Reinsurer in favor of any third party or any persons not parties to this Reinsurance Agreement.
+No Third Party Rights
+The territorial limit of this Reinsurance Agreement is the Covered Area for each Loss Event.
+The total amount recoverable from the Reinsurer under this Reinsurance Agreement in the aggregate shall not exceed the Original Coverage Limit.
+6.1 . The Reinsurer's obligations under this Reinsurance Agreement for each Loss Event are limited to the lesser of (i) the sum of the Reinsurer Payments due and payable for such Loss Event less the sum of the Ceding Insurer Payments receivable for such Loss Event, the difference being the "" for such Loss Event, and (ii) the Ultimate Net Loss of the Ceding Insurer for such Loss Event, subject to the terms and conditions set forth herein.
+Payment Limitations for Coverage
+Loss Event Net Payment
+6.2 . For each Loss Event, the Reinsurer agrees to pay to the Ceding Insurer on the first Payment Date after each related Event Reporting Date an amount equal to the Loss Payment if such amount is greater than zero (each, a ""), if any, payable with respect to the Coverage in effect. Such payments shall be made by the Reinsurer on each Payment Date until the earlier of (i) the Payment Date which occurs 18 months from the first Payment Date following the first Event Reporting Date, (ii) the first Payment Date which occurs after the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for
+Reinsurer Payments
+Reinsurer Payment
+ 
+such Loss Event, and (iii) the later of the Scheduled Termination Date and the Extended Termination Date, as the case may be, or, in the case of an Early Termination Event, the Early Termination Date.
+6.3 . For each Loss Event, the Ceding Insurer agrees to reimburse the Reinsurer on the first Payment Date after each related Event Reporting Date an amount equal to the absolute value of the Loss Payment if such amount is less than zero (each, a ""), if any, payable with respect to the Coverage in effect. Such payments shall be made by the Ceding Insurer on each Payment Date until the earlier of (i) the Payment Date which occurs 18 months from the first Payment Date following the first Event Reporting Date, (ii) the first Payment Date which occurs after the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for such Loss Event, and (iii) the later of the Scheduled Termination Date or the Extended Termination Date, as the case may be, or, in case of an Early Termination Event, the Early Termination Date.
+Ceding Insurer Payments
+Ceding Insurer Payment
+6.4 . As stipulated in , the Loss Event Net Payments payable by the Reinsurer for each Loss Event will be limited to the Ultimate Net Loss for such Loss Event as of the Final Settlement Date. If the Loss Event Net Payments paid by the Reinsurer with respect to a Loss Event in accordance with this Article VI exceed the Ultimate Net Loss for such Loss Event, the Ceding Insurer shall refund the excess to the Reinsurer, as stipulated in Article XV.
+Ultimate Net Loss Limitation
+Section 6.1
+7.1 . No claims shall be made upon the Reinsurer under any Coverage in effect, and the Reinsurer has no liability for any losses hereunder, unless and until the Reinsurer has received a report issued by the Calculation Agent to the Reinsurer, the Indenture Trustee and the Ceding Insurer pursuant to the Calculation Agent Agreement which reports the results of the procedures carried out by the Calculation Agent in accordance with the Calculation Agent Agreement stating, for each Loss Event, the PCS Loss Amount, the Class A Gross Event Index Value, the Class A Florida Inuring Coverage, the Class A Net Event Index Value, Index Loss Amount, Loss Payment, and stating for the Notes, the Net Loss Payment and the resulting Coverage Limit remaining as a consequence with respect to the Coverage, subject to the Original Coverage Limit.
+Delivery of Event Report
+ 
+8.1
+Premiums payable to the Reinsurer
+(a) The Ceding Insurer shall pay the following reinsurance premiums (each, a "") to the Reinsurer with respect to the Coverage Limit:
+Premium Payment
+(i) : on the Business Day immediately preceding each Payment Date up to and including the earlier of the Early Termination Date and the Scheduled Termination Date, an amount equal to 10.25% per annum calculated on the Coverage Limit determined as of the first day of the relevant Accrual Period, , , that for all Accrual Period days from and including the Effective Date to but not including the first anniversary date of the Effective Date, even if such anniversary date is not a Payment Date, such premium will be calculated on the Original Coverage Limit, , , that if such first anniversary date is not a Payment Date, for the remaining portion of the relevant Accrual Period days from and including such anniversary date to but not including the next Payment Date, such premium will accrue and be calculated on the Original Coverage Limit, , that if a Premium F Payment becomes due and payable on any Payment Date prior to the end of the first anniversary date of the Effective Date, no Premium R Payment shall become due and payable following such Payment Date;
+Premium R Payments
+provided
+however
+provided
+further
+provided
+further
+(ii) : on the Business Day immediately preceding each Payment Date up to and including the Termination Date an amount equal to 0.70% per annum calculated on the Coverage Limit as of the first day of the relevant Accrual Period;
+Premium S Payments
+(iii) : if an Extension Event I occurs, on the Business Day immediately preceding each Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 4.00% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period;
+Premium E1 Payments
+(iv) : if an Extension Event II occurs, on the Business Day immediately preceding the Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 0.50% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period;
+Premium E2 Payments
+(v) : if an Extension Event III occurs, on the Business Day immediately preceding the Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 0.10% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period.
+Premium E3 Payments
+(vi) : if the Original Coverage Limit has been exhausted prior to the first anniversary of the Effective Date, an amount equal to the sum of the present value, discounted at LIBOR (determined for the Accrual Period in which the Coverage Limit was reduced to zero), of each of the
+Premium F Payments
+ 
+scheduled payments of Interest Spread (calculated on the Original Coverage Limit) that would have been payable for the remaining days of the relevant Accrual Periods following the Payment Date that the Coverage Limit is reduced to zero through and including the first anniversary of the Effective Date; and
+(vii) : if an Early Termination Event IV has occurred, an amount equal to the sum of the present value, discounted at three-month LIBOR (determined for the Accrual Period for which such Early Termination Event IV occurred), of each of the scheduled Premium R Payments calculated on the Coverage Limit determined as of the Early Termination Date for each Accrual Period from the Early Termination Date to the Scheduled Termination Date.
+Premium G Payments
+(viii) : Following receipt of notice from the Reinsurer in the form substantially as attached hereto as an amount equal to the Early Redemption Event IV Termination Payment (as specified in such exhibit). Any Early Redemption Event IV Termination Payment premium is to be paid into the Series 2009-1 Class A Swap Termination Account.
+Early Redemption Event IV Termination Payment Premium
+Exhibit K
+(b) Premium Payments shall be computed on the basis of the actual number of days elapsed and a 360-day year.
+(c) The Ceding Insurer shall make the following additional premium payments to the Reinsurer under this Reinsurance Agreement:
+(i) : On the Effective Date, in an amount equal to the sum of (x) expenses incurred by the Reinsurer in connection with the issuance of the Notes on such Effective Date, and (y) certain anticipated operating expenses, each such expense as set forth on hereto, and certified by the Reinsurer in the form attached hereto as (the ""); and
+Initial Premium
+Schedule A
+Exhibit B
+Initial Premium
+(ii) : On each anniversary of the Effective Date, and from time to time, in an amount for certain operating expenses as set forth on hereto, and certified by the Reinsurer substantially in the form attached hereto as (the ""); provided that the Additional Premium payable under all Reinsurance Agreements entered into in connection with the Program shall be subject to an annual maximum of $400,000 for the Program and an additional $50,000 for each outstanding Series of Notes issued.
+Additional Premium
+Schedule B
+Exhibit B
+Additional Premium
+8.2 . The Ceding Insurer shall pay any United States federal excise tax on any premium payable hereunder.
+Taxes
+ 
+Should the Ceding Insurer elect to utilize one or more additional subsidiaries or affiliated insurers for their risk covered hereunder, each such subsidiary or affiliate insurer shall become a New Party and a part of the Ceding Insurer under this Reinsurance Agreement, and shall have all the rights of and be subject to the obligations of the Ceding Insurer hereunder.
+Solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, this Reinsurance Agreement shall not apply to and specifically excludes:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+but such exclusion shall not apply to flood and/or earthquake and/or volcanic eruption insurance written in conjunction with the Ceding Insurer's Mortgage Service Program, Mobile Homeowners business or Voluntary "Choice" and "First Select" Products.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is understood and agreed that the public utilities extension and/or suppliers extension and/or contingent business interruption coverages are not subject to this exclusion, provided that these are not part of a transmitters' or distributors' policy.
+ 
+An act of terrorism shall include any act, or preparation in respect of action, or threat of action designed to influence the government or of any nation or any political division thereof, or in pursuit of political, religious, ideological or similar purposes to intimidate the public or a section of the public of any nation by any person or group(s) of persons whether acting alone or on behalf of or in connection with any organization(s) or government(s) or , and which:
+de jure
+de facto
+de jure
+de facto
+ 
+ 
+ 
+ 
+ 
+This Reinsurance Agreement also excludes loss, damage, cost or expense directly or indirectly caused by, contributed to by, resulting from, or arising out of or in connection with any action in controlling, preventing, suppressing, retaliating against, or responding to any act of terrorism.
+ 
+Notwithstanding the above and subject otherwise to the terms, conditions, and limitations of this Reinsurance Agreement, in respect only of personal lines, this Reinsurance Agreement will pay actual loss or damage (but not related cost or expense) caused by any act of terrorism provided such act is not directly or indirectly caused by, contributed to by, resulting from, or arising out of or in connection with biological, chemical or nuclear pollution, or contamination.
+ 
+Neither the Ceding Insurer nor the Reinsurer shall have the right to offset any balance or balances, on account of premiums or on account of Loss Payments, due from one Party to the other Party under this Reinsurance Agreement, against any balance or balances due and payable to the one Party from the other Party under this Reinsurance Agreement.
+12.1 On or before the Effective Date, the Reinsurer, as grantor, shall enter into a trust agreement ("") and establish and maintain a separate trust account ("") with the Reinsurance Trustee, as trustee for the benefit of the Ceding Insurer, as beneficiary.
+Reinsurance Trust Agreement
+Reinsurance Trust Account
+12.2 The Reinsurer shall deposit into the Reinsurance Trust Account on the Effective Date an amount that is equal to the Original Coverage Limit.
+12.3 The Reinsurer shall, prior to depositing assets with the Reinsurance Trustee, execute assignments, endorsements in blank, or transfer legal title to the Reinsurance Trustee of all shares, obligations or any other assets requiring assignments, in order that the Ceding Insurer, or the Reinsurance Trustee upon the direction of the Ceding Insurer, may, whenever necessary, transfer, assign, or negotiate any such assets without consent or signature from the Reinsurer or any other entity. Assets held in the Reinsurance Trust Account shall be valued at their current market value and shall consist solely of Permitted Investments or, if applicable, U.S. Treasury Money Market Funds. The principal portion of such Permitted Investments or, if applicable, U.S. Treasury Money Market Funds, held in the Reinsurance Trust Account will be available solely to satisfy any obligations of the Reinsurer to the Ceding Insurer under this Reinsurance Agreement and, only after fulfillment of such obligations, to make payments under the Indenture in respect of the Outstanding Principal Amount. All settlements of account between the Ceding Insurer and the Reinsurer shall be made in cash or its equivalent.
+ 
+12.4 The Reinsurer shall be entitled to all dividends, interest, earnings, earned discount and other income resulting from the investment of the assets in the Reinsurance Trust Account.
+12.5 The assets held in the Reinsurance Trust Account will be available to satisfy any obligations of the Reinsurer to the Ceding Insurer under this Reinsurance Agreement, without diminution because of the insolvency of the Ceding Insurer or the Reinsurer.
+12.6 The Reinsurer and the Ceding Insurer agree that the assets in the Reinsurance Trust Account, may be withdrawn by the Ceding Insurer at any time, notwithstanding any other provisions in this Reinsurance Agreement and shall be utilized and applied by the Ceding Insurer or any successor by operation of law, including, without limitation, any liquidator, rehabilitator, receiver or conservator of the Ceding Insurer, without diminution because of insolvency on the part of the Ceding Insurer or the Reinsurer, only for the following purposes:
+(i) to reimburse the Ceding Insurer for the Reinsurer's share of premiums returned to the owners of policies reinsured under this Reinsurance Agreement on account of cancellations of such policies;
+(ii) to reimburse the Ceding Insurer for the Reinsurer's share of surrenders and benefits or losses paid by the Ceding Insurer pursuant to the provisions of the policies reinsured under this Reinsurance Agreement;
+(iii) to fund an account with the Ceding Insurer in an amount at least equal to the deduction, for reinsurance ceded, from the Ceding Insurer's liabilities for policies ceded under this Reinsurance Agreement. Such account shall include, but not be limited to, amounts for policy reserves, reserves for claims and Incurred Losses (including Losses Incurred But Not Reported), Loss Adjustment Expenses, and unearned premiums; and
+(iv) to pay any Reinsurer Payments or any other amounts the Ceding Insurer claims are due under this Reinsurance Agreement.
+12.7 In the event that the Ceding Insurer withdraws assets from the Reinsurance Trust Account for the purposes set forth in Section 12.06(i) to (iv) in excess of actual amounts required to meet the Reinsurer's obligations to the Ceding Insurer, or in excess of amounts determined to be due under Section 12.06(iv), the Ceding Insurer shall return such excess to the Reinsurer. The Ceding Insurer will pay the Reinsurer, on the last Business Day of each month, interest on such excess amounts not yet returned at a per annum rate equal to LIBOR (as calculated under the Indenture for the corresponding Accrual Period) plus 2 percent, but not to exceed the prime rate, until such excess amounts are returned and any interests owed thereof are paid. The Ceding Insurer shall notify the Reinsurance Trustee on the date of any such payment that it has made such payment, stating the amount thereof.
+ 
+13.1 The Reinsurer shall enter into a Calculation Agent Agreement with the Calculation Agent pursuant to which the Calculation Agent will perform a Reset on each Reset Calculation Date, as more fully described in the Calculation Agent Agreement.
+13.2 In performing each Reset, the Calculation Agent will use its most current commercially released update to the 2008 RMS Industry Exposure Database and will reflect all commercially released revisions to the 2008 RMS Industry Exposure Database by the Calculation Agent as of the applicable Reset Calculation Date, if any.
+13.3 Prior to any Reset Calculation Date, the Ceding Insurer may, at its option, update the Payout Factors for each state in the Covered Area, , , that no payout factor may change by more than 25% from its value at the Effective Date. If the Ceding Insurer elects to update the Payout Factors, the Ceding Insurer shall deliver a notice exercising such option to the Reinsurer and the Calculation Agent substantially in the form attached hereto as (""), together with the Updated Payout Factors. The notice must be delivered no later than 15 calendar days prior to the applicable Reset Calculation Date. The Updated Payout Factors will be applied during the Reset and will become effective as of the Reset Effective Date.
+provided
+however
+Exhibit C
+Payout Factors Update Notice
+13.4 Prior to any Reset Calculation Date, the Ceding Insurer may, at its option, also update the Florida Inuring Coverage Attachment, the Florida Inuring Coverage Exhaustion and the Florida Inuring Coverage Percentage. If the Ceding Insurer elects such an update, it shall deliver a notice exercising such option and stating such Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage to the Calculation Agent and the Reinsurer in substantially the form attached hereto as (""). Such notice must be delivered no later than 15 calendar days prior to the applicable Reset Calculation Date. The Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and the Updated Florida Inuring Coverage Percentage will become effective as of the Reset Effective Date.
+Exhibit D
+Florida Inuring Coverage Update Notice
+13.5 Pursuant to the Calculation Agent Agreement, on each Reset Calculation Date, using the Updated Industry Exposure Data as of the applicable Reset Calculation Date, the Updated Payout Factors, if any, the Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage, if any, and the Escrow Model, the Calculation Agent will reset effective as of the Reset Effective Date: (i) the Attachment Amount for the Notes to the nearest one million dollars such that the modeled annual attachment probability is the highest percentage equal to or less than the Initial Modeled Attachment Probability for the Notes, (ii) the Exhaustion Amount for the Notes to the nearest one
+ 
+million dollars such that the annual modeled expected loss is the highest percentage equal to or less than the Initial Modeled Expected Loss for the Notes, and (iii) the Insurance Percentage for the Coverage derived from dividing the Coverage Limit on the applicable Reset Calculation Date by the difference between the Updated Exhaustion Amount and the Updated Attachment Amount for the Notes, , , that such percentage will not be greater than 100%.
+provided
+however
+13.6 No Loss Payment will be made to the Ceding Insurer in respect of any Loss Event occurring after a Reset Effective Date unless the Calculation Agent has established and confirmed to the Reinsurer, the Updated Payout Factors, the Updated Attachment Amount, the Updated Exhaustion Amount, the Updated Insurance Percentages, the Updated Florida Inuring Coverage Attachment, the Updated Florida Inuring Coverage Exhaustion and the Updated Florida Inuring Coverage Percentage, if any, applicable on or after the corresponding Reset Effective Date but prior to and excluding the subsequent Reset Effective Date.
+The term "" shall mean the sum or sums including Incurred Losses, Incurred But Not Reported Losses, Loss Adjustment Expenses, Losses in Excess of Policy Limits, Declaratory Judgment Expenses, and Extra Contractual Obligations paid or payable by the Ceding Insurer arising in connection with a Loss Event in settlement of claims or in satisfaction of judgments rendered on account of claims, after making deductions for all recoveries, all salvages and all claims upon other reinsurances inuring to the benefit of the Reinsurer under this Reinsurance Agreement, whether collectible or not.
+Ultimate Net Loss
+Solely for the purposes of calculating the Ultimate Net Loss,
+(a) All loss settlements made by the Ceding Insurer, provided they are within the terms of the original policies (or within the terms of Loss in Excess of Policy Limits, Extra Contractual Obligations, or declaratory judgment interpretation) and within the terms of this Reinsurance Agreement shall be binding,
+(b) The Ceding Insurer shall be the sole judge of what is covered under the original policy.
+(c) All expense incurred by the Ceding Insurer which are included as part of the policy limit under the Ceding Insurer's original policies reinsured hereunder shall be included in "Ultimate Net Loss" as defined above.
+The coverage provided under this Reinsurance Agreement shall not apply where the laws, regulations, or public policy of an applicable jurisdiction would prohibit such coverage.
+ 
+All salvages, recoveries or payments recovered or received subsequent to a loss settlement under this Reinsurance Agreement shall be applied as if recovered or received prior to the aforesaid settlement, and all necessary adjustments shall be made by the parties hereto. Subject always to the provisions of Article VI hereof, nothing in this clause shall be construed to mean that losses under this Reinsurance Agreement are not recoverable until the Ceding Insurer's Ultimate Net Loss has been ascertained.
+In the event of an insolvency of the Ceding Insurer, payment by the Reinsurer shall be made in accordance with the provisions of Article XXI.
+15.1 . With respect to each Loss Event for which a Loss Payment has been made to the Ceding Insurer, the Reinsurer and the Ceding Insurer agree to settle all claims and obligations with respect to that portion of the Coverage relating to such Loss Event, which settlement shall be based on the Ceding Insurer's Ultimate Net Loss (""). Such Final Settlement shall be effected as of the Final Settlement Date.
+Final Settlement
+Final Settlement
+15.2 . The Ceding Insurer shall submit to the Reinsurer a proof of loss claim ("") substantially in the form of attached hereto, within 30 days from the Final Settlement Date. Such Proof of Loss Claim shall present the Ceding Insurer's Ultimate Net Loss as defined in Article XIV.
+Proof of Loss
+Proof of Loss Claim
+Exhibit E
+15.3 . If the Loss Event Net Payment paid to the Ceding Insurer with respect to a Loss Event exceeds the Ultimate Net Loss, the Ceding Insurer shall refund the difference to the Reinsurer, with interest from the Final Settlement Date computed at LIBOR, within 60 days from the date of the Proof of Loss Claim. If the Loss Event Net Payment paid to the Ceding Insurer with respect to a Loss Event is less than the Ultimate Net Loss, the Reinsurer shall under no circumstances be obligated to make any further payments to the Ceding Insurer with respect to such Loss Event.
+Settlement
+16.1 . Each of the following is an "" and will occur:
+Early Termination Event
+Early Termination Event
+(i) on the date on which the Ceding Insurer gives written notice to the Reinsurer in substantially the form attached hereto as that the aggregate Outstanding Principal Amount of the Series 2009-1 Notes is equal to or less than $10,000,000, , that such notice may not be given during any of the Accrual Periods prior to the first anniversary date following the Effective Date ("");
+Exhibit F
+provided
+Early Termination Event I
+ 
+(ii) on the date on which the Ceding Insurer gives written notice to the Reinsurer in substantially the form attached hereto as of its election to terminate the Reinsurance Agreement following the certification by the Calculation Agent in writing to the effect that PCS or its successor has ceased to provide Catastrophe Bulletins and that the applicable Calculation Agent was unable to find a replacement for PCS or its successor ("");
+Exhibit F
+Early Termination Event II
+(iii) if the Reinsurer after using its reasonable best efforts in cooperation with the Ceding Insurer, is unable to identify a Replacement Calculation Agent within forty-five (45) calendar days of a Calculation Agent Failure Event and the Ceding Insurer has given written notice to the Reinsurer that the Ceding Insurer has elected to terminate this Reinsurance Agreement, with such Early Termination Event III occurring at the time that the Ceding Insurer gives such notice which shall be substantially in the form attached hereto as (""). Such notice must be given no later than 35 days prior to the immediately following Payment.
+Exhibit F
+Early Termination Event III
+(iv) on the date when a Payment Event of Default has occurred under this Reinsurance Agreement ("");
+Early Termination Event IV
+(v) on the date that is an Early Termination Date (as defined in the Series Supplement), unless a replacement Swap Counterparty has entered into a replacement of the Series 2009-1 Class A Swap or, if applicable, an Interim Swap Counterparty has entered into a Series 2009-1 Class A Interim Swap with the Reinsurer as of such Early Termination Date (""); and
+Early Termination Event V
+(vi) on the date on which the Interim Swap Counterparty gives written notice to the Reinsurer that the Interim Swap Counterparty has elected to terminate the Series 2009-1 Class A Interim Swap with the Reinsurer, if any, and there is no replacement Swap Counterparty in place prior to such termination ("").
+Early Termination Event VI
+17.1 . The Ceding Insurer may elect to require the Reinsurer to extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date to a date which is three calendar months after the Scheduled Termination Date or any Extended Termination Date, as applicable (or if such day is not a Business Day, the next succeeding Business Day), by providing an Extension Notice to the Reinsurer on or prior to the Extension Determination Date, , in no event shall the Extended Termination Date be later than the be later than the Final Extended Termination Date.
+Extension Event I
+provided that
+ 
+17.2 . The Ceding Insurer may elect to require the Reinsurer to extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date or any Extended Termination Date to a date which is three calendar months after the Scheduled Termination Date or the Extended Termination Date, as applicable (or if such day is not a Business Day, the next succeeding Business Day) if an Extension Notice is provided by the Ceding Insurer to the Reinsurer on or prior to the applicable Extension Determination Date and, for the Extension Period immediately following the Scheduled Redemption Date, an Extension Verification Report confirms the occurrence of a Loss Event and that the Class A Net Event Index Value for such Loss Event on such Extension Determination Date is equal to or greater than 50% of the Attachment Amount in effect on the Date of Loss for the Notes and for any Extension Period thereafter, an Extension Verification Report confirms that the conditions set forth below, as applicable, have been satisfied on or prior to the applicable Extension Determination Date, , in no event shall the Extended Termination Date be extended beyond the Final Extended Termination Date:
+Extension Event II
+provided that
+(i) if with respect to the second three-month period, the Class A Net Event Index Value for such Loss Event on any date during the initial three-month extension period is equal to or greater than 50% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(ii) if with respect to the third three-month period, the Class A Net Event Index Value for such Loss Event on any date during the second three-month extension period is equal to or greater than 75% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(iii) if with respect to the fourth three-month period, the Class A Net Event Index Value for such Loss Event on any date during the third three-month extension period is equal to or greater than 75% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(iv) if with respect to the fifth three-month period, the Class A Net Event Index Value for such Loss Event on any date during the fourth three-month extension period is equal to or greater than 90% of the Attachment Amount in effect on the Date of Loss for the Notes; and
+(v) if with respect to the sixth three-month period, the Class A Net Event Index Value for such Loss Event on any date during the fifth three-month extension period is equal to or greater than 90% of the Attachment Amount in effect on the Date of Loss for the Notes.
+17.3 . If a Loss Payment has been made to the Ceding Insurer following a Loss Event with a Date of Loss within 18 months prior to the Scheduled Termination Date, the Ceding Insurer is obligated to require that the Reinsurer extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date in three-month intervals and must continue to request such extensions until the Payment Date which occurs immediately after the earlier of (i) 18 months from the Date of Loss of
+Extension Event III
+ 
+the most recent Loss Event associated with a Loss Payment to the Ceding Insurer, or (ii) the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for the most recent Loss Event associated with a Loss Payment to the Ceding Insurer, , that final resurvey estimates must have been released on such date for all other Loss Events associated with Loss Payments to the Ceding Insurer.
+provided, however
+17.4 . The "" shall be a written notice, in substantially the form attached hereto as , from the Ceding Insurer stating whether the Ceding Insurer has elected an Extension Event I or an Extension Event II or if an Extension Event III has occurred.
+Extension Notice
+Extension Notice
+Exhibit G
+18.1 . So long as the Coverage Limit is outstanding, the Reinsurer shall promptly deliver, or cause to be delivered, to the Ceding Insurer copies of all reports and notices received by the Reinsurer, including Available Information. In addition, the Ceding Insurer at all times shall have the right to inspect the books and records of the Reinsurer which relate to this Reinsurance Agreement. This right shall survive the termination of the Reinsurance Agreement.
+Delivery of Reports
+18.2 . Following a potential Loss Event, the Ceding Insurer may give written notice to the Reinsurer, substantially in the form attached hereto as , requesting that the Calculation Agent provide an Event Report (""). Upon receipt of an Event Notice Request, the Reinsurer shall promptly issue an Event Notice to the Calculation Agent. The Event Notice Request must be delivered within sixty (60) calendar days from the Date of Loss of such potential Loss Event; , that an Event Notice Request may not be delivered later than the Extension Determination Date prior to the Scheduled Termination Date.
+Event Notice
+Exhibit H
+Event Notice Request
+provided that
+18.3 .
+Calculation Agent Failure
+(a) In the event of the occurrence of a Calculation Agent Failure Event, the Reinsurer shall use its reasonable best efforts, in cooperation with the Ceding Insurer, to engage a Replacement Calculation Agent. The Reinsurer shall promptly notify the Ceding Insurer of such Calculation Agent Failure Event and of the proposed Replacement Calculation Agent, if any. Such notice shall be substantially in the form attached hereto as ("".
+Exhibit I
+Calculation Agent Failure Notice
+)
+(b) Upon receipt of a Calculation Agent Failure Notice as set forth in subsection (a) above, the Ceding Insurer shall promptly notify the Reinsurer either that (i) the proposed Replacement Calculation Agent is satisfactory to the Ceding Insurer, and if so, confirm that the proposed Replacement Calculation Agent is not affiliated with the Ceding Insurer, or (ii) the proposed Replacement Calculation Agent is not satisfactory to, or affiliated with, the Ceding Insurer. Such notice shall be
+ 
+substantially in the form attached hereto as (""). In the case of (ii) above, the Reinsurer shall be obligated to continue to use its reasonable best efforts, in cooperation with the Ceding Insurer, to engage a Replacement Calculation Agent.
+Exhibit J
+Ceding Insurer Replacement Calculation Agent Notice
+18.4 . The Reinsurer shall cause the Indenture Trustee to provide notice to the Ceding Insurer of the applicable LIBOR rate and the amount of interest payments to be made under the Indenture.
+LIBOR etc
+19.1 . This Reinsurance Agreement shall be governed by and construed in accordance with the laws of the State of New York without regard to conflicts of laws principles.
+Governing Law
+19.2 . With respect to any suit, action or proceedings relating to the Reinsurance Agreement, each Party irrevocably:
+Jurisdiction
+(a) submits to the non-exclusive jurisdiction of any federal or New York State court located in the City of New York, Borough of Manhattan;
+(b) waives any objection which it may have at any time to the laying of venue of any suit, action or proceedings brought in any such court, waives any claim that such proceedings have been brought in an inconvenient forum and further waives the right to object, with respect to such suit, action or proceedings, that such court does not have any jurisdiction over such Party; and
+(c) waives any claim to punitive, exemplary or multiplied damages from the other.
+19.3 . The Reinsurer hereby appoints CT Corporation System, 111 Eighth Avenue, New York, New York 10011, as its agent for service of process in New York, New York (the "") upon whom may be served any lawful process in any action, suit or proceeding instituted by or on behalf of the other Party or any beneficiary hereunder arising out of this Reinsurance Agreement, and the Reinsurer's Agent is authorized and directed to accept such service of process on behalf of the Reinsurer and, upon the request of the Reinsurer, to give a written undertaking to the Reinsurer that it will enter a general appearance upon the Reinsurer's behalf in the event such a suit shall be instituted.
+Service of Process
+Reinsurer's Agent
+ 
+20.1 . The Reinsurer has entered into the Indenture with the Indenture Trustee. The Reinsurer shall not amend, supplement or modify Section 12.1 of the Indenture, any provision of the Indenture that subjects a provision of the Indenture to Section 12.1 of the Indenture, any provision of the Indenture that requires the consent of Ceding Insurer, without the prior written consent of the Ceding Insurer or any other provision of the Indenture in any way that could have a material adverse effect on the Ceding Insurer in connection with its rights or obligations hereunder.
+Amendment of Indenture
+20.2 . The Reinsure shall comply with all covenants in the Basic Documents as in effect on the date hereof, and as may be amended from time to time.
+Covenant by the Reinsurer
+r
+20.3 . The Reinsurer shall, in consultation with the Ceding Insurer and at its own expense, promptly take all such lawful action as will be necessary to (a) protect and enforce its rights against any third party under or in connection with the Basic Documents, and (b) compel or secure the performance and observance by the other parties to the Basic Documents of each of their obligations to the Reinsurer under or in connection with any of the Basic Documents and (c) exercise any and all rights, remedies, powers and privileges lawfully available to the Reinsurer under or in connection with any Basic Documents.
+Enforcement of Rights
+20.4 . Notwithstanding anything to the contrary in this Reinsurance Agreement, all obligations of and all claims against the Reinsurer hereunder or arising in connection herewith constitute limited recourse obligations of the Reinsurer, payable solely from the Collateral. Upon realization of the Collateral and the reduction thereof to zero, all claims against the Reinsurer hereunder or arising in connection herewith shall be extinguished and shall not thereafter revive. The Ceding Insurer shall have no further claim thereafter against the Reinsurer, its directors, officers or shareholders for any shortfall in the Collateral. The proceeds from the issuance of the Reinsurer's ordinary shares (US $5,000), the amount of the transaction fees (US$1,500) paid to the Reinsurer in connection with each issuance of a Series of Notes by the Reinsurer, and any interest earned thereon on such excluded amounts, shall not form part of the assets available to satisfy the Reinsurer's obligations. The provisions of this shall survive the termination of this Reinsurance Agreement.
+Extinguishment of Obligations
+Section 19.4
+20.5 . The Ceding Insurer, by entering into this Reinsurance Agreement, hereby covenants and agrees that it will not at any time institute against the Reinsurer, or join in any institution against the Reinsurer of, any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings, or other proceedings under any federal, state or foreign bankruptcy or similar law in connection with any obligations hereunder until the expiration of one year and one day (or, if longer, the applicable preference period under any applicable bankruptcy or similar law) from the date no Series of Notes are outstanding under the Program. The provisions of this shall survive the termination of this Reinsurance Agreement.
+Non-Petition
+Section 19.5
+ 
+(a) In the event of the insolvency of the Ceding Insurer, any payments due to the Ceding Insurer shall be payable directly to the Ceding Insurer or to its liquidator, receiver, conservator or statutory successor on the basis of the liability of the Ceding Insurer without diminution because of the insolvency of the Ceding Insurer or because the liquidator, receiver, conservator or statutory successor of the Ceding Insurer has failed to pay all or a portion of any claim. It is agreed, however, that the liquidator, receiver, conservator or statutory successor of the Ceding Insurer shall give written notice to the Reinsurer of the pendency of a claim against the Ceding Insurer indicating the policy reinsured which claim would involve a possible liability on the part of the Reinsurer within a reasonable time after such claim is filed in the conservation or liquidation proceeding or in the receivership, and that during the pendency of such claim, the Reinsurer may investigate such claim and interpose, at its own expense, in the proceeding where such claim is to be adjudicated, any defense or defenses that it may deem available to the company or its liquidator, receiver, conservator or statutory successor. The expense thus incurred by the Reinsurer shall be chargeable, subject to the approval of the Court, against the Ceding Insurer as part of the expense of conservation or liquidation to the extent of a pro rata share of the benefit which may accrue to the company solely as a result of the defense undertaken by the Reinsurer.
+(b) It is further understood and agreed that, in the event of the insolvency of the Ceding Insurer, the reinsurance under this Reinsurance Agreement shall be payable directly by the Reinsurer to the Ceding Insurer or to its liquidator, receiver or statutory successor, except as provided by any applicable law or except (1) where this Reinsurance Agreement specifically provides another payee of such reinsurance in the event of the insolvency of the Ceding Insurer or (2) where the Reinsurer with the consent of the direct insured or insureds has assumed such policy obligations of the Ceding Insurer as direct obligations of the Reinsurer to the payees under such policies and in substitution for the obligations of the Ceding Insurer to such payees.
+22.1 .
+Liability of Officers, Directors, Members, Agents and Employees
+(a) No liability shall attain in favor of the Reinsurer against any officer, director, member, agent or employee of the Ceding Insurer but the Reinsurer shall look solely to the assets of the Ceding Insurer for satisfaction of this Reinsurance Agreement.
+ 
+(b) No liability shall attain in favor of the Ceding Insurer against any officer, director, member, agent or employee of the Reinsurer but the Ceding Insurer shall look solely to the assets of the Reinsurer for satisfaction of this Reinsurance Agreement.
+22.2 . This Reinsurance Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all other prior negotiations, commitments, agreements and understandings, both written and oral, between the Parties or either of them with respect to the subject matter hereof.
+Integration
+22.3 . Neither this Reinsurance Agreement nor any rights or obligations hereunder may be assigned or otherwise transferred by any Party (including by operation of law).
+Assignment
+22.4 . Any change or modification to this Reinsurance Agreement must be made, in writing, and signed by all the parties to this Reinsurance Agreement. The Ceding Insurer shall not sign or permit any amendments or modifications to this Reinsurance Agreement or agree to any voluntary termination of this Reinsurance Agreement, except as otherwise permitted under this Reinsurance Agreement.
+Amendment
+22.5 . Any inadvertent act, delay, omission or error by either Party will not relieve the other Party of any liability under this Reinsurance Agreement, provided such act, delay, omission or error is not prejudicial to the other Party and is rectified promptly or reasonably upon discovery by the responsible Party.
+Errors and Omissions
+22.6 . Any written notice required to be provided under the Reinsurance Agreement shall be effective if provided by facsimile transmission or by physical delivery to:
+Notice
+If to the Reinsurer, to:
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+ 
+If to the Ceding Insurer, to:
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+If to the Calculation Agent, to:
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Managing Director of Global Risk Modeling
+or to such other address for either Party as such Party shall hereafter designate by like notice.
+22.7 .
+Payment Instruction
+(a) All payments to the Ceding Insurer under this Reinsurance Agreement shall, if payable directly to the Ceding Insurer, be made via wire transfer to the following account:
+JPMorgan Chase Bank, N.A.
+New York, NY
+aba: []
+a/c []
+a/c # []
+ 
+(b) All payments to the Reinsurer under this Reinsurance Agreement set forth in or shall be made to the Reinsurer via wire transfer to the following account:
+Section 6.3
+Section 12.7
+IBIS RE SERIES 2009-1 CLASS A REINSURANCE TRUST ACCOUNT
+Account Number: []
+Fed Wire / ACH
+Bank Name: Deutsche Bank Trust Company Americas
+Bank Address: 60 Wall Street, New York, NY
+ABA No.: []
+Account Number: []
+Account Name: []
+FFC: []
+Attn: []
+SWIFT Wires
+SWIFT Number: []
+Account Number: []
+Account Name: []
+FFC: []
+Attn: []
+(c) All payments to the Reinsurer under this Reinsurance Agreement set forth in shall be made to the Reinsurer via wire transfer to the following account:
+Section 8.1(a)
+IBIS RE LTD. SERIES 2009-1 CLASS A NOTE PAYMENT ACCOUNT
+Account Number []
+Pay to: Deutsche Bank Trust Company Americas NY
+SWIFT: []
+For Account of: Deutsche Bank AG, London Branch
+Account #: []
+SWIFT: []
+For Further Credit: IBIS RE LTD SERIES 2009 I CLASS A VARIABLE RATE NOTES
+Account #: []
+Reference: []
+ 
+(d) All payments to the Reinsurer under this Reinsurance Agreement set forth in or shall be made to the Reinsurer via wire transfer to the following account:
+Section 8.1(c)
+Section 15.3
+Correspondent Bank: The Bank of New York Mellon
+SWIFT: []
+ABA: []
+Beneficiary Bank: Butterfield Bank (Cayman) Limited
+Account No.: []
+Swift: []
+For further credit to the account of Ibis Re Ltd.
+Account: []
+22.8 . All amounts due to either Party hereunder shall be payable in United States currency.
+Currency
+22.9 . All obligations, representations, and warrantees made in this Reinsurance Agreement shall survive the termination of this Reinsurance Agreement and shall continue in force and effect until all obligations of the parties hereunder have been discharged in full.
+Survival
+22.10 . If any provision (or portion of a provision) of this Reinsurance Agreement shall be held to be invalid, illegal, or unenforceable according to the laws, regulations, or public policy of any jurisdiction, the validity, legality, and enforceability of the remaining provisions (and such portions of provisions) shall in no way be affected or impaired thereby, and such invalidity, illegality, or unenforceability of such provision (or such portion of a provision) in such jurisdiction shall not affect the validity, legality, or enforceability of such provision (or such portion of a provision) in any other jurisdiction.
+Severability
+22.11 . The Reinsurance Agreement may be executed in any number of counterparts, each of which shall be an original, but such counterparts shall together constitute but one and the same instrument.
+Counterparts
+ 
+IN WITNESS WHEREOF, the Parties have caused this Reinsurance Agreement to be duly executed by their respective officers, thereunto duly authorized, all as of the day and year first written above.
+ 
+Schedule A
+Fees of Indenture Trustee
+Fees of Reinsurance Trustee
+Fees of Lovells
+Fees of Rating Agency
+Fees of Risk Management Solutions, Inc.
+Fees of Maples and Calder
+Fees and expenses of the Initial Purchaser
+Fees and expenses of Sidley Austin LLP
+Fees of Allen and Overy LLP
+Fees of Cadwalader, Wickersham and Taft LLP
+Fees of Administrator
+Fees of Global Note Depositary
+Fees of PCS license
+Fees of Ibis Re Ltd. Auditors
+Fees of Printer
+Fees of Escrow Agent
+Fees of Corporation Service Company
+Fees of Intralinks
+Insurance License Fees
+Incorporation Fees
+Ibis Re Ltd. capitalization and profit
+Cayman Islands Stamp Duty Fees
+Cayman Stock Exchange listing fee
+Letter of good standing
+Registered Office Fee
+Miscellaneous
+ 
+Schedule B
+Fees of Indenture Trustee
+Fees of Reinsurance Trustee
+Fees of Rating Agency
+Fees of Risk Management Solutions, Inc.
+Fees of Maples and Calder
+Fees of Administrator
+Fees of Ibis Re Ltd. Auditors
+Fees of Escrow Agent
+Fees of Corporation Service Company
+Insurance License Fees
+Annual Registered Office Fee
+Cayman Stock Exchange listing fee
+Annual Tax Return
+Miscellaneous
+ 
+Exhibit A
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Re:
+Ceding Insurer Payment Event of Default Notice (Series 2009-1 Class A Notes)
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other certain ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Pursuant to Section 16.1(iv) of the Reinsurance Agreement, the Reinsurer hereby notifies you that the Ceding Insurer failed to make a [Premium [] Payment][Ceding Insurer Payment] which was due on [DATE].
+Unless the Ceding Insurer makes such payment within 5 Business Days of the receipt of this Ceding Insurer Payment Event of Default Notice, the Reinsurer will be entitled to terminate the Reinsurance Agreement.
+ 
+ 
+Exhibit B
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Pursuant to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes, we hereby certify to you that the amount of [Initial][Additional] Premium referred to in Section 8.1(c) in the Reinsurance Agreement is $            . Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement. Such amount shall be payable via wire transfer to the following account:
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+[]
+SWIFT: []
+ABA no: [] (if required)
+Account: []
+SWIFT: []
+For credit: []
+Account no: []
+Reference: []
+ 
+ 
+Exhibit C
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+Attention: General Counsel
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Attention: Regional Vice President AND/OR
+Managing Director of Global Risk Modeling
+[DATE]
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. and American Security Insurance Company and other the ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Ceding Insurer
+ 
+Pursuant to Section 13.3 of the Reinsurance Agreement, we hereby exercise our option to update the Payout Factors.
+[]
+List Updated Payout Factors
+ 
+ 
+Exhibit D
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+Attention: General Counsel
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Attention: Regional Vice President AND/OR
+Managing Director of Global Risk Modeling
+[DATE]
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Ceding Insurer
+ 
+Pursuant to Section 13.4 of the Reinsurance Agreement, we hereby exercise our option to update the Florida Inuring Coverage Attachment, Florida Inuring Coverage Exhaustion and Florida Inuring Coverage Percentage.
+[]
+State such Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage
+ 
+ 
+Exhibit E
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+Loss Event Name: [         ]
+Loss Event Date: [         ]
+PCS Catastrophe No.: [         ]
+[DATE]
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Pursuant to Article XV of the Reinsurance Agreement, the Ceding Insurer hereby submits a Proof of Loss Claim detailing the Ultimate Net Loss as of the Final Settlement Date relating to the Loss Event described above as follows:
+ 
+ 
+[The Ultimate Net Loss associated with this Loss Event equals or exceeds the Loss Event Net Payment received from the Reinsurer and no further payments are payable or receivable for this Loss Event.]
+[The Ultimate Net Loss associated with this Loss Event is less than the Loss Event Net Payment received from the Reinsurer and the Ceding Insurer hereby agrees to reimburse the Reinsurer for the difference, totaling $[     ].]
+ 
+ 
+Exhibit F
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+ 
+Re:
+Early Termination Event Notice (Series 2009-1 Class A Notes)
+Reference is made to Article XVI of the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+The Ceding Insurer hereby notifies the Reinsurer that it has elected:
+. The Ceding Insurer certifies that the aggregate Outstanding Principal Amount of the Series 2009-1 Notes is equal to or less than $10,000,000. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+[Early Termination Event I
+[. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+Early Termination Event II
+[. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+Early Termination Event III
+ 
+ 
+ 
+Exhibit G
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email: catbondsurveillance@sandp.com
+[DATE]
+ 
+Re:
+Extension Notice (Series 2009-1 Class A Notes)
+Reference is made to Article XVII of the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+The Ceding Insurer hereby certifies to the Reinsurer that [the Ceding Insurer has elected an Extension Event [I] [II]] [an Extension Event III has occurred] and requests that the Reinsurer extend the [Scheduled Termination Date][Extended Termination Date] to [].
+state next Extended Termination Date
+ 
+ 
+Exhibit H
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk
+Calculation Agent Agreement
+Reinsurer
+ 
+Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+We hereby notify you that a potential Loss Event relating to [DESCRIBE EVENT] has occurred and request that you cause the Calculation Agent to provide an Event Report for such potential Loss Event.
+ 
+ 
+Exhibit I
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Angela Burgess
+Vice President & Chief Actuary
+Assurant Specialty Property
+11222 Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+and
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339
+with a further copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+ 
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent Agreement
+Reinsurer
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+The Calculation Agent has failed to perform its duties and obligations under the Calculation Agent Agreement. We propose to replace the Calculation Agent with [NAME OF PROPOSED SUBSTITUTE CALCULATION AGENT].
+ 
+ 
+Exhibit J
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+ 
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (each, a "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent Agreement
+Reinsurer
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+We [are]/[are not] satisfied with replacing the Calculation Agent with [NAME OF PROPOSED REPLACEMENT CALCULATION AGENT].
+We [can]/[cannot] confirm that [NAME OF PROPOSED REPLACEMENT CALCULATION AGENT] is not an affiliate of any Ceding Insurer.
+ 
+ 
+Exhibit K
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Attention: Angela Burgess
+      Vice President & Chief Actuary
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Pursuant to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class A Variable Rate Notes, we hereby certify to you that the amount of the Early Redemption Event IV Termination Payment referred to in Section 8.1(a)(viii) in the Reinsurance Agreement is $            . Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement. Such amount shall be payable via wire transfer to the following account:
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Ibis Re Ltd. Series 2009-1 Class A Swap Termination Account
+Account Number: S37640.1
+Fed Wire / ACH
+Bank Name: Deutsche Bank Trust Company Americas
+Bank Address: 60 Wall Street, New York, NY
+ABA No.:021001033
+Account Number:01419647
+Account Name: Trust & Securities Services
+FFC: PORT S37640.1 Ibis Re 2009-1 Class A Collateral Contract Term
+AC
+Attn: Kelvin Vargas
+ 
+ 
+Annex I
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.-Without in any way restricting the operation of paragraph (1) hereof, it is understood and agreed that
+Note
+ 
+ 
+Annex II
+It is the mutual intention of the parties to exclude risks, other than Offices, Hotels, Apartments, Hospitals, Educational Establishments and Public Utilities (except Railroad Schedules), and Builders Risks on the above classes, where at the time of cession, the Total Insured Value over all interests exceeds $250,000,000. However, the Ceding Insurer shall be protected hereunder, subject to the other terms and conditions of this Reinsurance Agreement, if subsequent to cession being made, the Ceding Insurer becomes acquainted with the true facts of the case and discovers that the mutual intention has been inadvertently breached; on condition that the Ceding Insurer shall at the first opportunity, and certainly by next anniversary of the original policy, exclude the risk in question.
+It is agreed that this mutual intention does not apply to Contingent Business Interruption or to interests traditionally underwritten as Inland Marine or to Stock and/or Contents written on a blanket basis except where the Ceding Insurer is aware that the Total Insured Value of $250,000,000 is already exceeded for buildings, machinery, equipment and direct use and occupancy at the key location.
+It is understood and agreed that this Clause shall not apply hereunder where the Ceding Insurer writes 100% of the risk.
+Annex III
+Section A:
+Excluding:
+ 
+ 
+Section B:
+It is agreed that business written by the Ceding Insurer for the same perils, which is known at the time to be insured by, or in excess of underlying amounts placed in the following Pools, Associations or Syndicates, whether by way of insurance or reinsurance, is excluded hereunder:
+Industrial Risk Insurers,
+Associated Factory Mutuals,
+Improved Risk Mutuals,
+Any Pool, Association or Syndicate formed for the purpose
+of writing Oil, Gas or Petro-Chemical Plants and/or Oil or
+Gas Drilling Rigs,
+United States Aircraft Insurance Group,
+Canadian Aircraft Insurance Group,
+Associated Aviation Underwriters,
+American Aviation Underwriters.
+Section B does not apply:
+ 
+ 
+ 
+Offices, Hotels, Apartments, Hospitals, Educational Establishments, Public Utilities (other than railroad schedules) and builder's risks on the classes of risks specified in this subsection (d) only.
+Where this clause attaches to Catastrophe Excesses, the following Section C is added:
+Section C:
+Nevertheless the Reinsurer specifically agrees that liability accruing to the Ceding Insurer from its participation in residual market mechanisms including but not limited to (but excluding Citizens Property Insurance Corporation, the Florida corporation):
+ 
+Alabama Insurance Underwriting Association
+Louisiana Citizens Property Insurance Corporation
+Mississippi Windstorm Underwriting Association
+North Carolina Insurance Underwriting Association
+South Carolina Windstorm and Hail Underwriting Association
+Texas Windstorm Insurance Association
+AND
+ 
+AND
+ 
+for all perils otherwise protected hereunder shall not be excluded, except, however, that this reinsurance does not include any increase in such liability resulting from:
+ 
+ 
+Section D:
+Notwithstanding Section C above, in respect of the CEA, where an assessment is made against the Ceding Insurer by the CEA, the Ceding Insurer may include in its Ultimate
+Net Loss only that assessment directly attributable to each separate Loss Occurrence covered hereunder. The Ceding Insurer's initial capital contribution to the CEA shall not be included in the Ultimate Net Loss.
+Any assessments for accounting years subsequent to that in which the Loss Event commenced may not be included in the Ultimate Net Loss hereunder.
+Notwithstanding Section C above, where an assessment is made against the Ceding Insurer by any such "Coastal Pool" and/or "Fair Plan" and/or "Rural Risk Plan" and/or "Residual Marker Mechanism," the Ceding Insurer may include in its Ultimate Net Loss only that assessment directly attributable to each separate loss occurrence covered hereunder which is not otherwise recoverable or recoupable through a premium tax credit by the Ceding Insurer.
+
+Exhibit 10.2
+THIS REINSURANCE AGREEMENT (this ""), dated as of May 5, 2009, is made by and among American Security Insurance Company, a stock insurance company domiciled in the State of Delaware, American Bankers Insurance Company of Florida, a stock insurance company domiciled in the State of Florida, and Standard Guaranty Insurance Company, a stock insurance company domiciled in the State of Delaware (collectively, the "") and Ibis Re Ltd., a Cayman Islands exempted company licensed as a Class B Insurer in the Cayman Islands (the "") (each of the Reinsurer and the Ceding Insurer, a "" and collectively, the ""). One or more New Parties (as defined herein) may be added to this Reinsurance Agreement as part of the Ceding Insurer in accordance with Article IX.
+Reinsurance Agreement
+Ceding Insurer
+Reinsurer
+Party
+Parties
+The Ceding Insurer hereby cedes to the Reinsurer and the Reinsurer hereby reinsures the Ceding Insurer to the extent and on the terms and conditions and subject to the exceptions, exclusions and limitations hereinafter set forth in this Reinsurance Agreement.
+Unless defined herein, all capitalized terms in this Reinsurance Agreement shall have the meaning ascribed to them in (i) the Indenture attached hereto as and (ii) the Series Supplement attached hereto as , both of which are incorporated herein.
+Annex IV
+Annex V
+"" shall have the meaning ascribed to it in .
+Additional Premium
+Section 8.1(c)(ii)
+"" shall mean a day other than (i) a Saturday, (ii) a Sunday or (iii) a day on which banking institutions or trust companies in any of the Cayman Islands, the City of London, England or the City of New York, New York are authorized or required by applicable law, regulation or executive order to remain closed.
+Business Day
+"" shall occur if the Calculation Agent fails to perform its duties and obligations under the Calculation Agent Agreement.
+Calculation Agent Failure Event
+"" shall have the meaning ascribed to it in .
+Calculation Agent Failure Notice
+Section 18.3(a)
+"" shall have the meaning ascribed to it in the preamble.
+Ceding Insurer
+"" shall mean a failure on the part of the Ceding Insurer to pay, when due, any Premium or Ceding Insurer Payment.
+Ceding Insurer Default
+"" shall have the meaning ascribed to it in .
+Ceding Insurer Payment
+Section 6.3
+"" shall have the meaning ascribed to it in .
+Ceding Insurer Replacement Calculation Agent Notice
+Section 18.3(b)
+"" shall have the meaning ascribed to it in .
+Coverage
+Section 3.1
+"" shall mean the Outstanding Principal Amount of the Notes in support of the Coverage provided under this Reinsurance Agreement.
+Coverage Limit
+"" shall mean the District of Columbia and the following states: Alabama, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Texas, Vermont, Virginia and West Virginia.
+Covered Area
+"" or "" shall include, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, the Ceding Insurer's own costs and legal expenses incurred in direct connection with declaratory judgment actions brought to determine the Ceding Insurer's defense and/or indemnification obligations between the Ceding Insurer and its insured(s) that are assignable to specific claims arising out of policies reinsured by this Reinsurance Agreement, regardless of whether the declaratory judgment action is successful or unsuccessful. Any Declaratory Judgment Expense shall be deemed to have been fully incurred by the Ceding Insurer on the same date as the original loss (if any) giving rise to the action.
+Declaratory Judgment Expense
+Declaratory Judgment Expenses
+"" shall mean (i) with respect to an Early Termination Event I, II, III, IV and V, the first Payment Date that occurs at least thirty-five (35) calendar days after the date of such Early Termination Event, , if such Early Termination Event occurs less than 35 calendar days prior to the Scheduled Termination Date or the relevant Extended Termination Date, then the Early Termination Date shall be the Scheduled Termination Date or the Extended Termination Date, as the case may be, or if such day is not a Business Day, on the next succeeding Business Day and (ii) with respect to an Early Termination Event VI, the next following June 15 Payment Date, provided that the Early Termination Event VI occurs on or prior to June 1 of that year or, if an Early Termination Event VI occurs on any date following June 1, 2011, the Scheduled Termination Date.
+Early Termination Date
+provided that
+"" shall mean an Early Termination Event I, an Early Termination Event II, an Early Termination Event III, an Early Termination Event IV, an Early Termination Event V or an Early Termination Event VI.
+Early Termination Event
+ 
+"" shall have the meaning ascribed to it in .
+Early Termination Event I
+Section 16.1(i)
+"" shall have the meaning ascribed to it in .
+Early Termination Event II
+Section 16.1(ii)
+"" shall have the meaning ascribed to it in .
+Early Termination Event III
+Section 16.1(iii)
+"" shall have the meaning ascribed to it in .
+Early Termination Event IV
+Section 16.1(iv)
+"" shall have the meaning ascribed to it in .
+Early Termination Event V
+Section 16.1(v)
+"" shall have the meaning ascribed to it in .
+Early Termination Event VI
+Section 16.1(vi)
+"" shall mean May 5, 2009.
+Effective Date
+"" shall have the meaning ascribed to it in .
+Event Notice Request
+Section 18.2
+"" shall mean the date to which the maturity of the Notes may be extended following one or more Extension Events (or if such day is not a Business Day, the next succeeding Business Day), but in no event will such date be later than the Final Extended Termination Date.
+Extended Termination Date
+"" shall mean the date which is no later than three Business Days prior to the Scheduled Termination Date or any applicable Extended Termination Date, as the case may be.
+Extension Determination Date
+"" shall mean an Extension Event I, an Extension Event II, or an Extension Event III.
+Extension Event
+"" shall have the meaning ascribed to it in Section .
+Extension Event I
+17.1
+"" shall have the meaning ascribed to it in Section .
+Extension Event II
+17.2
+"" shall have the meaning ascribed to it in Section .
+Extension Event III
+17.3
+"" shall have the meaning ascribed to it in .
+Extension Notice
+Section 17.4
+"" or "" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, 100% of any punitive, exemplary, compensatory or consequential damages paid or payable by the Ceding Insurer, not covered by any other provision of this Reinsurance Agreement and which arise from the handling of any claim on business subject to this
+Extra Contractual Obligation
+Extra Contractual Obligations
+ 
+Reinsurance Agreement, such liabilities arising because of, but not limited to, failure by the Ceding Insurer to settle within the policy limits or by reason of the Ceding Insurer's alleged or actual negligence, fraud (except by an officer or director of the Ceding Insurer as hereinafter provided) or bad faith in rejecting an offer of settlement or in the preparation of the defense or in the trial of an action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such an action. An Extra Contractual Obligation shall be deemed, in all circumstances, to have occurred on the same date as the loss covered or alleged to be covered under the policy. Extra Contractual Obligation shall not include Extra Contractual Obligations incurred due to the fraud or criminal act of a member of the board of directors, an officer, an agent or an employee of the Ceding Insurer, or any other person or organization involved in the presentation, defense or settlement of any claim covered hereunder, whether acting individually or collectively or in collusion with any person or organization.
+"" shall mean, following an Extension Event, the earlier of the Payment Date immediately succeeding (i) 18 months from the Date of Loss of the most recent Loss Event with respect to the Notes, and (ii) the Event Reporting Date when PCS has released all Catastrophe Bulletins with final resurvey estimates for all Loss Events associated with the Notes.
+Final Extended Termination Date
+"" shall have the meaning ascribed to it in .
+Final Settlement
+Section 15.1
+"" shall mean, with respect to each Loss Event, the date that occurs 18 months from the Payment Date when the last of the final Reinsurer Payment or final Ceding Insurer Payment was made with respect to such Loss Event.
+Final Settlement Date
+"" shall have the meaning ascribed to it in .
+Florida Inuring Coverage Update Notice
+Section 13.4
+"" shall mean any event that is assigned a number by PCS as a "catastrophe," where the perils identified by PCS with respect to such catastrophe include the peril of Hurricane.
+Hurricane
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, liabilities for future payments on losses from a Loss Event that have already occurred but have not yet been reported to the Ceding Insurer and the expected future development on claims already reported to the Ceding Insurer from a Loss Event.
+Incurred But Not Reported Losses
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, losses that have been reported and either paid or reserved for future payment by the Ceding Insurer from a Loss Event.
+Incurred Losses
+"" shall mean the indenture dated as of May 5, 2009 by and among the Reinsurer, Deutsche Bank Trust Company Americas, as Indenture Trustee, and Deutsche Bank AG, London Branch, as Paying Agent.
+Indenture
+ 
+"" shall mean 3.14%.
+Initial Modeled Attachment Probability
+"" shall mean 2.28%.
+Initial Modeled Expected Loss
+"" shall have the meaning ascribed to it in .
+Initial Premium
+Section 8.1(c)(i)
+"" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, expenses assignable to the investigation, appraisal, adjustment, settlement, litigation, defense, or appeal of claims, regardless of how such expenses are classified for statutory reporting purposes. Loss Adjustment Expense shall include, but not be limited to, interest on judgments, expenses of outside adjusters, expenses and a pro rata share of salaries of the Ceding Insurer's field employees and expenses of other employees of the Ceding Insurer who have been temporarily diverted from their normal and customary duties and assigned to the adjustment of losses covered by this Reinsurance Agreement, expenses of the Ceding Insurer's officials incurred in connection with coverage questions and legal actions connected thereto, advertising or other extraordinary communication expense as a result of a Loss Event, costs of supersedeas and appeal bonds and monitoring counsel expenses. Loss Adjustment Expense shall not include normal office expenses or salaries of the Ceding Insurer's officials.
+Loss Adjustment Expense
+"" shall mean any Hurricane with a Date of Loss within the Risk Period and identified by PCS as having caused insured industry personal property losses in the Covered Area.
+Loss Event
+"" shall have the meaning ascribed to it in .
+Loss Event Net Payment
+Section 6.1
+"" or "" shall mean, solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, 100% of any amount paid or payable by the Ceding Insurer in excess of its policy limits, but otherwise within the terms of its policy, such loss in excess of the Ceding Insurer's policy limits having been incurred because of, but not limited to, failure by the Ceding Insurer to settle within the policy limits or by reason of the Ceding Insurer's alleged or actual negligence, fraud (except by an officer or director of the Ceding Insurer as herein after provided) or bad faith in rejecting an offer of settlement or in the preparation of the defense or in the trial of an action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such an action. A Loss in Excess of Policy Limits shall be deemed, in all circumstances, to have occurred on the same date as the loss covered or alleged to be covered under the policy. Notwithstanding anything stated herein, Loss in Excess of Policy Limits shall not include Loss in Excess of Policy Limits incurred by the Ceding Insurer as a result of any fraudulent and/or criminal act by any officer or director of the Ceding Insurer acting individually or collectively or in collusion with any individual or corporation or any other organization or party involved in the presentation, defense or settlement of any claim covered hereunder.
+Loss in Excess of Policy Limits
+Losses in Excess of Policy Limits
+ 
+"" shall mean a Loss Payment, as defined in the Series Supplement, with respect to the Notes.
+Loss Payment
+"" shall have the meaning ascribed to it in Article IX.
+New Party
+"" shall mean the $75,000,000 Series 2009-1 Class B Variable Rate Notes due May 10, 2012.
+Notes
+"" shall mean $75,000,000.
+Original Coverage Limit
+"" or "" shall have the meaning ascribed to it in the preamble.
+Party
+Parties
+"" shall mean a failure by the Ceding Insurer to cure a Ceding Insurer Default within five (5) Business Days of receipt of notice, substantially in the form attached hereto as , from the Reinsurer of such Ceding Insurer Default.
+Payment Event of Default
+Exhibit A
+"" shall have the meaning ascribed to it in .
+Payout Factors Update Notice
+Section 13.3
+"" shall have the meaning ascribed to it in the Reinsurance Trust Agreement.
+Permitted Investments
+"" shall have the meaning ascribed to it in .
+Premium Payment
+Section 8.1(a)
+"" shall have the meaning ascribed to it in .
+Proof of Loss Claim
+Section 15.2
+"" shall have the meaning ascribed to it in the preamble.
+Reinsurance Agreement
+"" shall have the meaning ascribed to it in .
+Reinsurance Trust Account
+Section 12.1
+"" shall have the meaning ascribed to it in .
+Reinsurance Trust Agreement
+Section 12.1
+"" shall mean Deutsche Bank Trust Company Americas.
+Reinsurance Trustee
+"" shall have the meaning ascribed to it in the preamble.
+Reinsurer
+"" shall have the meaning ascribed to it in .
+Reinsurer's Agent
+Section 18.3
+"" shall have the meaning ascribed to it in .
+Reinsurer Payment
+Section 6.2
+ 
+"" shall mean any entity acceptable to the Ceding Insurer which, in the event of a Calculation Agent Failure Event, shall be appointed as the Replacement Calculation Agent and which will be unaffiliated with the Ceding Insurer.
+Replacement Calculation Agent
+"" shall mean, the period commencing at 12:00 a.m., New York time on the date immediately following the Effective Date to and including the earlier of (i) 11:59 p.m., New York time on May 5, 2012, or (ii) in the event of an Early Termination Event, 11:59 p.m. New York time on the date on which such Early Termination Event occurs.
+Risk Period
+"" shall mean May 10, 2012.
+Scheduled Termination Date
+"" shall mean the $75,000,000 Series 2009-1 Class A Variable Rate Notes due May 10, 2012 and the $75,000,000 Series 2009-1 Class B Variable Rate Notes due May 10, 2012.
+Series 2009-1 Notes
+"" shall mean the Series Supplement in respect of the Notes by and between the Reinsurer and Deutsche Bank Trust Company Americas, as Indenture Trustee and series agent.
+Series Supplement
+"" shall mean (i) the earlier to occur of the Early Termination Date or the Scheduled Termination Date, as applicable, or (ii) following an Extension Event, the relevant Extended Termination Date or the Early Termination Date, as the case may be.
+Termination Date
+"" shall have the meaning ascribed to it in Article XIV.
+Ultimate Net Loss
+"" shall have the meaning ascribed to it in the Reinsurance Trust Agreement.
+U.S. Treasury Money Market Fund
+2.1 . This Reinsurance Agreement shall become effective on the Effective Date and shall remain in force until the Termination Date, , that if a Loss Payment has been made to the Ceding Insurer prior to the Termination Date, this Reinsurance Agreement shall terminate on the Final Settlement Date for the Loss Event that provides the lattermost Final Settlement Date.
+Term
+provided, however
+3.1 . This Reinsurance Agreement covers insured or reinsured losses of the Ceding Insurer arising during the Risk Period from one or more Loss Events on a per occurrence basis to real property (including manufactured housing)
+Coverage
+ 
+and personal property under policies of insurance issued by the Ceding Insurer or assumed by the Ceding Insurer and not otherwise excluded under subparagraph 9 of Article X hereof ("").
+Coverage
+3.2 . Notwithstanding any Extension Event, nor the Ceding Insurer's election to extend the term of the Reinsurance Agreement, the Risk Period will not be extended and the Reinsurer will not be liable for any payments in relation to any Hurricane occurring during any Extension Period.
+Extension Period
+3.3 . Except as set forth in Article XX, nothing contained in this Reinsurance Agreement shall in any manner create any obligations of or establish any rights against the Reinsurer in favor of any third party or any persons not parties to this Reinsurance Agreement.
+No Third Party Rights
+The territorial limit of this Reinsurance Agreement is the Covered Area for each Loss Event.
+The total amount recoverable from the Reinsurer under this Reinsurance Agreement in the aggregate shall not exceed the Original Coverage Limit.
+6.1 . The Reinsurer's obligations under this Reinsurance Agreement for each Loss Event are limited to the lesser of (i) the sum of the Reinsurer Payments due and payable for such Loss Event less the sum of the Ceding Insurer Payments receivable for such Loss Event, the difference being the "" for such Loss Event, and (ii) the Ultimate Net Loss of the Ceding Insurer for such Loss Event, subject to the terms and conditions set forth herein.
+Payment Limitations for Coverage
+Loss Event Net Payment
+6.2 . For each Loss Event, the Reinsurer agrees to pay to the Ceding Insurer on the first Payment Date after each related Event Reporting Date an amount equal to the Loss Payment if such amount is greater than zero (each, a ""), if any, payable with respect to the Coverage in effect. Such payments shall be made by the Reinsurer on each Payment Date until the earlier of (i) the Payment Date which occurs 18 months from the first Payment Date following the first Event Reporting Date, (ii) the first Payment Date which occurs after the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for
+Reinsurer Payments
+Reinsurer Payment
+ 
+such Loss Event, and (iii) the later of the Scheduled Termination Date and the Extended Termination Date, as the case may be, or, in the case of an Early Termination Event, the Early Termination Date.
+6.3 . For each Loss Event, the Ceding Insurer agrees to reimburse the Reinsurer on the first Payment Date after each related Event Reporting Date an amount equal to the absolute value of the Loss Payment if such amount is less than zero (each, a ""), if any, payable with respect to the Coverage in effect. Such payments shall be made by the Ceding Insurer on each Payment Date until the earlier of (i) the Payment Date which occurs 18 months from the first Payment Date following the first Event Reporting Date, (ii) the first Payment Date which occurs after the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for such Loss Event, and (iii) the later of the Scheduled Termination Date or the Extended Termination Date, as the case may be, or, in case of an Early Termination Event, the Early Termination Date.
+Ceding Insurer Payments
+Ceding Insurer Payment
+6.4 . As stipulated in , the Loss Event Net Payments payable by the Reinsurer for each Loss Event will be limited to the Ultimate Net Loss for such Loss Event as of the Final Settlement Date. If the Loss Event Net Payments paid by the Reinsurer with respect to a Loss Event in accordance with this Article VI exceed the Ultimate Net Loss for such Loss Event, the Ceding Insurer shall refund the excess to the Reinsurer, as stipulated in Article XV.
+Ultimate Net Loss Limitation
+Section 6.1
+7.1 . No claims shall be made upon the Reinsurer under any Coverage in effect, and the Reinsurer has no liability for any losses hereunder, unless and until the Reinsurer has received a report issued by the Calculation Agent to the Reinsurer, the Indenture Trustee and the Ceding Insurer pursuant to the Calculation Agent Agreement which reports the results of the procedures carried out by the Calculation Agent in accordance with the Calculation Agent Agreement stating, for each Loss Event, the PCS Loss Amount, the Class B Gross Event Index Value, the Class B Florida Inuring Coverage, the Class B Net Event Index Value, Index Loss Amount, Loss Payment, and stating for the Notes, the Net Loss Payment and the resulting Coverage Limit remaining as a consequence with respect to the Coverage, subject to the Original Coverage Limit.
+Delivery of Event Report
+ 
+8.1
+Premiums payable to the Reinsurer
+(a) The Ceding Insurer shall pay the following reinsurance premiums (each, a "") to the Reinsurer with respect to the Coverage Limit:
+Premium Payment
+(i) : on the Business Day immediately preceding each Payment Date up to and including the earlier of the Early Termination Date and the Scheduled Termination Date, an amount equal to 14.25% per annum calculated on the Coverage Limit determined as of the first day of the relevant Accrual Period, , , that for all Accrual Period days from and including the Effective Date to but not including the first anniversary date of the Effective Date, even if such anniversary date is not a Payment Date, such premium will be calculated on the Original Coverage Limit, , , that if such first anniversary date is not a Payment Date, for the remaining portion of the relevant Accrual Period days from and including such anniversary date to but not including the next Payment Date, such premium will accrue and be calculated on the Original Coverage Limit, , that if a Premium F Payment becomes due and payable on any Payment Date prior to the end of the first anniversary date of the Effective Date, no Premium R Payment shall become due and payable following such Payment Date;
+Premium R Payments
+provided
+however
+provided
+further
+provided
+further
+(ii) : on the Business Day immediately preceding each Payment Date up to and including the Termination Date an amount equal to 0.70% per annum calculated on the Coverage Limit as of the first day of the relevant Accrual Period;
+Premium S Payments
+(iii) : if an Extension Event I occurs, on the Business Day immediately preceding each Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 4.00% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period;
+Premium E1 Payments
+(iv) : if an Extension Event II occurs, on the Business Day immediately preceding the Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 0.50% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period;
+Premium E2 Payments
+(v) : if an Extension Event III occurs, on the Business Day immediately preceding the Payment Date at the end of each three-month period following the Scheduled Termination Date or any Extended Termination Date, as applicable, an amount equal to 0.10% per annum calculated on the Coverage Limit as of the first day of the related Accrual Period.
+Premium E3 Payments
+(vi) : if the Original Coverage Limit has been exhausted prior to the first anniversary of the Effective Date, an amount equal to the sum of the present value, discounted at LIBOR (determined for the Accrual Period in which the Coverage Limit was reduced to zero), of each of the
+Premium F Payments
+ 
+scheduled payments of Interest Spread (calculated on the Original Coverage Limit) that would have been payable for the remaining days of the relevant Accrual Periods following the Payment Date that the Coverage Limit is reduced to zero through and including the first anniversary of the Effective Date; and
+(vii) : if an Early Termination Event IV has occurred, an amount equal to the sum of the present value, discounted at three-month LIBOR (determined for the Accrual Period for which such Early Termination Event IV occurred), of each of the scheduled Premium R Payments calculated on the Coverage Limit determined as of the Early Termination Date for each Accrual Period from the Early Termination Date to the Scheduled Termination Date.
+Premium G Payments
+(viii) : Following receipt of notice from the Reinsurer in the form substantially as attached hereto as an amount equal to the Early Redemption Event IV Termination Payment (as specified in such exhibit). Any Early Redemption Event IV Termination Payment premium is to be paid into the Series 2009-1 Class B Swap Termination Account.
+Early Redemption Event IV Termination Payment Premium
+Exhibit K
+(b) Premium Payments shall be computed on the basis of the actual number of days elapsed and a 360-day year.
+(c) The Ceding Insurer shall make the following additional premium payments to the Reinsurer under this Reinsurance Agreement:
+(i) : On the Effective Date, in an amount equal to the sum of (x) expenses incurred by the Reinsurer in connection with the issuance of the Notes on such Effective Date, and (y) certain anticipated operating expenses, each such expense as set forth on hereto, and certified by the Reinsurer in the form attached hereto as (the ""); and
+Initial Premium
+Schedule A
+Exhibit B
+Initial Premium
+(ii) : On each anniversary of the Effective Date, and from time to time, in an amount for certain operating expenses as set forth on hereto, and certified by the Reinsurer substantially in the form attached hereto as (the ""); provided that the Additional Premium payable under all Reinsurance Agreements entered into in connection with the Program shall be subject to an annual maximum of $400,000 for the Program and an additional $50,000 for each outstanding Series of Notes issued.
+Additional Premium
+Schedule B
+Exhibit B
+Additional Premium
+8.2 . The Ceding Insurer shall pay any United States federal excise tax on any premium payable hereunder.
+Taxes
+ 
+Should the Ceding Insurer elect to utilize one or more additional subsidiaries or affiliated insurers for their risk covered hereunder, each such subsidiary or affiliate insurer shall become a New Party and a part of the Ceding Insurer under this Reinsurance Agreement, and shall have all the rights of and be subject to the obligations of the Ceding Insurer hereunder.
+Solely for the purposes of calculating the Ceding Insurer's Ultimate Net Loss, this Reinsurance Agreement shall not apply to and specifically excludes:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+but such exclusion shall not apply to flood and/or earthquake and/or volcanic eruption insurance written in conjunction with the Ceding Insurer's Mortgage Service Program, Mobile Homeowners business or Voluntary "Choice" and "First Select" Products.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is understood and agreed that the public utilities extension and/or suppliers extension and/or contingent business interruption coverages are not subject to this exclusion, provided that these are not part of a transmitters' or distributors' policy.
+ 
+An act of terrorism shall include any act, or preparation in respect of action, or threat of action designed to influence the government or of any nation or any political division thereof, or in pursuit of political, religious, ideological or similar purposes to intimidate the public or a section of the public of any nation by any person or group(s) of persons whether acting alone or on behalf of or in connection with any organization(s) or government(s) or , and which:
+de jure
+de facto
+de jure
+de facto
+ 
+ 
+ 
+ 
+ 
+This Reinsurance Agreement also excludes loss, damage, cost or expense directly or indirectly caused by, contributed to by, resulting from, or arising out of or in connection with any action in controlling, preventing, suppressing, retaliating against, or responding to any act of terrorism.
+ 
+Notwithstanding the above and subject otherwise to the terms, conditions, and limitations of this Reinsurance Agreement, in respect only of personal lines, this Reinsurance Agreement will pay actual loss or damage (but not related cost or expense) caused by any act of terrorism provided such act is not directly or indirectly caused by, contributed to by, resulting from, or arising out of or in connection with biological, chemical or nuclear pollution, or contamination.
+ 
+Neither the Ceding Insurer nor the Reinsurer shall have the right to offset any balance or balances, on account of premiums or on account of Loss Payments, due from one Party to the other Party under this Reinsurance Agreement, against any balance or balances due and payable to the one Party from the other Party under this Reinsurance Agreement.
+12.1 On or before the Effective Date, the Reinsurer, as grantor, shall enter into a trust agreement ("") and establish and maintain a separate trust account ("") with the Reinsurance Trustee, as trustee for the benefit of the Ceding Insurer, as beneficiary.
+Reinsurance Trust Agreement
+Reinsurance Trust Account
+12.2 The Reinsurer shall deposit into the Reinsurance Trust Account on the Effective Date an amount that is equal to the Original Coverage Limit.
+12.3 The Reinsurer shall, prior to depositing assets with the Reinsurance Trustee, execute assignments, endorsements in blank, or transfer legal title to the Reinsurance Trustee of all shares, obligations or any other assets requiring assignments, in order that the Ceding Insurer, or the Reinsurance Trustee upon the direction of the Ceding Insurer, may, whenever necessary, transfer, assign, or negotiate any such assets without consent or signature from the Reinsurer or any other entity. Assets held in the Reinsurance Trust Account shall be valued at their current market value and shall consist solely of Permitted Investments or, if applicable, U.S. Treasury Money Market Funds. The principal portion of such Permitted Investments or, if applicable, U.S. Treasury Money Market Funds, held in the Reinsurance Trust Account will be available solely to satisfy any obligations of the Reinsurer to the Ceding Insurer under this Reinsurance Agreement and, only after fulfillment of such obligations, to make payments under the Indenture in respect of the Outstanding Principal Amount. All settlements of account between the Ceding Insurer and the Reinsurer shall be made in cash or its equivalent.
+ 
+12.4 The Reinsurer shall be entitled to all dividends, interest, earnings, earned discount and other income resulting from the investment of the assets in the Reinsurance Trust Account.
+12.5 The assets held in the Reinsurance Trust Account will be available to satisfy any obligations of the Reinsurer to the Ceding Insurer under this Reinsurance Agreement, without diminution because of the insolvency of the Ceding Insurer or the Reinsurer.
+12.6 The Reinsurer and the Ceding Insurer agree that the assets in the Reinsurance Trust Account, may be withdrawn by the Ceding Insurer at any time, notwithstanding any other provisions in this Reinsurance Agreement and shall be utilized and applied by the Ceding Insurer or any successor by operation of law, including, without limitation, any liquidator, rehabilitator, receiver or conservator of the Ceding Insurer, without diminution because of insolvency on the part of the Ceding Insurer or the Reinsurer, only for the following purposes:
+(i) to reimburse the Ceding Insurer for the Reinsurer's share of premiums returned to the owners of policies reinsured under this Reinsurance Agreement on account of cancellations of such policies;
+(ii) to reimburse the Ceding Insurer for the Reinsurer's share of surrenders and benefits or losses paid by the Ceding Insurer pursuant to the provisions of the policies reinsured under this Reinsurance Agreement;
+(iii) to fund an account with the Ceding Insurer in an amount at least equal to the deduction, for reinsurance ceded, from the Ceding Insurer's liabilities for policies ceded under this Reinsurance Agreement. Such account shall include, but not be limited to, amounts for policy reserves, reserves for claims and Incurred Losses (including Losses Incurred But Not Reported), Loss Adjustment Expenses, and unearned premiums; and
+(iv) to pay any Reinsurer Payments or any other amounts the Ceding Insurer claims are due under this Reinsurance Agreement.
+12.7 In the event that the Ceding Insurer withdraws assets from the Reinsurance Trust Account for the purposes set forth in Section 12.06(i) to (iv) in excess of actual amounts required to meet the Reinsurer's obligations to the Ceding Insurer, or in excess of amounts determined to be due under Section 12.06(iv), the Ceding Insurer shall return such excess to the Reinsurer. The Ceding Insurer will pay the Reinsurer, on the last Business Day of each month, interest on such excess amounts not yet returned at a per annum rate equal to LIBOR (as calculated under the Indenture for the corresponding Accrual Period) plus 2 percent, but not to exceed the prime rate, until such excess amounts are returned and any interests owed thereof are paid. The Ceding Insurer shall notify the Reinsurance Trustee on the date of any such payment that it has made such payment, stating the amount thereof.
+ 
+13.1 The Reinsurer shall enter into a Calculation Agent Agreement with the Calculation Agent pursuant to which the Calculation Agent will perform a Reset on each Reset Calculation Date, as more fully described in the Calculation Agent Agreement.
+13.2 In performing each Reset, the Calculation Agent will use its most current commercially released update to the 2008 RMS Industry Exposure Database and will reflect all commercially released revisions to the 2008 RMS Industry Exposure Database by the Calculation Agent as of the applicable Reset Calculation Date, if any.
+13.3 Prior to any Reset Calculation Date, the Ceding Insurer may, at its option, update the Payout Factors for each state in the Covered Area, , , that no payout factor may change by more than 25% from its value at the Effective Date. If the Ceding Insurer elects to update the Payout Factors, the Ceding Insurer shall deliver a notice exercising such option to the Reinsurer and the Calculation Agent substantially in the form attached hereto as (""), together with the Updated Payout Factors. The notice must be delivered no later than 15 calendar days prior to the applicable Reset Calculation Date. The Updated Payout Factors will be applied during the Reset and will become effective as of the Reset Effective Date.
+provided
+however
+Exhibit C
+Payout Factors Update Notice
+13.4 Prior to any Reset Calculation Date, the Ceding Insurer may, at its option, also update the Florida Inuring Coverage Attachment, the Florida Inuring Coverage Exhaustion and the Florida Inuring Coverage Percentage. If the Ceding Insurer elects such an update, it shall deliver a notice exercising such option and stating such Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage to the Calculation Agent and the Reinsurer in substantially the form attached hereto as (""). Such notice must be delivered no later than 15 calendar days prior to the applicable Reset Calculation Date. The Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and the Updated Florida Inuring Coverage Percentage will become effective as of the Reset Effective Date.
+Exhibit D
+Florida Inuring Coverage Update Notice
+13.5 Pursuant to the Calculation Agent Agreement, on each Reset Calculation Date, using the Updated Industry Exposure Data as of the applicable Reset Calculation Date, the Updated Payout Factors, if any, the Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage, if any, and the Escrow Model, the Calculation Agent will reset effective as of the Reset Effective Date: (i) the Attachment Amount for the Notes to the nearest one million dollars such that the modeled annual attachment probability is the highest percentage equal to or less than the Initial Modeled Attachment Probability for the Notes, (ii) the Exhaustion Amount for the Notes to the nearest one
+ 
+million dollars such that the annual modeled expected loss is the highest percentage equal to or less than the Initial Modeled Expected Loss for the Notes, and (iii) the Insurance Percentage for the Coverage derived from dividing the Coverage Limit on the applicable Reset Calculation Date by the difference between the Updated Exhaustion Amount and the Updated Attachment Amount for the Notes, , , that such percentage will not be greater than 100%.
+provided
+however
+13.6 No Loss Payment will be made to the Ceding Insurer in respect of any Loss Event occurring after a Reset Effective Date unless the Calculation Agent has established and confirmed to the Reinsurer, the Updated Payout Factors, the Updated Attachment Amount, the Updated Exhaustion Amount, the Updated Insurance Percentages, the Updated Florida Inuring Coverage Attachment, the Updated Florida Inuring Coverage Exhaustion and the Updated Florida Inuring Coverage Percentage, if any, applicable on or after the corresponding Reset Effective Date but prior to and excluding the subsequent Reset Effective Date.
+The term "" shall mean the sum or sums including Incurred Losses, Incurred But Not Reported Losses, Loss Adjustment Expenses, Losses in Excess of Policy Limits, Declaratory Judgment Expenses, and Extra Contractual Obligations paid or payable by the Ceding Insurer arising in connection with a Loss Event in settlement of claims or in satisfaction of judgments rendered on account of claims, after making deductions for all recoveries, all salvages and all claims upon other reinsurances inuring to the benefit of the Reinsurer under this Reinsurance Agreement, whether collectible or not.
+Ultimate Net Loss
+Solely for the purposes of calculating the Ultimate Net Loss,
+(a) All loss settlements made by the Ceding Insurer, provided they are within the terms of the original policies (or within the terms of Loss in Excess of Policy Limits, Extra Contractual Obligations, or declaratory judgment interpretation) and within the terms of this Reinsurance Agreement shall be binding,
+(b) The Ceding Insurer shall be the sole judge of what is covered under the original policy.
+(c) All expense incurred by the Ceding Insurer which are included as part of the policy limit under the Ceding Insurer's original policies reinsured hereunder shall be included in "Ultimate Net Loss" as defined above.
+The coverage provided under this Reinsurance Agreement shall not apply where the laws, regulations, or public policy of an applicable jurisdiction would prohibit such coverage.
+ 
+All salvages, recoveries or payments recovered or received subsequent to a loss settlement under this Reinsurance Agreement shall be applied as if recovered or received prior to the aforesaid settlement, and all necessary adjustments shall be made by the parties hereto. Subject always to the provisions of Article VI hereof, nothing in this clause shall be construed to mean that losses under this Reinsurance Agreement are not recoverable until the Ceding Insurer's Ultimate Net Loss has been ascertained.
+In the event of an insolvency of the Ceding Insurer, payment by the Reinsurer shall be made in accordance with the provisions of Article XXI.
+15.1 . With respect to each Loss Event for which a Loss Payment has been made to the Ceding Insurer, the Reinsurer and the Ceding Insurer agree to settle all claims and obligations with respect to that portion of the Coverage relating to such Loss Event, which settlement shall be based on the Ceding Insurer's Ultimate Net Loss (""). Such Final Settlement shall be effected as of the Final Settlement Date.
+Final Settlement
+Final Settlement
+15.2 . The Ceding Insurer shall submit to the Reinsurer a proof of loss claim ("") substantially in the form of attached hereto, within 30 days from the Final Settlement Date. Such Proof of Loss Claim shall present the Ceding Insurer's Ultimate Net Loss as defined in Article XIV.
+Proof of Loss
+Proof of Loss Claim
+Exhibit E
+15.3 . If the Loss Event Net Payment paid to the Ceding Insurer with respect to a Loss Event exceeds the Ultimate Net Loss, the Ceding Insurer shall refund the difference to the Reinsurer, with interest from the Final Settlement Date computed at LIBOR, within 60 days from the date of the Proof of Loss Claim. If the Loss Event Net Payment paid to the Ceding Insurer with respect to a Loss Event is less than the Ultimate Net Loss, the Reinsurer shall under no circumstances be obligated to make any further payments to the Ceding Insurer with respect to such Loss Event.
+Settlement
+16.1 . Each of the following is an "" and will occur:
+Early Termination Event
+Early Termination Event
+(i) on the date on which the Ceding Insurer gives written notice to the Reinsurer in substantially the form attached hereto as that the aggregate Outstanding Principal Amount of the Series 2009-1 Notes is equal to or less than $10,000,000, , that such notice may not be given during any of the Accrual Periods prior to the first anniversary date following the Effective Date ("");
+Exhibit F
+provided
+Early Termination Event I
+ 
+(ii) on the date on which the Ceding Insurer gives written notice to the Reinsurer in substantially the form attached hereto as of its election to terminate the Reinsurance Agreement following the certification by the Calculation Agent in writing to the effect that PCS or its successor has ceased to provide Catastrophe Bulletins and that the applicable Calculation Agent was unable to find a replacement for PCS or its successor ("");
+Exhibit F
+Early Termination Event II
+(iii) if the Reinsurer after using its reasonable best efforts in cooperation with the Ceding Insurer, is unable to identify a Replacement Calculation Agent within forty-five (45) calendar days of a Calculation Agent Failure Event and the Ceding Insurer has given written notice to the Reinsurer that the Ceding Insurer has elected to terminate this Reinsurance Agreement, with such Early Termination Event III occurring at the time that the Ceding Insurer gives such notice which shall be substantially in the form attached hereto as (""). Such notice must be given no later than 35 days prior to the immediately following Payment.
+Exhibit F
+Early Termination Event III
+(iv) on the date when a Payment Event of Default has occurred under this Reinsurance Agreement ("");
+Early Termination Event IV
+(v) on the date that is an Early Termination Date (as defined in the Series Supplement), unless a replacement Swap Counterparty has entered into a replacement of the Series 2009-1 Class B Swap or, if applicable, an Interim Swap Counterparty has entered into a Series 2009-1 Class B Interim Swap with the Reinsurer as of such Early Termination Date (""); and
+Early Termination Event V
+(vi) on the date on which the Interim Swap Counterparty gives written notice to the Reinsurer that the Interim Swap Counterparty has elected to terminate the Series 2009-1 Class B Interim Swap with the Reinsurer, if any, and there is no replacement Swap Counterparty in place prior to such termination ("").
+Early Termination Event VI
+17.1 . The Ceding Insurer may elect to require the Reinsurer to extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date to a date which is three calendar months after the Scheduled Termination Date or any Extended Termination Date, as applicable (or if such day is not a Business Day, the next succeeding Business Day), by providing an Extension Notice to the Reinsurer on or prior to the Extension Determination Date, , in no event shall the Extended Termination Date be later than the be later than the Final Extended Termination Date.
+Extension Event I
+provided that
+ 
+17.2 . The Ceding Insurer may elect to require the Reinsurer to extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date or any Extended Termination Date to a date which is three calendar months after the Scheduled Termination Date or the Extended Termination Date, as applicable (or if such day is not a Business Day, the next succeeding Business Day) if an Extension Notice is provided by the Ceding Insurer to the Reinsurer on or prior to the applicable Extension Determination Date and, for the Extension Period immediately following the Scheduled Redemption Date, an Extension Verification Report confirms the occurrence of a Loss Event and that the Class B Net Event Index Value for such Loss Event on such Extension Determination Date is equal to or greater than 50% of the Attachment Amount in effect on the Date of Loss for the Notes and for any Extension Period thereafter, an Extension Verification Report confirms that the conditions set forth below, as applicable, have been satisfied on or prior to the applicable Extension Determination Date, , in no event shall the Extended Termination Date be extended beyond the Final Extended Termination Date:
+Extension Event II
+provided that
+(i) if with respect to the second three-month period, the Class B Net Event Index Value for such Loss Event on any date during the initial three-month extension period is equal to or greater than 50% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(ii) if with respect to the third three-month period, the Class B Net Event Index Value for such Loss Event on any date during the second three-month extension period is equal to or greater than 75% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(iii) if with respect to the fourth three-month period, the Class B Net Event Index Value for such Loss Event on any date during the third three-month extension period is equal to or greater than 75% of the Attachment Amount in effect on the Date of Loss for the Notes;
+(iv) if with respect to the fifth three-month period, the Class B Net Event Index Value for such Loss Event on any date during the fourth three-month extension period is equal to or greater than 90% of the Attachment Amount in effect on the Date of Loss for the Notes; and
+(v) if with respect to the sixth three-month period, the Class B Net Event Index Value for such Loss Event on any date during the fifth three-month extension period is equal to or greater than 90% of the Attachment Amount in effect on the Date of Loss for the Notes.
+17.3 . If a Loss Payment has been made to the Ceding Insurer following a Loss Event with a Date of Loss within 18 months prior to the Scheduled Termination Date, the Ceding Insurer is obligated to require that the Reinsurer extend the term of this Reinsurance Agreement beyond the Scheduled Termination Date in three-month intervals and must continue to request such extensions until the Payment Date which occurs immediately after the earlier of (i) 18 months from the Date of Loss of
+Extension Event III
+ 
+the most recent Loss Event associated with a Loss Payment to the Ceding Insurer, or (ii) the Event Reporting Date when PCS has released a Catastrophe Bulletin with its final resurvey estimate for the most recent Loss Event associated with a Loss Payment to the Ceding Insurer, , that final resurvey estimates must have been released on such date for all other Loss Events associated with Loss Payments to the Ceding Insurer.
+provided, however
+17.4 . The "" shall be a written notice, in substantially the form attached hereto as , from the Ceding Insurer stating whether the Ceding Insurer has elected an Extension Event I or an Extension Event II or if an Extension Event III has occurred.
+Extension Notice
+Extension Notice
+Exhibit G
+18.1 . So long as the Coverage Limit is outstanding, the Reinsurer shall promptly deliver, or cause to be delivered, to the Ceding Insurer copies of all reports and notices received by the Reinsurer, including Available Information. In addition, the Ceding Insurer at all times shall have the right to inspect the books and records of the Reinsurer which relate to this Reinsurance Agreement. This right shall survive the termination of the Reinsurance Agreement.
+Delivery of Reports
+18.2 . Following a potential Loss Event, the Ceding Insurer may give written notice to the Reinsurer, substantially in the form attached hereto as , requesting that the Calculation Agent provide an Event Report (""). Upon receipt of an Event Notice Request, the Reinsurer shall promptly issue an Event Notice to the Calculation Agent. The Event Notice Request must be delivered within sixty (60) calendar days from the Date of Loss of such potential Loss Event; , that an Event Notice Request may not be delivered later than the Extension Determination Date prior to the Scheduled Termination Date.
+Event Notice
+Exhibit H
+Event Notice Request
+provided
+that
+18.3 .
+Calculation Agent Failure
+(a) In the event of the occurrence of a Calculation Agent Failure Event, the Reinsurer shall use its reasonable best efforts, in cooperation with the Ceding Insurer, to engage a Replacement Calculation Agent. The Reinsurer shall promptly notify the Ceding Insurer of such Calculation Agent Failure Event and of the proposed Replacement Calculation Agent, if any. Such notice shall be substantially in the form attached hereto as ("".
+Exhibit I
+Calculation Agent Failure Notice
+)
+(b) Upon receipt of a Calculation Agent Failure Notice as set forth in subsection (a) above, the Ceding Insurer shall promptly notify the Reinsurer either that (i) the proposed Replacement Calculation Agent is satisfactory to the Ceding Insurer, and if so, confirm that the proposed Replacement Calculation Agent is not affiliated with the Ceding Insurer, or (ii) the proposed Replacement Calculation Agent is not satisfactory to, or affiliated with, the Ceding Insurer. Such notice shall be
+ 
+substantially in the form attached hereto as (""). In the case of (ii) above, the Reinsurer shall be obligated to continue to use its reasonable best efforts, in cooperation with the Ceding Insurer, to engage a Replacement Calculation Agent.
+Exhibit J
+Ceding Insurer Replacement Calculation Agent Notice
+18.4 . The Reinsurer shall cause the Indenture Trustee to provide notice to the Ceding Insurer of the applicable LIBOR rate and the amount of interest payments to be made under the Indenture.
+LIBOR etc
+19.1 . This Reinsurance Agreement shall be governed by and construed in accordance with the laws of the State of New York without regard to conflicts of laws principles.
+Governing Law
+19.2 . With respect to any suit, action or proceedings relating to the Reinsurance Agreement, each Party irrevocably:
+Jurisdiction
+(a) submits to the non-exclusive jurisdiction of any federal or New York State court located in the City of New York, Borough of Manhattan;
+(b) waives any objection which it may have at any time to the laying of venue of any suit, action or proceedings brought in any such court, waives any claim that such proceedings have been brought in an inconvenient forum and further waives the right to object, with respect to such suit, action or proceedings, that such court does not have any jurisdiction over such Party; and
+(c) waives any claim to punitive, exemplary or multiplied damages from the other.
+19.3 . The Reinsurer hereby appoints CT Corporation System, 111 Eighth Avenue, New York, New York 10011, as its agent for service of process in New York, New York (the "") upon whom may be served any lawful process in any action, suit or proceeding instituted by or on behalf of the other Party or any beneficiary hereunder arising out of this Reinsurance Agreement, and the Reinsurer's Agent is authorized and directed to accept such service of process on behalf of the Reinsurer and, upon the request of the Reinsurer, to give a written undertaking to the Reinsurer that it will enter a general appearance upon the Reinsurer's behalf in the event such a suit shall be instituted.
+Service of Process
+Reinsurer's Agent
+ 
+20.1 . The Reinsurer has entered into the Indenture with the Indenture Trustee. The Reinsurer shall not amend, supplement or modify Section 12.1 of the Indenture, any provision of the Indenture that subjects a provision of the Indenture to Section 12.1 of the Indenture, any provision of the Indenture that requires the consent of Ceding Insurer, without the prior written consent of the Ceding Insurer or any other provision of the Indenture in any way that could have a material adverse effect on the Ceding Insurer in connection with its rights or obligations hereunder.
+Amendment of Indenture
+20.2 . The Reinsure shall comply with all covenants in the Basic Documents as in effect on the date hereof, and as may be amended from time to time.
+Covenant by the Reinsurer
+r
+20.3 . The Reinsurer shall, in consultation with the Ceding Insurer and at its own expense, promptly take all such lawful action as will be necessary to (a) protect and enforce its rights against any third party under or in connection with the Basic Documents, and (b) compel or secure the performance and observance by the other parties to the Basic Documents of each of their obligations to the Reinsurer under or in connection with any of the Basic Documents and (c) exercise any and all rights, remedies, powers and privileges lawfully available to the Reinsurer under or in connection with any Basic Documents.
+Enforcement of Rights
+20.4 . Notwithstanding anything to the contrary in this Reinsurance Agreement, all obligations of and all claims against the Reinsurer hereunder or arising in connection herewith constitute limited recourse obligations of the Reinsurer, payable solely from the Collateral. Upon realization of the Collateral and the reduction thereof to zero, all claims against the Reinsurer hereunder or arising in connection herewith shall be extinguished and shall not thereafter revive. The Ceding Insurer shall have no further claim thereafter against the Reinsurer, its directors, officers or shareholders for any shortfall in the Collateral. The proceeds from the issuance of the Reinsurer's ordinary shares (US $5,000), the amount of the transaction fees (US$1,500) paid to the Reinsurer in connection with each issuance of a Series of Notes by the Reinsurer, and any interest earned thereon on such excluded amounts, shall not form part of the assets available to satisfy the Reinsurer's obligations. The provisions of this shall survive the termination of this Reinsurance Agreement.
+Extinguishment of Obligations
+Section 19.4
+20.5 . The Ceding Insurer, by entering into this Reinsurance Agreement, hereby covenants and agrees that it will not at any time institute against the Reinsurer, or join in any institution against the Reinsurer of, any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings, or other proceedings under any federal, state or foreign bankruptcy or similar law in connection with any obligations hereunder until the expiration of one year and one day (or, if longer, the applicable preference period under any applicable bankruptcy or similar law) from the date no Series of Notes are outstanding under the Program. The provisions of this shall survive the termination of this Reinsurance Agreement.
+Non-Petition
+Section 19.5
+ 
+(a) In the event of the insolvency of the Ceding Insurer, any payments due to the Ceding Insurer shall be payable directly to the Ceding Insurer or to its liquidator, receiver, conservator or statutory successor on the basis of the liability of the Ceding Insurer without diminution because of the insolvency of the Ceding Insurer or because the liquidator, receiver, conservator or statutory successor of the Ceding Insurer has failed to pay all or a portion of any claim. It is agreed, however, that the liquidator, receiver, conservator or statutory successor of the Ceding Insurer shall give written notice to the Reinsurer of the pendency of a claim against the Ceding Insurer indicating the policy reinsured which claim would involve a possible liability on the part of the Reinsurer within a reasonable time after such claim is filed in the conservation or liquidation proceeding or in the receivership, and that during the pendency of such claim, the Reinsurer may investigate such claim and interpose, at its own expense, in the proceeding where such claim is to be adjudicated, any defense or defenses that it may deem available to the company or its liquidator, receiver, conservator or statutory successor. The expense thus incurred by the Reinsurer shall be chargeable, subject to the approval of the Court, against the Ceding Insurer as part of the expense of conservation or liquidation to the extent of a pro rata share of the benefit which may accrue to the company solely as a result of the defense undertaken by the Reinsurer.
+(b) It is further understood and agreed that, in the event of the insolvency of the Ceding Insurer, the reinsurance under this Reinsurance Agreement shall be payable directly by the Reinsurer to the Ceding Insurer or to its liquidator, receiver or statutory successor, except as provided by any applicable law or except (1) where this Reinsurance Agreement specifically provides another payee of such reinsurance in the event of the insolvency of the Ceding Insurer or (2) where the Reinsurer with the consent of the direct insured or insureds has assumed such policy obligations of the Ceding Insurer as direct obligations of the Reinsurer to the payees under such policies and in substitution for the obligations of the Ceding Insurer to such payees.
+22.1 .
+Liability of Officers, Directors, Members, Agents and Employees
+(a) No liability shall attain in favor of the Reinsurer against any officer, director, member, agent or employee of the Ceding Insurer but the Reinsurer shall look solely to the assets of the Ceding Insurer for satisfaction of this Reinsurance Agreement.
+ 
+(b) No liability shall attain in favor of the Ceding Insurer against any officer, director, member, agent or employee of the Reinsurer but the Ceding Insurer shall look solely to the assets of the Reinsurer for satisfaction of this Reinsurance Agreement.
+22.2 . This Reinsurance Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all other prior negotiations, commitments, agreements and understandings, both written and oral, between the Parties or either of them with respect to the subject matter hereof.
+Integration
+22.3 . Neither this Reinsurance Agreement nor any rights or obligations hereunder may be assigned or otherwise transferred by any Party (including by operation of law).
+Assignment
+22.4 . Any change or modification to this Reinsurance Agreement must be made, in writing, and signed by all the parties to this Reinsurance Agreement. The Ceding Insurer shall not sign or permit any amendments or modifications to this Reinsurance Agreement or agree to any voluntary termination of this Reinsurance Agreement, except as otherwise permitted under this Reinsurance Agreement.
+Amendment
+22.5 . Any inadvertent act, delay, omission or error by either Party will not relieve the other Party of any liability under this Reinsurance Agreement, provided such act, delay, omission or error is not prejudicial to the other Party and is rectified promptly or reasonably upon discovery by the responsible Party.
+Errors and Omissions
+22.6 . Any written notice required to be provided under the Reinsurance Agreement shall be effective if provided by facsimile transmission or by physical delivery to:
+Notice
+If to the Reinsurer, to:
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+ 
+If to the Ceding Insurer, to:
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+If to the Calculation Agent, to:
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+Attention: General Counsel
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Attention: Regional Vice President AND/OR
+Managing Director of Global Risk Modeling
+or to such other address for either Party as such Party shall hereafter designate by like notice.
+22.7 .
+Payment Instruction
+(a) All payments to the Ceding Insurer under this Reinsurance Agreement shall, if payable directly to the Ceding Insurer, be made via wire transfer to the following account:
+JPMorgan Chase Bank, N.A.
+New York, NY
+aba: []
+a/c []
+a/c #[]
+ 
+(b) All payments to the Reinsurer under this Reinsurance Agreement set forth in or shall be made to the Reinsurer via wire transfer to the following account:
+Section 6.3
+Section 12.7
+IBIS RE 2009-1 CLASS B REINSURANCE TRUST ACCOUNT
+Account Number: []
+Fed Wire / ACH
+Bank Name: Deutsche Bank Trust Company Americas
+Bank Address: 60 Wall Street, New York, NY
+ABA No.: []
+Account Number: []
+Account Name: []
+FFC: []
+Attn: []
+SWIFT Wires
+SWIFT Number: []
+Account Number: []
+Account Name: []
+FFC: []
+Attn: []
+(c) All payments to the Reinsurer under this Reinsurance Agreement set forth in shall be made to the Reinsurer via wire transfer to the following account:
+Section 8.1(a)
+IBIS RE LTD. SERIES 2009-1 CLASS B NOTE PAYMENT ACCOUNT
+Account Number []
+Pay to: Deutsche Bank Trust Company Americas NY
+SWIFT: []
+For Account of: Deutsche Bank AG, London Branch
+SWIFT: []
+Account #: []
+For Further Credit: IBIS RE LTD SERIES 2009 I CLASS B VARIABLE RATE NOTES
+Account #: []
+Reference: []
+ 
+(d) All payments to the Reinsurer under this Reinsurance Agreement set forth in or shall be made to the Reinsurer via wire transfer to the following account:
+Section 8.1(c)
+Section 15.3
+Correspondent Bank: The Bank of New York Mellon
+SWIFT: []
+ABA: []
+Beneficiary Bank: Butterfield Bank (Cayman) Limited
+Account No.: []
+Swift: []
+For further credit to the account of Ibis Re Ltd.
+Account: []
+22.8 . All amounts due to either Party hereunder shall be payable in United States currency.
+Currency
+22.9 . All obligations, representations, and warrantees made in this Reinsurance Agreement shall survive the termination of this Reinsurance Agreement and shall continue in force and effect until all obligations of the parties hereunder have been discharged in full.
+Survival
+22.10 . If any provision (or portion of a provision) of this Reinsurance Agreement shall be held to be invalid, illegal, or unenforceable according to the laws, regulations, or public policy of any jurisdiction, the validity, legality, and enforceability of the remaining provisions (and such portions of provisions) shall in no way be affected or impaired thereby, and such invalidity, illegality, or unenforceability of such provision (or such portion of a provision) in such jurisdiction shall not affect the validity, legality, or enforceability of such provision (or such portion of a provision) in any other jurisdiction.
+Severability
+22.11 . The Reinsurance Agreement may be executed in any number of counterparts, each of which shall be an original, but such counterparts shall together constitute but one and the same instrument.
+Counterparts
+ 
+IN WITNESS WHEREOF, the Parties have caused this Reinsurance Agreement to be duly executed by their respective officers, thereunto duly authorized, all as of the day and year first written above.
+ 
+Schedule A
+Fees of Indenture Trustee
+Fees of Reinsurance Trustee
+Fees of Lovells
+Fees of Rating Agency
+Fees of Risk Management Solutions, Inc.
+Fees of Maples and Calder
+Fees and expenses of the Initial Purchaser
+Fees and expenses of Sidley Austin LLP
+Fees of Allen and Overy LLP
+Fees of Cadwalader, Wickersham and Taft LLP
+Fees of Administrator
+Fees of Global Note Depositary
+Fees of PCS license
+Fees of Ibis Re Ltd. Auditors
+Fees of Printer
+Fees of Escrow Agent
+Fees of Corporation Service Company
+Fees of Intralinks
+Insurance License Fees
+Incorporation Fees
+Ibis Re Ltd. capitalization and profit
+Cayman Islands Stamp Duty Fees
+Cayman Stock Exchange listing fee
+Letter of good standing
+Registered Office Fee
+Miscellaneous
+ 
+Schedule B
+Fees of Indenture Trustee
+Fees of Reinsurance Trustee
+Fees of Rating Agency
+Fees of Risk Management Solutions, Inc.
+Fees of Maples and Calder
+Fees of Administrator
+Fees of Ibis Re Ltd. Auditors
+Fees of Escrow Agent
+Fees of Corporation Service Company
+Insurance License Fees
+Annual Registered Office Fee
+Cayman Stock Exchange listing fee
+Annual Tax Return
+Miscellaneous
+ 
+Exhibit A
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Re:
+Ceding Insurer Payment Event of Default Notice (Series 2009-1 Class B Notes)
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other certain ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Pursuant to Section 16.1(iv) of the Reinsurance Agreement, the Reinsurer hereby notifies you that the Ceding Insurer failed to make a [Premium [] Payment][Ceding Insurer Payment] which was due on [DATE].
+Unless the Ceding Insurer makes such payment within 5 Business Days of the receipt of this Ceding Insurer Payment Event of Default Notice, the Reinsurer will be entitled to terminate the Reinsurance Agreement.
+ 
+ 
+Exhibit B
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Pursuant to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes, we hereby certify to you that the amount of [Initial][Additional] Premium referred to in Section 8.1(c) in the Reinsurance Agreement is $            . Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement. Such amount shall be payable via wire transfer to the following account:
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+[]
+SWIFT: []
+ABA no: [] (if required)
+Account: []
+SWIFT: []
+For credit: []
+Account no: []
+Reference: []
+ 
+ 
+Exhibit C
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+Attention: General Counsel
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Attention: Regional Vice President AND/OR
+Managing Director of Global Risk Modeling
+[DATE]
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. and American Security Insurance Company and other the ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Ceding Insurer
+ 
+Pursuant to Section 13.3 of the Reinsurance Agreement, we hereby exercise our option to update the Payout Factors.
+[List Updated Payout Factors]
+ 
+ 
+Exhibit D
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+Risk Management Solutions, Inc.
+7015 Gateway Boulevard
+Newark, CA 94560-1011 U.S.A.
+Telephone No.: 510 505 2500
+Fax No.: 510 608 3328
+Attention: General Counsel
+with a copy to:
+Risk Management Solutions, Inc.
+Continental Plaza III
+433 Hackensack Avenue, 5
+th
+Floor
+Hackensack, New Jersey 07601
+Telephone No.: 201 498-8600
+Fax No.: 201 498-8601
+Attention: Regional Vice President AND/OR
+Managing Director of Global Risk Modeling
+[DATE]
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Ceding Insurer
+ 
+Pursuant to Section 13.4 of the Reinsurance Agreement, we hereby exercise our option to update the Florida Inuring Coverage Attachment, Florida Inuring Coverage Exhaustion and Florida Inuring Coverage Percentage.
+[State such Updated Florida Inuring Coverage Attachment, Updated Florida Inuring Coverage Exhaustion and Updated Florida Inuring Coverage Percentage]
+ 
+ 
+Exhibit E
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+ 
+Reference is made to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Pursuant to Article XV of the Reinsurance Agreement, the Ceding Insurer hereby submits a Proof of Loss Claim detailing the Ultimate Net Loss as of the Final Settlement Date relating to the Loss Event described above as follows:
+ 
+ 
+[The Ultimate Net Loss associated with this Loss Event equals or exceeds the Loss Event Net Payment received from the Reinsurer and no further payments are payable or receivable for this Loss Event.]
+[The Ultimate Net Loss associated with this Loss Event is less than the Loss Event Net Payment received from the Reinsurer and the Ceding Insurer hereby agrees to reimburse the Reinsurer for the difference, totaling $[     ].]
+ 
+ 
+Exhibit F
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+ 
+Re:
+Early Termination Event Notice (Series 2009-1 Class B Notes)
+Reference is made to Article XVI of the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+The Ceding Insurer hereby notifies the Reinsurer that it has elected:
+. The Ceding Insurer certifies that the aggregate Outstanding Principal Amount of the Series 2009-1 Notes is equal to or less than $10,000,000. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+[Early Termination Event I
+[. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+Early Termination Event II
+[. Accordingly, the Ceding Insurer will terminate the coverage under the Reinsurance Agreement as of [DATE].]
+Early Termination Event III
+ 
+ 
+ 
+ 
+Exhibit G
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email: catbondsurveillance@sandp.com
+[DATE]
+ 
+Re:
+Extension Notice (Series 2009-1 Class B Notes)
+Reference is made to Article XVII of the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement.
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+The Ceding Insurer hereby certifies to the Reinsurer that [the Ceding Insurer has elected an Extension Event [I] [II]] [an Extension Event III has occurred] and requests that the Reinsurer extend the [Scheduled Termination Date][Extended Termination Date] to [].
+state next Extended Termination Date
+ 
+ 
+ 
+ 
+Exhibit H
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk
+Calculation Agent Agreement
+Reinsurer
+ 
+Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+We hereby notify you that a potential Loss Event relating to [DESCRIBE EVENT] has occurred and request that you cause the Calculation Agent to provide an Event Report for such potential Loss Event.
+ 
+ 
+Exhibit I
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Angela Burgess
+Vice President & Chief Actuary
+Assurant Specialty Property
+11222 Quail Roost Drive
+Miami, FL 33157
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+and
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339
+with a further copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+ 
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent Agreement
+Reinsurer
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+The Calculation Agent has failed to perform its duties and obligations under the Calculation Agent Agreement. We propose to replace the Calculation Agent with [NAME OF PROPOSED SUBSTITUTE CALCULATION AGENT].
+ 
+ 
+Exhibit J
+Ibis Re Ltd.
+c/o Wilmington Trust (Cayman), Ltd.
+4th Floor, Century Yard,
+Cricket Square, Elgin Avenue
+George Town
+P.O. Box 32322
+Grand Cayman KY1-1209
+Cayman Islands
+Attention: The Directors
+Phone: (345) 946 4091
+Fax: (345) 946 4090
+with a copy to:
+Deutsche Bank Trust Company Americas
+60 Wall Street, 27th floor
+New York, NY 10005
+Attention: Trust and Securities Services
+Telephone No.: (212) 250-7863
+Fax No.: (732) 578-4593
+Attention: Kisha Holder
+Deutsche Bank National Trust Company
+Global Transaction Banking
+Trust & Securities Services
+25 DeForest Avenue
+MS: 01-0105
+Summit, New Jersey 07901
+Phone: (908) 608-3191
+Fax: (732) 578-4635
+Attention: Ken Ring
+Standard & Poor's Ratings Services
+55 Water Street, 33
+rd
+Floor
+New York, New York 10041-0003
+Attention: Insurance Ratings
+Fax No: (212) 438-7188
+email:
+catbondsurveillance@sandp.com
+[DATE]
+ 
+Reference is made to the Calculation Agent Agreement, dated as of May 5, 2009 (the ""), between Ibis Re Ltd. (the "") and Risk Management Solutions, Inc. (the "") and the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among the Reinsurer and American Security Insurance Company and the other ceding insurance companies who are parties thereto (each, a "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes. Unless otherwise defined herein, capitalized terms used herein shall have the meaning specified in the Calculation Agent Agreement or in the Reinsurance Agreement, as applicable.
+Calculation Agent Agreement
+Reinsurer
+Calculation Agent
+Reinsurance Agreement
+Ceding Insurer
+We [are]/[are not] satisfied with replacing the Calculation Agent with [NAME OF PROPOSED REPLACEMENT CALCULATION AGENT].
+We [can]/[cannot] confirm that [NAME OF PROPOSED REPLACEMENT CALCULATION AGENT] is not an affiliate of any Ceding Insurer.
+ 
+ 
+Exhibit K
+American Security Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+American Bankers Insurance Company of Florida
+11222, Quail Roost Drive
+Miami, FL 33157
+Attention: Angela Burgess
+        Vice President & Chief Actuary
+Phone: 305.253.2244 ext. 32462
+Fax: 305.252.6942
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+and
+ 
+Standard Guaranty Insurance Company
+260 Interstate North Circle, SE
+Atlanta, GA 30339-2210
+Telephone: 770.763.2469
+Facsimile: 770.859.3544
+Attention: Bruce A. VanGeest
+        Vice President & Managing Attorney
+Email: bruce.vangeest@assurant.com
+with a copy to:
+Mr. Stephen Gauster
+Assistant Secretary
+Assurant, Inc.
+One Chase Manhattan Plz.
+New York, NY 10005
+Phone: 212 859 7025
+Fax: 212 859 7034
+[DATE]
+Pursuant to the Reinsurance Agreement dated as of May 5, 2009 (the ""), by and among Ibis Re Ltd. (the "") and American Security Insurance Company and the other ceding insurance companies who are parties thereto (together, the "") in respect to the Ibis Re Ltd. Series 2009-1 Class B Variable Rate Notes, we hereby certify to you that the amount of the Early Redemption Event IV Termination Payment referred to in Section 8.1(a)(viii) in the Reinsurance Agreement is $            . Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Reinsurance Agreement. Such amount shall be payable via wire transfer to the following account:
+Reinsurance Agreement
+Reinsurer
+Ceding Insurer
+Series 2009-1 Class B Swap Termination Account
+Account Number: S37640.2
+Fed Wire / ACH
+Bank Name: Deutsche Bank Trust Company Americas
+Bank Address: 60 Wall Street, New York, NY
+ABA No.:021001033
+Account Number:01419647
+Account Name: Trust & Securities Services
+FFC: PORT S37640.2 Ibis Re 2009-1 Class B Collateral Contract Term
+AC
+Attn: Kelvin Vargas
+SWIFT Wires
+SWIFT Number: BKTRUS33
+Account Number:01419647
+Account Name: Trust & Securities Services
+ 
+FFC: PORT S37640.2 Ibis Re 2009-1 Class B Collateral Contract Term AC
+Attn: Kelvin Vargas
+ 
+ 
+Annex I
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.-Without in any way restricting the operation of paragraph (1) hereof, it is understood and agreed that
+Note
+ 
+ 
+Annex II
+It is the mutual intention of the parties to exclude risks, other than Offices, Hotels, Apartments, Hospitals, Educational Establishments and Public Utilities (except Railroad Schedules), and Builders Risks on the above classes, where at the time of cession, the Total Insured Value over all interests exceeds $250,000,000. However, the Ceding Insurer shall be protected hereunder, subject to the other terms and conditions of this Reinsurance Agreement, if subsequent to cession being made, the Ceding Insurer becomes acquainted with the true facts of the case and discovers that the mutual intention has been inadvertently breached; on condition that the Ceding Insurer shall at the first opportunity, and certainly by next anniversary of the original policy, exclude the risk in question.
+It is agreed that this mutual intention does not apply to Contingent Business Interruption or to interests traditionally underwritten as Inland Marine or to Stock and/or Contents written on a blanket basis except where the Ceding Insurer is aware that the Total Insured Value of $250,000,000 is already exceeded for buildings, machinery, equipment and direct use and occupancy at the key location.
+It is understood and agreed that this Clause shall not apply hereunder where the Ceding Insurer writes 100% of the risk.
+Annex III
+Section A:
+Excluding:
+ 
+ 
+Section B:
+It is agreed that business written by the Ceding Insurer for the same perils, which is known at the time to be insured by, or in excess of underlying amounts placed in the following Pools, Associations or Syndicates, whether by way of insurance or reinsurance, is excluded hereunder:
+Industrial Risk Insurers,
+Associated Factory Mutuals,
+Improved Risk Mutuals,
+Any Pool, Association or Syndicate formed for the purpose
+of writing Oil, Gas or Petro-Chemical Plants and/or Oil or
+Gas Drilling Rigs,
+United States Aircraft Insurance Group,
+Canadian Aircraft Insurance Group,
+Associated Aviation Underwriters,
+American Aviation Underwriters.
+Section B does not apply:
+ 
+ 
+ 
+Offices, Hotels, Apartments, Hospitals, Educational Establishments, Public Utilities (other than railroad schedules) and builder's risks on the classes of risks specified in this subsection (d) only.
+Where this clause attaches to Catastrophe Excesses, the following Section C is added:
+Section C:
+Nevertheless the Reinsurer specifically agrees that liability accruing to the Ceding Insurer from its participation in residual market mechanisms including but not limited to (but excluding Citizens Property Insurance Corporation, the Florida corporation):
+ 
+Alabama Insurance Underwriting Association
+Louisiana Citizens Property Insurance Corporation
+Mississippi Windstorm Underwriting Association
+North Carolina Insurance Underwriting Association
+South Carolina Windstorm and Hail Underwriting Association
+Texas Windstorm Insurance Association
+AND
+ 
+AND
+ 
+for all perils otherwise protected hereunder shall not be excluded, except, however, that this reinsurance does not include any increase in such liability resulting from:
+ 
+ 
+Section D:
+Notwithstanding Section C above, in respect of the CEA, where an assessment is made against the Ceding Insurer by the CEA, the Ceding Insurer may include in its Ultimate
+Net Loss only that assessment directly attributable to each separate Loss Occurrence covered hereunder. The Ceding Insurer's initial capital contribution to the CEA shall not be included in the Ultimate Net Loss.
+Any assessments for accounting years subsequent to that in which the Loss Event commenced may not be included in the Ultimate Net Loss hereunder.
+Notwithstanding Section C above, where an assessment is made against the Ceding Insurer by any such "Coastal Pool" and/or "Fair Plan" and/or "Rural Risk Plan" and/or "Residual Marker Mechanism," the Ceding Insurer may include in its Ultimate Net Loss only that assessment directly attributable to each separate loss occurrence covered hereunder which is not otherwise recoverable or recoupable through a premium tax credit by the Ceding Insurer.
+
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+- Assurant, Inc. (Assurant) (NYSE: AIZ), a premier provider of specialized insurance and insurancerelated products and services, announced today that certain of its subsidiaries have entered into reinsurance agreements providing for $150 million in multi-year, fully collateralized reinsurance from Ibis Re Ltd. (Ibis Re), a special purpose reinsurance company domiciled in the Cayman Islands. Ibis Re financed the property catastrophe reinsurance coverage by issuing $150 million in catastrophe bonds to qualified institutional buyers in a private placement.
+NEW YORK, May 5, 2009
+The new reinsurance coverage is designed to complement Assurant's existing property catastrophe reinsurance and state-specific reinsurance programs and to enhance its ability to manage risk related to catastrophe losses. The reinsurance consists of two separate layers of coverage providing for an aggregate of $150 million of reinsurance coverage against losses from individual hurricane events in Hawaii and along the Gulf and Eastern Coasts of the United States until April 2012.
+About Assurant
+Assurant is a premier provider of specialized insurance products and related services in North America and selected other international markets. The four key businesses  Assurant Solutions, Assurant Specialty Property, Assurant Health, and Assurant Employee Benefits  have partnered with clients who are leaders in their industries and have built leadership positions in a number of specialty insurance market segments in the U.S. and selected international markets. The Assurant business units provide debt protection administration; credit-related insurance; warranties and service contracts; pre-funded funeral insurance; creditor-placed homeowners insurance; manufactured housing homeowners insurance; individual health and small employer group health insurance; group dental insurance; group disability insurance; and group life insurance.
+Assurant, a Fortune 500 company and a member of the S&P 500, is traded on the New York Stock Exchange under the symbol AIZ. Assurant has more than $23 billion in assets and $8 billion in annual revenue. Assurant has approximately 15,000 employees worldwide and is headquartered in New York's financial district. .
+www.assurant.com
+ 
+
+

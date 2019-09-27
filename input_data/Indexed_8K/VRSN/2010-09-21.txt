@@ -1,0 +1,70 @@
+FILE:VRSN/VRSN-8K-20100921081925.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On September 21, 2010, VeriSign, Inc. ("VeriSign" or the "Company") announced certain information regarding its results of operations for the fiscal quarter ended June 30, 2010 and certain other information. A copy of this press release is attached hereto as Exhibit 99.1.
+The information in this Form 8-K and the Exhibit attached hereto shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+ 
+(d)    Exhibits.
+99.1    Text of press release of VeriSign, Inc. issued on September 21, 2010.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+ 
+ 
+ 
+
+Exhibit 99.1
+The global base of Internet domain names grew by more than 3 million in the second quarter of 2010, according to the latest Domain Name Industry Brief, published by VeriSign, Inc. (NASDAQ: VRSN), the trusted provider of Internet infrastructure services for the networked world.
+Dulles, VA.  Sept. 21, 2010 
+The Domain Name Industry ended the second quarter of 2010 with a base of more than 196.3 million domain name registrations across all of the Top Level Domain Names (TLDs). The second quarter total represents an increase of 2 percent over the first quarter of 2010. Compared to the second quarter of 2009, registrations grew by 12.3 million, or 7 percent, across the industry.
+The combined base of .com and .net domain names surpassed 100 million, finishing the quarter with an adjusted zone size of 101.5 million. New .com and .net registrations totaled 7.9 million during the second quarter, an increase of 13 percent from a year ago. The .com/.net renewal rate for the second quarter was 73.2 percent, up from 72.1 percent for the first quarter.
+1
+VeriSign's average daily Domain Name System (DNS) query load during second quarter 2010 was 62.5 billion per day, with a peak of 83.6 billion. Compared to first quarter 2010, the daily query average increased 16 percent and the peak grew by 32 percent. Taken annually, the daily average increased 28 percent and the peak daily queries grew 43 percent.
+Forrester Study: DNS Security Extensions Ready for Prime Time
+The latest Domain Name Industry Brief also spotlights the industry's progress in implementing DNS Security Extensions (DNSSEC), which is designed to protect users against "DNS cache poisoning" and "man-in-the-middle" attacks by cryptographically signing DNS data. In July, VeriSign joined with U.S. Department of Commerce and the Internet Corporation for Assigned Names and Numbers (ICANN) to deploy DNSSEC at the root of the DNS.
+A new Forrester Research study conducted on behalf of VeriSign shows how timely the implementation of DNSSEC is. For the study, titled , Forrester polled 297 IT decision-makers. The survey revealed that DNS attacks are commonplace, and this has made DNS security a top-line concern for companies and organizations. Forrester found 51 percent of respondents reported experiencing DNS-related attacks, 38 percent of whom said they had experienced man-in-the-middle attacks, which DNSSEC is specifically intended to prevent.
+DNSSEC Ready for Prime Time
+Forrester researchers also found that while DNSSEC may not yet be widely understood  only 43 percent of respondents said they had heard about DNSSEC and knew what problems it solved  the majority of business IT leaders who do know about it plan to deploy the technology on their networks. Of those who reported knowing about DNSSEC, 90 percent said they would implement the technology within 18 months. Only 5 percent reported that they would not implement DNSSEC.
+"With so many factors pointing toward the need for widespread DNSSEC adoption, one of the greatest obstacles lies in building awareness of the technology and its value among the Internet community as a whole," said Ken Silva, senior vice president and chief technology officer at VeriSign "The path toward global deployment is a long one, but with the implementation of DNSSEC at the root and the growing call for DNS security measures at companies and organizations, the community has taken a significant first step."
+Internet domains around the world are working to implement the technology in their zones. VeriSign expects to deploy DNSSEC in .net before the end of 2010 and in .com in the first quarter of 2011. For more information on DNSSEC implementation, visit:
+www.verisign.com/dnssec
+VeriSign publishes the Domain Name Industry Brief to provide Internet users throughout the world with significant statistical and analytical research and data on the domain name industry and the Internet as a whole. Copies of the 2010 second quarter Domain Name Industry Brief, as well as previous reports, can be obtained at
+www.verisign.com/domainbrief
+About VeriSign
+VeriSign, Inc. (NASDAQ: VRSN) is the trusted provider of Internet infrastructure services for the networked world. Billions of times each day, VeriSign enables companies and consumers all over the world to connect online with confidence. Additional news and information about the company is available at .
+www.verisign.com
+Contacts
+Deana Alvy, , 703-948-4179
+dalvy@verisign.com
+Investor Relations: Nancy Fazioli, , 800-922-4917
+ir@verisign.com
+Editor's Note
+ 
+Statements in this announcement other than historical data and information constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended. These statements involve risks and uncertainties that could cause VeriSign's actual results to differ materially from those stated or implied by such forward-looking statements. The potential risks and uncertainties include, among others, the uncertainty of future revenue and profitability and potential fluctuations in quarterly operating results due to such factors as increasing competition and pricing pressure from competing services offered at prices below our prices; the current global economic downturn; challenges to ongoing privatization of Internet administration; new or existing governmental laws and regulations; changes in customer behavior; the inability of VeriSign to successfully develop and market new services; the uncertainty of whether our new services will achieve market acceptance or result in any revenues; system interruptions; security breaches; attacks on the Internet by hackers, viruses, or intentional acts of vandalism; challenges to the building of trust on the Internet; and the uncertainty of whether Project Apollo will achieve its stated objectives. More information about potential factors that could affect the company's business and financial results is included in VeriSign's filings with the Securities and Exchange Commission, including in the Company's Annual Report on Form 10-K for the year ended December 31, 2009, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. VeriSign undertakes no obligation to update any of the forward-looking statements after the date of this press release.
+2010 VeriSign, Inc. All rights reserved. VeriSign, VeriSign Trust, and other related trademarks, service marks, and designs are registered or unregistered trademarks of VeriSign, Inc., or its affiliates or subsidiaries in the United States and other countries. All other trademarks are property of their respective owners.
+
+

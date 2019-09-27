@@ -1,0 +1,395 @@
+FILE:TJX/TJX-8K-20080402133518.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):
+ 
+ 
+ 
+     On April 2, 2008, The TJX Companies, Inc. ("TJX") and MasterCard International Incorporated ("MasterCard") entered into a settlement agreement (the "Settlement Agreement") to resolve potential claims and other disputes among TJX, MasterCard and worldwide MasterCard issuers with respect to the potential rights and claims of MasterCard and such issuers relating to TJX's previously announced unauthorized computer intrusion or intrusions (such intrusion or intrusions collectively, the "Computer Intrusion") during which MasterCard payment card account data are believed stolen.
+     Under the Settlement Agreement, MasterCard will make alternative recovery offers (the "Settlement Offers") to eligible MasterCard issuers worldwide that submitted claims with respect to MasterCard accounts alerted on by MasterCard in connection with the Computer Intrusion. These offers are an alternative to any recovery such issuers (including issuers affiliated with such issuers, issuers directly or indirectly sponsored by such issuers on whose behalf such issuers submitted claims, and any other issuers on whose behalf such issuers submitted claims) might otherwise be entitled to by reason of losses and costs incurred by them by reason of the Computer Intrusion, and MasterCard will recommend that such eligible MasterCard issuers accept the Settlement Offers.
+     TJX will fund up to $24 million pre-tax in alternative recovery payments, depending on the extent of acceptance of the Settlement Offers. The settlement is conditioned on the acceptance of Settlement Offers by issuers of at least 90% of the claimed-on MasterCard accounts by May 2, 2008. The estimated costs of this settlement are already reflected in the reserve related to the Computer Intrusion that TJX established in its fiscal year ended January 26, 2008.
+     If the settlement is consummated, those eligible MasterCard issuers accepting their Settlement Offers will irrevocably release, covenant not to sue, and indemnify TJX and its acquiring banks with regard to all claims, in connection with any injury or harm such issuers (including any issuers affiliated with such issuers, any issuers directly or indirectly sponsored by such issuers on whose behalf such issuers submitted claims, and any other issuers on whose behalf such issuers submitted claims) may have incurred as MasterCard issuers with respect to the Computer Intrusion or with respect to other alleged non-compliance with MasterCard's data security requirements, including claims asserted or that might be assertable in the putative financial institutions class actions currently pending before the United States Court of Appeals for the First Circuit and the Massachusetts Superior Court in and for Middlesex County.
+     The description of the Settlement Agreement set forth above is qualified in its entirety by reference to the actual terms of the Settlement Agreement, which is attached as Exhibit 10.1 and is incorporated by reference.
+ 
+(d) Exhibits
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: April 2, 2008
+ 
+
+ 
+Exhibit 10.1
+ 
+ 
+ 
+ 
+     SETTLEMENT AGREEMENT dated as of April 2, 2008 (together with the attached Exhibits called this ""), by and between MASTERCARD INTERNATIONAL INCORPORATED, a Delaware corporation (""), and THE TJX COMPANIES, INC., a Delaware corporation ("").
+Settlement Agreement
+MasterCard
+TJX
+     WHEREAS, on January 17, 2007, TJX publicly announced that prior to December 19, 2006, the portion of TJX's computer system that processes and stores information related to certain customer transactions at certain TJX-operated stores was subjected to one or more unauthorized intrusions (further defined collectively below as the TJX Intrusion), during which certain payment card account data were stolen;
+     WHEREAS, certain issuers of payment cards bearing the "MasterCard," "MasterCard Electronic," "Maestro," and/or "Cirrus" brand names may have certain rights under the MasterCard Operating Regulations (as defined below) to recover certain amounts (which amounts may be indemnifiable by TJX) by reason of losses and costs associated with the TJX Intrusion allegedly incurred by those issuers; and
+     WHEREAS, in order to settle claims and resolve other disputes among TJX and its acquiring banks, on the one hand, and MasterCard and certain MasterCard issuers, on the other hand, with respect to the possible rights of MasterCard issuers described above and actual and potential associated claims by MasterCard and MasterCard issuers asserting such possible rights, TJX and MasterCard have entered into this Settlement Agreement.
+     NOW, THEREFORE, in consideration of the representations, warranties and covenants set forth in this Settlement Agreement and subject to all the terms and conditions set forth in this Settlement Agreement, MasterCard and TJX agree as follows:
+     1. DEFINITIONS; CERTAIN RULES OF CONSTRUCTION.
+          1.1. . The following capitalized terms and non-capitalized words and phrases have the meanings respectively assigned to them below, which meanings are applicable equally to the singular and plural forms of the terms so defined:
+Definitions
+     "" has the meaning set forth in Section 8.1.
+Acceptance Deadline
+     "" has the meaning set forth in Section 4.4.
+Acceptance Delivery Date
+     "" has the meaning set forth in Section 3.1.
+Accepting Issuer
+     "" means a written statement (i) which sets forth MasterCard's calculation of the aggregate numbers of the Eligible MasterCard Issuers' Alerted-On Accounts and Claimed-On Accounts (including MasterCard's calculation of how many of the Eligible MasterCard Issuers' Claimed-On Accounts constitute Reissued Accounts and how many constitute Specially Monitored Accounts), and which contains detail sufficient to confirm the accuracy of the MasterCard representation and warranty contained in clauses (i), (ii) and (iii) of
+Accounting Statement
+ 
+the second sentence of Section 2, and (ii) which includes an issuer-by-issuer breakdown identifying each Eligible MasterCard Issuer by means of a numerical identifier, rather than by name; setting forth, as to each Eligible MasterCard Issuer, its number of Alerted-On Accounts and its number of Claimed-On Accounts; and setting forth, as to each Eligible MasterCard Issuer's Claimed-On Accounts, how many of the Claimed-On Accounts of each Eligible MasterCard Issuer are Reissued Accounts and how many are Specially Monitored Accounts.
+     "" has the meaning set forth in Section 3.4.
+Adjusted Settlement Amount
+     "" means, as to any Issuer Claim, the number appearing in Item 4.1 of the Worksheet for such Issuer Claim after eliminating any duplicate MasterCard Accounts that were originally included in the number used by MasterCard to populate such Item 4.1.
+Adjusted Worksheet Account Total
+     "" means, with respect to any MasterCard Issuer, any other MasterCard Issuer that controls, is controlled by, or is under common control with, such MasterCard Issuer.
+Affiliated Issuer
+     "" means, as to any Person, the past, present, and future representatives, attorneys, agents, accountants, assigns, insurers, administrators, officers, directors, trustees, employees, retained contractors, parents, affiliates, subsidiaries, predecessors, and successors of the Person, and any other Persons acting on behalf of the Person, all in their capacities as such.
+Affiliated Person
+     "" has the meaning set forth in Section 3.4.
+Aggregate Non-Accepted Offers Amount
+     "" means (i) in general, any MasterCard Account with respect to which MasterCard issued an alert in connection with the TJX Intrusion, and (ii) with respect to any MasterCard Issuer, any MasterCard Account issued by that particular MasterCard Issuer, or by a Sponsored Issuer of that particular MasterCard Issuer, with respect to which MasterCard issued such an alert.
+Alerted-On Account
+     "" has the meaning set forth in Section 6.
+Alleged Non-Compliance
+     "" has the meaning set forth in Section 3.1.
+Alternative Recovery Acceptance
+     "" has the meaning set forth in Section 4.2.
+Alternative Recovery Acceptance Report
+     "" has the meaning set forth in Section 3.
+Alternative Recovery Amount
+     "" has the meaning set forth in Section 3.
+Alternative Recovery Offer
+     "" means any day other than any Saturday, Sunday or other day on which commercial banks are authorized or required to close in Boston or New York City.
+Business Day
+     "" means (i) in general, any Alerted-On Account with respect to which a MasterCard Issuer has made an Issuer Claim, and (ii) with respect to any particular Eligible MasterCard Issuer, any Alerted-On Account issued by that particular Eligible
+Claimed-On Account
+ 
+MasterCard Issuer, or by a Sponsored Issuer of that particular Eligible MasterCard Issuer, with respect to which that particular Eligible MasterCard Issuer or an Affiliated Issuer of that particular Eligible MasterCard Issuer has made an Issuer Claim.
+     "" means, with respect to any Eligible MasterCard Issuer, a Sponsored Issuer (a) that (i) issued one or more of such Eligible MasterCard Issuer's Claimed-On Accounts and (ii) is identified as one of such Eligible MasterCard Issuer's Claiming Sponsored Issuers in such Eligible MasterCard Issuer's Alternative Recovery Acceptance, or (b) that is an Affiliated Issuer of such Eligible MasterCard Issuer.
+Claiming Sponsored Issuer
+     "" has the meaning set forth in Section 7.2.
+Consummation Date
+     "" means a MasterCard Issuer that is listed by MasterCard in the Accounting Statement as a MasterCard Issuer entitled to receive an Alternative Recovery Offer under the terms of this Settlement Agreement; , , that no MasterCard Issuer shall be an Eligible MasterCard Issuer if such MasterCard Issuer is a Sponsored Issuer of an Eligible MasterCard Issuer.
+Eligible MasterCard Issuer
+provided
+however
+     "" has the meaning set forth in Section 8.1.
+Extended Acceptance Deadline
+     "" means a compliance claim and/or a timely operating expense reimbursement claim made with MasterCard by a MasterCard Issuer under the MasterCard Operating Regulations with respect to one or more of the Alerted-On Accounts that under the applicable MasterCard Operating Regulations were eligible to be made the subject of such a claim, in each case regardless of whether such claim has been waived by the MasterCard Issuer in question after such claim was made with MasterCard, but otherwise giving effect to any amendment of such claim by such MasterCard Issuer as of the date of the Settlement Agreement.
+Issuer Claim
+     "" means a payment card account utilized by a payment card bearing the MasterCard symbol or MasterCard brand mark, the MasterCard Electronic symbol or MasterCard Electronic brand mark, the Maestro symbol or Maestro brand mark, and/or the Cirrus symbol or Cirrus brand mark, and issued by or through a member of MasterCard (or by or through some other entity sponsored directly or indirectly by an Affiliated Person of a member of MasterCard), that enables the purchase of goods from a merchant.
+MasterCard Account
+     "" means an issuer of a MasterCard Account.
+MasterCard Issuer
+     "" means the governing bylaws, rules and regulations, published policies, and any other manuals of MasterCard prepared in connection with any program or service or activity of MasterCard and published to the members of MasterCard from time to time, for example, and not by way of limitation, the manual, the manual, the manual, the , and the .
+MasterCard Operating Regulations
+Bylaws and Rules
+Security Rules and Procedures
+Chargeback Guide
+Operations Manual
+Authorization System Manual
+     "" has the meaning set forth in Section 3.3.
+Maximum Settlement Amount
+ 
+     "" means any Issuer Claim as to which the number of Claimed-On Accounts exceeds the Adjusted Worksheet Account Total.
+Mistaken Issuer Claim
+     "" has the meaning set forth in Section 3.4.
+Non-Accepted Offer Amount
+     "" has the meaning set forth in Section 3.4.
+Non-Accepting Issuers
+     "" has the meaning set forth in Section 8.1.
+Opt-In Threshold Condition
+     "" means any individual or corporation, association, partnership, limited liability company, joint venture, joint stock or other company, business trust, trust, organization, governmental authority or other entity of any kind.
+Person
+     "" means an Alerted-On Account with respect to which an Eligible MasterCard Issuer (or an Affiliated Issuer of such Eligible MasterCard Issuer) has submitted an Issuer Claim asserting that the MasterCard card of the accountholder of that particular Alerted-On Account was reissued as a result of the TJX Intrusion.
+Reissued Account
+     "" has the meaning set forth in Section 7.1.
+Release
+     "" means the following four reports prepared for TJX in conjunction with the annual assessment of TJX's compliance with the Payment Card Industry Data Security Standards and/or other then existing data security standards: the 2007 Level 1  PCI Data Security Standards Report on Compliance dated October 16, 2007 prepared for TJX by VeriSign Inc.; the 2006 Report of Compliance (RoC) of TJX dated September 29, 2006 prepared for TJX by Cybertrust, Inc.; the 2005 Report of Compliance (RoC) of TJX dated September 30, 2005 prepared for TJX by Cybertrust, Inc.; and the 2004 Report of Compliance dated September 29, 2004 prepared for TJX by VeriSign Inc.
+Reports on Compliance
+     "" has the meaning set forth in the preamble hereto.
+Settlement Agreement
+     "" means an Alerted-On Account with respect to which an Eligible MasterCard Issuer (or an Affiliated Issuer of such Eligible MasterCard Issuer) has submitted an Issuer Claim asserting that special monitoring procedures were implemented with respect to that particular Alerted-On Account as a result of the TJX Intrusion.
+Specially Monitored Account
+     "" means (A) in general, any MasterCard Issuer (i) that is an Affiliated Issuer of an Eligible MasterCard Issuer, or (ii) that is sponsored directly or indirectly by an Eligible MasterCard Issuer or by an Affiliated Issuer of an Eligible MasterCard Issuer, or (iii) on behalf of which an Eligible MasterCard Issuer or an Affiliated Issuer of an Eligible MasterCard Issuer made an Issuer Claim, and (B) with respect to any Eligible MasterCard Issuer, any MasterCard Issuer (i) that is an Affiliated Issuer of such Eligible MasterCard Issuer, or (ii) that is sponsored directly or indirectly by such Eligible MasterCard Issuer or by an Affiliated Issuer of such Eligible MasterCard Issuer, or (iii) on behalf of which such Eligible MasterCard Issuer or an Affiliated Issuer of such Eligible MasterCard Issuer made an Issuer Claim.
+Sponsored Issuer
+ 
+     "" has the meaning set forth in Section 8.2.
+Termination Date
+     "" means, in their capacities as acquiring banks for TJX or an Affiliated Person of TJX, Fifth Third Bank, Chase Paymentech Solutions LLC (formerly known as Chase Merchant Services LLC), First Data Loan Company, Canada, National Westminster Bank plc and Banco Popular de Puerto Rico.
+TJX Acquirers
+     "" means TJX computer systems intrusion(s) referenced in the MasterCard Alerts having main case numbers MCA024-US-07, MCA024-CAN-07, MCA024-LAC-07, and MCA106-EU-07, including all of their subparts.
+TJX Intrusion
+     "" means that the Eligible MasterCard Issuers that validly accept their Alternative Recovery Offers by the Acceptance Deadline, or, if applicable, by the Extended Acceptance Deadline, did not issue (together with their Claiming Sponsored Issuers), in the aggregate, at least 90% of the Claimed-On Accounts of all the Eligible MasterCard Issuers.
+Unsatisfied Threshold Event
+     "" means, with respect to any Issuer Claim, the MasterCard Online Issuer Claim for Reimbursement Worksheet for such Issuer Claim, the form of which is attached hereto as .
+Worksheet
+Exhibit 1.1
+          1.2. . Except as otherwise explicitly specified to the contrary, (a) references to a Section, Exhibit or Schedule means a Section of, or Schedule or Exhibit to, this Settlement Agreement, unless another agreement or document is specified, (b) the word "including" will be construed as "including without limitation," (c) references to a particular statute or regulation include all rules and regulations thereunder and any predecessor or successor statute, rules or regulation, in each case as amended or otherwise modified from time to time, (d) words in the singular or plural form include the plural and singular form, respectively and (e) references to a particular Person include such Person's successors and assigns to the extent not expressly prohibited by this Settlement Agreement.
+Certain Rules of Construction
+     2. . Prior to the execution and delivery of this Settlement Agreement, MasterCard has delivered to TJX the Accounting Statement, a copy of which is attached as to this Settlement Agreement. MasterCard hereby represents and warrants to TJX that (i) the Alerted-On Accounts constitute not more than 26.1 million unique MasterCard Accounts; (ii) the Eligible MasterCard Issuers' Alerted-On Accounts constitute, in the aggregate, not less than 86% of all MasterCard Issuers' Alerted-On Accounts; (iii) the Claimed-On Accounts that are the subject of the operating expense reimbursement Issuer Claims filed with MasterCard by Eligible MasterCard Issuers and their Affiliated Issuers in connection with the TJX Intrusion constitute, in the aggregate, 13,354,885 MasterCard Accounts and include, in the aggregate, 3,537,530 Reissued Accounts and 9,817,355 Specially Monitored Accounts; (iv) except for the Mistaken Issuer Claims, MasterCard has no reason to believe that any Eligible MasterCard Issuer or any Affiliated Issuer of any Eligible MasterCard Issuer has failed to comply with the "one-claim-per-account" provisions of Section 10.3.4 of the MasterCard manual in its operating expense reimbursement Issuer Claim relative to its Claimed-On Accounts; and (v) each entity identified in the Accounting Statement as an Eligible MasterCard Issuer is a MasterCard Issuer and no
+ACCOUNTING STATEMENT
+Exhibit 2
+Security Rules and Procedures
+ 
+MasterCard Issuer identified in the Accounting Statement as an Eligible MasterCard Issuer is a Sponsored Issuer of any other MasterCard Issuer identified in the Accounting Statement as an Eligible MasterCard Issuer. MasterCard hereby further represents and warrants to TJX that (i) the Accounting Statement correctly sets forth the information required to be set forth therein by the terms of the definition of the term "Accounting Statement"; (ii) except with respect to the Mistaken Issuer Claims (as to which the number of Claimed-On Accounts evidenced by each Mistaken Issuer Claim has been reduced by the number of such Accounts in excess of the Adjusted Worksheet Account Total for such Claim), the calculations and the numbers set forth in the Accounting Statement with respect to the Eligible MasterCard Issuers' Claimed-On Accounts, Reissued Accounts, and Specially Monitored Accounts accurately reflect the numerical information provided to MasterCard by the Eligible MasterCard Issuers and their Affiliated Issuers in the Issuer Claims; (iii) the numerical information included in any Issuer Claim was included by MasterCard once and only once in the calculations and numbers set forth in the Accounting Statement; and (iv) the Mistaken Issuer Claims were filed by the Eligible MasterCard Issuers (or by Affiliated Issuers of the Eligible MasterCard Issuers) indicated by a check mark on the Accounting Statement, and the aggregate number of Claimed-On Accounts evidenced by all Mistaken Issuer Claims is less than 70,000 and does not exceed the aggregate number of all Adjusted Worksheet Account Totals evidenced by all Mistaken Issuer Claims by more than 1,000. MasterCard shall in no event be deemed to be in breach of the representations and warranties contained in clause (iv) of the second sentence of this Section 2 and clause (iii) of the first sentence of Section 4.3 merely because, in regard to the Issuer Claim in question, MasterCard failed to notify the MasterCard Issuer that filed such Issuer Claim that MasterCard populated Item 4.1 of the Worksheet for such Issuer Claim with a number of MasterCard Accounts that was not fully deduplicated and/or failed to determine whether (i) the number of Claimed-On Accounts in such Issuer Claim before deducting the number of MasterCard Accounts, if any, appearing in Items 5.2-5.4 and 6.2-6.3 of the Worksheet for such Issuer Claim was greater than (ii) the Adjusted Worksheet Account Total for such Issuer Claim the number of MasterCard Accounts, if any, appearing in Items 4.2-4.5 of the Worksheet for such Issuer Claim.
+minus
+     3. . MasterCard hereby agrees to send to each Eligible MasterCard Issuer an offer of a certain specified dollar amount (which amount shall be determined by MasterCard, as to each Eligible MasterCard Issuer, in its sole discretion) (the amount so determined by MasterCard for each Eligible MasterCard Issuer is herein called the "") as an alternative to any recovery in connection with such Eligible MasterCard Issuer's Claimed-On Accounts that such Eligible MasterCard Issuer and its Claiming Sponsored Issuers might be entitled to under the MasterCard Operating Regulations by reason of losses or costs allegedly incurred by such Eligible MasterCard Issuer and its Claiming Sponsored Issuers by reason of the TJX Intrusion (each such offer to an Eligible MasterCard Issuer is called an ""), and MasterCard agrees to recommend acceptance by each Eligible MasterCard Issuer of its Alternative Recovery Offer. In communicating the Alternative Recovery Offers to Eligible MasterCard Issuers, MasterCard shall provide each Eligible MasterCard Issuer with a copy of this Settlement Agreement (without ) and with full and fair disclosure regarding the pros and cons of accepting its Alternative Recovery Offer.
+ALTERNATIVE RECOVERY OFFER
+Alternative Recovery Amount
+Alternative Recovery Offer
+Exhibit 2
+ 
+          3.1. . Any Eligible MasterCard Issuer which desires to accept its Alternative Recovery Offer must, on or before the Acceptance Deadline (or the Extended Acceptance Deadline, if applicable) duly execute and deliver to MasterCard an "Alternative Recovery Acceptance" of such Eligible MasterCard Issuer in the form attached as to this Settlement Agreement or in such other form as may be approved in writing by TJX and MasterCard as to such Eligible MasterCard Issuer (an Eligible MasterCard Issuer's "") (each such Eligible MasterCard Issuer is herein called an ""). No Eligible MasterCard Issuer shall be deemed to have validly accepted its Alternative Recovery Offer and thereby have become an Accepting Issuer unless such Eligible MasterCard Issuer shall have duly executed and timely delivered to MasterCard its Alternative Recovery Acceptance and such duly executed Alternative Recovery Acceptance shall have been timely delivered to TJX by MasterCard.
+Alternative Recovery Acceptance
+Exhibit 3.1
+Alternative Recovery Acceptance
+Accepting Issuer
+          3.2. . Effective on the Consummation Date, each Accepting Issuer shall be entitled to receive from MasterCard the Alternative Recovery Amount as calculated by MasterCard for such Accepting Issuer.
+Alternative Recovery Amount
+          3.3. . The aggregate amount of TJX's payment obligation under this Settlement Agreement shall not in any event exceed $23,989,750 (the ""), which amount is subject to reduction as provided in Section 3.4 below.
+Maximum Settlement Amount
+Maximum Settlement Amount
+          3.4. . The Maximum Settlement Amount was agreed upon by the parties based upon an assumed 100% acceptance of the Alternative Recovery Offers by all Eligible MasterCard Issuers. Accordingly, in the event the Opt-In Threshold Condition shall have been satisfied but one or more Eligible MasterCard Issuers shall not have validly accepted its or their Alternative Recovery Offer(s) (the ""), the Maximum Settlement Amount shall be reduced by the "Aggregate Non-Accepted Offers Amount," which shall be determined as follows: for each Non-Accepting Issuer, that Non-Accepting Issuer's "" shall be an amount equal to the sum of (x) the number of such Non-Accepting Issuer's Reissued Accounts as shown in the Accounting Statement $0.50, (y) the number of such Non-Accepting Issuer's Specially Monitored Accounts as shown in the Accounting Statement $0.125; the "" shall be the aggregate amount of the Non-Accepted Offer Amounts of all Non-Accepting Issuers up to but not exceeding a maximum aggregate amount of $400,000 for all such Non-Accepted Offer Amounts; and the "" shall be the amount obtained by subtracting the Aggregate Non-Accepted Offers Amount from the Maximum Settlement Amount.
+Reduction for Non-Acceptances
+Non-Accepting Issuers
+Non-Accepted Offer Amount
+multiplied
+by
+plus
+multiplied
+by
+Aggregate Non-Accepted Offers Amount
+Adjusted Settlement Amount
+     4. 
+UNSATISFIED THRESHOLD EVENT; ALTERNATIVE RECOVERY ACCEPTANCE REPORT; MASTERCARD REPRESENTATIONS; DELIVERY OF ACCEPTANCES.
+          4.1. . In the event that the Unsatisfied Threshold Event shall occur, MasterCard shall deliver (as provided in clause (a), (b) or (d) of Section 10.1) to TJX a written certification to that effect not later than 5:00 p.m., Eastern time, three (3) Business Days following the Acceptance Deadline or, if applicable, the Extended Acceptance
+Unsatisfied Threshold Event
+ 
+Deadline, and the delivery of such written certification shall constitute a representation and warranty by MasterCard, and MasterCard shall be deemed to represent and warrant by such delivery, that the information contained therein is true and correct.
+          4.2. . If the Unsatisfied Threshold Event shall not have occurred, and, accordingly, the Opt-In Threshold Condition shall have been satisfied, MasterCard shall deliver (as provided in clause (a), (b) or (d) of Section 10.1) to TJX not later than 5:00 p.m., Eastern Time three (3) Business Days following the Acceptance Deadline or, if applicable, the Extended Acceptance Deadline, a written report (the "") identifying by name and MasterCard BID number (and by the numerical identifier used for such Eligible MasterCard Issuer in the Accounting Statement) each Eligible MasterCard Issuer that validly accepted its Alternative Recovery Offer and is thereby an Accepting Issuer. The Alternative Recovery Acceptance Report shall set forth (i) MasterCard's calculation of the Accepting Issuers' aggregate number of Alerted-On Accounts and Claimed-On Accounts, such calculation to be broken down on an issuer-by-issuer basis that sets forth for each Accepting Issuer (together with the name and MasterCard BID number of such Accepting Issuer and the numerical identifier used for such Accepting Issuer in the Accounting Statement) the number of its Alerted-On Accounts and Claimed-On Accounts, and how many of its Claimed-On Accounts constitute Reissued Accounts and how many constitute Specially Monitored Accounts, (ii) MasterCard's calculation demonstrating that the Opt-In Threshold Condition has been satisfied as provided in Section 8.1, and (iii) MasterCard's calculation of the Adjusted Settlement Amount as provided in Section 3.4.
+Alternative Recovery Acceptance Report
+Alternative Recovery Acceptance Report
+          4.3. . The delivery of the Alternative Recovery Acceptance Report by MasterCard shall constitute a representation and warranty by MasterCard, and MasterCard shall be deemed to represent and warrant by such delivery, that (i) except with respect to the Mistaken Issuer Claims (as to which the number of Claimed-On Accounts evidenced by each Mistaken Issuer Claim has been reduced by the number of such Accounts in excess of the Adjusted Worksheet Account Total for such Claim), MasterCard has in the Alternative Recovery Acceptance Report correctly set forth the names and MasterCard BID numbers of the Accepting Issuers and the number of each Accepting Issuer's Alerted-On Accounts and Claimed-On Accounts (including the number of each Accepting Issuer's Reissued Accounts and Specially Monitored Accounts), (ii) each Accepting Issuer identified as such in the Alternative Recovery Acceptance Report has timely provided MasterCard with a complete and duly executed Alternative Recovery Acceptance, (iii) except for the Mistaken Issuer Claims, MasterCard has no reason to believe that any Accepting Issuer or any Affiliated Issuer of any Accepting Issuer failed to comply with the "one-claim-per-account" provisions of Section 10.3.4 of the MasterCard manual in its operating expense reimbursement Issuer Claim relative to such Accepting Issuer's Claimed-On Accounts, (iv) MasterCard has in the Alternative Recovery Acceptance Report correctly calculated that the Opt-In Threshold Condition has been satisfied as provided in Section 8.1 and has correctly calculated the Adjusted Settlement Amount as provided in Section 3.4, and (v) the numerical information contained in the Alternative Recovery Acceptance Report with respect to the Accepting Issuers' Claimed-On Accounts accurately reflects such numerical information as it was provided to MasterCard by the Accepting Issuers in their Alternative Recovery Acceptances and matches such numerical information as it was provided to MasterCard by the Accepting Issuers and their Affiliated Issuers in their Issuer Claims and as it was set forth as to the Accepting Issuers in the Accounting
+MasterCard Representations
+Security Rules and Procedures
+ 
+Statement. MasterCard's liability for breach of the representation and warranty contained in clause (iii) of the preceding sentence shall be limited to the extent provided in the last sentence of Section 2.
+          4.4. . In the event that the Unsatisfied Threshold Event shall not have occurred and, accordingly, the Opt-In Threshold Condition shall have been satisfied, not later than five (5) Business Days after MasterCard has delivered the Alternative Recovery Acceptance Report to TJX, MasterCard shall deliver to TJX a true and correct copy of each of the Alternative Recovery Acceptances executed and delivered by each of the Accepting Issuers that is identified as an Accepting Issuer in the Alternative Recovery Acceptance Report. The delivery of the Alternative Recovery Acceptances by MasterCard shall constitute a representation and warranty by MasterCard, and MasterCard shall be deemed to represent and warrant by such delivery, that Schedule I of each Alternative Recovery Acceptance accurately sets forth, as shown in MasterCard's records at December 31, 2007, the Sponsored Issuer(s), including any Affiliated Issuer(s), of the Accepting Issuer that executed such Alternative Recovery Acceptance. The date on which MasterCard has delivered all of such Alternative Recovery Acceptances to TJX as required by this Section 4.4 is defined herein as the "."
+Delivery of Alternative Recovery Acceptances
+Acceptance Delivery Date
+     5. . In the event that the Unsatisfied Threshold Event shall not have occurred and, accordingly, the Opt-In Threshold Condition shall have been satisfied, TJX agrees to pay the Adjusted Settlement Amount to MasterCard in same day funds on the Consummation Date (by federal wire transfer to a bank account specified by MasterCard on not less than two (2) Business Days advance written notice), that (i) the Alternative Recovery Acceptance Report shall have been delivered to TJX by MasterCard as provided in Section 4.2; (ii) copies of all of the Alternative Recovery Acceptances shall have been delivered to TJX by MasterCard as provided in Section 4.4; and (iii) the other conditions to consummation of the Settlement Agreement and to the occurrence of the Consummation Date set forth herein shall have been satisfied. TJX agrees that, upon and subject to the Consummation Date having occurred, TJX and the TJX Acquirers and its and their Affiliated Persons shall have no claim against any Accepting Issuer based upon an alleged breach of the representation and warranty contained in clause (iv) of the first sentence of the second paragraph of such Accepting Issuer's Alternative Recovery Acceptance to the extent, and only to the extent, that the misrepresentation in question was made innocently and occurred as a result of MasterCard's having populated Item 4.1 of the Worksheet for such Issuer Claim with a number of MasterCard Accounts that was not fully deduplicated; , , that this sentence shall not prevent TJX or any of the TJX Acquirers or any of its or their Affiliated Persons from raising any such misrepresentation as a defense, offset, or counterclaim to any claim such Accepting Issuer may assert against any of them.
+PAYMENT AND POST-CONSUMMATION COVENANT BY TJX
+provided
+provided
+however
+     6. . Upon and subject to the Consummation Date having occurred, TJX shall cause the appropriate TJX Acquirers to withdraw with prejudice their pending appeals of the non-compliance assessments previously imposed on and collected from the TJX Acquirers in connection with the TJX Intrusion, which non-compliance assessments aggregate $1,210,250 in amount. Subject to the Consummation Date occurring as provided herein, MasterCard hereby agrees that no further non-compliance assessments will be imposed or collected and no changes in interchange fee rates will be
+FINE APPEALS/MASTERCARD RELEASE
+ 
+imposed by MasterCard in connection with the TJX Intrusion, and MasterCard hereby releases and agrees not to assert any claim or assessment of any kind (including any claim or assessment seeking to recover any amount that MasterCard may award or allow on, or otherwise asserting any rights or obligations or demanding any payment in connection with or by reason of, any issuer compliance or operating expense reimbursement claim asserted under the MasterCard Operating Regulations by or on behalf of any MasterCard Issuer before or after the date of this Settlement Agreement) that otherwise might be asserted by MasterCard against TJX or any of the TJX Acquirers or any of its or their Affiliated Persons (a) with respect to the TJX Intrusion (whether or not such claim or assessment or the facts, events, or occurrences giving rise thereto were known, suspected, or anticipated by MasterCard as of the date of this Settlement Agreement and may have materially affected MasterCard's decision to agree to this Settlement Agreement if known) or (b) by reason of any alleged non-compliance by TJX or the TJX Acquirers or any of its or their Affiliated Persons with any of the data security requirements of the MasterCard Operating Regulations on or before the date of this Settlement Agreement (an "") to the extent such Alleged Non-Compliance relates to the TJX Intrusion (whether or not such Alleged Non-Compliance was known, suspected or anticipated by MasterCard as of the date of this Settlement Agreement and may have materially affected MasterCard's decision to agree to this Settlement Agreement if known) or was known to MasterCard as of the date of this Settlement Agreement, or had been disclosed in one of the Reports on Compliance (whether or not such Alleged Non-Compliance relates to the TJX Intrusion); , , that the release and agreement not to assert certain claims or assessments contained in clause (b) shall not be interpreted to extend to any claim or assessment by MasterCard (i) where an Alleged Non-Compliance is alleged to have continued after the date of this Settlement Agreement and such claim or assessment is asserted or imposed with respect to that portion of the Alleged Non-Compliance that is alleged to have occurred or continued after the date of this Settlement Agreement, (ii) where an Alleged Non-Compliance is alleged to have resulted in an actual or possible account data compromise event and such alleged account data compromise event was not known to MasterCard as of the date of this Settlement Agreement and such claim or assessment is asserted or imposed with respect to such account data compromise event, (iii) where such claim or assessment is the return of a transaction by a MasterCard Issuer to a TJX Acquirer as a chargeback pursuant to Chapters 1 and 3 of the MasterCard manual, or (iv) where such claim or assessment is based upon an Alleged Non-Compliance by a TJX Acquirer that concerns a merchant other than TJX and its Affiliated Persons.
+Alleged Non-Compliance
+provided
+however
+Chargeback
+Guide
+     7. .
+RELEASE; CONSUMMATION DATE
+          7.1. . On the Consummation Date, upon and subject to the satisfaction of all of the other conditions set forth in Section 7.2 below, TJX hereby agrees that it shall deliver to MasterCard a duly executed version of the form of release attached to this Settlement Agreement as (the "").
+Release
+Exhibit 7.1
+Release
+          7.2. ; . It is a condition to the consummation of the settlement contemplated by this Settlement Agreement that the Opt-In Threshold Condition shall have been satisfied and a termination notice pursuant to Section 8.2 shall not have been given by TJX or MasterCard. In the event that the Opt-In Threshold Condition shall have been satisfied and such a termination notice has not been given, this
+Conditions to Consummation
+Consummation Date
+ 
+Settlement Agreement shall be consummated on the date that is five (5) Business Days after the Acceptance Delivery Date (the "") by TJX paying MasterCard the Adjusted Settlement Amount as required by Section 5 and delivering the Release to MasterCard as required by Section 7.1, provided that all of the following additional conditions to consummation of the settlement contemplated by this Settlement Agreement shall have also been satisfied:
+Consummation Date
+     (a) MasterCard shall have delivered to TJX (i) the Alternative Recovery Acceptance Report as required by Section 4.2 and (ii) copies of the Alternative Recovery Acceptances as required by Section 4.4; and
+     (b) The representations and warranties of MasterCard shall be true and correct in all material respects on the Consummation Date with the same force and effect as if made as of the Consummation Date and MasterCard shall have performed and complied with all agreements, obligations and covenants contained in this Settlement Agreement that are required to be performed or complied with by it.
+     8. .
+OPT-IN THRESHOLD CONDITION; TERMINATION, ETC
+          8.1. . The obligations of TJX to pay MasterCard the Adjusted Settlement Amount and to deliver the Release to MasterCard as set forth in Section 7 are subject to the condition that at or before 5:00 p.m., Eastern time, on May 22008 (the "") the Alternative Recovery Offers shall have been validly accepted by Eligible MasterCard Issuers that (together with their Claiming Sponsored Issuers) in the aggregate issued not less than ninety percent (90%) of the Claimed-On Accounts of all the Eligible MasterCard Issuers (such percentage acceptance by Eligible MasterCard Issuers is herein called the ""); , , that in the event that as of the Acceptance Deadline Eligible MasterCard Issuers that (together with their Claiming Sponsored Issuers) in the aggregate issued at least 80% (but less than 90%) of the Claimed-On Accounts of all the Eligible MasterCard Issuers have validly accepted their Alternative Recovery Offers, MasterCard may, by written notice to TJX delivered not later than 5:00 p.m., Eastern Time, on the day after the Acceptance Deadline, extend the Acceptance Deadline by five (5) Business Days (as so extended, the " ").
+Opt-In Threshold Condition
+,
+Acceptance Deadline
+Opt-In Threshold Condition
+provided
+however
+Extended
+Acceptance
+Deadline
+          8.2. . This Agreement shall automatically terminate in the event that the Opt-In Threshold Condition shall not have been satisfied, and this Agreement may also be terminated (the date on which the Agreement is terminated, the "") at any time prior to the Consummation Date
+Termination
+Termination Date
+          8.2.1. by mutual written consent of TJX and MasterCard;
+          8.2.2. by TJX, by written notice to MasterCard, if either (i) there has been or will be a material breach of, or inaccuracy in, any representation or warranty of MasterCard contained in this Settlement Agreement as of the date of this Settlement Agreement or as of any subsequent date (other than representations or warranties that expressly speak only as of a specific date or time, with respect to which TJX's right to terminate will arise only in the event of a breach of, or inaccuracy in, such representation or warranty as of such specified date
+ 
+or time), or (ii) MasterCard has breached or violated any of its covenants and agreements contained in this Settlement Agreement; and
+               8.2.3. by MasterCard, by written notice to TJX, if either (i) there has been or will be a material breach of, or inaccuracy in, any representation or warranty of TJX contained in this Settlement Agreement as of the date of this Settlement Agreement or as of any subsequent date (other than representations or warranties that expressly speak only as of a specific date or time, with respect to which MasterCard's right to terminate will arise only in the event of a breach of, or inaccuracy in, such representation or warranty as of such specified date or time), or (ii) TJX has breached or violated any of its covenants and agreements contained in this Settlement Agreement.
+Effective upon the occurrence of the Unsatisfied Threshold Event and effective upon the giving of any such notice (delivered as provided in Section 10.1), this Settlement Agreement shall terminate and be void and shall be of no further force or effect, except as provided in Section 8.3.
+          8.3. . If this Settlement Agreement is terminated as provided by or pursuant to the provisions of Section 8.2, such termination shall be effective as against both parties to this Settlement Agreement and shall be without liability of either party to the other party to this Settlement Agreement, except for liabilities arising in respect of breaches of representations and warranties and covenants under this Agreement by either party on or prior to the Termination Date. In the event of such termination it is agreed by the parties that, as provided in Section 10.14, none of MasterCard's agreement to present the Alternative Recovery Offers to Eligible MasterCard Issuers, TJX's agreement to pay the Adjusted Settlement Amount, or any other provision of this Settlement Agreement shall be cited in any way by MasterCard or TJX, or be deemed evidence of an admission on the part of either of the parties, in any subsequent dispute regarding the propriety of the standard compliance or issuer reimbursement processes under the MasterCard Operating Regulations or in any other subsequent dispute other than a dispute relative to the enforcement of this Settlement Agreement. The provisions of this Section 8.3 and Section 10 shall survive any termination pursuant to Section 8.2.
+Effect of Termination
+     9. .
+REPRESENTATIONS AND WARRANTIES; MASTERCARD AND TJX INDEMNIFICATION
+          9.1. . Each of the parties to this Settlement Agreement hereby makes the following representations and warranties to the other party:
+Representations and Warranties
+               9.1.1. . In addition to its representations and warranties made (i) in Section 2, and (ii) in connection with either the delivery of the certification regarding the Unsatisfied Threshold Event as provided in Section 4.1 or the delivery of the Alternative Recovery Acceptance Report and the Alternative Recovery Acceptances as provided in Section 4.3 and Section 4.4, MasterCard hereby represents and warrants that:
+Representations and Warranties of MasterCard
+          (a) The execution, delivery and performance of this Settlement Agreement, including the Exhibits to which MasterCard is a party, and the consummation by MasterCard of the transactions contemplated hereby and
+ 
+thereby, are within its corporate powers and have been duly authorized by all necessary corporate action. This Settlement Agreement constitutes, and each of the Exhibits to which MasterCard is a party when executed and delivered by it will constitute, a valid and binding agreement of MasterCard, enforceable against MasterCard in accordance with its terms, except to the extent such enforceability may be limited to bankruptcy, insolvency, moratorium or other similar laws affecting or relating to creditors' rights generally and general principles of equity.
+               (b) The execution, delivery and performance by MasterCard of this Settlement Agreement and the Exhibits to which MasterCard is a party (a) do not and will not (i) violate the certificate of incorporation or by-laws of MasterCard, or (ii) require any consent that has not been given or other action that has not been taken by any Person under any instrument binding upon MasterCard, and (b) do not require any action by or filing with any domestic or foreign, federal, state or local governmental authority, department, court or agency.
+               9.1.2. . TJX hereby represents and warrants that:
+Representations and Warranties of TJX
+               (a) The execution, delivery and performance of this Settlement Agreement, including the Exhibits to which TJX is a party, and the consummation by TJX of the transactions contemplated hereby and thereby, are within its corporate powers and have been duly authorized by all necessary corporate action. This Settlement Agreement constitutes, and each of the Exhibits to which TJX is a party when executed and delivered by it will constitute, a valid and binding agreement of TJX, enforceable against TJX in accordance with its terms, except to the extent such enforceability may be limited to bankruptcy, insolvency, moratorium or other similar laws affecting or relating to creditors' rights generally and general principles of equity.
+               (b) The execution, delivery and performance by TJX of this Settlement Agreement and the Exhibits to which TJX is a party (a) do not and will not (i) violate the certificate of incorporation or by-laws of TJX, or (ii) require any consent that has not been given or other action that has not been taken by any Person under any instrument binding upon TJX, and (b) do not require any action by or filing with any domestic or foreign, federal, state or local governmental authority, department, court or agency.
+               (c) The 2007 Level 1  PCI Data Security Standards Report on Compliance dated October 16, 2007 prepared for TJX by VeriSign Inc. found all applicable requirements of the Payment Card Industry Data Security Standards to be "in place."
+          9.2. MasterCard agrees to indemnify TJX and the TJX Acquirers and its and their respective Affiliated Persons against and shall hold each of them harmless from any and all damage, loss, liability, fines, penalties and expense (including reasonable expenses of investigation and reasonable attorneys' fees and expenses in connection
+MasterCard Indemnification
+.
+ 
+with any action, suit or proceeding whether involving a third party claim or a claim solely between the parties hereto) incurred or suffered by TJX or any of the TJX Acquirers or any of its or their respective Affiliated Persons arising out of any misrepresentation or breach of warranty or breach of covenant or agreement made or to be performed by MasterCard pursuant to this Settlement Agreement.
+          9.3. . TJX agrees to indemnify MasterCard and its Affiliated Persons against and shall hold each of them harmless from any and all damage, loss, liability, fines, penalties and expense (including reasonable expenses of investigation and reasonable attorneys' fees and expenses in connection with any action, suit or proceeding whether involving a third party claim or a claim solely between the parties hereto) incurred or suffered by MasterCard or any of its Affiliated Persons arising out of any misrepresentation or breach of warranty or breach of covenant or agreement made or to be performed by TJX pursuant to this Settlement Agreement.
+TJX Indemnification
+     10. 
+MISCELLANEOUS.
+          10.1. . All notices, requests, demands, claims and other communications required or permitted to be delivered, given or otherwise provided under this Settlement Agreement must be in writing and must be delivered, given or otherwise provided:
+Notices
+     (a) by hand (in which case, it will be effective upon delivery);
+     (b) by facsimile (in which case, it will be effective upon receipt of confirmation of good transmission);
+     (c) by overnight delivery by a nationally recognized courier service (in which case, it will be effective on the Business Day after being deposited with such courier service); or
+     (d) by electronic mail (in which case it will be effective on transmission to each representative of a party for whom an email address is listed below, unless the party making delivery is notified that it was not received by such a representative of the other party);
+in each case, to the address (or facsimile number or e-mail address) listed below:
+     If to MasterCard, to it at:
+MasterCard International Incorporated 2000 Purchase Street Purchase, NY 10577 Facsimile Number: (914) 249-3040 joshua_peirez@mastercard.com Attention: Joshua Peirez
+ 
+     with a copy to:
+Mastercard International Incorporated 2000 Purchase Street Purchase, NY 10577 Facsimile Number: (914) 249-4262 Attention: Noah Hanft, Esq., General Counsel
+Golenbock Eiseman Assor Bell & Peskoe LLP 437 Madison Avenue, 35th Floor New York, NY 10022 Facsimile number: (212) 754-0777 mhyman@golenbock.com Attention: Martin S. Hyman, Esq.
+     If to TJX, to it at:
+770 Cochituate Road Framingham, Massachusetts 01701 Facsimile number: (508) 390-5022 Ann_McCauley@tjx.com Attention: Ann McCauley, Esq., Senior Vice President and General Counsel
+     with a copy to:
+Ropes & Gray LLP One International Place Boston, Massachusetts 02110 Facsimile number: (617) 951-7050 Douglas.Meal@ropesgray.com Attention: Douglas H. Meal, Esq.
+Each of the parties to this Settlement Agreement may specify a different address or facsimile number or email address by giving notice in accordance with this Section 10.1 to each of the other parties. Any party delivering, giving, or otherwise providing any notice pursuant to clause (b) or (d) above shall follow up such notice by delivering a hard copy of such notice to the other party pursuant to clause (a) or (c) above; , , that the failure of such party to deliver such a follow-up hard copy to the other party shall not affect the effectiveness of the notice in question.
+provided
+however
+          10.2. ; . This Settlement Agreement will be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns, each of which such successors and permitted assigns will be deemed to be a party for all purposes of this Settlement Agreement. No party may assign, delegate or otherwise transfer either this Settlement Agreement or any of its rights, interests, or obligations hereunder without the prior written approval of the other party. This Settlement
+Succession and Assignment
+No Third-Party Beneficiary
+ 
+Agreement is for the sole benefit of the parties and nothing in this Settlement Agreement (whether expressed or implied) will give or be construed to give any Person (including without limitation Eligible MasterCard Issuers), other than the parties, any legal or equitable rights in connection with this Settlement Agreement except that (i) the TJX Acquirers and their Affiliated Persons and the Affiliated Persons of TJX are intended beneficiaries of the provisions of Section 6 and Section 9.2 to the extent of enforcing the release and covenant provided to them in Section 6, (ii) the TJX Acquirers and their Affiliated Persons and the Affiliated Persons of TJX are the intended beneficiaries of the Alternative Recovery Acceptances to the extent of enforcing the release and covenant not to sue and indemnity provided to them therein, (iii) the Affiliated Persons of MasterCard are intended beneficiaries of the Alternative Recovery Acceptances to the extent of enforcing the release and covenant not to sue and indemnity provided to them therein and the provisions of Section 9.3 to the extent of enforcing the release provided to them in the Release, and (iv) the Released Parties (as that term is defined in the Release) are intended beneficiaries of the Release to the extent of enforcing the release provided to them therein.
+          10.3. . No amendment or waiver of any provision of this Settlement Agreement will be valid and binding unless it is in writing and signed, in the case of an amendment, by MasterCard and TJX, or in the case of a waiver, by the party against whom the waiver is to be effective. No waiver by any party of any breach or violation of or, default under or inaccuracy in any representation, warranty or covenant hereunder, whether intentional or not, will extend to any prior or subsequent breach or violation of, default under, or inaccuracy in, any such representation, warranty or covenant or affect in any way any rights arising by virtue of any such prior or subsequent occurrence. No delay or omission on the part of any party in exercising any right, power or remedy under this Settlement Agreement will operate as a waiver thereof.
+Amendments and Waivers
+          10.4. . This Settlement Agreement, together with any documents, instruments and certificates explicitly referred to herein, constitutes the entire agreement among the parties with respect to the subject matter of this Settlement Agreement and supersedes any and all prior discussions, negotiations, proposals, undertakings, understandings and agreements, whether written or oral, with respect such subject matter (other than the parties' existing confidentiality obligations to one another with respect to such subject matter).
+Entire Agreement
+          10.5. . This Settlement Agreement may be executed in any number of counterparts, each of which will be deemed an original, but all of which together will constitute but one and the same instrument. A facsimile signature shall be deemed an original for purposes of this Settlement Agreement. This Settlement Agreement will become effective when duly executed by each party hereto.
+Counterparts; Effectiveness
+          10.6. . The parties to this Settlement Agreement have negotiated the provisions of this Settlement Agreement as an integral whole and would not have entered into this Settlement Agreement if the provisions hereof had not been written as they appear herein. Accordingly, if at any time, whether before or after the Consummation Date, any term or provision of this Settlement Agreement or any document delivered pursuant to this Settlement Agreement should be held invalid or unenforceable by any court of competent jurisdiction, the parties intend that this Settlement Agreement may be terminated by written notice to the other party referencing this Section 10.6 and delivered in accordance with Section
+Non-Severability
+ 
+10.1, which notice shall have the same effect as if a termination notice pursuant to Section 8.2 had been delivered, as provided in Section 8.3, and that each party shall thereafter take such action as may be necessary to restore the other party to its position immediately prior to its execution of this Settlement Agreement.
+          10.7. . The headings contained in this Settlement Agreement are for convenience purposes only and will not in any way affect the meaning or interpretation hereof.
+Headings
+          10.8. . The parties have participated jointly in the negotiation and drafting of this Settlement Agreement. In the event an ambiguity or question of intent or interpretation arises, this Settlement Agreement will be construed as if drafted jointly by the parties and no presumption or burden of proof will arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Settlement Agreement. The parties intend that each representation, warranty and covenant contained herein will have independent significance. If any party has breached or violated, or if there is an inaccuracy in, any representation, warranty or covenant contained herein in any respect, the fact that there exists another representation, warranty or covenant relating to the same subject matter (regardless of the relative levels of specificity) which the party has not breached or violated, or in respect of which there is not an inaccuracy, will not detract from or mitigate the fact that the party has breached or violated, or there is an inaccuracy in, the first representation, warranty or covenant.
+Construction
+          10.9. . All covenants, agreements, representations and warranties made in this Settlement Agreement shall survive the execution and delivery of this Agreement, the delivery of the other instruments referenced herein as Exhibits, and if it should occur, the Consummation Date, that representations and warranties shall not be required to be true and correct on and as of any date after the Consummation Date. No investigation made by any party and no knowledge of any breach of the other party obtained by any party or on its behalf shall impair the materiality or enforceability of any covenant, agreement, representation or warranty contained in this Settlement Agreement or the right of such party to rely upon each such covenant, agreement, representation and warranty notwithstanding such party's investigation or knowledge.
+Survival of Covenants, Reliance, etc
+provided
+          10.10. . This Settlement Agreement, and the rights of the parties and all actions arising in whole or in part under it, will be governed by and construed in accordance with the domestic substantive laws of the State of New York, without giving effect to any choice or conflict of law provision or rule that would cause the application of the laws of any other jurisdiction.
+Governing Law
+          10.11. ; ; .
+Jurisdiction
+Venue and Limitation on Actions
+Service of Process
+                    10.11.1. . Each party to this Settlement Agreement, by its execution hereof, (a) hereby irrevocably submits to the exclusive jurisdiction of the state courts located in the Borough of Manhattan of the State of New York and the United States District Court located in the Southern District of New York for the purpose of any action between the parties arising in whole or in part under or in connection with this Settlement Agreement, (b) hereby waives to the extent not prohibited by applicable law, and agrees not to assert, by way of motion, as a defense or otherwise, in any such action, any claim that it is not subject personally
+Jurisdiction
+ 
+to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that any such action brought in one of the above-named courts should be dismissed on grounds of forum non conveniens, should be transferred or removed to any court other than one of the above-named courts, or should be stayed by reason of the pendency of some other proceeding in any other court other than one of the above-named courts, or that this Settlement Agreement or the subject matter hereof may not be enforced in or by such court and (c) hereby agrees not to commence any such action other than before one of the above-named courts. Notwithstanding the previous sentence a party may commence any action in a court other than the above-named courts solely for the purpose of enforcing an order or judgment issued by one of the above-named courts.
+                    10.11.2. . Each party agrees that for any action between the parties arising in whole or in part under or in connection with this Settlement Agreement, such party may bring actions only in the state courts located in the Borough of Manhattan or in the United States District Court for the Southern District of New York. Each party further waives any claim and will not assert that venue should properly lie in any other location within the selected jurisdiction. Notwithstanding anything to the contrary in any otherwise applicable law or statute, no action arising in whole or in part under or in connection with this Settlement Agreement may be brought unless such action is commenced within two years after the accrual of the claim that is the basis for such action.
+Venue and Limitation on Actions
+                    10.11.3. . Each party hereby (a) consents to service of process in any action between the parties arising in whole or in part under or in connection with this Settlement Agreement in any manner permitted by New York law, (b) agrees that service of process made in accordance with clause (a) or made by registered or certified mail, return receipt requested, at its address specified pursuant to Section 10.1, will constitute good and valid service of process in any such action and (c) waives and agrees not to assert (by way of motion, as a defense, or otherwise) in any such action any claim that service of process made in accordance with clause (a) or (b) does not constitute good and valid service of process.
+Service of Process
+          10.12. . The parties will have such entitlement as may be provided under applicable law to seek and obtain an injunction or injunctions to prevent breaches or violations of the provisions of this Settlement Agreement and to enforce specifically this Settlement Agreement and the terms and provisions hereof in any action instituted in accordance with Section 10.11, in addition to any other remedy to which the parties may be entitled, at law or in equity.
+Specific Performance
+          10.13. . TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW THAT CANNOT BE WAIVED, THE PARTIES HEREBY WAIVE, AND COVENANT THAT THEY WILL NOT ASSERT (WHETHER AS PLAINTIFF, DEFENDANT OR OTHERWISE), ANY RIGHT TO TRIAL BY JURY IN ANY ACTION ARISING IN WHOLE OR IN PART UNDER OR IN CONNECTION WITH THIS SETTLEMENT AGREEMENT OR ANY OF THE CONTEMPLATED TRANSACTIONS, WHETHER NOW EXISTING OR HEREAFTER ARISING, AND WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE. THE PARTIES AGREE THAT ANY OF THEM MAY FILE A COPY OF THIS PARAGRAPH WITH ANY COURT AS WRITTEN EVIDENCE OF THE KNOWING, VOLUNTARY AND BARGAINED-FOR AGREEMENT
+Waiver of Jury Trial
+ 
+AMONG THE PARTIES IRREVOCABLY TO WAIVE ITS RIGHT TO TRIAL BY JURY IN ANY PROCEEDING WHATSOEVER BETWEEN THEM RELATING TO THIS SETTLEMENT AGREEMENT OR ANY OF THE CONTEMPLATED TRANSACTIONS WILL INSTEAD BE TRIED IN A COURT OF COMPETENT JURISDICTION BY A JUDGE SITTING WITHOUT A JURY.
+          10.14. . Neither this Settlement Agreement nor the Alternative Recovery Offers, nor any act performed or document executed pursuant to or in furtherance of this Settlement Agreement or the Alternative Recovery Offers: (a) is or may be deemed to be or may be used as an admission of, or evidence of, the validity or lack thereof of any claim or right of recovery or cause of action against or by, or of any wrongdoing or liability of either of the parties to this Settlement Agreement, the TJX Acquirers or the Affiliated Persons of each of them; or (b) is or may be deemed to be or may be used as an admission of, or evidence of, any fault or omission of either of the parties to this Settlement Agreement, the TJX Acquirers or the Affiliated Persons of each of them, in any civil, criminal, or administrative proceeding in any court, administrative agency, or other tribunal. Either of the parties to this Settlement Agreement may file this Settlement Agreement, the Release, and/or the Alternative Recovery Acceptances in any action that may be brought against it in order to support a defense or counterclaim based on principles of res judicata, collateral estoppel, release, good faith settlement, judgment bar or reduction or any other theory of claim preclusion or issue preclusion or similar defense or counterclaim.
+No Admission of Liability
+          10.15. . The parties agree that, in the event this Settlement Agreement is filed by either of them with the Securities and Exchange Commission, such filing will not include Exhibit 2. The parties further agree that their public announcement of this Settlement Agreement will be made by means of a press release by TJX (in the form attached hereto as ), and by public disclosure by MasterCard (in the form attached hereto as ).
+SEC Filings; Public Announcements
+Exhibit 10.15A
+Exhibit 10.15B
+ 
+     IN WITNESS WHEREOF, each of the undersigned has executed this Settlement Agreement as an agreement under seal as of the date first above written.
+ 
+Exhibit 3.1
+     (the ""), on its own behalf and on behalf of each of its Claiming Sponsored Issuers (as defined below), hereby accepts the Alternative Recovery Offer contained in the communication from MasterCard International Incorporated ("") dated ___], 2008, which communication in turn references the Settlement Agreement dated April 2, 2008 (the "") between MasterCard and The TJX Companies, Inc. (""), a copy of which (other than ) was previously provided to the Issuer by MasterCard. Capitalized terms not otherwise defined herein shall have the same meanings as in the Settlement Agreement.
+[Name of accepting MasterCard issuer]
+Issuer
+MasterCard
+[
+Settlement Agreement
+TJX
+Exhibit 2
+     The Issuer represents and warrants that (i) this acceptance has been duly authorized, executed and delivered by the Issuer, (ii) hereto contains a complete and accurate list of the Issuer's Sponsored Issuers and accurately identifies which of the Sponsored Issuers are Affiliated Issuers, and the Issuer has accurately identified on hereto any of its Sponsored Issuers that is not one of the Issuer's "" (the term Claiming Sponsored Issuers being defined herein as those of the Issuer's Sponsored Issuers that either issued one or more of the Issuer's Claimed-On Accounts or are Affiliated Issuers of the Issuer), (iii) the Issuer is authorized to execute and deliver this acceptance on behalf of its Claiming Sponsored Issuers, (iv) the Issuer's Claimed-On Accounts constitute unique MasterCard Accounts and include unique MasterCard Accounts with respect to which the Issuer (or a Claiming Sponsored Issuer) reissued the accountholder's MasterCard card as a result of the TJX Intrusion (the "") and unique MasterCard Accounts with respect to which the Issuer (or a Claiming Sponsored Issuer) implemented special monitoring procedures as a result of the TJX Intrusion (the " "); (v) each operating expense reimbursement claim that the Issuer and its Affiliated Issuers made with MasterCard with respect to the Issuer's Claimed-On Accounts quantifies with reasonable accuracy the incremental unit costs that the Issuer (or a Claiming Sponsored Issuer) incurred to reissue the Reissued Cards and to monitor the Monitored Accounts; and (vi) none of the Issuer's Claimed-On Accounts was issued by any of the Issuer's Sponsored Issuers that the Issuer identified on hereto as not being one of the Issuer's Claiming Sponsored Issuers.
+Schedule I
+Schedule I
+Claiming Sponsored Issuers
+[MasterCard to fill in the number of Issuer's Claimed-On Accounts as shown on the Accounting Statement]
+[MasterCard to fill in the number of Issuer's Reissued Accounts as shown on the Accounting Statement]
+Reissued Cards
+[MasterCard to fill in the number of Issuer's Specially Monitored Accounts as shown on the Accounting Statement]
+Monitored
+Accounts
+Schedule I
+     This acceptance shall become effective when, and only if, the Consummation Date has occurred. Subject to this acceptance having become effective, the Issuer, on its own behalf and on behalf of each of its Claiming Sponsored Issuers and on behalf of its and their Affiliated Persons, irrevocably waives any right to assert against MasterCard, TJX, the TJX Acquirers, and the Affiliated Persons of each of them (collectively, the ""), and fully and finally releases the Releasees from, the following (collectively, the "") (whether or not any Released Issuer Claims, any injury or harm, including injury or harm that arises or occurs after the date of this acceptance, and/or any facts, events, or occurrences giving rise thereto are known, suspected, or anticipated as of the date of this acceptance, including those which if known may have materially affected the Issuer's decision to execute this acceptance):
+Releasees
+Released Issuer Claims
+ 
+     (a) any claim or right of recovery the Issuer or any Claiming Sponsored Issuer or any of its or their Affiliated Persons might otherwise have had in respect of any of its or their Alerted-On Accounts under the MasterCard Operating Regulations (whether under the compliance rules contained in said Regulations, the operating expense reimbursement rules contained in said Regulations, or otherwise) by reason of any matter, occurrence, or event pertaining to the TJX Intrusion,
+     (b) any dispute or objection the Issuer or any Claiming Sponsored Issuer or any of its or their Affiliated Persons might otherwise be entitled to raise or make with respect to the amount or the calculation of the amount by MasterCard of its Alternative Recovery Amount as shown in the Alternative Recovery Offer, and
+     (c) any claim or right the Issuer or any Claiming Sponsored Issuer or any of its or their Affiliated Persons might be entitled to assert, and any monetary recovery or other relief that the Issuer or any Claiming Sponsored Issuer or any of its or their Affiliated Persons might be entitled to seek or receive in any litigation or other proceeding (including without limitation the pending putative class action proceedings consolidated under the caption entitled , No. 07-2828, currently pending before the United States Court of Appeals for the First Circuit and the pending putative class action proceedings captioned , No. 08-0229, currently pending before the Massachusetts Superior Court for Middlesex County), under any applicable laws, rules or regulations, in connection with any injury or harm the Issuer or any Claiming Sponsored Issuer or any of its or their Affiliated Persons may have incurred in its or their capacity as a MasterCard Issuer by reason any of its or their Alerted-On Accounts, or by reason of any matter, occurrence, or event pertaining to the TJX Intrusion.
+In re TJX Companies Retail Security Breach Litigation
+AmeriFirst Bank et al v. TJX Companies, Inc. et al
+     Subject to this acceptance having become effective, the Issuer covenants and agrees that neither it nor any of its Claiming Sponsored Issuers nor any of its or their respective Affiliated Persons will assert any of the Released Issuer Claims against, or otherwise seek to obtain any monetary recovery or other relief by reason of any of the Released Issuer Claims from, MasterCard or TJX or any of the TJX Acquirers or any of the Affiliated Persons of each of them.
+     Subject to this acceptance having become effective, the Issuer agrees to indemnify MasterCard, TJX, the TJX Acquirers, and each of their respective Affiliated Persons against and shall hold each of them harmless from any and all damage, loss, liability, fines, penalties and expense (including reasonable expenses of investigation and reasonable attorneys' fees and expenses in connection with any action, suit or proceeding whether involving a third party claim or a claim solely between the parties hereto), incurred or suffered by MasterCard, TJX, the TJX Acquirers, or any of each of their respective Affiliated Persons arising out of any misrepresentation or breach of warranty made by the Issuer in this acceptance or any breach of any covenant or agreement made or to be performed by the Issuer or any of its Claiming Sponsored Issuers or any of its or their respective Affiliated Persons pursuant to this acceptance.
+     This acceptance, the rights of any person or entity hereunder, and any action arising hereunder, will be governed by and construed in accordance with the substantive laws of the State of New York, without giving effect to any choice or conflict of law provision that would cause the application of the laws of any other jurisdiction.
+Dated: [], 2008
+                    
+ 
+ 
+EXHIBIT 7.1
+     The TJX Companies, Inc. ("") hereby grants the full, complete and final release, discharge, and covenant not to sue set forth in detail below, on its own behalf and, to the extent any of the following persons or entities purports to assert any Claim(s) (as defined below) of TJX, on behalf of each of its past, present and future representatives, attorneys, associates, parents, subsidiaries, affiliates, agents, assigns, insurers, administrators, trustees, officers, directors, employees, retained contractors, predecessors, successors, and any other person or entity claiming on behalf of either of them. Capitalized terms not otherwise defined herein have the meanings set forth in the Settlement Agreement dated April 2, 2008 between TJX and MasterCard International Incorporated (the "").
+TJX
+Settlement Agreement
+     For purposes of this release, the "" are MasterCard International Incorporated (""), and (in their capacities as MasterCard Issuers) Eligible MasterCard Issuers that validly accept their Alternative Recovery Offers and their Claiming Sponsored Issuers (such Eligible MasterCard Issuers and their Claiming Sponsored Issuers, collectively, in their capacities as MasterCard Issuers, the ""), and (in their capacities as such) MasterCard's and any Released MasterCard Issuer's past, present, and future representatives, attorneys, agents, accountants, assigns, insurers, administrators, officers, directors, trustees, employees, retained contractors, parents, affiliates, subsidiaries, predecessors, successors, and any other person or entity acting on behalf of any of them; , , that the Released Parties do not include (i) MasterCard Issuers that are not eligible to receive or that do not validly accept their Alternative Recovery Offers, or (ii) any Sponsored Issuer that is not a Claiming Sponsored Issuer of an Accepting Issuer.
+Released Parties
+MasterCard
+Released MasterCard Issuers
+provided
+however
+     For purposes of this release, the term "" shall mean any and all claims, causes of action, suits at law or in equity, assertions of wrongdoing or fault, liabilities, awards, judgments, demands, debts, defenses, losses and expenses, damages, obligations, attorney fees, costs and/or sanctions, of whatever kind or nature, whether now known or unknown, suspected or unsuspected, liquidated or unliquidated, matured or unmatured, including even those Claims that, if known as of the date of this release, may have materially affected TJX's decision to agree to the Settlement Agreement.
+Claims
+     By this release, TJX releases the Released Parties from any and all Claims that TJX ever had, now has, or may have in the future against MasterCard, or any of the other Released Parties in their capacities as such, by reason of any act, omission or occurrence before the date of the Settlement Agreement on the part of MasterCard or any Released MasterCard Issuer related to the TJX Intrusion, whether those Claims are (a) affirmatively made against MasterCard or any Released MasterCard Issuer, (b) made as a defense to any acts or omissions by MasterCard or any Released MasterCard Issuer relating to the MasterCard Operating Regulations, or (c) assertions of MasterCard's or a Released MasterCard Issuer's fault as a defense to allegations by a third party, including but not limited to MasterCard Issuers that are not Released Parties (all the Claims described in this sentence as having been released being defined herein as the "").
+Released Claims
+ 
+     Notwithstanding anything to the contrary in the preceding paragraphs, the Released Claims do not include (i) any objection, dispute, or Claim TJX might otherwise be entitled to assert with respect to (A) any Claim with respect to the TJX Intrusion that may be submitted to MasterCard by a MasterCard Issuer after the date of the Settlement Agreement under the MasterCard Operating Regulations or (B) any ruling made by MasterCard with respect to any such Claim described in clause (i)(A) of this sentence; (ii) any right TJX otherwise would have to assert or seek to establish, as a defense to any Claim asserted against it by a MasterCard Issuer in litigation or otherwise, the facts or results of any actions or inactions involving MasterCard or a Released MasterCard Issuer, provided that TJX does not seek to establish that any such actions or inactions, or the results thereof, constituted legal wrongdoing on MasterCard's or a Released MasterCard Issuer's part or created legal liability on MasterCard's or a Released MasterCard Issuer's part; or (iii) any of the rights and obligations created by or under the Settlement Agreement or any document delivered pursuant thereto.
+     This release, the rights of any person or entity hereunder, and any action arising hereunder, will be governed by and construed in accordance with the substantive laws of the State of New York, without giving effect to any choice or conflict of law provision that would cause the application of the laws of any other jurisdiction.
+Dated:                , 2008
+[
+]
+
+

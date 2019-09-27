@@ -1,0 +1,103 @@
+FILE:IBM/IBM-8K-20050608171058.txt.gz
+EVENTS:	Regulation FD Disclosure
+TEXT:
+ITEM: Regulation FD Disclosure
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+ 
+  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+ 
+  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+ 
+  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+o
+ 
+Item 7.01 (Regulation FD Disclosure)
+ 
+Attachment I of this Form 8-K contains information that is being posted on IBM's Investor Relations website (www.ibm.com/investor/). All of the information in Attachment I is hereby furnished.
+ 
+IBM's web site (www.ibm.com) contains a significant amount of information about IBM, including financial and other information for investors (www.ibm.com/investor/).  IBM encourages investors to visit its various web sites from time to time, as information is updated and new information is posted.
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ 
+ATTACHMENT I
+ 
+MICROPROCESSORS AND SYSTEMS DEVELOPMENT
+THE FUTURE IS WIDE OPEN
+ 
+JUNE 8, 2005
+ 
+THE CHANGING MARKET
+ 
+The microprocessor industry is changing, in profound ways. For 40 years, chip manufacturers have applied themselves to one purpose: squeezing ever more transistors onto a single chip. As chip technology matures, traditional microprocessor designs are running hotter and drawing larger amounts of power. This is creating design challenges and chip-performance trade offs.
+ 
+At the same time, demand for microprocessors is shifting. The market for personal computers is maturing. Meanwhile, the proliferation of mobile devices, the spread of broadband data connections and the advent of the digital home are creating new and fast-growing sources of demand for microprocessors. Different devices have different performance needs. Microprocessor demand is becoming more diverse.
+ 
+The consequences are clear and compelling. As chips become more specialized, design innovation is becoming the arbiter of economic value and market performance. This is rewriting the rules of competition. The future is wide open.
+ 
+UNDERSTANDING IBM'S STRATEGY
+ 
+IBM had clear sight of the branching paths of chip technology many years ago, and acted early to put design innovation at the center of system strategy. The performance of IBM's family of POWER chips confirms the industry's new logic. Industry-leading design innovation is pushing POWER inside a wider range of products, from gaming consoles to company servers and lightning-fast supercomputers.
+ 
+The cell microprocessor, developed by IBM, Toshiba and Sony for use in consumer-electronics devices, is a breakthrough design featuring a POWER core and eight synergistic processors on one chip, with top clock speeds greater than 4GHz.
+ 
+IBM is working with all three leading gaming-console companies on next-generation platforms. Analysts expect these platforms to become anchor technologies for the digital home, as new devices proliferate over the home broadband network.
+ 
+ 
+The 64-bit, dual-core POWER5 processor is a fully integrated "system on a chip." IBM eServer p5 and OpenPOWER systems have secured the lead in more than 50 computing performance benchmarks.
+ 
+IBM's BlueGene/L is the fastest supercomputer in the world, capable of performing more than 70 trillion floating point operations per second. Strikingly, BlueGene/L's innovative Power Architecture allows it to operate at 1/100th the size and 1/28th the power consumption of the machines it outperforms.
+ 
+ACCELERATING INNOVATION
+ 
+Because design innovation determines value and success, IBM is now focusing its strategy on increasing the speed with which it innovates. This strategy has three components.
+ 
+The first is collaboration, based on open industry standards. In a massively connected world, successful innovation is a function of the breadth, depth and durability of a company's network of relationships.
+ 
+IBM has a long history of successful collaboration with suppliers, partners, clients, governments and universities in chip development. Recently, IBM began to deepen these relationships. In December 2004, 16 companies announced their intention to form Power.org, an open development community based around Power Architecture technology. In June 2005, Power.org added 11 new members.
+ 
+One of Power.org's mandates is to write open technical standards for chip design and development. These open standards will ease design collaboration and technology integration among Power.org's members. This will accelerate the rate at which Power Architecture technology evolves.
+ 
+POWER EVERYWHERE
+ 
+The second component of IBM's strategy is to spread its open chip technology and establish Power Architecture as the dominant industry standard. Power Everywhere is an initiative launched in 2004 that is driving IBM Power Architecture into an ever wider range of products.
+ 
+ 
+Gaming consoles
+ - 
+Supercomputers
+ - 
+Consumer electronics
+ - 
+Communications equipment
+ - 
+Corporate servers and storage systems
+ - 
+Avionics
+ - 
+ 
+IBM's Power Everywhere and Power.org initiatives are complementary. The appeal of collaborative partner networks and open technology standards spreads Power Architecture as an industry standard. The wider dispersal of Power Architecture technology attracts more members to the Power.org community.
+HARDWARE AS A SERVICE
+ 
+The third component of IBM's strategy is to leverage the Power Everywhere and Power.org initiatives by selling a portfolio of services to IBM's expanding community of Power Architecture developers and clients. Less than three years old, IBM's rapidly growing Engineering & Technology Services business unit will be responsible for a large part of this mission.
+ 
+E&TS works both with leading-edge clients (including Nintendo, Mayo Medical Ventures and the New York Stock Exchange) and on cutting-edge IBM products such as eServer xSeries systems and BlueGene/L. More recently, E&TS announced it will help clients build products around cell microprocessor technology.
+ 
+IBM'S RESULTS
+ 
+IBM's microprocessor and systems strategy is producing compelling results. IBM's strength in chip and systems design innovation is securing its position as a leading supplier in a market which puts a growing premium on innovative design.
+ 
+IBM's unique emphasis on open standards and collaborative innovation puts real weight behind the Power Everywhere initiative. The cell microprocessor will not only power next-generation Sony consumer electronics but also Toshiba high-definition TVs, an entertainment content development workstation, and potentially revolutionary new applications demanding life-like visualization in the aerospace, defense and healthcare industries.
+ 
+Power Everywhere and Power.org are creating new and fast-growing services markets for IBM's E&TS business unit.
+ 
+Most importantly, IBM is applying its technology to widen its leadership in the server market. According to Gartner, IBM extended its lead as the #1 server vendor in the world in 2004.(1) Since 2000, according to IDC, IBM has gained nearly ten points of share in UNIX servers, while both HP and Sun declined.(2)
+ 
+(1)  Gartner Dataquest, Market Share: Servers, Worldwide, 4Q04, Michael McLaughlin, February 22, 2005
+(2)  IDC Quarterly Server Tracker 4Q04, February 25, 2005
+
+

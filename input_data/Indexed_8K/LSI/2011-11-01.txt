@@ -1,0 +1,73 @@
+FILE:LSI/LSI-8K-20111101171559.txt.gz
+EVENTS:	Entry into a Material Definitive Agreement	Regulation FD Disclosure	Financial Statements and Exhibits
+TEXT:
+ITEM: Entry into a Material Definitive Agreement
+ITEM: Regulation FD Disclosure
+ITEM: Financial Statements and Exhibits
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.01. Entry into a Material Definitive Agreement.
+On October 26, 2011, LSI Corporation ("LSI") entered into an Agreement and Plan of Merger by and among Autobahn Acquisition Corporation ("Merger Sub"), a Delaware corporation and wholly owned subsidiary of LSI, SandForce, Inc. ("SandForce") and Shareholder Representative Services LLC ("SRS") as Stockholder Representative (the "Merger Agreement"). Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, Merger Sub will merge with and into SandForce, with SandForce continuing as the surviving corporation and becoming a wholly owned subsidiary of LSI (the "Merger").
+Under the agreement, LSI expects to pay approximately $322 million in cash, net of cash assumed, and assume approximately $48 million of unvested SandForce Options and restricted shares held by SandForce employees.
+At the effective time of the Merger (the "Effective Time"), each share of SandForce capital stock (other than any shares of common stock that are unvested, shares owned by SandForce as treasury stock, shares owned by LSI and shares exercising dissenters' rights) will be converted into the right to receive cash. Each share of unvested SandForce common stock will be exchanged for unvested common stock of LSI. All shares of SandForce capital stock owned by SandForce as treasury stock or by LSI will be cancelled without any right to receive any consideration. Awards of restricted stock units settleable in shares of SandForce capital stock will be assumed by LSI and become settleable, in accordance with their existing terms, in shares of LSI. Options to acquire shares of capital stock of SandForce ("SandForce Options") that are unvested as of immediately prior to the Effective Time and that are held by employees will be assumed by LSI and become options exercisable for shares of LSI, in accordance with their existing vesting schedules and other terms. All other SandForce Options will, to the extent not vested and exercisable as of immediately prior to the Effective Time, will vest and become exercisable and, to the extent not exercised prior to the Effective Time, be cashed out for a portion of the aggregate merger consideration described below. In addition, LSI will grant restricted stock units to certain non-U.S. based individuals working for SandForce who will become employees of LSI. Warrants to acquire capital stock of SandForce, if not exercised prior to the Effective Time, will be cancelled.
+The aggregate merger consideration that will be used to determine the price per share payable for outstanding SandForce capital stock entitled to receive cash in the Merger is an amount equal to (i) the sum of (x) $400,000,000, (y) the aggregate exercise price of all SandForce Options that are outstanding and unexercised as of October 26, 2011 (other than SandForce Options that are terminated after October 26, 2011 and prior to the Effective Time without having been exercised, and other than SandForce Options that are net-exercised following October 26, 2011 and prior to the Effective Time), and (z) the aggregate exercise price of all warrants to purchase SandForce capital stock ("SandForce Warrants") that are outstanding and unexercised as of October 26, 2011 (other than SandForce Warrants that are terminated following October 26, 2011 and prior to the Effective Time without having been exercised), less (ii) the sum of (x) all third party fees and expenses incurred by SandForce in connection with the Merger and the other transactions contemplated by the Merger Agreement and (y) all of SandForce's indebtedness outstanding as of immediately prior to the Effective Time.
+LSI will deduct approximately 10% of the cash merger consideration otherwise payable in the Merger to be held in escrow as security for indemnification claims under the Merger Agreement and $400,000 to be made available for reimbursement of the expenses of SRS.
+The Merger and the Merger Agreement have been approved by the board of directors of each of LSI and SandForce, and by the requisite vote of the SandForce stockholders. Completion of the transaction is subject to customary closing conditions, including clearance under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and a requirement that holders of not more than 5% of the fully diluted share capital of SandForce continue to have a right to exercise appraisal or dissenter's rights. The Merger is expected to close early in the first quarter of 2012.
+The Merger Agreement contains customary representations and warranties of LSI and SandForce, covenants regarding the operation of SandForce's business prior to the closing date, and provisions regarding indemnification in favor of LSI. The Merger Agreement provides customary termination rights for both LSI and SandForce.
+ 
+Forward-Looking Statements
+This Current Report on Form 8-K contains forward-looking statements that are based on the current opinions and estimates of management. These statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those anticipated in the forward-looking statements. Factors that could cause LSI's actual results to differ materially from those set forth in the forward-looking statements include, but are not limited to: our ability to obtain all necessary regulatory approvals for the acquisition; the amount of unvested Company Options outstanding as of immediately prior to the Effective Time; the amount of restricted shares held by SandForce employees as of immediately prior to the Effective Time; and the successful consummation of the acquisition. For additional information, see the documents filed by LSI with the Securities and Exchange Commission. LSI disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Item 7.01. Regulation FD Disclosure
+On October 26, 2011, LSI issued a press release in which it announced that it had signed a definitive agreement to acquire SandForce, Inc. pursuant to the terms of the Merger Agreement. A copy of the press release is attached hereto as Exhibit 99.1.
+Neither the information in this Section 7.01 of this Current Report on Form 8-K nor the information in the press release shall be deemed "filed" for purposes of Section 18 of the Exchange Act, or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01. Financial Statements and Exhibits
+(d) Exhibits.
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+Date: November 1, 2011
+ 
+ 
+
+Exhibit 99.1
+Acquisition of leading provider of flash storage processors extends LSI's industry-leading position and breadth in storage technology solutions
+LSI Corporation (NYSE: LSI) today announced that it has signed a definitive agreement to acquire SandForce, Inc., the leading provider of flash storage processors for enterprise and client flash solutions and solid state drives (SSDs). Under the agreement, LSI will pay approximately $322 million in cash, net of cash assumed, and assume approximately $48 million of unvested stock options and restricted shares held by SandForce employees.
+MILPITAS, Calif., October 26, 2011 
+SandForce's award-winning products include flash storage processors at the heart of PCIe flash adapters and SSDs. Flash storage processors provide the intelligence required to deliver the performance and low-latency benefits of flash storage in enterprise and client applications. With market-proven, differentiated DuraClass technology, SandForce flash storage processors improve the reliability, endurance and power efficiency of flash-based storage solutions.
+The acquisition greatly enhances LSI's competitive position in the fast-growing server and storage PCIe flash adapter market, where the WarpDrive family of products from LSI already uses SandForce flash storage processors. The complementary combination of LSI's custom capability and SandForce's standard product offering propels LSI into an industry-leading position in the rapidly growing, high-volume flash storage processor market space for ultrabook, notebook and enterprise SSD and flash solutions.
+"Flash-based solutions are critical for accelerating application performance in servers, storage and client devices," said Abhi Talwalkar, LSI president and chief executive officer. "Adding SandForce's technology to LSI's broad storage portfolio is consistent with our mission to accelerate storage and networking. The acquisition represents a significant, rapidly growing market opportunity for LSI over the next several years."
+Michael Raam, SandForce president and CEO, said, "The combination of SandForce and LSI allows us to deliver differentiated solutions in the PCIe flash adapter segment by tightly integrating flash memory and management. In addition, leveraging our flash storage processors with LSI's comprehensive IP portfolio and leading-edge silicon design platforms will lead to innovative solutions."
+The transaction is expected to close early in the first quarter of 2012 subject to customary closing conditions and regulatory approvals. Upon closing, the SandForce team will become part of LSI's newly formed Flash Components Division, with Raam as general manager.
+LSI expects the acquisition to be neutral to non-GAAP* earnings per share in 2012. The company will provide further details during its conference call at 2 p.m. PDT today and discuss third quarter results and the fourth quarter 2011 business outlook.
+ 
+This news release contains forward-looking statements that are based on the current opinions and estimates of management. These statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those anticipated in the forward-looking statements. Factors that could cause LSI's actual results to differ materially from those set forth in the forward-looking statements include, but are not limited to: our ability to obtain all necessary regulatory approvals for the acquisition, the successful consummation of the acquisition; our ability to successfully integrate and manage the SandForce business and retain its key employees; our ability to achieve anticipated synergies and to develop integrated new products following our acquisition of SandForce; our ability to eliminate costs related to the external storage systems business that we sold to NetApp; our ability to repurchase our common stock at prices we believe to be advantageous; the impact of the recent flooding in Thailand; our reliance on major customers and suppliers; our ability to keep up with rapid technological change; our ability to compete successfully in competitive markets; fluctuations in the timing and volumes of customer demand; the unavailability of appropriate levels of manufacturing capacity; and general industry and macro-economic conditions. For additional information, see the documents filed by LSI with the Securities and Exchange Commission, and specifically the risk factors set forth in the company's most recent reports on Form 10-K and 10-Q. LSI disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Forward-Looking Statements:
+About LSI
+LSI Corporation (NYSE: LSI) designs semiconductors and software that accelerate storage and networking in datacenters and mobile networks. Our technology is the intelligence critical to enhanced application performance. The company applies its technology in solutions created in collaboration with our partners. More information is available at www.lsi.com.
+About SandForce
+SandForce flash storage processors enable ubiquitous deployment of flash memory into primary and I/O intensive data storage applications. SandForce Driven SSDs dramatically optimize mission-critical application reliability, IT infrastructure ROI, green power preservation, and everyday computing user experiences. Founded in 2006, SandForce was initially funded by leading venture capital investors DCM and Storm Ventures and later joined by Translink Capital, and Canaan Partners. More information is available at www.sandforce.com.
+Editor's Notes:
+ 
+ 
+ 
+
+

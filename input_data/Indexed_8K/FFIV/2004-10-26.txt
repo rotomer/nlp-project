@@ -1,0 +1,46 @@
+FILE:FFIV/FFIV-8K-20041026161047.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Financial Statements and Exhibits
+Table of Contents
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Table of Contents
+Item 2.02 Results of Operations and Financial Condition
+On October 26, 2004, F5 Networks, Inc. issued a press release regarding its financial results for the fourth quarter ended September 30, 2004. The press release is attached hereto as Exhibit 99.1. The information in this report shall be deemed incorporated by reference into any registration statement heretofore or hereafter filed under the Securities Act of 1933, as amended, except to the extent that such information is superceded by information as of a subsequent date that is included in or incorporated by reference into such registration statement. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits
+(c) Exhibits:
+99.1 Press Release of F5 Networks, Inc. announcing quarterly earnings dated October 26, 2004.
+Table of Contents
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+FOR IMMEDIATE RELEASE
+SEATTLE, WAOctober 26, 2004F5 Networks, Inc . (NASDAQ: FFIV) today announced revenue of $50.2 million for the fourth quarter of fiscal 2004, up 14 percent from $44.2 million in the prior quarter and 59 percent from $31.6 million in the fourth quarter of fiscal 2003. Fourth quarter net income was $15.8 million ($0.43 per diluted share) compared to net income of $7.4 million ($0.20 per diluted share) in the third quarter and net income of $1.4 million ($0.05 per diluted share) in the fourth quarter a year ago.
+During the quarter, F5 became subject to income taxes on U.S. income and also reversed the valuation allowance on U.S. deferred tax assets. The Company is presenting pro forma net income for the fourth quarter and the fiscal year to eliminate the impact of these items and report the results in a manner that is comparable to previous periods. Pro forma net income was $10.3 million ($0.28 per diluted share), exceeding the target range ($0.20 to $0.22 per share) set by management in the company's July 21st earnings release.
+For fiscal 2004, the company reported record annual revenue of $171.2, up 48 percent from $115.9 million in fiscal 2003. Net income for the year was $33.0 million ($0.92 per diluted share) and pro forma net income was $27.4 million ($0.76 per diluted share) compared to net income of $4.1 million ($0.14 per diluted share) in fiscal 2003. A tabular reconciliation of pro forma differences from actual net income is included on the attached Consolidated Statement of Operations.
+F5 president and chief executive officer John McAdam said the company's record quarterly revenue reflected growing strength in its core business and solid demand for its security products. "During the quarter, overall product and service revenue grew 15 percent and 8 percent respectively, and our gross margin held steady at 77 percent. As a result, the leverage in our business model enabled us to achieve an operating margin of 20 percent, up from 16 percent in the prior quarter and 6 percent in
+ 
+F5 Networks Announces Fourth Quarter and Fiscal 2004 Earnings
+ 
+the fourth quarter of 2003. While our revenue growth derived primarily from strong sales of our core traffic management products and services, we also exceeded both our quarterly and annual revenue targets for our FirePass SSL VPN solution. In addition, we saw a steady ramp in orders for our new generation of BIG-IP products introduced on September 7."
+As a result of strong demand for its new products, McAdam said he expects the company's growth to continue in the first quarter of fiscal 2005. "Interest in the new technology and, in particular, the advanced functionality of BIG-IP version 9 has been growing steadily as customers and partners learn about the full-proxy capabilities of our Traffic Management Operating System (TM/OS) and the flexibility of Version 9's modular architecture."
+"By nearly any measure, Version 9 is a major leap forward that significantly increases our technology leadership and our competitive edge in application traffic management. Along with major performance enhancements, Version 9 delivers advanced functionality integrated in a modular architecture on a single hardware platform. The capability of TM/OS to inspect and manage bi-directional traffic flows, combined with our powerful new iRules and iControl functionality, dramatically reduces the cost and complexity of implementing critical functions necessary to secure, optimize and deliver mission critical applications. Based on the enthusiastic response from our customers and partners, we believe BIG-IP Version 9 will be the biggest factor driving our growth in fiscal 2005."
+In addition to rapid acceptance of F5's new traffic management offerings and continued growth of FirePass, McAdam said he expects TrafficShield, the company's application firewall introduced on October 4, to begin contributing to the company's revenue stream during the current quarter. "With its unique ability to inspect the flow of traffic across multiple packets, TrafficShield's positive security enforcement offers customers protection against application attacks that traditional firewalls and other security devices can't detect or prevent."
+For the first quarter of fiscal 2005the first in which the company's earnings will be fully taxed with no offsetting tax benefitMcAdam said the company has set a revenue target of $52 million to $54 million, with net income in the range of $0.20 to $0.21 per share.
+About F5 Networks
+F5 enables organizations to successfully deliver business-critical applications and gives them the greatest level of agility to stay ahead of growing business demands. As the pioneer and global leader in Application Traffic Management, F5 continues to lead the industry by driving more intelligence into the network to deliver advanced application agility. F5 products ensure the secure and optimized delivery of applications to any user  anywhere. Through its flexible and cohesive architecture, F5
+ 
+F5 Networks Announces Fourth Quarter and Fiscal 2004 Earnings
+ 
+delivers unmatched value by dramatically improving the way organizations serve their employees, customers and constituents, while lowering operational costs. The company is headquartered in Seattle, Washington with offices worldwide. For more information go to www.f5.com.
+Forward Looking Statements
+Statements in this press release concerning growing strength in our core business, demand for new products, interest in new technology in general and in BIG-IP Version 9 in particular, acceptance of new traffic management offerings, growth of FirePass revenue, TrafficShield's contribution to the company's revenue stream and the revenue and net income targets for the first quarter of fiscal 2005 and other statements that are not historical facts are forward-looking statements. Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others: customer acceptance of our new traffic management and security offerings, the timely development, introduction and acceptance of additional new products and features by F5 or its competitors; competitive pricing pressures; increased sales discounts; F5's ability to sustain, develop and effectively utilize distribution relationships; F5's ability to attract, train and retain qualified product development, marketing, sales, professional services and customer support personnel; F5's ability to expand in international markets and the unpredictability of F5's sales cycle. F5 has no duty to update any guidance provided or other matters discussed in this press release. More information about potential risk factors that could affect F5's business and financial results is included in the Company's annual report on Form 10K for the fiscal year ended September 30, 2003, and other public filings with the Securities and Exchange Commission.
+ 
+ 
+
+

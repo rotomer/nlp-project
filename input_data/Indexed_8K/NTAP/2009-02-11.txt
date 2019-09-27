@@ -1,0 +1,80 @@
+FILE:NTAP/NTAP-8K-20090211162530.txt.gz
+EVENTS:	Results of Operations and Financial Condition	Cost Associated with Exit or Disposal Activities	Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers	Financial Statements and Exhibits
+TEXT:
+ITEM: Results of Operations and Financial Condition
+ITEM: Cost Associated with Exit or Disposal Activities
+ITEM: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM: Financial Statements and Exhibits
+Table of Contents
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ 
+ 
+Table of Contents
+Item 2.02 Results of Operations and Financial Condition
+     On February 11, 2009, NetApp, Inc. (the "") issued a press release announcing its earnings for the third quarter of fiscal 2009. The press release is attached as an exhibit to this Current Report on Form 8-K, and the information set forth therein is hereby incorporated by reference into this Item 2.02.
+Company
+     The information in this Item 2.02 and Exhibit 99.1 of Item 9.01 in this Current Report on Form 8-K shall not be deemed "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 2.05 Costs Associated with Exit or Disposal Activities.
+     On February 11, 2009, the Company announced a restructuring of the Company's worldwide operations pursuant to which the Company expects to incur aggregate restructuring charges of approximately $30 million to $35 million in the fourth quarter of fiscal 2009. The restructuring was implemented in response to the worsening global macro-economic conditions and uncertainty about IT spending during the 2009 calendar year. In connection with this restructuring, the Company announced a workforce reduction of approximately 540 employees, or approximately 6%, of the Company's worldwide workforce. Of the aggregate restructuring charges noted above, the Company estimates that it will incur charges of approximately $25 million to $28 million related to termination and severance payments associated with the workforce restructuring, and an estimated additional $5 million to $7 million in lease termination charges and other costs related to the restructuring. Substantially all of the charges will result in future cash payments. The Company expects to complete these restructuring actions before December 31, 2009.
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+Resignation of Director
+On February 9, 2009, Carol Bartz notified the Company that she intends to resign from the Company's Board of Directors, including all committees, prior to the end of the Company's fiscal year. The Company intends to amend its bylaws to reduce the number of positions on the Board of Directors from eleven (11) to ten (10) contemporaneously with the effective date of Ms. Bartz's resignation.
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits.
+     NetApp, Inc.'s February 11, 2009 press release is hereby furnished as Exhibit 99.1 on this Current Report on Form 8-K in connection with the disclosures under Item 2.02 of this Current Report on Form 8-K.
+Table of Contents
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Table of Contents
+
+Exhibit 99.1
+NetApp (NASDAQ: NTAP) today reported results for the third fiscal quarter of 2009. Including the impact of a $128 million accrual to value a contingency related to a dispute with the General Services Administration (GSA), GAAP revenues for the third fiscal quarter of 2009 totaled $746 million compared to GAAP and Non-GAAP revenues of $884 million for the same period a year ago. Non-GAAP revenues for the third fiscal quarter, excluding the impact of the $128 million GSA accrual, totaled $874 million.
+SUNNYVALE, Calif.  February 11, 2009 
+1
+     GAAP net loss for the third quarter of fiscal year 2009 was $75 million, or $0.23 per share compared to GAAP net income of $102 million, or $0.29 per share for the same period in the prior year. Non-GAAP net income for the third fiscal quarter of 2009 was $93 million, or $0.28 per share, compared to non-GAAP net income of $132 million, or $0.37 per share for the same period a year ago.
+2
+3
+     GAAP revenues for the first nine months of the current fiscal year totaled $2.5 billion compared to GAAP and non-GAAP revenues of $2.4 billion for the first nine months of the prior year, an increase of 7% year over year. Non-GAAP revenues for the first nine months of the current fiscal year, excluding the impact of the $128 million GSA accrual, totaled $2.7 billion.
+     GAAP net income for the first nine months of the current fiscal year totaled $11 million, or $0.03 per share, compared to GAAP net income of $220 million, or $0.60 per share for the first nine months of the prior fiscal year. Non-GAAP net income for the first
+ 
+nine months of the current fiscal year totaled $262 million, or $0.78 per share, compared to non-GAAP net income of $324 million, or $0.89 per share for the first nine months of the prior fiscal year.
+     "Business levels softened in January as many customers' budgets contracted, resulting in lower revenues than we had expected. At the same time, our storage efficiency value proposition resonates in challenging economic times, and we gained a record number of new customers during the quarter," said Dan Warmenhoven, chairman and CEO. "Operationally, the NetApp team also did a stellar job, decreasing non-GAAP operating expenses by $30 million in one quarter. However, we needed to make further reductions in order to optimize our resource allocation for our strategic growth initiatives. Therefore, we have implemented a restructuring that unfortunately includes the elimination of approximately 6% of our global workforce. While this was a very difficult decision, we believe our actions will best position the company for additional market share gains in the future."
+Outlook
+Given the reduced visibility caused by the recent changes in the macroeconomic environment, NetApp will not be providing formal revenue guidance for the fourth quarter of fiscal year 2009.
+Quarterly Highlights
+     In the third quarter of fiscal year 2009, NetApp introduced several new solutions to help customers transform their data center architectures through greater storage efficiency, greater
+ 
+power and space savings, and innovative data management techniques. The company also received industry recognition for its environmental, product, and operational excellence.
+     During the quarter, NetApp was ranked number one by magazine on the "100 Best Companies to Work For" list. This is the second year it has achieved a top-10 ranking and the third consecutive year it has been named in the top 15. An egalitarian culture, competitive salaries, unique benefits, and a down-to-earth management style are attributes that have catapulted the company to the number-one spot for 2009. In addition, named NetApp as one of the Top Places to Work in Massachusetts.
+FORTUNE
+The Boston Globe
+     This quarter, NetApp extended its 50% Virtualization Guarantee Program, previously available only for VMware, to Citrix and Microsoft virtual environments. As part of the program, NetApp is offering a guarantee that customers will use 50% less storage with NetApp compared to traditional storage in Citrix XenServer and Microsoft Windows Server Hyper-V virtual environments.
+4
+     Also this quarter, NetApp announced the availability of the FAS3160 and V3160, strengthening its current series of midrange storage offerings. Additionally, the company announced availability of SANscreen 5.0, a new addition to the award-winning SANscreen product suite that provides customers increased storage management capabilities for improved cost savings and data center efficiencies. NetApp also introduced SnapManager 3.0 for Oracle, providing customers who have Oracle Database environments running on NetApp enterprise storage systems significant improvements in backup, restore, and cloning capabilities.
+     NetApp was also recognized by the following third parties for its environmental, product and operational excellence:
+ 
+Webcast and Conference Call Information
+About NetApp
+NetApp creates innovative storage and data management solutions that accelerate business breakthroughs and deliver outstanding cost efficiency. Discover NetApp's passion for helping companies around the world go further, faster at .
+www.netapp.com
+"Safe Harbor" Statement Under U.S. Private Securities Litigation Reform Act of 1995
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include all of the statements under
+ 
+the Outlook section relating to our forecasted operating results and metrics for the fourth quarter of fiscal year 2009, our $128 million contingency for resolution of the GSA dispute and statements regarding our future market share. These forward-looking statements involve risks and uncertainties, and actual results could vary. Important factors that could cause actual results to differ materially from those in the forward-looking statements include the material and adverse global economic and market conditions that currently exist and that are expected to persist throughout calendar 2009, the final outcome of our GSA dispute with the federal government, our ability to build nondeferred backlog to levels consistent with our past results and to increase our revenue over the next several quarters; risks associated with the anticipated growth in network storage and content delivery markets; our ability to deliver new product architectures and enterprise service offerings; competition risks, including our ability to design products and services that compete effectively from a price and performance perspective; risks with new product introductions; our reliance on a limited number of suppliers; our ability to accurately forecast demand for our products and successfully manage our relationships with our contract manufacturers; our ability to expand our direct sales operations and reseller distribution channels; our ability to develop, maintain, and strengthen our relationships and product offerings with strategic partners; risks associated with international operations; our ability to successfully acquire and integrate complementary businesses and technologies; foreign currency exchange rate fluctuations; and other important factors as described in NetApp reports and documents filed from time to time with the Securities and Exchange Commission, including the factors described under the sections captioned "Risk Factors" in our most recently submitted 10-K and 10-Q. We disclaim any obligation to update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise.
+ 
+ 
+NetApp, the NetApp logo Go further, faster, SANscreen, and SnapManager are trademarks or registered trademarks of NetApp, Inc. in the United States and/or other countries. All other brands or products are trademarks or registered trademarks of their respective holders and should be treated as such.
+NetApp Usage of Non-GAAP Financials
+The Company refers to the non-GAAP financial measures cited above in making operating decisions because they provide meaningful supplemental information regarding the Company's operational performance. Non-GAAP revenues excludes the impact of the GSA accrual. These non-GAAP results of operations exclude the reserve for the GSA contingency, restructuring charges, amortization of intangible assets, stock-based compensation expenses, asset impairment, acquisition-related retention costs, prior acquisition-related costs, net gain or loss on investments, and the related effects on income taxes as well as certain discrete GAAP provisions for income tax matters recognized ratably for non-GAAP purposes and the tax effect on sale of investments. We have excluded these items in order to enhance investors' understanding of our ongoing operations. The use of these non-GAAP financial measures has material limitations because they should not be used to evaluate our company without reference to their corresponding GAAP financial measures. As such, we compensate for these material limitations by using these non-GAAP financial measures in conjunction with GAAP financial measures.
+These non-GAAP financial measures facilitate management's internal comparisons to the Company's historical operating results and comparisons to competitors' operating results. We include these non-GAAP financial measures in our earnings announcement because we believe they are useful to investors in allowing for greater transparency with respect to supplemental information used by management in its financial and operational decision making, such as employee compensation planning. In addition, we have historically reported similar non-GAAP financial measures to our investors and believe that the inclusion of comparative numbers provides consistency in our financial reporting at this time.
+NetApp Use of Corporate Web Site
+In accordance with SEC guidance published on August 22, 2008 , NetApp will begin to disseminate material information about the company through its corporate Web site within the next several fiscal quarters. NetApp intends to designate a separate portion of its corporate Web site for purposes of these disclosures and will include a prominent link on its Web site to allow visitors to locate this material information, which will be routinely updated. The Web site will supplement, rather than replace, NetApp's current existing channels of information distribution.
+(Release No. 34-58288)
+ 
+ 
+ 
+ 
+ 
+
+

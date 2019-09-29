@@ -78,8 +78,8 @@ if __name__ == '__main__':
     #print(get_items_of_file(r'C:\code\nlp-project\data\Indexed_8K\LXK\2009-02-26.txt'))
 
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_8K')
-    items_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Items_8K')
+    indexed_8k_dir = os.path.join(current_file_dir_path, '..', '..', 'input_data', 'Indexed_8K')
+    items_8k_dir = os.path.join(current_file_dir_path, '..', '..', 'data', 'Items_8K')
 
     #index_items_of_all_8ks(indexed_8k_dir, items_8k_dir)
 

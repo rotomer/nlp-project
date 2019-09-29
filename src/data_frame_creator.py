@@ -16,7 +16,7 @@ def _get_relevant_eps_data(filing_date, eps_list):
 
 
 def _get_eps_list_from_file(ticker):
-    indexed_eps_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_Eps')
+    indexed_eps_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'Indexed_Eps')
     indexed_eps_file_path = os.path.join(indexed_eps_dir, ticker + '.txt')
 
     eps_list = []
@@ -109,7 +109,7 @@ columns = ['Ticker',
 
 
 def _get_prices_for_ticker(ticker):
-    price_history_dir = os.path.join(current_file_dir_path, '..', 'data', 'price_history')
+    price_history_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'price_history')
     price_history_file_path = os.path.join(price_history_dir, ticker + '.csv')
 
     open_prices_dict = {}

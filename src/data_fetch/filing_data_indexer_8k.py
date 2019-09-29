@@ -47,8 +47,8 @@ def _output_text_to_file(output_dir, ticker, date, text):
 
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_8K')
-    input_8k_dir = os.path.join(current_file_dir_path, '..', 'data', '8K', '')
+    indexed_8k_dir = os.path.join(current_file_dir_path, '..', '..', 'input_data', 'Indexed_8K')
+    input_8k_dir = os.path.join(current_file_dir_path, '..', '..', 'data', '8K', '')
 
     for file_name in os.listdir(input_8k_dir):
         #if file_name == 'AAPL':

@@ -60,7 +60,7 @@ def _take(n, iterable):
 
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    master_dict_file_path = os.path.join(current_file_dir_path, '..', 'data', 'Sentiment_Dictionary',
+    master_dict_file_path = os.path.join(current_file_dir_path, '..', 'input_data', 'Sentiment_Dictionary',
                                          'LoughranMcDonald_MasterDictionary_2018.csv')
 
     master_dict = MasterDictionary.from_file(master_dict_file_path)

@@ -44,10 +44,10 @@ def _create_prediction_data_file(tickers, prediction_horizon_in_days):
 def _append_rows_to_csv(prediction_data_file, ticker, prediction_horizon_in_days):
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
 
-    indexed_eps_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_Eps')
+    indexed_eps_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'Indexed_Eps')
     indexed_eps_file_path = os.path.join(indexed_eps_dir, ticker + '.txt')
 
-    price_history_dir = os.path.join(current_file_dir_path, '..', 'data', 'price_history')
+    price_history_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'price_history')
     price_history_file_path = os.path.join(price_history_dir, ticker + '.csv')
 
     sentiment_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Sentiment_8K')

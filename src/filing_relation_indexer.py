@@ -1,6 +1,6 @@
 import os
 
-from src.filing_8k_item_indexer import get_items_of_file
+from src.data_fetch.filing_8k_item_indexer import get_items_of_file
 from src.stanford_nlp_invoker import index_relations_for_file
 
 INTERESTING_ITEMS = {'Item 5.02'}
@@ -52,7 +52,7 @@ def index_relations(indexed_8k_dir, relations_8k_dir):
 
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_8K')
+    indexed_8k_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'Indexed_8K')
     relations_8k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Relations_8k')
 
     index_relations(indexed_8k_dir, relations_8k_dir)

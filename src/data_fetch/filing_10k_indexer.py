@@ -42,7 +42,7 @@ def index_10k_data(input_file_path, output_dir):
 
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_10k_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_10K')
+    indexed_10k_dir = os.path.join(current_file_dir_path, '..', '..', 'input_data', 'Indexed_10K')
     input_10k_dir = os.path.join(current_file_dir_path, '..', '..', '10K-MDA-Section', 'statements')
 
     for file_name in os.listdir(input_10k_dir):

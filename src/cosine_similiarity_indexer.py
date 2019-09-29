@@ -56,7 +56,7 @@ def index_cosine_for_ticker(cosine_index_file, filing_ticker_folder_path):
 
 def index_cosine_similarities():
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    filing_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_10K')
+    filing_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'Indexed_10K')
     cosine_dir = os.path.join(current_file_dir_path, '..', 'data', 'Cosine_10K')
 
     if not os.path.exists(cosine_dir):

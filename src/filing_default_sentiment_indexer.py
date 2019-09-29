@@ -24,7 +24,7 @@ def _index_sentiment_data(ticker, input_dir, output_dir):
 
 def index_sentiment(filing_number):
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_filing_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_' + filing_number + 'K')
+    indexed_filing_dir = os.path.join(current_file_dir_path, '..', 'input_data', 'Indexed_' + filing_number + 'K')
     sentiment_filing_dir = os.path.join(current_file_dir_path, '..', 'data', 'Sentiment_' + filing_number + 'K')
 
     if not os.path.exists(sentiment_filing_dir):

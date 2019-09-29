@@ -26,8 +26,8 @@ def index_eps_data(input_file_path, output_dir):
 
 if __name__ == '__main__':
     current_file_dir_path = os.path.dirname(os.path.realpath(__file__))
-    indexed_eps_dir = os.path.join(current_file_dir_path, '..', 'data', 'Indexed_EPS')
-    input_eps_dir = os.path.join(current_file_dir_path, '..', 'data', 'EPS')
+    indexed_eps_dir = os.path.join(current_file_dir_path, '..', '..', 'input_data', 'Indexed_EPS')
+    input_eps_dir = os.path.join(current_file_dir_path, '..', '..', 'data', 'EPS')
 
     if not os.path.exists(indexed_eps_dir):
         os.makedirs(indexed_eps_dir)

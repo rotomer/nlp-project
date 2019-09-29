@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b147f6-3d4f-4907-8b82-5157bdbc475e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_fetch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/ProjectNLP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/images/accuracy_figure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/images/f1_figure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/nlp_project.sty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/nlp_project.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latex/refs.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cosine_similiarity_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cosine_similiarity_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/create_download_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/create_download_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_frame_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_frame_creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eps_data_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/eps_data_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eps_prediction_data_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/eps_prediction_data_creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_10k_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/filing_10k_downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_10k_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/filing_10k_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_8k_item_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/filing_8k_item_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_data_indexer_8k.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_fetch/filing_data_indexer_8k.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_default_sentiment_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/filing_default_sentiment_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_relation_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/filing_relation_indexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filing_sentiment_8k_prediction_data_creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/filing_sentiment_8k_prediction_data_creator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/master_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/master_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pipeline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/specialized_sentiment_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/specialized_sentiment_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/full_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/full_pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/management_departure_indexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/management_departure_indexer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,29 +24,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/full_pipeline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4563">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/filing_sentiment_8k_prediction_data_creator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1809">
-              <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+            <state relative-caret-position="60">
+              <caret line="320" column="17" selection-start-line="320" selection-start-column="4" selection-end-line="320" selection-end-column="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gradient_boosting_predictor.py">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/model_selection/_split.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3332">
-              <caret line="196" column="8" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
+            <state relative-caret-position="71">
+              <caret line="2093" selection-start-line="2093" selection-end-line="2093" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cosine_similiarity_indexer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -64,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/management_departure_indexer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2431">
-              <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+            <state relative-caret-position="237">
+              <caret line="150" column="20" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="20" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -74,33 +79,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/master_dictionary.py">
+        <entry file="file://$PROJECT_DIR$/src/data_frame_creator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
+            <state relative-caret-position="6168">
+              <caret line="454" column="71" selection-start-line="454" selection-start-column="69" selection-end-line="454" selection-end-column="71" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simple_encoder.py">
+        <entry file="file://$PROJECT_DIR$/src/filing_default_sentiment_indexer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-755">
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/specialized_sentiment_analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
-              <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
+            <state relative-caret-position="105">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -111,7 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stanford_nlp_invoker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -120,21 +115,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/text_lemmatizer.py">
+        <entry file="file://$PROJECT_DIR$/src/filing_relation_indexer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="216">
+              <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="53" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tickers.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/specialized_sentiment_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2897" />
+            <state relative-caret-position="71">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -169,6 +169,7 @@
       <find>hori</find>
       <find>target_column_name</find>
       <find>8</find>
+      <find>av</find>
       <find>split</find>
     </findStrings>
   </component>
@@ -178,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/Indexed_10K/ABC/2010-11-23.txt" />
         <option value="$PROJECT_DIR$/data/Indexed_10K/ABC/2009-11-25.txt" />
         <option value="$PROJECT_DIR$/data/Indexed_10K/ABC/2008-11-25.txt" />
         <option value="$PROJECT_DIR$/data/Indexed_10K/ABC/2007-11-28.txt" />
@@ -211,12 +211,9 @@
         <option value="$PROJECT_DIR$/data/Indexed_10K/A/2010-12-20.txt" />
         <option value="$PROJECT_DIR$/data/Indexed_10K/A/2011-12-16.txt" />
         <option value="$PROJECT_DIR$/data/Indexed_10K/A/2012-12-20.txt" />
-        <option value="$PROJECT_DIR$/src/management_departure_indexer.py" />
         <option value="$PROJECT_DIR$/data/Data_Frames/relations_cosine_specialized_sentiment.csv" />
         <option value="$PROJECT_DIR$/src/gradient_boosting_predictor.py" />
-        <option value="$PROJECT_DIR$/src/full_pipeline.py" />
         <option value="$PROJECT_DIR$/src/cosine_similiarity_indexer.py" />
-        <option value="$PROJECT_DIR$/src/data_frame_creator.py" />
         <option value="$PROJECT_DIR$/src/eps_prediction_data_creator.py" />
         <option value="$PROJECT_DIR$/src/filing_8k_item_indexer.py" />
         <option value="$PROJECT_DIR$/src/data_fetch/eps_data_indexer.py" />
@@ -229,6 +226,10 @@
         <option value="$PROJECT_DIR$/src/master_dictionary.py" />
         <option value="$PROJECT_DIR$/src/pipeline.py" />
         <option value="$PROJECT_DIR$/src/specialized_sentiment_analysis.py" />
+        <option value="$PROJECT_DIR$/src/data_frame_creator.py" />
+        <option value="$PROJECT_DIR$/src/management_departure_indexer.py" />
+        <option value="$PROJECT_DIR$/src/full_pipeline.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -243,12 +244,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="nlp-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp-project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nlp-project" type="b2602c69:ProjectViewProjectNode" />
@@ -270,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -468,23 +474,30 @@
       <option name="project" value="LOCAL" />
       <updated>1569721699167</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Some cleanups">
+      <created>1569722653329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569722653329</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29626688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23034154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4980143" weight="0.25886524" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6505163" weight="0.17082179" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6505163" weight="0.35460994" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49722" visible="true" weight="0.17907801" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49722" visible="true" weight="0.68971634" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34948373" side_tool="true" weight="0.5407801" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.31205675" />
@@ -539,29 +552,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/full_pipeline.py</url>
-          <line>276</line>
+          <line>287</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/full_pipeline.py</url>
-          <line>203</line>
+          <line>184</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/full_pipeline.py</url>
-          <line>214</line>
+          <line>195</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/Sentiment_10K/A.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/Sentiment_10K/AAPL.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
@@ -669,13 +676,6 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="1997" column="4" selection-start-line="1997" selection-start-column="4" selection-end-line="1997" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/internals/blocks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51119">
@@ -720,31 +720,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cosine_similiarity_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="59" column="63" lean-forward="true" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cik_fetcher.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_frame_creator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7650">
-          <caret line="111" column="73" selection-start-line="111" selection-start-column="73" selection-end-line="111" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -763,26 +743,6 @@
         <state relative-caret-position="-408">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eps_prediction_data_creator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_fetch/eps_data_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -839,52 +799,7 @@
     <entry file="file://$PROJECT_DIR$/src/filing_8k_items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/filing_default_sentiment_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/filing_relation_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="54" column="70" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/filing_sentiment_8k_pipeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/filing_sentiment_8k_prediction_data_creator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1809">
-          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/full_pipeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4563">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeline.py" />
     <entry file="file://$PROJECT_DIR$/src/gradient_boosting_predictor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3332">
@@ -895,22 +810,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/management_departure_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeline.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/master_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="1054">
           <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -920,35 +822,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simple_encoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-755">
+        <state>
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/specialized_sentiment_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stanford_nlp_invoker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/text_lemmatizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="357">
           <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -957,8 +840,142 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tickers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eps_prediction_data_creator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2897" />
+        <state relative-caret-position="266">
+          <caret line="130" column="25" lean-forward="true" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_fetch/eps_data_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filing_sentiment_8k_pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filing_sentiment_8k_prediction_data_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1825">
+          <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stanford_nlp_invoker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filing_relation_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/management_departure_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="150" column="20" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_frame_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6168">
+          <caret line="454" column="71" selection-start-line="454" selection-start-column="69" selection-end-line="454" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="2093" selection-start-line="2093" selection-end-line="2093" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filing_default_sentiment_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/specialized_sentiment_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cosine_similiarity_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/full_pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="320" column="17" selection-start-line="320" selection-start-column="4" selection-end-line="320" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>
